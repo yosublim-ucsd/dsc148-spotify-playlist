@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-208 songs - 12 hr 54 min
+209 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 | 2022-03-11 |  |
 | [Calavera \(La Muerte Del Sol\)](https://open.spotify.com/track/3U5mJt1WYp8kL4wbPeJHU0) | [El Nuevo Coyote](https://open.spotify.com/artist/1XcjJuafqRaNMPisoNzBkL) | [Calavera \(La Muerte Del Sol\)](https://open.spotify.com/album/03sWwIEieherBO2lwLip1b) | 3:16 | 2022-03-11 | 2022-07-17 |
 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 | 2022-03-11 | 2022-07-28 |
+| [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 | 2023-04-14 |  |
 | [Cangrejo](https://open.spotify.com/track/7aeuKL6jqMwBsDLAUumw8n) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Regular](https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ) | 2:42 | 2022-03-11 | 2023-07-30 |
 | [Casa de Turistas](https://open.spotify.com/track/1jWPbu2iP9JAArR3uUAeID) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [Casa de Turistas](https://open.spotify.com/album/3yrjCHkh641BgVkT1oYy5A) | 3:17 | 2022-03-11 | 2022-07-16 |
 | [Cheap Universe](https://open.spotify.com/track/2FnFyaDiJ5urwJHA0ENvZJ) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cheap Universe](https://open.spotify.com/album/6pfD8h8RpX8EZPPxb4WsNE) | 3:14 | 2022-03-11 | 2022-10-01 |
@@ -103,7 +104,7 @@
 | [LA KAGASTE](https://open.spotify.com/track/397xwirGVub2jfXfHlJnha) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [LA KAGASTE](https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU) | 2:37 | 2022-10-01 | 2022-10-14 |
 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2022-03-11 |  |
 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 | 2022-03-11 | 2022-07-29 |
-| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 |  |
+| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 | 2023-08-12 |
 | [Lenguaje de Mi Piel](https://open.spotify.com/track/2OzYLQAGN7VY1e3HEkvlzU) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Piel de Cobre](https://open.spotify.com/album/4zYOTjZnyKCWLfqi91QbTx) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Lobo Hombre en Paris](https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:47 | 2022-06-24 |  |
 | [Lobo Hombre en París](https://open.spotify.com/track/5b7PX1tG1RQ9msIRtXHalE) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:49 | 2022-03-11 | 2022-07-29 |

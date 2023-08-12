@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-522 songs - 1 day 0 hr 28 min
+523 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Gettin' Loud \(Test Me\)](https://open.spotify.com/track/4agzaTHNJHZTK70o7uGN0k) | [Lady P](https://open.spotify.com/artist/4yVocr17DY0z90x7Ju8aRz) | [Gettin' Loud \(Test Me\)](https://open.spotify.com/album/0ofCKY0GesHrid04WJYohB) | 3:20 | 2023-03-30 | 2023-06-16 |
 | [Gimme the Loot](https://open.spotify.com/track/1GQbMAJgzPani9PABvKOeE) | [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL) | [Gimme the Loot](https://open.spotify.com/album/3YEtjnabazF7WyW0k1wbtM) | 3:14 | 2022-03-21 | 2022-03-25 |
 | [Go \(Xtayalive 2\)](https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [Go \(Xtayalive 2\)](https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi) | 1:46 | 2023-04-27 | 2023-06-30 |
+| [Go Getta](https://open.spotify.com/track/14XOgXJMI89O2I6KCTh089) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [Go Getta](https://open.spotify.com/album/3SWkyJ4qVYj0VzVV6VhGbd) | 2:40 | 2023-08-10 |  |
 | [Go Gettaz](https://open.spotify.com/track/34Kt6A0kctf8J65iOwJbZs) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [Go Gettaz](https://open.spotify.com/album/28TaD1I7rQBkBKxKWGNQJK) | 2:32 | 2022-09-09 | 2023-03-10 |
 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 | 2022-03-21 | 2022-09-23 |
 | [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 | 2022-11-11 |

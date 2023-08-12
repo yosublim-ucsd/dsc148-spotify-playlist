@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "afro futurism",
+      "url": "https://open.spotify.com/track/5FcA47Od6WdI9PgaGeerQ1"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/2xdsksBP1s8oSPO9IbFori"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 131031,
       "name": "Alter Call",
       "url": "https://open.spotify.com/track/4HbIILmQa8p9buZqxfBChP"
@@ -1152,6 +1170,32 @@
       "duration_ms": 212800,
       "name": "Ballin in Newport (with Omen)",
       "url": "https://open.spotify.com/track/1KsHmftDAysEtLpDK1o6Y9"
+    },
+    {
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "album": {
@@ -1923,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "Porches",
+        "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Junii",
+          "url": "https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "Call Me! (Ft. Junii)",
+      "url": "https://open.spotify.com/track/7JHYTu5adz0c15j8BLimuT"
+    },
+    {
+      "album": {
         "name": "Callin' All My Children",
         "url": "https://open.spotify.com/album/2r8q8lWjoaBRQpQvLPsEqt"
       },
@@ -2024,6 +2090,24 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "album": {
+        "name": "Catch This Fade",
+        "url": "https://open.spotify.com/album/3Hvq6VhqTKxzZIkzkBYXC7"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Catch This Fade",
+      "url": "https://open.spotify.com/track/2ThBzYbBU4b4jskdsLafTF"
     },
     {
       "album": {
@@ -2286,7 +2370,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 212977,
       "name": "Cleanse",
       "url": "https://open.spotify.com/track/0pL5FkotNaqETehRvpKYeW"
@@ -3516,7 +3600,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 158293,
       "name": "Droptop",
       "url": "https://open.spotify.com/track/7AgRtQo1mUGB4xUoa5caTu"
@@ -5178,7 +5262,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 255996,
       "name": "Hell Of A Feeling (feat. LaRussell)",
       "url": "https://open.spotify.com/track/7ijT5izrqUYkiVU7nBmPt9"
@@ -9047,6 +9131,28 @@
     },
     {
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/5UiSftvU7SPmgCsz4gCPX6"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135348,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/702jqUrz5uHhhW2D47pkXE"
+    },
+    {
+      "album": {
         "name": "BAG TALK DELUXE",
         "url": "https://open.spotify.com/album/4AvSfougaFVvHJDVB3w0Or"
       },
@@ -9110,7 +9216,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 255288,
       "name": "Risky",
       "url": "https://open.spotify.com/track/0WuH9YPPEnl75JyMIgXuiW"
@@ -11845,6 +11951,28 @@
     },
     {
       "album": {
+        "name": "Tracing Patterns (Deluxe)",
+        "url": "https://open.spotify.com/album/14RZ4GhZ4RCloqxIb6h0ke"
+      },
+      "artists": [
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163285,
+      "name": "Wavelength",
+      "url": "https://open.spotify.com/track/71I898VJ6gVLQgkYxLuSO9"
+    },
+    {
+      "album": {
         "name": "Way Too Bossy",
         "url": "https://open.spotify.com/album/4klMbfXn50kzHf4ieblG1G"
       },
@@ -12084,7 +12212,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 200933,
       "name": "where's the confetti?",
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"

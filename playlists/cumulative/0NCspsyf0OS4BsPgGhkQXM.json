@@ -5071,6 +5071,28 @@
     },
     {
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Wales",
+          "url": "https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4pvWt924QkOKQmdpWLvVBg"
+    },
+    {
+      "album": {
         "name": "Fight for It",
         "url": "https://open.spotify.com/album/6fvKeq1LJDFhU5RB0d1KGG"
       },
@@ -14061,6 +14083,28 @@
     },
     {
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Wales",
+          "url": "https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197294,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3n1La9z2eJAP5BXwTD1bdr"
+    },
+    {
+      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -15264,6 +15308,24 @@
       "duration_ms": 214698,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/64SRXE4aBC9Rrxa8OcoLey"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/6aORbbnHLOmSV5mPfpafRw"
+      },
+      "artists": [
+        {
+          "name": "Martron",
+          "url": "https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139494,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2XuNo4HezffkUpilOZVB2M"
     },
     {
       "album": {

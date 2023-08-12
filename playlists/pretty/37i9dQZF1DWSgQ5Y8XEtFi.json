@@ -1,48 +1,132 @@
 {
   "description": "songs that break bones",
-  "num_followers": 201043,
+  "num_followers": 201109,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzE5NThjNzU4ZDI2NWQ1ZWYyNjJkZDc2YzFmZjAxZjhmOTRkYzI3",
+  "snapshot_id": "MCxiNDc1Yzk1YWViZTJkMjI3YzMzZDhmNjFmYzdmY2QzNTNlNzk2MDUy",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "2 WORDS",
+        "url": "https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "2 WORDS",
+      "url": "https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "GUMDROP",
+        "url": "https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 69155,
+      "name": "GUMDROP",
+      "url": "https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG"
+    },
     {
       "added_at": "2023-07-31 15:22:49",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "MID AIR",
+        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
         }
       ],
-      "duration_ms": 255412,
-      "name": "MODERN JAM (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/4rQctW9wwme9H2Fyq5bFMq"
     },
     {
-      "added_at": "2023-06-01 18:45:33",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+        "name": "your armour will not protect me",
+        "url": "https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
         }
       ],
-      "duration_ms": 136572,
-      "name": "vent",
-      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
+      "duration_ms": 130591,
+      "name": "your armour will not protect me",
+      "url": "https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0"
+    },
+    {
+      "added_at": "2023-07-31 15:23:31",
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -83,42 +167,6 @@
       "duration_ms": 203533,
       "name": "NOSEDIVE (feat. Jean Dawson)",
       "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
-    },
-    {
-      "added_at": "2023-07-31 15:23:31",
-      "album": {
-        "name": "Silent Assassin",
-        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 127880,
-      "name": "Silent Assassin",
-      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
-    },
-    {
-      "added_at": "2023-07-31 15:22:49",
-      "album": {
-        "name": "MID AIR",
-        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "PANIC!!!",
-      "url": "https://open.spotify.com/track/4rQctW9wwme9H2Fyq5bFMq"
     },
     {
       "added_at": "2023-06-01 18:45:33",
@@ -177,6 +225,26 @@
       "url": "https://open.spotify.com/track/20PawGmohv8qxIpi04ElQu"
     },
     {
+      "added_at": "2023-07-31 15:22:49",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 255412,
+      "name": "MODERN JAM (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
+    },
+    {
       "added_at": "2023-04-11 14:55:07",
       "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
@@ -197,20 +265,20 @@
       "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
+      "added_at": "2023-06-01 18:45:33",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+      "duration_ms": 136572,
+      "name": "vent",
+      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
     },
     {
       "added_at": "2023-04-27 20:36:18",

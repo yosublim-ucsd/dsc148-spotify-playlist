@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-225 songs - 13 hr 53 min
+226 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cattle in the Cane](https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:32 | 2022-07-22 |  |
 | [Cellopickin'](https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux) | [William Jack](https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK) | [Cellopickin'](https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva) | 3:16 | 2022-07-29 | 2023-05-20 |
 | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs) | 8:03 | 2021-12-03 | 2023-06-03 |
-| [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 | 2022-07-15 |  |
+| [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 | 2022-07-15 | 2023-08-12 |
 | [Chemical Plant Zone](https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3), [Jo Cleary](https://open.spotify.com/artist/4T2E85yw2EpDhmxN0wvAZg) | [Chemical Plant Zone](https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr) | 3:20 | 2023-06-16 |  |
 | [Cheyenne](https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB) | [The Bluegrass Album Band](https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 3:30 | 2021-12-03 | 2023-02-25 |
 | [Choctaw Hayride \- Live](https://open.spotify.com/track/1gdcr3HD7QGSWZF81hUPjb) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Alison Krauss + Union Station Live](https://open.spotify.com/album/0No6JKIbnsFWvMjhaGQVhQ) | 3:25 | 2021-12-03 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [Creatures of Havoc](https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:52 | 2022-04-29 |  |
 | [Cripple Creek](https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Just Around the Bend: Survival and Revival in Southern Banjo Sounds \- Mike Seeger's Last Documentary](https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg) | 1:26 | 2022-12-03 |  |
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
+| [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 |  |
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2022-07-15 | 2023-06-01 |
 | [Cup & Porch](https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Cup & Porch](https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A) | 3:38 | 2022-01-21 | 2022-11-01 |
 | [Dawg's Rag](https://open.spotify.com/track/7o78yDNCBi29mKHaZ3k96E) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The David Grisman Quintet](https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq) | 8:58 | 2021-12-03 | 2022-07-23 |

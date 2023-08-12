@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > ¡A rockear con los titanes de Perú! Foto: Afrodisiaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,813 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,875 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 50 | [Solo Estoy](https://open.spotify.com/track/7zvUaHQrp6Pr3UG743kmP5) | [Los York's](https://open.spotify.com/artist/5fOfpeBPZeyWDHPOHA8UY5) | [El Viaje 1966\-1971](https://open.spotify.com/album/0rhBP0kJsvRzIAbytOySyw) | 4:36 |
 | 51 | [Oirán Tu Voz, Oirán Nuestra Voz](https://open.spotify.com/track/50MinBuDveXXwAagB1wtC1) | [Leusemia](https://open.spotify.com/artist/35BTdhvVMG0JrhFriUiT0U) | [Más Peruanos Que el Rock, Vol\. 2](https://open.spotify.com/album/7nFEFppkVpb6SYDDnBFqjJ) | 3:35 |
 | 52 | [Otra Mejor Que Tú](https://open.spotify.com/track/5gUp2GYPSZulV3q5ilvY7a) | [Los Datsuns](https://open.spotify.com/artist/7mLWJvI7Qjetu2WJZbz96L) | [Ritmo y Movimiento Con los Datsun´s](https://open.spotify.com/album/3OzwNkPFtLV2Mytl1f5Oc4) | 2:41 |
-| 53 | [Soledad](https://open.spotify.com/track/5ydFRIeNY2evR79eae0Ur2) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Crónicas del Rock Peruano, Vol\. 3](https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx) | 3:41 |
+| 53 | [Soledad](https://open.spotify.com/track/0bYlL7XNEvLC34f53mmqEO) | [Indigo](https://open.spotify.com/artist/4Hy7H79rnIljAwnwDtislK) | [Indigo](https://open.spotify.com/album/10PdZeHhCFhOekUFsuNHlM) | 3:43 |
 | 54 | [Gris](https://open.spotify.com/track/1xDTqhyb1FhvhCGjcaW6j5) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:18 |
 | 55 | [El Umbral](https://open.spotify.com/track/4A8FFbP2EEW5blEINK0PF8) | [Plutonio de Alto Grado](https://open.spotify.com/artist/5E1vOnaDVuBXGt21yY7f01) | [Desvío Alcázar](https://open.spotify.com/album/4QuDEdQx24FbtN6YtfmfwT) | 3:44 |
 | 56 | [Fugitivos](https://open.spotify.com/track/1AfCj3oLpV8sX8tv65s5zg) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Fugitivos](https://open.spotify.com/album/3ukqeYP9wEZQ7E4RcwuhCd) | 3:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 | 59 | [Confusión](https://open.spotify.com/track/6SiQcAM3WKVf9eP2WQZ0Ok) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Confusión](https://open.spotify.com/album/39JBhk7OBHt3Zv61nZcFte) | 2:46 |
 | 60 | [Los Finos](https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:08 |
 
-Snapshot ID: `MCwyNmEzZmJiMWVjNDA5ZGYyYzg5YTdlOTRmNjA1YTAxYjA5YzUzZjEx`
+Snapshot ID: `MCw2YmNjMjMzMDcwMzAzMjMyMTk1ZjdhYjlhNjIzNjllZDY2MzMxODQ0`

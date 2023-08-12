@@ -1,12 +1,12 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1161475,
+  "num_followers": 1161743,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Q4MTljZGMwZDhiMWFhYzQ4ODNlN2ExODVkNjljZDkyNTk1ZDUx",
+  "snapshot_id": "MCw0ODQ2ZjlhMmY1ZmViODZiYTljYmE4ZDhiNDllMTgzOGRhNDkxZTc1",
   "tracks": [
     {
       "added_at": "2022-07-05 09:02:20",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Get Up (Rattle) [feat. Far East Movement]",
         "url": "https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 166932,
       "name": "Get Up (Rattle) [feat. Far East Movement] - Vocal Edit",
       "url": "https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
     },
     {
       "added_at": "2022-07-05 09:02:20",

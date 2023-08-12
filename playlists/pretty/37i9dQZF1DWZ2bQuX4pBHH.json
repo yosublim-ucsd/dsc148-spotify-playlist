@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 226848,
+  "num_followers": 226918,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTBlMDQ4ZjgwMmY3MmE3NTgwNjQyNGM2MzNjOTVmMzhjNGU2YjFl",
+  "snapshot_id": "MCxjN2JjMTllMGM1MTI4YjVkNTE0YzUxZTIyYjZkODhjYzdiNTJiYjNi",
   "tracks": [
     {
       "added_at": "2023-07-31 07:28:09",
@@ -896,21 +896,17 @@
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "Anuradha",
-          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
-        },
-        {
-          "name": "Chandralekha Annupamaa",
-          "url": "https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv"
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
         }
       ],
-      "duration_ms": 405706,
-      "name": "Dil Se Re",
-      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
+      "duration_ms": 349493,
+      "name": "Ae Ajnabi",
+      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
     },
     {
       "added_at": "2023-07-31 07:28:09",
@@ -984,17 +980,21 @@
       },
       "artists": [
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+          "name": "Anuradha",
+          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
+        },
+        {
+          "name": "Chandralekha Annupamaa",
+          "url": "https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv"
         }
       ],
-      "duration_ms": 349493,
-      "name": "Ae Ajnabi",
-      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
+      "duration_ms": 405706,
+      "name": "Dil Se Re",
+      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
     },
     {
       "added_at": "2023-07-31 07:28:09",

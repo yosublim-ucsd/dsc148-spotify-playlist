@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WvunxF0tu8.md) - [plain]
 
 > Revisit some of Bill's latest conversations with celebrities, athletes, and media staples.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwwNTkwZTE1ZjE4YjVmMDJmZjFjYmFkZTExY2NiNDBjN2JjMmNkZDk0`
+Snapshot ID: `MCxlNzA5MTg4NDNlYjc1YWEyY2VjM2ZkYzE1ZGRkMThmNjFjYmRhNGY3`

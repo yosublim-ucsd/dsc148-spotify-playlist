@@ -1,15 +1,31 @@
 {
-  "description": "Trap de la isla, con YOVNGCHIMI en portada.",
-  "num_followers": 4928,
+  "description": "Trap de la isla, con Dei V en portada.",
+  "num_followers": 5013,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjNkMDZlMzAxZTgyZWMzOGZjZTBkNzhmNDc1NGYxNDc4YTA1NDIw",
+  "snapshot_id": "MCw4NjgwNDY0N2MxYTE0ZDYyYWY0NWIzMDhhMGZkZGUxNDRkODI3YWZj",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -29,7 +45,23 @@
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Full of Diamonds",
+        "url": "https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Full of Diamonds",
+      "url": "https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
@@ -69,23 +101,7 @@
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Full of Diamonds",
-        "url": "https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Full of Diamonds",
-      "url": "https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Lisa",
         "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
         "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Mbappe",
-      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Pacto (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
@@ -193,7 +193,23 @@
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
         "url": "https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
@@ -301,27 +317,7 @@
       "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
@@ -341,23 +337,7 @@
       "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Toda Remix",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
@@ -389,7 +369,7 @@
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
@@ -405,10 +385,10 @@
       "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Triste Verano",
-        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
       "artists": [
         {
@@ -416,16 +396,32 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Triste Verano",
-      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) [Remix]",
         "url": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
@@ -477,23 +473,7 @@
       "url": "https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "BOOKER T",
-      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
@@ -525,7 +505,7 @@
       "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Big Booty",
         "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
@@ -549,7 +529,7 @@
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Sexto Sentido (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
@@ -569,7 +549,27 @@
       "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
@@ -625,23 +625,23 @@
       "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
@@ -665,7 +665,23 @@
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "6PM EN MALLORCA",
+        "url": "https://open.spotify.com/album/0TFsABRaWVVS30lrRnD3Un"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 144583,
+      "name": "6PM EN MALLORCA",
+      "url": "https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Super Jon-Z (Residente Challenge)",
         "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
@@ -681,23 +697,7 @@
       "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208079,
-      "name": "Estamos Bien",
-      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "On Fleek",
         "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Baby Father 2.0 (feat. Myke Towers, Arc\u00e1ngel, \u00d1engo Flow and Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Living Life",
         "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
@@ -845,7 +845,23 @@
       "url": "https://open.spotify.com/track/74WOZ17ERaFrHXYtSid13p"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208079,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2OWVCFTolecLiGZPquvWvT"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Vendetta",
         "url": "https://open.spotify.com/album/2zsx2z1koXU4IxPMyQyOPs"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/38ffA391ieDQV6YQSHG5aZ"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "LUKEANDO",
         "url": "https://open.spotify.com/album/16gcnqKh83gvfUSdNrpWKM"
@@ -881,7 +897,23 @@
       "url": "https://open.spotify.com/track/6wvl4xyrmllgSXlHMLUAPo"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
@@ -901,23 +933,7 @@
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Los Bo",
         "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
@@ -965,23 +981,7 @@
       "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "El 6EI66EI6",
-        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 62675,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/5nEmgosapXMhKgPvEpVbPY"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
@@ -997,7 +997,23 @@
       "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "El 6EI66EI6",
+        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 62675,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/5nEmgosapXMhKgPvEpVbPY"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/1RdPNJjLXGZkHEUjROUoM0"
@@ -1065,43 +1081,23 @@
       "url": "https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 210500,
-      "name": "SALVAJE",
-      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"

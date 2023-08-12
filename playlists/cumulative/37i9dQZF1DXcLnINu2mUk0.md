@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-389 songs - 21 hr 12 min
+390 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 | 2023-06-29 | 2023-07-21 |
 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter Ls](https://open.spotify.com/artist/6tUbiFgsJZ1mTC4XU7EIAW) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 | 2022-10-27 | 2022-11-18 |
 | [Katrina](https://open.spotify.com/track/5YDwsOw12TSkpjNT57YvgG) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Latência](https://open.spotify.com/album/4V3IpiTNQowJOxQv4oTzH3) | 3:49 | 2023-02-10 | 2023-03-02 |
+| [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 | 2023-08-10 |  |
 | [Lagrimas na Chuva](https://open.spotify.com/track/51byFLUe5raxXpa0ev0sFU) | [Ndozzi](https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2), [Famoso](https://open.spotify.com/artist/7Gyjz5usu308wBX2hZjbrc) | [Lagrimas na Chuva](https://open.spotify.com/album/6cknxnSfqXYtqNdSI0F3Yh) | 2:52 | 2022-07-07 | 2022-08-06 |
 | [Layah](https://open.spotify.com/track/7mHRrnFWPKD0a6fYrfsSYl) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef) | [Layah](https://open.spotify.com/album/5Q6KIhKt5QIkM02pzZ6fUS) | 2:49 | 2022-07-07 | 2022-07-22 |
 | [Lean](https://open.spotify.com/track/6tfaKwxYh25nFT5hbOA4cd) | [Luxy](https://open.spotify.com/artist/6RiGCtMzCmL51X6svOnC4H), [sugar.mp3](https://open.spotify.com/artist/4xivi2yulyDFk5kmcptIr2), [ZéVi](https://open.spotify.com/artist/4qEFSJ8V6S175lG0pWKMwI) | [Lean](https://open.spotify.com/album/3J5HLdkjp96rs8VewgMrND) | 3:05 | 2023-01-06 | 2023-01-09 |
@@ -363,7 +364,7 @@
 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 | 2022-07-07 |  |
 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 | 2023-04-13 | 2023-06-30 |
 | [Tudo Mudou](https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP) | [Marcelo](https://open.spotify.com/artist/4vtDYMpNi4ZFBGjOie9rwM), [URG](https://open.spotify.com/artist/7kKEaWgCxK4lLwnrmsDZDL) | [Tudo Mudou](https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY) | 3:52 | 2022-09-29 | 2022-10-14 |
-| [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 | 2023-08-10 |  |
+| [Tudo Se Repete](https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su) | [Miguel](https://open.spotify.com/artist/7a4kyJ95ewEhOmBeDFH5Qz) | [Tudo Se Repete](https://open.spotify.com/album/4brC0gox7AtKcndkkHhhpe) | 3:06 | 2023-08-10 | 2023-08-12 |
 | [Tuesday: Procrastinar](https://open.spotify.com/track/2DjWrLCGdic0K5tl5bXffg) | [Alkinoos](https://open.spotify.com/artist/1tUvSyqscXOmXVYu40hCv0) | [Week](https://open.spotify.com/album/5PlTGcP8Wp4S29t08wzTDj) | 2:59 | 2022-08-18 | 2022-08-22 |
 | [Tá Doce](https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Tá Doce](https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc) | 3:24 | 2023-06-01 | 2023-06-23 |
 | [Tá Pedir](https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd) | [Clenny Mendes](https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy) | [Tá Pedir](https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV) | 2:27 | 2023-07-06 | 2023-07-28 |

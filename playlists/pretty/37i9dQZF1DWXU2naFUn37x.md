@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Mikush, Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,860 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,038 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Scappa da Milano](https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Scappa da Milano](https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG) | 2:59 |
 | 50 | [LA MULA](https://open.spotify.com/track/5WcctLfufHRiiAJsH946my) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [LA MULA](https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd) | 2:16 |
 
-Snapshot ID: `MCw1ZWVmZGRmNDg0ODg2YmQwZjkxN2Q1ZDczMTUxNzY3OWEwYzQ3NGQ4`
+Snapshot ID: `MCw1MDFkZGRmZWJlZmQ0ZGRkMzM5MjI0OWY5N2YwZTcyMWJlNTg2OGY4`

@@ -1589,6 +1589,32 @@
     },
     {
       "album": {
+        "name": "Tree of Life G Minor",
+        "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
+      },
+      "artists": [
+        {
+          "name": "Urbanski",
+          "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+        },
+        {
+          "name": "Micha\u0142 S\u0142awecki",
+          "url": "https://open.spotify.com/artist/6HXAKf63cjz0G4NAiSwU7M"
+        },
+        {
+          "name": "Ch\u00f3r Politechniki Morskiej w Szczecinie",
+          "url": "https://open.spotify.com/artist/222VaksbMkcTr4vuK79lMh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184957,
+      "name": "Tree of Life G Minor",
+      "url": "https://open.spotify.com/track/5SlcSnTcZMthoi6wu6wrRP"
+    },
+    {
+      "album": {
         "name": "You Were Never Really Here (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3AWQmUP2qy8Jb8jKVL45dL"
       },

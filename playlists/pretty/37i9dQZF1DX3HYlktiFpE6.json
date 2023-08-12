@@ -1,13 +1,29 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 101477,
+  "num_followers": 101495,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTYwMDNlNmI4OTcwN2U0YzE1NDI0YWIxOTA5MThjZmZjMzA4MWVk",
+  "snapshot_id": "MCw4YTAwZDQwZmFhMTQ2ZjYwZWM3YTgyNWIwNjVmMDAzMWUxYWZkMWQ2",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "I Rise",
+      "url": "https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN"
+    },
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 303010,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Just Called To Say I Love You",
-        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -99,6 +99,22 @@
       "duration_ms": 167532,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "I Just Called To Say I Love You",
+        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 248560,
       "name": "Daft Punk",
       "url": "https://open.spotify.com/track/6ukvsBzq4d1vBsAUmz7ZVt"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "PTX Presents: Top Pop, Vol. I",
-        "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
     },
     {
       "added_at": "2021-12-24 05:00:00",

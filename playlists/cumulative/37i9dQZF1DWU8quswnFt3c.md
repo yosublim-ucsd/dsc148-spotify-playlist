@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-1,394 songs - 3 day 4 hr 36 min
+1,395 songs - 3 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Call Mi](https://open.spotify.com/track/2nYYjc3qevJl4pd1XXVhcg) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Call Mi](https://open.spotify.com/album/0tbVf3hH9dl7nH7ExGKrAA) | 3:15 | 2022-08-03 | 2022-09-09 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-02-02 | 2022-03-09 |
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-07-06 | 2022-08-04 |
+| [CAMPO DAS CEBOLAS é nosso](https://open.spotify.com/track/3kvftvR1EuxLY39qQXDyza) | [MONSTRA](https://open.spotify.com/artist/7oUlgiZtYEgJy0bo4peq37) | [CAMPO DAS CEBOLAS é nosso](https://open.spotify.com/album/11prMsRWhDxsorNEcgbGvs) | 1:57 | 2023-08-02 |  |
 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-08-02 |  |
 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2022-09-07 | 2023-01-05 |
 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 | 2023-04-05 | 2023-05-04 |
@@ -380,7 +381,7 @@
 | [FAME \(feat\. Laila Al Habash\)](https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:43 | 2022-11-02 | 2022-12-01 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-06-01 | 2022-07-07 |
 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 | 2023-07-05 | 2023-08-03 |
-| [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 | 2023-08-02 |  |
+| [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 | 2023-08-02 |  |
 | [FCKN IN LOVE](https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk) | 3:14 | 2022-03-08 | 2022-04-07 |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-08-02 |  |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-07 | 2023-07-06 |
@@ -866,7 +867,7 @@
 | [PANDA](https://open.spotify.com/track/5DwW0Y7LWmVRMTMxYw3vCA) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [PANDA](https://open.spotify.com/album/5Wpjc38AogK8fEcj07Yh5E) | 2:22 | 2022-06-01 | 2022-07-07 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-04-06 | 2022-05-05 |
 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 | 2023-07-05 |  |
-| [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 | 2023-08-02 |  |
+| [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 | 2023-08-02 | 2023-08-12 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |
 | [Paradise](https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Paradise](https://open.spotify.com/album/7x4Q3tWaIU7qfqVlnJEgM8) | 2:36 | 2022-09-07 | 2022-10-05 |
 | [Paralizado](https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Paralizado](https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa) | 3:07 | 2022-09-07 | 2022-10-05 |

@@ -4,7 +4,7 @@
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-126 songs - 7 hr 30 min
+127 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Together](https://open.spotify.com/track/3heBlHAJa5ZMCxvI07OUEH) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/3LfVVimEZr5YefjHZvlDzP) | 3:34 | 2023-07-12 |  |
 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn) | 3:36 | 2023-07-12 |  |
 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 | 2023-07-12 |  |
+| [Unity – The Official FIFA Women’s World Cup 2023™ Theme](https://open.spotify.com/track/01sOUzTrU0k3HPlp3Z70RR) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Unity – The Official FIFA Women’s World Cup 2023™ Theme](https://open.spotify.com/album/34WnMd3mAw7UM8MLLif1of) | 1:48 | 2023-08-11 |  |
 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2023-07-12 |  |
 | [Veuve](https://open.spotify.com/track/6Rf0Rg1UgoBj0zoGyoAcSW) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Nie verliebt](https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71) | 3:09 | 2023-07-12 |  |
 | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/track/6g5K1kubnMcCkcQlvIRxVy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Vi:et i vinsten \(Sveriges Officiella EM\-låt 2022\)](https://open.spotify.com/album/06wqtAadumHfK9NenuMELU) | 3:10 | 2023-07-12 |  |

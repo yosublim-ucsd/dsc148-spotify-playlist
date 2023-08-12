@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 741833,
+  "num_followers": 741978,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzdhOGMzN2YyNDU0NThkOWY5MDUzMGJkMzcwMmI3YTU0MWUxMTM0",
+  "snapshot_id": "MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Interrogativa Cantilena",
-        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        },
-        {
-          "name": "Kevin Ridley",
-          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Interrogativa Cantilena",
-      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Interrogativa Cantilena",
+        "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        },
+        {
+          "name": "Kevin Ridley",
+          "url": "https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Interrogativa Cantilena",
+      "url": "https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "If I",
-        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
-      },
-      "artists": [
-        {
-          "name": "Cyhra",
-          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "If I",
-      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "The Hanging Tree",
@@ -759,6 +743,22 @@
       "duration_ms": 226128,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "If I",
+        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
+      },
+      "artists": [
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "If I",
+      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
-      },
-      "artists": [
-        {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Summer Wine",
         "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 245444,
       "name": "Summer Wine",
       "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "After Forever (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "My Father's Son",
         "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Raven's Cry",
-        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Raven's Cry",
-      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Call of the North",
         "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 384066,
       "name": "Call of the North",
       "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Raven's Cry",
+        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Raven's Cry",
+      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
     },
     {
       "added_at": "2023-05-19 04:00:00",

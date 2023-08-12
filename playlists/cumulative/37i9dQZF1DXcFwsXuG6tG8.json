@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202359,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+    },
+    {
+      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m"
       },
@@ -426,6 +444,24 @@
       "duration_ms": 156000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/3GcTV9SdhkhGwFZVZ14Kzc"
+    },
+    {
+      "album": {
+        "name": "La Estrella del Show",
+        "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177958,
+      "name": "La Estrella del Show",
+      "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
     },
     {
       "album": {

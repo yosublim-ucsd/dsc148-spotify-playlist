@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6906496,
+  "num_followers": 6906916,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU5Nzc2Yjc5NTI5NWRlYjM5MjViZjEzYjRjM2FmYjgwMWIwN2Ji",
+  "snapshot_id": "MCw5ODQ2MTQ1N2E3OTFiMmI0OGU2NGNjNWNiMGQ4YmI5MmQwMTYxYmM3",
   "tracks": [
     {
       "added_at": "2023-08-10 22:01:00",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -1527,30 +1527,26 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Joel Corry Remix]",
-        "url": "https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ"
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         },
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 165454,
-      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A"
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -1595,6 +1591,34 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
+        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Joel Corry Remix]",
+        "url": "https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
         "name": "Cha Cha Cha (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP"
       },
@@ -1611,30 +1635,6 @@
       "duration_ms": 148645,
       "name": "Cha Cha Cha - Alan Walker Remix",
       "url": "https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Do It Like That (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 139441,
-      "name": "Do It Like That (Alan Walker Remix)",
-      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
     },
     {
       "added_at": "2023-08-10 22:01:00",

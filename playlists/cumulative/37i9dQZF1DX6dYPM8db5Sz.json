@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt?si=f4rrR-3aRBmTHo4lnKRwgA\">Amy Ayanda</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5?si=iP71mkvdQhOoN0MQNVTKPQ\">Muzi</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 232500,
       "name": "A Long Time",
       "url": "https://open.spotify.com/track/08izD5yyI6TPJCzmABexZc"
+    },
+    {
+      "album": {
+        "name": "A Scene from Some Old Poem",
+        "url": "https://open.spotify.com/album/5pzNFoJ5N9F5ygVheE9ykL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Gadd",
+          "url": "https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159807,
+      "name": "A Scene from Some Old Poem",
+      "url": "https://open.spotify.com/track/6i6L08iGEYcUBvF32n4hQf"
     },
     {
       "album": {
@@ -334,7 +352,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 177384,
       "name": "All to Escape",
       "url": "https://open.spotify.com/track/7gvAj7nOvRh9eCyHactLJS"
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "eMtunzini",
+        "url": "https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "eMtunzini",
+      "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
+    },
+    {
+      "album": {
         "name": "Even Now",
         "url": "https://open.spotify.com/album/4uHZWWIcq3N1cYG0C0siyV"
       },
@@ -3248,7 +3284,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 149428,
       "name": "I Won't Say No",
       "url": "https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj"
@@ -4548,6 +4584,24 @@
       "duration_ms": 290786,
       "name": "noba bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
+    },
+    {
+      "album": {
+        "name": "Nomkhitha",
+        "url": "https://open.spotify.com/album/0Mio7AxECjFCu3KeGniK14"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309510,
+      "name": "Nomkhitha",
+      "url": "https://open.spotify.com/track/1uF0rcH9Ujth9we0hSO80q"
     },
     {
       "album": {
@@ -6018,7 +6072,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 187779,
       "name": "So I Ask You",
       "url": "https://open.spotify.com/track/2ypvMGte6AD8eI2ZoTfi55"
@@ -6210,6 +6264,24 @@
       "duration_ms": 235000,
       "name": "Stereoscope",
       "url": "https://open.spotify.com/track/5oancP3AQtHfh7BuYZYknB"
+    },
+    {
+      "album": {
+        "name": "Good Morning Dreamer",
+        "url": "https://open.spotify.com/album/6KMXFgGH8vb8rn6bQzYdWu"
+      },
+      "artists": [
+        {
+          "name": "Basson Laas",
+          "url": "https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275360,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/478FDZYiDhJGGAwM0oWbPv"
     },
     {
       "album": {
@@ -6470,7 +6542,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 249339,
       "name": "Tell Me Again",
       "url": "https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz"
@@ -6618,6 +6690,24 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "album": {
+        "name": "The Spin Astride",
+        "url": "https://open.spotify.com/album/32DFbEpkONRG857qUTfPGL"
+      },
+      "artists": [
+        {
+          "name": "Carla Malrowe",
+          "url": "https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287384,
+      "name": "The Spin Astride",
+      "url": "https://open.spotify.com/track/0DniVPo0gdLY94cSJVKYMV"
     },
     {
       "album": {
@@ -7043,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "Typical You",
+        "url": "https://open.spotify.com/album/41KzRjJSEVsD59JhzNRE31"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232849,
+      "name": "Typical You",
+      "url": "https://open.spotify.com/track/0ZwVaJ5qhu21pEc9dQkeFa"
+    },
+    {
+      "album": {
         "name": "ukuthanda wena",
         "url": "https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39"
       },
@@ -7318,7 +7426,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 147895,
       "name": "Wasting time",
       "url": "https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl"
@@ -7412,7 +7520,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 210016,
       "name": "What You Mean To Me",
       "url": "https://open.spotify.com/track/0C5IVQuuhiCffMpuycFm06"
@@ -7730,6 +7838,24 @@
       "duration_ms": 209293,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G"
+    },
+    {
+      "album": {
+        "name": "Pretty Dope",
+        "url": "https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Gav",
+          "url": "https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "You too hot for this shit",
+      "url": "https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC"
     },
     {
       "album": {

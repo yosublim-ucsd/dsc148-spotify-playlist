@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 34006,
+  "num_followers": 34107,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmQ5MTM0Zjc5MThlM2EyMjIxNDlkOWMzOGRmMGYyZGFiNzRmNTQ1",
+  "snapshot_id": "MCw4MDRiN2UwZjhmNDU1ZWIyYTRhNGMzZDNhMzZiZjJiOWFlNmMwZDdm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mars 500",
-        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
-      },
-      "artists": [
-        {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 412257,
-      "name": "Mars 500",
-      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 278110,
       "name": "Chantal",
       "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Mars 500",
+        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+      },
+      "artists": [
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
     },
     {
       "added_at": "2023-07-28 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,663 likes - 75 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,727 likes - 75 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 28 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
 | 29 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
 | 30 | [Childhood](https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7) | 4:02 |
-| 31 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
+| 31 | [Ancestors](https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Ancestors](https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw) | 4:47 |
 | 32 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
 | 33 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 |
 | 34 | [Man Dies Alone \- Short Version](https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Man Dies Alone](https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ) | 4:39 |
 | 35 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
 | 36 | [State the Obvious](https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Global Entry 2](https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm) | 7:49 |
-| 37 | [Ancestors](https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Ancestors](https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw) | 4:47 |
+| 37 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
 | 38 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
 | 39 | [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 |
 | 40 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 52 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 |
 | 53 | [RAI](https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [RAI](https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW) | 3:58 |
 | 54 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 |
-| 55 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
-| 56 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
-| 57 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
+| 55 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
+| 56 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
+| 57 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
 | 58 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 |
 | 59 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
 | 60 | [Novicani](https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Beli](https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW) | 6:07 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 72 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 | 73 | [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 |
 | 74 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 |
-| 75 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
+| 75 | [Mona Ki Ngi Xica \- Everything Counts Remix](https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mona Ki Ngi Xica \(Everything Counts Remix\)](https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5) | 7:31 |
 
-Snapshot ID: `MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh`
+Snapshot ID: `MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5`

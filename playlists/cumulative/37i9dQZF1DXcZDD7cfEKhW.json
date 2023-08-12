@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197267,
       "name": "Let Somebody Go - Kygo Remix",
       "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
@@ -7718,6 +7718,28 @@
       "duration_ms": 207096,
       "name": "Run - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/6GULHU9yNAGXYxCItTcLDz"
+    },
+    {
+      "album": {
+        "name": "Rush (Remixes)",
+        "url": "https://open.spotify.com/album/3wFJg8Q9qHqdnw0BXyBUtt"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Rush - Tom Santa Remix",
+      "url": "https://open.spotify.com/track/6jAbL1oXYK2JxU1wfM8Dv9"
     },
     {
       "album": {

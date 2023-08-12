@@ -11013,6 +11013,24 @@
     },
     {
       "album": {
+        "name": "Keeping Secrets Will Destroy You",
+        "url": "https://open.spotify.com/album/527BUPjoqgyblvo1NL9Te9"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Willow, Pine and Oak",
+      "url": "https://open.spotify.com/track/7KFN7Y3LkVbHoGL4g4meeA"
+    },
+    {
+      "album": {
         "name": "Meeting with a Judas Tree",
         "url": "https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg"
       },

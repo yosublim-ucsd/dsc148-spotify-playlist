@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Back To Us",
+        "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174571,
+      "name": "Back To Us",
+      "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM"
       },
@@ -780,7 +802,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE"
@@ -1241,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5apDkYNYvnjJB2cOdE1ar6"
+      },
+      "artists": [
+        {
+          "name": "DJ SODA",
+          "url": "https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA"
+        },
+        {
+          "name": "SPIRIT LINK",
+          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204387,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6JfoGaPSsHDI3Rl8dgIZBe"
+    },
+    {
+      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -1560,7 +1604,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193601,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe"
@@ -1976,7 +2020,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 243400,
       "name": "Don\u2019t Look Down (feat. Linney)",
       "url": "https://open.spotify.com/track/6Rzv2CVwDi7hYnVU5wKcXe"
@@ -3296,7 +3340,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 212470,
       "name": "Ghost Town (feat. David Frank)",
       "url": "https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS"
@@ -3432,7 +3476,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 189295,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS"
@@ -3650,7 +3694,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Hallowed",
       "url": "https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW"
@@ -4284,6 +4328,28 @@
       "duration_ms": 224516,
       "name": "I Love You Enough To Let You Go",
       "url": "https://open.spotify.com/track/6MSjU24zzBgu6wRHsR4eRI"
+    },
+    {
+      "album": {
+        "name": "I Miss U",
+        "url": "https://open.spotify.com/album/3Q7mwi4OMpK0pN1QhM7zn4"
+      },
+      "artists": [
+        {
+          "name": "Flight School",
+          "url": "https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190789,
+      "name": "I Miss U",
+      "url": "https://open.spotify.com/track/1ZK7PV7r9is98UD4zqSy9h"
     },
     {
       "album": {
@@ -5264,7 +5330,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 178461,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5"
@@ -5430,7 +5496,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -6334,7 +6400,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 142163,
       "name": "Purple Heather",
       "url": "https://open.spotify.com/track/4Z5Msyx3JMWoKPjKbHsZ4T"
@@ -6418,7 +6484,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Ready For Love",
       "url": "https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C"
@@ -7297,6 +7363,28 @@
     },
     {
       "album": {
+        "name": "Between Broken",
+        "url": "https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243027,
+      "name": "Starbright",
+      "url": "https://open.spotify.com/track/6huKKoWv2Xy4KM2rwUNa7X"
+    },
+    {
+      "album": {
         "name": "Between Broken (Remixes)",
         "url": "https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH"
       },
@@ -7978,7 +8066,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 207550,
       "name": "The Show - with JJ Lin",
       "url": "https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr"
@@ -8070,7 +8158,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 204671,
       "name": "three little words",
       "url": "https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM"
@@ -8088,7 +8176,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 162528,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/3BdBvI8Mw2OSaNHBtvZMKo"
@@ -8836,7 +8924,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 230390,
       "name": "Wisdom - Amidy Remix",
       "url": "https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602"

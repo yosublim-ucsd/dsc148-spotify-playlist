@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,023 likes - 93 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,072 likes - 93 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 73 | [Kikadinha](https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Kikadinha](https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E) | 2:26 |
 | 74 | [Separei](https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Separei](https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM) | 2:42 |
 | 75 | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl) | [DJ DN](https://open.spotify.com/artist/5mBzms8INTkASOeSDLvwoe), [MC Gui Andrade](https://open.spotify.com/artist/1UFLR3TTJAODTIog5FNv3e), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [Só Tapão Nervoso Vs Toma Catucada Violenta](https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR) | 3:06 |
-| 76 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
+| 76 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
 | 77 | [Quebrar Seu Coração \(feat\. Luísa Sonza\)](https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LEXA](https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi) | 2:20 |
-| 78 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
+| 78 | [MANO DO AK](https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427) | [DJ VILÃO](https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9), [MC Reis](https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO) | [MANO DO AK](https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1) | 3:04 |
 | 79 | [Nem On Nem Off](https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Nem On Nem Off](https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS) | 2:34 |
 | 80 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
 | 81 | [Baila Comigo \(feat\. Kelly Ruiz\) \- Rennan da Penha Remix](https://open.spotify.com/track/7M6D0ACikinC39ZtuEwMPo) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Comigo \(feat\. Kelly Ruiz\) \[Rennan da Penha Remix\]](https://open.spotify.com/album/3Gu3HmwNT034cGipAs175M) | 2:00 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `MCwzNDNmN2QyN2ZjOTM3MmFlM2IwNzhlMGI2YmMxNWUxMGRhZjYyYzcy`
+Snapshot ID: `MCw2MTQ0NjBmYzIyMDIzMjMwYTQyMGI2ODMwNGVkZmU2OWJiMTg3MTRh`

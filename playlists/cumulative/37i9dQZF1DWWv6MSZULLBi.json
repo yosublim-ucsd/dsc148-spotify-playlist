@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Jeremy Dutcher",
+  "description": "A laid-back trip in the folk scene. Cover: Mitski",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -2895,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Find My Way To You",
+        "url": "https://open.spotify.com/album/3zy6kw77C553MbA4EUO6JA"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        },
+        {
+          "name": "Darragh Jessome",
+          "url": "https://open.spotify.com/artist/7LigDCKoNF0Kj04CEjy7MR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178890,
+      "name": "Find My Way To You",
+      "url": "https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN"
+    },
+    {
+      "album": {
         "name": "Firing Line",
         "url": "https://open.spotify.com/album/5SWoEwl8sybNpO1bSjr74p"
       },
@@ -2942,7 +2964,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 194026,
       "name": "Fish Out of Water",
       "url": "https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg"
@@ -4803,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -5661,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "mundane",
+        "url": "https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg"
+      },
+      "artists": [
+        {
+          "name": "Moira & Claire",
+          "url": "https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161548,
+      "name": "mundane",
+      "url": "https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru"
+    },
+    {
+      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
@@ -6270,7 +6328,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 223036,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/0HTAW7MuoTKLzLKoQdI3i3"
@@ -7443,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
+    },
+    {
+      "album": {
         "name": "Pretenders / Snowy Owl",
         "url": "https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum"
       },
@@ -7642,7 +7718,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
@@ -8148,6 +8224,24 @@
       "duration_ms": 196755,
       "name": "The Ballad of Betty and Barney Hill",
       "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
+      "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
     },
     {
       "album": {
@@ -8982,7 +9076,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 158333,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/2N1l2LDtRLpXOfIFBYYARH"
@@ -9502,7 +9596,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 249949,
       "name": "What I Wouldn't Do/North Star Calling",
       "url": "https://open.spotify.com/track/3XAzZZoJeLmIGAGYH7rTBj"
@@ -9653,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "When We Come Back Down",
+        "url": "https://open.spotify.com/album/6RjqOSAsxoiCGjiuwFRqZr"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276278,
+      "name": "When We Come Back Down",
+      "url": "https://open.spotify.com/track/7pUneCfvoKAQXbS5htnRcX"
+    },
+    {
+      "album": {
         "name": "When You Lose Her",
         "url": "https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl"
       },
@@ -9772,7 +9884,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 91682,
       "name": "Wise Old Owl",
       "url": "https://open.spotify.com/track/7pvGhGX3wmSGpmEhMxKSse"

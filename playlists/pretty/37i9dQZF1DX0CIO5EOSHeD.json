@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 445139,
+  "num_followers": 445379,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji",
+  "snapshot_id": "MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3",
   "tracks": [
     {
       "added_at": "2023-07-21 22:14:09",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Luxury Beverage",
-        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
       "artists": [
         {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
         }
       ],
-      "duration_ms": 158785,
-      "name": "lavender blood",
-      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+      "duration_ms": 163764,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+        "name": "Luxury Beverage",
+        "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
       },
       "artists": [
         {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
         }
       ],
-      "duration_ms": 163764,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+      "duration_ms": 158785,
+      "name": "lavender blood",
+      "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Ways to Go",
         "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 127061,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "it only gets worse, i promise",
         "url": "https://open.spotify.com/album/361dxLkzUSAyH159ZtXUUj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 154640,
       "name": "it only gets worse, i promise",
       "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Double Superfine",
         "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 204564,
       "name": "Darcy",
       "url": "https://open.spotify.com/track/20ZVYu0lsdCsuzMKfcadZN"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "ALLTHETIME",
         "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 425680,
       "name": "ALLTHETIME",
       "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2023-07-21 22:14:09",

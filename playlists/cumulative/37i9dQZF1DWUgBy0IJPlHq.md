@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Charles Wesley Godwin
+> A new shade of Country\. Cover: Ryan Bingham
 
-471 songs - 1 day 5 hr 7 min
+473 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Chipping Mill](https://open.spotify.com/track/115cVIED8eohXa4CWcxQSq) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Chipping Mill](https://open.spotify.com/album/60MGbvChO6Vw7NZMf33LHy) | 3:20 | 2023-06-23 |  |
 | [Chosen to Deserve](https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 5:32 | 2023-04-14 | 2023-06-24 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-05-28 |
+| [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-08-11 |  |
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-04-08 | 2022-07-30 |
 | [Colorado Blues](https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Colorado Blues](https://open.spotify.com/album/13KX0b4NxsVYMWg1akI80F) | 2:37 | 2022-02-18 | 2022-07-29 |
 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 | 2022-07-22 | 2022-10-08 |
@@ -417,6 +418,7 @@
 | [Think I'll Stay](https://open.spotify.com/track/6cpZoc1E7SBdJHh6AjAv96) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Think I'll Stay](https://open.spotify.com/album/7fQan4IJWlBk0UkY0Zj2oD) | 3:36 | 2021-12-17 | 2022-02-05 |
 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 | 2023-06-09 |  |
 | [This Is My Prairie](https://open.spotify.com/track/5VBOM5AP0w8w6r3JzgxyEh) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [This Is My Prairie](https://open.spotify.com/album/49AYPmLN4h7GWmbX6xdoIO) | 4:04 | 2021-12-17 | 2022-02-19 |
+| [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 | 2023-08-11 |  |
 | [This One's Gonna Cost Me](https://open.spotify.com/track/3wnrKK7mvADKAyX23SI01F) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:13 | 2022-11-25 | 2023-06-24 |
 | [This One's Gonna Cost Me](https://open.spotify.com/track/72YJsct5l2rGUVfMzWeTmz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf) | 3:13 | 2022-11-25 | 2022-12-03 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2022-10-14 |  |

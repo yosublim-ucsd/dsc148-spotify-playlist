@@ -1,12 +1,12 @@
 {
   "description": "Ft. re6ce",
-  "num_followers": 23351,
+  "num_followers": 23442,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzBjYjUxNzgzZGM5MjlhYWU1ZWEzNzBkOGQ0MWYyNjJhYjhjMmRj",
+  "snapshot_id": "MCxjNzAyMjE5NDZlMjA0OTRlZmJlNzdiYWMwZDk4ZGI3MTY3ZjkwZDFm",
   "tracks": [
     {
       "added_at": "2023-08-04 13:26:08",
@@ -203,22 +203,18 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "watercolor puddles",
-        "url": "https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb"
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
       },
       "artists": [
         {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 119115,
-      "name": "watercolor puddles",
-      "url": "https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R"
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -239,18 +235,22 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "The Gutter",
-        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+        "name": "watercolor puddles",
+        "url": "https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb"
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
         }
       ],
-      "duration_ms": 174641,
-      "name": "6 Pack and Cigarettes",
-      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
+      "duration_ms": 119115,
+      "name": "watercolor puddles",
+      "url": "https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "gluttony",
-        "url": "https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "Voda Fuji",
-          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
-        }
-      ],
-      "duration_ms": 117440,
-      "name": "gluttony",
-      "url": "https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "recluse",
         "url": "https://open.spotify.com/album/4ccT27wMZSMNivrI0L2IJz"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 108526,
       "name": "sub 32",
       "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "gluttony",
+        "url": "https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Voda Fuji",
+          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
+        }
+      ],
+      "duration_ms": 117440,
+      "name": "gluttony",
+      "url": "https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "battle",
-        "url": "https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx"
-      },
-      "artists": [
-        {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
-        }
-      ],
-      "duration_ms": 77300,
-      "name": "battle",
-      "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "molecule",
         "url": "https://open.spotify.com/album/1sZhAMSxyVfitDVgv0xFuX"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 148541,
       "name": "drywall",
       "url": "https://open.spotify.com/track/2l2TH1JBclFldTIvs8Usi7"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "battle",
+        "url": "https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 77300,
+      "name": "battle",
+      "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "ecstasy",
-        "url": "https://open.spotify.com/album/0cjzOs53TZrJwJ8NcZVUou"
-      },
-      "artists": [
-        {
-          "name": "mykel online",
-          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "ecstasy",
-      "url": "https://open.spotify.com/track/762QMcwFiDNGhu2eruCJQK"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "BABYBOY",
         "url": "https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E"
       },
@@ -823,22 +807,34 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "Gossip Team",
-        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
+        "name": "ecstasy",
+        "url": "https://open.spotify.com/album/0cjzOs53TZrJwJ8NcZVUou"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+          "name": "mykel online",
+          "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
         }
       ],
-      "duration_ms": 166500,
-      "name": "ready set go",
-      "url": "https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp"
+      "duration_ms": 182535,
+      "name": "ecstasy",
+      "url": "https://open.spotify.com/track/762QMcwFiDNGhu2eruCJQK"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "used to it",
+        "url": "https://open.spotify.com/album/3FwFFvdztqw8Qfiz4vmdMW"
+      },
+      "artists": [
+        {
+          "name": "rl",
+          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "used to it",
+      "url": "https://open.spotify.com/track/6898221Y4h68YsprveSQyE"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -859,6 +855,26 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
+        "name": "Gossip Team",
+        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "ready set go",
+      "url": "https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
         "name": "Count of three (You can eat $#@!)",
         "url": "https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "never let you leave",
-        "url": "https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 126296,
-      "name": "never let you leave",
-      "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "Cdbaby<3 (underscores remix)",
         "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 133305,
       "name": "Cdbaby<3 - underscores remix",
       "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "never let you leave",
+        "url": "https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 126296,
+      "name": "never let you leave",
+      "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "used to it",
-        "url": "https://open.spotify.com/album/3FwFFvdztqw8Qfiz4vmdMW"
-      },
-      "artists": [
-        {
-          "name": "rl",
-          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "used to it",
-      "url": "https://open.spotify.com/track/6898221Y4h68YsprveSQyE"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "WISH I NEVER KNEW YOU",
         "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
       },
@@ -1031,6 +1031,26 @@
       "duration_ms": 132187,
       "name": "Sierra Echo X-Ray",
       "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s"
+      },
+      "artists": [
+        {
+          "name": "Numl6ck",
+          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
+        },
+        {
+          "name": "pwon",
+          "url": "https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1071,42 +1091,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "bones",
-        "url": "https://open.spotify.com/album/3KmErbslecY06JTn8vJU8s"
-      },
-      "artists": [
-        {
-          "name": "Numl6ck",
-          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
-        },
-        {
-          "name": "pwon",
-          "url": "https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "bones",
-      "url": "https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "chlorine",
-        "url": "https://open.spotify.com/album/5W0F5uU4Sc0uEUIX6svP33"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 123789,
-      "name": "numb",
-      "url": "https://open.spotify.com/track/0PXDA0Fp2a3fL1HZ7hQZan"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "gnaw",
         "url": "https://open.spotify.com/album/69Qlnxmui9wzJ1ZHjVtb4k"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 185714,
       "name": "gnaw",
       "url": "https://open.spotify.com/track/2tDo8TqJfrQGwtUHxRXP7A"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "chlorine",
+        "url": "https://open.spotify.com/album/5W0F5uU4Sc0uEUIX6svP33"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "numb",
+      "url": "https://open.spotify.com/track/0PXDA0Fp2a3fL1HZ7hQZan"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "i wna be like you",
-        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "i wna be like you",
-      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "tapestry",
         "url": "https://open.spotify.com/album/2fMVVhslVVXLmEtbScbKQq"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 135428,
       "name": "tapestry",
       "url": "https://open.spotify.com/track/24fjBTuoJgg4u3gwJX5sgY"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "i wna be like you",
+        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "i wna be like you",
+      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "insides",
-        "url": "https://open.spotify.com/album/5i5EMKDhvD2WusDRiRQJu7"
-      },
-      "artists": [
-        {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "insides",
-      "url": "https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "post spring self destruction",
         "url": "https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 150967,
       "name": "kill you",
       "url": "https://open.spotify.com/track/2P6F5d9X6V1ArHg5DJoWVG"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "insides",
+        "url": "https://open.spotify.com/album/5i5EMKDhvD2WusDRiRQJu7"
+      },
+      "artists": [
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "insides",
+      "url": "https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
         "name": "LADY",
         "url": "https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 224898,
       "name": "LADY",
       "url": "https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "metamorphine",
-        "url": "https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM"
-      },
-      "artists": [
-        {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "metamorphine",
-      "url": "https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "lies i tell myself",
         "url": "https://open.spotify.com/album/5lLCAEQ0lITFwBavqE1Wd7"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 165991,
       "name": "lies i tell myself",
       "url": "https://open.spotify.com/track/6dYoZuKHoSBiSHeGIDNPXn"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
+        "name": "metamorphine",
+        "url": "https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM"
+      },
+      "artists": [
+        {
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
+        }
+      ],
+      "duration_ms": 190458,
+      "name": "metamorphine",
+      "url": "https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt"
     },
     {
       "added_at": "2023-08-04 13:26:08",

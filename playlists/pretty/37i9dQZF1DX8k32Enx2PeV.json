@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6953,
+  "num_followers": 6966,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZiNGY5YTJkMGQ3ZTg5NmU0MmY5MjA3NWM0NGI0ZGNiNGQ1ZTkw",
+  "snapshot_id": "MCwyOTk4NGMwMjdiOWYzYzY1ZGZhYmU1YjE2NWU0N2Y2OGJkMzgyNjJh",
   "tracks": [
     {
       "added_at": "2023-08-10 19:16:14",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Caribe\u00f1a",
         "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Rumbo a Tiera",
         "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1027,6 +1011,22 @@
       "duration_ms": 407295,
       "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
+      },
+      "artists": [
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Un Trambo (feat. De La Ghetto)",
-        "url": "https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL"
-      },
-      "artists": [
-        {
-          "name": "Cabra",
-          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 171537,
-      "name": "Un Trambo (feat. De La Ghetto)",
-      "url": "https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Un Trambo (feat. De La Ghetto)",
+        "url": "https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL"
+      },
+      "artists": [
+        {
+          "name": "Cabra",
+          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Un Trambo (feat. De La Ghetto)",
+      "url": "https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Mudanza",
-        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
-      },
-      "artists": [
-        {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
-        }
-      ],
-      "duration_ms": 212178,
-      "name": "Mudanza",
-      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Ese Dinero",
         "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 238648,
       "name": "Ese Dinero",
       "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Mudanza",
+        "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        }
+      ],
+      "duration_ms": 212178,
+      "name": "Mudanza",
+      "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
     },
     {
       "added_at": "2023-08-10 19:16:14",

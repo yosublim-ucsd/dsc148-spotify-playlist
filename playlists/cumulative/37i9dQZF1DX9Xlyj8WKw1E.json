@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 162000,
       "name": "12AM",
       "url": "https://open.spotify.com/track/7wWHrLi8euXq0ItCjfVOAc"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 198312,
       "name": "2 Million Up (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3gdrxXqiNci9MHWtZsabTk"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 106399,
       "name": "Back On The Road",
       "url": "https://open.spotify.com/track/3t28pPwRuFHYbjA6NRqlSi"
@@ -2573,6 +2573,28 @@
     },
     {
       "album": {
+        "name": "Eastside Girl ft. Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182272,
+      "name": "Eastside Girl ft. Ty Dolla $ign",
+      "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
+    },
+    {
+      "album": {
         "name": "Eazy",
         "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
       },
@@ -2767,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5ePwZIxJlUuqYG8TpwOldy"
+      },
+      "artists": [
+        {
+          "name": "D2x",
+          "url": "https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196726,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/7JNchwM83hSloG03hOvgqy"
+    },
+    {
+      "album": {
         "name": "FAKE BUTT",
         "url": "https://open.spotify.com/album/2StRxfFDs1YC0w4eaC13gd"
       },
@@ -2782,6 +2822,28 @@
       "duration_ms": 114380,
       "name": "FAKE BUTT",
       "url": "https://open.spotify.com/track/2wJlc8AGsMYGAeZ80m5V3e"
+    },
+    {
+      "album": {
+        "name": "Fee",
+        "url": "https://open.spotify.com/album/0e2ru3NAva6jXCYfmJEiBb"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Fee",
+      "url": "https://open.spotify.com/track/63ijZK3Q0lXJQNWHbs2Du1"
     },
     {
       "album": {
@@ -2836,6 +2898,28 @@
       "duration_ms": 136469,
       "name": "Five Guys",
       "url": "https://open.spotify.com/track/6PCvjSXZSULzzlFoohAc9l"
+    },
+    {
+      "album": {
+        "name": "FLAT EARTHER",
+        "url": "https://open.spotify.com/album/5O6QvUFvNzL6jqqDREXJBN"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        },
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183590,
+      "name": "FLAT EARTHER",
+      "url": "https://open.spotify.com/track/55KcKevJmSeduUO8MAMLwR"
     },
     {
       "album": {
@@ -3226,7 +3310,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 258846,
       "name": "ghosted",
       "url": "https://open.spotify.com/track/3gC74awANsa3oPoA6eqNBI"
@@ -4922,7 +5006,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 135340,
       "name": "let him cooketh (No Bev)",
       "url": "https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz"
@@ -5112,6 +5196,28 @@
       "duration_ms": 141520,
       "name": "Lil Baby Crush",
       "url": "https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x"
+    },
+    {
+      "album": {
+        "name": "I NOW KNOW.",
+        "url": "https://open.spotify.com/album/19jTSGPtAE26LZHJzjppaq"
+      },
+      "artists": [
+        {
+          "name": "Ausar",
+          "url": "https://open.spotify.com/artist/3ahvdZBrfKOLdDLr1eNXTg"
+        },
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256555,
+      "name": "LIST",
+      "url": "https://open.spotify.com/track/0OYNo2HusPZGUZZMdJHG05"
     },
     {
       "album": {
@@ -5352,6 +5458,32 @@
       "duration_ms": 155315,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/2ppXrT8Yp10ezBl42Edr6o"
+    },
+    {
+      "album": {
+        "name": "Mama (with Skilla Baby & Tay B)",
+        "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Mama (with Skilla Baby & Tay B)",
+      "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
       "album": {
@@ -5742,6 +5874,28 @@
       "duration_ms": 116363,
       "name": "Move Militant",
       "url": "https://open.spotify.com/track/2YP0d5cUF6MJgg5qbOc7ii"
+    },
+    {
+      "album": {
+        "name": "MUSTARD (WITH 6LACK)",
+        "url": "https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201464,
+      "name": "MUSTARD (WITH 6LACK)",
+      "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
     },
     {
       "album": {
@@ -6884,7 +7038,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
@@ -8280,7 +8434,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 158421,
       "name": "STRAWBERRY LOUIS VUITTON ft. Thundercat and Maeta",
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
@@ -8466,6 +8620,24 @@
       "duration_ms": 186101,
       "name": "Tay B Style",
       "url": "https://open.spotify.com/track/0L6tOGch4sHTKi7BcBKTtS"
+    },
+    {
+      "album": {
+        "name": "Tell Shyanne",
+        "url": "https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Tell Shyanne",
+      "url": "https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi"
     },
     {
       "album": {
@@ -9196,7 +9368,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 210525,
       "name": "VANILLA SKY",
       "url": "https://open.spotify.com/track/1dqvtaRSnRuD7DkE4onbPV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,470 likes - 77 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,640 likes - 77 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 76 | [Be Our Guest](https://open.spotify.com/track/18ZancOCnfubiRvcAx9kxe) | [Martin Short](https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 3:52 |
 | 77 | [In a Heartbeat](https://open.spotify.com/track/50aQzxo1D1emR771D3qxgc) | [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 2\)](https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM) | 3:01 |
 
-Snapshot ID: `MCw5YWNkYzczMzIxZmQ5NmU5NzhiMGM5ZTlmZTJkYmU0MDU3YTE3MTg5`
+Snapshot ID: `MCxkNTVlMGVjMTEwOWM2ZjYzZjU2NTljZGZlZDc1MmU5YWM4OGZhZjQ1`

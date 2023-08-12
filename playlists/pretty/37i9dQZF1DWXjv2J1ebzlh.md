@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,697 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,732 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 32 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 |
 | 33 | [Sakla Beni](https://open.spotify.com/track/4pyy5N9veZ3lcdu96chkWV) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Sakla Beni](https://open.spotify.com/album/0LBQVMsur8H3i3mwKkXV20) | 4:40 |
 | 34 | [Murkit Gem](https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:12 |
-| 35 | [Pardah Hai Pardah \- From "Amar Akbar Anthony"](https://open.spotify.com/track/31LmckJpmIPMooKR9jiGKs) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Amar Akbar Anthony](https://open.spotify.com/album/55NxNTAZ8bSlGYjWcAxbGf) | 7:59 |
+| 35 | [Pardah Hai Pardah \- From "Amar Akbar Anthony"](https://open.spotify.com/track/31LmckJpmIPMooKR9jiGKs) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Amar Akbar Anthony \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55NxNTAZ8bSlGYjWcAxbGf) | 7:59 |
 | 36 | [Anna](https://open.spotify.com/track/4YZ6Icoo1hV2QqcIf0n50P) | [Silvana Mangano](https://open.spotify.com/artist/737lZOpxqQYGsWDfGt5Nb0) | [Anna](https://open.spotify.com/album/2i7e5SfPJBLzYa43eIJ3aK) | 2:29 |
 | 37 | [Figa De Guiné](https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sol de Verão 2021](https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH) | 2:19 |
 | 38 | [La vita è colorata](https://open.spotify.com/track/27fS2XD0FAuLvwskSU5MGm) | [I Campioni](https://open.spotify.com/artist/4vGUTPoJLpkF9ibx15QqbO) | [Baciare Baciare](https://open.spotify.com/album/6ayVmLTlzihHCSc0IoK90W) | 2:49 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`
+Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`

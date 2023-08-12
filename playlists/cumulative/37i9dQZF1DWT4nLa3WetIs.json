@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Celebrating ten years of Tiwa Savage's Debut Album; Once Upon a Time. Cover: Tiwa Savage.  ",
+  "description": "Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity (LIFE). Cover: Burna boy",
   "name": "Timeless Afro ",
   "tracks": [
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237669,
+      "name": "#Yawadey",
+      "url": "https://open.spotify.com/track/0rDedYRMG0a9cXkdZMeutG"
+    },
     {
       "album": {
         "name": "1er Gaou",
@@ -252,7 +270,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 327720,
       "name": "Ahomka Wo Mu",
       "url": "https://open.spotify.com/track/0STeSpWgwbEwHRcgQGvWd2"
@@ -444,6 +462,24 @@
       "duration_ms": 222750,
       "name": "Antenna - UK Club Mix",
       "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
+    },
+    {
+      "album": {
+        "name": "Uplifted",
+        "url": "https://open.spotify.com/album/5t57rnTSV6gOZDo01Z8u9x"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262402,
+      "name": "Ashawo (Remix)",
+      "url": "https://open.spotify.com/track/6w1icUDAHcLpfMXkVDUX64"
     },
     {
       "album": {
@@ -694,7 +730,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 316426,
       "name": "Bootycall",
       "url": "https://open.spotify.com/track/0kX03hm5QJJDFR6X3B0tvG"
@@ -906,7 +942,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197558,
       "name": "Collateral Damage",
       "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 250257,
       "name": "Dami Duro",
       "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 264092,
       "name": "E No Easy",
       "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 881240,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs"
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 229668,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
@@ -1627,6 +1663,28 @@
     },
     {
       "album": {
+        "name": "Iskaba",
+        "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Iskaba",
+      "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "album": {
         "name": "Simisola (Deluxe)",
         "url": "https://open.spotify.com/album/4atuVALvpX5aBRYg2PFme1"
       },
@@ -1732,7 +1790,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 268213,
       "name": "Kiss Your Hand (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
@@ -1768,7 +1826,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 211226,
       "name": "Kondo",
       "url": "https://open.spotify.com/track/6tHIVKiKsId5xDM3ufMzgl"
@@ -1844,6 +1902,24 @@
       "duration_ms": 246400,
       "name": "Like to Party",
       "url": "https://open.spotify.com/track/4bv9fcxjNNBDP6GNAgrvbp"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249509,
+      "name": "Like to Party",
+      "url": "https://open.spotify.com/track/0yMdEAX2hP8diPDTaufeR9"
     },
     {
       "album": {
@@ -2046,7 +2122,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 233680,
       "name": "Never (Lagos Never Gonna Be the Same)",
       "url": "https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K"
@@ -2305,6 +2381,28 @@
     },
     {
       "album": {
+        "name": "Everybody Loves Ice Prince",
+        "url": "https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Brymo",
+          "url": "https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287843,
+      "name": "Oleku (feat. Brymo)",
+      "url": "https://open.spotify.com/track/35YJyASvtvRfLJi6lKLZkP"
+    },
+    {
+      "album": {
         "name": "Oleku (feat. Brymo)",
         "url": "https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc"
       },
@@ -2446,7 +2544,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 185898,
       "name": "On the Low",
       "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
@@ -2464,7 +2562,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 114026,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/7mAaQ4kB1ym3e1HPvCSCq2"
@@ -2747,6 +2845,42 @@
     },
     {
       "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Run My Race",
+      "url": "https://open.spotify.com/track/24oH58vtxgSF2W5a4i6al0"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276024,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo"
+    },
+    {
+      "album": {
         "name": "Seihor (feat. Dblack)",
         "url": "https://open.spotify.com/album/7os1p9cKa1Mt78qAs1GUeg"
       },
@@ -2766,6 +2900,28 @@
       "duration_ms": 237035,
       "name": "Seihor (feat. Dblack)",
       "url": "https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1"
+    },
+    {
+      "album": {
+        "name": "Sensima",
+        "url": "https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187794,
+      "name": "Sensima",
+      "url": "https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4"
     },
     {
       "album": {
@@ -3169,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7mBq0ZB8bjoMviXOGaGDZz"
+    },
+    {
+      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -3238,7 +3412,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 200413,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
@@ -3364,7 +3538,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 231618,
       "name": "Ye",
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
@@ -3516,7 +3690,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"

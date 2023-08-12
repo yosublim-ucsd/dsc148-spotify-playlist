@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "10pc",
+        "url": "https://open.spotify.com/album/4aY4pGLmHiMmYzWvUZgeDo"
+      },
+      "artists": [
+        {
+          "name": "Jiles",
+          "url": "https://open.spotify.com/artist/7pnz0G9l89KK5iC6Beevcx"
+        },
+        {
+          "name": "Vinyl Villain",
+          "url": "https://open.spotify.com/artist/37OfAXhSGfjxrODZr2fNX4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "10pc",
+      "url": "https://open.spotify.com/track/4qVackkH4lFR8n0TZs6R0s"
+    },
+    {
+      "album": {
         "name": "1M Bitches",
         "url": "https://open.spotify.com/album/0mtRP7g0hW9egXyOL7fJaQ"
       },
@@ -70,7 +92,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 106800,
       "name": "21 (rushed)",
       "url": "https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc"
@@ -318,6 +340,24 @@
       "duration_ms": 179917,
       "name": "Ain't Been the Same",
       "url": "https://open.spotify.com/track/63MG1aq2r8U8SrBRTB3QsJ"
+    },
+    {
+      "album": {
+        "name": "Ain't Trippin",
+        "url": "https://open.spotify.com/album/45H9VeEuVkoZZMSRuVH4Zo"
+      },
+      "artists": [
+        {
+          "name": "Lee Bezel",
+          "url": "https://open.spotify.com/artist/73lsSnZSw4FUrXyCtlKS1G"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111542,
+      "name": "Ain't Trippin",
+      "url": "https://open.spotify.com/track/2ztRHARBf4Mp13vbNRkEFS"
     },
     {
       "album": {
@@ -1348,7 +1388,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 133537,
       "name": "Classy",
       "url": "https://open.spotify.com/track/3hi4HwkcA3na4w6LHzHFhs"
@@ -1428,7 +1468,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 205248,
       "name": "Comin For Everything",
       "url": "https://open.spotify.com/track/7to8qOcM0StbJDVigToMsP"
@@ -2972,7 +3012,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 89372,
       "name": "HANDS UP!",
       "url": "https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7"
@@ -3030,7 +3070,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 134831,
       "name": "HIDDEN SCARS",
       "url": "https://open.spotify.com/track/5LSVWTKI8IWeOkcJhYaJjv"
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 169024,
       "name": "HND - Radio Edit",
       "url": "https://open.spotify.com/track/5t2zDvyLsWIYc3gWzHLd5W"
@@ -3244,7 +3284,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
@@ -3296,7 +3336,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 213156,
       "name": "imnotgonnaWait",
       "url": "https://open.spotify.com/track/6Fh2nypB9mH8dJ5VxwYu5N"
@@ -3530,6 +3570,28 @@
       "duration_ms": 186069,
       "name": "iSLIPKNOT",
       "url": "https://open.spotify.com/track/7zSzyG5EPhs301p5JOR2cS"
+    },
+    {
+      "album": {
+        "name": "IT'S A STICKUP!",
+        "url": "https://open.spotify.com/album/1pwkZuJbb8lgA7iZ9Mtkig"
+      },
+      "artists": [
+        {
+          "name": "Clark D",
+          "url": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
+        },
+        {
+          "name": "kei",
+          "url": "https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143185,
+      "name": "IT'S A STICKUP!",
+      "url": "https://open.spotify.com/track/7iThZsIcXr3Rh80WPocI8y"
     },
     {
       "album": {
@@ -3916,6 +3978,24 @@
       "duration_ms": 115435,
       "name": "LIL MAMI",
       "url": "https://open.spotify.com/track/03UaAkqtScVy41bywcKIrx"
+    },
+    {
+      "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/0oUT14oAqjJ7N54A1EYW9Q"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150039,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/05CU9zeIGKMUHZT7EXNK5q"
     },
     {
       "album": {
@@ -4321,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172974,
+      "name": "MILLIONS",
+      "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "album": {
         "name": "FOOL:Fruits of Our Labor",
         "url": "https://open.spotify.com/album/30TLMdZga9iCWddq3CfuoY"
       },
@@ -4372,6 +4470,24 @@
       "duration_ms": 165069,
       "name": "MMM",
       "url": "https://open.spotify.com/track/5x9yr0CuJ8vehs8MTeWCsI"
+    },
+    {
+      "album": {
+        "name": "Sold A Dream",
+        "url": "https://open.spotify.com/album/7GjbucZPUdN34fNt0zvoPu"
+      },
+      "artists": [
+        {
+          "name": "JuS CODE",
+          "url": "https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97391,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/07PoRSMOFn1w2GjaNcGvDu"
     },
     {
       "album": {
@@ -5947,6 +6063,32 @@
     },
     {
       "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/4K2Cq0xH8psXEOqKyycgRU"
+      },
+      "artists": [
+        {
+          "name": "CLUB INDGO",
+          "url": "https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC"
+        },
+        {
+          "name": "Ill Addicts",
+          "url": "https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z"
+        },
+        {
+          "name": "San\u00e7a",
+          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174861,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/3BBe1hCmnjxvyfZrcEaxKu"
+    },
+    {
+      "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
@@ -6132,6 +6274,24 @@
       "duration_ms": 119418,
       "name": "Solid as a Rock",
       "url": "https://open.spotify.com/track/3p3taL6cO6HqBTN70JIR7n"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2bkIo96lDrUvlbnp6blCPX"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5CrRKZJNYgUk58YSvp1RHj"
     },
     {
       "album": {
@@ -6485,6 +6645,28 @@
     },
     {
       "album": {
+        "name": "Y2K",
+        "url": "https://open.spotify.com/album/020E8yMsQsJKsl30CByT8w"
+      },
+      "artists": [
+        {
+          "name": "BoriRock",
+          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
+        },
+        {
+          "name": "Maka 3.0",
+          "url": "https://open.spotify.com/artist/7zrePIYKlWxpTJkSaJge69"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104785,
+      "name": "TED DIBIASE",
+      "url": "https://open.spotify.com/track/58C7tuRRGIbYXeGs46Gsr4"
+    },
+    {
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/5rF7sW5ds1ZbV3686lTgvc"
       },
@@ -6496,7 +6678,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 176326,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/2nPNF9EBN0Lg2GXw7M9Kq2"
@@ -6518,7 +6700,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 175000,
       "name": "Thanksgiving",
       "url": "https://open.spotify.com/track/7HuwYobl8Z5ur2stmf2FrX"
@@ -6740,7 +6922,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193090,
       "name": "think too much - remix",
       "url": "https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe"
@@ -6888,7 +7070,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 107972,
       "name": "UNAVAILABLE",
       "url": "https://open.spotify.com/track/3DarMm5krwrazgoAceLSyb"
@@ -6971,6 +7153,24 @@
     },
     {
       "album": {
+        "name": "uUuAa",
+        "url": "https://open.spotify.com/album/1lf9Sm10a3zg2ds9LwtZZj"
+      },
+      "artists": [
+        {
+          "name": "Aura",
+          "url": "https://open.spotify.com/artist/5bfbqVepB9jL5gBANS74iU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141660,
+      "name": "uUuAa",
+      "url": "https://open.spotify.com/track/6KYBtbf2CNwkupTvXWfS7J"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/3rim2fqk0MyiDoJZkyZtJj"
       },
@@ -7007,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/0MGG7BoDYdKQ8eaPbJ03mX"
+      },
+      "artists": [
+        {
+          "name": "Krew$",
+          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160497,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/2NZ6UN88XJyrlfmHEYmEOc"
+    },
+    {
+      "album": {
         "name": "HOOT GOSPEL",
         "url": "https://open.spotify.com/album/0ByoFSrgFRY7gToTuEj1ZC"
       },
@@ -7026,6 +7244,24 @@
       "duration_ms": 203496,
       "name": "W.W.I.B.",
       "url": "https://open.spotify.com/track/5y3o0v46j0zbOhFpXiTl19"
+    },
+    {
+      "album": {
+        "name": "WAHALA!",
+        "url": "https://open.spotify.com/album/0h1JIu4n6aAaTwEjYiSPC8"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126128,
+      "name": "WAHALA!",
+      "url": "https://open.spotify.com/track/18Cnb8cok5JQeG8qU3ObVF"
     },
     {
       "album": {

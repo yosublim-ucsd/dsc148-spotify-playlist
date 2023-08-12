@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-101 songs - 7 hr 5 min
+102 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2023-05-05 |  |
 | [Peterson \(The American Dollar\)](https://open.spotify.com/track/3MzA9pCyJZI7DcVtM6Pc71) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Five Album Set & Bonus Eps](https://open.spotify.com/album/64TW6oYBQnJz36w7FKhDkP) | 3:19 | 2023-05-05 |  |
 | [Postcards for the Backyard](https://open.spotify.com/track/66de1fjUiP9a34bBByBUPf) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard](https://open.spotify.com/album/54F44eMlla5R9STS8jn8sI) | 4:15 | 2023-05-05 |  |
+| [Páthē](https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Páthē](https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9) | 5:41 | 2023-08-11 |  |
 | [Remedy](https://open.spotify.com/track/0lO7FDkxEOf8DJHqK0VN2C) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 5:15 | 2023-05-05 |  |
 | [River](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:16 | 2023-05-05 |  |
 | [Sand And Castles](https://open.spotify.com/track/5RZLlBDkpLoH9YFMdHF8IX) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Before And Now Seems Infinite](https://open.spotify.com/album/6pm2Rf8AGsRyS7UFYPSX9J) | 4:40 | 2023-05-05 |  |
@@ -92,7 +93,7 @@
 | [Sunset](https://open.spotify.com/track/4oYNsj2Ap7kwtlC8IbTElN) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Sunset](https://open.spotify.com/album/3SZeQIHxEUD9fiGR3jWdrq) | 4:05 | 2023-05-05 |  |
 | [Sweet Night](https://open.spotify.com/track/0K32rol95QOdpWtg2G7msF) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Jan Rørdam](https://open.spotify.com/artist/4yz330P6Salzhk36BWmfgA) | [Sweet Night](https://open.spotify.com/album/58PcVUWjDYJm3ji9ZNiqpP) | 3:31 | 2023-05-05 |  |
 | [The New Year](https://open.spotify.com/track/6dIET8vnKMRgnEeOhS4br1) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Hibernation](https://open.spotify.com/album/1JLRPkXnnI9Gj5xrG8UAXl) | 3:31 | 2023-05-05 |  |
-| [The Sound of Silence](https://open.spotify.com/track/4aeYJzllQ3ixhU4z4APcG7) | [The Abbasi Brothers](https://open.spotify.com/artist/2V0A3ODGUy9xIK5Zf7fLzn) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 3:26 | 2023-05-05 |  |
+| [The Sound of Silence](https://open.spotify.com/track/4aeYJzllQ3ixhU4z4APcG7) | [The Abbasi Brothers](https://open.spotify.com/artist/2V0A3ODGUy9xIK5Zf7fLzn) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 3:26 | 2023-05-05 | 2023-08-12 |
 | [The Stars In Spring](https://open.spotify.com/track/2ba30DnGwwHJxzeSfLuir3) | [Epic45](https://open.spotify.com/artist/0E76QDtyHZgw7i5l7mdn5K) | [May Your Heart Be The Map](https://open.spotify.com/album/0slV2ta0JCTWV5WvHy0Aux) | 4:16 | 2023-05-05 |  |
 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 | 2023-05-05 |  |
 | [Truth \- Helios Remix](https://open.spotify.com/track/49b9CdGP7y1vG3ArUQh75p) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/2citHziI00yk6qgNc9gzk2) | 3:45 | 2023-05-05 |  |

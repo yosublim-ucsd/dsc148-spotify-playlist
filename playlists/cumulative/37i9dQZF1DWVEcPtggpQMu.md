@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo?si=9Rr08LeqQR6W7XgGl9zpwQ">Dj Clen</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=ZBDdjm6qTJyZaePWEZcYeA">K.Keed</a>
 
 571 songs - 1 day 7 hr 13 min
 

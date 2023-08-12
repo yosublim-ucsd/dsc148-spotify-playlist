@@ -1971,6 +1971,28 @@
     },
     {
       "album": {
+        "name": "Trailer Park Down in Georgia",
+        "url": "https://open.spotify.com/album/5CRolidL5HqcX91L17tplc"
+      },
+      "artists": [
+        {
+          "name": "The Stixxx",
+          "url": "https://open.spotify.com/artist/3SCMsIiTzQvZucIhXxiKmw"
+        },
+        {
+          "name": "YaBoi Dirty",
+          "url": "https://open.spotify.com/artist/6FDodZidDhf58ZilaiRX3c"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243252,
+      "name": "Trailer Park Down in Georgia",
+      "url": "https://open.spotify.com/track/3oxvzg3d9v6mfPSfz3ikwc"
+    },
+    {
+      "album": {
         "name": "ALTOID COWBOY",
         "url": "https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3"
       },

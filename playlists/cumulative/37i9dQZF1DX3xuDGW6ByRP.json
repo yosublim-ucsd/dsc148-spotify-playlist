@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218096,
+      "name": "M\u00c1SCARA - AO VIVO",
+      "url": "https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX"
+    },
+    {
+      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },

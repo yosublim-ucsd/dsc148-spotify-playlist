@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 316002,
       "name": "Calles Rotas",
       "url": "https://open.spotify.com/track/5ONux1xDZJeTMJjwtx0VLy"
@@ -11336,6 +11336,28 @@
       "duration_ms": 187786,
       "name": "Muchacha (Ojos de Papel)",
       "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+    },
+    {
+      "album": {
+        "name": "Caramelos de Felicidad",
+        "url": "https://open.spotify.com/album/7pLDXo36pQJ7Dv2likm6nJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188447,
+      "name": "Muere y Llueve (feat. Soledad)",
+      "url": "https://open.spotify.com/track/3eD9IOTjzhH0U1GJ9a7z1m"
     },
     {
       "album": {

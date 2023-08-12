@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=LhWS3WvRQNO6vfFT\_W0wNg">Herman Suede</a>
 
-215 songs - 11 hr 26 min
+216 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adoley](https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [G.D.S](https://open.spotify.com/artist/1JJxXFiM6xyoaJecfqdgfx) | [A Lifetime Is Not Enough](https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH) | 2:17 | 2023-01-20 |  |
 | [Adomaa](https://open.spotify.com/track/3S4chGK4MIzbk65aWFdipz) | [Genna](https://open.spotify.com/artist/2ML4G2egB1izEQeNDbP24d) | [Adomaa](https://open.spotify.com/album/4HkLKbDS0CjcyyJnrDpKR5) | 3:22 | 2023-06-02 | 2023-06-10 |
 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-04-20 | 2023-06-23 |
+| [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 |  |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-12 | 2023-05-20 |
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Amina](https://open.spotify.com/track/4ZSjfHkPNAB1ywr4yW72fS) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Amina](https://open.spotify.com/album/654HPFGo9jVTd8biJ66QWX) | 2:57 | 2023-08-10 |  |
@@ -166,7 +167,7 @@
 | [Ride](https://open.spotify.com/track/60oKfOdsaHDve38dnEKTpA) | [NYA](https://open.spotify.com/artist/3cS8BydyVh7TR09iyKXhZH) | [Euphoria \- Vol\. 3 : Noir Tales](https://open.spotify.com/album/1oPj4fcTkKIb0ypftYNXIw) | 3:01 | 2023-07-14 | 2023-07-29 |
 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-11-04 |  |
 | [Road Clear](https://open.spotify.com/track/0XIhHYGnjN8wOlxsNbB0T2) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Road Clear](https://open.spotify.com/album/1FQD4Ak6bzqg0chwBIWQEM) | 3:08 | 2023-05-12 | 2023-08-11 |
-| [Run AM](https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:18 | 2023-04-27 |  |
+| [Run AM](https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:18 | 2023-04-27 | 2023-08-12 |
 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 | 2022-12-18 |  |
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-11-04 |  |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-03-18 |

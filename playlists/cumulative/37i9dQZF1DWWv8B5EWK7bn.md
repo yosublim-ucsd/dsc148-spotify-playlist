@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-322 songs - 23 hr 9 min
+324 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [fuck yeah no please](https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [fuck yeah no please](https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc) | 2:25 | 2022-08-13 | 2022-09-12 |
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 | 2023-06-06 |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-11 |  |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |
 | [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-10-05 | 2023-04-14 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-08-13 |  |
@@ -117,7 +118,7 @@
 | [Hieroglyphs](https://open.spotify.com/track/1kMD0CjbDthGRUsnjgOKmL) | [TRZTN](https://open.spotify.com/artist/4dgxRRkyX6JZJIFQ9jMsr1), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Hieroglyphs](https://open.spotify.com/album/2FAcCSzxIFtVcFrtI9jHwD) | 3:14 | 2021-10-06 | 2022-07-16 |
 | [Highlight](https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Highlight](https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU) | 3:17 | 2023-08-08 |  |
 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 | 2021-10-06 |  |
-| [Home Maker](https://open.spotify.com/track/5vGZX134ZZktjCEYoDm462) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 5:02 | 2023-01-03 |  |
+| [Home Maker](https://open.spotify.com/track/5vGZX134ZZktjCEYoDm462) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 5:02 | 2023-01-03 | 2023-08-12 |
 | [Home to You](https://open.spotify.com/track/2HzWtan4jF5l8Hg4IalAFn) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/082FaK20Q5pWBugogTQbGW) | 5:27 | 2021-10-06 | 2022-07-29 |
 | [Home to You](https://open.spotify.com/track/2YqA1ZZ62XKJry0BoQwNSx) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/2fUtxQpH69v67AXow7YLIK) | 5:27 | 2021-10-06 | 2022-09-13 |
 | [Homesick \(Gorgeous & Arrogant\)](https://open.spotify.com/track/43bsBUJcuqgeDtF4jypkUT) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 4:00 | 2023-01-20 | 2023-04-01 |
@@ -279,13 +280,14 @@
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2023-01-20 | 2023-06-08 |
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-13 |  |
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-08-14 |
-| [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 | 2023-06-02 |  |
+| [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 | 2023-06-02 | 2023-08-12 |
 | [The Lava Is Calm](https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [The Lava Is Calm](https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg) | 3:06 | 2023-05-12 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-05-13 |
 | [The Oh Zone](https://open.spotify.com/track/1nyMpGw10guuyKFtxLshVl) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Off Planet](https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0) | 2:10 | 2023-06-27 | 2023-08-11 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2023-04-01 |
 | [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2023-02-07 |
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 |  |
+| [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 |  |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-06-02 |  |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2021-10-06 |  |
 | [Theme from SCUD](https://open.spotify.com/track/1atsnzNJRSTmmyg99h3k7D) | [SCUDFM](https://open.spotify.com/artist/32ick7QrmuMlgsV3i6IXGT) | [INNIT](https://open.spotify.com/album/6SvKfVNfxNQA7YtoNJClAw) | 4:09 | 2023-01-07 | 2023-01-21 |

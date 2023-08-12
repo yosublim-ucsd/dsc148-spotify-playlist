@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm?si=SZzwfXKMRKekFwGennHvQg"> Herman Suede</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,307 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,321 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Hope Alive](https://open.spotify.com/track/4e7ews9UGAlxHA4rV06KoY) | [Mulla Rae](https://open.spotify.com/artist/2A2cmFmFbDZIVYIpVmR813) | [Wavy Sound](https://open.spotify.com/album/78HIwKoPbr9FmAiNs0Shx4) | 2:44 |
 | 90 | [In My Bed](https://open.spotify.com/track/1IGUy2nvx6G10HzyWiePaJ) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX) | [In My Bed](https://open.spotify.com/album/68NzuGaGavWYXT8Tuiikht) | 3:13 |
 
-Snapshot ID: `MCxhZGVhYjY2MzE0MDllNWExMGE0MDRlM2UzMzA4ODFjM2MzOWZmZmI2`
+Snapshot ID: `MCwzNDdhYzE2YjZjMzJiYmExMDlhNzhlNWRhNGQ1ODk0MmM2YmE3OTJh`

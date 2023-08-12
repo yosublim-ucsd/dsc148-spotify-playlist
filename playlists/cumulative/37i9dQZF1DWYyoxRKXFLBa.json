@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 149572,
       "name": "Prisma Lunar",
       "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
@@ -2022,6 +2022,24 @@
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
+    },
+    {
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
     },
     {
       "album": {

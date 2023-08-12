@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
 
-75 songs - 5 hr 34 min
+77 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2023-07-14 |  |
 | [Draining Me](https://open.spotify.com/track/3I47pT8Tyg5AyOjxZHEfvP) | [Worst](https://open.spotify.com/artist/50Gz8NDlBXc8bKNUqlQlQp) | [Deserto](https://open.spotify.com/album/267sNJGcmma5Zk4chbP3jl) | 2:39 | 2023-07-14 |  |
 | [Earth & Sky](https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Earth & Sky](https://open.spotify.com/album/6NxMsVkNmPY0bUfyQFhCDm) | 4:09 | 2023-07-14 |  |
-| [Eye of God](https://open.spotify.com/track/2raaUxcJiWAECJHBym897Y) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Eye of God](https://open.spotify.com/album/7kod4y0AUTXDTxQKLoDoOf) | 3:32 | 2023-07-14 |  |
+| [Eye of God](https://open.spotify.com/track/2raaUxcJiWAECJHBym897Y) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Eye of God](https://open.spotify.com/album/7kod4y0AUTXDTxQKLoDoOf) | 3:32 | 2023-07-14 | 2023-08-12 |
 | [Face of the Storm](https://open.spotify.com/track/4X8OFcU0z00WUHVV3n87u2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [Vera Cruz](https://open.spotify.com/album/0gdT0litKVAVcypvujGegm) | 7:30 | 2023-07-14 |  |
 | [Faster](https://open.spotify.com/track/3Q8fUwTH6tRIUfwLcZq3U8) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA), [Talita Quintano](https://open.spotify.com/artist/6GaYWEd64lYBWbemxq0sP7), [Fábio Caldeira](https://open.spotify.com/artist/6p28jKesBQisadiTLVwCiS), [Victor Emeka](https://open.spotify.com/artist/7DICtuyHfL4tNDtM9AneG7) | [Faster](https://open.spotify.com/album/6iFeDARJar04FmDL4fz1aB) | 4:10 | 2023-07-14 |  |
 | [Fighting Gravity](https://open.spotify.com/track/0bLslvYS3YLWjzNarlieUn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:56 | 2023-07-14 |  |
@@ -70,7 +70,8 @@
 | [The Doctor \- Jacksons Studio Demos \- October 1981](https://open.spotify.com/track/4uEkNKrTju3mBgJwkq4UQz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Deluxe 40th Anniversary Edition\)](https://open.spotify.com/album/2tkYl59Gdw4kLSXGCkEgN8) | 3:10 | 2023-07-14 |  |
 | [The Essence of Being Human](https://open.spotify.com/track/6iwwJmekGU5s17xwCSAEJP) | [United For Distortion](https://open.spotify.com/artist/3DUCTnzBpcCgbNOAewbwSQ) | [The Essence of Being Human](https://open.spotify.com/album/25zJkatGEUwzg33mpAIrDp) | 5:41 | 2023-07-14 |  |
 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 | 2023-07-14 |  |
-| [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 |  |
+| [The Hour of the Wolf](https://open.spotify.com/track/67vVGpe4YboSOFxQf5EA2q) | [Midnight Guest](https://open.spotify.com/artist/6RRkpb9ozPwOjXpsolUqGx) | [The Hour of the Wolf](https://open.spotify.com/album/0TqcCofh2UkHlrhHISeJn4) | 3:54 | 2023-07-14 | 2023-08-12 |
+| [The Other Side of Anger](https://open.spotify.com/track/3FVHPQg9dllT74BWHQoClE) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [Shades of Sorrow](https://open.spotify.com/album/0wT5vnIDu5sHz3zlIfvtQc) | 4:23 | 2023-08-11 |  |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/0owvkjZL6aB48Uir4tUVQq) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 3:42 | 2023-07-14 |  |
 | [The Rover](https://open.spotify.com/track/3jUFOx8ZRQUuXHfiVeTscu) | [Vandroya](https://open.spotify.com/artist/0ksiPgsqQQqpNLyS8qGx8N) | [The Rover](https://open.spotify.com/album/5lwYrm10PIrGfuIOoJRuyh) | 5:43 | 2023-07-14 |  |
 | [The Spreading Soul Forever](https://open.spotify.com/track/5ktvPDSpNjOr05wT7mUz8G) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7), [Andre Matos](https://open.spotify.com/artist/4FhjNTlKUnMbaeS21fouvd) | [The Spreading Soul Forever](https://open.spotify.com/album/7KQR3SIUAir2OkvPq8upOa) | 4:57 | 2023-07-14 |  |
@@ -81,6 +82,7 @@
 | [Torn Apart](https://open.spotify.com/track/4LM2zp6DJaKQfN0Gyi8Z5f) | [NervoChaos](https://open.spotify.com/artist/79Zxs7jzzD0sCwnYOUCKGx) | [Torn Apart](https://open.spotify.com/album/3jRfBgD7F6J9AhrNMiNbD4) | 3:51 | 2023-07-14 |  |
 | [Under The Sun](https://open.spotify.com/track/232zDRN94ayKlp9SZSsl8r) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Under The Sun](https://open.spotify.com/album/1oweEZoub0eQXjT0jyGPnY) | 4:54 | 2023-07-14 |  |
 | [Violent Times](https://open.spotify.com/track/1fUnlLKs0e7PrgJ2TnCxHv) | [Red Razor](https://open.spotify.com/artist/5unXbCLWuUcsnAnz4ecKbg) | [The Revolution Continues](https://open.spotify.com/album/1a6jTe9E3iX1hH4xuGT2Qp) | 2:54 | 2023-07-14 |  |
+| [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-11 |  |
 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 | 2023-07-14 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2023-07-14 |  |
 

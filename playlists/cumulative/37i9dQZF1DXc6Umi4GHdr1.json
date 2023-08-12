@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Carroll Gardens",
+        "url": "https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Carroll Gardens",
+      "url": "https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR"
+    },
+    {
+      "album": {
         "name": "Cascading Gracefully",
         "url": "https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM"
       },
@@ -917,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6ygOd5rPLlHFTzQS2CMpmk"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165387,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6jEZ4J76ZXnj49JZrMCTIM"
+    },
+    {
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/12SQTw5KsmzIa8BENXP98Y"
       },
@@ -1187,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Fairplex",
+        "url": "https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu"
+      },
+      "artists": [
+        {
+          "name": "Papi\u00f3",
+          "url": "https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "Fairplex",
+      "url": "https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo"
+    },
+    {
+      "album": {
         "name": "Fallen Apples\u2019 Scent",
         "url": "https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p"
       },
@@ -1400,6 +1454,24 @@
       "duration_ms": 144054,
       "name": "Gone to seed",
       "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc"
+      },
+      "artists": [
+        {
+          "name": "Esther Lopez",
+          "url": "https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu"
     },
     {
       "album": {
@@ -1763,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Kenmore",
+        "url": "https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B"
+      },
+      "artists": [
+        {
+          "name": "Dax Warner",
+          "url": "https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Kenmore",
+      "url": "https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv"
+    },
+    {
+      "album": {
         "name": "Kind & Generous",
         "url": "https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R"
       },
@@ -1900,7 +1990,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 151968,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0"
@@ -1944,6 +2034,24 @@
       "duration_ms": 99840,
       "name": "Lettre encore",
       "url": "https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl"
+    },
+    {
+      "album": {
+        "name": "Like A Feather",
+        "url": "https://open.spotify.com/album/3fU6JjOGp9mdg8PyxcXPy0"
+      },
+      "artists": [
+        {
+          "name": "Jaime Escalera",
+          "url": "https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Like A Feather",
+      "url": "https://open.spotify.com/track/7Mzcjfy53dYvSeqaTR0fSW"
     },
     {
       "album": {
@@ -2380,6 +2488,24 @@
       "duration_ms": 185658,
       "name": "Old Harbor Road",
       "url": "https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5"
+    },
+    {
+      "album": {
+        "name": "Old Novels",
+        "url": "https://open.spotify.com/album/6SGa8dYeTFicb8ORNNr33j"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128239,
+      "name": "Old Novels",
+      "url": "https://open.spotify.com/track/7qBvJvJkz9RAOwzAzxukbH"
     },
     {
       "album": {
@@ -3111,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Springwood Ranch",
+        "url": "https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Springwood Ranch",
+      "url": "https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD"
+    },
+    {
+      "album": {
         "name": "Polarlicht",
         "url": "https://open.spotify.com/album/58l5dLoV97z5mL6DBTPFVD"
       },
@@ -3198,6 +3342,24 @@
       "duration_ms": 98081,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127724,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI"
     },
     {
       "album": {
@@ -3468,6 +3630,24 @@
       "duration_ms": 122449,
       "name": "The Summer House",
       "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "album": {
+        "name": "The Wind's Lullaby",
+        "url": "https://open.spotify.com/album/4TeJFDFWCKMUocydiW9Pnv"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146786,
+      "name": "The Wind's Lullaby",
+      "url": "https://open.spotify.com/track/59RRgYSHSvKlM9awfBm0hk"
     },
     {
       "album": {
@@ -3785,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8"
+    },
+    {
+      "album": {
         "name": "Voluntad",
         "url": "https://open.spotify.com/album/2rV6cBlzGCjPaQZDTSbbWJ"
       },
@@ -3839,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "Weaving Together",
+        "url": "https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203711,
+      "name": "Weaving Together",
+      "url": "https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V"
+    },
+    {
+      "album": {
         "name": "Wees Hier",
         "url": "https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q"
       },
@@ -3872,6 +4088,24 @@
       "duration_ms": 184809,
       "name": "Welcome Another Morning",
       "url": "https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc"
+    },
+    {
+      "album": {
+        "name": "Wellspring for thought",
+        "url": "https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "Wellspring for thought",
+      "url": "https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q"
     },
     {
       "album": {

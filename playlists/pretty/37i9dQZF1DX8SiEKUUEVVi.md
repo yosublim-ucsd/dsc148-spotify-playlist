@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 | 8 | [You Are Unstoppable](https://open.spotify.com/track/0ZZNnIX9FTmCufK0aZmq2I) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Conchita](https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S) | 3:27 |
 | 9 | [Revolution \- Radio Edit](https://open.spotify.com/track/2DeEXfLtcC6TYMhOx5i24d) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Revolution](https://open.spotify.com/album/6IPacncZL1jOyXgnuePDR9) | 3:00 |
 | 10 | [Genau jetzt \- Single Version](https://open.spotify.com/track/1e6IfTbKYIFfrRFqTHsxW9) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Genau Jetzt](https://open.spotify.com/album/4DI6G7ndQBHkjyTDO5Qb10) | 3:16 |
-| 11 | [Hope There's Someone](https://open.spotify.com/track/6hNOgftznEOoTrermrc30D) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 4:21 |
+| 11 | [Hope There's Someone](https://open.spotify.com/track/6hNOgftznEOoTrermrc30D) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 4:21 |
 | 12 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
 | 13 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 14 | [Shades of Blue](https://open.spotify.com/track/3EQ1tsO3gLby0K294yTGEz) | [ESKA](https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg) | [ESKA](https://open.spotify.com/album/33ivVGguNH9c9nA223YAGc) | 4:04 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 | 28 | [Overcome \(feat\. Nile Rodgers\)](https://open.spotify.com/track/1U6EZRkaJy3II3ElJlpzMl) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overcome \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6hLwtZhBzvpt8PomKTgA2N) | 3:10 |
 | 29 | [Agony](https://open.spotify.com/track/2SxirI2LVqTAa6YwZpTAyN) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Fall to Grace \(Expanded Edition\)](https://open.spotify.com/album/3kWgBxtkD8ZJ9Xu84xrhWj) | 3:11 |
 
-Snapshot ID: `MCwzMmY4NDcxNzU2OWRiNDgyZjQ3ZjBjZDY5OWM0MTY2NzE5MjY0NzU0`
+Snapshot ID: `MCw3YjdlZjgwMDBkMDQwYzcwOGQ4MTk1OWQ5OWEyOTQ3ZTA4NGZjODEx`

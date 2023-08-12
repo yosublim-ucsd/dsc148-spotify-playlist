@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,565 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,569 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 35 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 |
 | 36 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 37 | [純情](https://open.spotify.com/track/7CvTXPEEFrDinye9qEevka) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [純情](https://open.spotify.com/album/5atQKsd77QwGjmxvZhKey6) | 4:02 |
-| 38 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 |
+| 38 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 |
 | 39 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 |
 | 40 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 |
 | 41 | [1973的遺跡](https://open.spotify.com/track/6VmZOgnW2EorJ3qD0hvpIO) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的遺跡](https://open.spotify.com/album/0n8EXWlPfdWwjC9RxGAwgy) | 3:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 48 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 49 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCw2MTVhNmEzMzg2YzViZmU2NjRjZWY5OWNlMWViMjczYzg1ZDhmYjkx`
+Snapshot ID: `MCw0ZjYwMTJkMzJlZmQ3Mzg5OWUwZmE5YzIwMmJmZWQ3M2EyOTMwNzFi`

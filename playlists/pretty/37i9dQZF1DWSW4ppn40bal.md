@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,308 likes - 386 songs - 20 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,327 likes - 386 songs - 20 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 71 | [Harmonious Pink](https://open.spotify.com/track/159e86GK041IHPDGGys1Xo) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Harmonious Pink](https://open.spotify.com/album/0ilDCKbfoslC4xl2eScsGT) | 3:02 |
 | 72 | [Sleep Noise \(Pink\)](https://open.spotify.com/track/6RhdkYKpjyHP56IBpE88ic) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sleep Pink Noise](https://open.spotify.com/album/3EHoR3GOg184qkJ6D1ktrE) | 2:19 |
 | 73 | [Ruido Rosa \- Seamless](https://open.spotify.com/track/2XxL38UvgKqGdVlg5k2xth) | [Amantigo](https://open.spotify.com/artist/2egW4Lh3v9aPggJ9e5wAHc) | [Ruido Rosa](https://open.spotify.com/album/6CwpDWdL7PxgH97lvEdx2c) | 3:08 |
-| 74 | [Pink Noise For Relaxation](https://open.spotify.com/track/37MIaBZecwUz7mVE6OBGhC) | [The Startups](https://open.spotify.com/artist/6CaGISWlGYn81FIMoHzBTr) | [Pink Noise Calmness](https://open.spotify.com/album/5ZN8DxBt2cUOFW6dxID48Q) | 3:19 |
+| 74 | [Pink Noise For Relaxation](https://open.spotify.com/track/37MIaBZecwUz7mVE6OBGhC) | [The Startups](https://open.spotify.com/artist/27jAZ72shHFpW0SRZHiJuP) | [Pink Noise Calmness](https://open.spotify.com/album/5ZN8DxBt2cUOFW6dxID48Q) | 3:19 |
 | 75 | [Relaxed Pink Noise](https://open.spotify.com/track/0et8uQqg0QZW2nLOqsC90K) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Pink Noise Concentration](https://open.spotify.com/album/5AGgUXH6rsmcBfGF2LMLEp) | 2:53 |
 | 76 | [Dreamy Pink Noise](https://open.spotify.com/track/5gkiGV7pu6ejpdgIaB8JBj) | [Le Vie Noise](https://open.spotify.com/artist/4PhRUIUB5KfZS3nwdFM7p0) | [Pink Noise Visions](https://open.spotify.com/album/2xS74gDgkoqhH2I0g8itak) | 2:06 |
 | 77 | [Soft Pink Noise](https://open.spotify.com/track/0ZH1Wte8twkKaiFEyEakAr) | [Puffs Of Bliss](https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq) | [Pink Focus](https://open.spotify.com/album/0SxZCyWAICj56nAUpi1jN4) | 3:14 |
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 385 | [Brown Bliss 250 Hz Q 1 \- Seamless](https://open.spotify.com/track/1i92x6LMGFvTvtqGWLBqw4) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Brown Bliss](https://open.spotify.com/album/6eXlffD6lBYQwW2nvWL5xq) | 2:57 |
 | 386 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 |
 
-Snapshot ID: `MCw2ZjYzYTEzZjA5MGMzNTgxZTU3YzMzZGRkMGZkNmIyZWNjMzcxYzc5`
+Snapshot ID: `MCwyYWQwY2VkNTFkNzg1OWRmOTY0ZjdlNWJlZWZiOWRiMDhjNTlhNzAz`

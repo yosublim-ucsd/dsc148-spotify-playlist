@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9 Patterson",
+          "url": "https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189716,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o"
+    },
+    {
+      "album": {
         "name": "Cloud Corner",
         "url": "https://open.spotify.com/album/67VwTfsOQ2vFAE6um5seLD"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,523 songs - 3 day 10 hr 29 min
+1,524 songs - 3 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-16 | 2021-06-18 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2023-01-03 |
+| [Reckless](https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Reckless](https://open.spotify.com/album/1fNVh4Q9l4k7WKEWsH7hnS) | 2:44 | 2023-08-11 |  |
 | [REDFLAG](https://open.spotify.com/track/2vRXnE2BH566tbMfH6ODgn) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [REDFLAG](https://open.spotify.com/album/5uXfQMfUzpz43I33ErQV9L) | 2:27 | 2023-07-22 | 2023-07-30 |
 | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/track/7vCzRSmOiztXt4ikVp0uMU) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/album/7zNoZoPUdCMVRPkJaWwsGl) | 2:52 | 2021-10-04 | 2021-10-19 |
 | [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 | 2023-08-09 |
@@ -1207,7 +1208,7 @@
 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 | 2023-06-17 | 2023-06-19 |
 | [Souda kesämies \(Vain elämää kausi 12\)](https://open.spotify.com/track/0WJ0KY1f6jptxGyuaXDikU) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Souda kesämies \(Vain elämää kausi 12\)](https://open.spotify.com/album/4LQhQkRRv63fahyOQvgxmG) | 3:16 | 2021-10-31 | 2021-11-09 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-22 |
-| [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-08-10 |  |
+| [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-08-10 | 2023-08-12 |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-03-12 | 2022-03-14 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-06 |  |

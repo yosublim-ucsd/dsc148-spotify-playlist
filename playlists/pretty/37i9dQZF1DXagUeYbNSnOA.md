@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring PLATANOS\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,676 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,682 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Hola Senpai](https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Hola Senpai](https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4) | 1:50 |
 | 31 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 |
 | 32 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
-| 33 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 |
-| 34 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 |
+| 33 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 |
+| 34 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 |
 | 35 | [AVIONES \(i wanna fly\)](https://open.spotify.com/track/06Dv3OLVkC65n34sRXOPmZ) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [AVIONES \(i wanna fly\)](https://open.spotify.com/album/02f35a3wdG1EPz4ueBnLJL) | 2:46 |
 | 36 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 |
 | 37 | [Hero](https://open.spotify.com/track/3GcTV9SdhkhGwFZVZ14Kzc) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Hero](https://open.spotify.com/album/4BKSx1fa1slV2v0a8lBx3V) | 2:36 |
 | 38 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
-| 39 | [vomittt](https://open.spotify.com/track/0At0rn42n81pFkRQtmuVWn) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [vomittt](https://open.spotify.com/album/2wSR02YyxztfQL80uJ9Lxp) | 2:44 |
-| 40 | [Temo Todo](https://open.spotify.com/track/5P2MKs2Bm9qw0ub4K7vw6B) | [Los Daddy Issues](https://open.spotify.com/artist/144F3Wur2jXwIqdIwRJKws) | [Temo Todo](https://open.spotify.com/album/20NRKS2DbWMrss8AdTT1NW) | 3:17 |
-| 41 | [Mitad](https://open.spotify.com/track/3NbTN1nYuRe9oJ8AjZGlhG) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xCYBERL0VEx](https://open.spotify.com/album/6DZNTWOYKFz5cEYVMR2BsQ) | 2:38 |
-| 42 | [Tu Calor](https://open.spotify.com/track/7e2qzW5a7WyUlOCoGBjGBj) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0) | [Tu Calor](https://open.spotify.com/album/5ZfgnIJgOp07g2uy8jTkUY) | 2:27 |
-| 43 | [Me Tienes Mal](https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [Me Tienes Mal](https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b) | 2:49 |
+| 39 | [Temo Todo](https://open.spotify.com/track/5P2MKs2Bm9qw0ub4K7vw6B) | [Los Daddy Issues](https://open.spotify.com/artist/144F3Wur2jXwIqdIwRJKws) | [Temo Todo](https://open.spotify.com/album/20NRKS2DbWMrss8AdTT1NW) | 3:17 |
+| 40 | [vomittt](https://open.spotify.com/track/0At0rn42n81pFkRQtmuVWn) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [vomittt](https://open.spotify.com/album/2wSR02YyxztfQL80uJ9Lxp) | 2:44 |
+| 41 | [Me Tienes Mal](https://open.spotify.com/track/7MPyjCXS1FOA8QeRpPix6a) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [Me Tienes Mal](https://open.spotify.com/album/0zMdWrU4tO0tAv2iJ0ix6b) | 2:49 |
+| 42 | [Mitad](https://open.spotify.com/track/3NbTN1nYuRe9oJ8AjZGlhG) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xCYBERL0VEx](https://open.spotify.com/album/6DZNTWOYKFz5cEYVMR2BsQ) | 2:38 |
+| 43 | [Tu Calor](https://open.spotify.com/track/7e2qzW5a7WyUlOCoGBjGBj) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0) | [Tu Calor](https://open.spotify.com/album/5ZfgnIJgOp07g2uy8jTkUY) | 2:27 |
 | 44 | [Algún Día](https://open.spotify.com/track/3dFs0Q4fIVI8Xg4s7g3dRx) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K) | [Algún Día](https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE) | 2:45 |
 | 45 | [Aurora Boreal](https://open.spotify.com/track/7wmsteFYFc8nXqtc0H6sPG) | [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Aurora Boreal](https://open.spotify.com/album/0XmcoS3AURx5gQQpOXdPkN) | 3:03 |
 | 46 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Roto](https://open.spotify.com/track/2j823TVBnXyLGSQIRcbEME) | [underone mx](https://open.spotify.com/artist/7CZr4o7JvNgDf56kVLbTUv) | [Roto](https://open.spotify.com/album/4KH36DomBkrUJC3MLHkZpw) | 3:39 |
 | 50 | [Limerencia](https://open.spotify.com/track/08JPJmE5uITFazKzf6SwMn) | [URBAN GREEN](https://open.spotify.com/artist/5yLN88Ane1HFWAMuCUODRW) | [Limerencia](https://open.spotify.com/album/6nS10e4Oe3gzpgPS0Ivewf) | 2:25 |
 
-Snapshot ID: `MCw4ZTJhMDE3ZDhmOWFhOWZiZjQ0N2VkNWExNjQ1OTc1NzU5OWVjMzZl`
+Snapshot ID: `MCxmYTYyZDQ1ZDk3NDgxZmM2MjY3MjNkZjUwOGM5ZGU3NjM2NWM3ZmE1`

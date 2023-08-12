@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,382 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,392 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,18 +17,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Mon Chéri](https://open.spotify.com/track/6kHNwwZvxI6ZJp05FFLFBP) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Mon Chéri](https://open.spotify.com/album/1ynKzYAVTv69on00dwnVRr) | 2:37 |
 | 8 | [Fruchtsaft](https://open.spotify.com/track/2gcpea4r4aH9Hm0Ty0kmNt) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Fruchtsaft](https://open.spotify.com/album/6A7s8eHyJsVGR9XlWYjL98) | 2:00 |
 | 9 | [Nirwana](https://open.spotify.com/track/2yp35w3aw4JDode0KFhOux) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Nirwana](https://open.spotify.com/album/1rx2NgQhqPtaPRyyWr64ah) | 2:44 |
-| 10 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
-| 11 | [Billie Jean](https://open.spotify.com/track/7xqXXlqIxvgaCpYFBUExZO) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Billie Jean](https://open.spotify.com/album/0s9vaJkquKeuXLfZ0bYC5n) | 2:21 |
+| 10 | [Billie Jean](https://open.spotify.com/track/7xqXXlqIxvgaCpYFBUExZO) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Billie Jean](https://open.spotify.com/album/0s9vaJkquKeuXLfZ0bYC5n) | 2:21 |
+| 11 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 12 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 |
 | 13 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 |
 | 14 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 |
 | 15 | [Egal was](https://open.spotify.com/track/71z6IWe0V0z5mfLcvxEJFt) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Egal was](https://open.spotify.com/album/51427tNhEqzDNVbtLQJyFZ) | 2:28 |
 | 16 | [Lento](https://open.spotify.com/track/12AsSN4CKuwlc0CcuqsqpF) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Lento](https://open.spotify.com/album/5yM7vcxyc0W4uC7lZBCuH5) | 2:20 |
 | 17 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
-| 18 | [Sag Mir](https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Sag Mir](https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF) | 3:00 |
-| 19 | [Summer Love](https://open.spotify.com/track/0nsGKdYyhCkHErQjkMwtRe) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Summer Love](https://open.spotify.com/album/282lZlTXEyo401BruSaBoA) | 2:43 |
-| 20 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 |
-| 21 | [Späti.wav](https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Späti.wav](https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J) | 2:07 |
+| 18 | [Summer Love](https://open.spotify.com/track/0nsGKdYyhCkHErQjkMwtRe) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Summer Love](https://open.spotify.com/album/282lZlTXEyo401BruSaBoA) | 2:43 |
+| 19 | [Sag Mir](https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Sag Mir](https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF) | 3:00 |
+| 20 | [Späti.wav](https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Späti.wav](https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J) | 2:07 |
+| 21 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 |
 | 22 | [Was Junge was](https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Was Junge was](https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me) | 2:14 |
 | 23 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
 | 24 | [Buchstabiere Leonie](https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Buchstabiere Leonie](https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu) | 3:15 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Blue Crystal Water](https://open.spotify.com/track/0ZAuzWS5Yc8EcXSba0JzBh) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Blue Crystal Water](https://open.spotify.com/album/5gKvHIv45f5W2tsxc9w11J) | 3:15 |
 | 36 | [C'est la vie](https://open.spotify.com/track/4Lrfvts1p6l3tTGZvGCrfM) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [C'est la vie](https://open.spotify.com/album/25NlZ3o1R9nNc2FHcPeB9Q) | 3:28 |
 | 37 | [More Than This](https://open.spotify.com/track/4uGylsvTzQHw8vH3pzSE8m) | [Aze](https://open.spotify.com/artist/4V4ZQE3T7sesTCOyW4Q8N1) | [More Than This](https://open.spotify.com/album/0pxyNXYrJA4BKsi9CyYHBI) | 3:14 |
-| 38 | [Faded](https://open.spotify.com/track/6HYVbVGHQ3SXTKz9Jkp0mu) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Faded](https://open.spotify.com/album/2zBKLD8qjDjMRe9DQRjcyH) | 2:07 |
-| 39 | [Day Dreamer](https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Day Dreamer](https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb) | 4:21 |
+| 38 | [Day Dreamer](https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Day Dreamer](https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb) | 4:21 |
+| 39 | [Faded](https://open.spotify.com/track/6HYVbVGHQ3SXTKz9Jkp0mu) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Faded](https://open.spotify.com/album/2zBKLD8qjDjMRe9DQRjcyH) | 2:07 |
 | 40 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
 | 41 | [Permanent Records](https://open.spotify.com/track/2IBgKl3ssq1p2gUGDATCSM) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Permanent Records](https://open.spotify.com/album/7rrTyOR4XaF1cfZBsLkzIL) | 4:58 |
 | 42 | [SOS/Stranded](https://open.spotify.com/track/5NxpVX0gKM6NCLnbKIIqYf) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/2QJpS5AllM9t63Fim1cE7T) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
 | 50 | [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 |
 
-Snapshot ID: `MCw0YWMzM2RkYTIwNWYyNzgzNjQzNGE5NzcyZTMxZjlhM2NhOGNmNGYz`
+Snapshot ID: `MCwzNWM1Yzc5ZDM1NTA2N2FjY2FlZTI4NjEyYWNlOTIzMTA2YmY3M2Qx`

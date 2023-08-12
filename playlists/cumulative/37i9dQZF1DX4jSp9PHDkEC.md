@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-300 songs - 20 hr 2 min
+301 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 | 2023-01-17 |  |
 | [A Different Kind Of Human](https://open.spotify.com/track/3xCYl9Ix2ZUa7rH7nbUOTS) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Different Kind Of Human \(Step II\)](https://open.spotify.com/album/2xLOaAi985d5Xb4alPI8Hf) | 4:01 | 2023-01-17 |  |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/1NZM6rDe48w1GSisd75G5Q) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:59 | 2023-01-17 |  |
+| [Across The Multiverse](https://open.spotify.com/track/18rBxSjNK6iV7XfIyASKjI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Across The Multiverse](https://open.spotify.com/album/7qiFfk3QDw5YZbuBpMktLX) | 3:04 | 2023-01-17 |  |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2023-01-17 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2023-01-17 |  |
 | [Alison](https://open.spotify.com/track/4WyC79gL42g3flD9UQ4PMh) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Alison](https://open.spotify.com/album/1BnNdHQ6yTaKWJZAiW3mej) | 3:15 | 2023-01-17 |  |
@@ -203,7 +204,7 @@
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2023-01-17 |  |
 | [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 | 2023-01-17 |  |
 | [Punta Cometa \- Dancing For The Answers Alt Version](https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dancing For The Answers \- EP](https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg) | 3:36 | 2023-01-17 |  |
-| [Quarry](https://open.spotify.com/track/26dfOUk6kHh32ZmXFZ4Ixu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:52 | 2023-01-17 |  |
+| [Quarry](https://open.spotify.com/track/26dfOUk6kHh32ZmXFZ4Ixu) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:52 | 2023-01-17 | 2023-08-12 |
 | [Quick Canal \(W/ Laetita Sadier\)](https://open.spotify.com/track/2mJhNvt2dDCfcNn8IZg6sF) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Laetita Sadier](https://open.spotify.com/artist/0vUkJ48GOHNggVNuX6ZXOX) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 8:38 | 2023-01-17 |  |
 | [quiet motions](https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:38 | 2023-01-17 |  |
 | [Quiet, The Winter Harbor](https://open.spotify.com/track/1OArWxrw689jZXaJzSErbh) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:15 | 2023-01-17 |  |

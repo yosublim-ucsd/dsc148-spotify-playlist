@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Keyon Harrold",
+  "description": "New jazz for open minds. Cover: Johnathan Blake",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -880,6 +880,32 @@
       "duration_ms": 470400,
       "name": "Ali Dell'Angelo",
       "url": "https://open.spotify.com/track/6qjPa2QWAiWqfCevDur97U"
+    },
+    {
+      "album": {
+        "name": "New Heart Designs",
+        "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222741,
+      "name": "Alien Love Call",
+      "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
     },
     {
       "album": {
@@ -1834,6 +1860,24 @@
       "duration_ms": 278559,
       "name": "Augmented Reality",
       "url": "https://open.spotify.com/track/4kQzOfJxDpviaEpOFPOBU6"
+    },
+    {
+      "album": {
+        "name": "August Again",
+        "url": "https://open.spotify.com/album/4VkivTu2Xx6FNCoHflNVDE"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322520,
+      "name": "August Again",
+      "url": "https://open.spotify.com/track/3oIBOfMJVSCUIAl8BF9eFf"
     },
     {
       "album": {
@@ -5416,7 +5460,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 277297,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4qKrjXMsLzS5tcqfTcZA0Y"
@@ -6630,7 +6674,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 273388,
       "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX"
@@ -7489,6 +7533,24 @@
     },
     {
       "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307106,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/0GC0DyCot6CjE0ZfgLPkd4"
+    },
+    {
+      "album": {
         "name": "SoulKare, Vol. 2",
         "url": "https://open.spotify.com/album/2YhLG2YFPigAlBtDCFpeso"
       },
@@ -7734,6 +7796,28 @@
       "duration_ms": 197857,
       "name": "Hauntology",
       "url": "https://open.spotify.com/track/373CjCTTELJOgE4AdqV0Vb"
+    },
+    {
+      "album": {
+        "name": "Have a Talk with God",
+        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341918,
+      "name": "Have a Talk with God",
+      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
     },
     {
       "album": {
@@ -10110,7 +10194,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 325375,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/3mEAznc6Vz2FhfQALcAzMT"
@@ -10198,7 +10282,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 179425,
       "name": "Laugh Up",
       "url": "https://open.spotify.com/track/0hTty8X57SYsLYsOTcrBsD"
@@ -10330,7 +10414,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 269106,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7"
@@ -10518,7 +10602,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 291891,
       "name": "Lights Away from Home",
       "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
@@ -11369,6 +11453,28 @@
     },
     {
       "album": {
+        "name": "Magnolia II",
+        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
+    },
+    {
+      "album": {
         "name": "Maiden Voyage",
         "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
       },
@@ -12046,7 +12152,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 332622,
       "name": "Mogaetsho",
       "url": "https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA"
@@ -13497,6 +13603,32 @@
     },
     {
       "album": {
+        "name": "Only the Lonely Woman",
+        "url": "https://open.spotify.com/album/7JYCtQYFD7UfNU8iKrku37"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338801,
+      "name": "Only The Lonely Woman",
+      "url": "https://open.spotify.com/track/3s1Y7qnksD5YTAK7Dcd7Al"
+    },
+    {
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/1J9ELecYoqJNa7d1igb18F"
       },
@@ -14018,7 +14150,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 578066,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1RcgSMUt7FW5dZeqpXvaWp"
@@ -14442,6 +14574,28 @@
       "duration_ms": 283880,
       "name": "Portrommet",
       "url": "https://open.spotify.com/track/29SjQRP3L3VhsYd8CKT0Lx"
+    },
+    {
+      "album": {
+        "name": "Prana (feat. Joel Ross)",
+        "url": "https://open.spotify.com/album/6xi6ISTIEOPOt5w0k6oVAy"
+      },
+      "artists": [
+        {
+          "name": "Mathis Picard",
+          "url": "https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462857,
+      "name": "Prana (feat. Joel Ross)",
+      "url": "https://open.spotify.com/track/4LiW3XCufA48rPYSagwMZR"
     },
     {
       "album": {
@@ -15234,7 +15388,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 339133,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/5IUOEqMpmnd8zQB35gDOWc"
@@ -15376,6 +15530,40 @@
       "duration_ms": 493573,
       "name": "Resting Jazz Face",
       "url": "https://open.spotify.com/track/3ktZDMGClxx9c4BgmppgwI"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/2gkNHiJjjVFm1wvCNLEQCP"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153209,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/6ugE62LTbi9yM1i4616KrK"
     },
     {
       "album": {
@@ -16182,6 +16370,24 @@
       "duration_ms": 386346,
       "name": "Sentimental Mode",
       "url": "https://open.spotify.com/track/5nxBcToLYc4iUPAbi7tQDS"
+    },
+    {
+      "album": {
+        "name": "Serenity's Illumination",
+        "url": "https://open.spotify.com/album/355jh4TUAGKpm4U0WeQkL3"
+      },
+      "artists": [
+        {
+          "name": "cr\u00e9ature sonore",
+          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Serenity's Illumination",
+      "url": "https://open.spotify.com/track/28gdOAMvTLUKrIZnGXRll9"
     },
     {
       "album": {
@@ -17326,7 +17532,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 202119,
       "name": "Spooki - Ash Walker Dub",
       "url": "https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY"
@@ -18908,7 +19114,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 283318,
       "name": "The Dance",
       "url": "https://open.spotify.com/track/5XLM75KbmQZWYxAefKoKgC"
@@ -21809,6 +22015,32 @@
     },
     {
       "album": {
+        "name": "What Not To Do (Moodymann Remix)",
+        "url": "https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "What Not To Do - Moodymann Remix",
+      "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"
+    },
+    {
+      "album": {
         "name": "WHATUP",
         "url": "https://open.spotify.com/album/6mPWY9kVPFlpXTtxdwFUuO"
       },
@@ -22668,6 +22900,28 @@
       "duration_ms": 176981,
       "name": "Youngstown 2",
       "url": "https://open.spotify.com/track/0Eeg4BUHnfgkNmdFNbU6Pb"
+    },
+    {
+      "album": {
+        "name": "your intuition is your friend (radio edit)",
+        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Edward Wakili-Hick",
+          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "your intuition is your friend - radio edit",
+      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
     },
     {
       "album": {

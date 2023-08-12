@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 222085,
+  "num_followers": 222254,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc4Yjc0MGNlNjkwYTg0ODBlOWIxYzQ1ZThhOTc0NzdmNWRmY2Q4",
+  "snapshot_id": "MCw3YmUyZTMxMGE2OWUwMGIxNzJmMThjMTMyZmMzNGIzMTVlNmE3N2U4",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "As\u00ed Somos",
+        "url": "https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Arreba\u0301tate",
+      "url": "https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "As\u00ed Somos",
-        "url": "https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Arreba\u0301tate",
-      "url": "https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi"
     },
     {
       "added_at": "2022-12-30 18:20:45",

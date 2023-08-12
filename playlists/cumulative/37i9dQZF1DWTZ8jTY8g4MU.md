@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-165 songs - 10 hr 46 min
+168 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [ارحبوا في محافلنا](https://open.spotify.com/track/2a1pjwjBwXjRKtbcxB43t0) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ارحبوا في محافلنا](https://open.spotify.com/album/1aWnu4kphrgnc6VCmk9Mqc) | 4:54 | 2023-01-27 | 2023-03-15 |
 | [اسرقني بعينك](https://open.spotify.com/track/2btTUVu43lXrCQzHLGbg6S) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [اسرقني بعينك](https://open.spotify.com/album/6KTTNe2nEBWO8dQjHk1HGA) | 3:56 | 2023-02-23 | 2023-06-28 |
 | [الا ياكبر حظي](https://open.spotify.com/track/1C1mHhtTjd84PT1zujIam1) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الا ياكبر حظي](https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8) | 5:31 | 2022-03-30 | 2022-06-14 |
+| [البارحه](https://open.spotify.com/track/0pTYxndHSqlqID4hZ8TZbW) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [البارحه](https://open.spotify.com/album/48n2gykRFFH9QHNXt3oAu5) | 3:31 | 2023-08-11 |  |
 | [الحلا والرقة](https://open.spotify.com/track/2I0JqlIwvI8AtR3M3v0oGe) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [الحلا والرقة](https://open.spotify.com/album/1g5O0y3SyVcyQ5EyVjErTq) | 4:02 | 2023-02-22 |  |
 | [الزمن دوار](https://open.spotify.com/track/1CTX0NAUvAZN3X2rUhoqfR) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [الزمن دوار](https://open.spotify.com/album/2PF6wJILCDKZ8mAHci19Eu) | 3:52 | 2022-08-31 | 2023-03-15 |
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-11-03 |
@@ -95,6 +96,7 @@
 | [شبه الظبي](https://open.spotify.com/track/5ualLmOR4a5jJJnnITLtYc) | [ناجي بن باصم](https://open.spotify.com/artist/3QoDkgQ6jQvy610IiOqPiR) | [شبه الظبي](https://open.spotify.com/album/35nYR6qG6EiBqtSaB9vrDa) | 4:15 | 2023-02-22 |  |
 | [شيلة باشة الغيد](https://open.spotify.com/track/17sYouUdFm019wFMYEV8Ut) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة باشة الغيد](https://open.spotify.com/album/3YFreVZnFpor99z7IDx7ry) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [شيلة باشة الغيد](https://open.spotify.com/track/1cpFmgqr8gAX0XDhju3fem) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة باشة الغيد](https://open.spotify.com/album/65SWMjnQNZACKRFZIrbnpd) | 3:16 | 2022-08-31 | 2023-05-23 |
+| [شيلة طبرجل](https://open.spotify.com/track/0sbZSMFWvhusy164kkBL5Y) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [شيلة طبرجل](https://open.spotify.com/album/4yc8ACtEBiWajnZQ2iAE9t) | 4:02 | 2023-08-11 |  |
 | [شيلة طرب حماسية](https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U) | [غنوة](https://open.spotify.com/artist/1y6JGih3jxrhp8z6EEiefh) | [شيلة طرب حماسية](https://open.spotify.com/album/4fxLhDr7vudKUMgMsjUmDk) | 4:01 | 2022-03-30 | 2022-05-24 |
 | [صديت مني](https://open.spotify.com/track/2QBbWw5fFAElRWyqnZ07Wj) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0gyBt500cAV6CeFbbtfWa3) | 3:27 | 2022-08-31 | 2023-05-04 |
 | [صديت مني](https://open.spotify.com/track/6sKzHl68SWj8vd0bTkt6vb) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0z3t9ettcoiny1yc15wtyy) | 3:27 | 2022-03-30 | 2022-11-02 |
@@ -150,6 +152,7 @@
 | [واحشني صوتك](https://open.spotify.com/track/2VRiaExIA3x2AAyp371YWg) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/22xwq4P9SmJdYV0pdoZRhX) | 3:24 | 2022-08-31 | 2023-02-23 |
 | [واحشني صوتك](https://open.spotify.com/track/7v7Ec9YkD7pScPDVk3v5zV) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/4mnBpLN40p7kdwhP5uixr5) | 3:24 | 2022-03-30 | 2022-11-02 |
 | [ودي ارتاح](https://open.spotify.com/track/0yUb1n9E4tp3uf6hd6xvlM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ودي ارتاح](https://open.spotify.com/album/2L824hI35nFE6g47DlImJp) | 4:13 | 2023-02-22 |  |
+| [وزارة اسكاني](https://open.spotify.com/track/4YvlDxpWkMJ5tyzkyveeV6) | [صالح ال كليب](https://open.spotify.com/artist/280TGPMuHgU0HFq9FqUF5C) | [وزارة اسكاني](https://open.spotify.com/album/6gPBVi3twSgqFBJFUwgijh) | 4:12 | 2023-08-11 |  |
 | [وعد مني](https://open.spotify.com/track/2869XYduH4Dp3YfUwvroOe) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وعد مني](https://open.spotify.com/album/5adznLBvnzA9GgW76kLOpD) | 3:26 | 2023-02-22 |  |
 | [وينه](https://open.spotify.com/track/4gYCz0aEcywZ3yY5HStjCn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وينه](https://open.spotify.com/album/23LvBPe1UpqU3KQUelauno) | 3:36 | 2023-02-22 |  |
 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 | 2023-03-14 |  |

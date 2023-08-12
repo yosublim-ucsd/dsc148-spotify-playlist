@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 258280,
+  "num_followers": 258316,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWEzNDAwMDE1YmJmN2U0NDcyNmMzMWJiNmJiZjcxMTBiMTZkOWY2",
+  "snapshot_id": "MCw2MTYyM2FkZjY0NmRjMmUyNGYxNWQ2ZmMyNGUzM2RlNDk0MzkwYjMw",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 237328,
-      "name": "To Me",
-      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Cool Girl",
         "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 237328,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 307613,
       "name": "Body",
       "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Friends With Feelings",
-        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
-      },
-      "artists": [
-        {
-          "name": "Alice Skye",
-          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Friends with Feelings",
-      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Shower Song",
         "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 167505,
       "name": "Shower Song",
       "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Friends With Feelings",
+        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
+      },
+      "artists": [
+        {
+          "name": "Alice Skye",
+          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Friends with Feelings",
+      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 237015,
       "name": "Cold Caller",
       "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 284951,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 244198,
       "name": "I\u2019ll Still Have Me - Aquilo Remix",
       "url": "https://open.spotify.com/track/4j2TkLdMzMSN9EaC5Cy4eJ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 284951,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"
     }
   ],
   "unique_name": "noir",

@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 189040,
       "name": "Ether",
       "url": "https://open.spotify.com/track/2MlOFHc3MfkTIRVGGCM4HL"
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 176373,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/2No1A7ZuMaBGxz45jmA9Gw"
@@ -3636,6 +3636,24 @@
       "duration_ms": 111304,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/0oXl1pTqskTdXuu46tPCJm"
+    },
+    {
+      "album": {
+        "name": "Good deeds",
+        "url": "https://open.spotify.com/album/7aKOFvsW05796dOytuanj2"
+      },
+      "artists": [
+        {
+          "name": "Joy Parade",
+          "url": "https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139418,
+      "name": "Good deeds",
+      "url": "https://open.spotify.com/track/0vJKNZ7nCKoyXZfqIb9paK"
     },
     {
       "album": {
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2019-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 188795,
       "name": "Laugavegur",
       "url": "https://open.spotify.com/track/4nZSgFwgYUOyWcBX61JY6j"
@@ -5148,7 +5166,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 385000,
       "name": "Looking at the World Through a Window",
       "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 154285,
       "name": "marshmallows",
       "url": "https://open.spotify.com/track/12LkyDfAbUQ2MIJJpFAe93"
@@ -5764,7 +5782,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 141580,
       "name": "Moment of Clarity",
       "url": "https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju"
@@ -6124,7 +6142,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 194495,
       "name": "North Captiva",
       "url": "https://open.spotify.com/track/32dZxkZtsF5Vt3PrJQuV2i"
@@ -7856,7 +7874,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 188933,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2yf1ibNuXk2VwKyGCIIpmA"
@@ -10388,7 +10406,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 177224,
       "name": "When You Left",
       "url": "https://open.spotify.com/track/1uu52K2fxY7Hl4LQ8AtTyY"

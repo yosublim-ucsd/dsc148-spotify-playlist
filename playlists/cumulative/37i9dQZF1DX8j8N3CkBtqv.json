@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 223833,
       "name": "Ab Tak Na",
       "url": "https://open.spotify.com/track/5TwJJ9D2lWMPkrhQMh96bd"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 238899,
       "name": "Because Because Because",
       "url": "https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv"
@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Mashhoor Banegi (Acoustic)",
+        "url": "https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233688,
+      "name": "Mashhoor Banegi (Acoustic)",
+      "url": "https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7"
+    },
+    {
+      "album": {
         "name": "Maze / Haze",
         "url": "https://open.spotify.com/album/42jBbohhJCA97YWTwv51GW"
       },
@@ -2706,6 +2724,28 @@
       "duration_ms": 154894,
       "name": "sushi song",
       "url": "https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/0df3TOTc7GC0oGIE6Uw7WZ"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/7qXU9k3EXn8sBAG9njp9Z8"
     },
     {
       "album": {

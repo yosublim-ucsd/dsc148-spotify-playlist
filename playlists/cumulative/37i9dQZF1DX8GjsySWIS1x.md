@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-786 songs - 1 day 19 hr 35 min
+787 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Sangria](https://open.spotify.com/track/4KQc58opRpFj21AgjzqxK5) | [Mere Raj](https://open.spotify.com/artist/6RnS0Didmf0hdDnCC1Mwam) | [Sangria](https://open.spotify.com/album/5jirINYkwC3xS0ZGhDKIpi) | 3:04 | 2021-04-21 | 2022-02-24 |
 | [Savage](https://open.spotify.com/track/21THabkVwxou2y6O6omXe8) | [Erick Lottary](https://open.spotify.com/artist/0l5XMJjnKKhUE31xqZ6PdO), [Eleazar Shafer](https://open.spotify.com/artist/2ZhuaXbmQyONxNsyFWORG6) | [You Can Tell](https://open.spotify.com/album/68xfZ84TdvuNd3jR3bMOy8) | 2:05 | 2021-03-26 | 2022-02-24 |
 | [Save Me](https://open.spotify.com/track/1W8cClu9GyC4ScZ6SeW9eD) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Save Me](https://open.spotify.com/album/1FRxYzfoynGZmcLw0xZeDF) | 3:20 | 2021-05-24 | 2021-05-25 |
+| [Savior](https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Savior](https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh) | 3:06 | 2023-08-11 |  |
 | [Saviour](https://open.spotify.com/track/5Ke5H0sjY4or70sK24HUYM) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [YUAN](https://open.spotify.com/artist/3xPXAe15gml6ZkVJrb2KCn), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Saviour](https://open.spotify.com/album/6LveXZTlldtTkNFeBbF9Fa) | 2:52 | 2022-04-20 | 2022-07-06 |
 | [Scared](https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Scared](https://open.spotify.com/album/64BNEj8QiXewIjgv6iL0fL) | 2:50 | 2022-04-20 | 2023-06-10 |
 | [Scargazer](https://open.spotify.com/track/3HD9BE49dhRLZxFIzoRJg0) | [Prompto](https://open.spotify.com/artist/55l8XOO8frgVTbpedazbWo) | [Scargazer](https://open.spotify.com/album/5pUZBH88NKF4R2oA0jZsE0) | 2:24 | 2022-04-20 | 2022-05-07 |

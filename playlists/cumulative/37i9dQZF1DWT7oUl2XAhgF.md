@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-331 songs - 20 hr 13 min
+332 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
+| [Don't You Ever Change](https://open.spotify.com/track/6eUofPDyNPz5ZuHVHCJtJC) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Don't You Ever Change](https://open.spotify.com/album/6jrzfmuhQdZg8auer1aM4w) | 3:36 | 2023-08-11 |  |
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 | 2023-02-18 |
 | [Don’t Give Up On My Love](https://open.spotify.com/track/0KvjBGg3NFIGVj4Kpg4kTh) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don’t Give Up On My Love](https://open.spotify.com/album/1Ux03ynWiluHyrEQ3Oud2d) | 3:05 | 2023-02-10 |  |
 | [Don’t Want It to Be Over \(ft\. Coco O.\)](https://open.spotify.com/track/3vlu7Y9U9HXxqSmQecmKhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:36 | 2021-07-09 | 2022-08-11 |
@@ -327,7 +328,7 @@
 | [When I'm With You](https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Kelsey Blackstone](https://open.spotify.com/artist/394uQRigSFiNSRbA9dismJ) | [When I'm With You](https://open.spotify.com/album/0U5ltIZ3Zyd0vqLSzFQNN9) | 2:42 | 2023-03-24 |  |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-14 | 2023-07-29 |
 | [Who Knew](https://open.spotify.com/track/14EgYFMymzOMlE5bXghY7p) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Who Knew](https://open.spotify.com/album/7IaACPFHMwbiF97M8ddEuo) | 3:34 | 2022-05-20 | 2022-05-28 |
-| [Who Knew](https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Who Knew](https://open.spotify.com/album/1v7cxaUL0IoJcUdRJvITYu) | 3:34 | 2022-05-27 |  |
+| [Who Knew](https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Who Knew](https://open.spotify.com/album/1v7cxaUL0IoJcUdRJvITYu) | 3:34 | 2022-05-27 | 2023-08-12 |
 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 | 2023-06-23 |  |
 | [Woman \- Single Edit](https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/2G3KsJiBi8yJXwoeBG6V4N) | 3:02 | 2023-01-27 |  |
 | [Wonderland](https://open.spotify.com/track/2ABBvCK4TnSOv8wKJSCVcR) | [Wonder 45](https://open.spotify.com/artist/6k1Qbba3pn2wHLu7A2m95Q), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wonderland](https://open.spotify.com/album/3PRqDNpAzwzxAJqHWhL0cS) | 5:40 | 2022-05-06 |  |

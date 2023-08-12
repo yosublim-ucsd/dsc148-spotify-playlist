@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,954 likes - 220 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,960 likes - 220 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 19 | [Spike the Eggnog](https://open.spotify.com/track/5Ndi8aTYfmjrXYgTOXhYEM) | [Two Dudes](https://open.spotify.com/artist/7B4UaTUFjsPmtPNg2HcLwS) | [Sounds of the Season, Vol\. I](https://open.spotify.com/album/38MuWDkJ0apxRo0nniKlpu) | 2:15 |
 | 20 | [SILENT NIGHT](https://open.spotify.com/track/06kYtG3AjxoOiSfw1yUOgj) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Christmas\-hop](https://open.spotify.com/album/30BnyFUc8Q4L9S9RqAunHe) | 3:21 |
 | 21 | [Jingle Bells](https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f) | [Holiday Beats](https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3) | [Jingle Bells](https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL) | 2:44 |
-| 22 | [It's Beginning To Look Like Christmas](https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa) | [Mr Puffles](https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT) | [Lofi Christmas](https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7) | 2:06 |
+| 22 | [Let It Snow](https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa) | [Mr Puffles](https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT) | [Lofi Christmas](https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7) | 2:06 |
 | 23 | [Silver Bells \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/1RJM6NnNYXjkEXbGhzHdej) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [A Very LoTown Christmas](https://open.spotify.com/album/2If1LBJbMBDZKRVhvwulgH) | 1:38 |
 | 24 | [Lonely Christmas](https://open.spotify.com/track/5jLZPmFgYojm3yz1NqGt8Y) | [ilexes](https://open.spotify.com/artist/1OXpZYjZr8ANMwGY7SE2U5) | [Lonely Christmas](https://open.spotify.com/album/04QXdFAn4VphWx8H28Vs5X) | 1:46 |
 | 25 | [Jingle Bells](https://open.spotify.com/track/34s9iWyraj8Bc6JM9tDnfo) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Jingle Bells](https://open.spotify.com/album/6QixK8SNkUnUQCgDLvZgUC) | 1:57 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 219 | [in A Mangè](https://open.spotify.com/track/5lBz5nknYlW3d2yVRSfMR3) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:59 |
 | 220 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MCw1YmI2YzM5MWZkMjNlODJiNGJlN2E4NmZhMGE4MTUzOTMxZWNmOTdh`
+Snapshot ID: `MCw5ZDgzZThkYWI3OWY5OWFhNzQwYWVjYmEwYmMyMTI5MzY4YWFlYTMw`

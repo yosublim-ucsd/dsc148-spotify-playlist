@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-181 songs - 8 hr 46 min
+182 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/4RhRPyU8sQguJwLGoaf4xA), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 |  |
+| [No Safety](https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Safety](https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW) | 1:58 | 2023-08-11 |  |
 | [No Way Back](https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Yaari Ghumaan](https://open.spotify.com/artist/7IStg4VLfRCVMMIL5RgToK) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 2:34 | 2023-04-14 | 2023-04-21 |
 | [Nobody Knows](https://open.spotify.com/track/4ymJPdUwuzdlOSZgEIpoWq) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Nobody Knows](https://open.spotify.com/album/3CqHboq7IB4Brebg1azznk) | 4:36 | 2023-07-14 |  |
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2023-03-29 | 2023-07-02 |

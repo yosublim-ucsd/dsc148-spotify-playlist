@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Dreamland's Song",
+        "url": "https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5"
+      },
+      "artists": [
+        {
+          "name": "Becca Lopez",
+          "url": "https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91061,
+      "name": "Dreamland's Song",
+      "url": "https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY"
+    },
+    {
+      "album": {
         "name": "Duermete Mi Nino",
         "url": "https://open.spotify.com/album/2UqaMWBOwi7DzjC41EXZ04"
       },
@@ -2705,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "My sun",
+        "url": "https://open.spotify.com/album/2gXWh2QeeX0AkgLUQpgN5T"
+      },
+      "artists": [
+        {
+          "name": "Juno Yang",
+          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92741,
+      "name": "My sun",
+      "url": "https://open.spotify.com/track/1nU4KLmkano6ebuD6ruzwU"
+    },
+    {
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5"
       },
@@ -3494,6 +3530,24 @@
       "duration_ms": 127136,
       "name": "Sweetest Dreams",
       "url": "https://open.spotify.com/track/0cymBq49LPSc0tyWDLJ997"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G"
+      },
+      "artists": [
+        {
+          "name": "Rennie Stoltz",
+          "url": "https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99609,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o"
     },
     {
       "album": {

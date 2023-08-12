@@ -2213,24 +2213,6 @@
     },
     {
       "album": {
-        "name": "Lofi Christmas",
-        "url": "https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7"
-      },
-      "artists": [
-        {
-          "name": "Mr Puffles",
-          "url": "https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT"
-        }
-      ],
-      "date_added": "2022-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126315,
-      "name": "It's Beginning To Look Like Christmas",
-      "url": "https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa"
-    },
-    {
-      "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/71qVmapMxPbapGpnXVo8W3"
       },
@@ -2726,6 +2708,24 @@
       "duration_ms": 120000,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/6E8zwx9pDjufnHaldsBRdl"
+    },
+    {
+      "album": {
+        "name": "Lofi Christmas",
+        "url": "https://open.spotify.com/album/5Ti5wsHjVFVJRo5Zicrvy7"
+      },
+      "artists": [
+        {
+          "name": "Mr Puffles",
+          "url": "https://open.spotify.com/artist/27dSqyM2Oxc3Zb2PcCRDZT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/4YaxX57dvsrkscSHfcebsa"
     },
     {
       "album": {

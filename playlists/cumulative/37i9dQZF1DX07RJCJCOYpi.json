@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: Nicky Jam, Maluma & The Chainsmokers",
+  "description": "The wave of Latin Electronic music. Cover: Gordo & Maluma",
   "name": "mint Latin",
   "tracks": [
     {
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172544,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/1OlWvvImrlmKfkyYCYAicN"
@@ -3727,6 +3727,28 @@
     },
     {
       "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
+    },
+    {
+      "album": {
         "name": "Patilla (feat. El Chima En La Casa & JoeyTheGawd)",
         "url": "https://open.spotify.com/album/6ba7djkJEIp1Zx9kTqi7Uf"
       },
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 151519,
       "name": "Patilla (feat. El Chima En La Casa & JoeyTheGawd)",
       "url": "https://open.spotify.com/track/3BQn0kOqvoCtV83QAVGd0e"
@@ -4006,6 +4028,28 @@
       "duration_ms": 232000,
       "name": "Provenza",
       "url": "https://open.spotify.com/track/4cgKV8PTmNHIillgrxI0J8"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH"
     },
     {
       "album": {

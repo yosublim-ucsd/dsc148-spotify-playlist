@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Geese",
-  "num_followers": 287043,
+  "num_followers": 287144,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWFiMzc4ZjMzNzJkMmI4N2Y2ODI5N2RhMzBjZmVjMGVhZDAxZTYx",
+  "snapshot_id": "MCw4MjFjYjlmODI0M2Q5MTdjYmNlZWNlNDc4NzU3MDg5MzFlNzQyZTJm",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "there is one place we're all going",
+        "url": "https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "rainwater on the windowsill",
+      "url": "https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh"
+    },
     {
       "added_at": "2023-08-03 20:47:17",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
-    },
-    {
-      "added_at": "2023-07-28 17:21:38",
-      "album": {
-        "name": "My Dog Died",
-        "url": "https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 225708,
-      "name": "My Dog Died",
-      "url": "https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB"
     },
     {
       "added_at": "2023-07-26 14:00:37",
@@ -57,20 +57,36 @@
       "url": "https://open.spotify.com/track/76koZv1MMQG2p9rypLMMl9"
     },
     {
-      "added_at": "2023-08-03 20:47:17",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Happiness Is An 8 Ball",
-        "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
+        "name": "Summer Windows",
+        "url": "https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6"
       },
       "artists": [
         {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 151483,
-      "name": "Happiness Is An 8 Ball",
-      "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
+      "duration_ms": 201579,
+      "name": "Summer Windows",
+      "url": "https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP"
+    },
+    {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "My Dog Died",
+        "url": "https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 225708,
+      "name": "My Dog Died",
+      "url": "https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -89,6 +105,38 @@
       "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "Happiness Is An 8 Ball",
+        "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 151483,
+      "name": "Happiness Is An 8 Ball",
+      "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Here Forever",
+        "url": "https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh"
+      },
+      "artists": [
+        {
+          "name": "buffchick",
+          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
+        }
+      ],
+      "duration_ms": 140278,
+      "name": "Here Forever",
+      "url": "https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V"
+    },
+    {
       "added_at": "2023-07-21 15:32:07",
       "album": {
         "name": "Truck",
@@ -103,6 +151,22 @@
       "duration_ms": 233786,
       "name": "Truck",
       "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Scene for an Exit",
+        "url": "https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF"
+      },
+      "artists": [
+        {
+          "name": "levitation room",
+          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
+        }
+      ],
+      "duration_ms": 159552,
+      "name": "Scene for an Exit",
+      "url": "https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2"
     },
     {
       "added_at": "2023-07-28 17:21:38",
@@ -137,20 +201,20 @@
       "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
     },
     {
-      "added_at": "2023-08-03 20:47:17",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "From Me to You",
-        "url": "https://open.spotify.com/album/333e8sycLvInCv5SVViLLt"
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
       "artists": [
         {
-          "name": "PWNT",
-          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
         }
       ],
-      "duration_ms": 196125,
-      "name": "From Me to You",
-      "url": "https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL"
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-07-26 16:11:31",
@@ -169,6 +233,38 @@
       "url": "https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY"
     },
     {
+      "added_at": "2023-07-28 17:21:38",
+      "album": {
+        "name": "iwantthis2last!",
+        "url": "https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 194656,
+      "name": "iwantthis2last!",
+      "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "Tin Man",
@@ -185,20 +281,20 @@
       "url": "https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9"
     },
     {
-      "added_at": "2023-07-28 17:21:38",
+      "added_at": "2023-08-03 20:47:17",
       "album": {
-        "name": "iwantthis2last!",
-        "url": "https://open.spotify.com/album/4CEglkGds2zn6r6OgJtu6S"
+        "name": "From Me to You",
+        "url": "https://open.spotify.com/album/333e8sycLvInCv5SVViLLt"
       },
       "artists": [
         {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
         }
       ],
-      "duration_ms": 194656,
-      "name": "iwantthis2last!",
-      "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
+      "duration_ms": 196125,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL"
     },
     {
       "added_at": "2023-08-03 20:47:17",
@@ -217,22 +313,6 @@
       "url": "https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 231659,
-      "name": "Your Mother's Name",
-      "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
-    },
-    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "Hello Mary",
@@ -247,22 +327,6 @@
       "duration_ms": 235840,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-07-28 17:21:38",
@@ -327,22 +391,6 @@
       "duration_ms": 244022,
       "name": "You don't even know who I am",
       "url": "https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi"
-      },
-      "artists": [
-        {
-          "name": "marinelli",
-          "url": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
-        }
-      ],
-      "duration_ms": 162176,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb"
     },
     {
       "added_at": "2023-07-14 04:00:00",

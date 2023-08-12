@@ -1,15 +1,47 @@
 {
   "description": "Get your spirits up and manage your mood any time of the day",
-  "num_followers": 5284,
+  "num_followers": 5295,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzI3NGNjMzU1MjViZDA3M2M5OGNjN2E4M2UzNGY4NWNjYjVmMjU4",
+  "snapshot_id": "MCxiNmU4YjExMmUxNDQ5NTkxZWJhYmRhZGJmMWFmMjMzMDE1ZGViMDdh",
   "tracks": [
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 238888,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Sivawo (Acoustic)",
+        "url": "https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 223007,
+      "name": "Sivawo - Acoustic",
+      "url": "https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6ZPwy1sInfO5kbh6G9N9n6"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Give Me Your Hand",
         "url": "https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH"
@@ -61,7 +93,23 @@
       "url": "https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "i will recover all",
+        "url": "https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58"
+      },
+      "artists": [
+        {
+          "name": "itsjamer",
+          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "i will recover all",
+      "url": "https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Ssemusajja",
         "url": "https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ"
@@ -81,7 +129,55 @@
       "url": "https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Nzize",
+        "url": "https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C"
+      },
+      "artists": [
+        {
+          "name": "Bravo Lion",
+          "url": "https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A"
+        }
+      ],
+      "duration_ms": 262695,
+      "name": "Nzize",
+      "url": "https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Omutima",
+        "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
+      },
+      "artists": [
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        }
+      ],
+      "duration_ms": 163243,
+      "name": "Omutima",
+      "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
@@ -97,23 +193,7 @@
       "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Sivawo (Acoustic)",
-        "url": "https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 223007,
-      "name": "Sivawo - Acoustic",
-      "url": "https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "From Uganda With Love",
         "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
@@ -133,7 +213,7 @@
       "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd"
@@ -157,7 +237,7 @@
       "url": "https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Sema",
         "url": "https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv"
@@ -173,39 +253,7 @@
       "url": "https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Abantu",
-        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Abantu",
-      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
-      },
-      "artists": [
-        {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs"
@@ -225,23 +273,31 @@
       "url": "https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
-        "name": "Omutima",
-        "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
       "artists": [
         {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
         }
       ],
-      "duration_ms": 163243,
-      "name": "Omutima",
-      "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Call Me Crazy",
         "url": "https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ"
@@ -261,7 +317,7 @@
       "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
@@ -281,7 +337,7 @@
       "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
@@ -305,39 +361,7 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Night Skies In Bombo",
-        "url": "https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH"
-      },
-      "artists": [
-        {
-          "name": "BunjoVille Ug",
-          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
-        }
-      ],
-      "duration_ms": 234437,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Mountains of the Moon",
-        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
-      },
-      "artists": [
-        {
-          "name": "Abaasa",
-          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
-        }
-      ],
-      "duration_ms": 197068,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "The Book of Kirya",
         "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
@@ -353,7 +377,39 @@
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Night Skies In Bombo",
+        "url": "https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        }
+      ],
+      "duration_ms": 234437,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Mountains of the Moon",
+        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
+      },
+      "artists": [
+        {
+          "name": "Abaasa",
+          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
+        }
+      ],
+      "duration_ms": 197068,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii"
@@ -369,7 +425,7 @@
       "url": "https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Type of Energy",
         "url": "https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap"
@@ -385,7 +441,23 @@
       "url": "https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
+      "album": {
+        "name": "Kwaata Wano",
+        "url": "https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI"
+      },
+      "artists": [
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU"
+        }
+      ],
+      "duration_ms": 228105,
+      "name": "Kwaata Wano",
+      "url": "https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O"
+    },
+    {
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "VOICES",
         "url": "https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX"
@@ -405,23 +477,7 @@
       "url": "https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Kwaata Wano",
-        "url": "https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI"
-      },
-      "artists": [
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU"
-        }
-      ],
-      "duration_ms": 228105,
-      "name": "Kwaata Wano",
-      "url": "https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Webale",
         "url": "https://open.spotify.com/album/7gD8QBQcLDDsueUb9eN08T"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/1Vlms9uSRDXErvFGzTbLaj"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Pearl Of Africa, Vol. 2",
         "url": "https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "WANO",
         "url": "https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t"
@@ -469,23 +525,7 @@
       "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Nzize",
-        "url": "https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C"
-      },
-      "artists": [
-        {
-          "name": "Bravo Lion",
-          "url": "https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A"
-        }
-      ],
-      "duration_ms": 262695,
-      "name": "Nzize",
-      "url": "https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "I Have a Dream",
         "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
@@ -501,7 +541,7 @@
       "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "So Wok",
         "url": "https://open.spotify.com/album/3E76niGgYjRLe7936MPAWo"
@@ -521,7 +561,7 @@
       "url": "https://open.spotify.com/track/5KNegRmSjP4ahtaWaecDHp"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Ugandan",
         "url": "https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD"
@@ -537,7 +577,7 @@
       "url": "https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Blue Detail",
         "url": "https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz"
@@ -553,7 +593,7 @@
       "url": "https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Kidandali",
         "url": "https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Kibunomu",
         "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Choore",
         "url": "https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "I am an African Girl (Let Her Know Remix)",
         "url": "https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN"
@@ -625,7 +665,7 @@
       "url": "https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
@@ -641,7 +681,7 @@
       "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Muunda",
         "url": "https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG"
@@ -661,23 +701,7 @@
       "url": "https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Fire Deh Deh",
-        "url": "https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm"
-      },
-      "artists": [
-        {
-          "name": "Felista Di Superstar",
-          "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Fire Deh Deh",
-      "url": "https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Mutima Gwange",
         "url": "https://open.spotify.com/album/3FCIWqBEOuIKEzX791L8bk"
@@ -693,7 +717,7 @@
       "url": "https://open.spotify.com/track/4F5cEnK9Y1ug0SzkcpDmtg"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Maliki-Fy",
         "url": "https://open.spotify.com/album/1uxXkx3peWh84WEVw149dF"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/1YjgPU8BIH0COPwQa4HZFH"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
@@ -745,7 +769,7 @@
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "The Book of Kirya",
         "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
@@ -761,7 +785,7 @@
       "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Nkwagala",
         "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
@@ -777,7 +801,7 @@
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Luberera",
         "url": "https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h"
@@ -793,7 +817,7 @@
       "url": "https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "WENA CHAPTER 2",
         "url": "https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV"
@@ -813,7 +837,7 @@
       "url": "https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE"
@@ -833,7 +857,7 @@
       "url": "https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Afrotopia",
         "url": "https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1"
@@ -849,7 +873,7 @@
       "url": "https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
@@ -869,7 +893,7 @@
       "url": "https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Mulisa Omusubbawa",
         "url": "https://open.spotify.com/album/74YrNvBCHoit0jQ0ylTjxB"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/5Efm581hRW2myabSJPwFba"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Little Faith",
         "url": "https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "HERE THEY COME",
         "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "King Saha Biri Biri",
         "url": "https://open.spotify.com/album/383eCArtodpJRwqbU1Ubab"
@@ -945,7 +969,7 @@
       "url": "https://open.spotify.com/track/3fBRocA6ZeLFW8JRAknhQO"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Ouma Myko: The Smooth Ugandan",
         "url": "https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq"
@@ -977,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a"
@@ -993,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "1947",
         "url": "https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U"
@@ -1009,27 +1033,7 @@
       "url": "https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
-    },
-    {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre"
     },
     {
-      "added_at": "2023-07-28 11:19:58",
+      "added_at": "2023-08-11 10:05:20",
       "album": {
         "name": "Sukaali",
         "url": "https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19"

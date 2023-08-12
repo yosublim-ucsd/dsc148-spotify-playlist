@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Emily in Paris, new episodes now streaming! ",
-  "num_followers": 144942,
+  "num_followers": 145016,
   "original_name": "Emily in Paris Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTFjM2NiZGVjNWM5NDAzMWQxNTJlMGMxZDEyZmY1NzA3NThiOGNl",
+  "snapshot_id": "MCw3NjM4Yzc3ZjgyYTliNGU0MjkzODFhNWY1MGMwNTAyMDJiYjYyMTIy",
   "tracks": [
     {
       "added_at": "2022-12-21 08:00:00",
@@ -3570,6 +3570,10 @@
         {
           "name": "Antony and the Johnsons",
           "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
         }
       ],
       "duration_ms": 233000,

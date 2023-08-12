@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Agileoria",
+        "url": "https://open.spotify.com/album/3OEyW7gmMUY4AoN487KBPj"
+      },
+      "artists": [
+        {
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177124,
+      "name": "Agileoria",
+      "url": "https://open.spotify.com/track/5kSBQY4fMxuTcpwJiKbVLt"
+    },
+    {
+      "album": {
         "name": "Sirelis",
         "url": "https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E"
       },
@@ -884,6 +902,24 @@
       "duration_ms": 128462,
       "name": "Floating in Stillness",
       "url": "https://open.spotify.com/track/2yxjJ6zoZW4kysV5wPqTzl"
+    },
+    {
+      "album": {
+        "name": "Flutonia Dreaming",
+        "url": "https://open.spotify.com/album/6f4VSiUzbMdkLf0H9VAQJC"
+      },
+      "artists": [
+        {
+          "name": "Ultrawideolence",
+          "url": "https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Flutonia Dreaming",
+      "url": "https://open.spotify.com/track/6bmtzWeaEulnHVrCMfUpBd"
     },
     {
       "album": {

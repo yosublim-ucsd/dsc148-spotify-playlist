@@ -1350,10 +1350,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 243995,
       "name": "Locos de Amor",
       "url": "https://open.spotify.com/track/3sS3ricJcq0cIEQze7kt9B"
+    },
+    {
+      "album": {
+        "name": "Lunas",
+        "url": "https://open.spotify.com/album/1cf8cE8ZDCCsiF9oKDtWa8"
+      },
+      "artists": [
+        {
+          "name": "Yordano",
+          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Locos de Amor",
+      "url": "https://open.spotify.com/track/1IAEpUDHVfepUpX1xiL6ik"
     },
     {
       "album": {

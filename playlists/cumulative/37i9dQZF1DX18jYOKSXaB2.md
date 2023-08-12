@@ -4,12 +4,13 @@
 
 > consider this an RSVP to littest wedding parties
 
-81 songs - 4 hr 15 min
+82 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2022-02-11 | 2022-09-02 |
 | [Adiepena](https://open.spotify.com/track/4wIhfF7Vfuku8za0g1sZge) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sugar](https://open.spotify.com/album/4kVDoG1DZEIyLsULmAosQX) | 3:15 | 2022-02-11 | 2023-03-25 |
+| [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 |  |
 | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/track/3LX3pPK1cQYDPNyxY4DM2M) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/album/5FhkyiAok4WxNKalz0saPJ) | 4:10 | 2022-02-11 | 2023-03-25 |
 | [All Over](https://open.spotify.com/track/23nv9GP4iBcQsCyN1bj2nF) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [All Over](https://open.spotify.com/album/3lrdjLWnNdopRayM1NrH1d) | 3:31 | 2022-02-11 |  |
 | [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 | 2022-02-11 |  |
@@ -62,7 +63,7 @@
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2022-02-11 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2022-02-11 | 2022-11-13 |
-| [Open Gate](https://open.spotify.com/track/4tKpMrJrClcxp6EAc1PeLu) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Open Gate](https://open.spotify.com/album/1KzYxd51HBeLtJ3ZW2w3TY) | 2:59 | 2022-02-11 |  |
+| [Open Gate](https://open.spotify.com/track/4tKpMrJrClcxp6EAc1PeLu) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Open Gate](https://open.spotify.com/album/1KzYxd51HBeLtJ3ZW2w3TY) | 2:59 | 2022-02-11 | 2023-08-12 |
 | [Oshe](https://open.spotify.com/track/5IPbL3A6dxajsR5VAlNkuN) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:13 | 2022-02-11 |  |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-19 |  |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2022-06-13 | 2023-06-23 |

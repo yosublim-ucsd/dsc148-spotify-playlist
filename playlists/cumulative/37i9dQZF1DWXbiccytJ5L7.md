@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-102 songs - 5 hr 44 min
+103 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Times We Had](https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2isLQ6NrJbpowKoobF9XMc) | 3:20 | 2023-04-21 |  |
 | [Toxic Love](https://open.spotify.com/track/3jrVt9JiLZOylwndgKTqJV) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Toxic Love](https://open.spotify.com/album/4sncnWAHqc5gDwPfYa1G5o) | 2:41 | 2023-03-17 |  |
 | [Trailer Park Barbie](https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Trailer Park Barbie.](https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL) | 2:50 | 2023-06-30 |  |
+| [Trailer Park Down in Georgia](https://open.spotify.com/track/3oxvzg3d9v6mfPSfz3ikwc) | [The Stixxx](https://open.spotify.com/artist/3SCMsIiTzQvZucIhXxiKmw), [YaBoi Dirty](https://open.spotify.com/artist/6FDodZidDhf58ZilaiRX3c) | [Trailer Park Down in Georgia](https://open.spotify.com/album/5CRolidL5HqcX91L17tplc) | 4:03 | 2023-08-11 |  |
 | [UH HUH \(feat\. Tay Money\)](https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [ALTOID COWBOY](https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3) | 2:36 | 2023-07-21 |  |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5aG5xOaVjWjdKZ2wuHYUBQ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-02 |  |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 | 2023-04-14 | 2023-06-11 |

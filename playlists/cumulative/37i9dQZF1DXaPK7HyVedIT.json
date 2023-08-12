@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Carola",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vitor Bueno",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -148,6 +148,28 @@
       "duration_ms": 158884,
       "name": "At the Party - Radio Mix",
       "url": "https://open.spotify.com/track/0UrjoB5Pczv0hvXVu2ocyc"
+    },
+    {
+      "album": {
+        "name": "Attenzione Pickpocket",
+        "url": "https://open.spotify.com/album/4ryQvw5jS590UdAqrWPjOQ"
+      },
+      "artists": [
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Alija",
+          "url": "https://open.spotify.com/artist/4iGQCEqv5O2JPlcfyhkxEV"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141731,
+      "name": "Attenzione Pickpocket",
+      "url": "https://open.spotify.com/track/0e0C6j7aNLYwSk0nJaWcy4"
     },
     {
       "album": {
@@ -358,6 +380,28 @@
       "duration_ms": 169925,
       "name": "Boom Boom Clack",
       "url": "https://open.spotify.com/track/4j8OcgO3Cy2odihP0ToGoF"
+    },
+    {
+      "album": {
+        "name": "Bota Na Pipokinha",
+        "url": "https://open.spotify.com/album/3JFcGHvwyNUCApopmQsKmk"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118571,
+      "name": "Bota Na Pipokinha",
+      "url": "https://open.spotify.com/track/4a0zYnoTwc4ROESiDxADEU"
     },
     {
       "album": {
@@ -940,6 +984,24 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
+    },
+    {
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz"
     },
     {
       "album": {

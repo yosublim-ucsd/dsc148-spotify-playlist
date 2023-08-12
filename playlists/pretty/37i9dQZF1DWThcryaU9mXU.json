@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 44476,
+  "num_followers": 44525,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
+  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Blues Hangover",
-      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 412893,
       "name": "Too Many Dirty Dishes - Remastered",
       "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Blues Hangover",
+      "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Man of the World: The Anthology 1968-1988",
         "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Blues is My Best Friend",
-      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Blues is My Best Friend",
+      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "I'm A Mad Man",
         "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 359133,
       "name": "35 Long Years",
       "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Pickin' the Blues",
         "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Right Kinda Wrong",
+        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
+      },
+      "artists": [
+        {
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 320133,
       "name": "Wrong Kind of Lovin",
       "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Right Kinda Wrong",
-        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
     },
     {
       "added_at": "2023-06-30 00:01:00",

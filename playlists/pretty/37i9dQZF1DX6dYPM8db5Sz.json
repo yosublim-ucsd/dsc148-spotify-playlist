@@ -1,12 +1,12 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt?si=f4rrR-3aRBmTHo4lnKRwgA\">Amy Ayanda</a> ",
-  "num_followers": 6616,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5?si=iP71mkvdQhOoN0MQNVTKPQ\">Muzi</a> ",
+  "num_followers": 6614,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZlOTdiMmUwOTA5YmZjOTFkNzQ5NzRjZDJlNmZmMzlkNjlkZjAw",
+  "snapshot_id": "MCw2ZmVmM2Y0Y2U0NmMwNzkyM2I2ODkzYjVlMTljMzc3NGIwYjNlYWU0",
   "tracks": [
     {
       "added_at": "2023-08-04 09:45:01",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/09Rf9tF3eEZUgjnqxxfEBA"
     },
     {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "eMtunzini",
+        "url": "https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "eMtunzini",
+      "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
+    },
+    {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "Nomkhitha",
+        "url": "https://open.spotify.com/album/0Mio7AxECjFCu3KeGniK14"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "duration_ms": 309510,
+      "name": "Nomkhitha",
+      "url": "https://open.spotify.com/track/1uF0rcH9Ujth9we0hSO80q"
+    },
+    {
       "added_at": "2023-08-04 09:45:01",
       "album": {
         "name": "rats in my walls",
@@ -71,6 +103,22 @@
       "duration_ms": 99130,
       "name": "goodbye~",
       "url": "https://open.spotify.com/track/1FoQGNxWPrxuydF1qTGaSI"
+    },
+    {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "A Scene from Some Old Poem",
+        "url": "https://open.spotify.com/album/5pzNFoJ5N9F5ygVheE9ykL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Gadd",
+          "url": "https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ"
+        }
+      ],
+      "duration_ms": 159807,
+      "name": "A Scene from Some Old Poem",
+      "url": "https://open.spotify.com/track/6i6L08iGEYcUBvF32n4hQf"
     },
     {
       "added_at": "2023-08-04 09:45:01",
@@ -111,6 +159,22 @@
       "duration_ms": 162774,
       "name": "Chase the sun",
       "url": "https://open.spotify.com/track/1Vy5OKXonzGToIK2vCKgpj"
+    },
+    {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "Good Morning Dreamer",
+        "url": "https://open.spotify.com/album/6KMXFgGH8vb8rn6bQzYdWu"
+      },
+      "artists": [
+        {
+          "name": "Basson Laas",
+          "url": "https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/478FDZYiDhJGGAwM0oWbPv"
     },
     {
       "added_at": "2023-08-04 09:45:01",
@@ -191,6 +255,22 @@
       "duration_ms": 103021,
       "name": "Wildfire Love",
       "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"
+    },
+    {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "The Spin Astride",
+        "url": "https://open.spotify.com/album/32DFbEpkONRG857qUTfPGL"
+      },
+      "artists": [
+        {
+          "name": "Carla Malrowe",
+          "url": "https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv"
+        }
+      ],
+      "duration_ms": 287384,
+      "name": "The Spin Astride",
+      "url": "https://open.spotify.com/track/0DniVPo0gdLY94cSJVKYMV"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -305,6 +385,22 @@
       "url": "https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH"
     },
     {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "Typical You",
+        "url": "https://open.spotify.com/album/41KzRjJSEVsD59JhzNRE31"
+      },
+      "artists": [
+        {
+          "name": "Alex Solomon",
+          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
+        }
+      ],
+      "duration_ms": 232849,
+      "name": "Typical You",
+      "url": "https://open.spotify.com/track/0ZwVaJ5qhu21pEc9dQkeFa"
+    },
+    {
       "added_at": "2023-07-28 06:39:00",
       "album": {
         "name": "Kumaiha",
@@ -335,6 +431,22 @@
       "duration_ms": 168860,
       "name": "We're on an Island, but it's the UK",
       "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"
+    },
+    {
+      "added_at": "2023-08-11 08:10:07",
+      "album": {
+        "name": "Pretty Dope",
+        "url": "https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Gav",
+          "url": "https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv"
+        }
+      ],
+      "duration_ms": 142736,
+      "name": "You too hot for this shit",
+      "url": "https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC"
     },
     {
       "added_at": "2023-07-28 06:39:00",
@@ -743,106 +855,6 @@
       "duration_ms": 229994,
       "name": "i'm gonna make it - Kenza Remix",
       "url": "https://open.spotify.com/track/7r71J6drUQww0vTCgZWYIU"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "All to Escape",
-        "url": "https://open.spotify.com/album/2ceFPRQQX4wkjEgENH1uYH"
-      },
-      "artists": [
-        {
-          "name": "Emma Hearne",
-          "url": "https://open.spotify.com/artist/0haG9bnYlkguLdKQkcxECf"
-        }
-      ],
-      "duration_ms": 177384,
-      "name": "All to Escape",
-      "url": "https://open.spotify.com/track/7gvAj7nOvRh9eCyHactLJS"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "What You Mean To Me",
-        "url": "https://open.spotify.com/album/30oyf8luP13xzo7lnEQvQh"
-      },
-      "artists": [
-        {
-          "name": "S\u014cNN",
-          "url": "https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ"
-        }
-      ],
-      "duration_ms": 210016,
-      "name": "What You Mean To Me",
-      "url": "https://open.spotify.com/track/0C5IVQuuhiCffMpuycFm06"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "I Won't Say No",
-        "url": "https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd"
-      },
-      "artists": [
-        {
-          "name": "Purboxx",
-          "url": "https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9"
-        }
-      ],
-      "duration_ms": 149428,
-      "name": "I Won't Say No",
-      "url": "https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Wasting time",
-        "url": "https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp"
-      },
-      "artists": [
-        {
-          "name": "TASH AYY",
-          "url": "https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas"
-        },
-        {
-          "name": "LOTU$",
-          "url": "https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "Wasting time",
-      "url": "https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "So I Ask You",
-        "url": "https://open.spotify.com/album/5eQSHxHgFGw0K8Z8PW3Kol"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/5pd7gwQaEoDgwowoynX09F"
-        }
-      ],
-      "duration_ms": 187779,
-      "name": "So I Ask You",
-      "url": "https://open.spotify.com/track/2ypvMGte6AD8eI2ZoTfi55"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Heartbreak Looks Good On You",
-        "url": "https://open.spotify.com/album/34Uhqu0ePpZvIhUyrquWzf"
-      },
-      "artists": [
-        {
-          "name": "Coasters",
-          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
-        }
-      ],
-      "duration_ms": 249339,
-      "name": "Tell Me Again",
-      "url": "https://open.spotify.com/track/4iKKvhm62Qs4L06GewDvoz"
     }
   ],
   "unique_name": "SAlt",

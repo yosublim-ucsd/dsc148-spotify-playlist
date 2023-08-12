@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 170253,
       "name": "Barrell House Blues",
       "url": "https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197276,
       "name": "Daddy, Goodbye Blues",
       "url": "https://open.spotify.com/track/329HmLkM0jTq0m4z0xmIeG"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 156413,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/4clNWKuBAxttm9kKNtzu7o"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 168882,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/27ZSI8nnSugJzkqdWdzFoh"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 156290,
       "name": "Morning Hour",
       "url": "https://open.spotify.com/track/6eZVULNUFoTnZRjoXYpo36"
@@ -1972,6 +1972,24 @@
       "duration_ms": 198546,
       "name": "No Easy Rider Blues",
       "url": "https://open.spotify.com/track/33w1gr4HowmbA1rW3xQWcx"
+    },
+    {
+      "album": {
+        "name": "The Classic Years, Vol. 2",
+        "url": "https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "No Easy Rider Blues",
+      "url": "https://open.spotify.com/track/6KWm6sGq9Fn8e4RyW9s8Hg"
     },
     {
       "album": {
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 184160,
       "name": "Screech Owl Blues",
       "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"

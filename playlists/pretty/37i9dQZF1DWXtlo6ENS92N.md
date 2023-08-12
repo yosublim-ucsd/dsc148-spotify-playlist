@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Rocky Aur Rani Kii Prem Kahaani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,960 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,786 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tum Kya Mile](https://open.spotify.com/track/5SlUuPQGMX5Ehe57pktNkS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 4:37 |
+| 1 | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN) | 4:37 |
 | 2 | [Tere Vaaste](https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Zara Hatke Zara Bachke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Yb13Od1beXcshjO6vSskt) | 3:09 |
 | 3 | [Rangisari](https://open.spotify.com/track/3x9vShiP4hDhE94zvObYNS) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:43 |
 | 4 | [What Jhumka ?](https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 49 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 5:45 |
 | 50 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |
 
-Snapshot ID: `MCxmOTJiZDlkNjRlYTE5NWQ1NDE1YmQxMmNjNGNjMGM4YTRmNzExZWI0`
+Snapshot ID: `MCxmNjMwMmE2ZTlkNzRjNGIyZTYyYzI4ZDQ3ZWFkMjI3MTg0YzkzYTU0`

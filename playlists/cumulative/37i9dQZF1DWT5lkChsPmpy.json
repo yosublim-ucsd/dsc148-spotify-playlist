@@ -6797,6 +6797,32 @@
     },
     {
       "album": {
+        "name": "State of Consciousness",
+        "url": "https://open.spotify.com/album/4SaWWICr6sZWlaJgv7X05m"
+      },
+      "artists": [
+        {
+          "name": "Ak\u012bn",
+          "url": "https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108387,
+      "name": "State of Consciousness",
+      "url": "https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71"
+    },
+    {
+      "album": {
         "name": "Summer Solstice",
         "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
       },
@@ -6996,6 +7022,24 @@
       "duration_ms": 114776,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/1bEbG97rrg2dwJvoZmvvRc"
+    },
+    {
+      "album": {
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/6nVqW8PZWP65AcP7j3MDB0"
+      },
+      "artists": [
+        {
+          "name": "Ak\u012bn",
+          "url": "https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/0BbrZBVVUqCoTmXqVuu51Z"
     },
     {
       "album": {

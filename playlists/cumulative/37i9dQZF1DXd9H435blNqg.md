@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-117 songs - 6 hr 35 min
+118 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/1cIQrwG14lRNk9DFwbIqAt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:32 | 2023-03-03 | 2023-07-31 |
 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/1i7yCPvwuP8EL2PQ7XMBjg) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ghosts \(I've Come to Love You\)](https://open.spotify.com/album/5WuBeEz4IaCGoKENgqrQ0u) | 3:32 | 2023-03-03 | 2023-05-24 |
 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/3W0bVe6oQTt6pHjz5bmXWp) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 3:32 | 2023-03-03 | 2023-06-26 |
-| [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7fPH04rkWtdSQx65BUpM0Z) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:32 | 2023-03-03 |  |
+| [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7fPH04rkWtdSQx65BUpM0Z) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:32 | 2023-03-03 | 2023-08-12 |
 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7pYRp7fSezGl2f5GHL5eIR) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/album/3DGAUb1My7xQWYA3g7pFab) | 3:32 | 2023-03-03 | 2023-04-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 | 2021-02-12 |  |
 | [Don't Say Goodbye](https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK) | 3:11 | 2021-02-12 | 2022-07-29 |
@@ -89,6 +89,7 @@
 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 | 2021-02-12 | 2023-04-30 |
 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 | 2021-02-12 |  |
 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 | 2021-02-12 |  |
+| [Ragdoll Blues](https://open.spotify.com/track/4wHwlKV0LSM3UPF9OiiPZE) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ragdoll Blues](https://open.spotify.com/album/0VzUNANfJqr246jgfUrclU) | 3:36 | 2023-08-11 |  |
 | [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 | 2021-02-12 | 2023-07-15 |
 | [Riot](https://open.spotify.com/track/0otlz1uuhtwVnKSUX8XToc) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 2:55 | 2021-02-12 |  |
 | [Riot](https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Riot](https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm) | 2:55 | 2021-02-12 | 2022-07-29 |

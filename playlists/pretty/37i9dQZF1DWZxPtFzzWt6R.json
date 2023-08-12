@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Suellen Lima",
-  "num_followers": 69263,
+  "num_followers": 69305,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTk4MjQyNGI5NmUxN2UwMzg2ODkxZmI0NmZmMWY0MGMxYTkyMDM0",
+  "snapshot_id": "MCw5ZTQ0MmMxNjE4NDk5NThjMDJlMjc5NzNkYTJlODQxODBjZGNhNGJl",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "\u00c9s Tudo Que Eu Preciso",
-        "url": "https://open.spotify.com/album/2uKx5edF199099KBJClMWf"
-      },
-      "artists": [
-        {
-          "name": "Os Levitas",
-          "url": "https://open.spotify.com/artist/3YV74lQ51lbWwBSBoXsS12"
-        }
-      ],
-      "duration_ms": 319139,
-      "name": "\u00c9s Tudo Que Eu Preciso",
-      "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "O Meu Clamor, Vol. 2",
         "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194960,
       "name": "Ovelha Rebelde",
       "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "\u00c9s Tudo Que Eu Preciso",
+        "url": "https://open.spotify.com/album/2uKx5edF199099KBJClMWf"
+      },
+      "artists": [
+        {
+          "name": "Os Levitas",
+          "url": "https://open.spotify.com/artist/3YV74lQ51lbWwBSBoXsS12"
+        }
+      ],
+      "duration_ms": 319139,
+      "name": "\u00c9s Tudo Que Eu Preciso",
+      "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Louvor Ra\u00edz (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Louvor Ra\u00edz (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2023-07-28 03:00:00",

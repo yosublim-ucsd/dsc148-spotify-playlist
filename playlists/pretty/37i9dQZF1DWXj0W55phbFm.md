@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,715 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,764 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,18 +83,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 73 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 74 | [Die Weisheit von Le Comte Lautréamont](https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03) | [Tomasz Stańko](https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Tony Oxley](https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03) | [Leosia](https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4) | 6:07 |
 | 75 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
-| 76 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
-| 77 | [Life's A Little Blue](https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Booker Little](https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT) | 6:53 |
+| 76 | [Life's A Little Blue](https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Booker Little](https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT) | 6:53 |
+| 77 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
 | 78 | [Trance Dance](https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO) | [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Goran Kajfes Subtropic Arkestra](https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7) | [The Reason Why Vol\. 3](https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4) | 8:53 |
 | 79 | [You're My Everything](https://open.spotify.com/track/6WNC8fECIg52gUHM4rHIN9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA) | 6:30 |
 | 80 | [The Baggae](https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Ada Rovatti](https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW) | [Brecker Plays Rovatti \- Sacred Bond](https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT) | 10:32 |
-| 81 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
-| 82 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
+| 81 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |
+| 82 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
 | 83 | [I'll Remember April](https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 8:34 |
-| 84 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
-| 85 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
-| 86 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
-| 87 | [Gemini II](https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w) | [Marcus Belgrave](https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX) | [Gemini II](https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm) | 5:37 |
+| 84 | [You're Getting To Be A Habit With Me](https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 6:53 |
+| 85 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
+| 86 | [Gemini II](https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w) | [Marcus Belgrave](https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX) | [Gemini II](https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm) | 5:37 |
+| 87 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
 | 88 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
 | 89 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
 | 90 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 100 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
 
-Snapshot ID: `MCxjMmM5Mjc4OGYxZDczYzdlMjJhZDBjZjVjNzVkNmUzZjAyNmYxOTkz`
+Snapshot ID: `MCwxYjAzOGJkYjE5NmZiYTAxMDAwZjcyZjJkNzc0ODk3YjU3YjcwZTk4`

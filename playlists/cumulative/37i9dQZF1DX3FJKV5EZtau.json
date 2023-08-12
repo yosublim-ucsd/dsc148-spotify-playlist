@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 84144,
       "name": "amends - VIP edit",
       "url": "https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 239250,
       "name": "ARCADE NIGHT",
       "url": "https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 298782,
       "name": "Are We Dreaming?",
       "url": "https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 178497,
       "name": "Can't Sleep Alone At Night",
       "url": "https://open.spotify.com/track/7BBzoOS8HR4zdlk1y0VNBB"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193186,
       "name": "Fall 'N' Roll",
       "url": "https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 213273,
       "name": "FOREVER 1 - Matisse & Sadko Remix",
       "url": "https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 221986,
       "name": "I Don\u2019t Think I Can Do This Again (with Clairo)",
       "url": "https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B"
@@ -3440,6 +3440,24 @@
       "duration_ms": 208175,
       "name": "i'm so tired",
       "url": "https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp"
+    },
+    {
+      "album": {
+        "name": "I.S.N",
+        "url": "https://open.spotify.com/album/7AJnQ1wOMQtVMfkx1GQupH"
+      },
+      "artists": [
+        {
+          "name": "RAM(Koichi Yamazaki)",
+          "url": "https://open.spotify.com/artist/6PAsyZvxURiwIyufEVoroS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237869,
+      "name": "I.S.N",
+      "url": "https://open.spotify.com/track/1Dh15obCQxgcPLYJ9pJPeP"
     },
     {
       "album": {
@@ -4686,7 +4704,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 216230,
       "name": "Ninja Re Bang Bang - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe"
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 185147,
       "name": "Ocean of Tears - umru Remix",
       "url": "https://open.spotify.com/track/6G29rbLvSRsax4LD4BMftv"
@@ -6426,7 +6444,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 209708,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 231679,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/4THzf8XAVHJptdedD0ZlKO"
@@ -7406,7 +7424,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 185161,
       "name": "Without u (feat. Holywatr)",
       "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 198127,
       "name": "\u2728 mum is calling \u2728",
       "url": "https://open.spotify.com/track/27fusRmYpex94O3REevU1F"

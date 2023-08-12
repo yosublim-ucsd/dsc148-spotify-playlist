@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-333 songs - 19 hr 17 min
+334 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
 | [I'll Get Along](https://open.spotify.com/track/7cId5hbuOHH7uAbpe4pIEl) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:28 | 2021-12-03 | 2022-04-21 |
+| [i'm confident that i'm insecure](https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [i'm confident that i'm insecure](https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X) | 2:41 | 2023-08-11 |  |
 | [i'm lost for words](https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [i'm lost for words](https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH) | 2:17 | 2022-09-02 | 2022-09-24 |
 | [i'm lost for words](https://open.spotify.com/track/7MTba27fW6MgauKXvQ7gqw) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [the blue album](https://open.spotify.com/album/5GcYZxshVMWixtXvjsYi3T) | 2:17 | 2022-09-02 |  |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-03-24 |  |
@@ -173,7 +174,7 @@
 | [Kick It to Me](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [The Good Life](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) | 6:27 | 2021-12-03 | 2023-01-28 |
 | [Ladybird](https://open.spotify.com/track/7hUdlYTjIR6mL4MbK2giSv) | [Nané](https://open.spotify.com/artist/2vAUwx2nm0chxnNXkAcHD7) | [Nané](https://open.spotify.com/album/5Oly0Hr5fVwveZmCJYodc7) | 3:34 | 2021-12-03 | 2022-07-29 |
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-03-04 | 2022-07-28 |
-| [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 | 2022-03-04 |  |
+| [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 | 2022-03-04 | 2023-08-12 |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2021-12-03 | 2022-07-29 |
 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-04 |  |
 | [LAX](https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 3:45 | 2021-12-03 | 2023-01-28 |

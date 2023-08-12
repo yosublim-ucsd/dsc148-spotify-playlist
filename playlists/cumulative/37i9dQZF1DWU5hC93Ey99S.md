@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels
 
-221 songs - 12 hr 16 min
+222 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [upside down](https://open.spotify.com/track/66SBGJljItLlEt7p8FFQH8) | [it's ung](https://open.spotify.com/artist/0YIL8hLwkduD4lwsUBRkwa) | [upside down](https://open.spotify.com/album/04jPI01JZXu3LTLfJrgyNs) | 4:24 | 2023-08-10 |  |
 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-21 |  |
 | [Voices](https://open.spotify.com/track/5lBKGuWoDoNXd0r4sICyK2) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Voices](https://open.spotify.com/album/0Ab0PjaCYh6ioeQBLD3Nkk) | 3:26 | 2023-08-10 |  |
-| [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY) | 6:07 | 2023-08-03 |  |
+| [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY) | 6:07 | 2023-08-03 | 2023-08-12 |
+| [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d) | 6:07 | 2023-08-03 |  |
 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 | 2023-06-22 |  |
 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 |  |
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-04-13 |  |

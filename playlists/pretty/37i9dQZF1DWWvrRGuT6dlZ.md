@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Sun Cell\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,141 likes - 140 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,145 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,25 +128,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 118 | [Delusional](https://open.spotify.com/track/2a0NpvZSso8Kp2jKHdV3Ud) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Delusional](https://open.spotify.com/album/7jy7fZsDWAhjGGJTBhuvIm) | 3:23 |
 | 119 | [DIVINE](https://open.spotify.com/track/78jpa4kOOgObeaCxvLSUEv) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [DIVINE](https://open.spotify.com/album/71abCXubO4hiuo1AX9RBM7) | 2:34 |
 | 120 | [Don't Make Me Lose](https://open.spotify.com/track/2nbZrTEVBTj12vOxjzg2HJ) | [KIRI](https://open.spotify.com/artist/14Zup84x4k8NXTTgrhqqAw) | [Don't Make Me Lose](https://open.spotify.com/album/1IheunKHsKJO0XwLXBPgim) | 3:35 |
-| 121 | [Heavyduty Incandescent Streetlights](https://open.spotify.com/track/0dlYKbOhasw2KKkUYr6KQe) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [Heavyduty Incandescent Streetlights](https://open.spotify.com/album/6Bfo1rn40gu0pb2rrXJlUy) | 4:05 |
-| 122 | [The Hardest Pill To Swallow](https://open.spotify.com/track/1GoAAsmyjNAbyuSAeMrO18) | [Capt'n Trips and The Kid](https://open.spotify.com/artist/2LotVsfwkoFhqeQW8ae6PN) | [The Hardest Pill To Swallow](https://open.spotify.com/album/5wuWE1wSqzbUEadCU6Ye6J) | 3:34 |
-| 123 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 |
-| 124 | [insomaniac](https://open.spotify.com/track/1In2ojHhE3MrhlCg8Dk4BP) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [insomaniac](https://open.spotify.com/album/2zlHmXYXkQwPdEigti7vPE) | 3:42 |
-| 125 | [terminal 8](https://open.spotify.com/track/6IWP1R1MyXt6FXahUlSQtp) | [lauren matienzo](https://open.spotify.com/artist/4B49XZW38ZLZKGRIZ3OTuN) | [terminal 8](https://open.spotify.com/album/0ZwwXJOcvLmq09SvHqWDNJ) | 3:48 |
-| 126 | [all my fridays](https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [all my fridays](https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4) | 3:34 |
-| 127 | [Shelter](https://open.spotify.com/track/66mal665w2u16G8A5nKhk1) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [Shelter](https://open.spotify.com/album/3t2RK2tnCtEJko9uFoosoe) | 3:08 |
-| 128 | [i miss you](https://open.spotify.com/track/2F6yCLZrsXP910MnC5K3TE) | [Toska](https://open.spotify.com/artist/3Y7o0EykMnj6Ll6vsF951H) | [i miss you](https://open.spotify.com/album/4n0BFspnQv8EaKwbI1ZymX) | 2:31 |
-| 129 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 |
-| 130 | [Stay Here Tonight](https://open.spotify.com/track/39dbWw38KuNL77wf0GlelT) | [Andre Ang](https://open.spotify.com/artist/4OvRMrLoSSnK1HfbFlpq2G), [chocoloe](https://open.spotify.com/artist/17JnpB5VHM95aO5Ae6bInm) | [Stay Here Tonight](https://open.spotify.com/album/3rTG7H3DuRctsGrIpAaGhU) | 3:07 |
-| 131 | [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 |
-| 132 | [CHASE](https://open.spotify.com/track/3vwpWdcA1WgcYeosN1qOE3) | [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na), [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w) | [CHASE](https://open.spotify.com/album/7qfZBaWUIksw55ObBj7raZ) | 3:09 |
-| 133 | [VISITOR](https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk) | [GOTHMYSTERYMAFIA](https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB) | [VISITOR](https://open.spotify.com/album/17G2nrijiEDT3w0bSNM1Qp) | 3:30 |
-| 134 | [Breathe](https://open.spotify.com/track/0Ap3cJ4QMTgqhXDzH2zd5d) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Sunflower at Sundown](https://open.spotify.com/album/0ZlZoBp9Bs9EZ1YJ2zpk59) | 3:34 |
-| 135 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 |
-| 136 | [Bossa Trippin'](https://open.spotify.com/track/79pGOUU4NvIMt47CCaj7V0) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bossa Trippin'](https://open.spotify.com/album/0z84ie5iKLg19JLHaOlcao) | 3:16 |
-| 137 | [love..\. at first sight?](https://open.spotify.com/track/6VeYLbQeExx8mVcLM4g2Lk) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [love..\. at first sight?](https://open.spotify.com/album/7L9YLMRT0JN6QYiOG5Y28z) | 4:01 |
-| 138 | [lake buena vista](https://open.spotify.com/track/5OGCgTXFPqhPG4fHGBWImi) | [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [lake buena vista](https://open.spotify.com/album/2aJ7krpbAknVOwYFwEbWLK) | 2:58 |
-| 139 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 |
-| 140 | [Waiting All Day](https://open.spotify.com/track/5hFydN9mm1cqvumco2tPM5) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Waiting All Day](https://open.spotify.com/album/07kkKQVNjKhpxegBaVsP7x) | 3:36 |
 
-Snapshot ID: `MCwzZWU0YTkxMzZmODFmZTEwN2VkOTk4ZTcyN2RiODk1ODZlZjNhMWMz`
+Snapshot ID: `MCw4YzY1NmNmNjNhYmI5NDczZTBlMzFlOTVjYTg0ZGUwMzM5YWY5YzUy`

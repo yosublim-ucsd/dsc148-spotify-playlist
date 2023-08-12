@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-508 songs - 1 day 5 hr 5 min
+509 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 | 2023-02-16 | 2023-03-22 |
 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 | 2022-06-28 | 2022-07-28 |
 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 | 2022-06-09 | 2022-07-26 |
+| [Panta Rhei](https://open.spotify.com/track/12xRTxLUDGBtMRpRuZTJCQ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Panta Rhei](https://open.spotify.com/album/2FFIFHkx0R40MapvK81Tki) | 3:49 | 2023-08-10 |  |
 | [Party×Party](https://open.spotify.com/track/0ZmoP8er16GcUglbOdSgoY) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Polkadodge](https://open.spotify.com/album/40XC0a7Qa96B9LqpwUVkSw) | 3:39 | 2022-07-10 | 2022-07-12 |
 | [Philosophia](https://open.spotify.com/track/2YNNwEliMwd8LeCyFTCo2S) | [Fty](https://open.spotify.com/artist/2eLKdQdoCJK5wmiMwVrsc7), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Philosophia](https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5) | 3:01 | 2022-06-14 | 2022-06-22 |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 |  |
@@ -389,7 +390,7 @@
 | [ヸシュヌ \(feat\. 初音ミク\)](https://open.spotify.com/track/3KNa2aUL6JttpHA7Q6nkDW) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [ヸシュヌ](https://open.spotify.com/album/2EhvXAkJ79B4AVfrYjHWsj) | 3:37 | 2022-06-28 | 2022-07-01 |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
 | [一角獣](https://open.spotify.com/track/6OcfNne5vPOrkthIvwPe9a) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [一角獣](https://open.spotify.com/album/3JtEzwAfXhTcRr3FbONylo) | 3:37 | 2022-06-09 | 2022-07-28 |
-| [万物流転](https://open.spotify.com/track/5b1itBKmlv5u0Ge3PEi1qb) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [万物流転](https://open.spotify.com/album/25d8d4FfPeE5qwY4ziazKa) | 3:49 | 2023-08-10 |  |
+| [万物流転](https://open.spotify.com/track/5b1itBKmlv5u0Ge3PEi1qb) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [万物流転](https://open.spotify.com/album/25d8d4FfPeE5qwY4ziazKa) | 3:49 | 2023-08-10 | 2023-08-12 |
 | [下剋上](https://open.spotify.com/track/4FlY9zsDlg7ZRtOEE0z0RG) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [下剋上](https://open.spotify.com/album/0btduDvRtBcOyLGi2zF5z9) | 2:34 | 2023-06-20 | 2023-07-28 |
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |

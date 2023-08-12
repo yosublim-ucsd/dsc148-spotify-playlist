@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,182 songs - 2 day 6 hr 46 min
+1,183 songs - 2 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-31 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-11 | 2022-10-23 |
-| [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-06-12 |  |
+| [The Lost Soul Down](https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down](https://open.spotify.com/album/733oNIsRbdeXYvZNoFCHmh) | 3:12 | 2023-06-12 | 2023-08-12 |
 | [THE STORY OF ALISHER](https://open.spotify.com/track/7jg52iX5YV4aZSsHu30Mb6) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [THE STORY OF ALISHER](https://open.spotify.com/album/25m9NO6UpyivvEtXRSAuK2) | 7:17 | 2022-12-15 | 2022-12-26 |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-08-25 | 2021-08-27 |
 | [Tipok](https://open.spotify.com/track/66P9j5bWiRBotkxJN9ZsyV) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 2:46 | 2022-07-17 | 2022-07-20 |
@@ -721,6 +721,7 @@
 | [Генг](https://open.spotify.com/track/4DpmRTZZD8DJmU9W1X31nq) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:12 | 2021-08-15 | 2021-08-16 |
 | [География](https://open.spotify.com/track/2GRGTdy9Qbwm8q5Ajtxjj4) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [JEEMBO](https://open.spotify.com/artist/3IwaLzOzILWyMzjXFWiDbW) | [ОМОФОР](https://open.spotify.com/album/7dj2Qjy9IPifEveZpKuPx8) | 3:30 | 2021-05-16 | 2021-05-17 |
 | [ГЕРМАФРОДИТ \[prod\. by gob wants nothing, Wex\]](https://open.spotify.com/track/0NhMMAk4RVcdjy9L98wrB2) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 2:19 | 2021-04-04 | 2021-04-05 |
+| [Глаз императора](https://open.spotify.com/track/7v5yQnrwRP3suomfvpylDt) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [Dabbackwood Reborn](https://open.spotify.com/album/36Dric2WxXEyrJVBl4o5yN) | 1:22 | 2023-08-11 |  |
 | [глаза не врут](https://open.spotify.com/track/4ikCWgaaGLKgb724CUNnqZ) | [Кореш](https://open.spotify.com/artist/4JMt9C71qFOVZRzXj209Cp) | [глаза не врут](https://open.spotify.com/album/3VbUF0GaEliaHi1TPQrbc4) | 1:50 | 2022-05-28 | 2022-10-23 |
 | [Говорят чо](https://open.spotify.com/track/0hjhA9lyFJ4wqCmOPRBz1a) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms), [blago white](https://open.spotify.com/artist/5UlVY7KwBwUPvHs1JtmUqy) | [PUZZLES](https://open.spotify.com/album/604GqSO6SOQAaP03m0ljmW) | 2:45 | 2021-11-23 | 2021-12-01 |
 | [Голова](https://open.spotify.com/track/6NFRX7D4Dnh1dRUPstj3ij) | [Канги](https://open.spotify.com/artist/0R4IeWuUpTkmca5hnS0j6b), [Galust](https://open.spotify.com/artist/5Vs6KuANIDHjEZbjlGOGZy) | [Голова](https://open.spotify.com/album/2FcgyYSO2VjPhwMkWdTXBs) | 2:55 | 2022-10-01 | 2022-10-20 |
@@ -1138,7 +1139,7 @@
 | [ЦУНАМИ](https://open.spotify.com/track/7qCVgOCMrIGgNY0IgFcoYQ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [ЦУНАМИ](https://open.spotify.com/album/0gG7yuYcOLGwpvaZzwEWH7) | 2:44 | 2021-11-08 | 2021-11-12 |
 | [Цыгане из Парижа](https://open.spotify.com/track/09OtxG6iTb0D4bYbJE2q2h) | [Rodionis](https://open.spotify.com/artist/0NwHP2UPexnet2CwYsqxJY), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Цыгане из Парижа](https://open.spotify.com/album/6yD4W8PJGXyoClYJQ8zRvO) | 1:50 | 2021-08-22 | 2021-08-23 |
 | [Чекаю на ніч](https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Чекаю на ніч](https://open.spotify.com/album/4IQuXEYq1dRFFhPunJRCS6) | 1:58 | 2023-08-07 | 2023-08-09 |
-| [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/track/5F9CLUvuRyku0ZdT4ljPQt) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5) | [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/album/0tfQPR51z0FTCwPsd2OSvz) | 2:49 | 2023-03-02 | 2023-08-08 |
+| [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/track/5F9CLUvuRyku0ZdT4ljPQt) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5) | [Чекає вдома \(feat\. DOVI\)](https://open.spotify.com/album/0tfQPR51z0FTCwPsd2OSvz) | 2:49 | 2023-03-02 |  |
 | [Человек](https://open.spotify.com/track/5IOZN27S3fLftCZGhmuTFs) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [Человек](https://open.spotify.com/album/2bU3Cr370vSp65mf24VPTl) | 1:36 | 2021-09-12 | 2021-09-24 |
 | [Четыре тридцать](https://open.spotify.com/track/7E8brh6jjHSx44rF62jQKR) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/10kcEJ3JaIMGVuKS8fkVHK) | 2:13 | 2022-05-18 | 2022-06-19 |
 | [Чи разом](https://open.spotify.com/track/4LVrOvwpUuJFP2JsIGTptg) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Навколо](https://open.spotify.com/album/6f7xYzkeCz8SB2xT7HTMvN) | 2:38 | 2022-10-01 | 2023-01-24 |
@@ -1176,7 +1177,7 @@
 | [Я НА ТАБЛАХ](https://open.spotify.com/track/4YigzcQjSi7WPgJ34W8orv) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:25 | 2021-05-30 | 2021-06-05 |
 | [Я НЕ ЗНАЮ](https://open.spotify.com/track/76uQsHqCk7tPQPlxdhYpyL) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Я НЕ ЗНАЮ](https://open.spotify.com/album/33ckKhbxSr5Y5teCgjZUh7) | 2:44 | 2021-09-19 | 2021-10-06 |
 | [Я пиздатый](https://open.spotify.com/track/1MiUVjoHt4jiskDrt2ZHrq) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Я пиздатый](https://open.spotify.com/album/36s0UearNIp4CfSPDj7y6C) | 2:28 | 2021-09-25 | 2022-03-10 |
-| [Я поднимаю свою голову вверх](https://open.spotify.com/track/6PLtAhB74CfLT4VwmE5IBM) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Я поднимаю свою голову вверх](https://open.spotify.com/album/075RSBB537dqc2j6A0QDc0) | 2:45 | 2023-08-10 |  |
+| [Я поднимаю свою голову вверх](https://open.spotify.com/track/6PLtAhB74CfLT4VwmE5IBM) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Я поднимаю свою голову вверх](https://open.spotify.com/album/075RSBB537dqc2j6A0QDc0) | 2:45 | 2023-08-10 | 2023-08-12 |
 | [я понял \- skit](https://open.spotify.com/track/46T22qAGkE8pDG8KBHsr29) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 1:20 | 2022-10-22 | 2022-10-24 |
 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2023-02-06 |  |
 | [Я уёбываю в джаз](https://open.spotify.com/track/3VeWIV9WTXUl8PcOusFjYv) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/00lCeyD5dYeohpChwbpueT) | 2:24 | 2022-01-05 | 2022-01-07 |

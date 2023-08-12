@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. Foto: Abril Olivera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,806 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,803 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 43 | [Fin de Año](https://open.spotify.com/track/0Rfu3GCteqD7TUBi3E2N4X) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Fin de Año](https://open.spotify.com/album/62gcadq4Av5tnPUngu4c0K) | 3:21 |
 | 44 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 |
 | 45 | [Pulso](https://open.spotify.com/track/1OqoF7ANdhrrN1gvWI3gN5) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:26 |
-| 46 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 |
+| 46 | [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 |
 | 47 | [Leiti](https://open.spotify.com/track/0dTtNCql4elZyZxHMsBP5e) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Korta](https://open.spotify.com/album/7AEMstJEdLQUpP6BnsePpc) | 1:36 |
 | 48 | [DRILL AR 4](https://open.spotify.com/track/2ZMzEgq2IAwPJKZR6i9bqP) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/24DkZ6r0rNwWdBMwmOHtPM) | 2:02 |
 | 49 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 | 50 | [I Wanna Do](https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [I Wanna Do](https://open.spotify.com/album/5nUXsB6JlORX1kE77OAfy1) | 1:50 |
 
-Snapshot ID: `MCxmNGVhMDZhOTFmNjM1NDIyY2ZkODJlMTVkMmQ2OTBmZDNhMmI3ZTdk`
+Snapshot ID: `MCw0NGMzYzFlN2VkMWZiNDVlMjAxZjU4MmZmNTBjYjU3ODk2MzVkZGM0`

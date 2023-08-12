@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Jea Mira \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,660 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,659 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Nie wiem czemu](https://open.spotify.com/track/37f95S3Q0NFRc3p0dj2pr2) | [Muzaman](https://open.spotify.com/artist/72kO6RseIlmEx5DXuxBUYJ), [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Nie wiem czemu](https://open.spotify.com/album/5abitvXaaj1dfb3yM2oP0f) | 3:15 |
 | 100 | [co słychać \(lalalaj\)](https://open.spotify.com/track/5BLTHYDkrBEO8Kl4HqhQBR) | [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [co słychać \(lalalaj\)](https://open.spotify.com/album/6IH93i2U2F7mVW3EsAekoN) | 3:38 |
 
-Snapshot ID: `MCwxODI2YTI5NGJlZmRmZjI2ZDEwMTMzZmQwNDE4OTAxMTY4NjMyYjQy`
+Snapshot ID: `MCwzZDM3NjAxOGRiOWVjYTUwN2I5ODIyM2EwMTE3NWI4ZmRjNTJiMjYx`

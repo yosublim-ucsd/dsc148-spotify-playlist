@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-483 songs - 1 day 1 hr 2 min
+484 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Forms](https://open.spotify.com/track/3JpsWjYzqrQLuwx4o0OSic) | [Henry Jonson](https://open.spotify.com/artist/7BOTwPd38KO5Lg7HWf9c3p) | [Forms](https://open.spotify.com/album/5ukW8HsrI4P0uZ9sU0cumH) | 2:44 | 2021-09-04 |  |
 | [Four Months](https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY) | [Leyre Bacque](https://open.spotify.com/artist/3cSOS105ZsQjSVzTf8Gc1L) | [Four Months](https://open.spotify.com/album/3xsuA6xUgUzUWoZ88GBoG6) | 2:37 | 2022-03-24 |  |
 | [Free](https://open.spotify.com/track/4Gy64kPK6SVwKdb4rs1emJ) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4) | [Anxiety Relief](https://open.spotify.com/album/5XF1VUAdmwVLiFHLh2892C) | 2:23 | 2022-10-14 |  |
+| [From Another View](https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W) | [Salvation Hildersham](https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN) | [From Another View](https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi) | 2:58 | 2023-08-11 |  |
 | [From Shores To Mountains](https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [From Shores To Mountains](https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO) | 2:25 | 2020-09-30\* | 2021-09-14 |
 | [Fyna](https://open.spotify.com/track/6l0hNEgi62kkGZ69RuVblp) | [Sundale](https://open.spotify.com/artist/3LFFYvQWGZPeQPOJcqKXfi) | [Fyna](https://open.spotify.com/album/0jvaidHFliZFQ7u1yETVRg) | 2:38 | 2022-09-13 |  |
 | [Gahari](https://open.spotify.com/track/0vCB3eNnNzQVsJn8H1NdYp) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Gahari](https://open.spotify.com/album/0Pglv1QmWfbj2oYgLNOzlj) | 2:16 | 2020-09-30\* | 2021-10-21 |
@@ -466,7 +467,7 @@
 | [Voordat Je Gaat](https://open.spotify.com/track/7pRq9fPCrfEGbjPE5ENqWw) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Voordat Je Gaat](https://open.spotify.com/album/35gk0IOuEfg0d2pmuiZoN8) | 3:08 | 2021-07-14 | 2021-11-26 |
 | [Voyage De La Nuit](https://open.spotify.com/track/24lJCQciPgJBhRrij2Faa5) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Voyage De La Nuit](https://open.spotify.com/album/0xbHriOJdjYspeBXZtQzwv) | 3:21 | 2021-03-24 |  |
 | [Wacht op mij](https://open.spotify.com/track/5tc7QNc9sOFQoE2ty3H4TJ) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Wacht op mij](https://open.spotify.com/album/5qZJ0tpBbAX17NEizgZbX6) | 4:58 | 2020-09-30\* | 2021-10-21 |
-| [Waiting](https://open.spotify.com/track/5C82nGiLNRRgAjfMH1pNC3) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Waiting](https://open.spotify.com/album/3l1NYuGrUb9wpnXFDZM8IG) | 3:01 | 2020-09-30\* |  |
+| [Waiting](https://open.spotify.com/track/5C82nGiLNRRgAjfMH1pNC3) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Waiting](https://open.spotify.com/album/3l1NYuGrUb9wpnXFDZM8IG) | 3:01 | 2020-09-30\* | 2023-08-12 |
 | [Waiting for a while](https://open.spotify.com/track/2khTcCwX4XvH7Gr6MUWiDH) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Waiting for a while](https://open.spotify.com/album/1kE9OGe88XxgNgXsNEU1Jd) | 3:38 | 2021-12-21 | 2022-03-16 |
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2021-09-14 |  |
 | [Waves](https://open.spotify.com/track/2Qmg0oyUxivJVhVxbXEZcO) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Waves](https://open.spotify.com/album/7hUuzOKvyttWPjiviHFZln) | 3:20 | 2020-09-30\* | 2021-07-14 |

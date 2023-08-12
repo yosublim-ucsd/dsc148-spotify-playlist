@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 302134,
       "name": "24 Hours - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/0PKFzfOatH1UJE2EqPRvcj"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 432042,
       "name": "Agua Congas",
       "url": "https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa"
@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "One Black Water (feat. Ann Saunderson) [Full Strings Vocal Mix]",
+        "url": "https://open.spotify.com/album/4Ju4z6OA25j2MuR94WgwgJ"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518945,
+      "name": "Blackwater - 128 full strings vocal mix",
+      "url": "https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S"
+    },
+    {
+      "album": {
         "name": "For Lovers",
         "url": "https://open.spotify.com/album/1kV1CYyGYVePD90IJ7ZzYZ"
       },
@@ -298,7 +316,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 473059,
       "name": "Bodies Meld Together",
       "url": "https://open.spotify.com/track/72uvl0MlLHMt8f4jbjhere"
@@ -338,6 +356,24 @@
       "duration_ms": 308858,
       "name": "Burner",
       "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+    },
+    {
+      "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
     },
     {
       "album": {
@@ -388,7 +424,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
@@ -406,7 +442,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 535546,
       "name": "Can't Find It (The House Sound)",
       "url": "https://open.spotify.com/track/4CrJ5evUyISxa77VNgtBVt"
@@ -482,7 +518,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 406146,
       "name": "Church of SoMa - Original Mix",
       "url": "https://open.spotify.com/track/1ScdWAxbu8RNcqNSkKgMJg"
@@ -598,7 +634,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 419476,
       "name": "ECC",
       "url": "https://open.spotify.com/track/7CLQc8p4EMUFUH7HqCMbcs"
@@ -715,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Fiorucci Made Me Hardcore",
+        "url": "https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Fiorucci Made Me Hardcore",
+      "url": "https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT"
+    },
+    {
+      "album": {
         "name": "Rarely Pure, Never Simple",
         "url": "https://open.spotify.com/album/40F68tBDpXPfyk4438lwxB"
       },
@@ -810,6 +864,46 @@
       "duration_ms": 570275,
       "name": "Hafi Deo",
       "url": "https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb"
+    },
+    {
+      "album": {
+        "name": "Blueprint EP",
+        "url": "https://open.spotify.com/album/4KtpSouY9I9zX5c0xx89pi"
+      },
+      "artists": [
+        {
+          "name": "L.S.G.",
+          "url": "https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462629,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/1Vseb5yC0uN4jhpeWF2nhY"
+    },
+    {
+      "album": {
+        "name": "Heaven Is Where You Are (Dave DK Remix)",
+        "url": "https://open.spotify.com/album/4liRJRCNN9ZCQd38QKgMvD"
+      },
+      "artists": [
+        {
+          "name": "Pantha Du Prince",
+          "url": "https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi"
+        },
+        {
+          "name": "Dave DK",
+          "url": "https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375597,
+      "name": "Heaven Is Where You Are - Dave DK Remix",
+      "url": "https://open.spotify.com/track/3FcpUNFDBMv27FYwkznStL"
     },
     {
       "album": {
@@ -918,7 +1012,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 273485,
       "name": "I Won't Forget",
       "url": "https://open.spotify.com/track/37lk3qgO3DYCoSpeJpp3KR"
@@ -936,7 +1030,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 303373,
       "name": "I'm Waiting (Just 4 U)",
       "url": "https://open.spotify.com/track/7BIyJ214hMl5AukVIYMhaQ"
@@ -954,7 +1048,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 267733,
       "name": "In My Car",
       "url": "https://open.spotify.com/track/7DnrjjkleRa2wEejj8NJmg"
@@ -994,10 +1088,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 300245,
       "name": "Juntos - Laurence Guy Remix",
       "url": "https://open.spotify.com/track/4unE6fywqCDfsaacxxbGvi"
+    },
+    {
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/5J9PhCTsvguuCAEMnxlagY"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318772,
+      "name": "Kolfax",
+      "url": "https://open.spotify.com/track/5OrnRAGBq5B2M9GKkOH6Vt"
     },
     {
       "album": {
@@ -1034,7 +1150,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 400321,
       "name": "Kuar - FNX Omar Remix",
       "url": "https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc"
@@ -1056,7 +1172,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
@@ -1081,6 +1197,46 @@
     },
     {
       "album": {
+        "name": "Love Is Real",
+        "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "Love Is Real",
+      "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "album": {
         "name": "Make Time",
         "url": "https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa"
       },
@@ -1092,7 +1248,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 515754,
       "name": "Make Time",
       "url": "https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S"
@@ -1136,7 +1292,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 404575,
       "name": "megapunk - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/1NKjsPIVITtpDdAiTFCLCB"
@@ -1226,7 +1382,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 322841,
       "name": "Monkey Dance",
       "url": "https://open.spotify.com/track/2E8rkzL1jNszuZv0YnXUCO"
@@ -1244,7 +1400,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 339400,
       "name": "Mothra",
       "url": "https://open.spotify.com/track/4jKudQqZgoQMhOvpGdcnYi"
@@ -1452,7 +1608,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 400000,
       "name": "Novel Approach - Original Mix",
       "url": "https://open.spotify.com/track/1ZVuafFHVV7Eskk86g29ue"
@@ -1510,7 +1666,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 466560,
       "name": "Oh My! - Manoo Remix",
       "url": "https://open.spotify.com/track/71CSKlJiSSyCRPt2Mwj8Tb"
@@ -1562,7 +1718,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 251707,
       "name": "One By One - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/0rxcZTkVLVBeCqFa6tZ8GR"
@@ -1620,7 +1776,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
@@ -1664,10 +1820,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 260652,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/3LDym59J6wfAgzH9VyW7tu"
+    },
+    {
+      "album": {
+        "name": "Piano Skank",
+        "url": "https://open.spotify.com/album/5WnCqwiHCV0DxkgZkAsEUh"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277619,
+      "name": "Piano Skank",
+      "url": "https://open.spotify.com/track/79XMhe7Y6KfuECqu1sEqKN"
     },
     {
       "album": {
@@ -1740,7 +1914,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 455843,
       "name": "Pressure - Original Mix",
       "url": "https://open.spotify.com/track/4uXphB7v0sIY6esNqz5p9A"
@@ -1794,7 +1968,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 627198,
       "name": "Recapturing the Radical Self",
       "url": "https://open.spotify.com/track/10QGwWH3rQOUdRxt45pleu"
@@ -1848,7 +2022,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 374384,
       "name": "Saida 222",
       "url": "https://open.spotify.com/track/1Mvl6TZIaixU1fYM4LVTx9"
@@ -1866,10 +2040,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 292499,
       "name": "Seeing Aliens",
       "url": "https://open.spotify.com/track/1JsG5d9Lz1zkx7OJcCIbAJ"
+    },
+    {
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
     },
     {
       "album": {
@@ -1921,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Rips",
+        "url": "https://open.spotify.com/album/09eWNoDzf9gbdAg3bPaqJH"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Startrack",
+      "url": "https://open.spotify.com/track/7gMwTtOLh618Q8lzuYtkKo"
+    },
+    {
+      "album": {
         "name": "Before One EP",
         "url": "https://open.spotify.com/album/6nDabvimKikHWteZsybtEd"
       },
@@ -1958,6 +2168,24 @@
       "duration_ms": 387879,
       "name": "Sun Phase - Human Movement Remix",
       "url": "https://open.spotify.com/track/1NeG33plymBYofVlEftPu7"
+    },
+    {
+      "album": {
+        "name": "Sunswell",
+        "url": "https://open.spotify.com/album/3wKwwkpj1E6uBuoIv7pE0m"
+      },
+      "artists": [
+        {
+          "name": "Genius Of Time",
+          "url": "https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498176,
+      "name": "Sunswell",
+      "url": "https://open.spotify.com/track/18sPQjQ2TZgLH32AsdHtFm"
     },
     {
       "album": {
@@ -2132,7 +2360,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 303293,
       "name": "Track ID Anyone?",
       "url": "https://open.spotify.com/track/6yK1IkA9XutrCMwvEqwrim"
@@ -2150,7 +2378,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 338000,
       "name": "Trainfilters2",
       "url": "https://open.spotify.com/track/5TyyoqyBhNtCbfYGv5Kr0u"
@@ -2172,6 +2400,24 @@
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "album": {
+        "name": "Backwater",
+        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Virtue",
+      "url": "https://open.spotify.com/track/6dMIr5DaRF3qZ2fKOEJXgx"
     },
     {
       "album": {
@@ -2222,7 +2468,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 412840,
       "name": "Warni Warni",
       "url": "https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR"
@@ -2244,6 +2490,28 @@
       "duration_ms": 332098,
       "name": "Way One",
       "url": "https://open.spotify.com/track/1UQtbMRLNEUcbo2q54p0z9"
+    },
+    {
+      "album": {
+        "name": "Wespennest",
+        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482143,
+      "name": "Wespennest",
+      "url": "https://open.spotify.com/track/1h9PGvjTU45WnwzXEjqtf8"
     },
     {
       "album": {
@@ -2378,7 +2646,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 290753,
       "name": "Your Good Times Will Come",
       "url": "https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH"
@@ -2418,7 +2686,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"

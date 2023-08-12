@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Dylan Schneider",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Cody Johnson",
   "name": "New Boots",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 170906,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 174720,
       "name": "Boys In Boots",
       "url": "https://open.spotify.com/track/4RF5esexSW7Pc4qOTlAPLA"
@@ -4922,6 +4922,24 @@
       "duration_ms": 228006,
       "name": "Country Does",
       "url": "https://open.spotify.com/track/0Oo9yzhli7r5V5XO6y3GeN"
+    },
+    {
+      "album": {
+        "name": "Country Music Made Me Do It",
+        "url": "https://open.spotify.com/album/5EuUtOWJK2C5VFNkHBKZdU"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209723,
+      "name": "Country Music Made Me Do It",
+      "url": "https://open.spotify.com/track/2hV9ZAWIPDoMxAglFbIwEb"
     },
     {
       "album": {
@@ -8092,7 +8110,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 225360,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
@@ -8924,7 +8942,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 188515,
       "name": "Gettin' There",
       "url": "https://open.spotify.com/track/6EgRugCFo1htCTkFsBmQRc"
@@ -9368,6 +9386,24 @@
       "duration_ms": 217801,
       "name": "GIVE HEAVEN SOME HELL",
       "url": "https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3"
+    },
+    {
+      "album": {
+        "name": "Give Her That",
+        "url": "https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Give Her That",
+      "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
     },
     {
       "album": {
@@ -11474,7 +11510,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197803,
       "name": "Heartbroken - Jessie Version",
       "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
@@ -14259,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
+    },
+    {
+      "album": {
         "name": "I'm Not Pretty",
         "url": "https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW"
       },
@@ -14946,6 +15000,24 @@
       "duration_ms": 146866,
       "name": "I\u2019m In Love",
       "url": "https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk"
+    },
+    {
+      "album": {
+        "name": "Jack and Diet Coke",
+        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193399,
+      "name": "Jack and Diet Coke",
+      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "album": {
@@ -18131,6 +18203,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Or Me",
+        "url": "https://open.spotify.com/album/4EFwitX1MR0jelaG29a7cs"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Mississippi Or Me",
+      "url": "https://open.spotify.com/track/5JDM1KbfvautHx2Il9DjMZ"
+    },
+    {
+      "album": {
         "name": "Workin' Hard",
         "url": "https://open.spotify.com/album/2ARVKbtKHn7ccMDn4oFQKs"
       },
@@ -19122,6 +19212,24 @@
       "duration_ms": 228480,
       "name": "Never Not Had Horses",
       "url": "https://open.spotify.com/track/2OD9GNpMjZdrtMiz4P5Hyd"
+    },
+    {
+      "album": {
+        "name": "Never Not Remember You",
+        "url": "https://open.spotify.com/album/0unG2Z8Ac26MVI2qKnNk5z"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177924,
+      "name": "Never Not Remember You",
+      "url": "https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL"
     },
     {
       "album": {
@@ -21254,6 +21362,24 @@
       "duration_ms": 219040,
       "name": "Penniless & Broke",
       "url": "https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "album": {
@@ -23408,7 +23534,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 171013,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/3oRT45v51KOyV37KPmemc3"
@@ -25315,6 +25441,24 @@
     },
     {
       "album": {
+        "name": "Southern and Slow",
+        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Southern and Slow",
+      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
+    },
+    {
+      "album": {
         "name": "Southern Symphony",
         "url": "https://open.spotify.com/album/1bOe91hwJ86djRfpQdknmb"
       },
@@ -25679,6 +25823,24 @@
     },
     {
       "album": {
+        "name": "Bet My Heart",
+        "url": "https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176657,
+      "name": "Stayed A Summer",
+      "url": "https://open.spotify.com/track/6vbesEByLl4HPeX71QMwBa"
+    },
+    {
+      "album": {
         "name": "Steady Heart",
         "url": "https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9"
       },
@@ -26032,7 +26194,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 220816,
       "name": "Stray Dogs",
       "url": "https://open.spotify.com/track/4Z428xkY8tQ4U2JxGHO4eP"
@@ -26490,7 +26652,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 243453,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
@@ -27426,6 +27588,24 @@
       "duration_ms": 200989,
       "name": "The Night (Part 2)",
       "url": "https://open.spotify.com/track/4GVIjpSUWDTv2vLGetJAuF"
+    },
+    {
+      "album": {
+        "name": "The Painter",
+        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
       "album": {
@@ -28506,7 +28686,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 153296,
       "name": "Traitor Joe",
       "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
@@ -29736,7 +29916,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 220145,
       "name": "We Don't Fight Anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
@@ -32094,6 +32274,24 @@
       "duration_ms": 200898,
       "name": "Year to Be Young 1994",
       "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
+    },
+    {
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "album": {

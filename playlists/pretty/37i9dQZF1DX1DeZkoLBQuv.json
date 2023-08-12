@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 5971,
+  "num_followers": 5970,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
+  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Gl\u00f3ria e Aleluia (Christmas)",
+        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 234663,
+      "name": "Gl\u00f3ria e Aleluia - Christmas",
+      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Gl\u00f3ria e Aleluia (Christmas)",
-        "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 234663,
-      "name": "Gl\u00f3ria e Aleluia - Christmas",
-      "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "#TBT",
         "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 212175,
       "name": "A Hist\u00f3ria de Cristo",
       "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Folk Christmas",
-        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 171571,
-      "name": "Surgem Anjos Proclamando",
-      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
     }
   ],
   "unique_name": "Louvores de Natal",

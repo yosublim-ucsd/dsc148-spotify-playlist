@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Coroba",
+        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
+      },
+      "artists": [
+        {
+          "name": "Sl Fiq",
+          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167678,
+      "name": "Koroba",
+      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
+    },
+    {
+      "album": {
         "name": "Kwetega",
         "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 228040,
       "name": "Love Marijuana",
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"

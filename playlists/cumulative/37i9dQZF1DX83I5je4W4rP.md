@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-255 songs - 15 hr 24 min
+256 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Date Rape](https://open.spotify.com/track/2nS4sfMUR5mOSXQWvPhVol) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Date Rape](https://open.spotify.com/album/4V4DnIDHvrKquBfbTSXsPf) | 4:28 | 2021-12-10 | 2022-01-11 |
 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 | 2022-07-06 |  |
 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 | 2022-07-06 |  |
+| [Daytrippin](https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Daytrippin](https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws) | 3:02 | 2023-08-11 |  |
 | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/track/6avDdJ8d5pgDg53f40kTHy) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Diamond \(feat\. Jacob Hemphill of SOJA\)](https://open.spotify.com/album/4uYwzEszNBV2a5pdaquiCP) | 4:13 | 2022-02-04 | 2022-02-07 |
 | [Digital Heaven](https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Effection](https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU) | 3:29 | 2023-02-24 |  |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-12-10 | 2022-07-29 |
@@ -81,7 +82,7 @@
 | [Fade Away](https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa) | [Arise Roots](https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH) | [Fade Away](https://open.spotify.com/album/7jYy1Ueym5wdvKx6BLAjEx) | 4:59 | 2021-12-10 | 2022-07-29 |
 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 | 2022-02-04 |  |
 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-06-14 | 2022-11-17 |
-| [Fantasy](https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:19 | 2023-05-19 |  |
+| [Fantasy](https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Summer Mixtape](https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa) | 3:19 | 2023-05-19 | 2023-08-12 |
 | [Fear](https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Fear](https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7) | 3:36 | 2021-12-10 | 2022-07-26 |
 | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/track/54yeE5wI4gQwB1974fmMLV) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [Feels Like Home \(with Shwayze\)](https://open.spotify.com/album/1EupTp6D2JbgUgfM8bQ3S9) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [Fire On Your House](https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Fire On Your House](https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B) | 3:44 | 2021-12-10 | 2022-07-29 |

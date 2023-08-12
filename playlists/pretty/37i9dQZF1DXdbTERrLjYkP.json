@@ -1,15 +1,143 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Savana Santos",
-  "num_followers": 85247,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Eliott",
+  "num_followers": 85253,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFjYTkzNDUwNmU1YjBiNGUzNzc1Mzg0ODVkMjhmN2Y3NDc5MjUw",
+  "snapshot_id": "MCxiMzMxNzRkZGZiZjkxYjQwM2FlZWM5ZmNhMzk1ZWYzMDUyNjY3YmYx",
   "tracks": [
     {
-      "added_at": "2023-08-04 04:53:17",
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "just calling to tell you i'm ok",
+        "url": "https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A"
+      },
+      "artists": [
+        {
+          "name": "Eliott",
+          "url": "https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Only 25",
+      "url": "https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "care about myself",
+        "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "duration_ms": 195262,
+      "name": "care about myself",
+      "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "Well Here We Are",
+        "url": "https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 183595,
+      "name": "Me to You",
+      "url": "https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "Like Me, Like Me",
+        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "Pools and Palm Trees",
+        "url": "https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "Pools and Palm Trees",
+      "url": "https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "At All",
+        "url": "https://open.spotify.com/album/76BePXh9SRqKiYOKlDhZCg"
+      },
+      "artists": [
+        {
+          "name": "Brendan Abernathy",
+          "url": "https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW"
+        }
+      ],
+      "duration_ms": 209457,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/5H8ya4qN720Db0uZ8ZdpBZ"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
+      "album": {
+        "name": "Again and Again",
+        "url": "https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 207188,
+      "name": "Again and Again",
+      "url": "https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj"
+    },
+    {
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "cheater",
         "url": "https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw"
@@ -25,7 +153,7 @@
       "url": "https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Hurts Like Hell",
         "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
@@ -41,7 +169,7 @@
       "url": "https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T"
     },
     {
-      "added_at": "2023-08-04 04:53:17",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "I'm Not Your Girl",
         "url": "https://open.spotify.com/album/0BuKUzoNyqcaxng1b77CF8"
@@ -57,23 +185,7 @@
       "url": "https://open.spotify.com/track/0odnQuixwTfcSO0bkZ1EfZ"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Bad Guy",
-        "url": "https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 220827,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi"
-    },
-    {
-      "added_at": "2023-07-21 19:56:02",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "The Summer I Lost My Lover",
         "url": "https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK"
@@ -89,7 +201,7 @@
       "url": "https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV"
     },
     {
-      "added_at": "2023-07-21 19:56:02",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
@@ -105,7 +217,7 @@
       "url": "https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz"
     },
     {
-      "added_at": "2023-08-04 04:53:17",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Inconvenient",
         "url": "https://open.spotify.com/album/6CY991bUkVT501259VTac3"
@@ -125,7 +237,7 @@
       "url": "https://open.spotify.com/track/1Dof8LPU0ARJbiwmY0RNGA"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Where Do All The Good Kids Go?",
         "url": "https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3"
@@ -141,7 +253,7 @@
       "url": "https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "growing up sucks",
         "url": "https://open.spotify.com/album/0ZDMxXFxduw6IBjL3wn8XA"
@@ -157,7 +269,7 @@
       "url": "https://open.spotify.com/track/0nzz3rwziKZ3JRD53veIY7"
     },
     {
-      "added_at": "2023-08-04 04:53:17",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Worst In Me",
         "url": "https://open.spotify.com/album/2lVxm2kp7BtwXPl1VQElSP"
@@ -173,7 +285,7 @@
       "url": "https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Irish Eyes",
         "url": "https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ"
@@ -189,7 +301,7 @@
       "url": "https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "The Things We Talk About",
         "url": "https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb"
@@ -205,7 +317,7 @@
       "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "You Look Like You Can't Swim",
         "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
@@ -221,7 +333,7 @@
       "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
-      "added_at": "2023-07-21 19:56:02",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "How Do We Stay In Love?",
         "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
@@ -237,7 +349,7 @@
       "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Copout",
         "url": "https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8"
@@ -253,7 +365,7 @@
       "url": "https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw"
@@ -269,7 +381,7 @@
       "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "poison",
         "url": "https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F"
@@ -285,7 +397,7 @@
       "url": "https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4"
@@ -301,7 +413,7 @@
       "url": "https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH"
     },
     {
-      "added_at": "2023-06-23 04:53:57",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "5 Songs for Healing",
         "url": "https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN"
@@ -317,7 +429,7 @@
       "url": "https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Fifth",
         "url": "https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD"
@@ -333,7 +445,7 @@
       "url": "https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Feminine Feelings",
         "url": "https://open.spotify.com/album/70g3gCOQaftdAXcK3owCP9"
@@ -349,7 +461,7 @@
       "url": "https://open.spotify.com/track/6dRMBfMGMhic99nXASMFFR"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "are you still here",
         "url": "https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8"
@@ -365,7 +477,7 @@
       "url": "https://open.spotify.com/track/2dCbvnhcqye0gZtB5rSwM1"
     },
     {
-      "added_at": "2023-06-23 04:53:57",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Joni",
         "url": "https://open.spotify.com/album/0HvAo553wbaQJCMuyeZVgr"
@@ -381,7 +493,7 @@
       "url": "https://open.spotify.com/track/1UDFP4KgbKTu0XniQImZfq"
     },
     {
-      "added_at": "2023-06-30 04:36:37",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Boy From Carolina",
         "url": "https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN"
@@ -397,7 +509,7 @@
       "url": "https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca"
     },
     {
-      "added_at": "2023-06-12 16:15:12",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Die in LA",
         "url": "https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk"
@@ -417,7 +529,7 @@
       "url": "https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "character development",
         "url": "https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj"
@@ -433,7 +545,7 @@
       "url": "https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn"
     },
     {
-      "added_at": "2023-06-12 16:15:12",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ"
@@ -449,7 +561,7 @@
       "url": "https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I"
     },
     {
-      "added_at": "2023-06-30 04:36:37",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
@@ -465,7 +577,7 @@
       "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "serious person (part 1)",
         "url": "https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4"
@@ -481,7 +593,7 @@
       "url": "https://open.spotify.com/track/5zF5gDWWOyX7ka3IIrs7SX"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
@@ -497,7 +609,7 @@
       "url": "https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7"
     },
     {
-      "added_at": "2023-06-23 04:53:57",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "A Bowl of Unripe Fruit",
         "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
@@ -513,7 +625,7 @@
       "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
     },
     {
-      "added_at": "2023-06-30 04:36:37",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS"
@@ -529,7 +641,7 @@
       "url": "https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Big Dumb Heart, Chapter 1",
         "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
@@ -545,7 +657,7 @@
       "url": "https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA"
     },
     {
-      "added_at": "2023-06-23 04:53:57",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql"
@@ -561,7 +673,7 @@
       "url": "https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "boring",
         "url": "https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2"
@@ -577,7 +689,7 @@
       "url": "https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT"
     },
     {
-      "added_at": "2023-06-12 16:15:12",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Dear Ella,",
         "url": "https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7"
@@ -593,7 +705,7 @@
       "url": "https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "this is my love life",
         "url": "https://open.spotify.com/album/5ytlpIs7TWZrclE8WQDDiK"
@@ -609,7 +721,7 @@
       "url": "https://open.spotify.com/track/51TKMs2c7yIXWPxakttfUQ"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Deserve You",
         "url": "https://open.spotify.com/album/1KTaZEpLQF8zoQNGolXuCP"
@@ -625,7 +737,7 @@
       "url": "https://open.spotify.com/track/0GBHsjb3suFGVegjuV8Duu"
     },
     {
-      "added_at": "2023-06-12 16:15:12",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "New Name to Heartbreak",
         "url": "https://open.spotify.com/album/5WK6X2lUucPMPm6IfIGM0i"
@@ -641,7 +753,7 @@
       "url": "https://open.spotify.com/track/65AxjXcLId94KrLHXAU0Kb"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE"
@@ -657,7 +769,7 @@
       "url": "https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
@@ -673,7 +785,7 @@
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
     },
     {
-      "added_at": "2023-06-12 16:15:12",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Twenty Nothing",
         "url": "https://open.spotify.com/album/1A39gFaDwwqZi2oNPTag3E"
@@ -689,7 +801,7 @@
       "url": "https://open.spotify.com/track/4RCxMeZjjirMp6sLWAiRxb"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE"
@@ -705,7 +817,7 @@
       "url": "https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
@@ -721,7 +833,7 @@
       "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
@@ -737,7 +849,7 @@
       "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/1gyThah2qGByCUDyU69ZWv"
@@ -753,7 +865,7 @@
       "url": "https://open.spotify.com/track/0Rt1p1SafJXy63MqX9dvtm"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb"
@@ -769,7 +881,7 @@
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Jude Law",
         "url": "https://open.spotify.com/album/11R4y65FAlmyj90tWtOEfl"
@@ -785,7 +897,7 @@
       "url": "https://open.spotify.com/track/15rPuany8XoTaijKHdAf4j"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "if i were a fish (feat. Olivia Barton)",
         "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
@@ -805,7 +917,7 @@
       "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "4runner",
         "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
@@ -821,7 +933,7 @@
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Comedy & Tragedy: Act 1",
         "url": "https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh"
@@ -837,7 +949,7 @@
       "url": "https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
@@ -853,7 +965,7 @@
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
@@ -869,39 +981,7 @@
       "url": "https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Introverted",
-        "url": "https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "Introverted",
-      "url": "https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Breaking a Sweat",
-        "url": "https://open.spotify.com/album/5XInoYS5MukGPu1DrM3Gzh"
-      },
-      "artists": [
-        {
-          "name": "Bonner Black",
-          "url": "https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz"
-        }
-      ],
-      "duration_ms": 171663,
-      "name": "Breaking a Sweat",
-      "url": "https://open.spotify.com/track/0n9QfaQKG6JzYPnOCzh3wq"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "in my head",
         "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
@@ -917,7 +997,7 @@
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl"
@@ -933,23 +1013,7 @@
       "url": "https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Long Sleeves",
-        "url": "https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW"
-      },
-      "artists": [
-        {
-          "name": "Love You Later",
-          "url": "https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw"
-        }
-      ],
-      "duration_ms": 170392,
-      "name": "Long Sleeves",
-      "url": "https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "WW3",
         "url": "https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2"
@@ -965,23 +1029,7 @@
       "url": "https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "This is a Good Sign",
-        "url": "https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf"
-      },
-      "artists": [
-        {
-          "name": "Olivia Barton",
-          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
-        }
-      ],
-      "duration_ms": 225274,
-      "name": "I Don't Sing My Songs",
-      "url": "https://open.spotify.com/track/6shIbEKPwnukg40ZQKGcBP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Holy Place",
         "url": "https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn"
@@ -997,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
@@ -1013,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Can't Blame A Girl For Trying",
         "url": "https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC"
@@ -1029,7 +1077,7 @@
       "url": "https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Powerlines",
         "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Catching Rabbits",
         "url": "https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy"
@@ -1061,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Looking At Me",
         "url": "https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue"
@@ -1077,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "so it goes...",
         "url": "https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu"
@@ -1093,23 +1141,7 @@
       "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "If I Weren't Me",
-        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Situationships",
         "url": "https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL"
@@ -1125,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt"
@@ -1141,55 +1173,7 @@
       "url": "https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "realizations of a tightrope walker",
-        "url": "https://open.spotify.com/album/2yZCCFDuxI01TFm5UEdpoW"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "robot boy",
-      "url": "https://open.spotify.com/track/0BQhoWkXkvx71p9w7EsF3c"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "the last laugh",
-        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "the last laugh",
-      "url": "https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "dishes",
-        "url": "https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "dishes",
-      "url": "https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
@@ -1205,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "How The Story Ends",
         "url": "https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000"
@@ -1221,7 +1205,7 @@
       "url": "https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Secondhand Smoke",
         "url": "https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6"
@@ -1237,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Call U After Rehab",
         "url": "https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq"
@@ -1253,71 +1237,7 @@
       "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "And Then Some",
-        "url": "https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 189985,
-      "name": "And Then Some",
-      "url": "https://open.spotify.com/track/6s0gFpKKKxd8EDhTCvEbYf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Holding You",
-        "url": "https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH"
-      },
-      "artists": [
-        {
-          "name": "David McCredie",
-          "url": "https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY"
-        }
-      ],
-      "duration_ms": 171604,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Nighttime Routine",
-        "url": "https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc"
-      },
-      "artists": [
-        {
-          "name": "Ellee Duke",
-          "url": "https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Nighttime Routine",
-      "url": "https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Love Fools",
-        "url": "https://open.spotify.com/album/4G6BxhKzRTYG7ftX48BY9f"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 190717,
-      "name": "Love Fools",
-      "url": "https://open.spotify.com/track/7lDD5Ajj01UMmZ7ww8JGPT"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Greek Street",
         "url": "https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22"
@@ -1333,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3FOMG322NEExR04jEubVTW"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "healing hurts",
         "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
@@ -1349,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93"
@@ -1365,7 +1285,7 @@
       "url": "https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-08-11 04:04:12",
       "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"

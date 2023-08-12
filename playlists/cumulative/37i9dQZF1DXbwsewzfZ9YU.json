@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "open the pit. cover: Scowl",
+  "description": "open the pit - ft. artists from <b>The Tribes Of Da Moon Festival</b>, taking place Aug 19-20 at the iconic Bowery Ballroom in NYC. More info <a href=\"https://linktr.ee/darksideofdamoon \">HERE</a>.",
   "name": "the Breakdown",
   "tracks": [
+    {
+      "album": {
+        "name": "Ballista Territory",
+        "url": "https://open.spotify.com/album/586X87kkk9JiBzlCuW85oe"
+      },
+      "artists": [
+        {
+          "name": "Ballista",
+          "url": "https://open.spotify.com/artist/7mvYHstlAsUmedQ1XUIpqK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "1000 Stitches 2000 Cuts",
+      "url": "https://open.spotify.com/track/3XAvXYJXtktJl7dPed3C63"
+    },
     {
       "album": {
         "name": "a kiss for every hornet",
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 51655,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n"
@@ -218,6 +236,24 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "album": {
+        "name": "Blood and Gold",
+        "url": "https://open.spotify.com/album/1ZBs9404SuGsIT9d9C4Tmc"
+      },
+      "artists": [
+        {
+          "name": "Rebelmatic",
+          "url": "https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132573,
+      "name": "Blood and Gold",
+      "url": "https://open.spotify.com/track/7t5Z9ko6k5gHC4UTBI25sv"
     },
     {
       "album": {
@@ -383,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Do It With a Smile",
+        "url": "https://open.spotify.com/album/3jgxc23UY1lofVUFVCvUxf"
+      },
+      "artists": [
+        {
+          "name": "Thirdface",
+          "url": "https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80152,
+      "name": "Customary",
+      "url": "https://open.spotify.com/track/6nE8W540ezDqtGOy8f7c5z"
+    },
+    {
+      "album": {
         "name": "Dancing on a Pin",
         "url": "https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV"
       },
@@ -492,6 +546,24 @@
       "duration_ms": 178863,
       "name": "Delusions of Grandeur",
       "url": "https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ"
+    },
+    {
+      "album": {
+        "name": "Los Compadres",
+        "url": "https://open.spotify.com/album/1fa3q5XbM1R1ykfHeLkdhB"
+      },
+      "artists": [
+        {
+          "name": "Shawty",
+          "url": "https://open.spotify.com/artist/6AWxfMNFsVCCpLnzeNTqCD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Deneyer Maker",
+      "url": "https://open.spotify.com/track/6eOk1TWv4WjZHcCogAhBhw"
     },
     {
       "album": {
@@ -657,6 +729,24 @@
     },
     {
       "album": {
+        "name": "A New Tomorrow",
+        "url": "https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ"
+      },
+      "artists": [
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78733,
+      "name": "Fakin\u2019 Tha Funk (You Get Did)",
+      "url": "https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi"
+    },
+    {
+      "album": {
         "name": "Familia Finito",
         "url": "https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z"
       },
@@ -668,7 +758,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 87998,
       "name": "Familia Finito",
       "url": "https://open.spotify.com/track/6efk4XQySFHObUildXzh6e"
@@ -783,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Moment Of Violence",
+        "url": "https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT"
+      },
+      "artists": [
+        {
+          "name": "Kharma",
+          "url": "https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T"
+    },
+    {
+      "album": {
         "name": "Electrified Brain",
         "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
       },
@@ -855,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Adrienne",
+        "url": "https://open.spotify.com/album/4iWeUpsbopMaaoLJSTe8pr"
+      },
+      "artists": [
+        {
+          "name": "Adrienne",
+          "url": "https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179838,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/7f6yurNY0FZ9FNijUvQkx0"
+    },
+    {
+      "album": {
         "name": "Heaven is Here",
         "url": "https://open.spotify.com/album/4ehKSfXDueVpMXqUTnWbme"
       },
@@ -888,6 +1014,24 @@
       "duration_ms": 221516,
       "name": "Idealized",
       "url": "https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG"
+    },
+    {
+      "album": {
+        "name": "Imperialist Reign / Summer Trend",
+        "url": "https://open.spotify.com/album/0ZcAEVm9B7eLqB3LWRX5lL"
+      },
+      "artists": [
+        {
+          "name": "Move BHC",
+          "url": "https://open.spotify.com/artist/0k0hZC312UEzXUseFlboyZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139758,
+      "name": "Imperalist Reign",
+      "url": "https://open.spotify.com/track/3wTLbr8a8xUuaBbmFSJ24U"
     },
     {
       "album": {
@@ -945,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Diaspora Problems",
+        "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206245,
+      "name": "Jump!! (Or Get Jumped!!!)((by the future))",
+      "url": "https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40"
+    },
+    {
+      "album": {
         "name": "Maladjusted",
         "url": "https://open.spotify.com/album/5C8PwVl2pPjnpGf68dV8PD"
       },
@@ -996,6 +1158,24 @@
       "duration_ms": 175200,
       "name": "Life's Cold Grasp",
       "url": "https://open.spotify.com/track/2LPIlwH2FVqDXJZuffexj5"
+    },
+    {
+      "album": {
+        "name": "One Way Track",
+        "url": "https://open.spotify.com/album/0cV9OMw0QzGrHDztTvRYU9"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92928,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/2dJT7tA9E1lzY2KBDHDm9L"
     },
     {
       "album": {
@@ -1465,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/3oQiTv9pIKObwHdmvGaupE"
+      },
+      "artists": [
+        {
+          "name": "Pearl",
+          "url": "https://open.spotify.com/artist/5s28gIIPhD0FKIhM2AA4u9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91697,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/2FiwcNdnFeVPxD1NfSTh2W"
+    },
+    {
+      "album": {
         "name": "The Last Laugh",
         "url": "https://open.spotify.com/album/0jLiscuEhkYovlrf6u09Af"
       },
@@ -1609,6 +1807,60 @@
     },
     {
       "album": {
+        "name": "RIDE IT",
+        "url": "https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS"
+      },
+      "artists": [
+        {
+          "name": "LustSickPuppy",
+          "url": "https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "RIDE IT",
+      "url": "https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy"
+    },
+    {
+      "album": {
+        "name": "Dimo",
+        "url": "https://open.spotify.com/album/6lXOlPTEes6l6SWK9qfyKe"
+      },
+      "artists": [
+        {
+          "name": "Bazooka",
+          "url": "https://open.spotify.com/artist/5JjaKHxTOvC4JkCSirZIVS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Run You Out",
+      "url": "https://open.spotify.com/track/48moUW0Vxdov1v4fA6gfKU"
+    },
+    {
+      "album": {
+        "name": "Serrated Steel Demo 23'",
+        "url": "https://open.spotify.com/album/2DnCljWfdmglQBHnnpUtgg"
+      },
+      "artists": [
+        {
+          "name": "Knife Wound",
+          "url": "https://open.spotify.com/artist/6aHbtzEnui5mHu2bUeKexe"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109826,
+      "name": "SERRATED STEEL INTRO",
+      "url": "https://open.spotify.com/track/15XZvMldL7gYISziYow1mT"
+    },
+    {
+      "album": {
         "name": "Consume Me",
         "url": "https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN"
       },
@@ -1663,6 +1915,42 @@
     },
     {
       "album": {
+        "name": "The Fun Never Ends",
+        "url": "https://open.spotify.com/album/53KgNl5d5ff9Md1lfzj6gz"
+      },
+      "artists": [
+        {
+          "name": "Playytime",
+          "url": "https://open.spotify.com/artist/37YG1k18DuWDs5fvr7oeH4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3gtyrM3EjX5zly1EfFg2FA"
+    },
+    {
+      "album": {
+        "name": "Concrete Cowboys",
+        "url": "https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c"
+      },
+      "artists": [
+        {
+          "name": "Buggin",
+          "url": "https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56158,
+      "name": "Snack Run",
+      "url": "https://open.spotify.com/track/5YftK2fb0dnyoY88UvljS1"
+    },
+    {
+      "album": {
         "name": "Depictions of Chaos",
         "url": "https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh"
       },
@@ -1699,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Walk the Wheel",
+        "url": "https://open.spotify.com/album/62sp2ksHKvPsMGCZOnGmMS"
+      },
+      "artists": [
+        {
+          "name": "Truth Cult",
+          "url": "https://open.spotify.com/artist/3idKv5QWykt5CeMmgogMMh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75861,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/12o45aFJK74xn4SiaIeeLU"
+    },
+    {
+      "album": {
         "name": "Lethal's Hardcore Hit Parade",
         "url": "https://open.spotify.com/album/57Ij7pxjA9shumvHtfWqpK"
       },
@@ -1732,6 +2038,24 @@
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
+    },
+    {
+      "album": {
+        "name": "Overcompensations For Misery",
+        "url": "https://open.spotify.com/album/1nrycGrqUIDHW352WZheIo"
+      },
+      "artists": [
+        {
+          "name": "Bleed the Pigs",
+          "url": "https://open.spotify.com/artist/1l7anMZbLHad4MquOP8qSc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86457,
+      "name": "Supremacy",
+      "url": "https://open.spotify.com/track/0WYZ5xW2BX4Jq1PScBxVzn"
     },
     {
       "album": {
@@ -1930,6 +2254,24 @@
       "duration_ms": 146079,
       "name": "Torn From Your Silhouette",
       "url": "https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L"
+    },
+    {
+      "album": {
+        "name": "Blending",
+        "url": "https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "Trauma Bonds",
+      "url": "https://open.spotify.com/track/1wT90Y3nYuDhTjytAfO6Cx"
     },
     {
       "album": {
@@ -2184,7 +2526,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 140760,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/2L03e7IgbVjttShHSSXiv4"
@@ -2206,6 +2548,24 @@
       "duration_ms": 174213,
       "name": "Whispers of Your Death",
       "url": "https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8"
+    },
+    {
+      "album": {
+        "name": "Hardcore Music for Melanated Peoples and Other Sounds for the Mid to Lower Class Vol. 2",
+        "url": "https://open.spotify.com/album/7kEAKbISAu0gJgsK0Y9dXZ"
+      },
+      "artists": [
+        {
+          "name": "HIDE",
+          "url": "https://open.spotify.com/artist/07CmRo9GSzu3y0pGClVkFC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102789,
+      "name": "White Boy Bummer",
+      "url": "https://open.spotify.com/track/46fp5wi08omiQNvTfJHnQb"
     },
     {
       "album": {

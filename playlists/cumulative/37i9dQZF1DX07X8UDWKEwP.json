@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Ilegales",
+  "description": "Lo nuevo del mundo tropical. Cover: Estevie & Cuco",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 136955,
       "name": "El camino",
       "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
@@ -1807,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "el paso",
+        "url": "https://open.spotify.com/album/5QBjcz2tdsRVsmPtmg8h5Z"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185570,
+      "name": "el paso",
+      "url": "https://open.spotify.com/track/6nu7Fpg5sarNYs8ElOozRQ"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 131697,
       "name": "En Otra",
       "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 133284,
       "name": "Luck Ra | Mission 15",
       "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
@@ -3219,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
+    },
+    {
+      "album": {
         "name": "Mi Mejor Amiga",
         "url": "https://open.spotify.com/album/25tzyzIX2g6Zo1bMVhNS9C"
       },
@@ -3380,10 +3420,6 @@
         {
           "name": "Ilegales",
           "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        },
-        {
-          "name": "Happy Colors",
-          "url": "https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1"
         }
       ],
       "date_added": "2023-08-04",
@@ -5210,6 +5246,24 @@
       "duration_ms": 170208,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa"
+    },
+    {
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "album": {

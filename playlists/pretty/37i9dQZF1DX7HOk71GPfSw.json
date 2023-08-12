@@ -1,13 +1,29 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 414676,
+  "num_followers": 414861,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDIwODIyODRhYzc1ZGJkMGRkODEyZTljOTcyOGY0MjgwMDc0Y2Zi",
+  "snapshot_id": "MCwxOTg0NjEwNzA3OGUxMzI5ZTFjMGE4NzYyMzI3NzAxNGQ4YmRmYjE3",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "ELECTRIC",
+        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
+    },
     {
       "added_at": "2023-07-28 14:33:00",
       "album": {
@@ -101,6 +117,22 @@
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
     },
     {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "every minute",
+        "url": "https://open.spotify.com/album/2FwqkC9quZSOFD2NDLHbZF"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        }
+      ],
+      "duration_ms": 133940,
+      "name": "every minute",
+      "url": "https://open.spotify.com/track/3lQUZQQeLhQWeos7DbfB5B"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Estrogen",
@@ -117,22 +149,6 @@
       "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
       "added_at": "2023-08-05 11:58:21",
       "album": {
         "name": "halo",
@@ -147,6 +163,46 @@
       "duration_ms": 183783,
       "name": "halo",
       "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "place4us",
+        "url": "https://open.spotify.com/album/2VxNzf5TZoiTCgTlhwBoLD"
+      },
+      "artists": [
+        {
+          "name": "DESTROY BORING",
+          "url": "https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ"
+        },
+        {
+          "name": "Belis",
+          "url": "https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 191162,
+      "name": "remedy",
+      "url": "https://open.spotify.com/track/4EIqHD0JXTORIeImuvvDI4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -305,6 +361,26 @@
       "url": "https://open.spotify.com/track/1T1xSmgwLuDg9ySwAUiCQ8"
     },
     {
+      "added_at": "2022-09-23 07:48:00",
+      "album": {
+        "name": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+        }
+      ],
+      "duration_ms": 152361,
+      "name": "ABC (feat. Sophia Black)",
+      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "anon",
@@ -373,24 +449,20 @@
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
     },
     {
-      "added_at": "2023-06-30 07:33:00",
+      "added_at": "2023-05-31 17:21:00",
       "album": {
-        "name": "sippin' drank",
-        "url": "https://open.spotify.com/album/3tCmrlzxUvLHfah3AS0nv5"
+        "name": "music 2",
+        "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
       },
       "artists": [
         {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+          "name": "estelle allen",
+          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
         }
       ],
-      "duration_ms": 147918,
-      "name": "sippin' drank",
-      "url": "https://open.spotify.com/track/5z3eSt81RdTY4e9ZFozrb5"
+      "duration_ms": 100562,
+      "name": "dui",
+      "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
     },
     {
       "added_at": "2023-08-05 11:58:21",
@@ -483,6 +555,26 @@
       "duration_ms": 177230,
       "name": "PROTECTION CHARM",
       "url": "https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm"
+    },
+    {
+      "added_at": "2023-06-30 07:33:00",
+      "album": {
+        "name": "sippin' drank",
+        "url": "https://open.spotify.com/album/3tCmrlzxUvLHfah3AS0nv5"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        }
+      ],
+      "duration_ms": 147918,
+      "name": "sippin' drank",
+      "url": "https://open.spotify.com/track/5z3eSt81RdTY4e9ZFozrb5"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -809,22 +901,6 @@
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
     },
     {
-      "added_at": "2023-05-31 17:21:00",
-      "album": {
-        "name": "music 2",
-        "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
-      },
-      "artists": [
-        {
-          "name": "estelle allen",
-          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
-        }
-      ],
-      "duration_ms": 100562,
-      "name": "dui",
-      "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "10,000 gecs",
@@ -967,26 +1043,6 @@
       "duration_ms": 162461,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "ABC (feat. Sophia Black)",
-        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "Sophia Black",
-          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
-        }
-      ],
-      "duration_ms": 152361,
-      "name": "ABC (feat. Sophia Black)",
-      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1699,58 +1755,6 @@
       "duration_ms": 152013,
       "name": "My Brain is Lasers",
       "url": "https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "teeth II",
-        "url": "https://open.spotify.com/album/3znC2CsEV9bBFAgF2P6zIk"
-      },
-      "artists": [
-        {
-          "name": "heylog",
-          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
-        }
-      ],
-      "duration_ms": 206701,
-      "name": "teeth II",
-      "url": "https://open.spotify.com/track/6xZgMvO83D2MbaMIyE38qk"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Play Poker Remix",
-        "url": "https://open.spotify.com/album/6b1r1SaI0XWiMkg5x19LK9"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        },
-        {
-          "name": "Maple",
-          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
-        }
-      ],
-      "duration_ms": 140016,
-      "name": "Play Poker Remix - Remix",
-      "url": "https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3wU9qKcAkD39ocxbb7yd7p"
-      },
-      "artists": [
-        {
-          "name": "Hunnygloss",
-          "url": "https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "Crimson",
-      "url": "https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb"
     }
   ],
   "unique_name": "hyperpop",

@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 295790,
+  "num_followers": 296022,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGJhN2E0MDEyNGE5NGFkNjE2ZmM2NTlkZDI4OTU1OTY2OTBiYTM0",
+  "snapshot_id": "MCwzYjcxOGU2NTYyZDgzMWI1YzZhZDdhYjRiOGY5YjMwNGZiNTU3OTI1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
     },
     {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Echo A.D.",
+        "url": "https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Echo A.D.",
+      "url": "https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Have a Talk with God",
+        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "duration_ms": 341918,
+      "name": "Have a Talk with God",
+      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
+    },
+    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
@@ -67,6 +103,30 @@
       "duration_ms": 226905,
       "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "STR4TASFEAR Remixes",
+        "url": "https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Jean Paul \"Bluey\" Maunick",
+          "url": "https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM"
+        }
+      ],
+      "duration_ms": 391640,
+      "name": "Lazy Days - Bluey Remix",
+      "url": "https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -279,22 +339,6 @@
       "duration_ms": 119510,
       "name": "Spiky Boi",
       "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/7agDZgzBiUHXstAmfXMeY9"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/7eL5p6ngW5Jm0e72xlyjL8"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1073,22 +1117,6 @@
       "url": "https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "Aspects",
-        "url": "https://open.spotify.com/album/7IURTlkQKbyrNsyYEQ1gY5"
-      },
-      "artists": [
-        {
-          "name": "STR4TA",
-          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
-        }
-      ],
-      "duration_ms": 311213,
-      "name": "We Like It",
-      "url": "https://open.spotify.com/track/6Z69u434EzVPJ570SYeQDf"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Step Down",
@@ -1243,22 +1271,6 @@
       "duration_ms": 221247,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
-    },
-    {
-      "added_at": "2021-09-29 20:03:28",
-      "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
       "added_at": "2021-04-09 04:01:00",

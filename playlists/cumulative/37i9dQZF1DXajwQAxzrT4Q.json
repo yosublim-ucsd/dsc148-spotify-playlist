@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 114477,
       "name": "4AM",
       "url": "https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM"
@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+    },
+    {
+      "album": {
         "name": "Holla At Me Like, Vol. 2",
         "url": "https://open.spotify.com/album/0Wfl2JP1WIs2Bp0Rmc5ZsW"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 97342,
       "name": "Jersey Club Movie",
       "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
@@ -4795,6 +4813,28 @@
     },
     {
       "album": {
+        "name": "Shake The Room",
+        "url": "https://open.spotify.com/album/67RkFUd9W6wHCLtMpuz8EK"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Dos Flakos",
+          "url": "https://open.spotify.com/artist/7e0d8Rr8wnZlu4CvQU5eHU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265857,
+      "name": "Shake The Room",
+      "url": "https://open.spotify.com/track/2vjOxwogHbLSHbiewgCqd6"
+    },
+    {
+      "album": {
         "name": "Shake, Pt. 2 (Sped Up Version)",
         "url": "https://open.spotify.com/album/5csZjEnf8NWk5r1uPkbCAB"
       },
@@ -5606,6 +5646,36 @@
       "duration_ms": 108000,
       "name": "WHO YOU TOUCH",
       "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
+    },
+    {
+      "album": {
+        "name": "Defiant Presents: Jiggy In Jersey",
+        "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Defiant Presents",
+          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Who You Touch Pt. 2 (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD"
     },
     {
       "album": {

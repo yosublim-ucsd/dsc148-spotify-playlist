@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "JUNE e.p.",
+        "url": "https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C"
+      },
+      "artists": [
+        {
+          "name": "Nagakumo",
+          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189936,
+      "name": "About My Love",
+      "url": "https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5"
+    },
+    {
+      "album": {
         "name": "Acrophobia (Remix)",
         "url": "https://open.spotify.com/album/2cFCBlfrWGLTLcPjIEfYL3"
       },
@@ -15334,24 +15352,6 @@
       "duration_ms": 227841,
       "name": "JUICY 2023",
       "url": "https://open.spotify.com/track/19i6b6c6C0UJ1OnHpBT6nJ"
-    },
-    {
-      "album": {
-        "name": "JUNE e.p.",
-        "url": "https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C"
-      },
-      "artists": [
-        {
-          "name": "Nagakumo",
-          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
-        }
-      ],
-      "date_added": "2023-08-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189936,
-      "name": "June is about love",
-      "url": "https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5"
     },
     {
       "album": {

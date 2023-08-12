@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-185 songs - 9 hr 40 min
+186 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [flirty talk](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [flirty talk](https://open.spotify.com/album/7AFrOWKoPKNhLpbwqJPbLz) | 2:19 | 2023-05-05 |  |
 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 | 2023-05-05 |  |
 | [Forever](https://open.spotify.com/track/0d3aVK5p4ULp4r2Nmd7f3C) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Forever](https://open.spotify.com/album/608b83QDjBMRWUyeKuPqHR) | 3:37 | 2023-05-05 |  |
-| [Forever](https://open.spotify.com/track/4ShNQ8fptxSZJlxPrB9WH9) | [Sorealistic](https://open.spotify.com/artist/3JZ7YTqD3kuO06iDUjMoNS) | [Forever](https://open.spotify.com/album/702MvPJm14n0vapHvva2So) | 2:27 | 2023-05-05 |  |
+| [Forever](https://open.spotify.com/track/4ShNQ8fptxSZJlxPrB9WH9) | [Sorealistic](https://open.spotify.com/artist/3JZ7YTqD3kuO06iDUjMoNS) | [Forever](https://open.spotify.com/album/702MvPJm14n0vapHvva2So) | 2:27 | 2023-05-05 | 2023-08-12 |
 | [FourTwenty](https://open.spotify.com/track/59nnEAlpfTItpuIfhsucbf) | [Mijjo](https://open.spotify.com/artist/0RCnXaNg2V72pjh7szTSNG) | [FourTwenty](https://open.spotify.com/album/7iKEO0B7yXtgFoJtCxkxRY) | 3:00 | 2023-05-05 |  |
 | [Genuine Foggy](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Open Hat](https://open.spotify.com/album/0gh9B5L7AQPvW3W7LlUiEk) | 3:09 | 2023-05-05 |  |
 | [Get Up](https://open.spotify.com/track/7vGXoiHHffnzHnCtG33auM) | [Luxe Moldaine](https://open.spotify.com/artist/4CFOY2D4y9pLRfEVRCnwMr) | [Get Up](https://open.spotify.com/album/6FTx15VgguASDLeZ2Y2DJO) | 2:38 | 2023-07-07 |  |
@@ -154,6 +154,7 @@
 | [Souvenirs](https://open.spotify.com/track/2TJXryzOQ5UestW8w3DNSU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Souvenirs](https://open.spotify.com/album/1wAXvwqX3yl6RN6vNx84Tp) | 2:06 | 2023-05-05 |  |
 | [Staff Picks](https://open.spotify.com/track/62xIvs75XUHtoFt3u6P5Lf) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Staff Picks](https://open.spotify.com/album/4m23AzN8nbxwe9DUOxtaWT) | 2:56 | 2023-05-05 |  |
 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 | 2023-07-07 |  |
+| [Straight Curves](https://open.spotify.com/track/2t7tr3u3eP9maEcdnxdWco) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Straight Curves](https://open.spotify.com/album/5txvqoRrYhbH8xDGuSxbgt) | 2:31 | 2023-08-11 |  |
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2023-05-05 |  |
 | [Summer Haze](https://open.spotify.com/track/1Rpb9M4NAROfBsuw0QAkUR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Summer Haze](https://open.spotify.com/album/6QY9bO1j7bH2cI0BtMA4yV) | 3:28 | 2023-05-05 |  |
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |

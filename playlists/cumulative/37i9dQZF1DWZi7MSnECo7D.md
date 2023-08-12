@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Garotas Suecas
+> Novidades e destaques do indie nacional\. Foto: uma Póvoas
 
-448 songs - 1 day 1 hr 19 min
+451 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [MIRO](https://open.spotify.com/track/1bv5RhJDGTjjM2qKN0HaKl) | [TAXIDERMIA](https://open.spotify.com/artist/11hsug3DEsL71KzApTmWcj), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj), [João Milet Meirelles](https://open.spotify.com/artist/7aAQOBQqV4EPE7pmyCMjKo) | [OUTRO VOLUME](https://open.spotify.com/album/3j9Dw9lvea8ZfdinhW1s0C) | 2:47 | 2022-01-14 | 2022-03-18 |
 | [Mistificar](https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mistificar](https://open.spotify.com/album/4mvVkLGZeUGm0D6C8zZuiZ) | 3:07 | 2022-06-03 | 2022-08-06 |
 | [MONTANHA RUSSA](https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [HENZEE](https://open.spotify.com/artist/5TSWnKJY6y03fawwqfkD54) | [MONTANHA RUSSA](https://open.spotify.com/album/4QJTU1v37HrAEc0JlJwReF) | 3:13 | 2022-08-05 | 2023-07-15 |
+| [Movimento Solar](https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Movimento Solar](https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K) | 3:21 | 2023-08-11 |  |
 | [Msg de Áudio](https://open.spotify.com/track/62kL2GyXXniX2DhlRmdzfr) | [Graveto](https://open.spotify.com/artist/6PQ1kr8rh2TpYJDAO3q1VY), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ) | [Msg de Áudio](https://open.spotify.com/album/2jT9ZxW7w0ShPcn7QeQtTw) | 2:13 | 2022-01-14 | 2022-02-12 |
 | [Muita Pose, Pouca Yoga](https://open.spotify.com/track/1epVWSgLX4B4OwSzf03b25) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Muita Pose, Pouca Yoga](https://open.spotify.com/album/7ylHlK3RxWnrxLzuauKTAa) | 3:26 | 2022-11-28 | 2022-12-10 |
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 | 2023-07-15 |
@@ -405,6 +406,7 @@
 | [Trap Triste](https://open.spotify.com/track/4wEWy4TSZbRj7EqjBHyVUc) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev) | [Trap Triste](https://open.spotify.com/album/1A5g9AosXCIwwTUT8Z25dm) | 3:01 | 2022-12-23 | 2023-01-14 |
 | [Traumas de Estimação](https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Traumas de Estimação](https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS) | 5:07 | 2022-02-11 | 2022-03-12 |
 | [TRUCO](https://open.spotify.com/track/0l8pUz1xiihDeXbibzgFUT) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW) | [TRUCO](https://open.spotify.com/album/16OcjRTc0sdBhaoPcNJmSn) | 4:17 | 2023-01-27 | 2023-03-25 |
+| [Truque](https://open.spotify.com/track/5BWDctHY7KfVt6sc1D3tOs) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Truque](https://open.spotify.com/album/5n44zhzi1I9ig1CKj80Sm3) | 3:20 | 2023-08-11 |  |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-01-14 | 2022-03-18 |
 | [Tudo](https://open.spotify.com/track/46XgW83pYCfzTbtDNqczDn) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Certas Idades](https://open.spotify.com/album/6ZF8pV2wIkHFAUOzyL4sbg) | 3:34 | 2022-08-19 | 2022-10-29 |
 | [tudo pra mim](https://open.spotify.com/track/13A3gifaYjdtVC4ihXmexk) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [tudo pra mim](https://open.spotify.com/album/2SioAF15z3a5PXZdyXzGGW) | 3:33 | 2023-05-26 |  |
@@ -442,6 +444,7 @@
 | [Volta](https://open.spotify.com/track/20TjtbWvLqfQIPth8gUvSB) | [Pedro Emílio](https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N) | [Regresso](https://open.spotify.com/album/6TSjLlgElA7qweTOxJMVd3) | 4:16 | 2023-04-07 | 2023-05-20 |
 | [voltas \(áudio de whatsapp\)](https://open.spotify.com/track/3qROJDOCZ7eoxAbr6hiKkB) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [n sei usar excel](https://open.spotify.com/album/5uxJG9jWXfk8LVHS39aGrE) | 2:09 | 2022-07-15 | 2022-12-03 |
 | [Voltas e Voltas](https://open.spotify.com/track/3VuV7aeq7vpWlnCeQhekrB) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Voltas e Voltas](https://open.spotify.com/album/2bd4zlArO1K7W8AwlePqQn) | 2:58 | 2023-03-17 |  |
+| [Vou Assombrar Você](https://open.spotify.com/track/1jEtRWtkSHMa2Mr0chd7ma) | [measyou](https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr) | [Vou Assombrar Você](https://open.spotify.com/album/42zLC6S0krAIx0Vdo2kfyK) | 2:35 | 2023-08-11 |  |
 | [Vou Te Bagunçar](https://open.spotify.com/track/4zy6LZlj8g5sM3lOI7FChL) | [Xande](https://open.spotify.com/artist/0IqLSb4h4c1SaAijKMmUai), [Vila Condin](https://open.spotify.com/artist/5XrH8sfPNab2LWXuTjwyud) | [Vou Te Bagunçar](https://open.spotify.com/album/1ocxzbRIMJBpeIaCCQFvgH) | 2:43 | 2022-02-04 | 2022-03-12 |
 | [VOU TE CONVIDAR](https://open.spotify.com/track/0nGfP61h8yHToSYiXnngXi) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [VOU TE CONVIDAR](https://open.spotify.com/album/6CbebK3fUPIWu0SJ1KaXMm) | 3:31 | 2023-02-17 |  |
 | [vou te respirar](https://open.spotify.com/track/1Tz1iLZ557WeHvf7tYHe6Z) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [vou te respirar](https://open.spotify.com/album/58fSX5594JIk1O5wHICbd6) | 2:18 | 2023-05-05 |  |

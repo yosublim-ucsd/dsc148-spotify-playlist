@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12466,
+  "num_followers": 12465,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm",
+  "snapshot_id": "MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "No Me Detiene (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 148031,
       "name": "Algo Real - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3KFeZhnUFQTB34gh4kAtcw"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Y Desaparezco",
+        "url": "https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8"
+      },
+      "artists": [
+        {
+          "name": "Val\u00fc",
+          "url": "https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1"
+        }
+      ],
+      "duration_ms": 203784,
+      "name": "Y Desaparezco",
+      "url": "https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Negra yo soy",
         "url": "https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 246898,
       "name": "Negra yo soy",
       "url": "https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Y Desaparezco",
-        "url": "https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8"
-      },
-      "artists": [
-        {
-          "name": "Val\u00fc",
-          "url": "https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1"
-        }
-      ],
-      "duration_ms": 203784,
-      "name": "Y Desaparezco",
-      "url": "https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB"
     },
     {
       "added_at": "2023-08-02 04:00:00",

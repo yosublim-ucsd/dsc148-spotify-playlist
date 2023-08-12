@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 183635,
       "name": "How Many Moons",
       "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
@@ -1078,6 +1078,24 @@
       "duration_ms": 198218,
       "name": "Sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+    },
+    {
+      "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/6t8cfrbxqMrfQdOYYUd90r"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/52Z7SLcvX4b9tqiq2fiDzi"
     },
     {
       "album": {

@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -1302,6 +1302,24 @@
       "duration_ms": 215626,
       "name": "I Knew You Were Trouble (feat. KRNFX)",
       "url": "https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu"
+    },
+    {
+      "album": {
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "I Rise",
+      "url": "https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN"
     },
     {
       "album": {

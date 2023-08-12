@@ -1,13 +1,45 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Zae France",
-  "num_followers": 39533,
+  "description": "R&B of the moment by the artists of the future. Cover: Tyla",
+  "num_followers": 39597,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWZiZjhkNGU3MGQwODQ3YTYwYmM3NDJjODcxODQ2ZDRjYzQyYmVm",
+  "snapshot_id": "MCwwMmU5MzgzYzZjYjhiYjIzM2FiOTZlNGI4YTIzMThhYmE5ZmU0NTI3",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 141055,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/1VYUd9fdOaOCL47pkGd57z"
+    },
+    {
+      "added_at": "2023-08-11 05:51:50",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 250945,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4Zghtgj5NOb3wqlBuat3FI"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -109,20 +157,28 @@
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-08-11 05:51:50",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+        "name": "Fantasy (Give It All)",
+        "url": "https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9"
       },
       "artists": [
         {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Hoofy Baby",
+          "url": "https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Beach",
-      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
+      "duration_ms": 177534,
+      "name": "Fantasy (Give It All)",
+      "url": "https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -173,10 +229,10 @@
       "url": "https://open.spotify.com/track/5WIsCDJeKudbztUiWhmSwt"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-11 05:51:50",
       "album": {
-        "name": "F'd Up",
-        "url": "https://open.spotify.com/album/39lgXxNWtwNzm1oiXoZDe9"
+        "name": "Need 2 Know",
+        "url": "https://open.spotify.com/album/618hLEFqLhd2F5pkf3MOsk"
       },
       "artists": [
         {
@@ -184,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         }
       ],
-      "duration_ms": 233475,
-      "name": "F'd Up",
-      "url": "https://open.spotify.com/track/3sUIEofdt4yPN9IkczVEsF"
+      "duration_ms": 215533,
+      "name": "Need 2 Know",
+      "url": "https://open.spotify.com/track/3uGWtQPSUH7ylZy8HjkQj6"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -203,22 +259,6 @@
       "duration_ms": 193901,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -241,20 +281,20 @@
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
     },
     {
-      "added_at": "2023-05-05 05:18:45",
+      "added_at": "2023-08-11 05:51:50",
       "album": {
-        "name": "lost a friend",
-        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+        "name": "Miss Me Yet?",
+        "url": "https://open.spotify.com/album/6mchRY5eb4bHz5GKikFPIP"
       },
       "artists": [
         {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 174637,
-      "name": "ego talkin'",
-      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
+      "duration_ms": 125500,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/209RWdZjINSPWkwuSSClS4"
     },
     {
       "added_at": "2023-06-16 05:54:28",
@@ -271,6 +311,54 @@
       "duration_ms": 175495,
       "name": "Luv Songs (Unruly)",
       "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+    },
+    {
+      "added_at": "2023-08-11 05:51:50",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/4YDxEOAH9hQjNMTPqWHcxk"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 182311,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/5G39HqNTankm28Qo3JFWU8"
+    },
+    {
+      "added_at": "2023-08-11 05:51:50",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "lost a friend",
+        "url": "https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "ego talkin'",
+      "url": "https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -325,22 +413,6 @@
       "url": "https://open.spotify.com/track/1h2WWba7PtW9uTapvlvtwL"
     },
     {
-      "added_at": "2023-07-23 08:57:12",
-      "album": {
-        "name": "Miss Me Yet?",
-        "url": "https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 174655,
-      "name": "Miss Me Yet?",
-      "url": "https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO"
-    },
-    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Chances",
@@ -371,6 +443,38 @@
       "duration_ms": 257726,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "F'd Up",
+        "url": "https://open.spotify.com/album/39lgXxNWtwNzm1oiXoZDe9"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 233475,
+      "name": "F'd Up",
+      "url": "https://open.spotify.com/track/3sUIEofdt4yPN9IkczVEsF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 104842,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -425,20 +529,20 @@
       "url": "https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-07-23 08:57:12",
       "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
+        "name": "Miss Me Yet?",
+        "url": "https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 104842,
-      "name": "SWITCH",
-      "url": "https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK"
+      "duration_ms": 174655,
+      "name": "Miss Me Yet?",
+      "url": "https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO"
     },
     {
       "added_at": "2023-04-14 04:01:00",

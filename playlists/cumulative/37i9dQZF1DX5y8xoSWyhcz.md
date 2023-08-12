@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,093 songs - 2 day 8 hr 3 min
+1,095 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Alive](https://open.spotify.com/track/0hACTWp6cK3XwFQtlvzlC9) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Alive](https://open.spotify.com/album/2ySfkRIofbB0KuDAy1dU8e) | 2:56 | 2021-02-06 | 2021-03-06 |
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2020-10-29\* | 2020-11-04 |
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2021-10-23 | 2022-01-08 |
-| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-07-01 |  |
+| [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-07-01 | 2023-08-12 |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-03-06 | 2021-06-05 |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-01-29 | 2021-03-06 |
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-27 | 2021-06-05 |
@@ -195,7 +195,7 @@
 | [Cotton Candy](https://open.spotify.com/track/0RLIUOXaZUvZub2Qn7NHqh) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/1hVCtTKZ96eJByKOEjKsbz) | 1:33 | 2020-10-29\* | 2021-03-14 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2020-10-29\* | 2021-02-13 |
 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 | 2022-07-08 |  |
-| [Cowboy](https://open.spotify.com/track/1bR0if1jm3ZEbKYr0wTUFD) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1) | 3:26 | 2022-10-07 |  |
+| [Cowboy](https://open.spotify.com/track/1bR0if1jm3ZEbKYr0wTUFD) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1) | 3:26 | 2022-10-07 | 2023-08-12 |
 | [Cowboy](https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB) | 3:26 | 2022-06-03 | 2022-10-14 |
 | [cowboy in LA](https://open.spotify.com/track/0E6uWutxRjIDhleURR92do) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [cowboy in LA](https://open.spotify.com/album/2cUg7ckSqDt8gXp9tmfdZ5) | 3:33 | 2020-10-29\* | 2021-02-13 |
 | [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-04-30 | 2021-05-22 |
@@ -685,6 +685,7 @@
 | [Nothing Fits](https://open.spotify.com/track/6hj7ILX5Cf9eLpA0qvL6oh) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Nothing Fits](https://open.spotify.com/album/3kBp9RT2cqjJT5Fc5ccBIR) | 3:51 | 2022-03-18 | 2022-06-11 |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-06-27 | 2021-08-14 |
 | [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2020-12-12 | 2021-01-30 |
+| [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-08-11 |  |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-02-20 | 2021-04-24 |
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-14 | 2021-03-06 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-05-29 | 2021-11-20 |
@@ -1037,6 +1038,7 @@
 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 | 2022-08-12 | 2023-06-24 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-29\* | 2021-02-27 |
 | [Waves Break](https://open.spotify.com/track/6mUS9fWrw2KZ1xbHSemUVi) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Hopeless & Romantic](https://open.spotify.com/album/1Xoq1m0xx3ZWEFLVm9epWz) | 2:57 | 2022-07-08 |  |
+| [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-08-11 |  |
 | [We Don't Need Malibu](https://open.spotify.com/track/523N1uxyBnVBJNEHG5sskY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [We Don't Need Malibu](https://open.spotify.com/album/6HuhLBQbTGYmh95IOLIYMr) | 2:16 | 2023-06-23 |  |
 | [We Met On The Internet](https://open.spotify.com/track/3GIZN6vaMVBt8euR2ZGFTV) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [We Met On The Internet](https://open.spotify.com/album/7gYD3jx2jeLdCE14S4DWQM) | 1:37 | 2021-01-23 | 2021-02-20 |
 | [we were driving](https://open.spotify.com/track/6CUlNInxaxJK8PP5OBNQxx) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [we were driving](https://open.spotify.com/album/3Z15Ty1fDHUsvtXChmmjVE) | 1:52 | 2021-03-14 | 2021-03-19 |

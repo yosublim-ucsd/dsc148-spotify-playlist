@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,357 likes - 103 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,455 likes - 103 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 13 | [Kansas City](https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 4:04 |
 | 14 | [Farewell Angelina \- Bonus Track](https://open.spotify.com/track/1oe5WAmL6R23auAK49cBZZ) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Subterranean Homesick Blues: A Tribute to Bob Dylan's 'Bringing It All Back Home'](https://open.spotify.com/album/6BpBxbGy2JgkkxiVoLDQg4) | 5:13 |
 | 15 | [The Ballad Of Hollis Brown](https://open.spotify.com/track/1LLK605zavPJiL4aDCOjXT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Spotlight on Nina Simone](https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF) | 4:55 |
-| 16 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2LBXHmODxCjJjD6puwDAE8) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Knockin' On Heaven's Door](https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe) | 4:14 |
+| 16 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2LBXHmODxCjJjD6puwDAE8) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Knockin' On Heaven's Door](https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe) | 4:14 |
 | 17 | [Simple Twist Of Fate](https://open.spotify.com/track/7bKJtDh41HViUzl3Hthc3U) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 4:53 |
 | 18 | [Spanish Mary](https://open.spotify.com/track/7KbuK70PwKK722BvMXvfqB) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 5:31 |
 | 19 | [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/5EazaacsECVBEBgZ4PP8s5) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Folk For Kids](https://open.spotify.com/album/1YFazXCNk4rEFdirMrVorj) | 3:31 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 102 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [The ORIGINAL SEEKERS](https://open.spotify.com/artist/623Vv6ePcaHLE0g2c5a5nh) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 103 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCwyNDI5ODY4MjRjNjJhYjFmOTc4ZjEzMTkwNTRlMDYwZGY0NmY3MmM5`
+Snapshot ID: `MCxiMDA2Mjc0YTE1OWRjZjI1ODkxMTJjYmEyOTNkYmUyOTUzNzlkYmNm`

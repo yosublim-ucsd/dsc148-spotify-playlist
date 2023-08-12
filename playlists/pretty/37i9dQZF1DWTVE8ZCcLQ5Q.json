@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421594,
+  "num_followers": 421587,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
+  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Do Alto da Laje",
-        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "Daqui de Cima",
-      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Favelinha",
         "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 102958,
       "name": "Favelinha",
       "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Do Alto da Laje",
+        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "duration_ms": 159048,
+      "name": "Daqui de Cima",
+      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
     },
     {
       "added_at": "2023-07-12 21:00:00",

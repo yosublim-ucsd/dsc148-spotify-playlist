@@ -1,12 +1,12 @@
 {
   "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ\">Yallunder</a>.",
-  "num_followers": 34950,
+  "num_followers": 34997,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTZhMzBmODBjNGQ5OGQ4NTFjY2NiY2QxZDk3ZGNjOTIxNDU1MzJl",
+  "snapshot_id": "MCwzMjRiZmI2YzEzNWIzMWE1MjUxNWY2YTdkNDI1MDJkMDBlMjRhYjdl",
   "tracks": [
     {
       "added_at": "2023-06-22 21:59:00",
@@ -47,6 +47,26 @@
       "duration_ms": 340280,
       "name": "Wangisiza Baba",
       "url": "https://open.spotify.com/track/1hRuCvAysPnRtMdwhSeUfF"
+    },
+    {
+      "added_at": "2023-08-11 10:03:29",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
     },
     {
       "added_at": "2023-08-03 21:59:00",

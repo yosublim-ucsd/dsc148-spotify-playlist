@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg?si=sdYGjXO7RDqe-1HVZ_JEgg\">Caleb and Kelsey<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe?si=35e5ea6909dc430f\">Anna Golden<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 361027,
       "name": "Because Of You - Live",
       "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
@@ -832,6 +832,24 @@
       "duration_ms": 204939,
       "name": "Best Thing - Stripped",
       "url": "https://open.spotify.com/track/2qqFqyTvtNjKjW3cGQt1kM"
+    },
+    {
+      "album": {
+        "name": "Better Hands",
+        "url": "https://open.spotify.com/album/2HE7p1vbiurUmc6dTuCGnJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Better Hands",
+      "url": "https://open.spotify.com/track/2Hb74c1PVOMy5XYYUNIoU3"
     },
     {
       "album": {
@@ -4735,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Church (Live)",
+        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362500,
+      "name": "Manasseh - Live",
+      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
+    },
+    {
+      "album": {
         "name": "Miracle in Me",
         "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
       },
@@ -4966,7 +5002,7 @@
       },
       "artists": [
         {
-          "name": "FOUNT MUSIC",
+          "name": "C3 NYC",
           "url": "https://open.spotify.com/artist/6tVUFgMhjG96KGcJSr3BdJ"
         }
       ],
@@ -7094,7 +7130,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 163421,
       "name": "The Doxology",
       "url": "https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3"

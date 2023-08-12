@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-186 songs - 10 hr 1 min
+189 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 | 2023-04-11 |  |
 | [attempt to disagree](https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lakehouse](https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip) | 3:33 | 2023-07-14 |  |
 | [Become the Warm Jets](https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 5:34 | 2023-02-09 |  |
-| [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-02-09 |  |
+| [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-02-09 | 2023-08-12 |
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2023-04-11 |  |
 | [Black Tar](https://open.spotify.com/track/0OAXqItnyxKQUVpJNILG2V) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Black Tar](https://open.spotify.com/album/3ribJK72rYHmbPFnAwA51N) | 2:57 | 2023-04-11 | 2023-05-17 |
 | [Bleed](https://open.spotify.com/track/6rv9youaC5GcRiag510DL7) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Bleed](https://open.spotify.com/album/7hWtfF7nCMZsMwwKoQOMdv) | 2:57 | 2023-04-06 |  |
@@ -39,7 +39,7 @@
 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-07 |  |
 | [comeonback](https://open.spotify.com/track/1rOSQ490O5zO3LzlgWHemr) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [comeonback](https://open.spotify.com/album/5eecDPoRArTxgGgKBQ7MuV) | 2:51 | 2023-04-11 | 2023-07-01 |
-| [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2023-02-09 |  |
+| [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2023-02-09 | 2023-08-12 |
 | [Cosmic Healing](https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Cosmic Healing](https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf) | 3:08 | 2023-04-14 |  |
 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 | 2023-04-11 |  |
 | [Crybaby](https://open.spotify.com/track/0zFkRHg8VLdN1nEwEvafZP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:01 | 2023-06-13 |  |
@@ -51,6 +51,7 @@
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 |  |
 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 | 2023-04-11 | 2023-07-01 |
 | [Drain the Pool](https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 3:56 | 2023-04-11 | 2023-05-17 |
+| [End of Ways](https://open.spotify.com/track/34wWqij7B9ZysWCMMLwHIt) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [End of Ways](https://open.spotify.com/album/6wmyIwT5v1bKbUFaa24Rry) | 3:18 | 2023-08-11 |  |
 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 | 2023-04-14 | 2023-07-15 |
 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 | 2023-02-09 |  |
 | [epitaph](https://open.spotify.com/track/4DQZidEAwjPT8MswCITWTX) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [a/b\_\_2](https://open.spotify.com/album/78KsEzasQQFF9QktDTaa35) | 2:34 | 2023-04-11 | 2023-06-03 |
@@ -130,8 +131,9 @@
 | [Poison Tree](https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 3:16 | 2023-02-09 | 2023-06-14 |
 | [Poppy](https://open.spotify.com/track/7nintSHPcKjyFkNH79PFd5) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 4:33 | 2023-04-11 |  |
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-23 |  |
-| [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 | 2023-02-09 |  |
+| [punch](https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi) | [fairies in our house](https://open.spotify.com/artist/0MwasiNhS1Awj9dnl3slBM) | [fairies in our house](https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo) | 1:20 | 2023-02-09 | 2023-08-12 |
 | [Purple Candy Glow](https://open.spotify.com/track/5c2XZ5gPOVCDc6VIDmC0lQ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Purple Candy Glow](https://open.spotify.com/album/7BwPqSXaEQq6wYIzfY3u4Y) | 2:34 | 2023-07-14 |  |
+| [rainwater on the windowsill](https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [there is one place we're all going](https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq) | 3:08 | 2023-08-11 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 | 2023-07-07 |  |
 | [rest](https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:26 | 2023-04-11 |  |
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 |  |
@@ -145,6 +147,7 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-05-17 |
 | [small](https://open.spotify.com/track/7cEUiQ4Wc2JpU9tkzrYqfv) | [sundots](https://open.spotify.com/artist/0K7RoGabPQO08yJDhsvvL5) | [room](https://open.spotify.com/album/77gWWHaMLsKr00U3SfTCns) | 1:38 | 2023-04-11 | 2023-05-17 |
 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 | 2023-05-12 |  |
+| [sometimes](https://open.spotify.com/track/6ITkt5Tn8pOyFyFJROywbt) | [jos](https://open.spotify.com/artist/68eVkVxfqdv4S4NqNyPP3v) | [sometimes](https://open.spotify.com/album/6UcGOBVg7qTyRicxKQM6t7) | 2:28 | 2023-08-11 |  |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2023-02-09 | 2023-05-17 |
 | [song i made up to stop myself from having a panic attack just now \(ft\. rich\)](https://open.spotify.com/track/0LTOpiPy2PahUkpMYLW3JL) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [song i made up to stop myself from having a panic attack just now](https://open.spotify.com/album/7ubczqQBG332NdZGDYdtu0) | 0:41 | 2023-02-09 | 2023-05-17 |
 | [Sorry / happysad](https://open.spotify.com/track/27DoSJFpTdzs6lN0iurC5C) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [King of the Basement](https://open.spotify.com/album/6lxrzoYSxl7Nk7pAQkUe7i) | 6:01 | 2023-04-11 | 2023-07-01 |

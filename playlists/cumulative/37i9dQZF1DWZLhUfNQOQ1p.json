@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "Dusty Sundays",
       "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 234926,
       "name": "Era - Edit",
       "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 381864,
       "name": "Floating on Silence",
       "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 203809,
       "name": "I NEED U (feat. ZOI)",
       "url": "https://open.spotify.com/track/2qRxMG0Ye9W6ufpae7RmLR"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 221890,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 450000,
       "name": "Mystery Lady - Scorpion Kings Remix",
       "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
@@ -4213,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Horchata",
+        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
+      },
+      "artists": [
+        {
+          "name": "Olivier Verhaeghe",
+          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322014,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
+    },
+    {
+      "album": {
         "name": "Sooner Or Later",
         "url": "https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky"
       },
@@ -4296,7 +4332,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 192386,
       "name": "Stay With You - Radio Version",
       "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
@@ -5380,6 +5416,24 @@
       "duration_ms": 377560,
       "name": "Yeh Yeh Yeh",
       "url": "https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj"
+    },
+    {
+      "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,942 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,016 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,11 +218,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 208 | [Freestyle \#7 \(feat\. Gaïden et Yoshi\)](https://open.spotify.com/track/3vn9cEg6V2ErIx65JGImPj) | [HUGO DELIRE](https://open.spotify.com/artist/6FhtGNTxuvmNU5jZpfsoNM), [Gaïden](https://open.spotify.com/artist/2bk2hZHya5vKbxXMNRLa0E), [Yoshi](https://open.spotify.com/artist/1yKK0TjHRbU4eFdYqTlPg8) | [Grand Delirium](https://open.spotify.com/album/2X4fXaQGf5pe4x1rx1sVC3) | 2:48 |
 | 209 | [Feel](https://open.spotify.com/track/3z5IbvSx8lDp3KN3BYMEBX) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Good Enuff 001 \- Uni](https://open.spotify.com/album/5l1zncALjUgsRocC71DW5L) | 5:10 |
 | 210 | [Let's go to work](https://open.spotify.com/track/4DxW60exotcDK3XIniLloj) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Live in Paris](https://open.spotify.com/album/0gHKE9fTHp6DMsGacTaLx4) | 5:41 |
-| 211 | [Atrocities](https://open.spotify.com/track/2yyVDSrMXYMi1AgoXzwRpP) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Antony and the Johnsons](https://open.spotify.com/album/2Duq4scZlW8OTM3Bzhn1Zl) | 3:53 |
+| 211 | [Atrocities](https://open.spotify.com/track/2yyVDSrMXYMi1AgoXzwRpP) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Antony and the Johnsons](https://open.spotify.com/album/2Duq4scZlW8OTM3Bzhn1Zl) | 3:53 |
 | 212 | [Bad Dreams](https://open.spotify.com/track/6lHwaw0LVZnYWKxIbWEPA9) | [John & The Volta](https://open.spotify.com/artist/5znsjqhosEm6eS7HwPcoHV) | [Low Life](https://open.spotify.com/album/75ZLGkWPtAjDry9Ebg8L7d) | 2:59 |
 | 213 | [Jackhammer](https://open.spotify.com/track/7vSGaDdWtWnw4wkAqygil4) | [Dmitri Belichenko](https://open.spotify.com/artist/63PgbqTgSdE6bWhGNcqw1g) | [Electro Circuit](https://open.spotify.com/album/4kjv0WWLxT90YlKGxuatse) | 2:42 |
 | 214 | [Burst Into Flames](https://open.spotify.com/track/3854ZRKFIleNxeaUf29XmS) | [Cavale](https://open.spotify.com/artist/3pgB7XxnJc68c7AsDL23DW) | [Burst Into Flames](https://open.spotify.com/album/4wf4lnzz8k0iJNNhDzmD5e) | 3:24 |
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw1OTFjM2NiZGVjNWM5NDAzMWQxNTJlMGMxZDEyZmY1NzA3NThiOGNl`
+Snapshot ID: `MCw3NjM4Yzc3ZjgyYTliNGU0MjkzODFhNWY1MGMwNTAyMDJiYjYyMTIy`

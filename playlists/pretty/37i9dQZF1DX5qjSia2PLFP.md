@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95?si=Sbyfk88GRe2RY8KJQvv8mQ">BAMBII</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,153 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,170 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
-| 2 | [Good Intentions](https://open.spotify.com/track/1wHStyw8d3GiqP906Gfsk6) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Good Intentions](https://open.spotify.com/album/4XBC6xmWwswsKiITRNeIL2) | 2:26 |
-| 3 | [Never Look Back](https://open.spotify.com/track/1oR5Ow17MqtjNoAYAIvNOy) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Never Look Back](https://open.spotify.com/album/1PK34jg3257ZFhCjXqbvVe) | 2:49 |
-| 4 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 |
-| 5 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
-| 6 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
-| 7 | [The Middle](https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [The Middle](https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1) | 2:51 |
-| 8 | [Smoke by the Ocean](https://open.spotify.com/track/3ofPPYsUS3T7sBWeVt9LXH) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Smoke by the Ocean](https://open.spotify.com/album/6mTkJ05Ki1bX9C3grNECWo) | 2:43 |
-| 9 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
-| 10 | [Miss Me Yet?](https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG) | 2:54 |
+| 1 | [Up](https://open.spotify.com/track/209RWdZjINSPWkwuSSClS4) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/6mchRY5eb4bHz5GKikFPIP) | 2:05 |
+| 2 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
+| 3 | [Good Intentions](https://open.spotify.com/track/1wHStyw8d3GiqP906Gfsk6) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Good Intentions](https://open.spotify.com/album/4XBC6xmWwswsKiITRNeIL2) | 2:26 |
+| 4 | [Never Look Back](https://open.spotify.com/track/1oR5Ow17MqtjNoAYAIvNOy) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Never Look Back](https://open.spotify.com/album/1PK34jg3257ZFhCjXqbvVe) | 2:49 |
+| 5 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 |
+| 6 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
+| 7 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
+| 8 | [The Middle](https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [The Middle](https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1) | 2:51 |
+| 9 | [Smoke by the Ocean](https://open.spotify.com/track/3ofPPYsUS3T7sBWeVt9LXH) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Smoke by the Ocean](https://open.spotify.com/album/6mTkJ05Ki1bX9C3grNECWo) | 2:43 |
+| 10 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 |
 | 11 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
 | 12 | [Famous \(Lost to LA\)](https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Famous \(Lost to LA\)](https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA) | 2:34 |
 | 13 | [Brand New Blues](https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Brand New Blues](https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9) | 1:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Big Motion Ft Money Man](https://open.spotify.com/track/0m6KwKbig8S2kE7pYLSqXc) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Snake Me](https://open.spotify.com/album/2311S2LhvI7TfK6SqdvkWf) | 2:50 |
 | 100 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 |
 
-Snapshot ID: `MCw0N2Y5MDZhY2ExZGJiNzNhMTlmNTNjMzVmYmQwZjNhMWFiM2I3ZWRl`
+Snapshot ID: `MCxiYzg3ZjE2MzgxZGY1OGY2MzA4ZjkyZDdkMTgwZGJjYmYwYjk1MDg4`

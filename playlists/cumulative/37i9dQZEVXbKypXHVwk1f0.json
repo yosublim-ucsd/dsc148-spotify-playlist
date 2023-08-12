@@ -3525,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "M\u00daSICA NUEVA",
+        "url": "https://open.spotify.com/album/3ZADO5UBiDyavTJU3LP9XH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "DARTE OTRA VEZ",
+      "url": "https://open.spotify.com/track/6NcSACpZFPvhKfAQEpGNez"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -11530,7 +11548,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 242796,
       "name": "Paleta Pa To El Mundo",
       "url": "https://open.spotify.com/track/00WeA6cTYkmAbBuTmhCHYq"
@@ -15046,7 +15064,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 185968,
       "name": "Sin Waze",
       "url": "https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR"
@@ -17366,7 +17384,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

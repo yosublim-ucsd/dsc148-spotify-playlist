@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Emotional Oranges
 
-488 songs - 1 day 2 hr 23 min
+489 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [NO THANKS](https://open.spotify.com/track/1v50Kck2hGkYz3kqCGtFMa) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [NO THANKS](https://open.spotify.com/album/4rMXwc0N1L7WbLfCTem6Ds) | 3:02 | 2023-04-06 | 2023-04-28 |
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-04 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2022-12-17 |
+| [Nobody Like Us](https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Nobody Like Us](https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5) | 3:00 | 2023-08-10 |  |
 | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/track/3h9NRcDVEGLk8EUk2MLh7p) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV), [MUREI](https://open.spotify.com/artist/2FfWFPeKRozWLFsJzR9CDf) | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/album/4KzdsnXW3hIeOsLQypcd1o) | 3:35 | 2022-09-22 | 2022-12-09 |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2022-06-08 | 2022-09-23 |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-22 | 2023-03-18 |

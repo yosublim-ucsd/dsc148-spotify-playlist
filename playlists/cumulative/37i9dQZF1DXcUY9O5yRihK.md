@@ -4,7 +4,7 @@
 
 > For the hopeless romantic daydreamers\. Cover: Laufey
 
-86 songs - 4 hr 19 min
+88 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,9 @@
 | [Seaside Adventures](https://open.spotify.com/track/3W4aAUuDXMCS6QgZR7cTur) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/090krYhm5bNW0wlujblsjo) | 2:47 | 2023-01-06 |  |
 | [shy little frog](https://open.spotify.com/track/7tUeh2EZdMOwN6FBmopYqm) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd) | [shy little frog](https://open.spotify.com/album/5wFMeu1qrniNN2vi8oORE0) | 3:08 | 2023-08-04 |  |
 | [Silly Love Songs](https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ) | [Jack Kwon](https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld) | [Silly Love Songs](https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx) | 1:58 | 2023-08-04 |  |
+| [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 | 2023-08-11 |  |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 |  |
+| [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 | 2023-08-11 |  |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2023-01-06 |  |
 | [TE AMO \(em caixa alta\)](https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 2:32 | 2023-01-06 |  |
 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-08-05 |  |

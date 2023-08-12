@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1061191,
+  "num_followers": 1061355,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTcxYTMyNDY1ODVkMzFhMzg4ZDlmZjIzYjBhNTVkZjExYjQyMDk2",
+  "snapshot_id": "MCwzOTFlYjYzOGMxMTdkMDYyZTg2Y2JlY2MwZTE1OTM5MGZhODlkNDI1",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
+      "added_at": "2023-08-11 15:31:26",
+      "album": {
+        "name": "Daytrippin",
+        "url": "https://open.spotify.com/album/7Gg6gwmX9EA9b4S4EPUxws"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Daytrippin",
+      "url": "https://open.spotify.com/track/5sm6mDPCzeakdJFdQM8zeK"
+    },
+    {
       "added_at": "2023-07-28 15:11:46",
       "album": {
         "name": "Closer to the Sun",
@@ -55,22 +71,6 @@
       "duration_ms": 145560,
       "name": "Closer to the Sun",
       "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Honey Bones",
-        "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 237961,
-      "name": "Marinade",
-      "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -107,22 +107,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
         }
       ],
-      "duration_ms": 151560,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+      "duration_ms": 237961,
+      "name": "Marinade",
+      "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -783,6 +779,26 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 131855,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -971,26 +987,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Trevor Young",
-          "url": "https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ"
-        }
-      ],
-      "duration_ms": 244184,
-      "name": "Things You Can't Control",
-      "url": "https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -1011,6 +1007,26 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Trevor Young",
+          "url": "https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ"
+        }
+      ],
+      "duration_ms": 244184,
+      "name": "Things You Can't Control",
+      "url": "https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Us Against The Crown (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou"
       },
@@ -1027,26 +1043,6 @@
       "duration_ms": 253040,
       "name": "Right Me Up",
       "url": "https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "All Her Favorite Songs (with Little Stranger)",
-        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 214753,
-      "name": "All Her Favorite Songs (with Little Stranger)",
-      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1087,42 +1083,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Press Remix",
-        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 220841,
-      "name": "Press Remix",
-      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 270314,
-      "name": "Take Me To The Ocean",
-      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
         "url": "https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ"
       },
@@ -1147,6 +1107,42 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "All Her Favorite Songs (with Little Stranger)",
+        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 214753,
+      "name": "All Her Favorite Songs (with Little Stranger)",
+      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Take Me To The Ocean",
+      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
       },
@@ -1159,6 +1155,26 @@
       "duration_ms": 210573,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Press Remix",
+        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 220841,
+      "name": "Press Remix",
+      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1215,18 +1231,34 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+        "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
+        "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
       },
       "artists": [
         {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "Noah Cronin",
+          "url": "https://open.spotify.com/artist/2yqSHKgMDbDW3Mzrk2M5df"
         }
       ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
+      "duration_ms": 254906,
+      "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
+      "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1243,6 +1275,22 @@
       "duration_ms": 267746,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+      },
+      "artists": [
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+        }
+      ],
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1275,38 +1323,6 @@
       "duration_ms": 213733,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
-        "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "Noah Cronin",
-          "url": "https://open.spotify.com/artist/2yqSHKgMDbDW3Mzrk2M5df"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Sounds of Summer (with Slightly Stoopid & J Boog) - Remix",
-      "url": "https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1379,30 +1395,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Summer Mixtape",
-        "url": "https://open.spotify.com/album/6O4uH6QxqSUfIgYsXB4cMa"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
-        }
-      ],
-      "duration_ms": 199550,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6SuGGyzKWlmyLwXIYZA6ov"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Dance My Stress Away (with Stephen Marley)",
         "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
       },
@@ -1439,22 +1431,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Down With You - Single",
-        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "Down With You",
-      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT"
       },
@@ -1467,6 +1443,22 @@
       "duration_ms": 191832,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/53Jobh2cnmyBSTt70CeHJE"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Down With You - Single",
+        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1511,22 +1503,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
       },
       "artists": [
         {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
-        },
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1551,18 +1539,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         }
       ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1659,6 +1651,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Everyday People (Remix with B-Real & G. Love)",
         "url": "https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz"
       },
@@ -1679,22 +1687,6 @@
       "duration_ms": 225080,
       "name": "Everyday People (Remix with B-Real & G.Love)",
       "url": "https://open.spotify.com/track/6pReUhCfnH5qxdjsG6vlig"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1955,22 +1947,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Everyone Need Love (with Surfer Girl)",
-        "url": "https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew"
+        "name": "The Mighty",
+        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
       },
       "artists": [
         {
-          "name": "Coyote Island",
-          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
         }
       ],
-      "duration_ms": 203378,
-      "name": "Everyone Need Love (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q"
+      "duration_ms": 216200,
+      "name": "Knocking at Your Door",
+      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1991,18 +1979,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "The Mighty",
-        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+        "name": "Everyone Need Love (with Surfer Girl)",
+        "url": "https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew"
       },
       "artists": [
         {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+          "name": "Coyote Island",
+          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Knocking at Your Door",
-      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
+      "duration_ms": 203378,
+      "name": "Everyone Need Love (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2083,22 +2075,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -2111,6 +2087,22 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+      },
+      "artists": [
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2023-07-28 15:11:46",

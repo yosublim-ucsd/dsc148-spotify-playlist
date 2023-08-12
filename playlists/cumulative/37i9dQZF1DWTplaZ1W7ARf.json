@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Alright, Not Okay",
+        "url": "https://open.spotify.com/album/5EHTlMp1OfFZiNILRYFDfW"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "I'm Not Alright, Not Okay",
+      "url": "https://open.spotify.com/track/0dXzE7cxTv4EkL6MD8r9MD"
+    },
+    {
+      "album": {
         "name": "IF I STOP NOW",
         "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 153743,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 176926,
       "name": "Neighborhood Hero (feat. No Cap)",
       "url": "https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU"
@@ -3626,6 +3644,28 @@
       "duration_ms": 234871,
       "name": "Suit Me Up",
       "url": "https://open.spotify.com/track/5pyve48qwbI8CTWDnW9eiQ"
+    },
+    {
+      "album": {
+        "name": "Sun Up / Sun Down",
+        "url": "https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "Radistarz",
+          "url": "https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "Sun Up / Sun Down",
+      "url": "https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. Foto: Abril Olivera.
 
-154 songs - 8 hr 4 min
+155 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-06-01 |  |
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2021-11-11 | 2023-06-02 |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2021-11-11 | 2023-06-02 |
-| [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-06-01 |  |
+| [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-06-01 | 2023-08-12 |
+| [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 | 2023-06-01 |  |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2021-11-11 | 2023-03-25 |
 | [SAMURAI](https://open.spotify.com/track/2isPgaZRGBRCeOor7zrAzg) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SAMURAI](https://open.spotify.com/album/7jsidCZ1BLRHJbsuN0TTkO) | 3:20 | 2022-12-22 | 2023-03-27 |
 | [SAMURAI](https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SUSHI VENUS](https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu) | 3:20 | 2022-12-22 | 2023-06-02 |

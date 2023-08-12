@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-243 songs - 10 hr 38 min
+244 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [I Can't Stop \(Big Boss Vette & Omah Lay\)](https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:13 | 2023-06-09 |  |
 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 | 2022-02-25 | 2022-08-27 |
 | [I Look Good](https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [I Look Good](https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab) | 1:53 | 2022-05-06 | 2022-06-18 |
-| [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 | 2023-07-14 |  |
+| [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 | 2023-07-14 | 2023-08-12 |
 | [I'm Perfect](https://open.spotify.com/track/2NFruMeEETdS4t6hM73Vip) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I'm Perfect](https://open.spotify.com/album/1sX0Z1gnMyIYSseLCV4xQX) | 2:40 | 2021-09-03 | 2022-05-14 |
 | [Icy Chain](https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Icy Chain](https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5) | 1:50 | 2021-11-19 | 2022-02-05 |
 | [In Person \(With OG Parker feat\. Tyga\)](https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:10 | 2021-09-24 | 2022-06-04 |
@@ -155,6 +155,7 @@
 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 | 2023-07-07 | 2023-07-15 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-16 |  |
 | [Pop Dat](https://open.spotify.com/track/69IaTU22g3APresMDbF4g9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 2:06 | 2022-06-17 | 2022-12-03 |
+| [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/1uDaVFW3HTV4jMaGrZfJEd) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 3:09 | 2023-08-11 |  |
 | [Pop It \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6LcnvbHMT0qZDKZuUZaqt2) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 2:28 | 2022-12-02 | 2023-05-27 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-02-04 | 2022-06-18 |
 | [Pop Out](https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pop Out](https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs) | 2:19 | 2022-04-22 | 2022-06-11 |

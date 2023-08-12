@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 55987,
+  "num_followers": 56155,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzEyNWViMTkyNDlkN2RjNThjNWY1NGEyNzg3NTEzMGVjMDI2Njhm",
+  "snapshot_id": "MCw0MmNjOTA0MDE0MWZhZjQwOGNlYzQwNjc3YWM5ZDM4MDkyNGIzN2Yy",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -700,22 +700,6 @@
       "added_at": "2023-05-03 18:57:46",
       "album": {
         "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 205165,
-      "name": "El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
       "artists": [
@@ -727,6 +711,22 @@
       "duration_ms": 274000,
       "name": "Oak Tree Special",
       "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 205165,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Agarr\u00f3 Camino",
-        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "La Huesos",
-      "url": "https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Los Viejitos",
         "url": "https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 200281,
       "name": "Yegua Sebruna",
       "url": "https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Agarr\u00f3 Camino",
+        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "La Huesos",
+      "url": "https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol"
     },
     {
       "added_at": "2023-05-03 18:57:46",

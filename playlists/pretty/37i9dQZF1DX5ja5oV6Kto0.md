@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe\-2NnN2LjyV6g"> Odeal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,746 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,763 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 60 | [NEW ID](https://open.spotify.com/track/7zabZXdxVjHycqcHEemmn4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [NEW ID](https://open.spotify.com/album/1hzM6lVI0sWXyYeGKZJAN3) | 2:30 |
 | 61 | [New Emotions](https://open.spotify.com/track/092Owc3EItJ95apRAI8Jyr) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [New Emotions](https://open.spotify.com/album/2dJojtafQIHqOt11o0r6zY) | 2:10 |
 | 62 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
-| 63 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
+| 63 | [Grown Ass Girl.](https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g) | 2:59 |
 | 64 | [I DONT KNOW!!](https://open.spotify.com/track/1c5nUlgM66xXNGL0Y72ymn) | [Maryyx2](https://open.spotify.com/artist/3uNBtum6QfAxeO3ThnBUIn) | [I DONT KNOW!!](https://open.spotify.com/album/1BvABfc8UiTTlKd9zRE1hJ) | 1:33 |
 | 65 | [BEBE](https://open.spotify.com/track/32IyzBKQ5GZbPO3Md2cvGP) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE](https://open.spotify.com/album/6aO0rsFggEt7njGE8LEI5I) | 2:34 |
 | 66 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 |
 | 80 | [Reservoir](https://open.spotify.com/track/4ZR1Jc5RIBWdNsc8VhzLL4) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Wasalu](https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7) | [Reservoir](https://open.spotify.com/album/1I4GmNevhxMsGzYwtfk5vF) | 2:54 |
 
-Snapshot ID: `MCxjM2JkZWExZGVkNTY0NTAyY2E0ZGJkN2RkMzY0OGE4ZDFkM2RmODFl`
+Snapshot ID: `MCxlMDA3NDk2ZTJjMTdkOTVhYjBmZjA4ZmJlY2ZiMmI1NmQzMWZhOWVh`

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans.",
-  "num_followers": 3296,
+  "num_followers": 3394,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWI4YjMzYTEzOTBiNzA4YTM4ZTIyYTM3NWE1MGQ0ODY3ZTEyODli",
+  "snapshot_id": "MCwxYTFkN2MyNjg0ZTA3NDMxMWJmNzFkZDBhNWM2MDc4OTJiYjA2YTVi",
   "tracks": [
     {
       "added_at": "2023-08-03 15:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-08-03 15:00:00",
       "album": {
+        "name": "\u6ab8\u6aac",
+        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "FLY HIGH!!",
+      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+    },
+    {
+      "added_at": "2023-08-03 15:00:00",
+      "album": {
         "name": "Iroirotoiro",
         "url": "https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 185752,
       "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
       "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
-    },
-    {
-      "added_at": "2023-08-03 15:00:00",
-      "album": {
-        "name": "\u6ab8\u6aac",
-        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
-      },
-      "artists": [
-        {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "FLY HIGH!!",
-      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
     },
     {
       "added_at": "2023-08-03 15:00:00",

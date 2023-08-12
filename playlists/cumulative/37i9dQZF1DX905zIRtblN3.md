@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Grupo Frontera & Grupo Firme.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Carin León.
 
 342 songs - 18 hr 0 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Eli",
+  "description": "Todo el sonido indie de Chile. Foto: Charly Benavente",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 236655,
       "name": "Me Siento Que No",
       "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
@@ -4351,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/6oxH1qmCv2rBjRvmG5SlhP"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184124,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/41ISYYrvwGoG5i261zTOTJ"
+    },
+    {
+      "album": {
         "name": "No Es Tarde",
         "url": "https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB"
       },
@@ -4530,7 +4552,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193689,
       "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
       "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
@@ -4870,6 +4892,24 @@
       "duration_ms": 282490,
       "name": "paterson",
       "url": "https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR"
+    },
+    {
+      "album": {
+        "name": "Patio de Adelante",
+        "url": "https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj"
+      },
+      "artists": [
+        {
+          "name": "Playa G\u00f3tica",
+          "url": "https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236004,
+      "name": "Patio de Adelante",
+      "url": "https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa"
     },
     {
       "album": {
@@ -6520,7 +6560,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 209361,
       "name": "Tercero",
       "url": "https://open.spotify.com/track/1qhyXY725dxXb18j43G9fm"
@@ -6971,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Un X100To",
+        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167673,
+      "name": "Un X100To",
+      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "album": {
         "name": "Un \u00daltimo Encuentro",
         "url": "https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76"
       },
@@ -7116,6 +7174,28 @@
       "duration_ms": 240531,
       "name": "Venus",
       "url": "https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x"
+    },
+    {
+      "album": {
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/0nc4VKUR3tWPFt1K7WJwIm"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        },
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225641,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2aQCNOBuD81IsgT3goC56A"
     },
     {
       "album": {
@@ -7436,7 +7516,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 204974,
       "name": "yo creo que nos podr\u00edamos hacer bien",
       "url": "https://open.spotify.com/track/2KA4JH7Gsaov1zi3CIKu2U"

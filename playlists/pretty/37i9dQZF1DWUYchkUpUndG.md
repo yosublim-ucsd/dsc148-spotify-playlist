@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3Ygd1SrMkrt7MXfQekhArV?si=rKTLAa\-tSYugGGIFE2OYAw">Legend'son </a> ,<a href="https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW?si=99Lz2Nq9TOeUFehQ3EFXdg">Geo Musiwa, </a> and <a href="https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt?si=BfhlBtDuS\-WBcWKVmsyBqQ">Abel Chungu Musuka, </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,945 likes - 89 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,025 likes - 89 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 20 | [Lord Arise \- Let The Enemy Be Scattered](https://open.spotify.com/track/2MmZGEYWcwNNcmHzAaXnuq) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lord Arise \(Let The Enemy Be Scattered\)](https://open.spotify.com/album/2zN6oelCzl8mNjZ4cBM7DT) | 2:12 |
 | 21 | [Glory Anthem](https://open.spotify.com/track/019YnMaqLlACorgym3DK8N) | [Divinity Hs](https://open.spotify.com/artist/5XihnrBZxyQnirwZRE4iS3) | [Glory Anthem](https://open.spotify.com/album/2AgArELljLeE5oVCSPNpQ1) | 2:38 |
 | 22 | [Not Afraid](https://open.spotify.com/track/51pxV69UzKS3P4DwZBg9ab) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt), [Native Tribe](https://open.spotify.com/artist/688LcLc5je2qcDEOfMcmhh), [Legend'Son](https://open.spotify.com/artist/3Ygd1SrMkrt7MXfQekhArV) | [Not Afraid](https://open.spotify.com/album/48WpEGFSh4FomU28kQzpZr) | 3:29 |
-| 23 | [Give Me Jesus \- Studio Version](https://open.spotify.com/track/3KRn4e2y0p1GyoKqWaAhA2) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Give Me Jesus \(Radio Version\)](https://open.spotify.com/album/4J7KZmf2ym2MU2pNyBJQqs) | 3:52 |
+| 23 | [Give Me Jesus \- Studio Version](https://open.spotify.com/track/3KRn4e2y0p1GyoKqWaAhA2) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Give Me Jesus \(Studio Version\)](https://open.spotify.com/album/4J7KZmf2ym2MU2pNyBJQqs) | 3:52 |
 | 24 | [Wonder](https://open.spotify.com/track/1048kSNuAo2cF3LCtckddN) | [Min\. Helen Kuku Williams](https://open.spotify.com/artist/50E89s2QwGLToSp4VwpsrK) | [Wonder](https://open.spotify.com/album/1phSqtsgN60gs8ULFFvDM8) | 3:47 |
 | 25 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 |
 | 26 | [God Abeg \(Run Ham For Me\)](https://open.spotify.com/track/6EThrcbVXxmdIoLoaXl33T) | [CKI](https://open.spotify.com/artist/4xkSnHNsTTnP373kjaBDe5) | [God Abeg \(Run Ham For Me\)](https://open.spotify.com/album/0eSiDzeHvV6Q9Ujtr3UYea) | 2:23 |
 | 27 | [Got What I Need](https://open.spotify.com/track/1abrJnWbUK8jWxxhT11lS3) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Got What I Need](https://open.spotify.com/album/1xORnX8azu9ghkcAI8REGd) | 2:46 |
-| 28 | [God Is With Us](https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w) | 3:46 |
+| 28 | [God Is With Us](https://open.spotify.com/track/6VYvZGqByeWdv7HgMsculz) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [God Is With Us](https://open.spotify.com/album/08r4XlqVXIG7JL9tNpk7VL) | 3:46 |
 | 29 | [Eyin nikan \- Live](https://open.spotify.com/track/55Yg5k8ajmpC3ES9bybglN) | [Lily Perez](https://open.spotify.com/artist/4q1WSwssICii8AJOeFd5KD) | [Eyin nikan \(Live\)](https://open.spotify.com/album/6pd93FHDakQovCGrDSCGAb) | 8:03 |
 | 30 | [Jesus \(Aje\)](https://open.spotify.com/track/4NVJqjni13wYsc5O160xMe) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [Jesus \(Aje\)](https://open.spotify.com/album/0TyNNXGdLIGPdiOBPrtj8J) | 3:07 |
 | 31 | [I Recover](https://open.spotify.com/track/3veYkcA8mrj5G3OsoV4yUZ) | [Chidex Obani](https://open.spotify.com/artist/7rZz3fF3EonzYf4j2qmcoX) | [I Recover](https://open.spotify.com/album/4Lpo7F1UcssYrPilO4eYnB) | 7:37 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 88 | [The Basement](https://open.spotify.com/track/2Qtf80iiLampYDBMwSyEFR) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Basement](https://open.spotify.com/album/3EqEbjHk4x3d4KFjL5IYbQ) | 1:47 |
 | 89 | [Mungu Ni Baba.](https://open.spotify.com/track/4JMNknRP8DLfN2nRbFWGMW) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3), [Emmanuel Mgogo](https://open.spotify.com/artist/06esCeDGQbjAxQf9NiAEl5) | [Mungu Ni Baba](https://open.spotify.com/album/0WwE3aCtokCa9mWTqnn5Rp) | 8:21 |
 
-Snapshot ID: `MCw0Nzc2NDlkNTAzMWJjZDM5MTVmMWM1NmIwZTc4ZmZhMWFkNzAwNzIw`
+Snapshot ID: `MCw1ODExYzBmNzAyMjk5ZGE2NGQxNDI2MTY5NzNiMzU1ZmIzNmUxMWUw`

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-1,189 songs - 2 day 21 hr 50 min
+1,192 songs - 2 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Gọi Cho Anh](https://open.spotify.com/track/0xJGa0K3KvrlpMZsdzeayG) | [Thai Son](https://open.spotify.com/artist/1JEYPHTPWUuKR38zPFW7IW) | [HOTPOT](https://open.spotify.com/album/2TVD6DSUbNed2M7Ebb0pkl) | 3:29 | 2022-01-26 | 2022-02-09 |
 | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/track/4zBwI3oID39SfX1Lf1bSO4) | [Nhâm Nhựt Vân](https://open.spotify.com/artist/4srmDZhTFeLBiyE4coHJRi) | [Gửi Chúng Ta Của Thời Gian Ấy](https://open.spotify.com/album/77fWGqh3T6nci4j3zcnZL6) | 4:23 | 2022-05-24 | 2022-06-17 |
 | [Gửi Ngàn Lời Yêu](https://open.spotify.com/track/64iWUlgGOEmsKUZSCXHfl4) | [Hồng Dương](https://open.spotify.com/artist/6xDaSKkOUfOxR5HCf6Gmq7) | [Gửi Ngàn Lời Yêu](https://open.spotify.com/album/63z0Dd3bhfhNkBF788J5GV) | 4:19 | 2022-07-09 | 2022-10-03 |
+| [hai chiều](https://open.spotify.com/track/4g0eKK6YNDh9XKgDKwSIau) | [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm) | [hai chiều](https://open.spotify.com/album/2gNbqIGZFxrjj7jTdBhaA6) | 3:18 | 2023-08-10 |  |
 | [Hai Người Chưa Từng Quen](https://open.spotify.com/track/24jfrzlThH7nvfC1JvH2I0) | [Tuấn Hii](https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC) | [Hai Người Chưa Từng Quen](https://open.spotify.com/album/1MiSGq36LSq5AVntdr9HcT) | 2:29 | 2022-09-17 | 2023-01-06 |
 | [Hai Người Chưa Từng Quen](https://open.spotify.com/track/5uLITd8MGIMJRFR6fyaDVI) | [Tuấn Hii](https://open.spotify.com/artist/01sQMaNacwDYUqE7rAHDhE), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC) | [Hai Người Chưa Từng Quen](https://open.spotify.com/album/6v3HDBqZyoRB0s1q36gwrn) | 2:29 | 2022-05-27 | 2022-09-18 |
 | [Han Dan Ong](https://open.spotify.com/track/5kZP3f06OujTy7E8yvKdqo) | [Dưa Hấu](https://open.spotify.com/artist/0qC7JEr3nCeTF2SqXE0lEl), [Yun](https://open.spotify.com/artist/3eQicoCKELwjagwCHte2Is) | [Han Dan Ong](https://open.spotify.com/album/7GclDrTHnHvTCvX4zs9dyg) | 2:55 | 2023-07-13 | 2023-08-01 |
@@ -468,6 +469,7 @@
 | [Hẹn Em Kiếp Sau](https://open.spotify.com/track/4tLlCe4nJVY5ABsBOWV2mF) | [Duy Phúc](https://open.spotify.com/artist/5Pr8iHV1XeQXqFH0Ereo2e), [Lã.](https://open.spotify.com/artist/3Rzk8SHIIq6aAdfosxPgMe), [TiB](https://open.spotify.com/artist/12oQKizOm2rS2LjvWjfUXY) | [Hẹn Em Kiếp Sau](https://open.spotify.com/album/2qjGggrWQi8PZ9WLUguZMs) | 3:28 | 2022-01-06 | 2022-02-24 |
 | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/track/2iqjXz4lV60gf3tvI4JJzU) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/album/1Zv1TwIvTb1aMtiNMxcB6W) | 6:06 | 2023-03-20 |  |
 | [Hẹn Gặp Em Ở Cuộc Đời Khác](https://open.spotify.com/track/5CKYfZD6pDFObBnxtjw1as) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw) | [Hẹn Gặp Em Ở Cuộc Đời Khác](https://open.spotify.com/album/5miBQ7gAXqJMpeqJCyg2V4) | 4:49 | 2023-07-18 |  |
+| [Hết Rồi](https://open.spotify.com/track/0N0HqGZFzGyrndDLTJoVUm) | [tskhooi](https://open.spotify.com/artist/6gu9ZdrvtVL0Oscjf11vqp) | [Hết Rồi](https://open.spotify.com/album/63ACbmQZUv1Mebyz4mBGlt) | 5:25 | 2023-08-10 |  |
 | [Hết Yêu](https://open.spotify.com/track/0YYN8Y6qq2RcgfXbjp7Nvd) | [Phan Yến Nhi](https://open.spotify.com/artist/4GFQ39C6ZEaqEsyGJggcVW) | [Hết Yêu](https://open.spotify.com/album/4qpBodctCnjYaB6bN5kGZr) | 5:55 | 2022-02-18 | 2022-03-01 |
 | [Họ Đâu Biết](https://open.spotify.com/track/1ipeO6Cqe8N2wKeEXPITFQ) | [Linh Sung](https://open.spotify.com/artist/0NisVmbblZYFHjuV3xu0oj) | [Họ Đâu Biết](https://open.spotify.com/album/60q7uPOE7JvovLLXQM6g3o) | 4:00 | 2022-06-07 | 2022-07-01 |
 | [Hồi Ức Ta Đã Yêu](https://open.spotify.com/track/3oG2pS2BGxdkTAaIzwIFtR) | [Linh Hương Luz](https://open.spotify.com/artist/2FCxeoDrmuTZmyn8iXlQVB) | [Hồi Ức Ta Đã Yêu](https://open.spotify.com/album/3fTELP4UNHO3tDWfoj42aE) | 3:54 | 2023-03-21 | 2023-04-03 |
@@ -899,6 +901,7 @@
 | [Tam giác là tác giam](https://open.spotify.com/track/4vTwUqSA3X72adoQxzbw9J) | [Ctrl Z](https://open.spotify.com/artist/42ohb3kniufWdJ7r0DM52v), [Ma gaming](https://open.spotify.com/artist/0SzTEIIqipIo6o6RJcKWVj), [Thông soái ca](https://open.spotify.com/artist/38IEw2ew2K3oIkMFlyqkZC) | [Tam giác là tác giam](https://open.spotify.com/album/2feSjlwnrYsIVICvR6SRdn) | 1:05 | 2022-05-21 | 2022-05-30 |
 | [Tan \(feat\. RIO\)](https://open.spotify.com/track/2Cp6lhkhK09zmpKcLUOC6c) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh), [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [Tan](https://open.spotify.com/album/2gIjrE7r8i7Tagj5GdyAuR) | 2:36 | 2023-01-30 | 2023-04-27 |
 | [Tan Biến Trong Em \(feat\. JayM\)](https://open.spotify.com/track/31k7JvpDlqJ1EwzCBqqAHL) | [1DEE](https://open.spotify.com/artist/1b9USL8WQoqdSDSrdMNk8g), [JayM](https://open.spotify.com/artist/4RcjfOt52k0QL8PgMAe7sr) | [TRY](https://open.spotify.com/album/0PqSdEkVIxSNz2WgS0T7KH) | 4:02 | 2022-01-06 | 2022-04-23 |
+| [Tan Đi](https://open.spotify.com/track/3OYFXLn59UGCxo2zaRce2i) | [Cú](https://open.spotify.com/artist/3YhJ6WiVNrXWWH1TQhVt60) | [Tan Đi](https://open.spotify.com/album/2d9Bt3KH7bCLuCOXsMkjST) | 3:52 | 2023-08-10 |  |
 | [Tao Làm Nó Vì?](https://open.spotify.com/track/3wx7jProeEiYJlAAAIHDnD) | [DucMinh](https://open.spotify.com/artist/6uT7bp7jeZwhkYkRVWfL8H) | [Tao Làm Nó Vì?](https://open.spotify.com/album/29eJ53QMowXrMzjh61kVUG) | 3:10 | 2023-07-18 | 2023-08-11 |
 | [Tell Ur Mom II](https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II \(Clean\)](https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6) | 3:39 | 2022-01-06 | 2022-06-28 |
 | [Tell Ur Mom II](https://open.spotify.com/track/3BdWKCax105ZXBIyFMOghF) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II](https://open.spotify.com/album/3Ag88b5IoMaDr2sMCjp1M9) | 3:39 | 2022-11-30 | 2023-01-06 |

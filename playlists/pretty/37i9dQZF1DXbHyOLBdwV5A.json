@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 109810,
+  "num_followers": 109919,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTMyZWEyNDE0OWNlYzNkYWVmOTQ4ZDJmODFlMmM4MzU2N2FiNmVl",
+  "snapshot_id": "MCw1YjhjOWVmMGQ5Mzk5NTI4ZWM1NjI3OWViN2Q0NmMzODU0OWI1YTc5",
   "tracks": [
     {
       "added_at": "2023-08-04 17:54:32",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
         "name": "Controle (Remix)",
         "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 159640,
       "name": "Controle (Remix)",
       "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -715,26 +715,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Vamo Com Tudo",
-        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
       },
       "artists": [
         {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
         },
         {
-          "name": "YoungJhow",
-          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Fabio Martin",
+          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Vamo Com Tudo",
-      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+      "duration_ms": 266797,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -763,22 +759,26 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
+        "name": "Vamo Com Tudo",
+        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
       "artists": [
         {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
         },
         {
-          "name": "Fabio Martin",
-          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
+          "name": "YoungJhow",
+          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 266797,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
+      "duration_ms": 179527,
+      "name": "Vamo Com Tudo",
+      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -879,22 +879,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
       "artists": [
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         },
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
         }
       ],
-      "duration_ms": 133548,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -927,22 +927,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         }
       ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
+      "duration_ms": 133548,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "O Le\u00e3o (Dj Del Mag Remix)",
-        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Victor Rodrigues",
-          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "O Le\u00e3o - Dj Del Mag Remix",
-      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
         "name": "Alvo Mais Que a Neve",
         "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 217968,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
+        "name": "O Le\u00e3o (Dj Del Mag Remix)",
+        "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Victor Rodrigues",
+          "url": "https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "O Le\u00e3o - Dj Del Mag Remix",
+      "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
+        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
       },
@@ -1151,26 +1175,6 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
@@ -1215,26 +1219,22 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
       "artists": [
         {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
         }
       ],
-      "duration_ms": 158789,
-      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -1263,26 +1263,30 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
       "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
         {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Kayo Santos",
-          "url": "https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+          "name": "Jeovana Menezes",
+          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
         }
       ],
-      "duration_ms": 174375,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9"
+      "duration_ms": 156093,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2023-08-04 17:54:32",
@@ -1311,6 +1315,30 @@
     {
       "added_at": "2023-08-04 17:54:32",
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Kayo Santos",
+          "url": "https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9"
+    },
+    {
+      "added_at": "2023-08-04 17:54:32",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1323,34 +1351,6 @@
       "duration_ms": 164750,
       "name": "Encontrar",
       "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2023-08-04 17:54:32",
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Jeovana Menezes",
-          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2023-08-04 17:54:32",

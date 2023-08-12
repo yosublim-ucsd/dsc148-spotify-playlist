@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 11321,
+  "num_followers": 11416,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzMyMWQzNWQ5MzVjNGMyZDk0ZWRmOWE1ZjI4YTQzMjhkMDUxNmJi",
+  "snapshot_id": "MCw5ZTUxZWQ0MTg2MWI2YmM1ODc2Yjc4N2E3MGU5OTdkMWUxNDhmOTc0",
   "tracks": [
     {
       "added_at": "2023-08-10 12:48:43",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 323773,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
+      "duration_ms": 441386,
+      "name": "One Finger Snap - Remastered",
+      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 441386,
-      "name": "One Finger Snap - Remastered",
-      "url": "https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT"
+      "duration_ms": 323773,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -775,38 +775,34 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe"
+        "name": "Art Blakey & The Jazz Messengers",
+        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
       "artists": [
         {
           "name": "Art Blakey & The Jazz Messengers",
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        },
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Rhythm-A-Ning",
-      "url": "https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz"
+      "duration_ms": 410866,
+      "name": "Alamode",
+      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+        "name": "The Genius Of Charlie Parker",
+        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+      "duration_ms": 182160,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -827,6 +823,22 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-08-10 12:48:43",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -843,22 +855,6 @@
       "duration_ms": 377039,
       "name": "Donna Lee",
       "url": "https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg"
-    },
-    {
-      "added_at": "2023-08-10 12:48:43",
-      "album": {
-        "name": "The Genius Of Charlie Parker",
-        "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Art Blakey & The Jazz Messengers",
-        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
+        "name": "Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe"
       },
       "artists": [
         {
           "name": "Art Blakey & The Jazz Messengers",
           "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        },
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 410866,
-      "name": "Alamode",
-      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
+      "duration_ms": 437360,
+      "name": "Rhythm-A-Ning",
+      "url": "https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "Hora Decubitus",
-      "url": "https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH"
-    },
-    {
-      "added_at": "2023-08-10 12:48:43",
-      "album": {
         "name": "Afro-Cuban (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 267773,
       "name": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
       "url": "https://open.spotify.com/track/5qJqCjCm0ietTlLcEsoV2x"
+    },
+    {
+      "added_at": "2023-08-10 12:48:43",
+      "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "Hora Decubitus",
+      "url": "https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 439013,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
+    },
+    {
+      "added_at": "2023-08-10 12:48:43",
+      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 172906,
       "name": "Swingin'",
       "url": "https://open.spotify.com/track/4IwoMBu0REY5RSft2cEEeW"
-    },
-    {
-      "added_at": "2023-08-10 12:48:43",
-      "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 439013,
-      "name": "Freight Trane",
-      "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
     },
     {
       "added_at": "2023-08-10 12:48:43",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-08-10 12:48:43",
       "album": {
-        "name": "Coltrane Time",
-        "url": "https://open.spotify.com/album/1q3rQgShuowlnUcfKFxESq"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 377506,
-      "name": "Just Friends - 1991 Digital Remaster",
-      "url": "https://open.spotify.com/track/28DkOS1AxI9H9VT5YHRtyz"
-    },
-    {
-      "added_at": "2023-08-10 12:48:43",
-      "album": {
         "name": "Sorcerer",
         "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 392693,
       "name": "Prince of Darkness (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)",
       "url": "https://open.spotify.com/track/6NoKEoRNeiry3tHz830t46"
+    },
+    {
+      "added_at": "2023-08-10 12:48:43",
+      "album": {
+        "name": "Coltrane Time",
+        "url": "https://open.spotify.com/album/1q3rQgShuowlnUcfKFxESq"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 377506,
+      "name": "Just Friends - 1991 Digital Remaster",
+      "url": "https://open.spotify.com/track/28DkOS1AxI9H9VT5YHRtyz"
     },
     {
       "added_at": "2023-08-10 12:48:43",

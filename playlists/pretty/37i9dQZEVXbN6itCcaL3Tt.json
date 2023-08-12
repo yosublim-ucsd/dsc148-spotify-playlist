@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 259962,
+  "num_followers": 260016,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ1MDMxNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ1MTE3ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "???",
-        "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
-      },
-      "artists": [
-        {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "5 INFLUENCEREK",
-      "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4"
@@ -57,31 +41,43 @@
       "url": "https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
-        "name": "PRELUDIUM",
-        "url": "https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6"
+        "name": "???",
+        "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
       },
       "artists": [
         {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        },
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
         }
       ],
-      "duration_ms": 167386,
-      "name": "NIE MA CI\u0118",
-      "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
+      "duration_ms": 144335,
+      "name": "5 INFLUENCEREK",
+      "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Nim Zajdzie S\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Nim Zajdzie S\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
         "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
@@ -109,7 +105,31 @@
       "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "PRELUDIUM",
+        "url": "https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "NIE MA CI\u0118",
+      "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Pokolenie Ko\u0144ca \u015awiata",
         "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Kinderki",
         "url": "https://open.spotify.com/album/2yYXhhqYuhUcTuYhjFEs6j"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/1yZlFDQm7JGFxyZQjZpCyo"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -177,7 +197,23 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Prywatny bal",
         "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
@@ -193,23 +229,7 @@
       "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "DOBRZE WIEM",
-        "url": "https://open.spotify.com/album/1MduEXLA8g2NZE2kUL8aeo"
-      },
-      "artists": [
-        {
-          "name": "LEXY CHAPLIN",
-          "url": "https://open.spotify.com/artist/6YyBUm2QYlXkJD9Taa6gbk"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "DOBRZE WIEM",
-      "url": "https://open.spotify.com/track/52HsMzWYHviy60W5BKtQY7"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Stan",
         "url": "https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0"
@@ -233,23 +253,23 @@
       "url": "https://open.spotify.com/track/18bAMjHACL9Iphk0KB0z7o"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+        "name": "DOBRZE WIEM",
+        "url": "https://open.spotify.com/album/1MduEXLA8g2NZE2kUL8aeo"
       },
       "artists": [
         {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+          "name": "LEXY CHAPLIN",
+          "url": "https://open.spotify.com/artist/6YyBUm2QYlXkJD9Taa6gbk"
         }
       ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+      "duration_ms": 139842,
+      "name": "DOBRZE WIEM",
+      "url": "https://open.spotify.com/track/52HsMzWYHviy60W5BKtQY7"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Marcepan",
         "url": "https://open.spotify.com/album/2dyyUd1pNWRdBinUZqjQW5"
@@ -289,23 +309,23 @@
       "url": "https://open.spotify.com/track/7nWQQ9OhSt0w5umRS94PJV"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "TRZEBA MIE\u0106",
+        "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 151027,
+      "name": "TRZEBA MIE\u0106",
+      "url": "https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -325,7 +345,23 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Bungee",
         "url": "https://open.spotify.com/album/3AXeMiCKuYZYogMzmAAuRo"
@@ -373,7 +409,7 @@
       "url": "https://open.spotify.com/track/13KCTlVIkhYcNm54SnVAfI"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Poca\u0142unki (M. Pawlikowska- Jasnorzewska)",
         "url": "https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "N\u00d3\u017b",
         "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "3 w nocy w Mi\u0119dzyzdrojach",
         "url": "https://open.spotify.com/album/3Kb9Hu7HPcylofDU8ekkZy"
@@ -457,23 +493,7 @@
       "url": "https://open.spotify.com/track/5KcuT4Yau5Y6KiiB0NR7C7"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "FIFI HOLLYWOOD",
-        "url": "https://open.spotify.com/album/6WhoqWY5ivv11ihH43J9l6"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 183884,
-      "name": "FIFI HOLLYWOOD",
-      "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Krakowski Spleen",
         "url": "https://open.spotify.com/album/719yxC0LprzFMZo8YARL1W"
@@ -493,7 +513,83 @@
       "url": "https://open.spotify.com/track/63NqA1azM8ogGsJa7tFCRg"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Papito",
+        "url": "https://open.spotify.com/album/0ACKf50h5DdsDLu5ixfnvT"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "duration_ms": 123265,
+      "name": "Papito",
+      "url": "https://open.spotify.com/track/1MP4dcd801ywMNnwEPzOQo"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "FIFI HOLLYWOOD",
+        "url": "https://open.spotify.com/album/6WhoqWY5ivv11ihH43J9l6"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 183884,
+      "name": "FIFI HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Substitution (feat. Julian Perretta)",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 181477,
+      "name": "Substitution (feat. Julian Perretta)",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Czarna Per\u0142a",
         "url": "https://open.spotify.com/album/4yL9yrzZHVkIro6o4evAYs"
@@ -541,31 +637,7 @@
       "url": "https://open.spotify.com/track/2KEEXp9tP8rA5gcVJlbAtI"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Substitution (feat. Julian Perretta)",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 181477,
-      "name": "Substitution (feat. Julian Perretta)",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Afryka",
         "url": "https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz"
@@ -593,91 +665,7 @@
       "url": "https://open.spotify.com/track/62CjIeDBUEjvWp4PUuUCAR"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "O P\u00f3\u0142nocy",
-        "url": "https://open.spotify.com/album/6WYRPDgDiC6SeFtupW9VsD"
-      },
-      "artists": [
-        {
-          "name": "WERSOW",
-          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "O P\u00f3\u0142nocy",
-      "url": "https://open.spotify.com/track/6WeqeVkrHcAndiGxleq4Rc"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Papito",
-        "url": "https://open.spotify.com/album/0ACKf50h5DdsDLu5ixfnvT"
-      },
-      "artists": [
-        {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        }
-      ],
-      "duration_ms": 123265,
-      "name": "Papito",
-      "url": "https://open.spotify.com/track/1MP4dcd801ywMNnwEPzOQo"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Millie Walky",
-        "url": "https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Millie Walky",
-      "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Ona dzia\u0142a na mnie jak",
         "url": "https://open.spotify.com/album/4zEPz76qtZ2yckET0DvU6W"
@@ -697,27 +685,79 @@
       "url": "https://open.spotify.com/track/0WJhZGtWI4wuYVMufw0zeH"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
-        "name": "SHADOWBAN",
-        "url": "https://open.spotify.com/album/1jYvNSXDHiD5UIFCu9AFdT"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
       "artists": [
         {
-          "name": "GENZIE",
-          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
-        },
-        {
-          "name": "Hi Hania",
-          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 150000,
-      "name": "SHADOWBAN",
-      "url": "https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow"
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Herbata Z Imbirem",
+        "url": "https://open.spotify.com/album/0CzfjraDKlqESf0bIRtKj2"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Herbata Z Imbirem",
+      "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "O P\u00f3\u0142nocy",
+        "url": "https://open.spotify.com/album/6WYRPDgDiC6SeFtupW9VsD"
+      },
+      "artists": [
+        {
+          "name": "WERSOW",
+          "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "O P\u00f3\u0142nocy",
+      "url": "https://open.spotify.com/track/6WeqeVkrHcAndiGxleq4Rc"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Millie Walky",
+        "url": "https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Millie Walky",
+      "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "PLE\u015a\u0143",
         "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
@@ -737,7 +777,79 @@
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Ground Zero",
+        "url": "https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "duration_ms": 178004,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "PLE\u015a\u0143",
+        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "FALA",
+      "url": "https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "TAZOSy",
+      "url": "https://open.spotify.com/track/0oYqfYHqP2O9V3ISCQ8MMN"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "SHADOWBAN",
+        "url": "https://open.spotify.com/album/1jYvNSXDHiD5UIFCu9AFdT"
+      },
+      "artists": [
+        {
+          "name": "GENZIE",
+          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
+        },
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHADOWBAN",
+      "url": "https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Klasyczny trap",
         "url": "https://open.spotify.com/album/4DqJLIwl1tllfiku9b6AfI"
@@ -781,63 +893,7 @@
       "url": "https://open.spotify.com/track/6Xeq2GpNm9Go385J5lyv6I"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Ground Zero",
-        "url": "https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK"
-      },
-      "artists": [
-        {
-          "name": "PRO8L3M",
-          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
-        }
-      ],
-      "duration_ms": 178004,
-      "name": "Ground Zero",
-      "url": "https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "UZUMAKI FORMA OSTATECZNA",
-        "url": "https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79"
-      },
-      "artists": [
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "TOTORO",
-      "url": "https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "BLICKY",
-        "url": "https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL"
-      },
-      "artists": [
-        {
-          "name": "Beteo",
-          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 179638,
-      "name": "BLICKY",
-      "url": "https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Lata Dwudzieste",
         "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
@@ -853,63 +909,7 @@
       "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Herbata Z Imbirem",
-        "url": "https://open.spotify.com/album/0CzfjraDKlqESf0bIRtKj2"
-      },
-      "artists": [
-        {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
-        },
-        {
-          "name": "Jakub Laszuk",
-          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
-        }
-      ],
-      "duration_ms": 136618,
-      "name": "Herbata Z Imbirem",
-      "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "TAZOSy",
-      "url": "https://open.spotify.com/track/0oYqfYHqP2O9V3ISCQ8MMN"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
@@ -925,23 +925,7 @@
       "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
@@ -961,7 +945,79 @@
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "UZUMAKI FORMA OSTATECZNA",
+        "url": "https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "TOTORO",
+      "url": "https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "BLICKY",
+        "url": "https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 179638,
+      "name": "BLICKY",
+      "url": "https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -977,151 +1033,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "Hotel Maffija 3",
-        "url": "https://open.spotify.com/album/6R7fjHTZnokGgV7OPIUnU5"
-      },
-      "artists": [
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        },
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        },
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
-        },
-        {
-          "name": "TomB",
-          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
-        },
-        {
-          "name": "Janusz Walczuk",
-          "url": "https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3"
-        },
-        {
-          "name": "Lanek",
-          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
-        },
-        {
-          "name": "Jacu\u015b",
-          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
-        },
-        {
-          "name": "po prostu Kajtek",
-          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
-        },
-        {
-          "name": "Bryan",
-          "url": "https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp"
-        },
-        {
-          "name": "Nypel",
-          "url": "https://open.spotify.com/artist/4RkS90Z6Q6eZLmEIYbBtWX"
-        },
-        {
-          "name": "Fukaj",
-          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
-        },
-        {
-          "name": "Szaran",
-          "url": "https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG"
-        },
-        {
-          "name": "Beteo",
-          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
-        },
-        {
-          "name": "Micha\u0142 Anio\u0142",
-          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        },
-        {
-          "name": "TONY2000",
-          "url": "https://open.spotify.com/artist/50DZAA9breZ3OYHSgXd5Yp"
-        },
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        }
-      ],
-      "duration_ms": 296793,
-      "name": "Hotel Maffija 3",
-      "url": "https://open.spotify.com/track/4pjhE3Avv9UuZAfhF9JXgw"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
-      "album": {
-        "name": "PLE\u015a\u0143",
-        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        },
-        {
-          "name": "Oskar83",
-          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "FALA",
-      "url": "https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx"
-    },
-    {
-      "added_at": "2023-08-10 09:37:05",
+      "added_at": "2023-08-11 09:21:40",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -1135,6 +1047,22 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-08-11 09:21:40",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     }
   ],
   "unique_name": "Top 50 - Poland",

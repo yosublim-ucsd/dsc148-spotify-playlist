@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Acercate",
+        "url": "https://open.spotify.com/album/2vTbU9VIEeWQO5wjU5Ag9N"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Acercate",
+      "url": "https://open.spotify.com/track/22q19ysKvz6z6sOPm661BH"
+    },
+    {
+      "album": {
         "name": "NEW BLOOD",
         "url": "https://open.spotify.com/album/2stO0Eohf9vriqN0JAwmq4"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
@@ -1015,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/4WO3RYI14ha6ekwC44GasF"
+      },
+      "artists": [
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156794,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2gsBqAZ2RMeox4gzhZCFSI"
+    },
+    {
+      "album": {
         "name": "Blin Blin",
         "url": "https://open.spotify.com/album/5lohF4YnICasTqorEvlX2z"
       },
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 200816,
       "name": "BOCHE",
       "url": "https://open.spotify.com/track/3pGAnDf8BgWM7zNkt9IwV9"
@@ -1272,6 +1308,32 @@
       "duration_ms": 188571,
       "name": "Calle y Pistola",
       "url": "https://open.spotify.com/track/2RvUFk33p2hfPF7S3MTjsd"
+    },
+    {
+      "album": {
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/0TA82JiLsYomT4BXQi0U6a"
+      },
+      "artists": [
+        {
+          "name": "Germanini",
+          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183718,
+      "name": "Cambios",
+      "url": "https://open.spotify.com/track/1gEwXBOauFg5ie14b5GeE4"
     },
     {
       "album": {
@@ -1598,7 +1660,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 187822,
       "name": "Corte Europeo",
       "url": "https://open.spotify.com/track/16LsfNJwEykQ2DP5qPYOXD"
@@ -1652,6 +1714,32 @@
       "duration_ms": 380425,
       "name": "Cosas Chanchas (feat. Simon la Letra, Harry Nach, Salastkbron, El Barto, Kidd Samu & Lolo OG)",
       "url": "https://open.spotify.com/track/6WPG3NGaKhRSfYw612uvqA"
+    },
+    {
+      "album": {
+        "name": "CTM (Remix)",
+        "url": "https://open.spotify.com/album/43bBRvlGLHngMBkIgDvm3S"
+      },
+      "artists": [
+        {
+          "name": "Ilein",
+          "url": "https://open.spotify.com/artist/656QWJJrjEUEKXDLDUUaMz"
+        },
+        {
+          "name": "HAMLIT SHORTY",
+          "url": "https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "CTM - Remix",
+      "url": "https://open.spotify.com/track/7DcyefYFCVeDSWmoQtwjKV"
     },
     {
       "album": {
@@ -1744,6 +1832,28 @@
       "duration_ms": 156069,
       "name": "Cuentame",
       "url": "https://open.spotify.com/track/2bgVRuGe3elcUxs1stflQI"
+    },
+    {
+      "album": {
+        "name": "Cuerpo de Diabla",
+        "url": "https://open.spotify.com/album/7fC7apGdZVmCLsngsDwyD2"
+      },
+      "artists": [
+        {
+          "name": "Nico Mastre",
+          "url": "https://open.spotify.com/artist/5NescwT8CJqGf64LVVD6td"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220004,
+      "name": "Cuerpo de Diabla",
+      "url": "https://open.spotify.com/track/7jceCpnwt0NaX3djfmBN7k"
     },
     {
       "album": {
@@ -2850,7 +2960,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 191020,
       "name": "Fashion Girl - Remix",
       "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
@@ -4020,7 +4130,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172960,
       "name": "Kilo De Amigas",
       "url": "https://open.spotify.com/track/5p3zexHZc07e8ASsMI63Rz"
@@ -4841,6 +4951,28 @@
     },
     {
       "album": {
+        "name": "Maldades",
+        "url": "https://open.spotify.com/album/3JN4kOdxpA7UzS2O39PaP9"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/0P8zvojI7o0j1KqmAcrBtz"
+    },
+    {
+      "album": {
         "name": "Maldita HP",
         "url": "https://open.spotify.com/album/5P4f28lut01hKxTqWYVxeF"
       },
@@ -4904,7 +5036,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 173880,
       "name": "Mami Yo Soy de la Calle",
       "url": "https://open.spotify.com/track/3xRRLvwdWLg9fF52c4fA20"
@@ -6208,7 +6340,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 201724,
       "name": "Nena",
       "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
@@ -7726,7 +7858,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 180044,
       "name": "Prende El Blon",
       "url": "https://open.spotify.com/track/4ud0BYTYy1Ov72vyi4Mxuy"
@@ -7796,6 +7928,28 @@
       "duration_ms": 197015,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/3y8stkhKVX4cFf66yr9QCw"
+    },
+    {
+      "album": {
+        "name": "Que Nos Pas\u00f3",
+        "url": "https://open.spotify.com/album/4yTClpsdOPPLGo32nSmNp8"
+      },
+      "artists": [
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176303,
+      "name": "Que Nos Pas\u00f3",
+      "url": "https://open.spotify.com/track/76WAAT4ok84yt0f5PgxIvS"
     },
     {
       "album": {
@@ -8310,7 +8464,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 220631,
       "name": "Sali\u00f3 De Noche",
       "url": "https://open.spotify.com/track/15r68Um6LBYYBGUEEkqRkB"
@@ -8436,6 +8590,48 @@
       "duration_ms": 166739,
       "name": "Se Puso Mas Bella",
       "url": "https://open.spotify.com/track/3hQWrvY9DN3LTPy0VwCQBc"
+    },
+    {
+      "album": {
+        "name": "Se Solt\u00f3 (RMX)",
+        "url": "https://open.spotify.com/album/0pjPTOOtlqkqKMyHKSjEPG"
+      },
+      "artists": [
+        {
+          "name": "Dakos",
+          "url": "https://open.spotify.com/artist/1LTJ5JT28yu5NLoVm1Aupu"
+        },
+        {
+          "name": "El Takechi",
+          "url": "https://open.spotify.com/artist/0XStgM9weFoz2oiNuv6E2Z"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
+        },
+        {
+          "name": "Lil Fresh",
+          "url": "https://open.spotify.com/artist/4pTuAL8eEPOeFa7bHQI3NQ"
+        },
+        {
+          "name": "Chuky Indica",
+          "url": "https://open.spotify.com/artist/6iXXaJAOpQWeDVsIRMPSw9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322731,
+      "name": "Se Solt\u00f3 - RMX",
+      "url": "https://open.spotify.com/track/1lASGHGEp7UXgLV1Yi2ALl"
     },
     {
       "album": {
@@ -8593,6 +8789,36 @@
     },
     {
       "album": {
+        "name": "Si No Mama",
+        "url": "https://open.spotify.com/album/5s3441FXKzCYfjbTK1yHc8"
+      },
+      "artists": [
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Vivete La Music",
+          "url": "https://open.spotify.com/artist/5vMKVyztww8zTjXIJZhxl9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210610,
+      "name": "Si No Mama",
+      "url": "https://open.spotify.com/track/6ED7ll5XIVaYHn6YT9bg75"
+    },
+    {
+      "album": {
         "name": "SI SABEN",
         "url": "https://open.spotify.com/album/4r1BmdVKRzJV3x1L1EIijN"
       },
@@ -8652,7 +8878,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
@@ -10238,6 +10464,28 @@
       "duration_ms": 144004,
       "name": "WAXITA",
       "url": "https://open.spotify.com/track/5PLI8xCQguTvnMzY3k07eU"
+    },
+    {
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "album": {

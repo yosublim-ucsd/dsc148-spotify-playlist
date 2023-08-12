@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 167337,
       "name": "Carrossel",
       "url": "https://open.spotify.com/track/0UdNZYAdu4OhGBwF8xjAej"
@@ -9177,6 +9177,24 @@
     },
     {
       "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/7sac6tKZQBSIkOC9f0zVvA"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/0P3F6xMn3R1Ja8hjJ1HBTO"
+    },
+    {
+      "album": {
         "name": "ZIMA",
         "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
       },
@@ -10678,21 +10696,21 @@
           "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
         },
         {
-          "name": "Dj Jl Do Tp",
-          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
         },
         {
           "name": "Mc Pretchako",
           "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
         },
         {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+          "name": "Dj Jl Do Tp",
+          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
         }
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 125422,
       "name": "Eu Vou Cair na Noite",
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
@@ -16306,7 +16324,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 237818,
       "name": "MADRUGADA MALDITA",
       "url": "https://open.spotify.com/track/1MMnxMeoOQLN8HcQMxv2AD"
@@ -16678,8 +16696,8 @@
           "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
         },
         {
-          "name": "Vice Versa",
-          "url": "https://open.spotify.com/artist/2YeW4ntwPBlVoamx2azfbD"
+          "name": "Vice-Versa",
+          "url": "https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX"
         }
       ],
       "date_added": "2023-08-05",
@@ -21266,6 +21284,28 @@
       "duration_ms": 125126,
       "name": "O Papai Vai D\u00e1",
       "url": "https://open.spotify.com/track/41tG5Tj7tJCdz8feHkITTt"
+    },
+    {
+      "album": {
+        "name": "O Pipoqueiro - Agressivo Reliquia",
+        "url": "https://open.spotify.com/album/5ZAs8UnYklBOerWAF8LIVv"
+      },
+      "artists": [
+        {
+          "name": "Mc Colibri",
+          "url": "https://open.spotify.com/artist/5xxO4esjc53XReijAKikY5"
+        },
+        {
+          "name": "DJ GUILHERME DUARTE",
+          "url": "https://open.spotify.com/artist/36bD6Tr7rBa8rpA2GvO5F6"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191817,
+      "name": "O Pipoqueiro - Agressivo Reliquia",
+      "url": "https://open.spotify.com/track/2GdKSEQw5vgWwGh5kqEsd8"
     },
     {
       "album": {

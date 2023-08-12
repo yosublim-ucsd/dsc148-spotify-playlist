@@ -5527,6 +5527,28 @@
     },
     {
       "album": {
+        "name": "Coup de gr\u00e2ce",
+        "url": "https://open.spotify.com/album/1c72dnTt4tMAcUcmxdzyNZ"
+      },
+      "artists": [
+        {
+          "name": "TEEN",
+          "url": "https://open.spotify.com/artist/1chB7D5MsYcqBpie4zUKL0"
+        },
+        {
+          "name": "Lem.",
+          "url": "https://open.spotify.com/artist/1ZECkYddAHfoFZgjeGuqsI"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155483,
+      "name": "Coup de gr\u00e2ce",
+      "url": "https://open.spotify.com/track/3PCCqT0nTSey2h1iIWJRps"
+    },
+    {
+      "album": {
         "name": "Coupla Miles High",
         "url": "https://open.spotify.com/album/2RaKfpMk9oCXjztATxxtmM"
       },

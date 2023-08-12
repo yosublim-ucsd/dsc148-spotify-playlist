@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 61851,
+  "description": "The best newly released songs of the week. Cover: V",
+  "num_followers": 61904,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTAwMzkzYmJmMGEyY2IyZWRkZTEzNTAzODIxZGViMmEyZWIyNmVh",
+  "snapshot_id": "MCxjYzQ5NjUyYWJmZWE1ZTRmZTk4MzM5ZDNjNjYwMGViMjMwZDA4YjVm",
   "tracks": [
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
     {
       "added_at": "2023-08-10 16:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
+        "name": "Don't Leave Yet",
+        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Don't Leave Yet",
+      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
     },
     {
       "added_at": "2023-08-10 16:00:00",
@@ -539,8 +571,8 @@
     {
       "added_at": "2023-08-10 16:00:00",
       "album": {
-        "name": "Someone New (feat. Martti Franca)",
-        "url": "https://open.spotify.com/album/4eejH2wsBwWO6kSawy21JQ"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
       },
       "artists": [
         {
@@ -553,8 +585,8 @@
         }
       ],
       "duration_ms": 255000,
-      "name": "Someone New (feat. Martti Franca)",
-      "url": "https://open.spotify.com/track/5N3tJmKOH08sR6ViAOqOjd"
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
     },
     {
       "added_at": "2023-08-10 16:00:00",
@@ -571,6 +603,22 @@
       "duration_ms": 202314,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1"
+    },
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
+        "name": "Nobody Like Us",
+        "url": "https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 180735,
+      "name": "Nobody Like Us",
+      "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
     },
     {
       "added_at": "2023-08-10 16:00:00",
@@ -595,7 +643,7 @@
     {
       "added_at": "2023-08-10 16:00:00",
       "album": {
-        "name": "i adore u",
+        "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
       "artists": [
@@ -609,7 +657,7 @@
         }
       ],
       "duration_ms": 220653,
-      "name": "i adore u",
+      "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
@@ -675,6 +723,38 @@
       "duration_ms": 190839,
       "name": "Better Apart",
       "url": "https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq"
+    },
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 158602,
+      "name": "Fall into You",
+      "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
+    },
+    {
+      "added_at": "2023-08-11 02:02:03",
+      "album": {
+        "name": "DU4LI7Y: REDUX",
+        "url": "https://open.spotify.com/album/4RO6790j1uHJXcI9CTqA1R"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        }
+      ],
+      "duration_ms": 206380,
+      "name": "Podium",
+      "url": "https://open.spotify.com/track/7zralDvSIwPnynP4JJeXIs"
     },
     {
       "added_at": "2023-08-10 16:00:00",
@@ -1015,6 +1095,26 @@
     {
       "added_at": "2023-08-10 16:00:00",
       "album": {
+        "name": "GBG (feat. Marshmello)",
+        "url": "https://open.spotify.com/album/6Dnz4ttJCfBT9ZgsswTa1E"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 130794,
+      "name": "GBG (feat. Marshmello)",
+      "url": "https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk"
+    },
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
         "name": "A Love Letter To You 5",
         "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
       },
@@ -1259,6 +1359,22 @@
       "duration_ms": 219843,
       "name": "WYTD",
       "url": "https://open.spotify.com/track/7MJkWf3wfWwnIDAUdYEqWy"
+    },
+    {
+      "added_at": "2023-08-10 16:00:00",
+      "album": {
+        "name": "Like Me, Like Me",
+        "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Like Me, Like Me",
+      "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
     },
     {
       "added_at": "2023-08-10 16:00:00",

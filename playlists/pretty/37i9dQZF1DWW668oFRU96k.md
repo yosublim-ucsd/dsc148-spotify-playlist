@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,181 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,202 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 4 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 5 | [Hot Air Balloon \- Don Diablo VIP Mix](https://open.spotify.com/track/5MgqaXhd1UNEgH2430gDJo) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Hot Air Balloon \(Don Diablo VIP Mix\)](https://open.spotify.com/album/2WA5XsnHaC4geSNSLlWgtc) | 3:07 |
 | 6 | [Try Everything](https://open.spotify.com/track/0kY3ZIOomJdziCeOYjuq6o) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [Try Everything](https://open.spotify.com/album/4CBWh3sJuSdmcA1pPCmA8M) | 3:47 |
-| 7 | [i adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [i adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 7 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 8 | [The Ones We Lost](https://open.spotify.com/track/0mn7ACXua8RURpzTUlejzH) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [The Ones We Lost](https://open.spotify.com/album/0iXsr7jn8kMxWhZtrrTiU0) | 2:57 |
 | 9 | [Rotate](https://open.spotify.com/track/2MDLc1IaTJc8qmupEQWTJS) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Rotate](https://open.spotify.com/album/33OiAITZoBbPLh1vDt205r) | 2:35 |
 | 10 | [Mahoya](https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Mahoya](https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u) | 3:36 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [Touching You \- Rodrigo Deem Remix](https://open.spotify.com/track/1fin39JdiWLMenDGlgL2As) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY), [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Touching You \(Rodrigo Deem & DeathNov Remixes\)](https://open.spotify.com/album/05hJtgDHcYpUV33Io66e7j) | 3:11 |
 | 68 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 
-Snapshot ID: `MCw0ZWZjMjMzYWVkZmQ3MjMyYTE0NGYzMTZhZTM1ODJlMTMwZDQ1MTk1`
+Snapshot ID: `MCw0OTU3ZWViMmI2M2M2ZWViZmIxMjBjOWM3YzY1Zjk5NGRlYjIwODU2`

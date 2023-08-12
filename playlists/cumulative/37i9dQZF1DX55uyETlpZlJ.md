@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-149 songs - 8 hr 19 min
+150 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
 | [Never Stop](https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s) | [MC DILIP](https://open.spotify.com/artist/1BVzEsmuO2qJm8rRisIKOy), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Never Stop](https://open.spotify.com/album/26rK8IlCY5eF9JKB8RUyIV) | 2:02 | 2023-01-12 |  |
 | [Nin Thale](https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [Tracy De Sá](https://open.spotify.com/artist/5PPRykFD70uQSLdvukWxyV), [Urmi](https://open.spotify.com/artist/2RCR4MrSBtETf5GIXWfATw) | [Nin Thale](https://open.spotify.com/album/0Vxdv3hPjU7USETVsXwix4) | 3:15 | 2023-05-18 | 2023-06-08 |
-| [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 | 2022-10-17 |  |
+| [Nina Myaale](https://open.spotify.com/track/1DeCiMxWuLboZByKwPgrvz) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Nina Myaale](https://open.spotify.com/album/48G6knKFk6JcWEYBFNrE91) | 3:35 | 2022-10-17 | 2023-08-12 |
 | [Ninagaagi](https://open.spotify.com/track/7pHniDKvON0JFbCuBB3s7m) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Ninagaagi](https://open.spotify.com/album/2shIXMDv01uAasSN4Xdh0h) | 3:12 | 2023-06-09 | 2023-06-20 |
 | [Ninagaagi](https://open.spotify.com/track/4pEyj2beXCpZrSoxfeu6nj) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:12 | 2023-06-27 | 2023-07-11 |
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 |  |
@@ -151,6 +151,7 @@
 | [Thiz ma Gully](https://open.spotify.com/track/3Lc6Ieoi0LqtcVSkEcb6GF) | [Manchal](https://open.spotify.com/artist/1nOb34gdXcsJGvCHM34geP) | [Thiz ma Gully](https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9) | 3:14 | 2023-02-01 |  |
 | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if) | 3:01 | 2023-03-28 |  |
 | [Vadiraj](https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu) | [Dj Megharaj SN](https://open.spotify.com/artist/5NC5Fp8Cbb8LIiLp6Opyks) | [Vadiraj](https://open.spotify.com/album/0ZBl9ueUQnYRh8JnR8eqbD) | 2:21 | 2023-04-03 |  |
+| [Veera](https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk) | [Nandan Srinivas](https://open.spotify.com/artist/2pTa1LU0eRBmROXhsvxttY), [Darshan Shinde](https://open.spotify.com/artist/4TxpjVvYrrI5Py1kCOIzig), [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [D Cube](https://open.spotify.com/artist/0mCdRXMN2ozZonPnI6EtFj), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sharath Prakash](https://open.spotify.com/artist/26tMtsrM32yHe469h2LLof) | [Veera](https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6) | 3:40 | 2023-08-11 |  |
 | [We Love You Appu](https://open.spotify.com/track/4rN0TpRauE4g3cGsGmzrtm) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [We Love You Appu \- Single](https://open.spotify.com/album/2ixJIpff1eIVyy1yvqRF7L) | 3:23 | 2023-03-15 |  |
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 |  |

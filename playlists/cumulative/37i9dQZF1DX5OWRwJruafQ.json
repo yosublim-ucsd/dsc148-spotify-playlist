@@ -2565,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "No Safety",
+        "url": "https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118987,
+      "name": "No Safety",
+      "url": "https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv"
+    },
+    {
+      "album": {
         "name": "Versatile",
         "url": "https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V"
       },

@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Chayanne
 
-140 songs - 8 hr 27 min
+141 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-05-20 |  |
 | [Cecilia \(feat\. Juan Luis Guerra 4.40\)](https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:28 | 2023-05-19 |  |
 | [Chacha Me \- Español](https://open.spotify.com/track/3d2O38xlPzQRHo98Brb6Xn) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Chacha Me](https://open.spotify.com/album/1Ts5BDhFPlSth1TgB37iC0) | 3:20 | 2022-05-20 | 2022-08-06 |
-| [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-20 |  |
+| [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-20 | 2023-08-12 |
+| [Como Te Pago](https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ) | 3:13 | 2023-06-30 |  |
 | [Como Tu No Hay Dos \- Acoustic Version](https://open.spotify.com/track/4CpPFzhamJ5cuxZmBL8NTd) | [Buxxi](https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz), [Jacob Bush](https://open.spotify.com/artist/5pTsrFcYLR8Uy9f1wMUXDz) | [Como Tu No Hay Dos \(Acoustic Version\)](https://open.spotify.com/album/6LxvokuIy4HhATjbxNAXzH) | 2:50 | 2022-05-20 | 2023-04-22 |
 | [Con el Pompi Pa' 'Rriba](https://open.spotify.com/track/0JDzPjKDsfxRR0OqBrxOxY) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 3:28 | 2022-05-20 | 2022-05-27 |
 | [Convénceme](https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Convénceme](https://open.spotify.com/album/6oxouERjg3yRQALERagHVx) | 3:28 | 2022-05-20 | 2023-07-01 |

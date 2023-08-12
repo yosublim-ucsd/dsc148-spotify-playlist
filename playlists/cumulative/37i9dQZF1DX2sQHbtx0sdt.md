@@ -2,9 +2,9 @@
 
 ### [Global Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> New and trending hip\-hop from around the world\. Cover: Burna Boy
+> New and trending hip\-hop from around the world\. Cover: J Hus
 
-50 songs - 2 hr 35 min
+52 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [I’m From…](https://open.spotify.com/track/6aa03WX4KldjPmL4UkwdGo) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [I'm From...](https://open.spotify.com/album/49fFfeqMUGml2t5z63iYNX) | 3:11 | 2023-08-04 |  |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-08-04 |  |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-08-04 |  |
+| [Mami \(feat\. BIA\)](https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Mami \(feat\. BIA\)](https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse) | 2:58 | 2023-08-11 |  |
 | [Mandem](https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Mandem](https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga) | 4:01 | 2023-08-04 |  |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-08-04 |  |
 | [Massa \(feat\. Sxph\)](https://open.spotify.com/track/6Pe84884twhl2sj87QGlIr) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV), [Sxph](https://open.spotify.com/artist/7yYFVOPpLknZVr5nkWULpw) | [THANKS 4 THE WAIT](https://open.spotify.com/album/4lP1Rlb8kKsOTQq0TNAGoG) | 4:00 | 2023-08-04 |  |
@@ -36,7 +37,7 @@
 | [Mh Mh](https://open.spotify.com/track/7nftwanrXNZxK2l1W6tmHl) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Mh Mh](https://open.spotify.com/album/0ZDylEvaGdcqqP24Vmr0gg) | 2:22 | 2023-08-04 |  |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-08-04 |  |
 | [Monet](https://open.spotify.com/track/2AIdJeRi6mlNXhJRdqlm0A) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 2:38 | 2023-08-04 |  |
-| [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-08-04 |  |
+| [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-08-04 | 2023-08-12 |
 | [Nothing To Something](https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Nothing To Something](https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2) | 3:15 | 2023-08-04 |  |
 | [Oil in my Head](https://open.spotify.com/track/5zNWfIlGEVQ72uzVOGgAiZ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:29 | 2023-08-04 |  |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-08-04 |  |
@@ -47,6 +48,7 @@
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-08-04 |  |
 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 | 2023-08-04 |  |
 | [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 | 2023-08-04 |  |
+| [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay) | 2:27 | 2023-08-11 |  |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-08-04 |  |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-04 |  |
 | [Sjunka](https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sjunka](https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7) | 2:13 | 2023-08-04 |  |
@@ -55,7 +57,7 @@
 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 | 2023-08-04 |  |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-08-04 |  |
 | [Unfollow Me](https://open.spotify.com/track/3ATtfA96hbQx3RS6FkhZ5N) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Unfollow Me](https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ) | 2:09 | 2023-08-04 |  |
-| [We Too Deep](https://open.spotify.com/track/7bL8Qo1T9oULVfDPDYLg90) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Turn Up Party Deutschrap by STOKED](https://open.spotify.com/album/0ilZLhe9uvIThwjMUbMrIC) | 2:22 | 2023-08-04 |  |
+| [We Too Deep](https://open.spotify.com/track/7bL8Qo1T9oULVfDPDYLg90) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Turn Up Party Deutschrap by STOKED](https://open.spotify.com/album/0ilZLhe9uvIThwjMUbMrIC) | 2:22 | 2023-08-04 | 2023-08-12 |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-08-04 |  |
 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-08-04 |  |
 

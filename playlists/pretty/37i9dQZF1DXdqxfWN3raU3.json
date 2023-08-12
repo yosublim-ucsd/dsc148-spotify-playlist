@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Noa Sainz y Nsqk en portada.",
-  "num_followers": 101806,
+  "num_followers": 101880,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjQwOTEyMTBiOGFiMWU1YjU4NzA2NDlkODQzZTZmZGUwYWRkM2M0",
+  "snapshot_id": "MCw2NmFkYTIxMGNlNTdiMTkxMzU2MjFiNTZmODI2YmE0NjUxMzFjYzNi",
   "tracks": [
     {
       "added_at": "2023-08-04 18:27:18",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "Qui\u00e9n Pudiera?",
         "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 213861,
       "name": "Qui\u00e9n Pudiera?",
       "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
-        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
-      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
+        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
+      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 192853,
       "name": "Vem Por Cima",
       "url": "https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Cada D\u00eda Te Quiero M\u00e1s",
         "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "como te va?",
-        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 154401,
-      "name": "como te va?",
-      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "como te va?",
+        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 154401,
+      "name": "como te va?",
+      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -1571,22 +1555,18 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Completa",
-        "url": "https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
       "artists": [
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Emi Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Completa",
-      "url": "https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h"
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1611,6 +1591,26 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Completa",
+        "url": "https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Emi Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Completa",
+      "url": "https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "IGUAL",
-        "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
-      },
-      "artists": [
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "IGUAL",
-      "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1815,22 +1799,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 153132,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
       },
@@ -1843,6 +1811,38 @@
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "IGUAL",
+        "url": "https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "IGUAL",
+      "url": "https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5pkran0HD0TArY7OqRGvsk"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 153132,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
     }
   ],
   "unique_name": "R&B Latino",

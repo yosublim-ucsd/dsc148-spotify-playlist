@@ -9800,7 +9800,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 124285,
       "name": "Belly",
       "url": "https://open.spotify.com/track/17A2pixrMOoZ94iE7FHNPe"
@@ -19990,7 +19990,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 124234,
       "name": "Coffe grounds",
       "url": "https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh"
@@ -56672,7 +56672,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 168000,
       "name": "Lluvia Azul",
       "url": "https://open.spotify.com/track/2CnpibBCEGKHiANk5wImnr"
@@ -82478,7 +82478,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 123000,
       "name": "Road to the Sea",
       "url": "https://open.spotify.com/track/76mgcQvBTBERKmPLpE2E3a"
@@ -90776,6 +90776,24 @@
       "duration_ms": 123076,
       "name": "Somewhere New",
       "url": "https://open.spotify.com/track/4ruExpSbEiBnBa6uowGv3M"
+    },
+    {
+      "album": {
+        "name": "Sommer in Palermo",
+        "url": "https://open.spotify.com/album/5VYHfJdwYXw3hWWHhO92Zl"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113191,
+      "name": "Sommer in Palermo",
+      "url": "https://open.spotify.com/track/1pRzSiDkeLmjSjRzwaj3oE"
     },
     {
       "album": {
@@ -111494,7 +111512,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 140571,
       "name": "Wineyard bonanza",
       "url": "https://open.spotify.com/track/2eepnu15fsjc0UBgnlSXOA"

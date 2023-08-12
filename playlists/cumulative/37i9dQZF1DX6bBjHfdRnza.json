@@ -28984,10 +28984,32 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 367766,
       "name": "Wait for a Dream (feat. Baerd)",
       "url": "https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d"
+      },
+      "artists": [
+        {
+          "name": "Paraleven",
+          "url": "https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr"
+        },
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367766,
+      "name": "Wait for a Dream (feat. Baerd)",
+      "url": "https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR"
     },
     {
       "album": {

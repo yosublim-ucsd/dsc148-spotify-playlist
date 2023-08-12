@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 67498,
+  "num_followers": 67609,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjQwMTM5ZDVkYzUzZGU5MGVjYTFhYzJiNDdmZTRhMTU5Yjk3ZGRj",
+  "snapshot_id": "MCw0NDU1MTRiNzZjMWIzZDNhZTYzZTEzYjFkYmJkYTE3YTQzMTY3OThk",
   "tracks": [
     {
       "added_at": "2023-08-10 12:30:10",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-08-10 12:30:10",
       "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+        "name": "You and the Night and the Music",
+        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "The Melachrino Strings and Orchestra",
+          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+      "duration_ms": 169493,
+      "name": "Violins in the Night",
+      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
     },
     {
       "added_at": "2023-08-10 12:30:10",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-08-10 12:30:10",
       "album": {
-        "name": "You and the Night and the Music",
-        "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
       },
       "artists": [
         {
-          "name": "The Melachrino Strings and Orchestra",
-          "url": "https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV"
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Violins in the Night",
-      "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
     },
     {
       "added_at": "2023-08-10 12:30:10",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-08-10 12:30:10",
       "album": {
-        "name": "Beyond The Sea",
-        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
       },
       "artists": [
         {
-          "name": "Acker Bilk",
-          "url": "https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
     },
     {
       "added_at": "2023-08-10 12:30:10",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-08-10 12:30:10",
       "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+        "name": "Beyond The Sea",
+        "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
       "artists": [
         {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+          "name": "Acker Bilk",
+          "url": "https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+      "duration_ms": 191066,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
     },
     {
       "added_at": "2023-08-10 12:30:10",

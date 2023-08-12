@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. neck deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,015 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,032 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Give It Up](https://open.spotify.com/track/21fSMdEQpQaJlqPkTPkH3t) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Give It Up](https://open.spotify.com/album/2SHm3jnAHPZJwU1kLa5HfF) | 2:56 |
 | 85 | [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 |
 
-Snapshot ID: `MCxkNWMxZDgyODkwNDY0OTE3MTg0ZGU0OWE5MWY1YzQ3ZGM3YWM2ZTQx`
+Snapshot ID: `MCw5ZDRkYWUyNjg5MDIwMjhiNzVjYjhmYjZhMDFhYTM5YWViMTYyMTRk`

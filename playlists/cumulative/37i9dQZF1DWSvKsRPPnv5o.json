@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 185832,
       "name": "Ask G4",
       "url": "https://open.spotify.com/track/0OqO4zlrcwiZ8uglzz30Ne"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 212977,
       "name": "Cleanse",
       "url": "https://open.spotify.com/track/0pL5FkotNaqETehRvpKYeW"
@@ -2282,6 +2282,28 @@
       "duration_ms": 177710,
       "name": "Couldn't Wait for It",
       "url": "https://open.spotify.com/track/72LYxJqGTHVJamtyRQohre"
+    },
+    {
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n"
+      },
+      "artists": [
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        },
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/1okcQTdnxNEuXe3zyzSa2f"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138344,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/04olszCUYZ10rq1lZ8lr4B"
     },
     {
       "album": {
@@ -3229,6 +3251,36 @@
     },
     {
       "album": {
+        "name": "Porches",
+        "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202131,
+      "name": "Family First! (Ft. Kalan.FrFr, SiR & Zacari)",
+      "url": "https://open.spotify.com/track/4IvbICOBK3KjMlf1rbfuU7"
+    },
+    {
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/2aYX2QDnxVLqivY6tjM7Pd"
       },
@@ -3593,6 +3645,32 @@
     },
     {
       "album": {
+        "name": "From The Jump",
+        "url": "https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "From The Jump",
+      "url": "https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0"
+    },
+    {
+      "album": {
         "name": "Fuck Love",
         "url": "https://open.spotify.com/album/38VrQda1Fd52DXKHe1z5KQ"
       },
@@ -3860,7 +3938,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 182655,
       "name": "Ghetto Cinderella (feat. Mustard & Terrace Martin)",
       "url": "https://open.spotify.com/track/3jGy6nqGMcsBvjN6G3TC0S"
@@ -4480,6 +4558,24 @@
       "duration_ms": 135887,
       "name": "Him (feat. Dom Kennedy)",
       "url": "https://open.spotify.com/track/4Kar4KNY0ov2vXdNzgl1LJ"
+    },
+    {
+      "album": {
+        "name": "7 Figures Later",
+        "url": "https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Hobby",
+      "url": "https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ"
     },
     {
       "album": {
@@ -5254,6 +5350,24 @@
       "duration_ms": 153407,
       "name": "Just Hit Me",
       "url": "https://open.spotify.com/track/45vCnAMaSbhGCYelETtJdo"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/1sbizSerYAgDqpFUAgCTQP"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125100,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/4lcrZiMuwz0VWiwrrqGgOW"
     },
     {
       "album": {
@@ -6571,6 +6685,32 @@
     },
     {
       "album": {
+        "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
+        "url": "https://open.spotify.com/album/7nk9fTOenAxs9V6UrIqnGq"
+      },
+      "artists": [
+        {
+          "name": "T-Jxint",
+          "url": "https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw"
+        },
+        {
+          "name": "Vinny West",
+          "url": "https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA"
+        },
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/3ajnXtVJQPnzRO6jXfsADU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177994,
+      "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
+      "url": "https://open.spotify.com/track/42f8QNetlBUqFkKP9uyRqO"
+    },
+    {
+      "album": {
         "name": "My Skeleethe (Remix) [feat. Vinny West, BlakeIANA]",
         "url": "https://open.spotify.com/album/6j9JATRi3RwSpAyIcL9WDG"
       },
@@ -6612,7 +6752,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 127346,
       "name": "My Skeleethe (Remix) [feat. Vinny West]",
       "url": "https://open.spotify.com/track/4aAa4pF7vaB6KH8ykcl5zK"
@@ -7298,7 +7438,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 138474,
       "name": "Off Tha Dribble (feat. Swiftchapo, 4oe & Bueno da champ)",
       "url": "https://open.spotify.com/track/5gdqJwuISnyQQTpfP0ZkGp"
@@ -7627,6 +7767,28 @@
     },
     {
       "album": {
+        "name": "Outside (feat. 03 Greedo)",
+        "url": "https://open.spotify.com/album/7fLgwDgP507n9e93wagr3k"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Outside (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/1dYo3EOe6Rw3cTT2OlZIF4"
+    },
+    {
+      "album": {
         "name": "OUTTA LINE",
         "url": "https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL"
       },
@@ -7830,6 +7992,24 @@
       "duration_ms": 200063,
       "name": "Personal",
       "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
+    },
+    {
+      "album": {
+        "name": "Can't Stop, Won't Stop!",
+        "url": "https://open.spotify.com/album/2rsLMusvn7yQZzBdOxj8Xj"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165913,
+      "name": "Phunky Ex / Ballout",
+      "url": "https://open.spotify.com/track/3j7oZroY6LTdzm75fXY0Wi"
     },
     {
       "album": {
@@ -9652,7 +9832,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172957,
       "name": "The Bay (feat. Turf Talk)",
       "url": "https://open.spotify.com/track/5Tz1mvj9YKGEh2PZhCTOgR"
@@ -10350,7 +10530,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 120058,
       "name": "Watch Out For The Riders",
       "url": "https://open.spotify.com/track/6zImt7ZGTqj6gvZJLf5RrP"

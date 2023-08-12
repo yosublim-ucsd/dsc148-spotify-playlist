@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent co\-curated by the cast from the new film Theater Camp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,971 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,981 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 99 | [Only Us \(with Dan + Shay\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Only Us \(From The “Dear Evan Hansen” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF) | 3:45 |
 | 100 | [New York Lonely Boy](https://open.spotify.com/track/21LzxdHPxlWGdcUH6FfBow) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Girls5eva \(Music From The Peacock Original Series\)](https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU) | 2:34 |
 
-Snapshot ID: `MCxmOWFjZDIxMTJhZjU5NDM2MDQzYWU4ZDNiZWFiYzZkZmUwMDU3Zjg5`
+Snapshot ID: `MCw5YmQ3NzIyYWNjZTM1NDBmZjA2Y2RmZmQzNGM4YmU3MWZhM2MyYjk0`

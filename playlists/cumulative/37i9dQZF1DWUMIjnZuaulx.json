@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW?si=745abbac4d3a498c\">DOE</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Albertina Walker Female Artist of the Year",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC?si=f923b620cc534b8e\">Jovonta Patton</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 235493,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2DqCvLwQ5ardSLPJ7RdgOA"
+    },
+    {
+      "album": {
+        "name": "Always (Father I Trust You) [Live]",
+        "url": "https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255047,
+      "name": "Always (Father I Trust You) - Live",
+      "url": "https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut"
     },
     {
       "album": {
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 271874,
       "name": "Feel Alright (Blessed)",
       "url": "https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK"
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 347553,
       "name": "He'll Do It Again / Hezekiah Walker - Live",
       "url": "https://open.spotify.com/track/56JD7wHQzq1qTtNlp7F5J9"
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 209312,
       "name": "I Remember - Radio Version",
       "url": "https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh"
@@ -4837,6 +4855,32 @@
     },
     {
       "album": {
+        "name": "Put Your Name On Me",
+        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Tony Fresh",
+          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507068,
+      "name": "Put Your Name On Me (feat. Tony Fresh)",
+      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
+    },
+    {
+      "album": {
         "name": "Stained Glass Windows",
         "url": "https://open.spotify.com/album/5IlQakSgyg5MaLlyUlTieh"
       },
@@ -5168,6 +5212,24 @@
       "duration_ms": 278780,
       "name": "Shelter - Live",
       "url": "https://open.spotify.com/track/52jQuLW0VoSfnJ7YXQ0xcy"
+    },
+    {
+      "album": {
+        "name": "Sho' Been Good",
+        "url": "https://open.spotify.com/album/1QCLxqOKzbrWv68bl8ithr"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225151,
+      "name": "Sho' Been Good",
+      "url": "https://open.spotify.com/track/4rG8r3XYn7FUH9t6An0tLD"
     },
     {
       "album": {

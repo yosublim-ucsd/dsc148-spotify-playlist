@@ -1,12 +1,12 @@
 {
   "description": "Beautiful proudly South African gems. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=izz5CqcHRWmgpG0USL8x9w\">Lwah Ndlunkulu</a>",
-  "num_followers": 111384,
+  "num_followers": 111545,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGUzYjkyMGY3YjZiMjI5Njg0NmNiYjE0OTEyMWIzNTJjYTM4OTdk",
+  "snapshot_id": "MCwwN2ZhODMwM2RhNjg2YmJlMDNhM2E2NmU0NWU5ZDM1N2Y5MTZhYmNh",
   "tracks": [
     {
       "added_at": "2023-08-10 22:12:43",
@@ -532,7 +532,7 @@
           "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
         }
       ],
-      "duration_ms": 437198,
+      "duration_ms": 300061,
       "name": "Noma Kanjani",
       "url": "https://open.spotify.com/track/7ra81phD6VfKgcBJolmaP4"
     },
@@ -548,7 +548,7 @@
           "url": "https://open.spotify.com/artist/6MokTncR3bAEMFOuth0LJb"
         }
       ],
-      "duration_ms": 253814,
+      "duration_ms": 254189,
       "name": "Ahilweni",
       "url": "https://open.spotify.com/track/5k3YNp6FzXz5I47gcE1cnc"
     },
@@ -897,24 +897,20 @@
       "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
     },
     {
-      "added_at": "2023-08-10 22:12:43",
+      "added_at": "2023-08-11 13:05:04",
       "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/5xQIpRYzTsw80u0oXSW4rA"
+        "name": "Ke Tshepile Wena (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh"
       },
       "artists": [
         {
           "name": "Oufadafada",
           "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
         }
       ],
-      "duration_ms": 325872,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/4OfvnDgvA6yP6en7jJM752"
+      "duration_ms": 314219,
+      "name": "Ke Tshepile Wena - Amapiano Remix",
+      "url": "https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5"
     },
     {
       "added_at": "2023-08-10 22:12:43",

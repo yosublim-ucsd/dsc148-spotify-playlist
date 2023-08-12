@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-137 songs - 8 hr 19 min
+138 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Lloraras](https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x) | 3:48 | 2021-12-17 | 2022-07-29 |
 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2022-07-01 |  |
 | [Llorarás](https://open.spotify.com/track/5GHn9ZpgHRkuvEVoLihPVS) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Salsa Navideña](https://open.spotify.com/album/6jSxvCzrM1ejSVcph5llRk) | 3:48 | 2022-09-30 | 2022-11-13 |
-| [Locos de Amor](https://open.spotify.com/track/3sS3ricJcq0cIEQze7kt9B) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Días de Junio](https://open.spotify.com/album/0F7bKN7VdFsLluqTHuV73f) | 4:03 | 2021-12-17 |  |
+| [Locos de Amor](https://open.spotify.com/track/3sS3ricJcq0cIEQze7kt9B) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Días de Junio](https://open.spotify.com/album/0F7bKN7VdFsLluqTHuV73f) | 4:03 | 2021-12-17 | 2023-08-12 |
+| [Locos de Amor](https://open.spotify.com/track/1IAEpUDHVfepUpX1xiL6ik) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Lunas](https://open.spotify.com/album/1cf8cE8ZDCCsiF9oKDtWa8) | 4:05 | 2023-03-03 |  |
 | [Mal Acostumbrao](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2021-12-17 | 2022-04-23 |
 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 | 2021-12-17 |  |
 | [Marejada](https://open.spotify.com/track/0uzVLV5ZXAF6VUQWF1igxz) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 4:03 | 2022-07-01 |  |

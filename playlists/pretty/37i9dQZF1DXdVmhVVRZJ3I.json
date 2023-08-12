@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 276274,
+  "num_followers": 276335,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVlZjJkOGRiYWNjN2RkMTE1ZDEzNjAxZjRjZjQ5M2U1OGQwYTEx",
+  "snapshot_id": "MCw1OWVhNTA1NzY5YWY4ZGVhMjQxM2JhZDQ5NDA5ODViNjRjOWZkMWE0",
   "tracks": [
     {
       "added_at": "2023-07-28 16:29:31",
@@ -899,34 +899,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        },
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -951,6 +923,34 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
     },
     {
       "added_at": "2023-07-28 16:29:31",

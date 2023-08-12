@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-194 songs - 9 hr 23 min
+195 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [De Nada \- Remix](https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Nada \(Remix\)](https://open.spotify.com/album/53eR7ZWqLIdRVZHcQfHgaC) | 2:59 | 2023-03-31 |  |
 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 | 2022-08-26 | 2023-05-13 |
 | [De Vacaciones](https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [De Vacaciones](https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3) | 2:21 | 2022-06-10 | 2022-11-19 |
+| [DEMASIAO](https://open.spotify.com/track/5QEGGxXA9ZecOBWnl4OjXx) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DEMASIAO](https://open.spotify.com/album/41lRIKXwYbfJIxkd4Dz0bL) | 2:55 | 2023-08-11 |  |
 | [Deseo](https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Deseo](https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG) | 3:56 | 2023-06-23 |  |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2022-05-24 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2023-04-01 |
@@ -165,7 +166,7 @@
 | [Se Me Antoja](https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Valen Vargas](https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5) | [Se Me Antoja](https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD) | 1:52 | 2023-02-03 |  |
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-05-24 |  |
 | [Sin Culpa \(feat.DrefQuila\)](https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Sin Culpa \(feat\. DrefQuila\)](https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4) | 4:04 | 2022-05-24 |  |
-| [Sola](https://open.spotify.com/track/5JVvWAlR9N1WDHRJ4anDcZ) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Sola](https://open.spotify.com/album/3Lqv0aJOLqRVyRwgEEG43N) | 2:27 | 2023-07-14 |  |
+| [Sola](https://open.spotify.com/track/5JVvWAlR9N1WDHRJ4anDcZ) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Sola](https://open.spotify.com/album/3Lqv0aJOLqRVyRwgEEG43N) | 2:27 | 2023-07-14 | 2023-08-12 |
 | [Sola](https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Sola](https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN) | 2:50 | 2022-05-24 |  |
 | [Sonríe](https://open.spotify.com/track/5Qh9RDNanpV6Lgkq7uO1Gn) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sonríe](https://open.spotify.com/album/3jkDRbQGbD5XJm5ldd1D6F) | 3:11 | 2023-01-20 | 2023-07-29 |
 | [Soy Asi](https://open.spotify.com/track/1eXaS6SdeESUrkBEqKonLE) | [BRAINI](https://open.spotify.com/artist/2T1tbUluIp3UduVl8oAyTd), [M96](https://open.spotify.com/artist/34FMM4y7zoLT83hS2JVXrq), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Soy Asi](https://open.spotify.com/album/4roemALCcfRDyfHbjwNjun) | 3:53 | 2022-05-24 | 2022-05-28 |

@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Poe Leos",
-  "num_followers": 141,
+  "num_followers": 146,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTM2ZjhjODA0Zjc2NGRlN2M1MmVlZjZkZWY4MGNjZWU3NWIxZTgz",
+  "snapshot_id": "MCw4YmIzNGZhMjI4ZmIxODM1YjNlNjM0NmNiMDk1NDExOWU3ZTgwNTFk",
   "tracks": [
     {
       "added_at": "2023-05-26 22:07:46",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-05-26 22:07:46",
       "album": {
-        "name": "Up For It",
-        "url": "https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy"
-      },
-      "artists": [
-        {
-          "name": "Anna Mvze",
-          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
-        },
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Up For It",
-      "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
-    },
-    {
-      "added_at": "2023-05-26 22:07:46",
-      "album": {
         "name": "Props",
         "url": "https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
+    },
+    {
+      "added_at": "2023-05-26 22:07:46",
+      "album": {
+        "name": "Up For It",
+        "url": "https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy"
+      },
+      "artists": [
+        {
+          "name": "Anna Mvze",
+          "url": "https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Up For It",
+      "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
     },
     {
       "added_at": "2023-05-26 22:07:46",

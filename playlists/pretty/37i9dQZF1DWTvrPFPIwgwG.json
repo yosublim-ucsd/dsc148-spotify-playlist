@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Damares",
-  "num_followers": 88583,
+  "num_followers": 88747,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FhYjRkNzU4NTQ3MjU3ZmYxNDU2N2Q0MmQxNzkxODFjYzk4MDUw",
+  "snapshot_id": "MCw2ODFhYWZkNjBkYjZjODlhZDVjZjQ4MjczN2I2NmI4ZjA2NzM0NjZk",
   "tracks": [
     {
       "added_at": "2023-08-04 17:51:21",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 298174,
-      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 234520,
       "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
       "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
+        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "duration_ms": 298174,
+      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
-        "name": "Jesus Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Jesus Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 312287,
       "name": "Sou Eu",
       "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
+        "name": "Jesus Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Jesus Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M"
     },
     {
       "added_at": "2023-08-04 17:51:21",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-08-04 17:51:21",
       "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+    },
+    {
+      "added_at": "2023-08-04 17:51:21",
+      "album": {
         "name": "Tenha Paci\u00eancia",
         "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 377500,
       "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
-    },
-    {
-      "added_at": "2023-08-04 17:51:21",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": "2023-08-04 17:51:21",

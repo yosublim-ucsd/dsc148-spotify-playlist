@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-191 songs - 4 hr 52 min
+192 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Come on and Roll](https://open.spotify.com/track/3J65h7KKWj2eiWEnuPnWFa) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02) | 1:10 | 2023-02-03 |  |
 | [Come on and Roll](https://open.spotify.com/track/3pE9DRIWTRe0kMn5Bximnn) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 1:10 | 2023-01-27 | 2023-02-05 |
 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2022-03-18 |  |
+| [Dino Sitting \- From "Disney Junior Music: Mickey Mouse Funhouse Dino Safari"](https://open.spotify.com/track/2OK67thLrzf6I4Gfv2e8jH) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Dino Sitting \(From "Disney Junior Music: Mickey Mouse Funhouse Dino Safari"\)](https://open.spotify.com/album/1aOuOUWimKCyUDUwRFKsV2) | 1:14 | 2023-08-11 |  |
 | [Disney Junior Music: Make It a Mickey Morning](https://open.spotify.com/track/02Fn1rxmlveZZfx4iltIMz) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:42 | 2022-07-27 |  |
 | [Disney Junior Music: Make It a Mickey Morning \- From "Mickey Mornings"](https://open.spotify.com/track/7FlQiOdu7Y3K2M3qVD3uW8) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Make It a Mickey Morning \(From "Mickey Mornings"\)](https://open.spotify.com/album/29sfhfZcyWIOEi6RIyw1LW) | 1:41 | 2022-03-18 | 2022-07-29 |
 | [Disney Junior Music: The Chicken Squad Main Title Theme \- From "The Chicken Squad"](https://open.spotify.com/track/06XgB6mkJzkzv3ITeXLses) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad Main Title Theme \(From "The Chicken Squad"\)](https://open.spotify.com/album/1EpGbbGoFKEUFE8OUmQUR6) | 0:40 | 2022-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,583 likes - 85 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,747 likes - 85 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 17 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 |
 | 18 | [Tá nas Mãos de Deus](https://open.spotify.com/track/7KoVd24u4kRlZ6raFRa1k8) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Tá nas Mãos de Deus](https://open.spotify.com/album/4NsDLvp283BBsLmlCp6PrQ) | 4:22 |
 | 19 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
-| 20 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
-| 21 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 20 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 |
+| 21 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
 | 22 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 |
 | 23 | [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 | 24 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 |
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 46 | [Eu Não Era Nada](https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Eu Não Era Nada](https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9) | 5:43 |
 | 47 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
 | 48 | [Vendavais \- Ao Vivo](https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Vendavais \(Ao Vivo\)](https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV) | 6:09 |
-| 49 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 |
-| 50 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
+| 49 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
+| 50 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 |
 | 51 | [Crente Fingindo Ser Cristão \(Ao Vivo\)](https://open.spotify.com/track/2lETl9YmICkJOOYCMJxhH2) | [Karolzinha](https://open.spotify.com/artist/1EX52ykglCCY8a51tsU2jQ), [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Crente Fingindo Ser Cristão \(Ao Vivo\)](https://open.spotify.com/album/0JYm6ZrHlLWJsGaBg8Hv6H) | 3:19 |
 | 52 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
 | 53 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
 | 54 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 |
 | 55 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 |
-| 56 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
-| 57 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
-| 58 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 |
+| 56 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 |
+| 57 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 |
+| 58 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
 | 59 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 |
 | 60 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
 | 61 | [Deus no Comando](https://open.spotify.com/track/1xvM8EUvxGV9Nql03GkLS7) | [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Deus no Comando](https://open.spotify.com/album/5fruMBUNVcLkZkUGetyClw) | 5:01 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MCwxN2FhYjRkNzU4NTQ3MjU3ZmYxNDU2N2Q0MmQxNzkxODFjYzk4MDUw`
+Snapshot ID: `MCw2ODFhYWZkNjBkYjZjODlhZDVjZjQ4MjczN2I2NmI4ZjA2NzM0NjZk`

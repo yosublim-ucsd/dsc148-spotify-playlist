@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-362 songs - 20 hr 20 min
+364 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Carambola](https://open.spotify.com/track/6tNHMfUwXSjxz4MHMrkrut) | [Multi\-Homem](https://open.spotify.com/artist/2HNlu6eelO4SDA29HYzIL3), [Gabriel Thomaz](https://open.spotify.com/artist/5J5SggeuHHfWcXZbZwCg0g), [Márcia Castro](https://open.spotify.com/artist/0qK9aSzT5EIttqbaM1fPwN) | [Multi\-Homem](https://open.spotify.com/album/1uK2Up5fuhOBe2TMUZx7l7) | 3:12 | 2023-01-13 | 2023-03-18 |
 | [Carpinteiro do Universo](https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn) | [Johnny Boy Chaves](https://open.spotify.com/artist/6w3YbjU7kppRphB5Fub70D), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Carpinteiro do Universo](https://open.spotify.com/album/5oFj0TPT5k1ZG0ytG0lrH7) | 4:11 | 2022-04-29 | 2022-05-20 |
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-05-27 | 2022-09-24 |
-| [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 | 2023-01-27 |  |
+| [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 | 2023-01-27 | 2023-08-12 |
 | [CECI](https://open.spotify.com/track/5sofnKyROetFfcVNm5Ztm8) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [CECI \(Deluxe\)](https://open.spotify.com/album/7bo4M7e5HEnTtD03eAWLxc) | 2:44 | 2023-01-20 | 2023-04-01 |
 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 | 2022-01-14 | 2022-09-24 |
 | [Cicatrizes](https://open.spotify.com/track/24I2J5wbWmy25ftfgsOLGh) | [Forte Norte](https://open.spotify.com/artist/5BnsBwbTCpt3f37fQerMux) | [Cicatrizes](https://open.spotify.com/album/1KuS8PL0K7I22EXIvOw29n) | 3:49 | 2022-05-27 | 2023-02-25 |
@@ -81,6 +81,7 @@
 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 | 2022-01-14 | 2023-03-11 |
 | [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 | 2022-10-21 | 2023-03-18 |
 | [Contramão](https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd) | [Wry](https://open.spotify.com/artist/3hUJEMJojO6OmzGWumutys) | [Contramão](https://open.spotify.com/album/2z33uZxRMmV0vve8z8PCQJ) | 2:42 | 2022-10-14 | 2023-01-14 |
+| [Coração Cheio](https://open.spotify.com/track/3Xl0nvpXQ5UxXICgQSfoTi) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [Coração Cheio](https://open.spotify.com/album/2fB058NV8aXCxHMHzdMvJf) | 3:48 | 2023-08-11 |  |
 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 | 2023-03-24 |  |
 | [Cruel](https://open.spotify.com/track/3f8PZ7RZezcJYNmrLLRZdw) | [Nakara](https://open.spotify.com/artist/4CLTPlhKeXJzbqIyfDELlm) | [Cruel](https://open.spotify.com/album/1CPoaapWJCITmBOKSRjapV) | 1:44 | 2023-04-07 | 2023-04-15 |
 | [cuida de mim](https://open.spotify.com/track/0T83WyyuuFXfQzjzu8gwSd) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [cuida de mim](https://open.spotify.com/album/0wy3T5ywwjxTpi2iR37ddE) | 2:53 | 2023-05-19 | 2023-08-05 |
@@ -143,7 +144,7 @@
 | [Fábula de uma Granada](https://open.spotify.com/track/4OdsxenDbioHIBtVH0jNow) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin) | [Fábula de uma Granada](https://open.spotify.com/album/3TX34giAZUWsHL3rQOMPtK) | 3:49 | 2022-01-14 | 2023-04-15 |
 | [Fátima Bernardes Experiência](https://open.spotify.com/track/16WKRMVfYCq9gHMPrXLcQt) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Fátima Bernardes Experiência](https://open.spotify.com/album/7LsGmCQ8BEk7UB398pa7fS) | 4:51 | 2023-03-10 |  |
 | [Gangorra](https://open.spotify.com/track/2Ww0mvlmvWjSz3vhpBoQNw) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Gangorra](https://open.spotify.com/album/71xr0LGACAo2Xsm3DihPaT) | 3:19 | 2023-04-28 |  |
-| [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 |  |
+| [Gentrificação](https://open.spotify.com/track/3EJj7xV5GiO8O0ZXoxxttG) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [Gentrificação](https://open.spotify.com/album/6S6dBEwv7ovsCUBBCxbxUw) | 3:24 | 2023-07-07 | 2023-08-12 |
 | [Gigante](https://open.spotify.com/track/50RIHpnMyCjRLrFXoVbvsM) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/6JiDLzuNVsMHO7qoePgoRZ) | 3:57 | 2023-07-21 |  |
 | [Grão](https://open.spotify.com/track/6Q9qlZBRJlBEEaZkbDwsDa) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Aponte para o Amor](https://open.spotify.com/album/6L57HZXTfINznVAuKzC9DQ) | 3:15 | 2022-07-15 | 2023-07-08 |
 | [HardCore e Festa](https://open.spotify.com/track/4PHrcMAJ81ePbgOevZKaOR) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [HardCore e Festa](https://open.spotify.com/album/6GnrYHjaIgRwyxBKWtEsZl) | 1:40 | 2023-07-14 |  |
@@ -360,6 +361,7 @@
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2022-01-21 | 2022-05-14 |
 | [Velejar](https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Velejar](https://open.spotify.com/album/7FqaxQGN5HmrZCk9auyK6e) | 3:59 | 2022-09-23 | 2023-06-07 |
 | [Velejar](https://open.spotify.com/track/7avsrffq8765coCB5WaLtk) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 3:59 | 2023-06-02 | 2023-07-15 |
+| [Vem Pro Meu Mundo](https://open.spotify.com/track/1qP3RPtEVRLtx6uYQjEaJF) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Vem Pro Meu Mundo](https://open.spotify.com/album/7bDusbk1hDNvrr7DfbdpuZ) | 2:59 | 2023-08-11 |  |
 | [Veneno](https://open.spotify.com/track/5JcRGsmaV5nBVp3TiyqdlO) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Balla e os Cristais](https://open.spotify.com/artist/3FGzyFpLecpQSUzx46x6h0) | [Veneno](https://open.spotify.com/album/5X6ItCVdeZvBugR9j0P8GM) | 3:54 | 2022-01-14 | 2023-04-09 |
 | [VERMELHO FAROL](https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VERMELHO FAROL](https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns) | 2:30 | 2023-04-14 | 2023-07-22 |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |

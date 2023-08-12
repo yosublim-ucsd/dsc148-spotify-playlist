@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Miraculous: Ladybug & Cat Noir
 
-119 songs - 4 hr 57 min
+120 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Life Is Better Loud](https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 2:29 | 2022-10-12 | 2022-11-24 |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-08 | 2022-10-13 |
 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 | 2022-04-08 |  |
+| [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)\`](https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Mom the Bounty Hunter \(from the Netflix Series "My Dad the Bounty Hunter"\)](https://open.spotify.com/album/3rJ69PV57G5a5odY6QKxRH) | 2:35 | 2023-08-11 |  |
 | [Music, Music Everywhere!](https://open.spotify.com/track/0Iks9tSmrtVI8kOnMrfmve) | [Jake Gyllenhaal](https://open.spotify.com/artist/2bwGbnyOkPVvEkIH5ePcLa), [John Mulaney](https://open.spotify.com/artist/5K6CrtQfpRipgTDZbaSj7k), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/6voftk1KiRATintCChjvrW) | 5:17 | 2022-04-08 | 2022-07-09 |
 | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0) | [EL3VATORS](https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [My Dad The Bounty Hunter \(from the Netflix Series\)](https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2) | 1:54 | 2023-01-16 |  |
 | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ) | [Kody Kavitha](https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj) | [My Frankenstein \(from the Netflix Series "Dead End: Paranormal Park"\)](https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz) | 2:36 | 2022-10-12 |  |

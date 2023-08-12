@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21075,
+  "num_followers": 21081,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
+  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "The Prettiest Curse",
         "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 227079,
       "name": "Joderlo Todo",
       "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Santer\u00eda",
-        "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
-      },
-      "artists": [
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 194317,
-      "name": "Santer\u00eda",
-      "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Yo Nunca Aprend\u00ed a Cantar (Pero Con Mis Amigos Nos Jugamos Buenos Cotejos)",
         "url": "https://open.spotify.com/album/0q4oUtLynNJ9npqvIKJIsP"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 267964,
       "name": "La \u00daltima 10",
       "url": "https://open.spotify.com/track/1cV5rooswGe7QRB8GOrzOP"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/4469u7LwiRnEFipG7qJ5dQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "duration_ms": 194317,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/2DGi0QGdmCPG8guKM6bkQj"
     },
     {
       "added_at": "2020-12-01 05:03:00",

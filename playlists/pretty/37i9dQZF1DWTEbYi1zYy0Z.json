@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 52550,
+  "num_followers": 52603,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjQyYjI1NTk2N2ZmMWE4Y2NjYTNiZTBlMmJhYjkwMGY3MGYwNzE2",
+  "snapshot_id": "MCwwZDk0YzU2MzA5NjIzMzg2NjgyNGQzMGVkNTRhODFjODBhOGJmZWQ4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 308466,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/0aQoZUFmZmOb29LMqsRoz5"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "U Groove",
+        "url": "https://open.spotify.com/album/4pWAAnjOEONxjQ3yo6OuM5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "U Groove",
+      "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -55,6 +71,26 @@
       "duration_ms": 220422,
       "name": "Magic City Streets",
       "url": "https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Kalignous",
+        "url": "https://open.spotify.com/album/6LG3XGg7O9YV9o9u8RDgpx"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "name": "Sir Tim",
+          "url": "https://open.spotify.com/artist/1ZVSRE09PJilA3Z7JnUwVR"
+        }
+      ],
+      "duration_ms": 208126,
+      "name": "Black Eden",
+      "url": "https://open.spotify.com/track/6PPngXfYjNrITbLSllbBhD"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -139,6 +175,30 @@
       "duration_ms": 249827,
       "name": "Hub City Jam",
       "url": "https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Ticket to Pittsburgh Roundtrip",
+        "url": "https://open.spotify.com/album/6MbLLwq7JSEllOn6cEg103"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 509168,
+      "name": "Ticket to Pittsburgh Roundtrip",
+      "url": "https://open.spotify.com/track/03yIGoGXBosTeXJqBkuG5X"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1045,26 +1105,6 @@
       "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Summer Solstice",
-        "url": "https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz"
-      },
-      "artists": [
-        {
-          "name": "Anthony Island",
-          "url": "https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v"
-        },
-        {
-          "name": "Pete Dingon",
-          "url": "https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC"
-        }
-      ],
-      "duration_ms": 200050,
-      "name": "Summer Solstice",
-      "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Collective III",
@@ -1155,22 +1195,6 @@
       "duration_ms": 192081,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8"
-      },
-      "artists": [
-        {
-          "name": "Craig Sharmat",
-          "url": "https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4"
-        }
-      ],
-      "duration_ms": 251604,
-      "name": "Slick - radio single",
-      "url": "https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1491,26 +1515,6 @@
       "duration_ms": 374536,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Lavish",
-        "url": "https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p"
-      },
-      "artists": [
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        },
-        {
-          "name": "Jordan Love",
-          "url": "https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9"
-        }
-      ],
-      "duration_ms": 257410,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
     },
     {
       "added_at": "2022-07-01 04:02:00",

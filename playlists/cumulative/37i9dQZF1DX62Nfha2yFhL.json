@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Don't Fuck My Night Up",
+        "url": "https://open.spotify.com/album/4Avmj0xSkPa0uOHdubrZ1W"
+      },
+      "artists": [
+        {
+          "name": "Feux",
+          "url": "https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183992,
+      "name": "Don't Fuck My Night Up",
+      "url": "https://open.spotify.com/track/4kHib4D7z58BcRdROaStK7"
+    },
+    {
+      "album": {
         "name": "Don't Stop the Groove",
         "url": "https://open.spotify.com/album/6SZFlLR9zLwOY1JpmcOlta"
       },
@@ -1452,6 +1470,24 @@
       "duration_ms": 168639,
       "name": "Lies",
       "url": "https://open.spotify.com/track/3tBOduABygszf71Q5e8Rpk"
+    },
+    {
+      "album": {
+        "name": "Like A Habit",
+        "url": "https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Like A Habit",
+      "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
     },
     {
       "album": {
@@ -2778,6 +2814,28 @@
       "duration_ms": 255946,
       "name": "Time Alone With You (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/04jVEb76Kw5OrmGtlXlHxI"
+    },
+    {
+      "album": {
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH"
     },
     {
       "album": {

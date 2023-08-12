@@ -4,11 +4,11 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-391 songs - 22 hr 2 min
+392 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
+| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2023-08-12 |
 | [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-01-07 | 2022-07-29 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 |  |
 | [a million pieces](https://open.spotify.com/track/0d3tToV7ij5cyyuhgH7i9d) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [a million pieces](https://open.spotify.com/album/3qIVcwsotrVvUQ2VaT7OQN) | 2:47 | 2020-11-13 | 2022-03-26 |
@@ -106,8 +106,8 @@
 | [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 | 2022-04-22 |  |
 | [Don’t Care](https://open.spotify.com/track/327XHz25Jg8Ib5O3qcYdGU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 5:22 | 2022-10-14 | 2023-01-20 |
 | [Dynamite](https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ), [Alex Ghenea](https://open.spotify.com/artist/1mGISDumAyOoK6epKA8gq1) | [Dynamite](https://open.spotify.com/album/33lLqNPDlSDWWbnEFFPgja) | 2:56 | 2021-09-21 | 2022-06-15 |
-| [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 |  |
 | [Earworm](https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Earworm](https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl) | 2:24 | 2022-12-02 | 2023-01-01 |
+| [Earworm](https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:24 | 2022-12-02 |  |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 | 2022-04-22 |  |
 | [Electric](https://open.spotify.com/track/1ixBWXSofFhf5Oa9GdoF4O) | [Madison Watkins](https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT) | [Electric](https://open.spotify.com/album/6lSKp6TouQtfZAduv7gLaj) | 2:53 | 2022-09-02 | 2023-06-24 |
@@ -319,6 +319,7 @@
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 |  |
 | [Summertime Shine](https://open.spotify.com/track/2sc6ybY6Y6tbKw5TQ89TUu) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Summertime Shine](https://open.spotify.com/album/0UzT74w3LMM1fzf563H7c9) | 3:58 | 2020-11-13 | 2022-02-14 |
 | [Sunny Days](https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:10 | 2020-11-13 | 2022-03-23 |
+| [Sunrise](https://open.spotify.com/track/4iOQb2ULpWOnTwLJVVd1is) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Sunrise](https://open.spotify.com/album/7s0obyXsDZ2gya8U1djssM) | 2:45 | 2023-08-11 |  |
 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 | 2022-03-25 |  |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-13 | 2022-08-17 |
 | [Sure Don't Miss You](https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE) | 2:54 | 2020-11-13 | 2022-03-22 |

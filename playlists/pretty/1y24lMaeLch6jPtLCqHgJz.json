@@ -6,7 +6,7 @@
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "MjM0Myw0MjNjNjhiN2M4OGQ4YzZjMTQ3ODk2N2ZmYmY3MzA1YmFjZWJlNGIw",
+  "snapshot_id": "MjM1MSwzOTExYWVjYTI3ZmYzYjY4MzE1OWQ5MmMyNWE2ZjNjYmRmZWJmZTQ5",
   "tracks": [
     {
       "added_at": "2023-08-10 12:30:58",
@@ -261,6 +261,30 @@
       "url": "https://open.spotify.com/track/3io02UYaVGJFlOmQKoOc7H"
     },
     {
+      "added_at": "2023-08-11 07:26:11",
+      "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
       "added_at": "2023-08-10 12:30:58",
       "album": {
         "name": "Move Your Body (Extended Mix)",
@@ -383,6 +407,30 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2023-08-11 15:12:08",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3DUSZj2NTr3M0J6DhTyjLw"
+      },
+      "artists": [
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Skylights",
+          "url": "https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "duration_ms": 171723,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi"
     },
     {
       "added_at": "2023-08-10 12:30:58",
@@ -1069,6 +1117,26 @@
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
+      "added_at": "2023-08-11 15:14:15",
+      "album": {
+        "name": "Acid EP",
+        "url": "https://open.spotify.com/album/5gK8htmk5sE0Nu5BGOR5a6"
+      },
+      "artists": [
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        },
+        {
+          "name": "MK8",
+          "url": "https://open.spotify.com/artist/56P4MWXXtmCt1Zam2oLaeU"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Return to Rave",
+      "url": "https://open.spotify.com/track/0dHUlFclEzLXbbMtPpxoQk"
+    },
+    {
       "added_at": "2023-08-10 12:30:58",
       "album": {
         "name": "Sentio",
@@ -1567,30 +1635,6 @@
     {
       "added_at": "2023-08-10 12:30:58",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f"
-      },
-      "artists": [
-        {
-          "name": "Waxel",
-          "url": "https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087"
-        },
-        {
-          "name": "Fedo",
-          "url": "https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M"
-        },
-        {
-          "name": "Max Landry",
-          "url": "https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O"
-    },
-    {
-      "added_at": "2023-08-10 12:30:58",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2xmcOsh0Zv699SfTkri9Xj"
       },
@@ -1767,30 +1811,6 @@
     {
       "added_at": "2023-08-10 12:30:58",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/7BG4Z7k5d6LEYETBh55Ztz"
-      },
-      "artists": [
-        {
-          "name": "Maryn",
-          "url": "https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM"
-        },
-        {
-          "name": "Revealed Recordings",
-          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
-        },
-        {
-          "name": "Eline Esmee",
-          "url": "https://open.spotify.com/artist/34t231FBcrTXTbRFFnzker"
-        }
-      ],
-      "duration_ms": 170644,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg"
-    },
-    {
-      "added_at": "2023-08-10 12:30:58",
-      "album": {
         "name": "Neon Skies (Forever)",
         "url": "https://open.spotify.com/album/2FE1akqpewaVzs7gTAAH6s"
       },
@@ -1903,22 +1923,6 @@
     {
       "added_at": "2023-08-10 12:30:58",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY"
-      },
-      "artists": [
-        {
-          "name": "Ryos",
-          "url": "https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K"
-    },
-    {
-      "added_at": "2023-08-10 12:30:58",
-      "album": {
         "name": "Dancing With Tears In My Eyes",
         "url": "https://open.spotify.com/album/68zbIj55wIO2jErFc060Wr"
       },
@@ -1935,30 +1939,6 @@
       "duration_ms": 188796,
       "name": "Dancing With Tears In My Eyes",
       "url": "https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB"
-    },
-    {
-      "added_at": "2023-08-10 12:30:58",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/0TWuzddi8rJk8L1rbU2Juy"
-      },
-      "artists": [
-        {
-          "name": "Madds",
-          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
-        },
-        {
-          "name": "Loris Buono",
-          "url": "https://open.spotify.com/artist/3cRbHcOtmkVwesXgaf0Hcc"
-        },
-        {
-          "name": "Alexander Cruel",
-          "url": "https://open.spotify.com/artist/1GVy3ijiIOfzzA1hm5AKNr"
-        }
-      ],
-      "duration_ms": 155243,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/3xOsLks1DS2H2B3a0x94KB"
     },
     {
       "added_at": "2023-08-10 12:30:58",
@@ -2147,6 +2127,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2023-08-11 15:13:58",
+      "album": {
+        "name": "Create Yourself",
+        "url": "https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk"
+      },
+      "artists": [
+        {
+          "name": "Oskah",
+          "url": "https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Create Yourself",
+      "url": "https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3"
     }
   ],
   "unique_name": "Festival Songs \ud83d\udca8 EDM Anthems - EDM Songs - Festival Music - Festival 2023",

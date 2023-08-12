@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Jesse Mac Cormack, Gabrielle Shonk
 
-340 songs - 19 hr 34 min
+342 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-15 |
 | [Entre ici et les jours heureux](https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt) | [Pierre Guitard](https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS) | [Entre ici et les jours heureux](https://open.spotify.com/album/6SH1H9eDpiT3dS8TVUCe0R) | 3:20 | 2022-05-27 | 2022-09-17 |
 | [Entre tes doigts](https://open.spotify.com/track/02GnLnPBFGwjus9dumMEwR) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Entre tes doigts](https://open.spotify.com/album/350iyHLoBeRHvPVWLJq9bX) | 5:45 | 2022-08-05 |  |
+| [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 | 2023-08-11 |  |
 | [Evolution](https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [Evolution](https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD) | 3:50 | 2023-03-17 |  |
 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 | 2022-03-25 | 2023-03-11 |
 | [Eye For An Eye](https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Eye For An Eye](https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD) | 3:01 | 2023-06-02 |  |
@@ -237,6 +238,7 @@
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 |  |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |
 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 | 2022-07-15 | 2022-08-27 |
+| [Paris](https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Paris](https://open.spotify.com/album/5O1nozJq79ZpHyAjcHEPta) | 3:10 | 2023-08-11 |  |
 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 | 2022-10-21 |  |
 | [pas pire](https://open.spotify.com/track/6VW2pO4Yyw7rIM5PCDxEbE) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [pas pire](https://open.spotify.com/album/74NrtdHjuTCDazoA9AwK0K) | 3:35 | 2023-05-12 | 2023-07-01 |
 | [Pas toi encore](https://open.spotify.com/track/1orTvHCML20Heg9tqVxkQN) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Pas toi encore](https://open.spotify.com/album/6UJNUpKI93lDjE3eOHFWaM) | 3:29 | 2023-01-20 |  |
@@ -285,7 +287,7 @@
 | [Seul au monde](https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Seul au monde](https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm) | 3:08 | 2023-02-17 |  |
 | [Sex & Candy](https://open.spotify.com/track/7M6HWJhPhHG4yICQGN5Bzi) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Sex & Candy](https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm) | 3:22 | 2023-02-17 | 2023-07-01 |
 | [Shades of Blue](https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant Deluxe](https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7) | 3:28 | 2023-02-10 |  |
-| [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 |  |
+| [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 | 2023-08-12 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 | 2023-01-21 |
 | [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 | 2023-05-19 |  |
@@ -326,7 +328,7 @@
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-09-03 |
 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 | 2023-06-02 |  |
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-22 |
-| [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 |  |
+| [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-08-12 |
 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 | 2022-04-29 | 2022-12-10 |
 | [Vague de Chaleur](https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Vague de Chaleur](https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC) | 2:44 | 2023-06-02 |  |
 | [Vampire](https://open.spotify.com/track/7Iy3isMoMHYsKPtUZdXWE6) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Vampire](https://open.spotify.com/album/1Ps1zKHpyr3X35EuxXTLXE) | 2:33 | 2023-03-10 | 2023-04-01 |

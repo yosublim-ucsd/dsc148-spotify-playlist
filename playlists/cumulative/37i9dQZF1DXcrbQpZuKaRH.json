@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Dreamshore",
+        "url": "https://open.spotify.com/album/60oCI6WHpsMtZlVOyeBBeR"
+      },
+      "artists": [
+        {
+          "name": "Galactica Pivot",
+          "url": "https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Dreamshore",
+      "url": "https://open.spotify.com/track/24xr3Rogq8qFmO535rFA8f"
+    },
+    {
+      "album": {
         "name": "Empyrean Sun",
         "url": "https://open.spotify.com/album/0TUyZk4mbIJtPDOnNxsXTH"
       },

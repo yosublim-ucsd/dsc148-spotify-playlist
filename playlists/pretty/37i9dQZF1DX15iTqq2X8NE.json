@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 16760,
+  "num_followers": 16764,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGMwMjI0YWNjMTVkMTBhZDg5ZDU1NWQwOTI3ZjIzZThhOTZiYWU0",
+  "snapshot_id": "MCw5NWFhNjdjM2U2YzliMjNhYjNmMGNjNDA0ZDA3NmE1NTNkMzM1MGM5",
   "tracks": [
     {
       "added_at": "2023-08-07 09:26:20",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "mOth",
+        "url": "https://open.spotify.com/album/3vq470zfgc6AyX2jecQyl8"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "mOth",
+      "url": "https://open.spotify.com/track/3UV2laHcnxTSLMZiSXoDDX"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "Kabasa",
         "url": "https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 167000,
       "name": "Kabasa",
       "url": "https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "mOth",
-        "url": "https://open.spotify.com/album/3vq470zfgc6AyX2jecQyl8"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "mOth",
-      "url": "https://open.spotify.com/track/3UV2laHcnxTSLMZiSXoDDX"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "Warm Pants",
+        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Warm Pants",
+      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
         "url": "https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 176470,
       "name": "\u062a\u0633\u062c\u064a\u0644 \u062f\u062e\u0648\u0644",
       "url": "https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Warm Pants",
-        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Warm Pants",
-      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
         "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 181000,
       "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Matalib - COLORS Sudan",
-        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Matalib - COLORS Sudan",
-      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "Matalib",
+        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 288008,
+      "name": "Matalib",
+      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
         "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 182758,
       "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
       "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Matalib",
-        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 288008,
-      "name": "Matalib",
-      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -851,42 +851,18 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "Manara Remixed",
-        "url": "https://open.spotify.com/album/2eERLrJoIOM32RpXr4fNCo"
+        "name": "TARAT ALTAYARA",
+        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
       },
       "artists": [
         {
-          "name": "Alsarah & The Nubatones",
-          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         }
       ],
-      "duration_ms": 161863,
-      "name": "3yan T3ban - Oddisee Remix",
-      "url": "https://open.spotify.com/track/7EeDB0g4YmYP3y6JCRYe2p"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u"
-      },
-      "artists": [
-        {
-          "name": "Hoosh",
-          "url": "https://open.spotify.com/artist/451QYarjabz09nL2SSufeV"
-        },
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 135553,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
+      "duration_ms": 122412,
+      "name": "TARAT ALTAYARA",
+      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -907,6 +883,26 @@
       "duration_ms": 301000,
       "name": "Farrah Galbi Aljadeed",
       "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "Manara Remixed",
+        "url": "https://open.spotify.com/album/2eERLrJoIOM32RpXr4fNCo"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 161863,
+      "name": "3yan T3ban - Oddisee Remix",
+      "url": "https://open.spotify.com/track/7EeDB0g4YmYP3y6JCRYe2p"
     }
   ],
   "unique_name": "Sudan Sounds",

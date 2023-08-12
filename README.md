@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6514\)
+## Playlists \(6518\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1847,6 +1847,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Folk Favourites](/playlists/pretty/37i9dQZF1DX2PfO7FL9zWG.md)
 - [Folk Feast](/playlists/pretty/37i9dQZF1DXdaMkR2m2cl5.md)
 - [Folk Frights](/playlists/pretty/37i9dQZF1DX9oMffF6CrwU.md)
+- [Folk Live](/playlists/pretty/37i9dQZF1DX8abjAjObQD4.md)
 - [Folk Misfits](/playlists/pretty/37i9dQZF1DX6lKwK3dS8IE.md)
 - [Folk Pop](/playlists/pretty/37i9dQZF1DWXJyjYpHunCf.md)
 - [Folk Punjabi](/playlists/pretty/37i9dQZF1DX5lHBoCtADgQ.md)
@@ -2160,7 +2161,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Feid](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- KAROL G](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -2228,6 +2229,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Heard You: Black Music Month](/playlists/pretty/37i9dQZF1DWVu3lAQuOIjU.md)
 - [Heart Beats](/playlists/pretty/37i9dQZF1DWSRc3WJklgBs.md)
 - [Heart Of Texas](/playlists/pretty/37i9dQZF1DX05oRSrPGj3d.md)
+- [Heart of Stone Official Playlist](/playlists/pretty/37i9dQZF1DWSWm72jNoKsV.md)
 - [Heartache](/playlists/pretty/37i9dQZF1DX46zHlTTyolY.md)
 - [Heartbreak High: Official Playlist](/playlists/pretty/37i9dQZF1DWSRQOgojqtcs.md)
 - [Heartbreak Hotel](/playlists/pretty/37i9dQZF1DX5JHtri4qWRK.md)
@@ -4168,6 +4170,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Science Fiction](/playlists/pretty/37i9dQZF1DWVeoTQF8RBFh.md)
 - [Scratchy Back Porch Blues](/playlists/pretty/37i9dQZF1DWXbxDw7wBcIC.md)
 - [Sea Shanties](/playlists/pretty/37i9dQZF1DX8shr5OgBdbQ.md)
+- [Secret Temple of Dreams](/playlists/pretty/37i9dQZF1DX7NeseHaSkSz.md)
 - [Seda](/playlists/pretty/37i9dQZF1DXcLnINu2mUk0.md)
 - [Sega Hitlist](/playlists/pretty/37i9dQZF1DWV6JokBKVkMy.md)
 - [Segue o Baile](/playlists/pretty/37i9dQZF1DWWmaszSfZpom.md)
@@ -6410,6 +6413,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [tamo flex](/playlists/pretty/37i9dQZF1DX9QOccjUUyGN.md)
 - [tapioca](/playlists/pretty/37i9dQZF1DX6KwoIt0pZYP.md)
 - [tear drop](/playlists/pretty/37i9dQZF1DX6xZZEgC9Ubl.md)
+- [techno party](/playlists/pretty/37i9dQZF1DWTiY3QffFUdg.md)
 - [teen angst](/playlists/pretty/37i9dQZF1DWY1j3jZdCWOQ.md)
 - [teen beats](/playlists/pretty/37i9dQZF1DWWvvyNmW9V9a.md)
 - [text me back](/playlists/pretty/37i9dQZF1DXcbAIldMQMIs.md)

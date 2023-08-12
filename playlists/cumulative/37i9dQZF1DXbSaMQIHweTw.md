@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-102 songs - 5 hr 33 min
+103 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,5 +110,6 @@
 | [Vichaar](https://open.spotify.com/track/4thERaKSQ1BY0TjEPdJbvw) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Vichaar](https://open.spotify.com/album/5QXqqTxKpXR9ewBXXbaebs) | 3:12 | 2023-03-17 | 2023-04-25 |
 | [VN4 \(GATI\)](https://open.spotify.com/track/7Chg1YwWvwTDbz5NX6XoWU) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Robu](https://open.spotify.com/artist/5s3iXQgBxJvFSQVviVilbt) | [VN4 \(GATI\)](https://open.spotify.com/album/1pAM47rC9ycX5d66CAhG2R) | 2:57 | 2023-03-17 | 2023-04-25 |
 | [White Collar](https://open.spotify.com/track/5xRl4qsBxLfinqEDc7ODqi) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [White Collar](https://open.spotify.com/album/2ys864mxUfS4J1qiiJUz4d) | 2:59 | 2023-03-17 |  |
+| [Young King](https://open.spotify.com/track/3DNBXEXQSU18Ufq0IqboF7) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Young King](https://open.spotify.com/album/101INuhkIfoZ6pXtqiwJ8J) | 2:32 | 2023-08-11 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

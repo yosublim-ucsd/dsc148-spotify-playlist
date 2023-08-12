@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:0zo109NM3S7CqHpvlXwqEN\">VTSS</a>' favorite tracks. Updated regularly. Curated by VTSS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 21748,
+  "num_followers": 21808,
   "original_name": "VTSS' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBlYjk4MDNhN2FhNTdlZTBhM2ZmODUwNGM5OGE1ZWIzYjcxM2Jm",
+  "snapshot_id": "MCwzZTM3YTk3YzI5NzIyMzVkZGMzYTdmODY3Yzg4ZGJjMDU1NTZmNDc3",
   "tracks": [
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Notoriously Fast (Kai Whiston Remix)",
         "url": "https://open.spotify.com/album/2Uvqh83pMI4Giwf2Y7Uzsp"
@@ -37,10 +37,26 @@
       "url": "https://open.spotify.com/track/26xvHwasf7kNG3WpP6a7qq"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
-        "name": "Ledge",
-        "url": "https://open.spotify.com/album/6wC9yIpTGCEjm9Ps16GIbL"
+        "name": "\u7eff\u5e3d Green Hat",
+        "url": "https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD"
+      },
+      "artists": [
+        {
+          "name": "Tzusing",
+          "url": "https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s"
+        }
+      ],
+      "duration_ms": 225832,
+      "name": "\u5076\u50cf\u5305\u88b1 (Idol Baggage)",
+      "url": "https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "STROBE.RIP",
+        "url": "https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD"
       },
       "artists": [
         {
@@ -52,12 +68,80 @@
           "url": "https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa"
         }
       ],
-      "duration_ms": 211079,
-      "name": "Ledge",
-      "url": "https://open.spotify.com/track/08LGKlffSOAP635kiniCGb"
+      "duration_ms": 191916,
+      "name": "Cat",
+      "url": "https://open.spotify.com/track/5zxl6wJiNyPOE5D6TIRb4P"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Ira Lupu EP",
+        "url": "https://open.spotify.com/album/0mN5T4oInLSKNsSHogHEA1"
+      },
+      "artists": [
+        {
+          "name": "Bejenec",
+          "url": "https://open.spotify.com/artist/3maPUtRFoZejmkIXLVtVHM"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Juicy Breaks Vol.1",
+      "url": "https://open.spotify.com/track/0d1fvF5DvcZJNZZm1qLGx6"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/1EkMUiE5FI6vDTILptC0AR"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "duration_ms": 184069,
+      "name": "House It Up",
+      "url": "https://open.spotify.com/track/188zpxha3oTfP7ARjUY2zL"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6T8fHDM3RgTUAhKbKPYwDJ"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        }
+      ],
+      "duration_ms": 318116,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/2ykXU2kmtVhlinar4QMGh0"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Like To Party! (The Badger Bus)",
+        "url": "https://open.spotify.com/album/2cxnCWjVI1SVFf1xjlCeGa"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 144634,
+      "name": "Like To Party! (The Badger Bus)",
+      "url": "https://open.spotify.com/track/5oLhOAETTDk8p8bb19ChwJ"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "DRIFT",
         "url": "https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx"
@@ -73,43 +157,7 @@
       "url": "https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "Milpa",
-        "url": "https://open.spotify.com/album/54g954Nns7c58754GDsYVP"
-      },
-      "artists": [
-        {
-          "name": "Dj Fucci",
-          "url": "https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl"
-        }
-      ],
-      "duration_ms": 261113,
-      "name": "Ma\u00edz",
-      "url": "https://open.spotify.com/track/4S2R7qiXK6nEFE51D9LdKq"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "I Hate You (Jensen Interceptor Remix)",
-        "url": "https://open.spotify.com/album/2tDDEQTqIpXeEhxdJmX1qL"
-      },
-      "artists": [
-        {
-          "name": "Prequel Tapes",
-          "url": "https://open.spotify.com/artist/2TeKdaymfCPccHdHKvVYB1"
-        },
-        {
-          "name": "Jensen Interceptor",
-          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
-        }
-      ],
-      "duration_ms": 241258,
-      "name": "I Hate You - Jensen Interceptor Remix",
-      "url": "https://open.spotify.com/track/02imdeMXLO9ChkGwH8qhu4"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Set The Roof",
         "url": "https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty"
@@ -133,7 +181,79 @@
       "url": "https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "International Chromies Vol. 12",
+        "url": "https://open.spotify.com/album/25vHA8QdkoMYjFT6fqUbjd"
+      },
+      "artists": [
+        {
+          "name": "DJ G2G",
+          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
+        }
+      ],
+      "duration_ms": 284616,
+      "name": "PARTY HARD (feat. ZUTZUT)",
+      "url": "https://open.spotify.com/track/6rZluRlpf48hj3NaQv0XKS"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Transcendence (Remixes)",
+        "url": "https://open.spotify.com/album/4hnBDgmEw3XrVZQb8xVII5"
+      },
+      "artists": [
+        {
+          "name": "Miss Jay",
+          "url": "https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn"
+        },
+        {
+          "name": "Real Tears",
+          "url": "https://open.spotify.com/artist/05caxVgXFeCH0QGUoZe412"
+        }
+      ],
+      "duration_ms": 240116,
+      "name": "Transcendence - Real Tears Palpitations Flip",
+      "url": "https://open.spotify.com/track/1m8gvBeWGc6P2mv2dxWP4V"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Milpa",
+        "url": "https://open.spotify.com/album/54g954Nns7c58754GDsYVP"
+      },
+      "artists": [
+        {
+          "name": "Dj Fucci",
+          "url": "https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl"
+        }
+      ],
+      "duration_ms": 261113,
+      "name": "Ma\u00edz",
+      "url": "https://open.spotify.com/track/4S2R7qiXK6nEFE51D9LdKq"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "I Hate You (Jensen Interceptor Remix)",
+        "url": "https://open.spotify.com/album/2tDDEQTqIpXeEhxdJmX1qL"
+      },
+      "artists": [
+        {
+          "name": "Prequel Tapes",
+          "url": "https://open.spotify.com/artist/2TeKdaymfCPccHdHKvVYB1"
+        },
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "duration_ms": 241258,
+      "name": "I Hate You - Jensen Interceptor Remix",
+      "url": "https://open.spotify.com/track/02imdeMXLO9ChkGwH8qhu4"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Devil's Chariot",
         "url": "https://open.spotify.com/album/3Roz5L5THohjKVr3xHen9p"
@@ -149,7 +269,7 @@
       "url": "https://open.spotify.com/track/6fuWVsb4n143IbetAMbFGI"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Workahol",
         "url": "https://open.spotify.com/album/7gnUNlax9sinXbxJTFy3ZE"
@@ -165,7 +285,7 @@
       "url": "https://open.spotify.com/track/69mC4068Q6b7J8Ir9dLQAW"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Maktub",
         "url": "https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh"
@@ -181,7 +301,7 @@
       "url": "https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Nymph in the Wild",
         "url": "https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU"
@@ -201,7 +321,7 @@
       "url": "https://open.spotify.com/track/6WoTTrbEH1rOERRW5zIC2m"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Dance Instructor EP",
         "url": "https://open.spotify.com/album/28XJ3H40CXDsD2p6J6VKme"
@@ -217,7 +337,7 @@
       "url": "https://open.spotify.com/track/0UdNGLNaYaqiMpTsrCi3r3"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Make You Scream (yun\u00e8 pinku Remix)",
         "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
@@ -237,27 +357,7 @@
       "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "Like To Party! (The Badger Bus)",
-        "url": "https://open.spotify.com/album/2cxnCWjVI1SVFf1xjlCeGa"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 144634,
-      "name": "Like To Party! (The Badger Bus)",
-      "url": "https://open.spotify.com/track/5oLhOAETTDk8p8bb19ChwJ"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "G6X6",
         "url": "https://open.spotify.com/album/4zJ9LcUPGMvuJ2IBm5Iwmx"
@@ -273,7 +373,7 @@
       "url": "https://open.spotify.com/track/2teXquZs3LwcobshxNf5lA"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "rude boy tokyo drift",
         "url": "https://open.spotify.com/album/5WMDwAIXnnRiraDzwq4blm"
@@ -289,7 +389,23 @@
       "url": "https://open.spotify.com/track/1uyNj0Y3xTmys9Hss1qA4E"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq"
+      },
+      "artists": [
+        {
+          "name": "Amnesia Scanner",
+          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "AS Too Wrong",
+      "url": "https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Retinol",
         "url": "https://open.spotify.com/album/5tWHm4vzvnzappL0LQn6GP"
@@ -305,7 +421,7 @@
       "url": "https://open.spotify.com/track/6Byo6HdKvqrXVjKhUPtfPp"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "T.A.K.E.O.V.E.R",
         "url": "https://open.spotify.com/album/2QvFzC05b4PThXLEWPt4Qh"
@@ -321,7 +437,7 @@
       "url": "https://open.spotify.com/track/1uQ7nhpisWkokph5dPhnCJ"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Buzzkill",
         "url": "https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo"
@@ -337,7 +453,7 @@
       "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "ALTER DECOY",
         "url": "https://open.spotify.com/album/4YppNlGQn47Y4C2OCvejQS"
@@ -353,7 +469,7 @@
       "url": "https://open.spotify.com/track/1715J1VOoWSaFmJ793gPPc"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv"
@@ -369,7 +485,7 @@
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "G-COAST",
         "url": "https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c"
@@ -389,7 +505,7 @@
       "url": "https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Pillow Princess Remixes I",
         "url": "https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR"
@@ -409,7 +525,7 @@
       "url": "https://open.spotify.com/track/6mEYqfF76mM7tCcvuYpL4Z"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV"
@@ -425,7 +541,7 @@
       "url": "https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
@@ -445,7 +561,7 @@
       "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "BAD GIRLS",
         "url": "https://open.spotify.com/album/2o28ddcGGnF0hBad4hZ8F8"
@@ -461,27 +577,7 @@
       "url": "https://open.spotify.com/track/1pQIKysdMiMzVElcR43sAQ"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "STROBE.RIP",
-        "url": "https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD"
-      },
-      "artists": [
-        {
-          "name": "Amnesia Scanner",
-          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
-        },
-        {
-          "name": "Freeka Tet",
-          "url": "https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa"
-        }
-      ],
-      "duration_ms": 217589,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0WF9dHuGcPdOU3olaKiR5u"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "EXIT WOUNDS",
         "url": "https://open.spotify.com/album/0i47zoVFdeMzWHE49n5nWH"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/62n0lrTwo7TKbQE5a9sB3i"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Quer Dan\u00e7ar?",
         "url": "https://open.spotify.com/album/4nReuKvl8guGUycWxZuSFG"
@@ -513,7 +609,7 @@
       "url": "https://open.spotify.com/track/2tpaQkgGiBIplXgW2Rl8U8"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "1-800-GHETTOLICIOUS",
         "url": "https://open.spotify.com/album/2tEztrGiQcQSz0xwWm8t1S"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Brick City",
         "url": "https://open.spotify.com/album/7aOTxMiQvikfCpIdtM9JaV"
@@ -565,7 +661,7 @@
       "url": "https://open.spotify.com/track/6cY0VkgAjxj4Bhe0rRnKrU"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Greatest Hits Vol. 1",
         "url": "https://open.spotify.com/album/4IltBHqXnvtOe2RN84rLHy"
@@ -581,7 +677,27 @@
       "url": "https://open.spotify.com/track/5y1OahNB1xZWNEWB6zgWzf"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
+      "album": {
+        "name": "HARD 2.0",
+        "url": "https://open.spotify.com/album/1JLjGf7hGIXBLGiOWLoW5S"
+      },
+      "artists": [
+        {
+          "name": "River Moon",
+          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
+        },
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "HARD 2.0",
+      "url": "https://open.spotify.com/track/4pVeNLmkjJ4CHLyU54IPEL"
+    },
+    {
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "OLD FUNK",
         "url": "https://open.spotify.com/album/1UyhzYuGT5l5l1OkSTpoDC"
@@ -597,7 +713,7 @@
       "url": "https://open.spotify.com/track/4ELdx0NpVjRPDbpC9RHsAz"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Incredibly Annoying (Safety Trance Remix)",
         "url": "https://open.spotify.com/album/1GwE2IJL9Q3ez73dDQcPlg"
@@ -617,7 +733,7 @@
       "url": "https://open.spotify.com/track/1Q0gzmihIHWXV2Z2Dgr0Mr"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "No More Sad Trance!",
         "url": "https://open.spotify.com/album/6ogkYohVaVbEtBspVNS9oE"
@@ -633,7 +749,7 @@
       "url": "https://open.spotify.com/track/0WN8jVRGqd8Fv6df4t5Lz5"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Serving Cunt",
         "url": "https://open.spotify.com/album/27YWtqe7zEpw4ccpFN3ipM"
@@ -653,23 +769,7 @@
       "url": "https://open.spotify.com/track/1UTzHEFClAOY8TLYZmMGym"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "\u7eff\u5e3d Green Hat",
-        "url": "https://open.spotify.com/album/4ly0DCSbwqgvQtaYum7RAD"
-      },
-      "artists": [
-        {
-          "name": "Tzusing",
-          "url": "https://open.spotify.com/artist/7Ifvnt1HhJ0b1QwOxLAu2s"
-        }
-      ],
-      "duration_ms": 225832,
-      "name": "\u5076\u50cf\u5305\u88b1 (Idol Baggage)",
-      "url": "https://open.spotify.com/track/4XnV6Oe22R9ofb3tnXH5HP"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Prawn Stars, Vol. 1",
         "url": "https://open.spotify.com/album/3JO92oXOKVNHLmnMO4MJfp"
@@ -685,63 +785,7 @@
       "url": "https://open.spotify.com/track/6VPjjl2ToIIvBQs3Bolv69"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 241979,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "i just wanna go",
-        "url": "https://open.spotify.com/album/0fqDeQTsa2llhwwzrxYaIY"
-      },
-      "artists": [
-        {
-          "name": "t e s t p r e s s",
-          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "i just wanna go",
-      "url": "https://open.spotify.com/track/67KX4FR0w6ghqS8lDXWrAR"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "Tootsie Pop",
-        "url": "https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ"
-      },
-      "artists": [
-        {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        },
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "1-800-GHETTOLICIOUS",
-      "url": "https://open.spotify.com/track/1jLkZPtil9VQTkMzgq0017"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "FUORIORARIO",
         "url": "https://open.spotify.com/album/2C9v6mctGzuDFNOT94X0lS"
@@ -761,7 +805,7 @@
       "url": "https://open.spotify.com/track/0WOCDkXFkUWJ1sG7W85Ikr"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Fantasy Food",
         "url": "https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr"
@@ -777,7 +821,7 @@
       "url": "https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
@@ -797,7 +841,7 @@
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu"
@@ -813,43 +857,7 @@
       "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "International Chromies Vol. 12",
-        "url": "https://open.spotify.com/album/25vHA8QdkoMYjFT6fqUbjd"
-      },
-      "artists": [
-        {
-          "name": "DJ G2G",
-          "url": "https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL"
-        }
-      ],
-      "duration_ms": 284616,
-      "name": "PARTY HARD (feat. ZUTZUT)",
-      "url": "https://open.spotify.com/track/6rZluRlpf48hj3NaQv0XKS"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/37cCQaRfEMfRC25jVx5kbQ"
-      },
-      "artists": [
-        {
-          "name": "Manni Dee",
-          "url": "https://open.spotify.com/artist/3WKDW1ASiWSa1T1nX01dUr"
-        },
-        {
-          "name": "River Moon",
-          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
-        }
-      ],
-      "duration_ms": 211948,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/0s0qFlvmJB2jsCyA2N5byF"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Thanks!",
         "url": "https://open.spotify.com/album/5d9qoIAx6JMZHFbT7gkdFg"
@@ -865,7 +873,7 @@
       "url": "https://open.spotify.com/track/7fHVNg10iu0S3nMHOgqyc2"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Acid Riddim",
         "url": "https://open.spotify.com/album/2NLC0hbexsbwtHoRLs19EY"
@@ -881,7 +889,7 @@
       "url": "https://open.spotify.com/track/43ykvIgc3ssmPKCcOpXEky"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Playboy / Positions",
         "url": "https://open.spotify.com/album/55PS8jiGvSsdruBpXzVNDi"
@@ -897,7 +905,7 @@
       "url": "https://open.spotify.com/track/28Wxt7U3ixliz9qsLHeYfY"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Cry Sugar",
         "url": "https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU"
@@ -913,7 +921,7 @@
       "url": "https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Whaa",
         "url": "https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22"
@@ -937,7 +945,7 @@
       "url": "https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/0KePvhkykaUeqJrY4Hd6Yk"
@@ -953,7 +961,7 @@
       "url": "https://open.spotify.com/track/2DjPHCj4s9fg5wgrnZfd6j"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "The Jumper",
         "url": "https://open.spotify.com/album/7g4v5cmyQCoPtuifBjngdu"
@@ -973,7 +981,7 @@
       "url": "https://open.spotify.com/track/6Mci4rqOnUDsK8oWOYvnHS"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Ragga 2000",
         "url": "https://open.spotify.com/album/0Qlz65J1LLcpmQ5Tsw3dlR"
@@ -989,27 +997,7 @@
       "url": "https://open.spotify.com/track/57iSvvQcVj1W3E02BV9idB"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "HARD 2.0",
-        "url": "https://open.spotify.com/album/1JLjGf7hGIXBLGiOWLoW5S"
-      },
-      "artists": [
-        {
-          "name": "River Moon",
-          "url": "https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2"
-        },
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "HARD 2.0",
-      "url": "https://open.spotify.com/track/4pVeNLmkjJ4CHLyU54IPEL"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/2dq5M9lbglmyHzB1W564Vo"
@@ -1025,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2wqA9AghBRR8yoRRpqTSCp"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Skuxx Remixes 001",
         "url": "https://open.spotify.com/album/71TPxeM2HPnLocxnVe1UcY"
@@ -1045,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3n78dAt7hj3v9AnMxo5urM"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Afraid Of Heights",
         "url": "https://open.spotify.com/album/5zNE67NaC07wB3BTOtYvXG"
@@ -1061,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7bpv1dfryadgJElaDcFPrC"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "D1e and Repeat",
         "url": "https://open.spotify.com/album/6a9gj9gl6YxwKXbBsEyd6M"
@@ -1077,23 +1065,7 @@
       "url": "https://open.spotify.com/track/5tb38xu6EbUCiqYJk6z2zb"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "Pianissimo",
-        "url": "https://open.spotify.com/album/1EkMUiE5FI6vDTILptC0AR"
-      },
-      "artists": [
-        {
-          "name": "X-COAST",
-          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
-        }
-      ],
-      "duration_ms": 184069,
-      "name": "House It Up",
-      "url": "https://open.spotify.com/track/188zpxha3oTfP7ARjUY2zL"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Mais qui est donk Esteban Desigual ?",
         "url": "https://open.spotify.com/album/5zOL958MZpjOe0EkuTODq8"
@@ -1109,23 +1081,7 @@
       "url": "https://open.spotify.com/track/5IIYhNj3ZjZY5PiPm2gait"
     },
     {
-      "added_at": "2023-08-04 09:00:00",
-      "album": {
-        "name": "NOW OR NEVER",
-        "url": "https://open.spotify.com/album/3iWgFrvsPZaYzycEVjJBzX"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 389512,
-      "name": "Inna Trance",
-      "url": "https://open.spotify.com/track/57Tn7DAEl2IT2D1oeFVRMu"
-    },
-    {
-      "added_at": "2023-08-04 09:00:00",
+      "added_at": "2023-08-11 11:29:59",
       "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/6miF1egb56mZUr17xeNJI3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,030 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,289 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCwxN2JiNWI2MGNlYjY0YWQ4OWIzZDMwYTBjNzY0ZWNmZmIyOTNkOWY3`
+Snapshot ID: `MCw4YjI3ZjRiNTg2NjBhODNlN2NlNWJmYjIwOTljY2IwODEwMmZiNGUx`

@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,459 songs - 2 day 22 hr 21 min
+1,464 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Bad Ting](https://open.spotify.com/track/3N9N3KNpbP18nQ3TW3m2Tb) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:26 | 2022-02-28 | 2022-04-15 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-04 | 2022-03-01 |
 | [BALD!](https://open.spotify.com/track/5QAUGlyYPPnis3e8ln0qiz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [BALD!](https://open.spotify.com/album/7h4cJfXQZMUCzHdqh25ye6) | 2:33 | 2020-10-13\* | 2020-11-03 |
+| [balenciaga size 42](https://open.spotify.com/track/4sNZrt2CzEzWT931xRE2Iu) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [the world is big, get over it](https://open.spotify.com/album/0OmGufWKh3Mvwtn33Z0j9P) | 3:08 | 2023-08-11 |  |
 | [Bando](https://open.spotify.com/track/0snD7AgyGUMi15x4Lj1Wb4) | [Kris Yute](https://open.spotify.com/artist/0Q7gK5T29pJT5TXXRdt2pP) | [Bando](https://open.spotify.com/album/5lmKcuCzlodiHGzGkcb7Nc) | 2:36 | 2020-10-13\* | 2020-12-15 |
 | [Barbie Doll](https://open.spotify.com/track/23vhhGsQErRhJtJNtpZ6US) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Barbie Doll](https://open.spotify.com/album/4kL9QvR5F0N2aCvdKKAyyu) | 2:25 | 2021-07-04 | 2021-10-16 |
 | [bargaining \(with Verzache\)](https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [good grief](https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj) | 2:31 | 2022-05-11 | 2022-06-04 |
@@ -220,6 +221,7 @@
 | [car](https://open.spotify.com/track/67T47UzX4SkgsSN5vNI0ec) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [exhausted\. / car](https://open.spotify.com/album/08g6Iht3H6hh9jnETTp7lI) | 2:06 | 2020-10-13\* | 2021-05-03 |
 | [Car](https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [Car](https://open.spotify.com/album/2Nc2587YJw9Lu2gYAk1hAz) | 3:46 | 2022-02-04 | 2022-05-10 |
 | [CARBON FIBER](https://open.spotify.com/track/2df0yoUDN2sroDcAwRqBWu) | [Sora](https://open.spotify.com/artist/152c4om9YE0xnviYewG7qH) | [CARBON FIBER](https://open.spotify.com/album/0lPCbnt0zPOUmoI8DKbZCv) | 4:07 | 2022-01-28 | 2022-03-01 |
+| [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 |  |
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 | 2022-10-05 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-20 | 2023-04-22 |
 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 | 2023-03-17 | 2023-06-08 |
@@ -295,6 +297,7 @@
 | [Crush](https://open.spotify.com/track/0D5DEPAygd5q2ULqY9WQyP) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Crush](https://open.spotify.com/album/1vCulKxQrKDV1rPKHEgIHI) | 2:13 | 2021-09-11 | 2021-10-14 |
 | [Crush \- Unfinished](https://open.spotify.com/track/516daakwmX9S2aRifLUCp8) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:45 | 2023-01-11 | 2023-04-15 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-02-25 | 2022-05-10 |
+| [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 | 2023-08-11 |  |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-05 | 2022-03-01 |
 | [Crystals & Congas](https://open.spotify.com/track/0BF0DbIaEpYLLDpSMknYHV) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Crystals & Congas](https://open.spotify.com/album/7g3PLrwxjgEVvwGnVjmP44) | 2:37 | 2022-10-25 | 2022-11-10 |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-11-11 |  |
@@ -736,6 +739,7 @@
 | [Lonely](https://open.spotify.com/track/5QBkKUkRkgW3Uv233DDcxf) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Lonely](https://open.spotify.com/album/4v5yPCDtthNgBbYaavZYpI) | 2:27 | 2021-02-27 | 2021-05-29 |
 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 | 2022-07-15 | 2022-11-17 |
 | [Lonestar](https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Lonestar](https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi) | 3:14 | 2022-03-16 | 2022-07-01 |
+| [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-11 |  |
 | [Look Away](https://open.spotify.com/track/3ZjaLqv8QUMQVcyTouVRtR) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Look Away](https://open.spotify.com/album/0lye0s2jBSO8wxynO6vCBm) | 3:32 | 2020-12-04 | 2021-07-20 |
 | [Loose](https://open.spotify.com/track/32cNORNdK5ZxBtHVIO0aiT) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E) | [Loose](https://open.spotify.com/album/6aBY5QeLfjHgyvwLllbUCY) | 2:54 | 2020-11-13 | 2020-12-22 |
 | [Lose My Cool \(feat\. NLE Choppa\)](https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Lose My Cool](https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB) | 3:10 | 2021-12-03 | 2022-03-11 |
@@ -1391,6 +1395,7 @@
 | [Want Me Too](https://open.spotify.com/track/2HMaXxZvcG3ipDyD90l8aj) | [Dach](https://open.spotify.com/artist/4ZTdL2voH1dHpH6gkt6Z9g), [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Want Me Too](https://open.spotify.com/album/1d3jVpNe7uOHX2KQQwMTwz) | 2:20 | 2020-10-13\* | 2021-03-26 |
 | [Was I Supposed To Care?](https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 3:01 | 2023-05-19 | 2023-07-22 |
 | [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 | 2023-05-19 | 2023-06-07 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-11 |  |
 | [Wasteland](https://open.spotify.com/track/6e94yJULMfVQWqSE3qExHZ) | [LOWLIFE](https://open.spotify.com/artist/6IiMJsGUgeJYoRSVaW0CPW) | [Wasteland](https://open.spotify.com/album/551B6d3BS2HjQJsCBD409l) | 2:55 | 2020-11-20 | 2021-05-03 |
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2021-10-16 |
 | [We Heal](https://open.spotify.com/track/3jDgP0foXp0dUsOZIOryIO) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [We Heal](https://open.spotify.com/album/5TVAvWNdYyzXxv6Z5wIfW8) | 3:34 | 2020-10-13\* | 2021-01-23 |

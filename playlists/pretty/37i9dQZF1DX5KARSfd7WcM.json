@@ -1,12 +1,12 @@
 {
   "description": "Show the world what love is made of. Listen to the music from Heartstopper, new season now streaming on Netflix. ",
-  "num_followers": 672426,
+  "num_followers": 682219,
   "original_name": "Heartstopper: Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmUzOTA4YmFiZjYyNWJiM2FkZGZhNjVhZTk5YTQ4ZTJmYjlmMGVj",
+  "snapshot_id": "MCxhZmNmMTViM2NmYmU5MjZlNGQ1ODA5NzUxNDk0NDEwOWQ4NDU3MjVk",
   "tracks": [
     {
       "added_at": "2023-08-02 23:00:00",
@@ -157,6 +157,22 @@
       "url": "https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9"
     },
     {
+      "added_at": "2022-05-02 19:32:15",
+      "album": {
+        "name": "Colours Of You",
+        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 255346,
+      "name": "Colours Of You",
+      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
+    },
+    {
       "added_at": "2023-08-02 23:00:00",
       "album": {
         "name": "Heartstopper: Season 2 (Soundtrack from the Netflix Series)",
@@ -187,22 +203,6 @@
       "duration_ms": 155000,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/7uELmcXg4U2iCcrXMvD8dj"
-    },
-    {
-      "added_at": "2022-05-02 19:32:15",
-      "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
     },
     {
       "added_at": "2023-08-02 23:00:00",
@@ -479,6 +479,22 @@
       "duration_ms": 212415,
       "name": "miss u",
       "url": "https://open.spotify.com/track/4pLIQC7XrkGzKqt6vDtbiI"
+    },
+    {
+      "added_at": "2023-08-11 13:17:03",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
     },
     {
       "added_at": "2023-08-02 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,270 likes - 101 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,339 likes - 101 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 24 | [Tell Me](https://open.spotify.com/track/0fIY9e1f2WHwFPdh86FFQe) | [Lili Chan](https://open.spotify.com/artist/71yMv4PuuiRAJWqQzb3w0U) | [Tell Me / Hikari](https://open.spotify.com/album/4YORJE7HgYpV9cFVXZmSxx) | 3:30 |
 | 25 | [HOLD YOU \- Camden Cox Remix](https://open.spotify.com/track/5zLYT3Tp6GHABZr4eUJGFQ) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [HOLD YOU \(Camden Cox Remix\)](https://open.spotify.com/album/5L5ODP1MllctN77284ejNX) | 3:05 |
 | 26 | [Too Long \(feat\. Malia Laura\)](https://open.spotify.com/track/5JiQoRe7m6TciHqut9bNYG) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Too Long \(feat\. Malia Laura\)](https://open.spotify.com/album/5QPxFq0zJYa58SBGdZ9mVJ) | 3:50 |
-| 27 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY) | 6:07 |
+| 27 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d) | 6:07 |
 | 28 | [agony](https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb), [Niles](https://open.spotify.com/artist/5ZJamUavXzHaddUzHWzRHc) | [agony](https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V) | 2:59 |
 | 29 | [Arpeggio](https://open.spotify.com/track/2BVn20rCVS1oZkKU1dlhg0) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [WE KNOW](https://open.spotify.com/album/1EQcog4z5CJ3gRmJr2UbFv) | 6:43 |
 | 30 | [That's The Way](https://open.spotify.com/track/0cXaDJo4XSxdibyASOT3Aj) | [Toby Simpson](https://open.spotify.com/artist/4FsneofHgBocbprOOgcB8j) | [That's The Way](https://open.spotify.com/album/2V6QSVHwFXaZb90M7PfkOS) | 6:16 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 100 | [Variation](https://open.spotify.com/track/3IROMs4R8cMjdzUmxL5oPi) | [Asida Aya](https://open.spotify.com/artist/3lusHS0CkZEZ8fg7LtdVWo) | [Variation EP](https://open.spotify.com/album/7jNXo2etC3SFnhuwqAhXVE) | 5:58 |
 | 101 | [Come Back To Earth](https://open.spotify.com/track/7H0J2Leg2omZxZFwqkdAML) | [Cosmilk](https://open.spotify.com/artist/2AGrE0gZoxBlRmtwvzLqUP) | [Motion Of Time](https://open.spotify.com/album/1Tk2ZXT28f569UXIPmVG6d) | 5:32 |
 
-Snapshot ID: `MCwyNTQzOGI0Njg0MDBkNjRiOGUwM2M4ZGZiNmE3MzRlYWZmZWZmMjMz`
+Snapshot ID: `MCwyMTI3ZDViZTkxNGZlZjRjMjI3OTU0OTkyMDUyNDk2MzAyNTA4NTM1`

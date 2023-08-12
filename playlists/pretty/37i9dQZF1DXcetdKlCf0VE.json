@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 20755,
+  "num_followers": 20764,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWIwOGRkMjExOWU2NmI0ZDcxYjczZjhjOGQwMTEwYTg3MDExNDUz",
+  "snapshot_id": "MCwwMGVjNTllYjMyZDhiNDdjNjFmMTRiNTMwZjQxNDE0ODk0MTY5NmJi",
   "tracks": [
     {
       "added_at": "2023-04-21 08:47:53",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 273213,
+      "name": "Rakastava, Op. 14: The Lover",
+      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Sibelius: Finlandia / Karelia Suite / Lemminkainen Suite",
         "url": "https://open.spotify.com/album/6UH2uels3J03G71AZhj0nw"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 384693,
       "name": "Lemminkainen Suite, Op. 22: IV. Lemminkainen's Return",
       "url": "https://open.spotify.com/track/23yQvWxls9ZmO7fYX1mnuR"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 273213,
-      "name": "Rakastava, Op. 14: The Lover",
-      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -819,30 +819,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Essentials",
-        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 727409,
-      "name": "Pohjolas Daughter, Op. 49",
-      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius: Symphonies Nos. 1-7, Kullervo, Pohjola's Daughter, The Oceanides",
         "url": "https://open.spotify.com/album/5ayWSE1e4yNdunhtpD9SDt"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 714320,
       "name": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo - Allegro energico",
       "url": "https://open.spotify.com/track/6L8kl9k5Rfi5EvgtajmXkK"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Essentials",
+        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 727409,
+      "name": "Pohjolas Daughter, Op. 49",
+      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
-        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Turku Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 83760,
-      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
-      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius: Symphonies Nos. 1-7, Kullervo, Pohjola's Daughter, The Oceanides",
         "url": "https://open.spotify.com/album/5ayWSE1e4yNdunhtpD9SDt"
       },
@@ -1027,6 +1003,30 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 83760,
+      "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
+      "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
-      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Intimate Voices",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 149093,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 2. Vivace",
       "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
+      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/5b0nULsTTQXHaFGUG596WL"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Hannu Jurmu",
-          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
-        },
-        {
-          "name": "Jouni Somero",
-          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Serenad (Serenade), JS 167",
-      "url": "https://open.spotify.com/track/2DC6Z2m4iEXtJ6hfibKfDa"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Sibelius: Finlandia / Karelia Suite / Lemminkainen Suite",
         "url": "https://open.spotify.com/album/6UH2uels3J03G71AZhj0nw"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 1007866,
       "name": "Lemminkainen Suite, Op. 22: I. Lemminkainen and the Maidens of the Island",
       "url": "https://open.spotify.com/track/0BPyStqu7ksErQ6pCZx9OT"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/5b0nULsTTQXHaFGUG596WL"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Serenad (Serenade), JS 167",
+      "url": "https://open.spotify.com/track/2DC6Z2m4iEXtJ6hfibKfDa"
     },
     {
       "added_at": "2023-04-21 08:47:53",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2023-04-21 08:47:53",
       "album": {
-        "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
-        "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 581066,
-      "name": "Symphony No. 4 in A Minor, Op. 63: 1. Tempo molto moderato, quasi adagio",
-      "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
-    },
-    {
-      "added_at": "2023-04-21 08:47:53",
-      "album": {
         "name": "Grieg & Sibelius : Orchestral Songs",
         "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 200973,
       "name": "Sibelius: Belshazzar's Feast, Incidental Music: II. (b) The Jewish Girl's Song",
       "url": "https://open.spotify.com/track/64SNGyVQej0x9Dq3DUvL4Z"
+    },
+    {
+      "added_at": "2023-04-21 08:47:53",
+      "album": {
+        "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
+        "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 581066,
+      "name": "Symphony No. 4 in A Minor, Op. 63: 1. Tempo molto moderato, quasi adagio",
+      "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
     },
     {
       "added_at": "2023-04-21 08:47:53",

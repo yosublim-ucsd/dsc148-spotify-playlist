@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50871,
+  "num_followers": 50916,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzI3MTRlOGE2ZDg5MDczNGUxN2IxOTlkZjY2ZTMxZTdlODA1NTIy",
+  "snapshot_id": "MCwxOTZhZjJjNTVmNWI0ZjMzMTMwMGMyYzU3OGZiOTU5ODQxYzA4MWUy",
   "tracks": [
     {
       "added_at": "2023-07-27 13:11:20",
@@ -125,6 +125,26 @@
       "url": "https://open.spotify.com/track/7nOV1s0tvcnFwSnwjXMA9a"
     },
     {
+      "added_at": "2023-08-11 10:23:21",
+      "album": {
+        "name": "Jailer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DQFKzo8dnJBhlzI7P1Vy7"
+      },
+      "artists": [
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 252151,
+      "name": "Bandhaviduve",
+      "url": "https://open.spotify.com/track/7qM1uWMe8YWU9npWaykIdD"
+    },
+    {
       "added_at": "2023-07-21 06:52:36",
       "album": {
         "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
@@ -167,6 +187,26 @@
       "duration_ms": 265680,
       "name": "Huyyo Huyyo Maleraaya",
       "url": "https://open.spotify.com/track/0ORnNTXGy7dQ4Jt7PBHRu0"
+    },
+    {
+      "added_at": "2023-08-11 11:40:10",
+      "album": {
+        "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
+        "url": "https://open.spotify.com/album/7zbUjbUGRhxfNQ48KPxJMw"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
+      "url": "https://open.spotify.com/track/6jDbIJ7McGcZJ6Vc5QP1Qs"
     },
     {
       "added_at": "2023-08-10 11:59:55",
@@ -1663,42 +1703,6 @@
       "duration_ms": 312000,
       "name": "Nayaka Jananayaka (From \"Prabhutva\")",
       "url": "https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le"
-    },
-    {
-      "added_at": "2023-04-10 07:12:35",
-      "album": {
-        "name": "Hanuman Chalisa (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/3FpmkmM8R0C89jdfQmxgcl"
-      },
-      "artists": [
-        {
-          "name": "Sai Charan",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Hanuman Chalisa (From \"HanuMan\") [Kannada]",
-      "url": "https://open.spotify.com/track/4dTmUE6VFF5zCZhENDjFcp"
-    },
-    {
-      "added_at": "2023-04-10 07:12:35",
-      "album": {
-        "name": "Long Drive",
-        "url": "https://open.spotify.com/album/130Pzy3VlCHnbwcrcZS6YR"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Manasa Holla",
-          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
-        }
-      ],
-      "duration_ms": 252138,
-      "name": "Mayaviye",
-      "url": "https://open.spotify.com/track/0WSTkzo2AxwP6vePkanVJV"
     },
     {
       "added_at": "2023-04-10 13:39:18",

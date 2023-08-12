@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-205 songs - 12 hr 19 min
+206 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Quédate Tranquila](https://open.spotify.com/track/2hb66gcacEdXf1gyrwBBa5) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Lo Mejor Del León](https://open.spotify.com/album/580OWVSVZG1vLlpzh9iLME) | 1:20 | 2022-04-15 | 2022-07-29 |
 | [Recordando éxitos \- Enganchados](https://open.spotify.com/track/1OzoJ7Pz6qnivCFCrmpAq6) | [Los Libres](https://open.spotify.com/artist/45e6FyXzzAKDs9EG9XhsYr) | [Recordando éxitos \(Enganchados\)](https://open.spotify.com/album/7xro52aIeO6kx0tv27DRpu) | 4:00 | 2022-06-17 | 2022-07-05 |
 | [Requiem para Mi Madre](https://open.spotify.com/track/6fBVHD0v2JitOeVJaVLTd3) | [Yuli y Los Girasoles](https://open.spotify.com/artist/3WN801ZTlM5MxIpircGrsO) | [Tropibaile Santafesino, Vol\. 6](https://open.spotify.com/album/4CTo8Azvk9es5d3Hb6I5Ev) | 5:11 | 2022-06-17 | 2022-06-22 |
-| [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 | 2022-06-17 |  |
+| [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 | 2022-06-17 | 2023-08-12 |
 | [Se Enamoró de Mí la Soledad](https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Se Enamoró de Mí la Soledad](https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy) | 2:54 | 2022-06-17 | 2022-07-06 |
 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 | 2022-12-02 | 2022-12-17 |
 | [Señora](https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Señora](https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI) | 3:38 | 2022-06-03 | 2022-07-11 |
@@ -202,6 +202,7 @@
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-04-15 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 | 2022-04-15 | 2022-07-29 |
 | [Universo Paralelo](https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Universo Paralelo](https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R) | 3:39 | 2022-04-15 |  |
+| [Unx100to](https://open.spotify.com/track/7kr36sySH1DHmWxII9fGou) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Un x100to](https://open.spotify.com/album/4SKmMNd4CTjfgWLX3YpJJe) | 3:24 | 2023-08-11 |  |
 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-04-15 |  |
 | [Vivo Pensando en ti](https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY) | [La Nueva Sensación](https://open.spotify.com/artist/0qgjKIM2Zd6fWKcYgwZmPE), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Vivo Pensando en ti](https://open.spotify.com/album/662eLNGODT9RQskLX0Y5Nx) | 3:58 | 2022-12-02 | 2022-12-17 |
 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 | 2022-04-15 | 2022-07-29 |

@@ -1,28 +1,44 @@
 {
   "description": "Yeek & Paris Texas make anti pop.",
-  "num_followers": 697374,
+  "num_followers": 697367,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTNmODdiMjI2ZGIwMGNlMTI3MDIyZjM3NjNiNDljMTIxMDEzMWU4",
+  "snapshot_id": "MCw5NTNiZDk2MTI3ZTkyNzRmNDIxN2M1MGM5N2U5NTg5MWQ5ZjU1NDQ1",
   "tracks": [
     {
-      "added_at": "2023-08-04 13:30:02",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Star.Punk.Soul",
-        "url": "https://open.spotify.com/album/2HeUiZk9PLHtbc82FaOgYJ"
+        "name": "care about myself",
+        "url": "https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ"
       },
       "artists": [
         {
-          "name": "ULTRAGABE",
-          "url": "https://open.spotify.com/artist/3dcwD0Bff5efjDnIqZr9aY"
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Star.Punk.Soul",
-      "url": "https://open.spotify.com/track/6uvVzYbnKA1RqKb39P0itn"
+      "duration_ms": 195262,
+      "name": "care about myself",
+      "url": "https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj"
+    },
+    {
+      "added_at": "2023-07-11 13:27:25",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
     },
     {
       "added_at": "2023-07-21 15:34:39",
@@ -45,36 +61,60 @@
       "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
-      "added_at": "2023-07-11 13:27:25",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Crying In My Car",
+        "url": "https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 245819,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+      "duration_ms": 182146,
+      "name": "Crying In My Car (with Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "ETA2 (feat. Paris Texas)",
+        "url": "https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "ETA2 (feat. Paris Texas)",
+      "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
     },
     {
       "added_at": "2023-08-04 13:30:02",
       "album": {
-        "name": "Soft Landing",
-        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+        "name": "Star.Punk.Soul",
+        "url": "https://open.spotify.com/album/2HeUiZk9PLHtbc82FaOgYJ"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "ULTRAGABE",
+          "url": "https://open.spotify.com/artist/3dcwD0Bff5efjDnIqZr9aY"
         }
       ],
-      "duration_ms": 262261,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
+      "duration_ms": 191250,
+      "name": "Star.Punk.Soul",
+      "url": "https://open.spotify.com/track/6uvVzYbnKA1RqKb39P0itn"
     },
     {
       "added_at": "2023-07-26 15:19:22",
@@ -107,6 +147,22 @@
       "duration_ms": 165066,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "LOO SONG",
+        "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "LOO SONG",
+      "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -155,6 +211,42 @@
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "the world is big, get over it",
+        "url": "https://open.spotify.com/album/0OmGufWKh3Mvwtn33Z0j9P"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 188020,
+      "name": "balenciaga size 42",
+      "url": "https://open.spotify.com/track/4sNZrt2CzEzWT931xRE2Iu"
+    },
+    {
+      "added_at": "2023-08-04 13:30:02",
+      "album": {
+        "name": "Soft Landing",
+        "url": "https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 262261,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP"
     },
     {
       "added_at": "2023-07-07 18:29:24",
@@ -269,26 +361,6 @@
       "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "ETA2 (feat. Paris Texas)",
-        "url": "https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "ETA2 (feat. Paris Texas)",
-      "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "REAL B*TCHES DON'T DIE!",
@@ -323,6 +395,22 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-06-06 14:11:28",

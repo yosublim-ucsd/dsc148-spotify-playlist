@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: C.S. Armstrong",
-  "num_followers": 138058,
+  "num_followers": 138187,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzY1Zjc3MjQ2NDdjMGVjZjVkZDY1OTQ0ZTVkOGNkM2JlNTMyYTVi",
+  "snapshot_id": "MCxjZmRiNzZmNzJjOWE3NzJkNTcxZGQ5MjU4OGRiMDU3MTFhNTJiY2Yy",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Love Me Harder",
+        "url": "https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "duration_ms": 216166,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 127687,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Love Me Harder",
-        "url": "https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW"
-      },
-      "artists": [
-        {
-          "name": "Steven Rodriguez",
-          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
-        }
-      ],
-      "duration_ms": 216166,
-      "name": "Love Me Harder",
-      "url": "https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5Zlbsn63qOeWzxsWGBcKvu"
+      },
+      "artists": [
+        {
+          "name": "ROWKA",
+          "url": "https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159112,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa"
+    },
+    {
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/6hr9MiOKUoFxcXXeyG7JCS"
       },
@@ -1310,6 +1328,28 @@
       "duration_ms": 158095,
       "name": "Supermodel",
       "url": "https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc"
+    },
+    {
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP"
+      },
+      "artists": [
+        {
+          "name": "Phael",
+          "url": "https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g"
+        },
+        {
+          "name": "Cool 7rack",
+          "url": "https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150411,
+      "name": "Take - Radio Edit",
+      "url": "https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf"
     },
     {
       "album": {

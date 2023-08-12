@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Night on the Isle",
+        "url": "https://open.spotify.com/album/4u3Lf5McnpeJ8m3H1GkpH9"
+      },
+      "artists": [
+        {
+          "name": "Scarless Arms",
+          "url": "https://open.spotify.com/artist/4vNVbRGbiqUb48X6d9yiX0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293382,
+      "name": "Night on the Isle",
+      "url": "https://open.spotify.com/track/5k4Qp001CR5wIzzB6ORd8i"
+    },
+    {
+      "album": {
         "name": "zak\u00e8",
         "url": "https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF"
       },
@@ -2410,6 +2428,32 @@
       "duration_ms": 325497,
       "name": "Ripples (36 After Dark Version)",
       "url": "https://open.spotify.com/track/2gCzNknEvRclWSknkujPbp"
+    },
+    {
+      "album": {
+        "name": "Riding Fences",
+        "url": "https://open.spotify.com/album/1yHg9iDE0fEBrs5EsKiNUc"
+      },
+      "artists": [
+        {
+          "name": "Sage Martens",
+          "url": "https://open.spotify.com/artist/3nBOpQmwfeXzOnnC6KNWq8"
+        },
+        {
+          "name": "M. Sage",
+          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
+        },
+        {
+          "name": "Lieven Martens",
+          "url": "https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191717,
+      "name": "River Music",
+      "url": "https://open.spotify.com/track/1gCDWzcqD3vqLJjJKIwpmU"
     },
     {
       "album": {
@@ -3572,6 +3616,24 @@
       "duration_ms": 230000,
       "name": "Water Door - Array Mbira Version",
       "url": "https://open.spotify.com/track/6tC9CjVTcJhbypDgVBFcFM"
+    },
+    {
+      "album": {
+        "name": "Waves Are Speaking",
+        "url": "https://open.spotify.com/album/7Fm5nSHKwlFCzZ57Q1bpk8"
+      },
+      "artists": [
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282587,
+      "name": "Waves Are Speaking",
+      "url": "https://open.spotify.com/track/7BeZQ13wmiCFPVFUMOBeUv"
     },
     {
       "album": {

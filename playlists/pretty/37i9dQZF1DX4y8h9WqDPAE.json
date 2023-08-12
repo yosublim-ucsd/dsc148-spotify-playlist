@@ -1,13 +1,73 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
-  "num_followers": 1789607,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: J Hus",
+  "num_followers": 1789677,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjYyYzFjMGYyZjk1OGYyNWQyZTRmNTA2NDQ1M2Y1NWNhNjYyMjBk",
+  "snapshot_id": "MCwwZjFlODdmOTc3M2NkNGJjZjE5Y2E5ZTRiNzNmZTAyNzBiMWZkMzQ2",
   "tracks": [
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Motion (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "Motion (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
+    },
+    {
+      "added_at": "2023-08-11 04:06:40",
+      "album": {
+        "name": "Number 9 (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 192058,
+      "name": "Number 9 (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4"
+    },
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
@@ -51,46 +111,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Motion (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Motion (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -501,6 +521,26 @@
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
     },
     {
+      "added_at": "2023-08-11 04:06:40",
+      "album": {
+        "name": "EGO - ESTA. Remix",
+        "url": "https://open.spotify.com/album/1uX8wUmCrfAwQOfAJS2fGO"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "EGO - ESTA. Remix",
+      "url": "https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q"
+    },
+    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Room",
@@ -675,6 +715,26 @@
       "duration_ms": 195464,
       "name": "Hate Me (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
+    },
+    {
+      "added_at": "2023-08-11 04:06:40",
+      "album": {
+        "name": "So I Can Sleep Sound (feat. WSTRN)",
+        "url": "https://open.spotify.com/album/0D6O7ATDmEyLC838Rix8fP"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        },
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        }
+      ],
+      "duration_ms": 167572,
+      "name": "So I Can Sleep Sound (feat. WSTRN)",
+      "url": "https://open.spotify.com/track/3rhCx6OugHgtsomfR4qbWJ"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1157,28 +1217,20 @@
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-08-11 04:06:40",
       "album": {
-        "name": "Skin Out",
-        "url": "https://open.spotify.com/album/4CA7g595zXzVn15onJw5lQ"
+        "name": "Won't Go",
+        "url": "https://open.spotify.com/album/2aApeE8JQuKfTqliCTaNN1"
       },
       "artists": [
         {
-          "name": "Monroe X",
-          "url": "https://open.spotify.com/artist/2u60LsPTbpgauVcI33eevw"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
         }
       ],
-      "duration_ms": 168679,
-      "name": "Skin Out",
-      "url": "https://open.spotify.com/track/2mK1cgjxJ7TOvQB5Vgqt4q"
+      "duration_ms": 128315,
+      "name": "Won't Go",
+      "url": "https://open.spotify.com/track/4PCo4gpjSJxyYLTMCAgpJy"
     },
     {
       "added_at": "2023-06-10 16:58:46",
@@ -1447,26 +1499,6 @@
       "duration_ms": 211056,
       "name": "Work Hard Play Hard",
       "url": "https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Get Loose",
-        "url": "https://open.spotify.com/album/5PHV78hUbCsNj76Js7wtpe"
-      },
-      "artists": [
-        {
-          "name": "AGNEZ MO",
-          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 147216,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/1aVqh51zVTaSSIeedX7cDI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1889,26 +1921,6 @@
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
-      "added_at": "2023-05-12 08:36:17",
-      "album": {
-        "name": "Big Boss",
-        "url": "https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        },
-        {
-          "name": "Lxrd Rossi",
-          "url": "https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ"
-        }
-      ],
-      "duration_ms": 245022,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
-    },
-    {
       "added_at": "2023-05-19 06:33:06",
       "album": {
         "name": "False Prophet",
@@ -2177,26 +2189,6 @@
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "3 Words, 8 Letters",
@@ -2211,22 +2203,6 @@
       "duration_ms": 193797,
       "name": "Touchin\u2019",
       "url": "https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2247,22 +2223,6 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2315,26 +2275,6 @@
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 236739,
-      "name": "Valentina (feat. Rick Ross) - Bonus",
-      "url": "https://open.spotify.com/track/7DthGkMhQH9REePi7nBUm4"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -2535,46 +2475,6 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Anogo",
-        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 190140,
-      "name": "Anogo",
-      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
-    },
-    {
-      "added_at": "2022-10-28 07:48:58",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 186433,
-      "name": "WHISTLE (feat. Lojay & Amaarae)",
-      "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
     }
   ],
   "unique_name": "Channel-X",

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 346311,
+  "num_followers": 346373,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWUzNWRiMTQwMWQzMmNmN2Q2YmM2YWFhOTlhYzM0M2ZhZGVlNjZj",
+  "snapshot_id": "MCwyYjk5NzYxN2YwMDY1NjNhZWE3Y2Q2Y2EyNTI3OWVlMmY5MTk1Zjkz",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "JOY (God Only Knows)",
         "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 266906,
       "name": "JOY (God Only Knows)",
       "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 147970,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Angels By My Side (feat. Pauline Taylor)",
-        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
-      },
-      "artists": [
-        {
-          "name": "Sophie Lloyd",
-          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
-        },
-        {
-          "name": "Pauline Taylor",
-          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
-      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Affirmations (feat. Anelisa Lamola)",
         "url": "https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo"
       },
@@ -911,22 +891,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Do you Feel Like I do?",
-        "url": "https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb"
+        "name": "Angels By My Side (feat. Pauline Taylor)",
+        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
       },
       "artists": [
         {
-          "name": "Another Chemical Love Story",
-          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
         },
         {
-          "name": "Elliot Adamson",
-          "url": "https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz"
+          "name": "Pauline Taylor",
+          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
         }
       ],
-      "duration_ms": 398095,
-      "name": "Do you Feel Like I do?",
-      "url": "https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF"
+      "duration_ms": 217606,
+      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
+      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -955,6 +935,26 @@
       "duration_ms": 281200,
       "name": "Missing (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/1T6aL6TE96yG0iFlg9iKp5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Do you Feel Like I do?",
+        "url": "https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb"
+      },
+      "artists": [
+        {
+          "name": "Another Chemical Love Story",
+          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
+        },
+        {
+          "name": "Elliot Adamson",
+          "url": "https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz"
+        }
+      ],
+      "duration_ms": 398095,
+      "name": "Do you Feel Like I do?",
+      "url": "https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 204132,
       "name": "Second Chance (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
     },
     {
       "added_at": "2023-08-04 04:00:00",

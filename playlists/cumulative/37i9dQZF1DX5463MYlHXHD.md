@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: La T y La M
 
-138 songs - 7 hr 31 min
+139 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dale Zorrita](https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:21 | 2023-05-26 |  |
 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 | 2023-05-26 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-05-26 |  |
+| [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 | 2023-08-11 |  |
 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 | 2023-05-26 |  |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2023-05-26 |  |
 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 | 2023-05-26 |  |
@@ -47,7 +48,7 @@
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 | 2023-05-26 |  |
 | [EL PRESO](https://open.spotify.com/track/30ifw7I5iQXqhuF87LtcAd) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [EL PRESO](https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE) | 4:30 | 2023-06-30 | 2023-07-08 |
 | [El Whatsapp](https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:32 | 2023-05-26 |  |
-| [En el Mercho](https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ) | [Corre Guachin](https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY) | [En el Mercho](https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH) | 3:29 | 2023-08-04 |  |
+| [En el Mercho](https://open.spotify.com/track/0iWwb0D31vN79BkJS1FBZJ) | [Corre Guachin](https://open.spotify.com/artist/02AwBRpMnDrozfJcOnFOaY) | [En el Mercho](https://open.spotify.com/album/3ImRkQNwSB2JzXolhgKMhH) | 3:29 | 2023-08-04 | 2023-08-12 |
 | [En la Cama Tú y Yo](https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx) | [El Aspirante](https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK) | [No Hay Mal Que Dure 100 Años](https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco) | 2:55 | 2023-05-26 |  |
 | [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2023-05-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2056098,
+  "num_followers": 2056114,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM2NDQsMDY2MzdhYmZjNWI3MjRlNjFmYzVjOGU4Y2JjZTNiNGQzMTc5NzBlNA==",
+  "snapshot_id": "MTM2NTAsZjU3YjJjZmI5MzNkY2ViN2UxMzIxZmNlNGVlMzVlNTBjMWY5MjczMw==",
   "tracks": [
     {
       "added_at": "2023-07-28 05:52:27",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
     },
     {
+      "added_at": "2023-08-11 16:50:27",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/6aORbbnHLOmSV5mPfpafRw"
+      },
+      "artists": [
+        {
+          "name": "Martron",
+          "url": "https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx"
+        }
+      ],
+      "duration_ms": 139494,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2XuNo4HezffkUpilOZVB2M"
+    },
+    {
       "added_at": "2023-07-28 05:52:27",
       "album": {
         "name": "HUMANS (Far Out Remix)",
@@ -1905,6 +1921,26 @@
       "url": "https://open.spotify.com/track/620A7hleDI0h2jDscp5P7s"
     },
     {
+      "added_at": "2023-08-11 17:33:05",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Wales",
+          "url": "https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 226341,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4pvWt924QkOKQmdpWLvVBg"
+    },
+    {
       "added_at": "2023-07-28 05:52:27",
       "album": {
         "name": "Drift Like A Cloud, Flow Like Water",
@@ -1991,6 +2027,26 @@
       "duration_ms": 237250,
       "name": "I'm Dreaming",
       "url": "https://open.spotify.com/track/3aF4OnZcwvY4PNOv6Dit2q"
+    },
+    {
+      "added_at": "2023-08-11 17:33:09",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF"
+      },
+      "artists": [
+        {
+          "name": "Prince Of Wales",
+          "url": "https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3n1La9z2eJAP5BXwTD1bdr"
     },
     {
       "added_at": "2023-07-28 05:52:27",

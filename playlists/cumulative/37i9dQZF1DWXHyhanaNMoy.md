@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Cristian D
 
-652 songs - 1 day 5 hr 19 min
+653 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,8 @@
 | [Se Te Nota](https://open.spotify.com/track/03Q9frsT4Nr5rQn7Xx82WT) | [BuenosDiaz](https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM), [KARYO](https://open.spotify.com/artist/5axX3V9XC7KOWoquBOdA59), [Lunaty](https://open.spotify.com/artist/0bQSrdEHyOnEpiENRbGtEo), [Peso El Connect](https://open.spotify.com/artist/3DHIq4oCIITJXI82lGv4IC), [JM Fuego](https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk) | [Se Te Nota](https://open.spotify.com/album/0TSaVQEZqkj6eyAvyl24b6) | 2:14 | 2022-11-04 | 2022-11-18 |
 | [Season](https://open.spotify.com/track/6QKypZP2gDMeeIq5O4LuIO) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Season](https://open.spotify.com/album/5A6jH4nly9mmEjclnmhhIG) | 2:19 | 2022-07-14 | 2022-07-28 |
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-18 | 2023-07-07 |
-| [Sende](https://open.spotify.com/track/0S7WVldHk76spNJDrLTNIE) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Sende](https://open.spotify.com/album/4PgUs5VGBAEE5RHFrFJWdJ) | 2:26 | 2023-07-27 |  |
+| [Sende](https://open.spotify.com/track/0S7WVldHk76spNJDrLTNIE) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Sende](https://open.spotify.com/album/4PgUs5VGBAEE5RHFrFJWdJ) | 2:26 | 2023-07-27 | 2023-08-12 |
+| [Sende](https://open.spotify.com/track/3zkJlzwHX7MNBSEFHak4d3) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Sende](https://open.spotify.com/album/6UApK2ImqOECoBMFrFr8HD) | 2:26 | 2023-08-10 |  |
 | [Set It](https://open.spotify.com/track/4lyJX3Yn9c2IpUUwrfQhyO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Set It](https://open.spotify.com/album/48P5zv9zxFr0VkxZUf4wKa) | 2:34 | 2022-12-15 | 2023-01-10 |
 | [Sextou](https://open.spotify.com/track/64FfA22Zy8owo2Hanmbieh) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Sextou](https://open.spotify.com/album/0Nxv3G4Gm4MX1OAXbMwyxa) | 2:17 | 2022-07-21 | 2022-08-26 |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-29 | 2022-10-28 |

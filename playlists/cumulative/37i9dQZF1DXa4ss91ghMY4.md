@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-498 songs - 1 day 1 hr 33 min
+499 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2022-03-25 | 2022-04-19 |
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2022-02-18 | 2022-07-29 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2022-04-08 | 2022-04-18 |
-| [Emocionado](https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Emocionado](https://open.spotify.com/album/09ybjat1ceg69wgLMHOl2S) | 2:46 | 2023-07-14 |  |
+| [Emocionado](https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Emocionado](https://open.spotify.com/album/09ybjat1ceg69wgLMHOl2S) | 2:46 | 2023-07-14 | 2023-08-12 |
 | [End This \(L.O.V.E.\)](https://open.spotify.com/track/04fBskFuMgIx0T0ob7uIhd) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/5ryDRO9Lft4ltBzEETx9MM) | 3:03 | 2022-04-08 | 2022-04-21 |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2022-02-18 | 2022-07-29 |
 | [Everything About You \(feat\. your friend polly\)](https://open.spotify.com/track/3CC7fyeynJ2RVDUlUDPNXR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Everything About You \(feat\. your friend polly\)](https://open.spotify.com/album/4hPJlxAoBTynsr4pBbXuw6) | 2:58 | 2022-03-25 | 2022-04-20 |
@@ -429,6 +429,7 @@
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-03-25 |  |
 | [Tequila & Lemonade](https://open.spotify.com/track/4rjF36rbNb7V7JG44FjJYI) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Tequila & Lemonade](https://open.spotify.com/album/64CXXqfAeThj5C3DRqYCot) | 3:41 | 2022-03-25 | 2022-04-19 |
 | [Tequila Sunrise](https://open.spotify.com/track/0al81Dn0GProyhQ9gO2v2I) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Tequila Sunrise](https://open.spotify.com/album/2q5lFLZBtlwQb7L3sVa6wM) | 2:59 | 2022-04-04 | 2022-04-13 |
+| [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-08-11 |  |
 | [TG4M \- Spotify Studios Recording](https://open.spotify.com/track/4A8UGOAh2OYM6hn6tTI95H) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Studio It's Hits](https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3) | 2:23 | 2022-03-25 | 2022-04-20 |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2022-06-24 |  |
 | [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2022-10-14 |  |

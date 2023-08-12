@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "2 WORDS",
+        "url": "https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "2 WORDS",
+      "url": "https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e"
+    },
+    {
+      "album": {
         "name": "5 Ways",
         "url": "https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S"
       },
@@ -2247,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "GUMDROP",
+        "url": "https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69155,
+      "name": "GUMDROP",
+      "url": "https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG"
+    },
+    {
+      "album": {
         "name": "BOY OF THE YEAR",
         "url": "https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ"
       },
@@ -4113,6 +4149,28 @@
     },
     {
       "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0"
+    },
+    {
+      "album": {
         "name": "Visions of Bodies Being Burned",
         "url": "https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33"
       },
@@ -5298,6 +5356,24 @@
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
+    },
+    {
+      "album": {
+        "name": "your armour will not protect me",
+        "url": "https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn"
+      },
+      "artists": [
+        {
+          "name": "Ramzoid",
+          "url": "https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130591,
+      "name": "your armour will not protect me",
+      "url": "https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v"
     },
     {
       "album": {

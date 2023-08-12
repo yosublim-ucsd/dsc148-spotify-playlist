@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 18428,
+  "num_followers": 18476,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTc4ZjUzZmExNTcyYzY1NTE2NzQxYmYyMDc2NDZhYmIyYzkxYmI1",
+  "snapshot_id": "MCwxMGVlOGUyN2VhOGQzYmI5MDA2YTU4YmY5YmE5MDhjNzgzZjZlODIx",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "Pelea De Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 198133,
       "name": "Qu\u00edtate El Zapato",
       "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Pelea De Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "El Ahualoca",
-      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Mas Zacatecano Que Nunca",
         "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 154266,
       "name": "Zapateando Con La Banda",
       "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "El Ahualoca",
+      "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 131328,
-      "name": "La Chiclanera",
-      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
+      "duration_ms": 164229,
+      "name": "La Ardilla",
+      "url": "https://open.spotify.com/track/1bhgkbzzfIxxInt7Hzs2et"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
         }
       ],
-      "duration_ms": 164229,
-      "name": "La Ardilla",
-      "url": "https://open.spotify.com/track/1bhgkbzzfIxxInt7Hzs2et"
+      "duration_ms": 131328,
+      "name": "La Chiclanera",
+      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
     },
     {
       "added_at": "2022-08-02 22:31:47",

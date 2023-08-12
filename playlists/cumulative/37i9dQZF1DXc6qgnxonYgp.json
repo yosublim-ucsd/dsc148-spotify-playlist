@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 210008,
       "name": "Kottravai",
       "url": "https://open.spotify.com/track/6sm16UvbyJBbmsRLsTUajI"
@@ -3534,6 +3534,32 @@
       "duration_ms": 207820,
       "name": "Thalayaatti Bommai - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm"
+    },
+    {
+      "album": {
+        "name": "Savadi",
+        "url": "https://open.spotify.com/album/4YwiMdmYDGix1E40Cu54Qm"
+      },
+      "artists": [
+        {
+          "name": "Switch Lock Up",
+          "url": "https://open.spotify.com/artist/0JMraP70dypedCsfesBle4"
+        },
+        {
+          "name": "Dan Shiv",
+          "url": "https://open.spotify.com/artist/0lrCgHumUUAj3nLdMj4Ab5"
+        },
+        {
+          "name": "Mc Syze",
+          "url": "https://open.spotify.com/artist/07cEQdCdkOhKf0Dw1E9A3W"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Thale Therikeh",
+      "url": "https://open.spotify.com/track/6TRXKw4ao9fogxMuQGRuB0"
     },
     {
       "album": {

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,501 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,540 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sneakin’ Around](https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sneakin' Around](https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T) | 3:40 |
-| 2 | [I Was Wrong](https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [I Was Wrong](https://open.spotify.com/album/4pWHa99dbajqTn8BLqTbdZ) | 3:49 |
-| 3 | [You're Gonna Need A Man Like Me](https://open.spotify.com/track/3yJqeKCbC15jZ59DKIfGbf) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [You're Gonna Need A Man Like Me](https://open.spotify.com/album/1D9Lwk9jT5TKczBI9f72Xy) | 3:49 |
-| 4 | [Get Your Back Into It](https://open.spotify.com/track/6c2cTUj9tG273blULygzpg) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 |
-| 5 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 |
+| 1 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 |
+| 2 | [Sneakin’ Around](https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sneakin' Around](https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T) | 3:40 |
+| 3 | [I Was Wrong](https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [I Was Wrong](https://open.spotify.com/album/4pWHa99dbajqTn8BLqTbdZ) | 3:49 |
+| 4 | [You're Gonna Need A Man Like Me](https://open.spotify.com/track/3yJqeKCbC15jZ59DKIfGbf) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [You're Gonna Need A Man Like Me](https://open.spotify.com/album/1D9Lwk9jT5TKczBI9f72Xy) | 3:49 |
+| 5 | [Get Your Back Into It](https://open.spotify.com/track/6c2cTUj9tG273blULygzpg) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 |
 | 6 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 |
 | 7 | [Love Is All](https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Love Is All](https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj) | 3:40 |
 | 8 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Pay Day](https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom), [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Pay Day](https://open.spotify.com/album/2EcHCbjLJ5uPgDwkHPMoVa) | 3:17 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw4NTQyMjA3YTNjNmYxYmQ0MjMwYWRhMDAyZWExNTExNTQzODczZjk3`
+Snapshot ID: `MCxmM2M4YmE4OWU3MjRmODQwN2IwOWRhOTQ4Mzk3MjQxOTFmMzVjOGU5`

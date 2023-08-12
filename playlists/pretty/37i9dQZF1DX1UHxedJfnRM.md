@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,736 likes - 80 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,861 likes - 80 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 40 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 |
 | 41 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 |
 | 42 | [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 |
-| 43 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 |
+| 43 | [Como Te Pago](https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ) | 3:13 |
 | 44 | [Escúchame Mi Amor \- \(Versión Salsa\)](https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0) | 3:45 |
 | 45 | [Homenaje a Selena](https://open.spotify.com/track/2DVlE8GYES8tJaETtKOAaw) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Panamericana Music](https://open.spotify.com/artist/5k5ooueWxxmAMBRhb1sJLc), [CALIOPE](https://open.spotify.com/artist/6WmoeHXq2ON9pCFbrvUP2k), [Brunella](https://open.spotify.com/artist/4x9iDqP59xKtLhj5UgFR8U) | [Homenaje a Selena](https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX) | 6:15 |
 | 46 | [Te Equivocaste Conmigo](https://open.spotify.com/track/5fIZ0ju08y3plRtjM3SS84) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Te Equivocaste Conmigo](https://open.spotify.com/album/6rirUeOxzeulvnkmTvQAwo) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCxiZGNiNWY4OTBlZDUwMTAxZTYzN2U4NmM3MzNkNTU2ZmRkZWZlOTVm`
+Snapshot ID: `MCwzNzk4MmZhYmY3NTRmOWQwMjA4M2Y2YWJhNDc2NTIxNGJhZDk3MTE4`

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-220 songs - 11 hr 39 min
+224 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [dusk without you](https://open.spotify.com/track/6q4r9Eqv8G5Nz5Mi1jU8Yk) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [dusk without you EP](https://open.spotify.com/album/18NMn5a6IeQcBOFgzE3nWu) | 3:22 | 2023-01-13 |  |
 | [Echo](https://open.spotify.com/track/4c7qz4XbADXeyr8LAxNTUK) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Echo](https://open.spotify.com/album/5lhdWrh4Wa3wH1nkt73RWI) | 2:11 | 2023-02-17 |  |
 | [Echosphere](https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Echosphere](https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX) | 2:41 | 2022-12-19 |  |
+| [Encountering the Mirror](https://open.spotify.com/track/7BGhuGxeESE5MZAsjJFSOt) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [Encountering the Mirror](https://open.spotify.com/album/5HPomLOslu5ytTESWhQP3d) | 2:51 | 2023-08-11 |  |
 | [Energy](https://open.spotify.com/track/1yDJriJA9uT8p9LyCzGnXm) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Energy](https://open.spotify.com/album/0dUkQHYxrUMZxoab1dDcDw) | 2:37 | 2023-03-10 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-04-14 |  |
@@ -77,6 +78,7 @@
 | [Grounded](https://open.spotify.com/track/7mVts0s26dcB926oonXeoT) | [Pursue Earth](https://open.spotify.com/artist/2p9T2VRJ5VITfZP2brFNVE) | [Grounded](https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8) | 2:25 | 2023-06-09 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
+| [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 | 2023-08-11 |  |
 | [Homeward](https://open.spotify.com/track/73ezDZrPMOCfrd06ctU2lI) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Homeward](https://open.spotify.com/album/67LC6kwgCHBawwvif4AG6k) | 2:29 | 2023-02-09 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
@@ -111,6 +113,7 @@
 | [marble](https://open.spotify.com/track/6RU0RohTCtw7UDMAsahgts) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [never ending circles \(guitar improv vol\. 2\)](https://open.spotify.com/album/4Dq8UgXa84gDAqLurUVcMW) | 1:29 | 2023-02-24 |  |
 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 | 2022-05-19 |  |
 | [Melancholy In Dalarna](https://open.spotify.com/track/7HYeJNRzkuSUUbRitQLkxu) | [Cherries & Daydreams](https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA) | [Melancholy In Dalarna](https://open.spotify.com/album/3jVSpCD0oyW6YltWt1px3W) | 2:07 | 2023-07-17 |  |
+| [Mend](https://open.spotify.com/track/4QcSRzuSFUPo4gos3wRaPJ) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Mend](https://open.spotify.com/album/1u4emnt1M9MIeyMkyI8zcM) | 2:56 | 2023-08-11 |  |
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
 | [Milky Way](https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Time Defined](https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF) | 2:50 | 2022-12-19 |  |
 | [Mind games](https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:10 | 2022-11-18 |  |
@@ -123,6 +126,7 @@
 | [Nautilus](https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 2:51 | 2022-03-30 |  |
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
 | [Night Light](https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL) | [K.Ellis](https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj) | [Night Light](https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB) | 2:43 | 2023-01-20 |  |
+| [Nightfall](https://open.spotify.com/track/6SC9208LAobyAXtJx03GoF) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Nightfall](https://open.spotify.com/album/4848CW7S9ikm4lVG2kyOG4) | 2:48 | 2023-08-11 |  |
 | [Nocturnal Reflections \- 432 Hz](https://open.spotify.com/track/0kP4V6bA8PjuhxstRJUyKK) | [Dream Strings](https://open.spotify.com/artist/7iiuM2IWsST0RqycgULkto), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Nocturnal Reflections \(432 Hz\)](https://open.spotify.com/album/2reQv3AgwbI3z0cJPOPyLk) | 2:56 | 2023-03-03 |  |
 | [Nocturne](https://open.spotify.com/track/0vtabIK29LljzI0O5eG8Yw) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Nocturne](https://open.spotify.com/album/5Rl9UU8fQAi7vvA7zbCrdX) | 1:58 | 2023-05-19 |  |
 | [numb burn](https://open.spotify.com/track/2iWlzsg7MoN9nKIwxlJWPc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [meadows](https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT) | 2:58 | 2023-01-27 |  |

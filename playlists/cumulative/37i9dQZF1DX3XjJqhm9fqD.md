@@ -2,9 +2,9 @@
 
 ### [Haitian Heat](https://open.spotify.com/playlist/37i9dQZF1DX3XjJqhm9fqD)
 
-> Celebrating Haitian music\. Cover: Anie Alerte
+> Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-198 songs - 11 hr 49 min
+199 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Eskize Mwen \- Raboday Mix](https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc), [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Raboday](https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc) | [Eskize Mwen](https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE) | 3:14 | 2021-12-06 | 2023-02-18 |
 | [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 | 2021-12-06 | 2023-07-22 |
 | [Family](https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0) | [SLESH](https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE) | [Family](https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3) | 3:08 | 2023-03-17 | 2023-06-10 |
-| [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 | 2021-12-06 |  |
+| [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 | 2021-12-06 | 2023-08-12 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2022-07-14 |  |
 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 | 2021-12-06 |  |
 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 | 2021-12-06 | 2023-02-18 |
@@ -190,6 +190,7 @@
 | [Ti Kabrit](https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ti Kabrit](https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK) | 2:41 | 2023-02-17 |  |
 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 | 2021-12-06 |  |
 | [Tonm Tonm](https://open.spotify.com/track/1WvbHRemlLGWYg4hm320U6) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [Dread Shoodly](https://open.spotify.com/artist/2cM6V68tHgDqZrkLYU8XTE) | [Tonm Tonm](https://open.spotify.com/album/2tvzTfdkKLEoJZcXqHwlKv) | 3:13 | 2021-12-06 | 2023-02-18 |
+| [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 | 2023-08-11 |  |
 | [Touche'm](https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa) | [Touche'm](https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H) | 3:32 | 2021-12-06 | 2023-02-18 |
 | [Tous Ces Détails](https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD) | 2:50 | 2023-03-17 |  |
 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 | 2021-12-06 |  |

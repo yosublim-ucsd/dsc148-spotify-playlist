@@ -4,7 +4,7 @@
 
 > Con todo el sabor de la vitamina G.
 
-144 songs - 8 hr 1 min
+145 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Ramito De Violetas](https://open.spotify.com/track/2IT6VVdTU4PT8hT4GTA6eg) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Primavera Bailando Quebraditas](https://open.spotify.com/album/7mygVUwyrmGlBekBsqxDCj) | 3:32 | 2021-09-09 | 2022-11-13 |
 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2021-09-09 |  |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2021-09-09 | 2023-04-11 |
-| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2022-03-07 |  |
+| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2022-03-07 | 2023-08-12 |
+| [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-04-10 |  |
 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 | 2022-03-07 | 2022-07-29 |
 | [Sangoloteadito](https://open.spotify.com/track/59Mef3D20yXBdqXahLv3AO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Las Retro Chingonas: Las Favoritas de Mamá](https://open.spotify.com/album/7fFOroJrce5OZ6JS5dYvcs) | 3:02 | 2022-03-07 | 2022-11-13 |
 | [Sentimental](https://open.spotify.com/track/1dHAzT7wMXTpJU1Yo0IpaE) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Ojos Verdes](https://open.spotify.com/album/7I7vlUn0tLotod826zPFF6) | 2:47 | 2021-09-09 | 2022-11-13 |

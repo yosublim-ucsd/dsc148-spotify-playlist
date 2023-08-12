@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-560 songs - 1 day 1 hr 41 min
+561 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [ONE NIGHT STAND](https://open.spotify.com/track/4r4elMbKSh5xpHHlyepogf) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [ONE NIGHT STAND](https://open.spotify.com/album/21M5jk3ITk4J3bAh9BLQ7A) | 3:04 | 2021-11-16 | 2022-02-19 |
 | [ONE PUNCH](https://open.spotify.com/track/6LN15vwkSE1ZiA8IdBjl7k) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [ONE PUNCH](https://open.spotify.com/album/06qAr8048ptTbaxUNvWHOz) | 2:25 | 2021-11-16 | 2022-02-26 |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2022-05-19 | 2022-06-04 |
-| [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-04-04 |  |
+| [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-04-04 | 2023-08-12 |
+| [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-04-04 |  |
 | [Over & Done](https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Over & Done](https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu) | 2:01 | 2023-02-03 |  |
 | [OVER AGAIN](https://open.spotify.com/track/3EWOqfBTQyh8CujYZ7ePHL) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [OVER AGAIN](https://open.spotify.com/album/6k8DYfBzV2K8cozvyPzHmw) | 2:30 | 2023-07-07 |  |
 | [Over Love](https://open.spotify.com/track/2wYiT4R6LsAkeqxUUFpsnJ) | [Jay Kayze](https://open.spotify.com/artist/4QRKefL0nuGK0Wwou56ltj) | [Over Love](https://open.spotify.com/album/5lQ2Vn4iAM2NbNaaQW8AIU) | 1:22 | 2023-04-07 | 2023-06-17 |

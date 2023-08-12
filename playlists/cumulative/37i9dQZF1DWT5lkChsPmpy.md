@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-443 songs - 19 hr 45 min
+445 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-09-02 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-11-10 |  |
 | [Starlight](https://open.spotify.com/track/2yUZCS5EZcYntD023zbKEw) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Starlight](https://open.spotify.com/album/2NXOFQvcObzmqBwFulkPmb) | 2:20 | 2022-07-08 |  |
+| [State of Consciousness](https://open.spotify.com/track/3m5Britq8BKxzcRpiaIk71) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [State of Consciousness](https://open.spotify.com/album/4SaWWICr6sZWlaJgv7X05m) | 1:48 | 2023-08-11 |  |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-04-07 |
 | [Sunday Adventures](https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Sunday Adventures](https://open.spotify.com/album/79a2OpVBeeAfdtDi3jm2ic) | 3:09 | 2022-02-10 |  |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2021-11-10 |  |
@@ -391,6 +392,7 @@
 | [T T T](https://open.spotify.com/track/6ViihlNChcSkC2L4MoGEJ7) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:18 | 2022-04-05 | 2023-04-07 |
 | [Take a Breather](https://open.spotify.com/track/6rZT5UZgYh6j57HgTZbK8x) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Take a Breather](https://open.spotify.com/album/5HumVeclR4kLqN2oy38KPk) | 2:32 | 2023-06-23 |  |
 | [Teardrops](https://open.spotify.com/track/1bEbG97rrg2dwJvoZmvvRc) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Teardrops](https://open.spotify.com/album/4VgzapVUrLeXYUD2VXdf5d) | 1:54 | 2023-01-20 | 2023-07-29 |
+| [Terminus](https://open.spotify.com/track/0BbrZBVVUqCoTmXqVuu51Z) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS) | [Terminus](https://open.spotify.com/album/6nVqW8PZWP65AcP7j3MDB0) | 2:34 | 2023-08-11 |  |
 | [The catch](https://open.spotify.com/track/2oDUcv2j140hzwPeZUKMWn) | [Naken.](https://open.spotify.com/artist/6MASa6n2anhamIe2oJnD4v) | [The catch](https://open.spotify.com/album/0SRmSvP5j5iRF4SMYwY2dC) | 1:51 | 2022-04-15 | 2023-07-29 |
 | [The Dome](https://open.spotify.com/track/5wH6kAf9biVp1MSGuHku3v) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [The Dome](https://open.spotify.com/album/7DkFLfITAjSI3fRzKcWr2T) | 2:06 | 2023-05-22 |  |
 | [The Ethereal](https://open.spotify.com/track/0SX89QeyR4Pvberfp2zA4z) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [The Ethereal](https://open.spotify.com/album/4mbpPhabxOkZt15ttkuIad) | 4:50 | 2022-08-19 | 2023-05-06 |

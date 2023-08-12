@@ -2,9 +2,9 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Idreesi
+> Alternative Arabic songs\. Cover: Autostrad
 
-165 songs - 10 hr 12 min
+166 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Moonlight](https://open.spotify.com/track/77sfcW5VjDAbZwmdIqCKKb) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Migrant Birds](https://open.spotify.com/album/1zzwQXBB4wiKEilH8N3w8M) | 3:57 | 2023-04-23 | 2023-05-31 |
 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 | 2021-12-23 | 2023-04-24 |
 | [Nas](https://open.spotify.com/track/5z3fSB7leR1hD07MVP7gh7) | [Jeries Babish](https://open.spotify.com/artist/0aSZXNXy1sFJSIrJkaau8S) | [Nas](https://open.spotify.com/album/1DXAfjEtsz5kzDMjdTJ5q6) | 3:04 | 2023-04-23 |  |
+| [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 | 2023-08-11 |  |
 | [Nazel Al Ghor](https://open.spotify.com/track/74LSkGNytaURvW5K4K7UwQ) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:28 | 2023-04-23 | 2023-05-31 |
 | [Nehayat El Hakawy](https://open.spotify.com/track/5y2CUolrd9Qjrb7lyEuQ3b) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 2:40 | 2021-12-23 | 2022-04-08 |
 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 | 2021-12-23 |  |

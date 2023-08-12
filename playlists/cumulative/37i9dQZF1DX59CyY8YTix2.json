@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "JUNE e.p.",
+        "url": "https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C"
+      },
+      "artists": [
+        {
+          "name": "Nagakumo",
+          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189936,
+      "name": "About My Love",
+      "url": "https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5"
+    },
+    {
+      "album": {
         "name": "ADDITIONAL LEMON",
         "url": "https://open.spotify.com/album/6LeBXFaFI3LzlGAlPliToC"
       },
@@ -3792,24 +3810,6 @@
       "duration_ms": 258428,
       "name": "Jun Bride",
       "url": "https://open.spotify.com/track/2ZkIaIzNRR6P29fFBMwyYY"
-    },
-    {
-      "album": {
-        "name": "JUNE e.p.",
-        "url": "https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C"
-      },
-      "artists": [
-        {
-          "name": "Nagakumo",
-          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
-        }
-      ],
-      "date_added": "2023-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189936,
-      "name": "June is about love",
-      "url": "https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5"
     },
     {
       "album": {

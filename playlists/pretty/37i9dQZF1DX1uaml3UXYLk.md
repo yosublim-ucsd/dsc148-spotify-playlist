@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,354 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,411 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,22 +18,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 8 | [Buenos Aires Bound](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [Buenos Aires Bound](https://open.spotify.com/album/3wvvETVls0zK62Op0KeWID) | 4:20 |
 | 9 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 |
 | 10 | [Get a move on](https://open.spotify.com/track/0ZbFzJKy4WKUagLJzJNLzT) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Get a move on](https://open.spotify.com/album/3lhXHBKUEsoxrJWhDAYav5) | 3:26 |
-| 11 | [never ever ever](https://open.spotify.com/track/2MnxU9rlvV1MLATXGPB6xo) | [Ollton](https://open.spotify.com/artist/6LCyJL9b14HUBcAt8A3Wbk) | [never ever ever](https://open.spotify.com/album/79jO39cMwRC9P5BnJagqTF) | 3:25 |
-| 12 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 |
-| 13 | [By the Bungalow](https://open.spotify.com/track/22c5aHwrXkmBTnCbkkinkL) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [By the Bungalow](https://open.spotify.com/album/1BqYiUGzPivVNkPJ3bqgsN) | 2:45 |
-| 14 | [101](https://open.spotify.com/track/3lOOJBOJsE9kJ4oTnBRx43) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [101](https://open.spotify.com/album/2dpCyHIjggh3TjXcti85pO) | 3:05 |
-| 15 | [Sunset Coffee](https://open.spotify.com/track/2l2guPlaFyjEduatSMuHTV) | [ROSUNDA](https://open.spotify.com/artist/3kCAlLEkUjQl0hXPZGzuBf) | [Sunset Coffee](https://open.spotify.com/album/1lPneEQGppU65I6ktl9dq8) | 2:53 |
-| 16 | [play my mix](https://open.spotify.com/track/4OlUclPAIGIgHEjOD2OpK4) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [play my mix](https://open.spotify.com/album/1AJQz8QcUjOhlwqw4QrpY6) | 2:50 |
-| 17 | [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 |
-| 18 | [Loner](https://open.spotify.com/track/4NAotGx7FH4Q014Eyuub6j) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [Loner](https://open.spotify.com/album/44XvxFk642JZL6e7nN1I6v) | 2:37 |
-| 19 | [Maison](https://open.spotify.com/track/060YtWGbCO961oFFSYmc01) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Maison](https://open.spotify.com/album/6zfQ2NE0sTuzia4AmEXM6h) | 2:16 |
-| 20 | [One Thing Left](https://open.spotify.com/track/4yan0C3Y58BK6Upn2NRtSw) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [One Thing Left](https://open.spotify.com/album/6c4COsJIxqHzNXWmZoQjZj) | 5:54 |
-| 21 | [motor](https://open.spotify.com/track/70t40X77HO7jtb2O8Y1ZDk) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [motor](https://open.spotify.com/album/6AxmADQcHlPPYY2G4py0AX) | 2:19 |
-| 22 | [On A Catwalk](https://open.spotify.com/track/7uES7L7Bw2VCAS3zwickGv) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [On A Catwalk](https://open.spotify.com/album/3J71BkSQpWHM4tLRMVlUZg) | 3:07 |
-| 23 | [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 |
-| 24 | [Bloom](https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2) | [VLD](https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu) | [Bloom](https://open.spotify.com/album/4eHDGV1xKPZkQwssDVxp9T) | 3:13 |
-| 25 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 |
-| 26 | [Love funk](https://open.spotify.com/track/73t9mulHQgjAKRccY2qVTf) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Love funk](https://open.spotify.com/album/3ZEKvm1gd0UrBq6lyuRSTD) | 2:02 |
+| 11 | [Lemonade Skies](https://open.spotify.com/track/4h6zisKrFQ0XKaPluw7Uie) | [Stadión](https://open.spotify.com/artist/5IEpj90HYFJAnJB6UN00Al) | [Lemonade Skies](https://open.spotify.com/album/77WGNUNq4Wmc2HgtOWlSh2) | 2:32 |
+| 12 | [never ever ever](https://open.spotify.com/track/2MnxU9rlvV1MLATXGPB6xo) | [Ollton](https://open.spotify.com/artist/6LCyJL9b14HUBcAt8A3Wbk) | [never ever ever](https://open.spotify.com/album/79jO39cMwRC9P5BnJagqTF) | 3:25 |
+| 13 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 |
+| 14 | [By the Bungalow](https://open.spotify.com/track/22c5aHwrXkmBTnCbkkinkL) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [By the Bungalow](https://open.spotify.com/album/1BqYiUGzPivVNkPJ3bqgsN) | 2:45 |
+| 15 | [101](https://open.spotify.com/track/3lOOJBOJsE9kJ4oTnBRx43) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [101](https://open.spotify.com/album/2dpCyHIjggh3TjXcti85pO) | 3:05 |
+| 16 | [Sunset Coffee](https://open.spotify.com/track/2l2guPlaFyjEduatSMuHTV) | [ROSUNDA](https://open.spotify.com/artist/3kCAlLEkUjQl0hXPZGzuBf) | [Sunset Coffee](https://open.spotify.com/album/1lPneEQGppU65I6ktl9dq8) | 2:53 |
+| 17 | [play my mix](https://open.spotify.com/track/4OlUclPAIGIgHEjOD2OpK4) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [play my mix](https://open.spotify.com/album/1AJQz8QcUjOhlwqw4QrpY6) | 2:50 |
+| 18 | [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 |
+| 19 | [Loner](https://open.spotify.com/track/4NAotGx7FH4Q014Eyuub6j) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [Loner](https://open.spotify.com/album/44XvxFk642JZL6e7nN1I6v) | 2:37 |
+| 20 | [Maison](https://open.spotify.com/track/060YtWGbCO961oFFSYmc01) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Maison](https://open.spotify.com/album/6zfQ2NE0sTuzia4AmEXM6h) | 2:16 |
+| 21 | [One Thing Left](https://open.spotify.com/track/4yan0C3Y58BK6Upn2NRtSw) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [One Thing Left](https://open.spotify.com/album/6c4COsJIxqHzNXWmZoQjZj) | 5:54 |
+| 22 | [motor](https://open.spotify.com/track/70t40X77HO7jtb2O8Y1ZDk) | [Androm](https://open.spotify.com/artist/4e0hkGJ86D7I16d4vBnx3j) | [motor](https://open.spotify.com/album/6AxmADQcHlPPYY2G4py0AX) | 2:19 |
+| 23 | [On A Catwalk](https://open.spotify.com/track/7uES7L7Bw2VCAS3zwickGv) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [On A Catwalk](https://open.spotify.com/album/3J71BkSQpWHM4tLRMVlUZg) | 3:07 |
+| 24 | [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 |
+| 25 | [Bloom](https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2) | [VLD](https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu) | [Bloom](https://open.spotify.com/album/4eHDGV1xKPZkQwssDVxp9T) | 3:13 |
+| 26 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 |
 | 27 | [Under The Surface](https://open.spotify.com/track/25Ffwsr5RddPMROaAlNOgG) | [Faux Facet](https://open.spotify.com/artist/7tG7d82cOk5x0WkNAL2TZk) | [Under The Surface](https://open.spotify.com/album/0CK5iTfocAhwj3BkVbxSxx) | 2:48 |
 | 28 | [Winter Sun](https://open.spotify.com/track/2dnqHctmOYFgLGs8AM6vKF) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Winter Sun](https://open.spotify.com/album/37SUbcSIk3X5xxfVQYeBlC) | 2:14 |
 | 29 | [Blooms](https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Blooms](https://open.spotify.com/album/5PSwbfxUBMbyVm33UJbs6U) | 3:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 149 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 150 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 
-Snapshot ID: `MCxlYmNhMDY5ZmQzNTlkMDExODlmYjE4NDE2OGVjNDBhZmYxYTNhNTM1`
+Snapshot ID: `MCxjNDllZWRkZWQ1NmM2NDY5OGFkNzgwZjEzNjUwNzM5OWYyYTk4ZDM3`

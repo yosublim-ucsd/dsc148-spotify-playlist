@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Geese
 
-1,022 songs - 2 day 10 hr 15 min
+1,027 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Hello, Hi](https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Hello, Hi](https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx) | 2:46 | 2022-04-29 | 2022-05-18 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 | 2023-05-20 |
 | [Here](https://open.spotify.com/track/7N0QvvRIhXZ0bT4uSkH9up) | [Meyru](https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB) | [Here](https://open.spotify.com/album/7DKTCusn3ob9PhbY3veVgL) | 4:04 | 2023-04-28 | 2023-06-16 |
+| [Here Forever](https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Here Forever](https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh) | 2:20 | 2023-08-11 |  |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-23 | 2023-01-21 |
 | [HEY BESTIE](https://open.spotify.com/track/4wpt4Ce3g5KMR7CJzE4JRu) | [Neanderthal](https://open.spotify.com/artist/7AV66Eu1XevhHitr3MEama) | [HEY BESTIE](https://open.spotify.com/album/1gPDKhz51xxY4Kmrl1IF1i) | 2:41 | 2022-08-26 | 2023-01-21 |
@@ -728,6 +729,7 @@
 | [Radiohead](https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR) | 3:17 | 2021-12-10 | 2022-04-21 |
 | [Rain So Hard](https://open.spotify.com/track/4fU0miO1uP9bESZotV0JfS) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [Rain So Hard](https://open.spotify.com/album/2Dgk2bh8D0kOXXXNFPfrSL) | 4:50 | 2023-06-15 |  |
 | [Raincoat](https://open.spotify.com/track/4dnCiQAGqygYUroZtTvdtG) | [Milk Jennings](https://open.spotify.com/artist/6iRrc6eVVaD10EiFHEB4gJ) | [Head Talk](https://open.spotify.com/album/0MKkkUxQUWuRHTULxGwSUQ) | 4:08 | 2022-01-28 | 2022-03-05 |
+| [rainwater on the windowsill](https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [there is one place we're all going](https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq) | 3:08 | 2023-08-11 |  |
 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 | 2023-07-07 |  |
 | [RAPID & COMPLETE RECOVERY](https://open.spotify.com/track/434j2XfgpKRzKFbE9tnxUH) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ) | 4:01 | 2021-04-13 | 2022-04-29 |
 | [Rather B Dead](https://open.spotify.com/track/0BvwY3gLswQKxK3yvgWpw2) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Time Is Elastic](https://open.spotify.com/album/0ccmoGBiZzB3B81rUC7zpH) | 3:01 | 2023-05-05 | 2023-06-10 |
@@ -761,12 +763,13 @@
 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 | 2023-05-19 | 2023-06-16 |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-28 | 2022-04-27 |
 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 | 2022-09-16 | 2023-01-21 |
-| [Sarah](https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah](https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi) | 2:42 | 2023-06-30 |  |
+| [Sarah](https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah](https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi) | 2:42 | 2023-06-30 | 2023-08-12 |
 | [Satan](https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6) | 3:16 | 2022-03-04 | 2022-04-29 |
 | [Say](https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Say](https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49) | 2:32 | 2023-05-05 | 2023-06-16 |
 | [Say It](https://open.spotify.com/track/30JVtfd4ayV6g4OylyesV5) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Say It](https://open.spotify.com/album/18iJRLRwdzvZAzeb82ApaT) | 3:14 | 2022-01-28 | 2022-04-26 |
 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 | 2022-09-23 | 2023-03-04 |
 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-10 | 2023-07-22 |
+| [Scene for an Exit](https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Scene for an Exit](https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF) | 2:39 | 2023-08-11 |  |
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-21 |  |
 | [Secrecies \- feat\. Sam Austins](https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Secrecies \(feat\. Sam Austins\)](https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl) | 2:18 | 2023-01-13 | 2023-02-15 |
 | [Self Control](https://open.spotify.com/track/7K0T7UwNqY46WC0MD6fEhr) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Self Control](https://open.spotify.com/album/6fARki7lNpZLU5evUM2gbn) | 3:02 | 2023-03-10 | 2023-06-16 |
@@ -858,6 +861,7 @@
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-03-05 | 2022-04-29 |
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-11 | 2022-04-18 |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-16 | 2022-03-22 |
+| [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-11 |  |
 | [Sun In](https://open.spotify.com/track/3Rz9sSI0He1TfqcvQliaA2) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:24 | 2023-06-15 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-06-02 | 2022-04-29 |
 | [Sunrise](https://open.spotify.com/track/1Ki3xQa6gNxupTmKdYgfsF) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Sunrise](https://open.spotify.com/album/6Dc4zmrfn6OKOWVCwALF7S) | 2:15 | 2021-03-05 | 2022-04-29 |
@@ -965,6 +969,7 @@
 | [Urgent Care](https://open.spotify.com/track/3Df2PIo5qxZZpb1wgXOiuL) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Urgent Care](https://open.spotify.com/album/25AzgKCXODbUo0YqXnlHVQ) | 2:17 | 2021-06-11 | 2022-04-22 |
 | [Utah](https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Utah](https://open.spotify.com/album/3hWfrYNExzE25TccvjpHEC) | 2:49 | 2022-12-16 | 2023-03-04 |
 | [Utopia Planet](https://open.spotify.com/track/5N6R56riaRTpFsQ8XNzVdr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Utopia Planet](https://open.spotify.com/album/6tum4O28Ck83eZ8DSvof7M) | 3:57 | 2021-10-08 | 2022-04-29 |
+| [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 | 2023-08-11 |  |
 | [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 | 2022-05-13 | 2022-08-06 |
 | [Vampires](https://open.spotify.com/track/570aJug2ngcmKkXiwepoAP) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Sportswear](https://open.spotify.com/album/2JNvdQC3wLDgvCefjFXAfQ) | 3:52 | 2022-04-29 | 2022-08-27 |
 | [Vanishing Coin](https://open.spotify.com/track/7uVeLwQeth846ImdUx1Xk7) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [Vanishing Coin](https://open.spotify.com/album/7B9zp7BG97OOKrCCsLVmlW) | 2:12 | 2022-09-23 | 2022-10-08 |
@@ -1027,7 +1032,7 @@
 | [Your Best Friend](https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Your Best Friend](https://open.spotify.com/album/1dXDp9G7LPACrw2H3tOtxA) | 3:02 | 2021-06-02 | 2022-04-20 |
 | [Your Love](https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Your Love](https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r) | 4:15 | 2023-01-20 | 2023-06-16 |
 | [your love is a disaster](https://open.spotify.com/track/5JTTV0DgmgNgtbl3y3q6g1) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet EP](https://open.spotify.com/album/44cz2epLj8bFlDHPxU16rY) | 3:33 | 2022-01-28 | 2022-04-29 |
-| [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 | 2023-06-09 |  |
+| [Your Mother's Name](https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Your Mother's Name](https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U) | 3:51 | 2023-06-09 | 2023-08-12 |
 | [yrstruly \- CFCF Scream Mix](https://open.spotify.com/track/6br2IoQARHVcYM4TsYMU0f) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Enemy Remixed](https://open.spotify.com/album/1lZYJDlOuXYsddD8OsGTOc) | 5:11 | 2022-05-27 | 2022-06-19 |
 | [‎vacation](https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎vacation](https://open.spotify.com/album/1Y7N29NscyAvomw7yYrgKz) | 3:50 | 2022-12-02 | 2023-03-04 |
 

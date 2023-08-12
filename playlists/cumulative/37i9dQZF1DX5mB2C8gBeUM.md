@@ -4,12 +4,13 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-375 songs - 18 hr 54 min
+377 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Real](https://open.spotify.com/track/7teglbxzIoSAAVUptXThzh) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [BRAEDNLANCE](https://open.spotify.com/artist/6cw2NVW7boBwPRUp6vlqFC) | [4 Real](https://open.spotify.com/album/61Ng0yrgvgwoEkLIpjG71g) | 3:00 | 2022-06-10 | 2022-09-17 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-01 | 2022-10-02 |
+| [8 to infinity](https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [8 to infinity](https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj) | 2:38 | 2023-08-11 |  |
 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 | 2022-04-01 | 2023-02-02 |
 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 | 2023-06-30 |  |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-10 | 2022-07-16 |
@@ -200,6 +201,7 @@
 | [Intertwined](https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Intertwined](https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 | 2022-07-22 | 2022-09-12 |
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 | 2023-01-04 |
+| [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 | 2023-08-11 |  |
 | [Jenny's Song](https://open.spotify.com/track/7yY0HunOjMwS2ayLprriyT) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Jenny's Song](https://open.spotify.com/album/2RKCEj13IUvnlx3gA9wqwK) | 4:42 | 2023-05-26 |  |
 | [JOSIE \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6BHcMNbc3ZMU4aVjWeluJb) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Monte Nido](https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl) | 3:47 | 2021-12-10 | 2022-06-25 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-10 | 2022-02-26 |

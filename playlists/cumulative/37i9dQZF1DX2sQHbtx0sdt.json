@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Burna Boy",
+  "description": "New and trending hip-hop from around the world. Cover: J Hus",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Mami (feat. BIA)",
+        "url": "https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178398,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN"
+    },
+    {
+      "album": {
         "name": "Mandem",
         "url": "https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga"
       },
@@ -624,7 +646,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 182684,
       "name": "No More",
       "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
@@ -831,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Ring Ring (feat. Gold Fang)",
+        "url": "https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        },
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147085,
+      "name": "Ring Ring (feat. Gold Fang)",
+      "url": "https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv"
+    },
+    {
+      "album": {
         "name": "Saiyan",
         "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
       },
@@ -1010,7 +1054,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 142183,
       "name": "We Too Deep",
       "url": "https://open.spotify.com/track/7bL8Qo1T9oULVfDPDYLg90"

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 387230,
+  "num_followers": 387304,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjcxMjZjZTI4M2RkMjUyODI1OGRkZjRhNDE2NjFhMzA2ZWNiMWE4",
+  "snapshot_id": "MCw0ZTI1MjIyNTEyNmViYTc3NmRlNTc5MjllMmY0YjM1MWJkYmExMWU0",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -645,26 +645,6 @@
       "url": "https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Rumble Jam - Big Band and Jazz Themes",
-        "url": "https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Cotti",
-          "url": "https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa"
-        },
-        {
-          "name": "Gabriel Saban",
-          "url": "https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G"
-        }
-      ],
-      "duration_ms": 148166,
-      "name": "The Night Is Ours",
-      "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Vintage Big Band",
@@ -683,6 +663,26 @@
       "duration_ms": 147891,
       "name": "Speakeasy Swagger",
       "url": "https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Rumble Jam - Big Band and Jazz Themes",
+        "url": "https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Cotti",
+          "url": "https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa"
+        },
+        {
+          "name": "Gabriel Saban",
+          "url": "https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G"
+        }
+      ],
+      "duration_ms": 148166,
+      "name": "The Night Is Ours",
+      "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Everybody's Talking (feat. Greg Blackman)",
-        "url": "https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg"
-      },
-      "artists": [
-        {
-          "name": "Dutty Moonshine Big Band",
-          "url": "https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W"
-        }
-      ],
-      "duration_ms": 176529,
-      "name": "Everybody's Talking (feat. Greg Blackman)",
-      "url": "https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "I Can't Turn You Loose",
@@ -863,6 +847,22 @@
       "duration_ms": 314973,
       "name": "I Can't Turn You Loose",
       "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Everybody's Talking (feat. Greg Blackman)",
+        "url": "https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg"
+      },
+      "artists": [
+        {
+          "name": "Dutty Moonshine Big Band",
+          "url": "https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W"
+        }
+      ],
+      "duration_ms": 176529,
+      "name": "Everybody's Talking (feat. Greg Blackman)",
+      "url": "https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc"
     },
     {
       "added_at": "2021-02-26 05:01:00",

@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-101 songs - 5 hr 54 min
+102 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [B.$.R](https://open.spotify.com/track/2BXApsC0wJaepCDli5FYja) | [Confesser](https://open.spotify.com/artist/3oAPMZYDVvAjaYi5FIwZJm), [Bess Maze](https://open.spotify.com/artist/7uU0VNTeJ6DUiLPQ3M0cRX) | [B.$.R](https://open.spotify.com/album/4yNJNMivAMcO7LwULQC7sH) | 4:42 | 2021-12-17 | 2022-07-23 |
 | [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 | 2021-12-17 | 2023-06-10 |
 | [bad vibes "/](https://open.spotify.com/track/5qRKhuxccR1inzrWEX0Dqs) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [Treinando com amor](https://open.spotify.com/album/5vIVjQUehmCZ3jhMlTGFQ7) | 3:00 | 2022-09-09 |  |
+| [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2023-08-11 |  |
 | [Baktun](https://open.spotify.com/track/0TGjEiQuV7acZqIrk6zNHd) | [Danka](https://open.spotify.com/artist/6DixxmAXQtxGwPaHxHlKQ0) | [Baktun](https://open.spotify.com/album/2IUXMeZe5CtP88veiHreLt) | 5:18 | 2022-03-18 |  |
 | [Body Rock](https://open.spotify.com/track/3SNBVd4MNVfabxURx1Ac32) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6Svg3u9Bd7XnoXFMKkXIoT) | 2:56 | 2022-09-09 |  |
 | [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 | 2021-12-17 | 2023-03-31 |

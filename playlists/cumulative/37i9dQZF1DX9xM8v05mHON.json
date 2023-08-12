@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 120000,
       "name": "Coffee Shop Ambience (Version 1) [Cafe Cafeteria Restaurant] [Background Ambient Noise Sound Effect]",
       "url": "https://open.spotify.com/track/39PcnsTzbQaxm6V2WYcpAm"
@@ -2134,6 +2134,24 @@
       "duration_ms": 165983,
       "name": "Roast & Relax: Unwind at Tokyo's Coffee Oasis",
       "url": "https://open.spotify.com/track/4SUsUTkVqHRqn2AdJVYZ9o"
+    },
+    {
+      "album": {
+        "name": "Roasted Temptations: Parisian Pleasures in Berlin",
+        "url": "https://open.spotify.com/album/5fqIDl7pP5K7Rg1x64m7bl"
+      },
+      "artists": [
+        {
+          "name": "Athmospherical FX",
+          "url": "https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175077,
+      "name": "Roasted Temptations: Parisian Pleasures in Berlin",
+      "url": "https://open.spotify.com/track/22KMLTHok5A5AZxrvYrLcy"
     },
     {
       "album": {

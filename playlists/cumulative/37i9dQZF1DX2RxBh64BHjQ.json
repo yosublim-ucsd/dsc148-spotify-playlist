@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 157492,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7IKnEGBksiu4UWv4HOYrAH"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 198385,
       "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
       "url": "https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 124808,
       "name": "B.T.W",
       "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
@@ -6191,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181429,
+      "name": "Equal Dirt",
+      "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
+    },
+    {
+      "album": {
         "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP"
       },
@@ -9957,6 +9975,24 @@
     },
     {
       "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
       },
@@ -10362,7 +10398,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 197439,
       "name": "Jaw Morant",
       "url": "https://open.spotify.com/track/0fpHeEk20cY0bANLJVVPsP"
@@ -11134,6 +11170,32 @@
       "duration_ms": 158158,
       "name": "LABELS CALLIN'",
       "url": "https://open.spotify.com/track/19s7W71y7IZDAn6X2mnCqr"
+    },
+    {
+      "album": {
+        "name": "Lamborghini Boys (with Tay Keith and Nardo Wick)",
+        "url": "https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143743,
+      "name": "Lamborghini Boys (with Tay Keith and Nardo Wick)",
+      "url": "https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj"
     },
     {
       "album": {
@@ -11982,6 +12044,24 @@
       "duration_ms": 177840,
       "name": "Look Ma I Did It",
       "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "album": {
@@ -16417,6 +16497,24 @@
     },
     {
       "album": {
+        "name": "Who Is Fatt",
+        "url": "https://open.spotify.com/album/0Yp9JLAZRcOgHNQj0s0c5X"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110079,
+      "name": "Pimp Problems",
+      "url": "https://open.spotify.com/track/46yfBnOHB1Nhxn4rtVAJ25"
+    },
+    {
+      "album": {
         "name": "In My Sins",
         "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
       },
@@ -16854,7 +16952,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -17665,6 +17763,24 @@
     },
     {
       "album": {
+        "name": "Go Li Rye",
+        "url": "https://open.spotify.com/album/02WIswjyW1B4EDbzx7bmaD"
+      },
+      "artists": [
+        {
+          "name": "Li Rye",
+          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132112,
+      "name": "Rental Cars (RADARADA)",
+      "url": "https://open.spotify.com/track/5m9aOUiVR4oJE9T53QEda1"
+    },
+    {
+      "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
       },
@@ -17796,7 +17912,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 121494,
       "name": "Rich Baby Mama",
       "url": "https://open.spotify.com/track/25zgoxL9MmTCVpWPiN8Lk9"
@@ -18280,6 +18396,28 @@
       "duration_ms": 130000,
       "name": "Roll Up Hot",
       "url": "https://open.spotify.com/track/6uGe0mI2O24OYW6hkUy8DZ"
+    },
+    {
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/5WedNs0Uo3gAltQqhGSTGv"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/0OjRGpdugcfIUyhooQOekr"
     },
     {
       "album": {
@@ -20518,7 +20656,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 166400,
       "name": "Stop Going M.I.A",
       "url": "https://open.spotify.com/track/4SbIiCuEMft30y2EaxJNP6"
@@ -20634,6 +20772,28 @@
       "duration_ms": 203031,
       "name": "Summo",
       "url": "https://open.spotify.com/track/1AXB0WRiTcSQe9RbBD2Ipx"
+    },
+    {
+      "album": {
+        "name": "Sun Up / Sun Down",
+        "url": "https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "Radistarz",
+          "url": "https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "Sun Up / Sun Down",
+      "url": "https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F"
     },
     {
       "album": {
@@ -20954,7 +21114,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 210050,
       "name": "Talkin Crazy",
       "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
@@ -21243,7 +21403,7 @@
         },
         {
           "name": "NoCap",
-          "url": "https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ"
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
       "date_added": "2023-06-23",
@@ -21517,6 +21677,24 @@
     },
     {
       "album": {
+        "name": "Shades of Gloss",
+        "url": "https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136994,
+      "name": "Thicc",
+      "url": "https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM"
+    },
+    {
+      "album": {
         "name": "Third World",
         "url": "https://open.spotify.com/album/7jpH2wNSIYVsAYuR1i7PRL"
       },
@@ -21528,7 +21706,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 134400,
       "name": "Third World",
       "url": "https://open.spotify.com/track/1CHLgMdsuoyWuRipV5ab4S"
@@ -22790,6 +22968,28 @@
       "duration_ms": 167287,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0NFkmpm2jYEWqxO7bTXOBJ"
+    },
+    {
+      "album": {
+        "name": "4GOD II (Deluxe)",
+        "url": "https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186958,
+      "name": "Viral (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2HNB1KfLWpQ3i7jG8LcOLU"
     },
     {
       "album": {
@@ -24276,7 +24476,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 173458,
       "name": "WTF (feat. Polo G) - Remix",
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"

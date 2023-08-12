@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ahasaas",
+        "url": "https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165442,
+      "name": "Ahasaas",
+      "url": "https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW"
+    },
+    {
+      "album": {
         "name": "Ancient Prayer",
         "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 165454,
       "name": "Calming Waves",
       "url": "https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ"
@@ -617,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Devine Minds",
+        "url": "https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Devine Minds",
+      "url": "https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl"
+    },
+    {
+      "album": {
         "name": "Dharawi Nights",
         "url": "https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI"
       },
@@ -740,6 +776,24 @@
       "duration_ms": 230814,
       "name": "Enchanting",
       "url": "https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U"
+    },
+    {
+      "album": {
+        "name": "Endless Horizon",
+        "url": "https://open.spotify.com/album/5dVrIlRhqrf3i9Cxuw8Cxo"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121128,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/76RFgwdQlwsMi0vfA20gSV"
     },
     {
       "album": {
@@ -916,7 +970,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 229042,
       "name": "Finally at Ease",
       "url": "https://open.spotify.com/track/0flbHtYjcLkCTekTMcTbPZ"
@@ -956,6 +1010,24 @@
       "duration_ms": 200333,
       "name": "Flow",
       "url": "https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257454,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E"
     },
     {
       "album": {
@@ -1276,7 +1348,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 160000,
       "name": "Kimaya",
       "url": "https://open.spotify.com/track/2w7XVdKP6nGduoVdPl0CGR"
@@ -1330,7 +1402,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 166271,
       "name": "L'ambience",
       "url": "https://open.spotify.com/track/6g1AnzB3B4VUFlXJTzXEUE"
@@ -1409,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Light Of Purpose",
+        "url": "https://open.spotify.com/album/7fPup8POfEeT6xK3nnamVH"
+      },
+      "artists": [
+        {
+          "name": "Strangewoods",
+          "url": "https://open.spotify.com/artist/0KwJGZ4wFqLaQ5fGoC19cH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163814,
+      "name": "Light Of Purpose",
+      "url": "https://open.spotify.com/track/3ZKiF3zKAwMC0Ftjxd7tpT"
+    },
+    {
+      "album": {
         "name": "Like A Picture",
         "url": "https://open.spotify.com/album/0XloQxOCNUwH5A9cHYoNvY"
       },
@@ -1438,7 +1528,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 222916,
       "name": "Lorimar",
       "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
@@ -1460,6 +1550,24 @@
       "duration_ms": 212525,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
+    },
+    {
+      "album": {
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Lotus Garden",
+      "url": "https://open.spotify.com/track/4iDlSNw5sqmHobQFFgoNZU"
     },
     {
       "album": {
@@ -1996,7 +2104,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 211892,
       "name": "Pictures of a Floating World",
       "url": "https://open.spotify.com/track/5jDvdADyzpo7jYWDdVoY0b"
@@ -2284,7 +2392,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 142105,
       "name": "Rising Above",
       "url": "https://open.spotify.com/track/7qVMaIJNIRLVGfdFqYlnBX"
@@ -2669,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "Sojourn",
+        "url": "https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201217,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ"
+    },
+    {
+      "album": {
         "name": "Sol Rhythm",
         "url": "https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x"
       },
@@ -2756,6 +2882,24 @@
       "duration_ms": 186937,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V"
+    },
+    {
+      "album": {
+        "name": "Spirit of Now",
+        "url": "https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199117,
+      "name": "Spirit of Now",
+      "url": "https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8"
     },
     {
       "album": {
@@ -3098,7 +3242,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 630000,
       "name": "Truth",
       "url": "https://open.spotify.com/track/7gkxGreLwAq2aceljrKQMI"
@@ -3134,10 +3278,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 136403,
       "name": "Undulate",
       "url": "https://open.spotify.com/track/3VcEjU1dF3GWsOllMFChWb"
+    },
+    {
+      "album": {
+        "name": "Unending Love",
+        "url": "https://open.spotify.com/album/1WCKZu9Zq6AUlyd7tfdcgf"
+      },
+      "artists": [
+        {
+          "name": "New Height",
+          "url": "https://open.spotify.com/artist/6wKNuxO3R9Y8CWozSwouwr"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Unending Love",
+      "url": "https://open.spotify.com/track/5DbkYCqQFm8HFp6DO8VJMM"
     },
     {
       "album": {
@@ -3332,7 +3494,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 132880,
       "name": "Water",
       "url": "https://open.spotify.com/track/5hZdB74Yjz7wty1aMVkBQU"
@@ -3368,7 +3530,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 176774,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2"
@@ -3458,7 +3620,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 132306,
       "name": "Yoga Depth",
       "url": "https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46"

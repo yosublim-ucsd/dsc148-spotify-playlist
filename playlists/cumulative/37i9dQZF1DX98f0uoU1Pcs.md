@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-519 songs - 1 day 3 hr 58 min
+522 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 | 2023-05-22 |  |
 | [Cowboy](https://open.spotify.com/track/7vhd7HIEQ3Kv7RJnajhJyl) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Cowboy](https://open.spotify.com/album/1RtKHpS30vtJn5MrWx3LuB) | 2:24 | 2023-02-10 | 2023-03-11 |
 | [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-08-08 |  |
+| [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 | 2023-08-11 |  |
 | [Crack a Smile](https://open.spotify.com/track/1hhvwDhCFN6cB7Ga5KLV9k) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Crack a Smile](https://open.spotify.com/album/29kyGKjzeisWevhLjPpKfP) | 2:49 | 2021-10-07 | 2022-06-18 |
 | [Crawl!](https://open.spotify.com/track/0YO5MucxfKv80g69Y3KSRX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Crawl! \(DGG Edit\)](https://open.spotify.com/album/5pRVIb8aU8fZ6WHS1af385) | 4:20 | 2022-11-04 | 2022-11-14 |
 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 | 2021-11-12 | 2022-07-29 |
@@ -133,8 +134,9 @@
 | [Earth To Mike](https://open.spotify.com/track/2xlJm0LeXyoB73DeoDGtDS) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Here Comes More Bad News](https://open.spotify.com/album/7bREBOOMt7YTRpkl5fDjIM) | 1:30 | 2022-01-07 | 2023-01-21 |
 | [Eat Men Eat](https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Eat Men Eat](https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4) | 3:08 | 2022-06-17 | 2022-08-17 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 |  |
+| [Edge Of Teeth](https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Edge Of Teeth](https://open.spotify.com/album/24cq8kLYhfeH0tC4F6QAMa) | 4:45 | 2023-08-11 |  |
 | [Elimination Dances](https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Elimination Dances](https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5) | 3:37 | 2023-05-22 | 2023-06-03 |
-| [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 | 2023-02-13 |  |
+| [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 | 2023-02-13 | 2023-08-12 |
 | [Empires Falling](https://open.spotify.com/track/7tvqPt52eVRDgkIVYobzua) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/5xh9UiuCllBPXhDiIwn043) | 3:30 | 2022-09-19 |  |
 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 | 2023-05-22 |  |
 | [ENTITLED MAN](https://open.spotify.com/track/7Gak6IaDN5PsalA9W5TLez) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [ENTITLED MAN](https://open.spotify.com/album/49Ar7KlbIoX8XasFMYVfdp) | 2:25 | 2022-09-30 |  |
@@ -290,7 +292,7 @@
 | [Low Era \- Edit](https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 3:38 | 2021-12-03 | 2022-09-24 |
 | [Lucky Ones](https://open.spotify.com/track/6RFdhq5Eb0LvEuDAB71TZP) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [This Time Next Year \(Deluxe\)](https://open.spotify.com/album/6P3ZyijowPOvCE5EtTBHbW) | 3:07 | 2021-10-29 | 2022-01-08 |
 | [Mad About You](https://open.spotify.com/track/0g8BCsHFlRty3KnX4GEyJZ) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:26 | 2022-04-01 | 2022-08-06 |
-| [Madge's Declaration](https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/22UTxZIaIJzdf1QfMl5AQO) | 3:10 | 2022-11-04 |  |
+| [Madge's Declaration](https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Madge's Declaration](https://open.spotify.com/album/22UTxZIaIJzdf1QfMl5AQO) | 3:10 | 2022-11-04 | 2023-08-12 |
 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 | 2023-03-10 | 2023-05-23 |
 | [Make Way](https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Formal Growth In The Desert](https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB) | 2:57 | 2023-06-02 |  |
 | [Manhattan Youth](https://open.spotify.com/track/1oPuvI6N2TDeynwrqT1K7F) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Manhattan Youth](https://open.spotify.com/album/3JpYCRNpgUuh4qvp38O5Gr) | 3:41 | 2022-08-16 |  |
@@ -366,6 +368,7 @@
 | [Pringle Street](https://open.spotify.com/track/4VodRXNcHJFVsrek9QpAB0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [This Place You Know](https://open.spotify.com/album/4clVVRmUrtFtND1sLCJxOY) | 2:59 | 2022-01-07 | 2022-03-12 |
 | [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 | 2023-01-27 | 2023-03-18 |
 | [Prisoners](https://open.spotify.com/track/4i2GTbn2CIPpSa6ml9ZXd9) | [Borbón Pink](https://open.spotify.com/artist/4Wxc9NqZrEOCQKXvIm7zIS) | [Prisoners](https://open.spotify.com/album/1JSEtrxow4uLGps2Otecdf) | 2:44 | 2022-08-26 | 2022-09-24 |
+| [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 | 2023-08-11 |  |
 | [Psychic Dance Routine](https://open.spotify.com/track/79jxS5Li1Xm8VfwmgUiAAC) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 2:49 | 2023-05-22 |  |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-10-07 | 2022-01-08 |
 | [Pukebox](https://open.spotify.com/track/5KUVspHfE0vmCP9vvCHXf9) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pukebox](https://open.spotify.com/album/4SnSwngfx8loFFx8wOzEiM) | 3:08 | 2021-10-07 | 2022-04-29 |
@@ -509,7 +512,7 @@
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-03-11 | 2023-05-23 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-23 | 2023-04-15 |
 | [Weights](https://open.spotify.com/track/0GGqqihnFeI2asyfdHhXmV) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Weights](https://open.spotify.com/album/2xiG70X5SAFIb8YOtMPpMA) | 2:36 | 2022-01-07 | 2022-03-12 |
-| [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-04-07 |  |
+| [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-04-07 | 2023-08-12 |
 | [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 | 2022-02-11 | 2023-01-06 |
 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-02-24 | 2023-05-24 |
 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-22 |  |

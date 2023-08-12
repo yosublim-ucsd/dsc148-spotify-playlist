@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: PaulWetz
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,876 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,031 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Volare](https://open.spotify.com/track/72SNj994MwjBgaT2NAZefP) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Volare](https://open.spotify.com/album/1vX4QbpYryLXksUKdNZ0N4) | 3:38 |
 | 75 | [Tempelhof](https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Tempelhof](https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE) | 2:53 |
 
-Snapshot ID: `MCwyOTFmZGVjZWE5OWY2NjliYWIzOGM3YzkxOTU4NDZmMTMxOGMwNTg3`
+Snapshot ID: `MCwwMThmN2ZmYmQ4Nzc3OTlkMGI2ZWU0OGM4MzJlM2IzNzdmNGIyY2Ux`

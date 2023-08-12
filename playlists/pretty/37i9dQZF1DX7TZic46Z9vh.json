@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 39812,
+  "num_followers": 39869,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2M3MDJjMjMyMDBlY2VhZDAxZTk1ZDQwYWM2ZDc2ZTRkMTVjNzdh",
+  "snapshot_id": "MCxhMjg2ZTJiNzUyN2Q4MDdiZDI2ZWI3MjRhNzVjYWIzZTQwNmUzYzcz",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
-      },
-      "artists": [
-        {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 187611,
       "name": "Roaming",
       "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+      },
+      "artists": [
+        {
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
     },
     {
       "added_at": "2021-09-06 15:34:44",

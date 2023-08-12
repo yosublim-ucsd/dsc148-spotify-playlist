@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent.
 
-167 songs - 10 hr 2 min
+169 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ave](https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 4:06 | 2023-07-21 |  |
 | [Ave](https://open.spotify.com/track/6nzvFncXdAOLTAwGIPcq3Y) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Ave](https://open.spotify.com/album/3kbP8SZyPKeG1hu6yqDyGF) | 4:06 | 2023-07-14 | 2023-07-17 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2023-03-17 |  |
+| [Azar](https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v) | [Abril Alconada](https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0) | [Encandilante divino](https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH) | 2:43 | 2023-08-11 |  |
 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 | 2023-07-28 |  |
 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 | 2023-07-21 |  |
 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 | 2023-06-02 |  |
@@ -78,7 +79,7 @@
 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 | 2023-03-17 | 2023-07-08 |
 | [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 | 2023-06-02 |  |
 | [Haikus](https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Kamishibai: Un Viaje Tejido en el Tiempo](https://open.spotify.com/album/5rqbwd6aFbeFiOAMbm8jFt) | 3:31 | 2023-04-21 | 2023-05-13 |
-| [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 |  |
+| [hambre](https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [mondomamba](https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS) | 3:32 | 2023-03-17 | 2023-08-12 |
 | [Hasta el Final](https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Hasta el Final](https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY) | 2:49 | 2023-03-17 | 2023-05-15 |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 | 2023-07-30 |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2023-03-17 |  |
@@ -152,10 +153,11 @@
 | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l) | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/album/5slqi6BYWHecGV9ICWhqWH) | 3:45 | 2023-03-17 | 2023-05-06 |
 | [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 |  |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-05-26 |  |
+| [Tan besh](https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Tan besh](https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34) | 2:51 | 2023-08-11 |  |
 | [Tiempo Sin Piel](https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Tiempo Sin Piel](https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz) | 4:08 | 2023-03-17 | 2023-05-20 |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tirita](https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Tirita](https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH) | 3:12 | 2023-03-17 | 2023-05-06 |
-| [Todo es Conectividad](https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Las Fuerzas Almadas](https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW) | 4:32 | 2023-03-17 |  |
+| [Todo es Conectividad](https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Las Fuerzas Almadas](https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW) | 4:32 | 2023-03-17 | 2023-08-12 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2023-03-17 |  |
 | [Trampa](https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM) | [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc), [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Trampa](https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL) | 3:03 | 2023-06-02 |  |
 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2023-03-17 | 2023-08-09 |

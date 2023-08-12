@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-239 songs - 6 hr 33 min
+242 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dounias Lullaby](https://open.spotify.com/track/4BGXXJp5Y46wo9ieTuL4vr) | [Aamina Rashid](https://open.spotify.com/artist/0tEGv5MIKy09jQYNlQRFZ0) | [Dounias Lullaby](https://open.spotify.com/album/5m4YHSUrB7jyZuhfqIPWjJ) | 1:38 | 2021-11-11 |  |
 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 | 2021-11-11 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1Z4KpYwEgywjOfIGllZy79) | [Noah Dixon](https://open.spotify.com/artist/6YA3vpJ1H12hHnxiwczvZD) | [Dream a Little Dream of Me](https://open.spotify.com/album/6hGgvW9C70D1vrQsLnA8kC) | 1:55 | 2021-11-11 | 2022-01-22 |
+| [Dreamland's Song](https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY) | [Becca Lopez](https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj) | [Dreamland's Song](https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5) | 1:31 | 2023-08-11 |  |
 | [Duermete Mi Nino](https://open.spotify.com/track/2f8NeDKkIfjjmHJMp6ETyb) | [Julia Zerrano](https://open.spotify.com/artist/18VV4kqB6xgRj86VsETZyF) | [Duermete Mi Nino](https://open.spotify.com/album/2UqaMWBOwi7DzjC41EXZ04) | 1:32 | 2021-11-11 |  |
 | [Elvira Fattigans Song](https://open.spotify.com/track/32T5Fnw7yUvCeXzbsGznxB) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Elvira Fattigans Sång](https://open.spotify.com/album/5J8xhJcihn9vue9jG88SX7) | 1:59 | 2023-03-14 |  |
 | [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-11-11 | 2022-09-03 |
@@ -158,6 +159,7 @@
 | [My Lovely Teddybear](https://open.spotify.com/track/0Snqqrusf0KJMb4kaOdxfI) | [Travers Yates](https://open.spotify.com/artist/6NaBJxSpp6FfNqpLkfHuNN) | [My Lovely Teddybear](https://open.spotify.com/album/1UkWtJfevcLWaqX8dhuo8u) | 1:41 | 2023-04-21 |  |
 | [My name is Sue](https://open.spotify.com/track/05qmZG60q8wpsBate4bfAq) | [Solomon Sparks](https://open.spotify.com/artist/7JjiRaeb3qDpBU9p3Ye7DX) | [My name is Sue](https://open.spotify.com/album/1bsFXc2mI2oEveM9nNkMiv) | 1:17 | 2022-01-21 |  |
 | [My One True Wish](https://open.spotify.com/track/5wT6Pr22GqUE3yxXe2zm6t) | [Jep Ellery](https://open.spotify.com/artist/3XcuCasoz9LagVgPQTWHOh) | [My One True Wish](https://open.spotify.com/album/2jytqZ3DXRhqfSoPxchr3d) | 1:17 | 2022-10-27 | 2023-04-21 |
+| [My sun](https://open.spotify.com/track/1nU4KLmkano6ebuD6ruzwU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [My sun](https://open.spotify.com/album/2gXWh2QeeX0AkgLUQpgN5T) | 1:32 | 2023-08-11 |  |
 | [My Sweet Sweet Angel](https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 1:47 | 2021-11-11 | 2022-06-11 |
 | [My Wiggly Tooth](https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i) | [Mary\-Anne Ayers](https://open.spotify.com/artist/1eI4z1e4E9YDFhpzDPOvPV) | [My Wiggly Tooth](https://open.spotify.com/album/348wr92h8CnKzESqC3Uxeo) | 1:19 | 2021-11-11 |  |
 | [Napping Rabbit](https://open.spotify.com/track/67kuEnFkonVepzIAxrmuZ8) | [Tranter Norwood](https://open.spotify.com/artist/5GMyVZQE3EN49IHewe0Y9z) | [Napping Rabbit](https://open.spotify.com/album/3Kv3bNC9sFdCbyeG78uZ0v) | 1:15 | 2022-12-09 |  |
@@ -202,6 +204,7 @@
 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 | 2021-11-11 |  |
 | [Sweet Lullaby](https://open.spotify.com/track/7KfKKlOMT7DBC4gHlbTLek) | [Oswin Alvey](https://open.spotify.com/artist/619qDEWC7talyzV39o3j5p) | [Sweet Lullaby](https://open.spotify.com/album/2l4Ut4rKzqxqhQy3JEJ2QZ) | 1:08 | 2022-06-10 |  |
 | [Sweetest Dreams](https://open.spotify.com/track/0cymBq49LPSc0tyWDLJ997) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sweetest Dreams](https://open.spotify.com/album/4PMCeIaE6lQH8LHkl1LOoo) | 2:07 | 2023-04-21 |  |
+| [Teddy Bear](https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o) | [Rennie Stoltz](https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc) | [Teddy Bear](https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G) | 1:39 | 2023-08-11 |  |
 | [Tenderness](https://open.spotify.com/track/33L2dpLJ77q2QoSAlFYEfy) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:59 | 2022-08-10 |  |
 | [The Button Song](https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B) | [Tylar Attwood](https://open.spotify.com/artist/6xqjq2PyUby1Ztzel0o3vD) | [The Button Song](https://open.spotify.com/album/33NUTNBNe4YiY8mbZpG8ir) | 1:04 | 2021-11-11 |  |
 | [The Magic Blanket](https://open.spotify.com/track/3S8H2OJGPZ6JQujv8InoLz) | [Garth Winter](https://open.spotify.com/artist/48KlcKLmPswD1SWQhi6z5L) | [The Magic Blanket](https://open.spotify.com/album/2Bj8hEWN8NIpfqkNx1a71k) | 1:18 | 2022-04-26 |  |

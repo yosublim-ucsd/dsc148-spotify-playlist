@@ -4,7 +4,7 @@
 
 > Classic instrumental Soul to play during your working hours.
 
-83 songs - 5 hr 9 min
+85 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Grazing In The Grass](https://open.spotify.com/track/3yO2VQpDyXLwMJJ69XXuxi) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:26 | 2023-06-10 |  |
 | [I Wish It Would Rain](https://open.spotify.com/track/7Eya6osJ8UBzFr8DZEe76A) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [On Top](https://open.spotify.com/album/02L6cjnr1MiTEG8jTe9WL2) | 2:49 | 2023-06-10 |  |
 | [I'll Be There](https://open.spotify.com/track/7vWwU25xjL03GVWnGbhhem) | [O'Donel Levy](https://open.spotify.com/artist/0F80uiQjVrZ1gl7aHsYzc0) | [Black Velvet](https://open.spotify.com/album/4RbaDrgQCOI5ZNmqUbCqR3) | 4:12 | 2023-06-29 |  |
+| [Imagination Celebration](https://open.spotify.com/track/7AUo5phkaOSdYpQ7lE3WrG) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [Hideout](https://open.spotify.com/album/5qxVgGXwQqXMfzcUnRqxkD) | 2:35 | 2023-08-11 |  |
 | [In The Middle \- Pt\. 1](https://open.spotify.com/track/5GZCxmUZwuip9jOCygyWeW) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Soul Pride: The Instrumentals 1960\-1969](https://open.spotify.com/album/3Zp1ofTlYC81yvACIQAq1K) | 2:41 | 2023-06-10 |  |
 | [Last Night's Business](https://open.spotify.com/track/5tjyaN9YQfmnfqlgwmnI65) | [The Rugged Nuggets](https://open.spotify.com/artist/5kPBcUdkq1hxUdpdyc1X0Y) | [Odds & Ends](https://open.spotify.com/album/1Er8RwOAhF2gsywHoUGRyD) | 3:29 | 2023-06-10 |  |
 | [Lepak](https://open.spotify.com/track/7k8Tsk8vd6DHh9lxaHKyv3) | [Lefties Soul Connection](https://open.spotify.com/artist/404uYs9bhCcDYAmlT3p67y) | [Akathisia](https://open.spotify.com/album/0A9QDHcrd54hcK3LVEKuRp) | 3:04 | 2023-06-10 |  |
@@ -54,6 +55,7 @@
 | [Ripped Open By Metal Explosions](https://open.spotify.com/track/3jHwtcQkaQoVla5SLp8EUL) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Up From The Basement \- Unreleased Tracks \- Volumes 1 & 2](https://open.spotify.com/album/2l6jlkSuortxDkuCnEay4s) | 4:13 | 2023-06-29 |  |
 | [Ritual](https://open.spotify.com/track/7HZJjPEiPbBnGe2PR42Iov) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Portuguese Soul](https://open.spotify.com/album/7czIEWdivCw19mgs3BbiQV) | 4:07 | 2023-06-10 |  |
 | [Rollin Love, Pt\. 2](https://open.spotify.com/track/7x7v6lu0JwSc1pnv1gkVQN) | [Three Days Ahead](https://open.spotify.com/artist/0WeMyJTfCXRFAUQFs802Fl) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 3:48 | 2023-06-10 |  |
+| [Roses on My Mind](https://open.spotify.com/track/0Y6s4ciaWNNg2oauKcl546) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [Hideout](https://open.spotify.com/album/5qxVgGXwQqXMfzcUnRqxkD) | 2:31 | 2023-08-11 |  |
 | [Rugged Walk](https://open.spotify.com/track/6TQGp0a9hpL41C3kHThH9v) | [The Rugged Nuggets](https://open.spotify.com/artist/5kPBcUdkq1hxUdpdyc1X0Y) | [Rugged Walk](https://open.spotify.com/album/2hFrbyK1JM5yMkLqESoh3Y) | 2:57 | 2023-06-10 |  |
 | [Savoir Faire \- 2018 Remaster](https://open.spotify.com/track/6GWUJAzwRFTlSJouABPm6x) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic \(2018 Remaster\)](https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi) | 5:04 | 2023-06-10 |  |
 | [Shadow Boxing](https://open.spotify.com/track/5y0SqJGuJv4FZrr0hFYOP8) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Return To The 37th Chamber](https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT) | 2:48 | 2023-06-10 |  |

@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-163 songs - 9 hr 46 min
+165 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Firework](https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Firework](https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG) | 3:54 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Fix You](https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F) | 5:04 | 2021-11-19 |  |
 | [Flowers](https://open.spotify.com/track/5tyoGp4suJjn9HAbLAKkdx) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Flowers](https://open.spotify.com/album/3mSjIIHyriD6HOCqNOKzTQ) | 3:55 | 2023-03-17 |  |
+| [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/track/4u91K1WDKhzLLg8QJsQlor) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/album/5eoLxn3SoMfPex3N23hPRq) | 3:58 | 2023-08-11 |  |
 | [God Only Knows](https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [God Only Knows](https://open.spotify.com/album/627csj4wkox8X11EmpEhgG) | 3:49 | 2021-11-19 | 2022-05-14 |
 | [Good 4 U \- arr\. String Quartet](https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good 4 U \(arr\. String Quartet\)](https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6) | 2:57 | 2022-03-18 |  |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2021-11-19 | 2022-05-07 |
@@ -163,6 +164,7 @@
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-19 |  |
 | [What About Us](https://open.spotify.com/track/0wgYA6SSrBSI9Egd3a5DBH) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Reprise](https://open.spotify.com/album/36jRbgc6JEZPQhwBxBoKFJ) | 4:51 | 2022-03-25 | 2022-04-07 |
 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 | 2022-03-30 |  |
+| [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-11 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-19 |  |
 | [When You're Gone](https://open.spotify.com/track/3lIwgE7hC7X6kbRH3zKYsv) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [When You're Gone](https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg) | 3:00 | 2022-08-05 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/06gXdKwutegGzRSKX4lOa4) | [Asphalt Orchestra](https://open.spotify.com/artist/3j5J0E4sG4HOzPasFjB51f) | [Asphalt Orchestra Plays Pixies: Surfer Rosa](https://open.spotify.com/album/0WReoZTH1Tsrf6uul92LCV) | 3:55 | 2021-11-19 | 2022-01-05 |

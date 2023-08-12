@@ -1,12 +1,12 @@
 {
   "description": "Fresh takes\u2014from new revisions and iconic covers to unexpected versions and the songwriter's own covers. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
-  "num_followers": 125357,
+  "num_followers": 125455,
   "original_name": "Bob Dylan: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDI5ODY4MjRjNjJhYjFmOTc4ZjEzMTkwNTRlMDYwZGY0NmY3MmM5",
+  "snapshot_id": "MCxiMDA2Mjc0YTE1OWRjZjI1ODkxMTJjYmEyOTNkYmUyOTUzNzlkYmNm",
   "tracks": [
     {
       "added_at": "2018-08-02 15:19:34",
@@ -270,6 +270,10 @@
         {
           "name": "Antony and the Johnsons",
           "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
         }
       ],
       "duration_ms": 254680,

@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: PEOPLE 1",
-  "num_followers": 7165,
+  "num_followers": 7174,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjNkMmZjNDExMDM5NDI2YWRiNTgyYmZjY2M0OTYwNjE5ZGVjMjQ0",
+  "snapshot_id": "MCw1YmU5NTUxY2E1Y2Y1NmQzZDliZTI2Mzk2Nzg3YzQ4M2JlMTFiYjUz",
   "tracks": [
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u5411\u65e5\u8475",
-        "url": "https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 199355,
-      "name": "\u5411\u65e5\u8475",
-      "url": "https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "\u672a\u604b",
         "url": "https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u7d14\u7570\u6027\u4ea4\u904a",
-        "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
+        "name": "\u5411\u65e5\u8475",
+        "url": "https://open.spotify.com/album/3LNPXZvYpHWNHVrzO3jxHr"
       },
       "artists": [
         {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
         }
       ],
-      "duration_ms": 238466,
-      "name": "DAY DREAM BEAT",
-      "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
+      "duration_ms": 199355,
+      "name": "\u5411\u65e5\u8475",
+      "url": "https://open.spotify.com/track/7gApMTH54kCLmdFsgr7rT8"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1079,6 +1063,22 @@
       "duration_ms": 197604,
       "name": "\u30d0\u30c3\u30c9\u30ea\u30d4\u30fc\u30c8\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/0647L6JfnQWufikSR6AabW"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
+        "name": "\u7d14\u7570\u6027\u4ea4\u904a",
+        "url": "https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "DAY DREAM BEAT",
+      "url": "https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u541b\u3068\u7656",
-        "url": "https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7"
-      },
-      "artists": [
-        {
-          "name": "yutori",
-          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
-        }
-      ],
-      "duration_ms": 238429,
-      "name": "\u541b\u3068\u7656",
-      "url": "https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "\u82b1\u706b\u6563\u3063\u3066\u3001\u541b\u304c\u3061\u3087\u3063\u3068\u9060\u304f\u306a\u308b",
         "url": "https://open.spotify.com/album/5iDOicWocj5H84iu0MJ8Zk"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "Wish upon the Summer",
-        "url": "https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe"
+        "name": "\u541b\u3068\u7656",
+        "url": "https://open.spotify.com/album/425Y4ywoE1Ab2GNCXWEjU7"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
         }
       ],
-      "duration_ms": 181618,
-      "name": "Wish upon the Summer",
-      "url": "https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl"
+      "duration_ms": 238429,
+      "name": "\u541b\u3068\u7656",
+      "url": "https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1239,6 +1223,22 @@
       "duration_ms": 149562,
       "name": "OUR-AWA-HOUR!!",
       "url": "https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
+        "name": "Wish upon the Summer",
+        "url": "https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 181618,
+      "name": "Wish upon the Summer",
+      "url": "https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
-        "url": "https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE"
-      },
-      "artists": [
-        {
-          "name": "\u5c11\u5e74\u30ad\u30c3\u30ba\u30dc\u30a6\u30a4",
-          "url": "https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
-      "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
         "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 220545,
       "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
       "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
+        "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE"
+      },
+      "artists": [
+        {
+          "name": "\u5c11\u5e74\u30ad\u30c3\u30ba\u30dc\u30a6\u30a4",
+          "url": "https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/3o7n3y9NOLPvIY2GmzZDOC"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "FIVE",
+      "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
         "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 179340,
       "name": "she so come!!!",
       "url": "https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     },
     {
       "added_at": "2023-08-10 17:09:22",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "\u30e6\u30a8\u30cb",
-        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
-      },
-      "artists": [
-        {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
-        }
-      ],
-      "duration_ms": 240550,
-      "name": "\u30e6\u30a8\u30cb",
-      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "Blue Youth",
         "url": "https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-08-10 17:09:22",
       "album": {
-        "name": "Dancer in the Dark",
-        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
-      },
-      "artists": [
-        {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
-        }
-      ],
-      "duration_ms": 175532,
-      "name": "Dancer in the Dark",
-      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
-    },
-    {
-      "added_at": "2023-08-10 17:09:22",
-      "album": {
         "name": "recall",
         "url": "https://open.spotify.com/album/5SYk8LvAZkkxmMVHpmkliD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 235500,
       "name": "Blue light",
       "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
+    },
+    {
+      "added_at": "2023-08-10 17:09:22",
+      "album": {
+        "name": "Dancer in the Dark",
+        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "duration_ms": 175532,
+      "name": "Dancer in the Dark",
+      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
     },
     {
       "added_at": "2023-08-10 17:09:22",

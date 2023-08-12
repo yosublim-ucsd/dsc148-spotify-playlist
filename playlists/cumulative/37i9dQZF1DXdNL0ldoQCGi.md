@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-411 songs - 20 hr 44 min
+412 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-05-25 | 2022-11-10 |
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2022-05-25 | 2022-09-22 |
 | [Succubus Imortal](https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk) | [Kinechan](https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3) | [Succubus Imortal](https://open.spotify.com/album/2AWt019TdSzstDXfl3sNVf) | 2:14 | 2023-07-26 |  |
+| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-08-11 |  |
 | [sure thing \(sped up\)](https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ) | [accelerate](https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [sure thing \(sped up\)](https://open.spotify.com/album/2OcWg39f3Ms3Zsf01J7asL) | 1:53 | 2023-01-10 | 2023-06-09 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-05-25 | 2022-09-06 |
 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 | 2022-07-28 | 2022-08-05 |

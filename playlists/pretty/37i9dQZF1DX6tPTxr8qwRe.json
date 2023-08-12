@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: SNOW WIFE",
-  "num_followers": 379298,
+  "num_followers": 379516,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFhZjZhNWM4YTRlOWZlZTYzZWNmNDZjODdlMjFjOTlhMjU4ZTlh",
+  "snapshot_id": "MCwwNzRmNWE2YjI2NGZjOWRmNDViMzgwMTM2NjkyNWM5ZGVhZjkyOTI1",
   "tracks": [
     {
       "added_at": "2023-07-28 17:15:19",
@@ -23,6 +23,70 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2023-07-28 17:15:19",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 132818,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
+    },
+    {
+      "added_at": "2023-07-28 17:15:19",
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 137995,
+      "name": "BAD BITCH",
+      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
+    },
+    {
+      "added_at": "2023-07-28 17:15:19",
+      "album": {
+        "name": "Don\u2019t Call Me",
+        "url": "https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 168889,
+      "name": "Don\u2019t Call Me",
+      "url": "https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/2cZr0zvYEZDQS7TJauEMHZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Blanc",
+          "url": "https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy"
+        }
+      ],
+      "duration_ms": 278319,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/6Tr21jU9bkvMInMemDrsB9"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -47,34 +111,18 @@
     {
       "added_at": "2023-07-28 17:15:19",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
+        "name": "that's how you make a villain",
+        "url": "https://open.spotify.com/album/14MGqlLRlNWV90Z1sZRnPE"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
         }
       ],
-      "duration_ms": 132818,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
-        "name": "Don\u2019t Call Me",
-        "url": "https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 168889,
-      "name": "Don\u2019t Call Me",
-      "url": "https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r"
+      "duration_ms": 209383,
+      "name": "that's how you make a villain",
+      "url": "https://open.spotify.com/track/43oNw6eBz19yCSrebBYqUY"
     },
     {
       "added_at": "2023-07-28 17:15:19",
@@ -91,6 +139,58 @@
       "duration_ms": 136200,
       "name": "butterflies (From Barbie The Album)",
       "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j"
+      },
+      "artists": [
+        {
+          "name": "Jake Daniels",
+          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
+    },
+    {
+      "added_at": "2023-07-28 17:15:19",
+      "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-07-28 17:15:19",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2023-07-28 17:15:19",
@@ -127,22 +227,6 @@
     {
       "added_at": "2023-07-28 17:15:19",
       "album": {
-        "name": "MY GOD!",
-        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 137995,
-      "name": "BAD BITCH",
-      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
         "name": "MURDER MY FEELINGS",
         "url": "https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib"
       },
@@ -171,42 +255,6 @@
       "duration_ms": 164240,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
-        "name": "that's how you make a villain",
-        "url": "https://open.spotify.com/album/14MGqlLRlNWV90Z1sZRnPE"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 209383,
-      "name": "that's how you make a villain",
-      "url": "https://open.spotify.com/track/43oNw6eBz19yCSrebBYqUY"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j"
-      },
-      "artists": [
-        {
-          "name": "Jake Daniels",
-          "url": "https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh"
-        },
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Freak Show",
-      "url": "https://open.spotify.com/track/4dL8cY3jCkVgip6827j3PE"
     },
     {
       "added_at": "2023-07-28 17:15:19",
@@ -243,22 +291,6 @@
     {
       "added_at": "2023-07-28 17:15:19",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
         "name": "Sugar Baby",
         "url": "https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW"
       },
@@ -291,22 +323,6 @@
       "duration_ms": 184518,
       "name": "Knockoff",
       "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2023-07-28 17:15:19",
@@ -1099,22 +1115,6 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2023-07-28 17:15:19",
-      "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-07-28 17:15:19",

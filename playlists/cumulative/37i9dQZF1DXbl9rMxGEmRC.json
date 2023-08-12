@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Asebeia",
+        "url": "https://open.spotify.com/album/3J5r481a3YFAn3HHQtzkPM"
+      },
+      "artists": [
+        {
+          "name": "Temple Of Dread",
+          "url": "https://open.spotify.com/artist/63gOmJYMY5DArrmagcCrOL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133382,
+      "name": "Asebeia",
+      "url": "https://open.spotify.com/track/64APQrZbLJ0P6OF4sYZfZn"
+    },
+    {
+      "album": {
         "name": "At Dusk",
         "url": "https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX"
       },
@@ -1072,6 +1090,24 @@
       "duration_ms": 473500,
       "name": "Caravan of Broken Ghosts",
       "url": "https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl"
+    },
+    {
+      "album": {
+        "name": "Changing Star",
+        "url": "https://open.spotify.com/album/7hG3yg1VvLeYC8gMMLO9eZ"
+      },
+      "artists": [
+        {
+          "name": "Genus Ordinis Dei",
+          "url": "https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Changing Star",
+      "url": "https://open.spotify.com/track/1iMI9ahj9mM3OcbkCmGs19"
     },
     {
       "album": {
@@ -3564,7 +3600,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 507640,
       "name": "Hvite Krists D\u00f8d - Remastered 2021",
       "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 386538,
       "name": "Root of All Evils",
       "url": "https://open.spotify.com/track/49qj1TgiRqmtLOrNsOWCix"
@@ -6002,7 +6038,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 239133,
       "name": "Satan Divine",
       "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
@@ -6218,7 +6254,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -6585,6 +6621,24 @@
     },
     {
       "album": {
+        "name": "Summoned for Sacrifice",
+        "url": "https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245124,
+      "name": "Summoned for Sacrifice",
+      "url": "https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6"
+    },
+    {
+      "album": {
         "name": "Sunholy",
         "url": "https://open.spotify.com/album/3wPqeHtegyMuh6LsNyTjJ9"
       },
@@ -6650,7 +6704,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 270883,
       "name": "Swan Season",
       "url": "https://open.spotify.com/track/2hqNNF4viFvXsEd7sDozD6"
@@ -7447,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "Throw Them in the Van",
+        "url": "https://open.spotify.com/album/57zMkh57G5KkwaqifPqxFO"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101354,
+      "name": "Throw Them in the Van",
+      "url": "https://open.spotify.com/track/5Kgdfjpx02Qmk7tjaXw1AS"
+    },
+    {
+      "album": {
         "name": "Tides of Glass",
         "url": "https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl"
       },
@@ -7624,6 +7696,24 @@
       "duration_ms": 306880,
       "name": "Under a Funeral Moon - Studio",
       "url": "https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go"
+    },
+    {
+      "album": {
+        "name": "Oxt to Anyone",
+        "url": "https://open.spotify.com/album/4WuHamV6YAKA3xUNpwkINO"
+      },
+      "artists": [
+        {
+          "name": "Beurre",
+          "url": "https://open.spotify.com/artist/0LljVeNDyTJoH9peuKNWjg"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91173,
+      "name": "Uniform",
+      "url": "https://open.spotify.com/track/4weEZfLQRLafr8v7IT7fsN"
     },
     {
       "album": {

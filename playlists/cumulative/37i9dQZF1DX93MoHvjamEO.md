@@ -4,7 +4,7 @@
 
 > Featuring Papi Souza, Quevedo, Jhayco & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-27 songs - 1 hr 30 min
+28 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Britney](https://open.spotify.com/track/0HsVmdaCFtlbgJVf8EFF3k) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [Britney](https://open.spotify.com/album/0somiWz8sfv6oaZgCZdLyj) | 1:16 | 2023-04-27 |  |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-04-27 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-27 |  |
-| [En Su Nota](https://open.spotify.com/track/14JTYSChGSj1ULTnpTC70Z) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX) | 2:47 | 2023-04-27 |  |
+| [En Su Nota](https://open.spotify.com/track/14JTYSChGSj1ULTnpTC70Z) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX) | 2:47 | 2023-04-27 | 2023-08-12 |
+| [En Su Nota](https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS) | 2:47 | 2023-04-27 |  |
 | [Mira](https://open.spotify.com/track/1MFzd85DKCAPvOBl3hNAjS) | [balaclavx](https://open.spotify.com/artist/4pWxCn4W08KR8uMmWVL0oQ) | [Mira](https://open.spotify.com/album/3AKfBW8ExR0xdHe1SYpdR1) | 2:50 | 2023-04-27 |  |
 | [MÁS ALLÁ](https://open.spotify.com/track/7qnKyMGK3eccOIIv06l3M9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:53 | 2023-04-27 |  |
 | [No Me Hables de Amor](https://open.spotify.com/track/0UciVcpm66DLmnMJ9w6HzL) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Me Hables de Amor](https://open.spotify.com/album/5ar0gCfoPnD3g64IcqAO98) | 3:21 | 2023-04-27 |  |

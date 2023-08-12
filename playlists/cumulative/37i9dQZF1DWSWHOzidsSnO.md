@@ -4,11 +4,11 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Diana Burco.
 
-225 songs - 12 hr 35 min
+228 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 | 2023-01-04 |  |
+| [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 | 2023-01-04 | 2023-08-12 |
 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 | 2023-05-03 |  |
 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 | 2022-07-06 |  |
 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 | 2022-01-05 | 2022-07-29 |
@@ -68,6 +68,7 @@
 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 | 2022-03-09 | 2022-09-24 |
 | [De Curvo Cuerpo](https://open.spotify.com/track/2Pht8QhG9WqzrSQZDyK2rG) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [De Curvo Cuerpo](https://open.spotify.com/album/2uTm5GRSGAiNJkE3l96SsO) | 3:37 | 2022-04-06 | 2023-06-21 |
 | [De Fuego](https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [De Fuego](https://open.spotify.com/album/2t7K8A7GcSuiEG0Q3fMqW1) | 3:03 | 2022-01-05 | 2023-01-05 |
+| [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 |  |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-09 | 2022-04-09 |
 | [Demasiao](https://open.spotify.com/track/61BQX0yQEUUTWlYZg1CxBY) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Demasiao](https://open.spotify.com/album/3ErfNfpKjlVaavyhWc4MG2) | 2:46 | 2022-03-04 | 2023-01-05 |
 | [Discos \(Am\)](https://open.spotify.com/track/6z06VdmZGTBVQZtgrpV0xx) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Música para Dormir \(O Despertar\)](https://open.spotify.com/album/2hY4egfHaGdNhQBRix6jFy) | 2:16 | 2022-01-05 | 2023-01-05 |
@@ -100,6 +101,7 @@
 | [Hoy](https://open.spotify.com/track/53H3TaCK8iUC5YSRtSrwn1) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Prisma](https://open.spotify.com/album/3gTgGR1rBXCvDgU9cLIAEW) | 3:10 | 2022-01-05 | 2023-01-05 |
 | [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 | 2023-06-14 | 2023-07-29 |
 | [IGUAL](https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [IGUAL](https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9) | 3:36 | 2023-05-26 | 2023-06-21 |
+| [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 | 2023-08-11 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 | 2023-01-05 |
@@ -108,6 +110,7 @@
 | [La Golondrina](https://open.spotify.com/track/6C844QxMDqREFU36dK2JOd) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/4JduN8steJ6xSfzLPHFIHr) | 3:09 | 2022-01-05 | 2022-10-28 |
 | [La Golondrina](https://open.spotify.com/track/77jpUw61GGfLvV2leJ71re) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [SOY](https://open.spotify.com/album/1MT2fFeo1P43UdB7eOBn0H) | 3:09 | 2022-11-02 | 2022-11-13 |
 | [La Macorina](https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Macorina](https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic) | 3:10 | 2022-01-05 | 2022-10-06 |
+| [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-08-11 |  |
 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 | 2022-01-05 | 2023-01-05 |
 | [La reina del Delay](https://open.spotify.com/track/5ASPT1ujs8dudi9LWqYGbg) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [La reina del Delay](https://open.spotify.com/album/6hx57la49lxF2hmVZXg7jK) | 2:07 | 2023-06-30 |  |
 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 | 2022-01-05 | 2022-03-11 |
@@ -125,7 +128,7 @@
 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 | 2022-03-09 |  |
 | [Maligno](https://open.spotify.com/track/12xZFzT1kYByFjXFYLIRkm) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Caribe Atomico](https://open.spotify.com/album/2NW9u5fZwmxvXx6otvibtG) | 4:09 | 2022-01-05 | 2022-03-05 |
 | [Maria Lando](https://open.spotify.com/track/363nd7Fxruaf0CrQnK7p0m) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Afro\-Peruvian Classics: The Soul of Black Peru](https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas) | 5:37 | 2023-03-01 | 2023-04-06 |
-| [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2022-05-06 |  |
+| [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2022-05-06 | 2023-08-12 |
 | [Mariposas Negras](https://open.spotify.com/track/3dNvc7YXsJzYxV0mav3eY9) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Mariposas Negras](https://open.spotify.com/album/7r0ARcDufi1T55rlN1ELNw) | 3:45 | 2023-02-01 | 2023-05-04 |
 | [María Parado Bellido](https://open.spotify.com/track/67kQIZGMAN0WruRBPz3RWC) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 2:43 | 2023-07-06 | 2023-08-03 |
 | [Mañana Sale el Sol](https://open.spotify.com/track/2Ow881dT1aqqHsyBQtLxOQ) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Mañana Sale el Sol](https://open.spotify.com/album/6OOZcZT4nMUHSYWu7MkANQ) | 3:12 | 2022-11-02 | 2023-04-06 |
@@ -160,7 +163,7 @@
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 | 2022-11-03 |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
 | [Noche Humana](https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Noche Humana](https://open.spotify.com/album/1nvhPWn8HYsiOmeJ8OTniK) | 3:20 | 2022-04-06 |  |
-| [Nueva Alegría](https://open.spotify.com/track/2njyhvXM6xJSNPhz8b5dP6) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Nueva Alegría](https://open.spotify.com/album/0I2ySuWocHyhQfoDhq05N3) | 3:16 | 2022-04-01 |  |
+| [Nueva Alegría](https://open.spotify.com/track/2njyhvXM6xJSNPhz8b5dP6) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Nueva Alegría](https://open.spotify.com/album/0I2ySuWocHyhQfoDhq05N3) | 3:16 | 2022-04-01 | 2023-08-12 |
 | [Oasis](https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Cambio](https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF) | 3:56 | 2023-06-20 |  |
 | [Ojos Noche](https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL) | 4:00 | 2022-01-05 | 2022-03-10 |
 | [Otra Noche](https://open.spotify.com/track/3C0vi2SWp7OJgY7FFw2jSf) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Otra Noche](https://open.spotify.com/album/1l0btR04DDd3N4hQ6Z4nBf) | 2:41 | 2022-03-09 | 2022-04-07 |

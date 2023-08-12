@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 50501,
+  "num_followers": 50540,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTQyMjA3YTNjNmYxYmQ0MjMwYWRhMDAyZWExNTExNTQzODczZjk3",
+  "snapshot_id": "MCxmM2M4YmE4OWU3MjRmODQwN2IwOWRhOTQ4Mzk3MjQxOTFmMzVjOGU5",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Lazy Poker Blues",
+        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 244733,
       "name": "Get Your Back Into It",
       "url": "https://open.spotify.com/track/6c2cTUj9tG273blULygzpg"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Well, I Done Got Over It",
-        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
       "added_at": "2023-07-21 04:01:00",

@@ -21677,6 +21677,24 @@
     },
     {
       "album": {
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/1HBGO7iUkmw4XhmN2yLTCY"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200997,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/3YfeKiZe7Up3EJxqVOKxnh"
+    },
+    {
+      "album": {
         "name": "Vandal",
         "url": "https://open.spotify.com/album/3LLqGis58Xc3bQAhUZu5DP"
       },

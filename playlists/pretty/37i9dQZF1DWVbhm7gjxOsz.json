@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 26856,
+  "num_followers": 27103,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
+  "snapshot_id": "MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Nobody's Clown",
         "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 209200,
       "name": "Nobody's Clown",
       "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 141329,
       "name": "Gimme Little Sign",
       "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -659,6 +659,22 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Malo",
-        "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
-        }
-      ],
-      "duration_ms": 395200,
-      "name": "Suavecito",
-      "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
       },
       "artists": [
         {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB"
         }
       ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+      "duration_ms": 395200,
+      "name": "Suavecito",
+      "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Disco Nights (Expanded Edition)",
         "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 288733,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Natural High",
-      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Mr. Brown Eyed Soul",
         "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 119553,
       "name": "Smile Now, Cry Later",
       "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Natural High",
+      "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
-        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
-      },
-      "artists": [
-        {
-          "name": "Sunny Ozuna And Sunliners",
-          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
+        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Ozuna And Sunliners",
+          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
     },
     {
       "added_at": "2023-05-01 20:33:48",

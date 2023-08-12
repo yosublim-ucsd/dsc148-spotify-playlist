@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,141 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,226 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 80 | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP) | 4:03 |
 | 81 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
 | 82 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 |
-| 83 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
-| 84 | [Corren Con Suerte](https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Cementerio De Raperos](https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h) | 3:58 |
+| 83 | [Corren Con Suerte](https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Cementerio De Raperos](https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h) | 3:58 |
+| 84 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
 | 85 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 |
 | 86 | [MEXplico](https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [MEXplico](https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO) | 2:13 |
 | 87 | [99'S](https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99'S](https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
 | 100 | [Activados y Prendidos](https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 2:55 |
 
-Snapshot ID: `MCw3ZWQ1MDIzYjJkODMwMjFlYjBkNTJmOGFmZTJlOTA1M2E2NmYwMzFl`
+Snapshot ID: `MCxiYzUxZmFiMzI4OWJmMzEyOTNmOTAzYmQ1NGUxODZmOGMxODVhZmNj`

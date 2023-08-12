@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-635 songs - 1 day 4 hr 38 min
+636 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Lucid Dream](https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [Lucid Dream](https://open.spotify.com/album/1R1wjANQL3mhWsvC2SuZui) | 2:42 | 2021-12-23 | 2023-08-11 |
 | [Luv](https://open.spotify.com/track/1tJa54bWcdqb2kawGtd7ZB) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Runnin'](https://open.spotify.com/album/6bd0gJXzXRJxCNaTGAiS8c) | 1:27 | 2021-12-23 | 2022-02-11 |
 | [Lux \- Instrumental](https://open.spotify.com/track/5bHovaMzUQysRb51M6bmdf) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Lux \(Instrumental\)](https://open.spotify.com/album/7MPY6Cg7sIiQxwwXVEWfh5) | 2:08 | 2022-01-06 | 2022-07-27 |
-| [Magic Hour](https://open.spotify.com/track/2S12YTQaeICYkN1zYWtpgy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/0VllhhyjlCrweNYZ1o99Q9) | 1:58 | 2023-08-10 |  |
+| [Magic Hour](https://open.spotify.com/track/2S12YTQaeICYkN1zYWtpgy) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/0VllhhyjlCrweNYZ1o99Q9) | 1:58 | 2023-08-10 | 2023-08-12 |
+| [Magic Hour](https://open.spotify.com/track/5zAq8jojZcRqmhqXYCiKZd) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Magic Hour](https://open.spotify.com/album/1SPAJxdV4s2zF169YXvscW) | 1:58 | 2023-08-10 |  |
 | [Magnolia](https://open.spotify.com/track/2sJ3Y4XZOcD7lIth8zTYDE) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Magnolia](https://open.spotify.com/album/4fSqcOM3rC2xVWTYwqwDVJ) | 2:29 | 2022-01-06 | 2022-07-24 |
 | [Make Em' Clap](https://open.spotify.com/track/4hLRIF4PNhUD74qCbeNN4D) | [A.Y.B\. Force](https://open.spotify.com/artist/7I2xlcoJBXvmAeR7zUpSHE), [8ronix](https://open.spotify.com/artist/0TNs6NERDZsTtRTxNQLC2c) | [Make Em' Clap](https://open.spotify.com/album/7fzPRgMNM2goJbJQXRLeYh) | 3:05 | 2022-05-19 | 2022-07-24 |
 | [Malasana](https://open.spotify.com/track/1ebFEGV0DGIQUc7ejH8GnG) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Malasana](https://open.spotify.com/album/6f47OmhcecfY9X72S3xPWC) | 1:50 | 2022-03-31 | 2022-04-16 |

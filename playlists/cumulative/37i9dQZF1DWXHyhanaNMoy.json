@@ -11186,10 +11186,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 146285,
       "name": "Sende",
       "url": "https://open.spotify.com/track/0S7WVldHk76spNJDrLTNIE"
+    },
+    {
+      "album": {
+        "name": "Sende",
+        "url": "https://open.spotify.com/album/6UApK2ImqOECoBMFrFr8HD"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Sende",
+      "url": "https://open.spotify.com/track/3zkJlzwHX7MNBSEFHak4d3"
     },
     {
       "album": {

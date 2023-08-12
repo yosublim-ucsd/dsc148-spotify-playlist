@@ -1,12 +1,12 @@
 {
   "description": "Let these songs be the background score to your love story. Cover - SatyaPrem Ki Katha",
-  "num_followers": 1032359,
+  "num_followers": 1033233,
   "original_name": "Bollywood Mush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDdjMzU4NmVjNWY4MDdkOWFiNjExNTUzZDYzNzQ1NDNlZDg2NWY1",
+  "snapshot_id": "MCxlN2VhMGI4NjQ5YzUwYjljNjA5Njk2ZGZlM2M5OWZiY2NhN2ZlYzc0",
   "tracks": [
     {
       "added_at": "2023-08-03 11:11:08",
@@ -35,10 +35,14 @@
     {
       "added_at": "2023-08-03 11:11:08",
       "album": {
-        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN"
       },
       "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
@@ -53,8 +57,8 @@
         }
       ],
       "duration_ms": 277500,
-      "name": "Tum Kya Mile",
-      "url": "https://open.spotify.com/track/5SlUuPQGMX5Ehe57pktNkS"
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
     },
     {
       "added_at": "2023-08-03 11:11:08",

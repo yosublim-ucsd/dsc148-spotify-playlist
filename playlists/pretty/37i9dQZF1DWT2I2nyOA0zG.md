@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,542 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,551 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Different](https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:44 |
 | 80 | [Niata](https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Niata](https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ) | 3:02 |
 
-Snapshot ID: `MCwwY2MwZDFmZGE5NDNhMmE0YjI3YzY2ZjBlODcyNmIyYTA5ZjU0Y2Jj`
+Snapshot ID: `MCw4MDY1YTRmMzI4NWQwOTZhMzY0NThlZGJhODFlYjRkYmU3Mzk1YjNl`

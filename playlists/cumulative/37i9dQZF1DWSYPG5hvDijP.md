@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-132 songs - 7 hr 19 min
+134 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 | 2023-07-20 |  |
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 |  |
+| [Subz](https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [XTACY ON THE BEAT](https://open.spotify.com/artist/1biv7Fr36uAj6PO7icQAEy) | [Subz](https://open.spotify.com/album/0MBb6wPG1sjs6n9OP8lXeN) | 2:36 | 2023-08-11 |  |
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |
@@ -139,6 +140,7 @@
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-29 | 2023-04-17 |
 | [WZKD](https://open.spotify.com/track/3Gu3YTvfmGfNMNiI6FeTl2) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [WZKD](https://open.spotify.com/album/6fk68vB0oWyDoyTPW7Z0Gk) | 3:03 | 2023-06-19 |  |
 | [You Know The Drill](https://open.spotify.com/track/0PZT2VMwK3qGF9tp0xYAbz) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Ellde Fazilka](https://open.spotify.com/artist/29VMPclNqVgvAfLV5QCpMj) | [You Know The Drill](https://open.spotify.com/album/5SecXwBQSy1AalOteM4hRn) | 3:00 | 2023-03-29 | 2023-04-17 |
+| [Young King](https://open.spotify.com/track/3DNBXEXQSU18Ufq0IqboF7) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Young King](https://open.spotify.com/album/101INuhkIfoZ6pXtqiwJ8J) | 2:32 | 2023-08-11 |  |
 | [Zimmedaar](https://open.spotify.com/track/2OuL43cBc4phuvcU4vZcXP) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [A.O.D.](https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:04 | 2023-03-29 | 2023-04-17 |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

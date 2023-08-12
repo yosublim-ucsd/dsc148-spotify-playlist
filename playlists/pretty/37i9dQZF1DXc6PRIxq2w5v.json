@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Silas Magalh\u00e3es",
-  "num_followers": 136777,
+  "num_followers": 136965,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzIxNWZjYmI2NTA5ZTUxOGFkNzdjZWJlYzgxYjY4Y2IyMzI4ZjQw",
+  "snapshot_id": "MCwxNGQ3ZjFhNzc1YmVhOWM0NDA1YmQzZjE5ZjU2OGNiNzVhOTRiMDZh",
   "tracks": [
     {
       "added_at": "2023-08-04 16:55:15",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Reino",
-      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "O Pai Espera Voc\u00ea Voltar",
         "url": "https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 257488,
       "name": "O Pai Espera Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 185430,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -955,46 +955,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Esperan\u00e7a para o Perdido",
         "url": "https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q"
       },
@@ -1015,6 +975,46 @@
       "duration_ms": 230831,
       "name": "Esperan\u00e7a para o Perdido",
       "url": "https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-04 16:55:15",
       "album": {
-        "name": "Flow Maria Mar\u00e7al",
-        "url": "https://open.spotify.com/album/6D6hKm3T838uaf8hjOKNB7"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        }
-      ],
-      "duration_ms": 188370,
-      "name": "Flow Maria Mar\u00e7al",
-      "url": "https://open.spotify.com/track/1xvGkLrj0KZvXAdIAOgv8q"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
         "name": "Morada de Deus",
         "url": "https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 223134,
       "name": "Morada de Deus",
       "url": "https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Flow Maria Mar\u00e7al",
+        "url": "https://open.spotify.com/album/6D6hKm3T838uaf8hjOKNB7"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        }
+      ],
+      "duration_ms": 188370,
+      "name": "Flow Maria Mar\u00e7al",
+      "url": "https://open.spotify.com/track/1xvGkLrj0KZvXAdIAOgv8q"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1211,6 +1211,22 @@
       "duration_ms": 208695,
       "name": "Diamante na Lama 2",
       "url": "https://open.spotify.com/track/5N48BDEsBrloyontAV7PHb"
+    },
+    {
+      "added_at": "2023-08-04 16:55:15",
+      "album": {
+        "name": "Paracetamol (Divisa de Fogo)",
+        "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 161701,
+      "name": "Paracetamol (Divisa de Fogo)",
+      "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
     },
     {
       "added_at": "2023-08-04 16:55:15",
@@ -1267,22 +1283,6 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
-    },
-    {
-      "added_at": "2023-08-04 16:55:15",
-      "album": {
-        "name": "Paracetamol (Divisa de Fogo)",
-        "url": "https://open.spotify.com/album/4Bpp2LO4aQInjYsDnn6vfQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 161701,
-      "name": "Paracetamol (Divisa de Fogo)",
-      "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
     },
     {
       "added_at": "2023-08-04 16:55:15",

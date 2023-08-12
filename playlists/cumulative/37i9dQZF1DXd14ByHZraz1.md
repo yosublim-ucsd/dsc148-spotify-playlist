@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-135 songs - 6 hr 55 min
+136 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 |  |
 | [Free My Mind](https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY) | 2:40 | 2021-12-24 | 2022-04-09 |
 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 | 2022-05-06 | 2023-01-28 |
-| [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 | 2022-12-16 |  |
+| [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 | 2022-12-16 | 2023-08-12 |
+| [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/1z7ZRsJCIF3f5Y5I96iY2x) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/0nLHpeq5BmD8ugqcM9djvn) | 3:43 | 2023-07-21 |  |
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-12-24 |  |
 | [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 | 2022-10-28 | 2022-11-12 |
 | [Gimme Gimme](https://open.spotify.com/track/61PUqivooERiYjgLMw2UR2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/18AIQ8lzuMHEm9pfBtBGRK) | 2:27 | 2021-12-24 | 2022-07-29 |

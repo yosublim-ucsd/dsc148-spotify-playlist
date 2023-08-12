@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "8 to infinity",
+        "url": "https://open.spotify.com/album/3w9Z3NRNVVfMM9KfjuplUj"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158171,
+      "name": "8 to infinity",
+      "url": "https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh"
+    },
+    {
+      "album": {
         "name": "A Hard Working Man (feat. Billy Ray Cyrus & Snoop Dogg)",
         "url": "https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM"
       },
@@ -3778,6 +3796,28 @@
       "duration_ms": 194444,
       "name": "Islands To Nashville",
       "url": "https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs"
+    },
+    {
+      "album": {
+        "name": "James Dean (Feat. Lathan Warlick)",
+        "url": "https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Mooney",
+          "url": "https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe"
+        },
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177822,
+      "name": "James Dean (Feat. Lathan Warlick)",
+      "url": "https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK"
     },
     {
       "album": {

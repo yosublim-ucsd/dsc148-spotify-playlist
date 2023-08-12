@@ -383,6 +383,28 @@
     },
     {
       "album": {
+        "name": "Connecting Heart Chakra",
+        "url": "https://open.spotify.com/album/3mrsQmOju8BHD01Z9RXIEq"
+      },
+      "artists": [
+        {
+          "name": "Zen Meditation Garden",
+          "url": "https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl"
+        },
+        {
+          "name": "Solfeggio Guru",
+          "url": "https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418285,
+      "name": "Cellular Connection",
+      "url": "https://open.spotify.com/track/6VLgAi4LEGmIZ2dzIeD2IU"
+    },
+    {
+      "album": {
         "name": "Cestrum Nocturnum",
         "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
       },

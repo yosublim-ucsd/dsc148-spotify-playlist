@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-300 songs - 20 hr 10 min
+301 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 |  |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |
 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 | 2023-05-12 |  |
+| [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 |  |
 | [Leave Me Alone](https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Leave Me Alone](https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB) | 4:38 | 2021-12-10 | 2022-04-23 |
 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 | 2022-04-22 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-03-18 | 2022-05-28 |
@@ -286,7 +287,7 @@
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2020-12-14 | 2022-02-26 |
 | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex) | 4:39 | 2022-09-02 | 2022-10-01 |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2020-12-14 | 2022-02-26 |
-| [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-14 |  |
+| [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-14 | 2023-08-12 |
 | [What Can I Do?](https://open.spotify.com/track/6KPBLaWLqk5CJjRprggRaP) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [In A Roomful Of Blues](https://open.spotify.com/album/035KBtKfNPmzg4nR6Ab13w) | 3:04 | 2021-04-13 | 2022-04-23 |
 | [What Goes Around \(Comes Around\)](https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [What Goes Around \(Comes Around\)](https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk) | 3:36 | 2023-06-30 | 2023-08-05 |
 | [What The Hell?](https://open.spotify.com/track/5oLJtF9K70uDnGDOh6RpLC) | [Elvin Bishop & Charlie Musselwhite](https://open.spotify.com/artist/1lxMdFIZ1fKJzdG9QFkhnO), [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [100 Years Of Blues](https://open.spotify.com/album/0FVnunlqxdepVfMF2DBgI6) | 3:06 | 2020-12-14 | 2022-02-26 |

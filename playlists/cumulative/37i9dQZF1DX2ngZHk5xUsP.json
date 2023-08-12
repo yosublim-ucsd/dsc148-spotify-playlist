@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Memadu Rindu",
+        "url": "https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo"
+      },
+      "artists": [
+        {
+          "name": "Mustache and Beard",
+          "url": "https://open.spotify.com/artist/016QI3CCkvtFY60hN9lPLc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251548,
+      "name": "Memadu Rindu",
+      "url": "https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy"
+    },
+    {
+      "album": {
         "name": "Mereguk Anti Depresan Lagi",
         "url": "https://open.spotify.com/album/7DxaK1trwu4UD76ldZ4JvI"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 268855,
       "name": "Semua Tentang Kita",
       "url": "https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW"
+    },
+    {
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/4zQgXju45dVJACZosujFtw"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/0OVcoOK5WVvE6D9CXkopa9"
     },
     {
       "album": {

@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 180463,
       "name": "Chakra Flow Beat",
       "url": "https://open.spotify.com/track/2yVYWhj44F5uLKyTXtDAFP"
@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/1kkJfkWtHIchrkxz1ShILT"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/5FtoDcfUO6XwuNAm2JUUQO"
+    },
+    {
+      "album": {
         "name": "Healing Music. Shamanic Therapies. Well \u2013 Being Time, Amazing Nature",
         "url": "https://open.spotify.com/album/6cDYbmkaqnVtwm9I8cIZBq"
       },
@@ -1121,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Heal Within",
+        "url": "https://open.spotify.com/album/2ZTHiYTgXmvdVF6WgwlQqT"
+      },
+      "artists": [
+        {
+          "name": "Indra Jamal",
+          "url": "https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Heal Within",
+      "url": "https://open.spotify.com/track/1eb7d59xruOhOO88ihuDfA"
+    },
+    {
+      "album": {
         "name": "Healing Forest",
         "url": "https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb"
       },
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 183723,
       "name": "Holy River",
       "url": "https://open.spotify.com/track/6aheaZ49wM9pdc21shDoaO"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 205062,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo"
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 179073,
       "name": "Karuna",
       "url": "https://open.spotify.com/track/1sDSsPD0PtRcjL1kJkg0AE"
@@ -1755,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Shanti",
+        "url": "https://open.spotify.com/album/7H1bVzuypKfns5cp9By66P"
+      },
+      "artists": [
+        {
+          "name": "Yeshi Namdak",
+          "url": "https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230756,
+      "name": "Prana",
+      "url": "https://open.spotify.com/track/59zc43Rgao1wEXFzlmklbo"
+    },
+    {
+      "album": {
         "name": "Ergo",
         "url": "https://open.spotify.com/album/6lso3LVOMoZjyInhTdXQzq"
       },
@@ -1842,6 +1896,24 @@
       "duration_ms": 141522,
       "name": "Queen West Blues",
       "url": "https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq"
+    },
+    {
+      "album": {
+        "name": "Ra",
+        "url": "https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE"
+      },
+      "artists": [
+        {
+          "name": "Phumos",
+          "url": "https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Ra",
+      "url": "https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup"
     },
     {
       "album": {
@@ -2227,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Soothing Soul",
+        "url": "https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm"
+      },
+      "artists": [
+        {
+          "name": "Sasha Green",
+          "url": "https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190302,
+      "name": "Soothing Soul",
+      "url": "https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx"
+    },
+    {
+      "album": {
         "name": "Soul Protection",
         "url": "https://open.spotify.com/album/3F3e2ZOepByIuG9oMQ583D"
       },
@@ -2260,6 +2350,24 @@
       "duration_ms": 197626,
       "name": "Soul Sanctuary",
       "url": "https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc"
+    },
+    {
+      "album": {
+        "name": "Spadina Ave",
+        "url": "https://open.spotify.com/album/0AYKKATiUEWrX0mPzXZF8U"
+      },
+      "artists": [
+        {
+          "name": "Vacant Cities",
+          "url": "https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189711,
+      "name": "Spadina Ave",
+      "url": "https://open.spotify.com/track/1zQZnHwMSlP1eov6Lr4fTM"
     },
     {
       "album": {
@@ -2346,7 +2454,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 158809,
       "name": "Stillness is Waiting",
       "url": "https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo"
@@ -2364,7 +2472,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 261818,
       "name": "Straight",
       "url": "https://open.spotify.com/track/3S157arhUxGRk5KMXQoH5I"
@@ -2796,7 +2904,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172000,
       "name": "Vinyasa Rhytm",
       "url": "https://open.spotify.com/track/2LOv8O1P9CdJn3sZkxQbVi"
@@ -2818,6 +2926,24 @@
       "duration_ms": 212250,
       "name": "Vistaar",
       "url": "https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj"
+    },
+    {
+      "album": {
+        "name": "Walk of the spirits",
+        "url": "https://open.spotify.com/album/5tuWm6iduv819xKUFhPDao"
+      },
+      "artists": [
+        {
+          "name": "Aura Lynx",
+          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Walk of the spirits",
+      "url": "https://open.spotify.com/track/4JACIMZAYI7XVct3neUH90"
     },
     {
       "album": {

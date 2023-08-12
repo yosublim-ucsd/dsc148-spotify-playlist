@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48932,
+  "num_followers": 48960,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThmMmMxNmY1MzBiMzQxYWRjZDM0NWVmOTk5YzI3N2ViNTllZTM2",
+  "snapshot_id": "MCwwYmU1MWQzMDZmODA3MDA5MDRlNTcxOTE3NjZhOGViZDUxMzdlZDU0",
   "tracks": [
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Shroud of Night",
-        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Shroud of Night",
-      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "N\u00e9o-Romance",
-        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+        "name": "Shroud of Night",
+        "url": "https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp"
       },
       "artists": [
         {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 190232,
-      "name": "a new romance",
-      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+      "duration_ms": 199136,
+      "name": "Shroud of Night",
+      "url": "https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1091,38 +1091,6 @@
       "duration_ms": 191800,
       "name": "Debussy: Pr\u00e9ludes / Book 1, L.117 - 8. La Fille aux Cheveux de Lin (Arr. Marshall)",
       "url": "https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "Columbo",
-        "url": "https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "Columbo",
-      "url": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "\u30df\u30e5\u30f2\u30e9",
-        "url": "https://open.spotify.com/album/5gN9T5GEhYUuhnQIS0w4k2"
-      },
-      "artists": [
-        {
-          "name": "\u5e7d\u4f53\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "\u30df\u30e5\u30f2\u30e9",
-      "url": "https://open.spotify.com/track/2am3PNoddXpK3bZcaLNrlp"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1151,6 +1119,38 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "\u30df\u30e5\u30f2\u30e9",
+        "url": "https://open.spotify.com/album/5gN9T5GEhYUuhnQIS0w4k2"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u4f53\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "\u30df\u30e5\u30f2\u30e9",
+      "url": "https://open.spotify.com/track/2am3PNoddXpK3bZcaLNrlp"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "Columbo",
+        "url": "https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "Columbo",
+      "url": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/0uGUvBMERBuUGIZYFgV0J5"
       },
@@ -1163,38 +1163,6 @@
       "duration_ms": 210108,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/44H7tP4Zz8kfYutRKITxLP"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "ceilings - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "Murmuration",
-        "url": "https://open.spotify.com/album/2ne5G2WYk0dXwwYvqi7vJq"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 219159,
-      "name": "Murmuration",
-      "url": "https://open.spotify.com/track/2VQVj1SJLHofQFC4JlueAl"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "Murmuration",
+        "url": "https://open.spotify.com/album/2ne5G2WYk0dXwwYvqi7vJq"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 219159,
+      "name": "Murmuration",
+      "url": "https://open.spotify.com/track/2VQVj1SJLHofQFC4JlueAl"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "ceilings - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "Branches",
         "url": "https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-08-08 15:00:00",

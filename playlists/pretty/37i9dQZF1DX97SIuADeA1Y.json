@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 313395,
+  "num_followers": 313578,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGQzZWIwMTAzODcxYWZjMzQxNmNjMzYxNjcyYTBjMDM1ZWEyM2Qx",
+  "snapshot_id": "MCw3MjVlOTAxNDAyZTI0ZGJjYmExOWE4MzgzMDI0MTYxODFlYzE2OTBm",
   "tracks": [
     {
       "added_at": "2023-08-04 13:30:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-04 13:30:00",
       "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
-    },
-    {
-      "added_at": "2023-08-04 13:30:00",
-      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2023-08-04 13:30:00",
+      "album": {
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2023-08-04 13:30:00",
@@ -1011,6 +1011,46 @@
     {
       "added_at": "2023-08-04 13:30:00",
       "album": {
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
+      },
+      "artists": [
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "Coffeeshop",
+          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
+    },
+    {
+      "added_at": "2023-08-04 13:30:00",
+      "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
+    },
+    {
+      "added_at": "2023-08-04 13:30:00",
+      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1039,66 +1079,6 @@
     {
       "added_at": "2023-08-04 13:30:00",
       "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
-    },
-    {
-      "added_at": "2023-08-04 13:30:00",
-      "album": {
-        "name": "Under the Influence",
-        "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
-      },
-      "artists": [
-        {
-          "name": "Krmoni",
-          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
-        },
-        {
-          "name": "Coffeeshop",
-          "url": "https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC"
-        },
-        {
-          "name": "Tommy Rage",
-          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr"
-    },
-    {
-      "added_at": "2023-08-04 13:30:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
-    },
-    {
-      "added_at": "2023-08-04 13:30:00",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2023-08-04 13:30:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2023-08-04 13:30:00",

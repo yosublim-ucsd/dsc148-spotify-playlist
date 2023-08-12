@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Cows",
+        "url": "https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio"
+      },
+      "artists": [
+        {
+          "name": "Silicone Prairie",
+          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Cows",
+      "url": "https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu"
+    },
+    {
+      "album": {
         "name": "Crack a Smile",
         "url": "https://open.spotify.com/album/29kyGKjzeisWevhLjPpKfP"
       },
@@ -2287,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Edge Of Teeth",
+        "url": "https://open.spotify.com/album/24cq8kLYhfeH0tC4F6QAMa"
+      },
+      "artists": [
+        {
+          "name": "Corker",
+          "url": "https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285533,
+      "name": "Edge Of Teeth",
+      "url": "https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92"
+    },
+    {
+      "album": {
         "name": "Elimination Dances",
         "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
       },
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 242605,
       "name": "Emerson",
       "url": "https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ"
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 190735,
       "name": "Madge's Declaration",
       "url": "https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5"
@@ -6542,6 +6578,24 @@
       "duration_ms": 164200,
       "name": "Prisoners",
       "url": "https://open.spotify.com/track/4i2GTbn2CIPpSa6ml9ZXd9"
+    },
+    {
+      "album": {
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht"
+      },
+      "artists": [
+        {
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252492,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn"
     },
     {
       "album": {
@@ -9150,7 +9204,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"

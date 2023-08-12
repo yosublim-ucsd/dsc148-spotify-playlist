@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
+  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "A Simple Vista",
-        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
-      },
-      "artists": [
-        {
-          "name": "Tyna Ros",
-          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
-        },
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 207784,
-      "name": "A Simple Vista",
-      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Todo Lo Que Hay",
         "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "A Simple Vista",
+        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
+      },
+      "artists": [
+        {
+          "name": "Tyna Ros",
+          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
+        },
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 207784,
+      "name": "A Simple Vista",
+      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
     },
     {
       "added_at": "2023-07-07 16:56:50",

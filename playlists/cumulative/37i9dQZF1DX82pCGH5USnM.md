@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-726 songs - 1 day 17 hr 29 min
+728 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [For The First Time](https://open.spotify.com/track/3aIv0tjMJqDzONyBFtUa9g) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [For The First Time](https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4) | 3:17 | 2021-07-08 |  |
 | [Forest Run](https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Forest Run](https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5) | 1:57 | 2021-11-08 | 2022-02-11 |
 | [Forget About It](https://open.spotify.com/track/3j1OuqbJEvfy51u6oAUjqB) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Club Highs](https://open.spotify.com/album/6L3AfoDQZVHFfVU3d2se2S) | 2:51 | 2022-12-16 |  |
+| [Fortunella](https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Fortunella](https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH) | 2:59 | 2023-08-11 |  |
 | [Fountain](https://open.spotify.com/track/2mcedqPaiGiEC91COidFzf) | [shade of sienna](https://open.spotify.com/artist/20vM7cfwRhHalNHzCt5571) | [Fountain](https://open.spotify.com/album/0Ds3yUOWEC76qmqhAgId9x) | 2:41 | 2023-01-20 |  |
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 | 2022-08-05 |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-07-08 |
@@ -681,6 +682,7 @@
 | [Train 201](https://open.spotify.com/track/2e5y1McoTrDZLsZyzqbT65) | [Raytone](https://open.spotify.com/artist/2NPLOBwaiAlh3vy1F37Fsy) | [Train 201](https://open.spotify.com/album/2scuU0RdnanOlrCaws9EyH) | 3:41 | 2020-04-03\* | 2021-03-06 |
 | [Train of Thought](https://open.spotify.com/track/3Uflrmt2A0RFUNS42zasqE) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Slightly Spinning](https://open.spotify.com/album/75Swu0xsGLyKZDmE0TACOF) | 4:06 | 2021-01-15 | 2022-06-24 |
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2021-09-09 | 2022-08-05 |
+| [Traveler](https://open.spotify.com/track/7sYFnDDJrJLBarGGTyvGfQ) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Traveler](https://open.spotify.com/album/7E48JRsxUqZgrz1E5AWxpN) | 2:12 | 2023-08-11 |  |
 | [Travellers](https://open.spotify.com/track/1bJIEtBbAA5RKl6vo6v0es) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:20 | 2020-04-03\* | 2021-03-25 |
 | [Treehouse](https://open.spotify.com/track/1ipDA1Ml15GS3942NM5OZS) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Late Thinking](https://open.spotify.com/album/5n3P9cGAzvyjl9pkml45MP) | 3:27 | 2020-10-27 | 2022-04-15 |
 | [Triscar](https://open.spotify.com/track/3EeTOaa2ojxqifAS3lPDIv) | [Salvo Martínez](https://open.spotify.com/artist/052I72dgYibkJrN3FWtQLS) | [Triscar](https://open.spotify.com/album/1Wmf9U8HQonW8fglilo3eN) | 2:23 | 2021-04-15 | 2022-07-29 |

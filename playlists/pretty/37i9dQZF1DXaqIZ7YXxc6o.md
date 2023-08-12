@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Fred Again.., Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,910 likes - 102 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,961 likes - 102 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Real Love](https://open.spotify.com/track/7gF0avLmjgWz9TYxXT12T2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Real Love](https://open.spotify.com/album/3KqTXkQpNuyIqs6eUl5kRd) | 3:14 |
-| 2 | [i adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [i adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 2 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 3 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 |
 | 4 | [Eternal Crush](https://open.spotify.com/track/0ZLCrlcKHqNrH9j3WExZah) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Eternal Crush](https://open.spotify.com/album/4mO9RnjErfClHcqvpCxyp3) | 2:42 |
 | 5 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
 | 6 | [Car Keys \(Ayla\) \- Tiësto Remix](https://open.spotify.com/track/2sNevT0WU7NXnkm1jnGENF) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Car Keys \(Ayla\) \(feat\. Ayla\) \[Tiësto Remix\]](https://open.spotify.com/album/5jviRuWm6ZKaJds1qd1zPr) | 2:16 |
-| 7 | [Atmosphere](https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU) | 3:02 |
+| 7 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 |
 | 8 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
 | 9 | [Late Night](https://open.spotify.com/track/1iCV6IfywnK7NF1YtnCVEw) | [Liam V](https://open.spotify.com/artist/2DuajJNZQCX3mkLW6IDPzt), [Fach](https://open.spotify.com/artist/5FmgI5UrzKYsxrmwHv4tJy), [CLUBWRK](https://open.spotify.com/artist/1SBbv5nJw69OqrklyYaaWg), [Xtnct](https://open.spotify.com/artist/4zWPy64aZ7qUTcIgQPkycl) | [Late Night](https://open.spotify.com/album/6YBcf5quUvXnvjP3d8CilI) | 2:43 |
 | 10 | [UNAVAILABLE \(feat\. Musa Keys\) \- Major Lazer Remix](https://open.spotify.com/track/4oIhpa8oYIxlADCRq5Zc3g) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [UNAVAILABLE \(feat\. Musa Keys\) \[Major Lazer Remix\]](https://open.spotify.com/album/5hCoRG8VEHUOsZ55sQWYEs) | 3:52 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [Amore](https://open.spotify.com/track/5u5PGFFfzckx0TDik6R7g5) | [TJIG](https://open.spotify.com/artist/3vmEX0eXfDPT56vevkxflT), [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM) | [Amore](https://open.spotify.com/album/5joIeweu1udL2EJqjKljfF) | 2:52 |
 | 102 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 |
 
-Snapshot ID: `MCw2MGU4MmE5MjZiZWE3YjQ1NzRjYWM2YTNkZTk3MjVjMDlmNjM5MDg5`
+Snapshot ID: `MCw0ZmViNzE1OGMwODIzMzUyN2JhMzlkOTlmMGIzOWU1MDAwYjNlMDcw`

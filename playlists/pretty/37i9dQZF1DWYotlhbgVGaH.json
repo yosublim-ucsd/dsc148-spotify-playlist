@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 114932,
+  "num_followers": 114968,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTlkZGZiOTJiYjE5Y2RlOWUzNzQ4N2JhYzhkMzI5NzFlN2I2MThi",
+  "snapshot_id": "MCwzNzRlZGUzOTIxNDkyMzBjN2QwNDI4N2E5ZmI2MTYwNTAzNzYxMjNm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Cool Thing",
+        "url": "https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg"
+      },
+      "artists": [
+        {
+          "name": "Alien Fashion Show",
+          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
+        }
+      ],
+      "duration_ms": 268961,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Mortyfied!",
         "url": "https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 169720,
       "name": "Knockin' At Your Door",
       "url": "https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Cool Thing",
-        "url": "https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg"
-      },
-      "artists": [
-        {
-          "name": "Alien Fashion Show",
-          "url": "https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P"
-        }
-      ],
-      "duration_ms": 268961,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9"
     },
     {
       "added_at": "2022-03-28 19:13:18",

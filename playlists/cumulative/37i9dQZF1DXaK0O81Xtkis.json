@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Knox",
+  "description": "make it pop! cover: Daniel Seavey",
   "name": "soda",
   "tracks": [
     {
@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "daisies",
+        "url": "https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx"
+      },
+      "artists": [
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124338,
+      "name": "daisies",
+      "url": "https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL"
+    },
+    {
+      "album": {
         "name": "Nothing Lasts Forever And That's OK",
         "url": "https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH"
       },
@@ -3429,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158602,
+      "name": "Fall into You",
+      "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
+    },
+    {
+      "album": {
         "name": "evil twin",
         "url": "https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH"
       },
@@ -3498,6 +3534,24 @@
       "duration_ms": 118886,
       "name": "favorite song",
       "url": "https://open.spotify.com/track/1DY1Jql0kdvh8r7HZiyZMe"
+    },
+    {
+      "album": {
+        "name": "Favourite Toy",
+        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181847,
+      "name": "Favourite Toy",
+      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
     },
     {
       "album": {
@@ -3852,6 +3906,24 @@
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp"
+    },
+    {
+      "album": {
+        "name": "fuckboys",
+        "url": "https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp"
+      },
+      "artists": [
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163435,
+      "name": "fuckboys",
+      "url": "https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE"
     },
     {
       "album": {
@@ -7293,6 +7365,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3fAGoxl8Jutg1VmAcA0pgy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129289,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/17fCb9V3l6TDdZgITI2JxB"
+    },
+    {
+      "album": {
         "name": "Let Me Die Inside You",
         "url": "https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb"
       },
@@ -8456,6 +8546,24 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174996,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ"
     },
     {
       "album": {
@@ -10628,7 +10736,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 151579,
       "name": "stars",
       "url": "https://open.spotify.com/track/329gBJ1hkINrrjFZNtk03H"
@@ -11022,6 +11130,24 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "album": {
+        "name": "Sun Sick",
+        "url": "https://open.spotify.com/album/1EaEYIhVXXTyvtLcZfuK5Y"
+      },
+      "artists": [
+        {
+          "name": "Roseburg",
+          "url": "https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173757,
+      "name": "Sun Sick",
+      "url": "https://open.spotify.com/track/1SJoB0RUX2X1oboDNzLTle"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: pumapjl, SonoTWS",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Haikaiss",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 243428,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 86666,
       "name": "LUCE BREE",
       "url": "https://open.spotify.com/track/2l9HIUaVNGDWDRYjPsNYvt"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 177931,
       "name": "Nossa Voz",
       "url": "https://open.spotify.com/track/7tMv4X80oQHqWR8Qaq4m6A"
@@ -6246,10 +6246,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 310000,
       "name": "S\u00e3o Bento Vive!",
       "url": "https://open.spotify.com/track/6eWvgP1RVaRMbuqnSHhXQ1"
+    },
+    {
+      "album": {
+        "name": "S\u00eanior",
+        "url": "https://open.spotify.com/album/49aLHclkeCMwqh3FfeAP3Z"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146024,
+      "name": "S\u00eanior",
+      "url": "https://open.spotify.com/track/3dYCU8WZD6uDluOp7Zv81J"
     },
     {
       "album": {
@@ -6393,6 +6419,40 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/3tHuraa8I3z6v0ggVFeuDw"
+      },
+      "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        },
+        {
+          "name": "Spvic",
+          "url": "https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs"
+        },
+        {
+          "name": "Spinardi",
+          "url": "https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle"
+        },
+        {
+          "name": "DK 47",
+          "url": "https://open.spotify.com/artist/3UnBd5Le508VE9jsLj04nJ"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306866,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/5bBufICVb5pVC5zp9GqEHl"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2Po13cWqzgBohlQ4qGjnG7"
       },
@@ -6438,6 +6498,24 @@
       "duration_ms": 128337,
       "name": "Trajadx De F\u00e9",
       "url": "https://open.spotify.com/track/5Z2T7gQOkNbU2aLuNakksa"
+    },
+    {
+      "album": {
+        "name": "Trilha",
+        "url": "https://open.spotify.com/album/6LNq7whBmKdA35guSWUWtw"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67000,
+      "name": "Trilha",
+      "url": "https://open.spotify.com/track/4c4tHsfQCbRNV756hV3e46"
     },
     {
       "album": {
@@ -7350,6 +7428,36 @@
       "duration_ms": 199429,
       "name": "\u00c0 La Carte",
       "url": "https://open.spotify.com/track/1KlWWuV0B9lZ3kdnGXHr6t"
+    },
+    {
+      "album": {
+        "name": "de: para:",
+        "url": "https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "\u00c0s Escuras",
+      "url": "https://open.spotify.com/track/1MfkPdgUhNLcOEisXGNdl0"
     },
     {
       "album": {

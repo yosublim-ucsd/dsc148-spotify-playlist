@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Young Miko.
 
-368 songs - 20 hr 54 min
+369 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Fulete](https://open.spotify.com/track/1vuwe8zD8zY4CrNIsUwdQe) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 4:35 | 2022-06-03 | 2022-11-26 |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Glizzy](https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Glizzy](https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf) | 2:59 | 2023-05-05 | 2023-06-17 |
+| [GLOCK](https://open.spotify.com/track/2n90r0iNEEKNd5DMf3n1oH) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [GLOCK](https://open.spotify.com/album/6szXrRHR88tVUbHBZMBH0S) | 1:57 | 2023-08-11 |  |
 | [Goteo](https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:44 | 2022-06-03 |  |
 | [Gracias A Dios](https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:02 | 2022-05-06 | 2022-06-18 |
 | [Gracias X Nada](https://open.spotify.com/track/6qSxJv4uImd95kezpLreq2) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Misael Beatz](https://open.spotify.com/artist/0tvAMN2CoNeuMdIiDaeiOw) | [Gracias X Nada](https://open.spotify.com/album/5yVNjAl6CCJk87tupQ5fYE) | 1:59 | 2022-03-11 | 2022-06-04 |
@@ -174,7 +175,7 @@
 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 | 2021-12-06 | 2022-12-09 |
 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 | 2022-12-02 |  |
 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 | 2022-06-17 | 2022-08-06 |
-| [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 | 2022-06-03 |  |
+| [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 | 2022-06-03 | 2023-08-12 |
 | [La 2blea](https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [La 2blea](https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76) | 5:25 | 2022-10-14 |  |
 | [LA DEMON](https://open.spotify.com/track/4NutCGBuECzcpMtXrGIiRW) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [LA DEMON](https://open.spotify.com/album/7utaYfVJx1dvBK8alfS6ju) | 3:50 | 2023-06-30 |  |
 | [La Maria](https://open.spotify.com/track/1tu5h5BU2WWrGH407kU0pe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:14 | 2021-12-06 | 2022-03-12 |

@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 217707,
+  "num_followers": 217879,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjlkY2FhZDMwNTI3MTVmYTQ0YzM3MmFiM2YxZGUwZDBlMWVhMzM4",
+  "snapshot_id": "MCw4ZjdjMDViMDJkMWNhMWE2N2FmNjFhNDg1ZjBkOGM4MGUzNTAxMWNj",
   "tracks": [
     {
       "added_at": "2023-07-31 15:41:06",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-31 15:41:06",
       "album": {
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
+    },
+    {
+      "added_at": "2023-07-31 15:41:06",
+      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
         "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 225777,
       "name": "surf.",
       "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
-    },
-    {
-      "added_at": "2023-07-31 15:41:06",
-      "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

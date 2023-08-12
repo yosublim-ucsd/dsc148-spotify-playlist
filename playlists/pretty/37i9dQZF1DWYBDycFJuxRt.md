@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 崎山蒼志 \*👉 <a href="https://spice.eplus.jp/articles/320996?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,919 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,001 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 68 | [Feelin'](https://open.spotify.com/track/6rQygr0uVvkWG0Fgg3IeFk) | [PVCMVN](https://open.spotify.com/artist/6tfEPZxZFYrZYmDVFdf8xl), [KOTA](https://open.spotify.com/artist/5Bm7sz3NA9hyyOp2iGGl7B) | [Feelin'](https://open.spotify.com/album/5mMNYudoHPlG95ywMwky4g) | 2:56 |
 | 69 | [NANIMONO](https://open.spotify.com/track/71piqHMTaaVbYWEWuaCk32) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [NANIMONO](https://open.spotify.com/album/3p1A4cDKrymxq8rThTl6Vz) | 3:38 |
 | 70 | [無色透明](https://open.spotify.com/track/4buo7At7ZRlmzPuB4YRUor) | [monomouth](https://open.spotify.com/artist/6oRf9ssPxPvMggTWMFKKLN) | [無色透明](https://open.spotify.com/album/5fX4wCGdAbb2CjSnM0jjuu) | 3:19 |
-| 71 | [June is about love](https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C) | 3:09 |
+| 71 | [About My Love](https://open.spotify.com/track/2T34l3QbveqkxwrIdHAdE5) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/3qUSsjzJPo3IHKi98lSS8C) | 3:09 |
 | 72 | [浪漫飛行](https://open.spotify.com/track/4p0KYVXFzZpTQwl4d3ROxs) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [浪漫飛行 トリビュートアルバム](https://open.spotify.com/album/4sVyNiD22cuC8ZEwy1tkmk) | 4:35 |
 | 73 | [Summer Glitter](https://open.spotify.com/track/5jCjjcKUap07NGxmzgFYBJ) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [Summer Glitter](https://open.spotify.com/album/4U94mukcX1a5gfUOV6rRzc) | 2:55 |
 | 74 | [Summer Dive \- Prod\. ☆Taku Takahashi](https://open.spotify.com/track/6HOwzAXtPJf3Y90SzqCQpn) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [Summer Dive \(Prod\. ☆Taku Takahashi\)](https://open.spotify.com/album/40g7iVd3DYRMEqb7GBpBkX) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Genyo](https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Genyo](https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7) | 3:57 |
 | 80 | [Haikei](https://open.spotify.com/track/2gGndsagLCcAwzk3tV1lV8) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Haikei](https://open.spotify.com/album/7IYVvXAdFDlxMkWLHSDtLR) | 3:30 |
 
-Snapshot ID: `MCxhNTZkMDRjNGRkMWI3NmQzZTdmYTk3MzZhYjRiNWNjMjAwZjY3ZDJm`
+Snapshot ID: `MCwxZmE2MjU4MjI4ZTllNjIyMDcwMjk3ZmViYmY0NTQ1NjY0NTliZDEz`

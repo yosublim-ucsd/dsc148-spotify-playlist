@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-688 songs - 1 day 11 hr 0 min
+689 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,8 @@
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-02-25 | 2022-04-08 |
 | [Pushin'](https://open.spotify.com/track/0wmwAS9SA6Tg3Qoyqx9dqU) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [XVR BLCK](https://open.spotify.com/artist/7utNm67x1f8kErx7PfWb9U) | [Pushin'](https://open.spotify.com/album/65PJkEX27NgzTI8fBAeOzU) | 3:02 | 2022-03-08 | 2022-03-09 |
 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 | 2023-06-08 | 2023-08-01 |
-| [Quarter Past 3](https://open.spotify.com/track/6xMkGgRgCPXAH7gnwEXCSL) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Quarter Past 3](https://open.spotify.com/album/1SoQjAypvaAqJnnahGAM2j) | 2:55 | 2023-08-10 |  |
+| [Quarter Past 3](https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Unfinished Business](https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v) | 2:55 | 2023-08-10 |  |
+| [Quarter Past 3](https://open.spotify.com/track/6xMkGgRgCPXAH7gnwEXCSL) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Quarter Past 3](https://open.spotify.com/album/1SoQjAypvaAqJnnahGAM2j) | 2:55 | 2023-08-10 | 2023-08-12 |
 | [Que Sera](https://open.spotify.com/track/6NcVlMRpFxCtOOAP7rQhY4) | [Lotto Ash](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [Que Sera](https://open.spotify.com/album/5oDbdz6fS5XuevhOe0Hn5C) | 2:27 | 2022-04-21 | 2022-05-20 |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-06 | 2023-08-04 |
 | [R Kid \(feat\. AJ Tracey\)](https://open.spotify.com/track/52IAQPyPTtvk4MhGJWhTOC) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Close To Home](https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R) | 3:13 | 2022-08-19 | 2022-10-07 |

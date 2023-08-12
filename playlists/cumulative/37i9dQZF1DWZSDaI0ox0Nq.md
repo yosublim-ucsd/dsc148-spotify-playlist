@@ -4,7 +4,7 @@
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-99 songs - 5 hr 39 min
+100 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amarras](https://open.spotify.com/track/76zasMxwk97QVdggJkJnaE) | [Moresco Eliseo Dúo](https://open.spotify.com/artist/039WnunMvoVHzWH9ZgwKDO) | [Amarras](https://open.spotify.com/album/3Cc8lDAnLgOI6MBolqjHWM) | 4:35 | 2021-12-03 | 2022-07-27 |
 | [Argentígena](https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH) | [María Laura Antonelli](https://open.spotify.com/artist/5tr45vqk4m3wj3HoMYjI9I) | [Argentígena](https://open.spotify.com/album/4yRJ2W2Re3eeHGlQzI0soI) | 3:38 | 2021-12-03 | 2022-07-25 |
 | [Arrabalera](https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Tita De Buenos Aires](https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP) | 2:16 | 2021-12-03 |  |
+| [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 | 2023-08-11 |  |
 | [Balada para el](https://open.spotify.com/track/03fOQBpMpTkb5L2KBMuKv1) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/0yKgc464tz08rsNg709BE6) | 4:29 | 2021-12-03 | 2022-07-29 |
 | [Balada para el](https://open.spotify.com/track/7bgQHZYKli3IE0vI379Yso) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/1VzmZvoHSg9ecyFb9W3jaR) | 4:29 | 2022-07-08 | 2022-08-18 |
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2021-12-03 |  |
@@ -72,7 +73,7 @@
 | [Naranjo en Flor](https://open.spotify.com/track/0vf32isMdRYthjBO8UkDc7) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7cA8YfWeBERZoGS55NIylD) | 3:45 | 2021-12-03 | 2022-07-29 |
 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 | 2022-07-08 |  |
 | [No Me Vendría Mal](https://open.spotify.com/track/0vO08QikFN1wCOr9hvLp4L) | [Vero Koufati](https://open.spotify.com/artist/5YU9mnS46goOuYBSgW4fjP), [Walther Castro](https://open.spotify.com/artist/5SDX7oYcQpIPJbJ0WiVzTo), [Aldo Saralegui](https://open.spotify.com/artist/13unnxfdkF6z5Qv2zdCB8q), [Emilio Longo](https://open.spotify.com/artist/3cro0Qy5Sm5pdcFL8WrTUC) | [Brindis de Mi Alma](https://open.spotify.com/album/1AIpQbfbovwfTLyFgCfzbu) | 3:45 | 2021-12-03 | 2022-06-28 |
-| [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 | 2021-12-03 |  |
+| [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 | 2021-12-03 | 2023-08-12 |
 | [O Mundo](https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef) | 4:09 | 2021-12-03 | 2022-11-10 |
 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 | 2022-07-08 |  |
 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 | 2021-12-03 |  |

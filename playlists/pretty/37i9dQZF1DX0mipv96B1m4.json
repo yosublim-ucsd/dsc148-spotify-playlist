@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 721,
+  "num_followers": 723,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjY1ZmYzNTRhMjMxNWM2Y2NkYjYyNWFhZGNlNTJkOWE2YmQzMzZm",
+  "snapshot_id": "MCw0YjEyMWNjN2I2NDQ3ZWZlNzE4Zjc3YjdiMTFmNWM1NzIwNGUyNGYx",
   "tracks": [
     {
       "added_at": "2023-07-28 11:06:29",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "Tumbiza Sound",
-        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Tumbiza Sound",
-      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
         "name": "Kisses at Midnight",
         "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
       },
@@ -235,8 +219,24 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
+        "name": "Tumbiza Sound",
+        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Tumbiza Sound",
+      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
+        "name": "Go Down",
+        "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
       },
       "artists": [
         {
@@ -244,13 +244,21 @@
           "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         },
         {
-          "name": "Geosteady1",
-          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "Kent & flosso",
+          "url": "https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD"
+        },
+        {
+          "name": "Coco Finger",
+          "url": "https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib"
         }
       ],
-      "duration_ms": 217704,
-      "name": "Izulu",
-      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
+      "duration_ms": 207229,
+      "name": "Go Down",
+      "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -347,8 +355,8 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "Go Down",
-        "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
       },
       "artists": [
         {
@@ -356,21 +364,13 @@
           "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         },
         {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "Kent & flosso",
-          "url": "https://open.spotify.com/artist/5YBqx5BwozQFujEQLgQWYD"
-        },
-        {
-          "name": "Coco Finger",
-          "url": "https://open.spotify.com/artist/4ybgdjopQNxL1SiwC1P0ib"
+          "name": "Geosteady1",
+          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
         }
       ],
-      "duration_ms": 207229,
-      "name": "Go Down",
-      "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
+      "duration_ms": 217704,
+      "name": "Izulu",
+      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
       },
@@ -599,22 +619,38 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
       "artists": [
         {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
         },
         {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
         }
       ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -643,42 +679,6 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2023-07-28 11:06:29",

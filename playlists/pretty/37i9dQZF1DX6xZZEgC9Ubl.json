@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
-  "num_followers": 1498533,
+  "num_followers": 1499039,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODVhYWQxN2E1ZWI3OWEzZWM5MTFiNWQyMDg0NjExYmUyNjkwMjQ3",
+  "snapshot_id": "MCwzMjRiYzZhMTdhZGY0NWM0OWViZTcwYmI0MTY4YjZjNjc5MmYxNzQz",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "I'm Not Human (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "I'm Not Human",
-      "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Love Is the Same as Sadness",
         "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 87411,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "I'm Not Human (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "I'm Not Human",
+      "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP"
+      },
+      "artists": [
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 165431,
       "name": "Sad & Alone",
       "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP"
-      },
-      "artists": [
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Childhood Dreams",
-        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Rather Do",
-      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Heart of Gold",
         "url": "https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 109800,
       "name": "Proud Of Myself",
       "url": "https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Childhood Dreams",
+        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Rather Do",
+      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "i can't stop",
         "url": "https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 161333,
       "name": "i can't stop",
       "url": "https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "thishouseisnotahome",
-        "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
+        "name": "XFOREVER",
+        "url": "https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n"
       },
       "artists": [
         {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
         }
       ],
-      "duration_ms": 80561,
-      "name": "whilesupplieslast",
-      "url": "https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y"
+      "duration_ms": 165386,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "XFOREVER",
-        "url": "https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n"
+        "name": "thishouseisnotahome",
+        "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
       },
       "artists": [
         {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
         }
       ],
-      "duration_ms": 165386,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA"
+      "duration_ms": 80561,
+      "name": "whilesupplieslast",
+      "url": "https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y"
     },
     {
       "added_at": "2023-08-04 04:01:00",

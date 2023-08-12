@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18944,
+  "num_followers": 18947,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj",
+  "snapshot_id": "MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Boreal Kiss Pt. 1",
-      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
-    },
-    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -303,6 +287,22 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Boreal Kiss Pt. 1",
+      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Peperomia Seedling",
-      "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Dropsonde",
         "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Peperomia Seedling",
+      "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -661,38 +661,6 @@
       "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
     },
     {
-      "added_at": "2022-02-18 05:44:17",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Wintergreen",
-        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 224145,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Clouds",
@@ -711,18 +679,34 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
-        "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
+        "name": "Wintergreen",
+        "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
       "artists": [
         {
-          "name": "F\u00e1bio Caramuru",
-          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 303226,
-      "name": "Cigarra",
-      "url": "https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ"
+      "duration_ms": 224145,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "added_at": "2022-02-18 05:44:17",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2022-05-18 01:33:16",
@@ -859,6 +843,22 @@
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Anemophily",
+        "url": "https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt"
+      },
+      "artists": [
+        {
+          "name": "Corimbo",
+          "url": "https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6"
+        }
+      ],
+      "duration_ms": 223810,
+      "name": "Arboretum",
+      "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
     }
   ],
   "unique_name": "Morning First Light",

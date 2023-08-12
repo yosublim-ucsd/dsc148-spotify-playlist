@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-1,244 songs - 2 day 14 hr 6 min
+1,245 songs - 2 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-02 | 2022-07-15 |
 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-10 |  |
 | [Ur Ex Gf](https://open.spotify.com/track/26EOid1qUGg1uApT705Swf) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Ur Ex Gf](https://open.spotify.com/album/2npT9vsQvViYBMMNKh8BPv) | 3:08 | 2023-07-27 |  |
+| [Vampire](https://open.spotify.com/track/3YfeKiZe7Up3EJxqVOKxnh) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Vampire](https://open.spotify.com/album/1HBGO7iUkmw4XhmN2yLTCY) | 3:20 | 2023-08-10 |  |
 | [Vandal](https://open.spotify.com/track/2iXD71kuex1ZdDOcIKznPJ) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Vandal](https://open.spotify.com/album/3LLqGis58Xc3bQAhUZu5DP) | 3:31 | 2022-11-25 | 2023-03-10 |
 | [Veneno](https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Veneno](https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc) | 2:27 | 2023-05-25 | 2023-07-28 |
 | [Vento Triste](https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1) | [Spirito Di Lupo](https://open.spotify.com/artist/0XSkDAZ3BpvIpAnFSEfxvC) | [Vedo La Tua Faccia Nei Giorni Di Pioggia](https://open.spotify.com/album/5SKFyA8AeGpSVZFJoAJq1g) | 2:46 | 2023-06-29 | 2023-08-11 |

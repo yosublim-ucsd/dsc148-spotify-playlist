@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,572 likes - 200 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,662 likes - 200 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 68 | [HOLD YOU \- GUDFELLA Remix](https://open.spotify.com/track/0s8MBuW6z87DhzRVYogIkb) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [HOLD YOU \(GUDFELLA Remix\)](https://open.spotify.com/album/6PwpYqWVYy9nDqN9Fe68VB) | 2:22 |
 | 69 | [ghost \(feat\. HUMAN\)](https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY) | [ghost \(feat\. HUMAN\)](https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR) | 3:56 |
 | 70 | [Hurricane \- Ryan Case Remix](https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq) | [Koastle](https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g), [Talia Rose](https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T), [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn) | [Hurricane \(Ryan Case Remix\)](https://open.spotify.com/album/6J62BG8YytAQ5zhRgOEb61) | 2:54 |
-| 71 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY) | 6:07 |
+| 71 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d) | 6:07 |
 | 72 | [what we had](https://open.spotify.com/track/4acWKpRAAnUHa8t6Xgm9Cu) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0), [Georgie O'Brien](https://open.spotify.com/artist/4aWDnkVvzu9Tc68DGOyXHl) | [what we had](https://open.spotify.com/album/4T2dCGIPhCxl3soRdLJipb) | 4:52 |
 | 73 | [You've Got The Love \- Sistek Remix](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43) | [Ethan Hodges](https://open.spotify.com/artist/2MJuujOU75c34aWr7TZsGD), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [You've Got The Love \(Sistek Remix\)](https://open.spotify.com/album/2FFJIAcV3ApoKyN2YyRXj3) | 3:31 |
 | 74 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 200 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw2ZDJiYTMzZmM2ZmQ3NTI1Zjc3ZTBiZjIyNWQ4MmU4ZmI2ZDRmYWFm`
+Snapshot ID: `MCw1MjM5YWFmZjM0MDViYzE5ZWNjYzVkZDcyZmQ1ZWNhMDlmZWI2OTdj`

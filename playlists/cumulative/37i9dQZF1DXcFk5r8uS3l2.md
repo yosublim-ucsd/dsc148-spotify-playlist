@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-315 songs - 19 hr 49 min
+316 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Transit Damage](https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB) | [Shinyribs](https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF) | [Transit Damage](https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW) | 4:25 | 2023-07-14 |  |
 | [Traveling Man](https://open.spotify.com/track/5ERX02VzXA9LLqxz6cShap) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/7GoCF1jbHhDKCNUu6B9cpy) | 3:35 | 2022-03-18 | 2022-06-11 |
 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-16 |  |
+| [True Blue](https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [True Blue](https://open.spotify.com/album/5xcqjv8Qm0h5r7PqIROYyF) | 4:11 | 2023-08-11 |  |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 | 2023-03-11 |
 | [Unchange](https://open.spotify.com/track/49Dq6pn80uHKYd5htblAXl) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH) | 3:24 | 2022-04-29 | 2023-05-01 |
 | [Unchange](https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 3:24 | 2022-05-27 |  |
@@ -309,7 +310,7 @@
 | [Watch Me Change](https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Watch Me Change](https://open.spotify.com/album/4uyEzuS7dmtuwBpLwZM7lO) | 3:36 | 2022-03-18 | 2022-07-29 |
 | [Watch Me Go](https://open.spotify.com/track/4zoCjQ2VnSlgg65FDrTr5a) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:43 | 2021-12-17 | 2022-06-28 |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2021-12-17 | 2023-04-01 |
-| [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-19 |  |
+| [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-19 | 2023-08-12 |
 | [Wednesday Morning Atonement](https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 4:28 | 2021-12-17 | 2023-02-25 |
 | [What Are You Listening To?](https://open.spotify.com/track/2mbaqK3h3Il91gTq4gMUQm) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:17 | 2021-12-17 | 2022-07-17 |
 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 | 2022-12-17 |

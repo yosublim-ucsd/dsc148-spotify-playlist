@@ -3293,6 +3293,36 @@
     },
     {
       "album": {
+        "name": "Noite Fria",
+        "url": "https://open.spotify.com/album/4dNSsEm3HuN8lG1jeiSBL8"
+      },
+      "artists": [
+        {
+          "name": "Corleone",
+          "url": "https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb"
+        },
+        {
+          "name": "A\u00e7\u00faK",
+          "url": "https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM"
+        },
+        {
+          "name": "Maipo Beats",
+          "url": "https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx"
+        },
+        {
+          "name": "Fella Rap",
+          "url": "https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Noite Fria",
+      "url": "https://open.spotify.com/track/6JtbdqQtZCniOm8VbB8pN6"
+    },
+    {
+      "album": {
         "name": "SPARRING",
         "url": "https://open.spotify.com/album/6K6XkRC4XCwP0jwKBrEMJC"
       },
@@ -4024,7 +4054,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 146140,
       "name": "Ruas",
       "url": "https://open.spotify.com/track/2fb6Unnl2Klg5GijDEeuMA"

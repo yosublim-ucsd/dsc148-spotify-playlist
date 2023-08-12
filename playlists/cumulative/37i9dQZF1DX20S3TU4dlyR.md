@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-222 songs - 14 hr 46 min
+223 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 | 2022-05-06 | 2023-01-11 |
 | [Resistencia indígena \- Remaster 2023](https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [SIG RAGGA \(Remaster 2023\)](https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy) | 5:08 | 2023-06-09 |  |
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2022-05-06 |  |
+| [Rolling](https://open.spotify.com/track/3Rmq4pfpcj3b11twkz7iaH) | [Andrés Cotter](https://open.spotify.com/artist/5LOlcDgC9Q8H5Yp2wC09Nz), [Eitan Avineri](https://open.spotify.com/artist/7JR8J5nzo0Imy2j9xQtEBE), [Western Standard Time Ska Orchestra](https://open.spotify.com/artist/307wefpFQglED5zeNdeDSA) | [Rolling](https://open.spotify.com/album/2iFs0YvvTnRf2d2XYtv5hX) | 3:20 | 2023-08-11 |  |
 | [Rumbos](https://open.spotify.com/track/5MnnfxY6P5il3uLuNXiqNa) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Rumbos](https://open.spotify.com/album/0I8OcfGllqQ6WApI1abJGw) | 2:49 | 2022-05-06 | 2022-06-19 |
 | [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 | 2022-05-06 |  |
 | [Runnin' out of Fools](https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Runnin' out of Fools](https://open.spotify.com/album/4Ya39nwsZDpmDZFF4IyjUQ) | 3:39 | 2022-05-06 | 2022-07-29 |
@@ -195,7 +196,7 @@
 | [Su Galán](https://open.spotify.com/track/0ZVUDB9PwvaeZLQbBc7bz2) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93), [Fabio Zambrana](https://open.spotify.com/artist/1oE7Qu3oJjxsCMKGauY7rp) | [Su Galán](https://open.spotify.com/album/5o2w80GzEIwynrfs0VxFTX) | 3:30 | 2022-05-06 | 2022-06-01 |
 | [Take Me to the Stars](https://open.spotify.com/track/0L9YyBg37GmbajbyEs7YZU) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/4eVtVdKSJHWlLZqt2qosWp) | 2:27 | 2022-05-06 | 2022-06-20 |
 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 | 2022-05-06 |  |
-| [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 | 2022-05-06 |  |
+| [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 | 2022-05-06 | 2023-08-12 |
 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 | 2022-05-06 |  |
 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 | 2022-05-06 | 2023-08-08 |
 | [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 | 2022-05-06 | 2022-07-29 |

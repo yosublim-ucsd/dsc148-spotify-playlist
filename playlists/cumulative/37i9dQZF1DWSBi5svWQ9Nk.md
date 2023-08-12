@@ -2,7 +2,7 @@
 
 ### [Top Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 populairste hits van Nederland\. Cover: Peggy Gou
+> De 50 populairste hits van Nederland\. Cover: Marshmello, Farruko
 
 136 songs - 6 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,529 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,639 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 5 | [Feel Good Inc.](https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 4:35 |
 | 6 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 |
 | 7 | [Papas Groove](https://open.spotify.com/track/1EiVGHxcB0XwCSbigcI5kg) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Papas Groove](https://open.spotify.com/album/0YAcNfxytJ1KlQlJwT7Ve8) | 3:14 |
-| 8 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 |
-| 9 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
+| 8 | [Kenni and the Jets](https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 4:09 |
+| 9 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
 | 10 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 |
 | 11 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
 | 12 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 14 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 15 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 |
 | 16 | [Kashmir](https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [Our Kind of Movement](https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q) | 3:55 |
-| 17 | [It Gets Funkier IV](https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Hill Climber](https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa) | 3:16 |
+| 17 | [It Gets Funkier IV](https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Hill Climber](https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa) | 3:16 |
 | 18 | [Saturn](https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 3:37 |
 | 19 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 |
 | 20 | [Tha Boogee](https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Maze of Sounds](https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6) | 7:08 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 78 | [Mr Bong](https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [Praise Me Now](https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5) | 3:40 |
 | 79 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
 | 80 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
-| 81 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 |
+| 81 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 |
 | 82 | [Missy's Strut](https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Songs from the House of Grease](https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH) | 3:55 |
 | 83 | [A Wild Mad Beat \- Edit](https://open.spotify.com/track/44WPomHosQL0gwNyLykOzo) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [A Wild Mad Beat \(Edit\)](https://open.spotify.com/album/33DiXWQxPtC4HM2Pg2XqXn) | 4:07 |
 | 84 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 105 | [Tej](https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD) | [The So Ons](https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D) | [Tej b/w Short Shrift](https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu) | 5:28 |
 | 106 | [Everybody's Inn](https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [We Are All Shining Stars](https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK) | 3:18 |
 | 107 | [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 |
-| 108 | [The Birdwatcher](https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:47 |
+| 108 | [The Birdwatcher](https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:47 |
 | 109 | [Don’t Mind](https://open.spotify.com/track/0zu754002s0GvX6DkgF7O9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Sho Is Funky Down Here](https://open.spotify.com/album/0U4H8i5foFCpjuxSMi6HJc) | 3:31 |
 | 110 | [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 |
 | 111 | [Do Yourself a Favor](https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Daniel Casares](https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Max Daniel](https://open.spotify.com/artist/7xlVDT2vGpYHyEZb08jHLl) | [Do Yourself a Favor](https://open.spotify.com/album/6L427YlOf3HbZ2KkhblvhS) | 2:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [stones throw](https://open.spotify.com/track/2NtpB7QMuLu4EWm3iYDlFR) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [stones throw](https://open.spotify.com/album/4cLIhzAvIaKRDaBXp2Z4bM) | 2:45 |
 | 150 | [It's The Smile](https://open.spotify.com/track/280PpXs3xl4NtbFlIKVpxM) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [It's The Smile](https://open.spotify.com/album/1AcLyZ6wRzNHfCmtYRrvEn) | 4:51 |
 
-Snapshot ID: `MCw4NWU5ZTVlY2U4MzFlOGQ1ZTJmZWRkMWJlZGFjNGE5NzlhYzgyNDY1`
+Snapshot ID: `MCw2ZDNmODM3MDQ2ODJjNjk1MTA0ZmEwZWRiMDlhNmQyZmYyZWI4ZDMz`

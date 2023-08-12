@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Aesolace",
+        "url": "https://open.spotify.com/album/0o7uN8tbNfroBWoEz5gidI"
+      },
+      "artists": [
+        {
+          "name": "Pollux Pluto",
+          "url": "https://open.spotify.com/artist/7MB8ZbCZVAb7XBuuFbdbXl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Aesolace",
+      "url": "https://open.spotify.com/track/76tZM5yJNhGTEiFEVUOX0G"
+    },
+    {
+      "album": {
         "name": "Aestate Nocte",
         "url": "https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq"
       },

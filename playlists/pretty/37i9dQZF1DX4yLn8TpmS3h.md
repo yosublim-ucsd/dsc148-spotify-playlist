@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,377 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,375 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 9 | [Olly Alexander from Years & Years on his Playlist](https://open.spotify.com/track/27E66TGQUVXWxtUOltZUnY) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Years & Years \- Spotify Pride](https://open.spotify.com/album/3IthvRoQiLefWpF76B1nmG) | 1:57 |
 | 10 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
 | 11 | [The Highway](https://open.spotify.com/track/3eZ1h7nR5Ig4VDbJwHgms5) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Yung Archetype](https://open.spotify.com/album/77qrs1oeGW6oz6ifNJKvYH) | 3:30 |
-| 12 | [For Today I Am A Boy](https://open.spotify.com/track/4fX0mggT4nrjB2UtPfSllk) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 2:36 |
+| 12 | [For Today I Am A Boy](https://open.spotify.com/track/4fX0mggT4nrjB2UtPfSllk) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [I Am A Bird Now](https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN) | 2:36 |
 | 13 | [My Only Friend](https://open.spotify.com/track/4cORje2nJMAdDJpZwQO2OF) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [My Only Friend](https://open.spotify.com/album/5iG0YlrDD7rTYHp922XMn2) | 4:12 |
 | 14 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 15 | [Olly Alexander from Years & Years on Coming Out](https://open.spotify.com/track/52IvQU087y8nKvluApHVkl) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Years & Years \- Spotify Pride](https://open.spotify.com/album/3IthvRoQiLefWpF76B1nmG) | 1:30 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 | 25 | [Worship](https://open.spotify.com/track/4LSaXsi2dyhdKGF6wPsHst) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:41 |
 | 26 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MCxmMTFiMzM3Y2ZkYzU5ODE1MmFkMWI4ZTI4ZTFkMDBiOGViNTFiNDgx`
+Snapshot ID: `MCw0NmE1MGY5OWQzZjI0Mjc2MTQ2NGQzY2MyYWQ4YmQ1NzU4Y2M0NTdi`

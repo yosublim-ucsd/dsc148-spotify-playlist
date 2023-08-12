@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 154386,
       "name": "Babycakes",
       "url": "https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 204680,
       "name": "Bassline Junkie",
       "url": "https://open.spotify.com/track/1o1x4gUntwc9sqeMDWR9eE"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 303000,
       "name": "Cheque One-Two",
       "url": "https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 245800,
       "name": "Destiny - Dem 2 Radio Mix",
       "url": "https://open.spotify.com/track/793c172sg8q7S4yIVdolYy"
@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "187",
+        "url": "https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4"
+      },
+      "artists": [
+        {
+          "name": "187 Lockdown",
+          "url": "https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391293,
+      "name": "Kung-Fu",
+      "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
+    },
+    {
+      "album": {
         "name": "Let Me Be Your Fantasy",
         "url": "https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9"
       },
@@ -1349,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "Love Bug (Original Bump Mix)",
+        "url": "https://open.spotify.com/album/5GOGt6fpFc39ZhEdq3rdU0"
+      },
+      "artists": [
+        {
+          "name": "Ramsey & Fen",
+          "url": "https://open.spotify.com/artist/5rBBAjkUV1bF89nr9AGpEu"
+        },
+        {
+          "name": "Lynsey Moore",
+          "url": "https://open.spotify.com/artist/31RLNDGi0or2K3mJDBlfjV"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357560,
+      "name": "Love Bug - Original Bump Mix",
+      "url": "https://open.spotify.com/track/1cIT3qEj3gNy0NDP5YgNc1"
+    },
+    {
+      "album": {
         "name": "Love Shy",
         "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
       },
@@ -1408,7 +1448,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 249231,
       "name": "Love Shy - Tuff Jam Vocal Mix",
       "url": "https://open.spotify.com/track/5oZnoalYwu89qmkx3gZORI"
@@ -1590,7 +1630,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 417401,
       "name": "Nitelife - Armand Van Helden Retail Mix",
       "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
@@ -1942,7 +1982,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 315040,
       "name": "Space Rider - MJ Cole Vocal Mix",
       "url": "https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW"
@@ -2328,7 +2368,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 187000,
       "name": "What's It Gonna Be (feat. Platnum) - Agent X Re-Rub Edit",
       "url": "https://open.spotify.com/track/3Ym9everi3OzD33YlJPYaK"

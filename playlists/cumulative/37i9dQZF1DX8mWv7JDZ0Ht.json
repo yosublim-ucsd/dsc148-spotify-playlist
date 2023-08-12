@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 185767,
       "name": "Cada Amor",
       "url": "https://open.spotify.com/track/7iuIozN19rt8QyzX20kb93"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 126588,
       "name": "GRA\u00c7AS A DEUS",
       "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
@@ -6889,6 +6889,28 @@
     },
     {
       "album": {
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
+    },
+    {
+      "album": {
         "name": "Marshmallow Flor De Sal (Deluxe)",
         "url": "https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm"
       },
@@ -7376,6 +7398,32 @@
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
+    },
+    {
+      "album": {
+        "name": "vida leve (ralk remix)",
+        "url": "https://open.spotify.com/album/0m97vhqbom6EQvYatU77Yy"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "vida leve - ralk remix",
+      "url": "https://open.spotify.com/track/5S62lSdko2EO2agKz5HJZT"
     },
     {
       "album": {

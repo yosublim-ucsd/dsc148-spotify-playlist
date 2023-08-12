@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,051 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,059 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 21 | [Lonely](https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Vibes EP](https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo) | 4:30 |
 | 22 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 |
 | 23 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
-| 24 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
-| 25 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
+| 24 | [Undertow](https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 3:22 |
+| 25 | [What Can I Do?](https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A) | [The Black Belles](https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1) | [What Can I Do?](https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b) | 3:06 |
 | 26 | [Hey God](https://open.spotify.com/track/35YbhHiWec53yRvrbz9org) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Hey God](https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L) | 3:57 |
 | 27 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 |
 | 28 | [She Moved On](https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c) | [McKinley James](https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB) | [She Moved On](https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU) | 2:47 |
@@ -52,26 +52,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 42 | [Love Sick](https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L) | [The Dust Coda](https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP) | [Love Sick](https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ) | 4:34 |
 | 43 | [Rubber Hits the Road](https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44) | [SUSU](https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv) | [Rubber Hits the Road](https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz) | 3:01 |
 | 44 | [Broken Lines](https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Miracles](https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK) | 5:22 |
-| 45 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 |
-| 46 | [Rockabye Motel](https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU) | [Blue Water Highway](https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7) | [Rockabye Motel](https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy) | 5:43 |
+| 45 | [Rockabye Motel](https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU) | [Blue Water Highway](https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7) | [Rockabye Motel](https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy) | 5:43 |
+| 46 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 |
 | 47 | [A Good Thing](https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8) | [Handsome Jack](https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr) | [A Good Thing](https://open.spotify.com/album/57syR4Vje7gemU7560rhtl) | 3:34 |
 | 48 | [Good Love Goes Bad](https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Good Love Goes Bad](https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9) | 3:55 |
-| 49 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
-| 50 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 |
+| 49 | [Still Truckin](https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [Still Truckin](https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms) | 5:10 |
+| 50 | [The Great Beyond](https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq) | [Dudley Taft](https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ) | [Guitar Kingdom](https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y) | 3:20 |
 | 51 | [Jam With Me](https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Jam With Me](https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ) | 3:21 |
-| 52 | [Still Truckin](https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [Still Truckin](https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms) | 5:10 |
-| 53 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
-| 54 | [Gimme Your Love](https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:37 |
-| 55 | [Sweet Dreams](https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Sweet Dreams](https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE) | 4:15 |
+| 52 | [Take My Rider](https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl) | [Douglas Avery](https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz) | [Take My Rider](https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y) | 5:12 |
+| 53 | [Sweet Dreams](https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Sweet Dreams](https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE) | 4:15 |
+| 54 | [So Free](https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [So Free](https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L) | 3:17 |
+| 55 | [Gimme Your Love](https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 4:37 |
 | 56 | [Hazel Eyes](https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs) | [Ash Lambe & The 32\-20's](https://open.spotify.com/artist/1PYQHnrVYww26xUopjV3s2) | [Hazel Eyes](https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T) | 4:54 |
 | 57 | [Keep On Rocking](https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl) | [Max Poolman](https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys) | [Roads Go On Forever](https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o) | 3:57 |
 | 58 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 |
 | 59 | [Old Road](https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO) | [Keegan McInroe](https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0) | [Old Road](https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb) | 5:11 |
 | 60 | [Sing the Blues](https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg) | [Pontillo And The Vintage Crew](https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv) | [For the Love of Blues](https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs) | 5:53 |
 | 61 | [Waiting](https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Waiting](https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01) | 2:14 |
-| 62 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
-| 63 | [Got To Get Out](https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Bound To Get The Blues](https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR) | 5:00 |
+| 62 | [Got To Get Out](https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Bound To Get The Blues](https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR) | 5:00 |
+| 63 | [Ten Beer Job](https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh) | [Jericho Woods](https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled) | [Stop Signs and Fence Lines](https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB) | 2:50 |
 | 64 | [Rag Doll](https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT) | [Jenny Teator](https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b) | [Rag Doll](https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6) | 2:49 |
-| 65 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 |
+| 65 | [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 |
 
-Snapshot ID: `MCw5YTI1YTE2MzFmN2I4MTQwMGI5ZjhkZTEyYmQ1NGZlOGExYzhhNWEx`
+Snapshot ID: `MCxkOTIwM2MxODIxNjZkNGZhYjJmODBmZmYxZWE4Y2MzODFmOTIzN2Zi`

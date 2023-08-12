@@ -7312,7 +7312,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 189850,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb"
@@ -9988,6 +9988,24 @@
       "duration_ms": 115571,
       "name": "every lil' thing",
       "url": "https://open.spotify.com/track/3MznMdhpAbxwEVnCEQmyQk"
+    },
+    {
+      "album": {
+        "name": "every minute",
+        "url": "https://open.spotify.com/album/2FwqkC9quZSOFD2NDLHbZF"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133940,
+      "name": "every minute",
+      "url": "https://open.spotify.com/track/3lQUZQQeLhQWeos7DbfB5B"
     },
     {
       "album": {
@@ -22177,6 +22195,24 @@
     },
     {
       "album": {
+        "name": "ELECTRIC",
+        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164340,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
+    },
+    {
+      "album": {
         "name": "no expectations.",
         "url": "https://open.spotify.com/album/3Hj9wpcgosXqcw6sdmSBg3"
       },
@@ -24500,7 +24536,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 140016,
       "name": "Play Poker Remix - Remix",
       "url": "https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU"
@@ -26198,6 +26234,32 @@
       "duration_ms": 151578,
       "name": "REM (No Sleep)",
       "url": "https://open.spotify.com/track/0ByIm1EVc6JvOYwoe67EqQ"
+    },
+    {
+      "album": {
+        "name": "place4us",
+        "url": "https://open.spotify.com/album/2VxNzf5TZoiTCgTlhwBoLD"
+      },
+      "artists": [
+        {
+          "name": "DESTROY BORING",
+          "url": "https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ"
+        },
+        {
+          "name": "Belis",
+          "url": "https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191162,
+      "name": "remedy",
+      "url": "https://open.spotify.com/track/4EIqHD0JXTORIeImuvvDI4"
     },
     {
       "album": {
@@ -31268,7 +31330,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 206701,
       "name": "teeth II",
       "url": "https://open.spotify.com/track/6xZgMvO83D2MbaMIyE38qk"

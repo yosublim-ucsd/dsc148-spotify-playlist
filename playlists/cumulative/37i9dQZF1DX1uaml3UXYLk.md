@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-546 songs - 1 day 10 hr 42 min
+547 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Late Night Rewind](https://open.spotify.com/track/65ynCVpc1h5xE9JZ9URl2Y) | [Reglisse](https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6) | [Late Night Rewind](https://open.spotify.com/album/4YBQ1woEiszGgoWydnWK3A) | 3:00 | 2021-02-12 |  |
 | [Lekkoo](https://open.spotify.com/track/1jSdFS2JKeAfn0xZTEHksx) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 3:10 | 2021-01-21 | 2022-06-24 |
 | [Lemon Chill](https://open.spotify.com/track/68ftFeFDbVK08MUF1NyMAI) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Lemon Chill](https://open.spotify.com/album/0JusNbO9M4ZAvvnmdMoU19) | 2:12 | 2022-11-25 |  |
+| [Lemonade Skies](https://open.spotify.com/track/4h6zisKrFQ0XKaPluw7Uie) | [Stadión](https://open.spotify.com/artist/5IEpj90HYFJAnJB6UN00Al) | [Lemonade Skies](https://open.spotify.com/album/77WGNUNq4Wmc2HgtOWlSh2) | 2:32 | 2023-08-11 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-07-09 |  |
 | [Let Me Be](https://open.spotify.com/track/5l8qKd0YbX0lTY672meWyP) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Let Me Be](https://open.spotify.com/album/0b2BeiQYPBLKxyKJiMg180) | 2:57 | 2020-11-13 | 2021-01-15 |
 | [Life Is So Beautiful](https://open.spotify.com/track/6luAShpeqHTE84A4pY6Zcg) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Life Is So Beautiful](https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg) | 2:02 | 2020-10-20\* | 2020-11-28 |
@@ -275,7 +276,7 @@
 | [Loose Track](https://open.spotify.com/track/2Pb0kFoTW69caBRsiKN4Z8) | [Chilldine](https://open.spotify.com/artist/5iAKjp62cPdw1BgkXruG4O) | [Loose Track](https://open.spotify.com/album/1ujIEH3wOFopsIAKUTHgnX) | 3:11 | 2022-11-25 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-12 | 2022-08-05 |
 | [Love And Bass \- Art Alfie Remix](https://open.spotify.com/track/0oodhkRajpYiV6fwDU4jJS) | [Maneten](https://open.spotify.com/artist/2aHZqoxlKM0bQJEkgUVxhC), [Art Alfie](https://open.spotify.com/artist/7g9ewvDvPJxRVRCofG9xRY) | [Love And Bass \(Art Alfie Remix\)](https://open.spotify.com/album/4BwceKAMTvFX6pH9ak5hiu) | 8:50 | 2021-01-15 | 2021-03-06 |
-| [Love funk](https://open.spotify.com/track/73t9mulHQgjAKRccY2qVTf) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Love funk](https://open.spotify.com/album/3ZEKvm1gd0UrBq6lyuRSTD) | 2:02 | 2023-03-10 |  |
+| [Love funk](https://open.spotify.com/track/73t9mulHQgjAKRccY2qVTf) | [Ixxx](https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y) | [Love funk](https://open.spotify.com/album/3ZEKvm1gd0UrBq6lyuRSTD) | 2:02 | 2023-03-10 | 2023-08-12 |
 | [Love Recycled 1](https://open.spotify.com/track/0fBzgsaU1cDoS5dFI34dSB) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Love Recycled EP](https://open.spotify.com/album/4BH7j7VQwM6V3C45tTRYj6) | 7:29 | 2021-01-29 | 2021-02-20 |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2021-06-04 |  |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2021-05-13 | 2022-08-05 |

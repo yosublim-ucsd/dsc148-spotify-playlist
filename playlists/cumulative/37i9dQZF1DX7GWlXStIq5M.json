@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Pabllo Vittar",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove",
   "name": "Palco POP",
   "tracks": [
     {
@@ -2911,6 +2911,32 @@
     },
     {
       "album": {
+        "name": "Ex Mai Love (1,99 Remix)",
+        "url": "https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o"
+      },
+      "artists": [
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "MGZD",
+          "url": "https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "Ex Mai Love - 1,99 Remix",
+      "url": "https://open.spotify.com/track/1BAiq5hAOtdbo9yohjgFn9"
+    },
+    {
+      "album": {
         "name": "FAKE",
         "url": "https://open.spotify.com/album/4cAo61QXa2JBRWcmEznLg8"
       },
@@ -4177,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/4atH9mSxzXTZXm6obsGjqc"
+      },
+      "artists": [
+        {
+          "name": "Yago Vidal",
+          "url": "https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/32204Bzd7Eeqf8oK3maOIt"
+    },
+    {
+      "album": {
         "name": "INTERESSANTE",
         "url": "https://open.spotify.com/album/6ui7pzTTnJ4zhnf7faJxMB"
       },
@@ -4936,6 +4980,28 @@
       "duration_ms": 160000,
       "name": "MALDADE",
       "url": "https://open.spotify.com/track/0WHlG8p1XeTHV773c2oSGE"
+    },
+    {
+      "album": {
+        "name": "Maldade",
+        "url": "https://open.spotify.com/album/6qZi0p6QEwwVzHuZe4tVwN"
+      },
+      "artists": [
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Thiago Pantele\u00e3o",
+          "url": "https://open.spotify.com/artist/6gCRodI8VEZ231Eio1Aoao"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118577,
+      "name": "MALDADE",
+      "url": "https://open.spotify.com/track/2ZdZkj7bt6R0khItCrD9QB"
     },
     {
       "album": {
@@ -6512,7 +6578,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 140526,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/6mBgBLSngXOtVWa8Lun5Ot"
@@ -6636,6 +6702,24 @@
       "duration_ms": 194000,
       "name": "on god",
       "url": "https://open.spotify.com/track/7a7wbihbtKPnMCq17iECek"
+    },
+    {
+      "album": {
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168220,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
     },
     {
       "album": {
@@ -7952,6 +8036,24 @@
       "duration_ms": 153413,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+    },
+    {
+      "album": {
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184383,
+      "name": "RADAR - AO VIVO",
+      "url": "https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb"
     },
     {
       "album": {
@@ -10554,6 +10656,24 @@
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "album": {
+        "name": "wet dreams",
+        "url": "https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141966,
+      "name": "wet dreams",
+      "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"
     },
     {
       "album": {

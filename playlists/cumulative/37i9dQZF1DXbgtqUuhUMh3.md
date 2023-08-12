@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Asmaa lmnawar
 
-523 songs - 1 day 6 hr 25 min
+524 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 | 2021-12-30 | 2022-03-02 |
 | [tab eh](https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:13 | 2023-05-08 | 2023-07-07 |
 | [Takka](https://open.spotify.com/track/1Vz5CPagIv4rz9lV2COxQX) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Takka](https://open.spotify.com/album/70XN9i9tTkaLEXjln48YO0) | 2:53 | 2021-12-23 | 2022-03-02 |
-| [Taqa Egabiya](https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Taqa Egabiya](https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu) | 3:03 | 2023-05-16 |  |
+| [Taqa Egabiya](https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Taqa Egabiya](https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu) | 3:03 | 2023-05-16 | 2023-08-12 |
 | [Tea Song](https://open.spotify.com/track/67rHWWoksclsZD5FbNAqL2) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Tea Song](https://open.spotify.com/album/6IBiga0zNTzTEfnRyAduzt) | 5:39 | 2021-12-30 | 2022-02-27 |
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-11 |  |
 | [Telepathy](https://open.spotify.com/track/4EhlQmVjfzRJPpCnQb4OX9) | [Reham Shaaban](https://open.spotify.com/artist/0xSQiASAy60u6fwtpHtOx9) | [Telepathy](https://open.spotify.com/album/2duw9L2jAV3DcTfY8FGpUa) | 7:58 | 2021-12-23 | 2022-02-23 |
@@ -484,6 +484,7 @@
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 | 2023-07-14 |
 | [عشر دقايق](https://open.spotify.com/track/4AcfEkbQ8NxCvRbsh52Hcu) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:43 | 2023-07-13 | 2023-07-15 |
 | [عشر دقايق](https://open.spotify.com/track/5F8xazyO2TD7bURXpjo7bM) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [عشر دقايق](https://open.spotify.com/album/0jqybbsdLzEWIqmlsAGwHn) | 3:43 | 2023-05-11 | 2023-05-23 |
+| [عكسهم](https://open.spotify.com/track/3Lui4jMSqPFnB3bwNEOKqE) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj) | [عكسهم](https://open.spotify.com/album/5olZ9K1iqwlW7fyHPBgm91) | 3:18 | 2023-08-11 |  |
 | [علبة بقلب علبة](https://open.spotify.com/track/1o2AaN71DP2xeqFPRVlwqw) | [Sabine Salamé](https://open.spotify.com/artist/4EZoX50L10Sv6zqfwzGQoQ) | [علبة بقلب علبة](https://open.spotify.com/album/0Wi6dh6Pn20EH5GBgfAeQr) | 3:18 | 2022-01-27 | 2022-03-02 |
 | [على كيفي](https://open.spotify.com/track/4a6bLROaBRTXHvbOU4iUlL) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [على كيفي](https://open.spotify.com/album/1KUd4Q4eTnblXlRJu9Ho1t) | 3:08 | 2023-07-13 | 2023-08-03 |
 | [غايب](https://open.spotify.com/track/3Nqk8sdD0ymr2c6rfQ3YzD) | [Sarah Farah](https://open.spotify.com/artist/6CmLqjGvgy2OuJtfgkCDXi) | [Ghayeb](https://open.spotify.com/album/45W5yYivOvBRVY3oknE5o8) | 3:34 | 2023-04-10 | 2023-05-05 |

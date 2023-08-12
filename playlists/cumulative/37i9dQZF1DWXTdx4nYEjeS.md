@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-966 songs - 2 day 10 hr 51 min
+967 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Caja Negra](https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Caja Negra](https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx) | 3:38 | 2023-06-16 | 2023-07-29 |
 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 | 2022-03-28 | 2022-04-07 |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2022-04-01 | 2022-04-19 |
-| [Calles Rotas](https://open.spotify.com/track/5ONux1xDZJeTMJjwtx0VLy) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Calles Rotas](https://open.spotify.com/album/5e402GW4kh1SSSxevNF6hF) | 5:16 | 2023-07-28 |  |
+| [Calles Rotas](https://open.spotify.com/track/5ONux1xDZJeTMJjwtx0VLy) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Calles Rotas](https://open.spotify.com/album/5e402GW4kh1SSSxevNF6hF) | 5:16 | 2023-07-28 | 2023-08-12 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-04-13 | 2022-04-17 |
 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-28 | 2023-05-14 |
 | [Cambio y fuera](https://open.spotify.com/track/7n6KU2wVHQ04TNTVAQA1EK) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Cambio y Fuera](https://open.spotify.com/album/0kyGSEa7aY4L5ucu9F25LS) | 5:08 | 2022-04-01 | 2022-04-15 |
@@ -593,6 +593,7 @@
 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 | 2022-04-01 | 2022-04-20 |
 | [Monte Adentro](https://open.spotify.com/track/6japMHJTJyhGRCM0ChfUV2) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [Monte Adentro](https://open.spotify.com/album/2qevwu4R55bngCs579KmHK) | 4:06 | 2022-03-28 | 2022-03-31 |
 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 | 2022-01-07 | 2022-04-07 |
+| [Muere y Llueve \(feat\. Soledad\)](https://open.spotify.com/track/3eD9IOTjzhH0U1GJ9a7z1m) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Caramelos de Felicidad](https://open.spotify.com/album/7pLDXo36pQJ7Dv2likm6nJ) | 3:08 | 2023-08-11 |  |
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-24 | 2022-07-29 |
 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/1xiJPP4NLxuCr4ecoyq6jR) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Lebón & Co.](https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2) | 4:35 | 2021-12-24 | 2022-07-27 |
 | [Mundo de Cristal](https://open.spotify.com/track/6vV1TLBRd8IeOpQMZNw1ZH) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Mundo de Cristal](https://open.spotify.com/album/6cl4uIrqDSu297ApS84ZBj) | 4:11 | 2021-12-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Spotify's first ever all-women soccer playlist. Built by your favorite players.",
-  "num_followers": 14103,
+  "num_followers": 14329,
   "original_name": "EQUAL - The Players",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzI4NTA0ZjI0MWIzZTdhYmU3MjY2ZTI0MTRjMjAzZGQxMDJmZDkw",
+  "snapshot_id": "MCwwY2E1MzU2MmNjZWQ4MWM5OWU2MTQ3YjNiMDc3Mzc1ZjVmNjgyNDlh",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -271,6 +271,26 @@
       "duration_ms": 95317,
       "name": "Break It Off",
       "url": "https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd"
+    },
+    {
+      "added_at": "2023-08-11 11:10:25",
+      "album": {
+        "name": "Unity \u2013 The Official FIFA Women\u2019s World Cup 2023\u2122 Theme",
+        "url": "https://open.spotify.com/album/34WnMd3mAw7UM8MLLif1of"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 108794,
+      "name": "Unity \u2013 The Official FIFA Women\u2019s World Cup 2023\u2122 Theme",
+      "url": "https://open.spotify.com/track/01sOUzTrU0k3HPlp3Z70RR"
     },
     {
       "added_at": "2023-08-02 04:00:00",

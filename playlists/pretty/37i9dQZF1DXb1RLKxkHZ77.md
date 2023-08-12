@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,417 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,508 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 |
 | 50 | [Kecundang](https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Selamat Tinggal Pujaan](https://open.spotify.com/album/29k6rNn6fU89ucu6UNadlo) | 2:28 |
 
-Snapshot ID: `MCw1MDkwOTAxYmEzZTU2MjdmODNkMzY1YTk2NWNkZmIwNWRmYThjZTdh`
+Snapshot ID: `MCw2ZWRmZGZhNjdjODczOTJkMGFmYjhiY2YyOGY0MTRlN2UwYzhmOWJm`

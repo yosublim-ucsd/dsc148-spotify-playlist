@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr Pig y Mario Bautista en portada.",
-  "num_followers": 54820,
+  "num_followers": 54825,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNjMjQyZDVkMTdkYzY4NzI4YmZmMjcwMGM4ZTQwZjM0MmE4MGE5",
+  "snapshot_id": "MCxjZGI2ZDMxODlmM2ZmYWE2NjYzODQ3NWViNDRmNDRjY2Q5YjNlOTc5",
   "tracks": [
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
-      },
-      "artists": [
-        {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
-        },
-        {
-          "name": "Danno Summer",
-          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
-        }
-      ],
-      "duration_ms": 181726,
-      "name": "No Vas A Volver",
-      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
+      },
+      "artists": [
+        {
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+        },
+        {
+          "name": "Danno Summer",
+          "url": "https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2"
+        }
+      ],
+      "duration_ms": 181726,
+      "name": "No Vas A Volver",
+      "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
     },
     {
       "added_at": "2023-07-28 19:14:29",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-07-28 19:14:29",
       "album": {
+        "name": "DiabloTeam (The Night After)",
+        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
+      },
+      "artists": [
+        {
+          "name": "Dapuntobeat",
+          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
+        }
+      ],
+      "duration_ms": 290483,
+      "name": "DiabloTeam (The Night After)",
+      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
+    },
+    {
+      "added_at": "2023-07-28 19:14:29",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
-    },
-    {
-      "added_at": "2023-07-28 19:14:29",
-      "album": {
-        "name": "DiabloTeam (The Night After)",
-        "url": "https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y"
-      },
-      "artists": [
-        {
-          "name": "Dapuntobeat",
-          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
-        }
-      ],
-      "duration_ms": 290483,
-      "name": "DiabloTeam (The Night After)",
-      "url": "https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh"
     },
     {
       "added_at": "2023-07-28 19:14:29",

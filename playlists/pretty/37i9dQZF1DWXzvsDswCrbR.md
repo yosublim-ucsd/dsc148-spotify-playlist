@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 
 > The sound of bounce, curated by Big Freedia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,952 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,955 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 | 10 | [I Really Want U \(feat\. Partners n Crime\)](https://open.spotify.com/track/0rUHJWSQuKUGCV7qTF2bHh) | [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH), [Partners\-N\-Crime](https://open.spotify.com/artist/45QC24TiJaUefMd4ZXqMpB) | [Take It to the Hole](https://open.spotify.com/album/0b9TV9aP5Fe62ED1LJKYUc) | 4:07 |
 | 11 | [Hammer](https://open.spotify.com/track/46GxEbqlrV83WqeQvupcem) | [Keedy Black](https://open.spotify.com/artist/3dvulGAyEQEjJbQg33gUSQ) | [New Orleans Bounce Essentials, Vol\. 3](https://open.spotify.com/album/39UzhAtgvDhXJlcUZpinZ7) | 2:38 |
 | 12 | [Where They At \- Radio Version](https://open.spotify.com/track/3BuSKfVHRKZhwiRuxgAJVp) | [DJ Jimi](https://open.spotify.com/artist/3nqEYrDwdr8t7E5eaxhcD2) | [It's Jimi](https://open.spotify.com/album/4uRPMTLaSkaCiHjtUKD8hY) | 3:33 |
-| 13 | [Smoking Gun](https://open.spotify.com/track/3nOE0JabbXrgjYr7R7PRXf) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Shake Twerk & Wobble 2](https://open.spotify.com/album/7uvRdlfrGiOEZfAaERZNkA) | 3:23 |
+| 13 | [Smoking Gun](https://open.spotify.com/track/5MBPsMuZ3N7lHMwHgZqCMq) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Gracie Productions Presents: Hip Hop Vol\. 3](https://open.spotify.com/album/1U2MTm3a5KFId2MrxCI1M2) | 3:23 |
 | 14 | [Express Yourself \(feat\. Nicky Da B\)](https://open.spotify.com/track/7s5a2gLa9Ip1LDKeAaHJRr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:37 |
 | 15 | [Twerk Something](https://open.spotify.com/track/39GvFV5Ut0Lnyi3O2Apnpt) | [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Old School New Orleans Bounce, Vol\. 2](https://open.spotify.com/album/6xaOJ6NKMroBlwYyKmh905) | 6:15 |
 | 16 | [Titty Bop](https://open.spotify.com/track/1lAoxsinr5MiR3rojTOTYn) | [Katey Red](https://open.spotify.com/artist/4xrkUOqFjYLYrThn1VIaI5) | [Katey's Hits](https://open.spotify.com/album/4xxECBRmMRR0giGMkT4FCl) | 4:56 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 | 21 | [Do It Again](https://open.spotify.com/track/1PiuN63vMoORqfCsF4ob1Q) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 2:31 |
 | 22 | [Pipe That \(feat\. Icona Pop & The Soul Rebels\)](https://open.spotify.com/track/2PZSDlMj55mheRfBELyAsy) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Louder](https://open.spotify.com/album/1LoYYEZkYPEXKzTiw7p37T) | 2:50 |
 
-Snapshot ID: `MCxlMjJlZWIwY2JhMjQyNGJlMWIxNmMyYjM0YTVhYmVhZTU4N2QyZmQw`
+Snapshot ID: `MCw0YTBmYjUxY2E5YzhhMmM3MWFlYzRmZWNmOWUyNzAyYzc0OWI1NWY5`

@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "de: para:",
+        "url": "https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/6YkDNFdJpAXq3qgHYjPMCA"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/55sAyVRP8wgp4YWsETCkeB"
       },

@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-168 songs - 8 hr 0 min
+171 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2023-03-10 |  |
 | [Any Day Now](https://open.spotify.com/track/4Ma1uiF9nGClYmNx7yuhEJ) | [Colateral Commons](https://open.spotify.com/artist/36BVUrJXBiHHzwASLjuscd) | [Any Day Now](https://open.spotify.com/album/0YWzasNPyT6tyoiMKI5RS9) | 2:48 | 2023-04-28 | 2023-06-16 |
 | [Astral Whispers](https://open.spotify.com/track/4dChQFplgw4AdwesKeyU4c) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Astral Whispers](https://open.spotify.com/album/2r7hBDnjROHcnZH7Fdlv1h) | 2:25 | 2023-06-22 |  |
+| [At Least For Know](https://open.spotify.com/track/41BAZySL6knhzYykdFfuwJ) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [At Least For Know](https://open.spotify.com/album/0xd5GpFXDZdM6AjEYB1t75) | 2:03 | 2023-08-11 |  |
 | [Be There](https://open.spotify.com/track/2qFsvgnQJ4bA4SqizPiXyV) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [You'll See](https://open.spotify.com/album/4ShmyDAGJSuuBWw3KvblFK) | 2:54 | 2023-05-19 |  |
 | [BLIND](https://open.spotify.com/track/5NlOyaEtji1DNwsWiOjmXP) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [BLIND](https://open.spotify.com/album/3N6aevLWDHClADfBe8MY0X) | 2:01 | 2023-02-25 |  |
 | [Blue Hour](https://open.spotify.com/track/2B8K5m8XwCz2MJvahACTjD) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Blue Hour](https://open.spotify.com/album/6nrN4FXdPFJBUk7QO8HJdk) | 2:20 | 2023-03-10 |  |
@@ -35,7 +36,7 @@
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2022-05-13 |  |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 | 2022-05-13 | 2023-06-10 |
-| [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 | 2022-05-13 |  |
+| [Count Me In](https://open.spotify.com/track/1BHe1rqxhkVlJctZQ9nzIY) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 3:00 | 2022-05-13 | 2023-08-12 |
 | [Crows](https://open.spotify.com/track/0GZRJWAb08RLUPHyP6uWcY) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Condor](https://open.spotify.com/album/71NA8lopGqU0sPiaGvrX5j) | 2:39 | 2022-05-13 |  |
 | [Dance for Two Strangers](https://open.spotify.com/track/2GREyN7Ff5LeXWU50uX3lq) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 2:23 | 2022-05-13 |  |
 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 | 2022-05-13 |  |
@@ -92,6 +93,7 @@
 | [lone cowboy](https://open.spotify.com/track/5UZdpqf1F4fvDqvGYC2sRt) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lone cowboy](https://open.spotify.com/album/3q7mTrEO8fhmbdh64N1km3) | 2:35 | 2023-01-06 |  |
 | [Lullaby for the Weary](https://open.spotify.com/track/2qRRt2Dpf6LhruOw4QHjtJ) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V), [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Fractions of Light](https://open.spotify.com/album/5x3TeQqcgNZlX9CRSLeurL) | 2:42 | 2023-05-19 |  |
 | [Madrigal](https://open.spotify.com/track/7HacRe0qGc3KeVeCRVcIFN) | [Felipe Pérez Santiago](https://open.spotify.com/artist/4FfFH7PoQpP9wuDaUkrdrw) | [Humedal](https://open.spotify.com/album/3aZ7Q5otwzpaHcPXpKLiS2) | 2:27 | 2022-05-13 |  |
+| [Magic Touch](https://open.spotify.com/track/0Ies3sFZNS0SwbMq8sVAGj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Magic Touch](https://open.spotify.com/album/46jVYKIPbjG0dukX9dFz38) | 2:20 | 2023-08-11 |  |
 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 | 2022-05-13 |  |
 | [Mente Libre](https://open.spotify.com/track/2Hd0NIYAMRez3FfjWfkFXv) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Mente Libre](https://open.spotify.com/album/0pdbiXji6KDN7fsCKgYalt) | 3:47 | 2022-05-13 |  |
 | [ML Bound](https://open.spotify.com/track/3XPHibpilVQZvpvN4BpvGz) | [Tropic Lame](https://open.spotify.com/artist/3WVSQw0STiqOBYFHWSryxP) | [Covert](https://open.spotify.com/album/64zVQb34ODaq3y1oxx7VaS) | 4:30 | 2022-05-13 |  |
@@ -118,11 +120,12 @@
 | [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 | 2023-03-11 |
 | [Playing With The Wind](https://open.spotify.com/track/3yZKk7wp39zvQVhw5sI94h) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Playing With The Wind](https://open.spotify.com/album/1MAfSjDCWtWMddzLKCSMpe) | 2:30 | 2023-06-09 |  |
 | [Precious Time](https://open.spotify.com/track/1CE2JVNtxahAJONVsQtXn0) | [Snohia](https://open.spotify.com/artist/1SLKYmQ8qOG0ntwWx0LCrl) | [Precious Time](https://open.spotify.com/album/6dB6ksULB0MT3aRol8dBkH) | 2:25 | 2023-06-09 |  |
-| [PROVENZA \- Guitar](https://open.spotify.com/track/7j2LbOo50jIVChXZsxyFn2) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Éxitos Latinos \(Guitar\)](https://open.spotify.com/album/1QThiTr0gwlXNDP5oW9NGN) | 3:56 | 2023-01-20 |  |
+| [PROVENZA \- Guitar](https://open.spotify.com/track/7j2LbOo50jIVChXZsxyFn2) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Éxitos Latinos \(Guitar\)](https://open.spotify.com/album/1QThiTr0gwlXNDP5oW9NGN) | 3:56 | 2023-01-20 | 2023-08-12 |
 | [Pyramids](https://open.spotify.com/track/1a2BXMnQbjArGITwt3bMD9) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Pyramids](https://open.spotify.com/album/0MZDh1O5yxy2LbDRwbVilE) | 2:01 | 2023-04-28 | 2023-06-10 |
 | [Rainbows](https://open.spotify.com/track/6aU2VzxqnLsrxpj860pHO0) | [The Frail Hearts](https://open.spotify.com/artist/407vmsw3jgYhXIyMEN24jc) | [Rainbows](https://open.spotify.com/album/2gmTjeI0mETRXbZq39yZOk) | 2:34 | 2023-05-19 | 2023-06-10 |
 | [remembrance](https://open.spotify.com/track/5NFybpngup7caMPSMiJ5ZO) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [remembrance](https://open.spotify.com/album/5CodeMIZq9ynQ0hSa4YHRw) | 3:15 | 2022-12-16 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-28 |  |
+| [Right Here](https://open.spotify.com/track/1ufAZB9UFUiv3nB8JH3LoF) | [Lany Mokita](https://open.spotify.com/artist/5A9ZWS5PafMTvNvLdKC8zB) | [Right Here](https://open.spotify.com/album/6OKGvwCzFk7Cu5FFv4qwHq) | 2:01 | 2023-08-11 |  |
 | [Roll](https://open.spotify.com/track/45hrCYJ27wKJEDW8DKh2Ko) | [Bluetoon](https://open.spotify.com/artist/135WbQvbKp0SnPHy80df1X) | [The Skies Above](https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49) | 2:50 | 2022-05-13 | 2023-01-20 |
 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2022-05-13 | 2023-06-23 |
 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-808 songs - 1 day 16 hr 44 min
+809 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Ad meliora](https://open.spotify.com/track/3eH1JsXzR1sPVBKaQyL5ZY) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Ad meliora](https://open.spotify.com/album/3emuKVt1QulrnDlZ9FjrBh) | 2:38 | 2020-10-20\* | 2021-06-16 |
 | [Aerofoil](https://open.spotify.com/track/0nqtOf7OZfOIKgv2ejTb6P) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Aerofoil](https://open.spotify.com/album/3tQSbtuExjx2FLk0iNq7Dw) | 3:19 | 2020-11-03 | 2021-05-04 |
+| [Aesolace](https://open.spotify.com/track/76tZM5yJNhGTEiFEVUOX0G) | [Pollux Pluto](https://open.spotify.com/artist/7MB8ZbCZVAb7XBuuFbdbXl) | [Aesolace](https://open.spotify.com/album/0o7uN8tbNfroBWoEz5gidI) | 3:01 | 2023-08-11 |  |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2021-07-07 | 2023-06-03 |
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2022-01-28 | 2023-06-10 |
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-04 | 2023-06-03 |

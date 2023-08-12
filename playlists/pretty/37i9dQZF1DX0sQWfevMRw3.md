@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > TRUCKER MOTHERF\*CKER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,834 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,901 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [EFTERFEST](https://open.spotify.com/track/1Pg5xFsAXx3nYuNtmqDHzy) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [EFTERFEST](https://open.spotify.com/album/0WlyiWQINyWqy7g1qz7DvA) | 2:20 |
 | 100 | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/track/52KOHfjlRyL84Q6WlSqpPT) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy) | 2:22 |
 
-Snapshot ID: `MCw4YzNjZjIzNDJjMmM1MDA2Nzg3OTU0MjQ3ZjkzMDk3ZGNhZmY4MDI4`
+Snapshot ID: `MCxmYTUxZDFlYWU4NTIxYmZlZDhhYWFmZWY0MmFmOWQ3YzMwYjhiOTU2`

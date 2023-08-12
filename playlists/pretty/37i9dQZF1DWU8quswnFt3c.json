@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 918766,
+  "num_followers": 920392,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk",
+  "snapshot_id": "MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "WILLY",
         "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
       },
@@ -443,22 +463,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Faz Assim",
-        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Purple Moon",
-        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
-      },
-      "artists": [
-        {
-          "name": "Ilgen-Nur",
-          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
-        }
-      ],
-      "duration_ms": 197203,
-      "name": "Purple Moon",
-      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Flori de mai",
         "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177391,
       "name": "Flori de mai",
       "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Purple Moon",
+        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
+      },
+      "artists": [
+        {
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+        }
+      ],
+      "duration_ms": 197203,
+      "name": "Purple Moon",
+      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 161259,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 161259,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
-        "url": "https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s"
-      },
-      "artists": [
-        {
-          "name": "C\u1ea7m",
-          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
-      "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "\u05e7\u05de\u05ea\u05d9 \u05dc\u05e8\u05e7\u05d5\u05d3",
         "url": "https://open.spotify.com/album/6mkQst9FWyn45fyXwtpoF4"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195000,
       "name": "\u05e7\u05de\u05d4 \u05d1\u05d1\u05d5\u05e7\u05e8",
       "url": "https://open.spotify.com/track/5q5feyyZOjf67AG8kszaui"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+        "url": "https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "\u0110\u1eebng D\u1eaft Em \u0110i L\u00f2ng V\u00f2ng",
+      "url": "https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "There's Nothing Else",
-        "url": "https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq"
-      },
-      "artists": [
-        {
-          "name": "Assia Keva",
-          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "There's Nothing Else",
-      "url": "https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "S k\u00fdm si",
         "url": "https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 181132,
       "name": "S k\u00fdm si",
       "url": "https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "There's Nothing Else",
+        "url": "https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "There's Nothing Else",
+      "url": "https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Mis Ni\u00f1as",
-        "url": "https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R"
+        "name": "LIVE ARCHIVE",
+        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
       "artists": [
         {
-          "name": "L'Beel",
-          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Champion Sound",
+          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
         }
       ],
-      "duration_ms": 149760,
-      "name": "200/h",
-      "url": "https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC"
+      "duration_ms": 242256,
+      "name": "Pink Matter - Live",
+      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
       "added_at": "2023-08-02 14:04:23",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "LIVE ARCHIVE",
-        "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
+        "name": "Mis Ni\u00f1as",
+        "url": "https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R"
       },
       "artists": [
         {
-          "name": "Annet X",
-          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
-        },
-        {
-          "name": "Champion Sound",
-          "url": "https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx"
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
         }
       ],
-      "duration_ms": 242256,
-      "name": "Pink Matter - Live",
-      "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
+      "duration_ms": 149760,
+      "name": "200/h",
+      "url": "https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 188948,
+      "name": "Bacchus",
+      "url": "https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Port\u00e9s par les ondes",
         "url": "https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau"
+        "name": "CAMPO DAS CEBOLAS \u00e9 nosso",
+        "url": "https://open.spotify.com/album/11prMsRWhDxsorNEcgbGvs"
       },
       "artists": [
         {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+          "name": "MONSTRA",
+          "url": "https://open.spotify.com/artist/7oUlgiZtYEgJy0bo4peq37"
         }
       ],
-      "duration_ms": 188948,
-      "name": "Bacchus",
-      "url": "https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ"
+      "duration_ms": 117538,
+      "name": "CAMPO DAS CEBOLAS \u00e9 nosso",
+      "url": "https://open.spotify.com/track/3kvftvR1EuxLY39qQXDyza"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1271,30 +1287,6 @@
       "duration_ms": 305373,
       "name": "Summer Tune",
       "url": "https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "A Goddess, WBU?",
-        "url": "https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ"
-      },
-      "artists": [
-        {
-          "name": "Reanny",
-          "url": "https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd"
-        },
-        {
-          "name": "NOELL3",
-          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
-        },
-        {
-          "name": "Dani Deaux",
-          "url": "https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Pap",
-      "url": "https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B"
     }
   ],
   "unique_name": "EQUAL Global",

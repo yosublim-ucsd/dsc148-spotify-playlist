@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE?si=SSzlLy\-KQTuwR\-\-bPh6N3A"> نانسي عجرم  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,720 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,798 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 44 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 |
 | 45 | [Malek Elsahar](https://open.spotify.com/track/35VD9PmXoX7nJyZVEu9C0o) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Malek Elsahar](https://open.spotify.com/album/3jBkDbiVGtA7nd2kGp9pBo) | 1:39 |
 | 46 | [من أول يوم](https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [من أول يوم](https://open.spotify.com/album/3hZW9pUEKNNP4eYTwqYGLm) | 2:36 |
-| 47 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 |
-| 48 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 |
-| 49 | [Haifa Wahby](https://open.spotify.com/track/3bKEBZ4UyMerreiZdEGN4Y) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Haifa Wahby](https://open.spotify.com/album/5dm5CtYPtjzZ4Nc8kHSmTv) | 2:47 |
-| 50 | [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 |
-| 51 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 |
-| 52 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 |
-| 53 | [Khadt Balak](https://open.spotify.com/track/2L1Wfy7eLg9NQ6bFH8T6YM) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Khadt Balak](https://open.spotify.com/album/1kKpnxHTw4uax3rYKxaik1) | 2:33 |
-| 54 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 |
-| 55 | [متوحشنيش](https://open.spotify.com/track/6HWEWQCMRLwMORtD3jhctO) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [متوحشنيش](https://open.spotify.com/album/5Pujg0oHcMpdupvuopV3T5) | 3:58 |
-| 56 | [EL Seif Wasal](https://open.spotify.com/track/3KF8eQmgt5spj2pBJcDVVd) | [Marwan Chami](https://open.spotify.com/artist/6VRfjjKLm3dGZ4qzMSq6aZ) | [EL Seif Wasal](https://open.spotify.com/album/6EceAuAhOCaTRBGZYBBpkt) | 2:40 |
-| 57 | [Ala Belady](https://open.spotify.com/track/5KVlvlcILWGYqVvhk0luot) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko), [SAFY](https://open.spotify.com/artist/34h1bM8C93gX0ROWMoellp) | [Ala Belady](https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0) | 4:46 |
+| 47 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 |
+| 48 | [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 |
+| 49 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 |
+| 50 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 |
+| 51 | [Khadt Balak](https://open.spotify.com/track/2L1Wfy7eLg9NQ6bFH8T6YM) | [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Khadt Balak](https://open.spotify.com/album/1kKpnxHTw4uax3rYKxaik1) | 2:33 |
+| 52 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 |
+| 53 | [متوحشنيش](https://open.spotify.com/track/6HWEWQCMRLwMORtD3jhctO) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [متوحشنيش](https://open.spotify.com/album/5Pujg0oHcMpdupvuopV3T5) | 3:58 |
+| 54 | [EL Seif Wasal](https://open.spotify.com/track/3KF8eQmgt5spj2pBJcDVVd) | [Marwan Chami](https://open.spotify.com/artist/6VRfjjKLm3dGZ4qzMSq6aZ) | [EL Seif Wasal](https://open.spotify.com/album/6EceAuAhOCaTRBGZYBBpkt) | 2:40 |
+| 55 | [Ala Belady](https://open.spotify.com/track/5KVlvlcILWGYqVvhk0luot) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko), [SAFY](https://open.spotify.com/artist/34h1bM8C93gX0ROWMoellp) | [Ala Belady](https://open.spotify.com/album/6h09rNBEMVwW78WzZfxVk0) | 4:46 |
+| 56 | [Lel Sobh Maak](https://open.spotify.com/track/3tfyuFLcH0XVCHYSbeRHjz) | [Mouslem](https://open.spotify.com/artist/2IAjWDADGiuAu16iZbXuHk) | [Lel Sobh Maak](https://open.spotify.com/album/6p2qEwrm4s6NZuFtgXUGoT) | 3:10 |
+| 57 | [Mabsoot](https://open.spotify.com/track/7x3iSfgVP4170n4Q5DmAML) | [Hassan Piso](https://open.spotify.com/artist/42Au6oWabtKUVZhuLG2iP5) | [Mabsoot](https://open.spotify.com/album/3KG0yJp7bS3tLv2wRUmG9N) | 2:30 |
 | 58 | [Setohom](https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG) | [Setohom](https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2) | 2:29 |
 | 59 | [Men Fouq](https://open.spotify.com/track/1ELjjmUDD8xTMIsUJ0cNWe) | [Ahmad Zmaili](https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq) | [Men Fouq](https://open.spotify.com/album/3yTG7hFTp5jT8WuOqEgkus) | 3:44 |
 | 60 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 |
 
-Snapshot ID: `MCw2NTNhNDk0Nzg4N2Q0MjY2MjEzYWY2NjdjYThmYmVlYzU1ZTMzZjQ4`
+Snapshot ID: `MCwwNDExMTFkMjQ0ZWY4ZmI3MjA2NTQyYzQwZGM2NjcwZTRjZDU4MGVm`

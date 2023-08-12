@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 64259,
+  "num_followers": 64311,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2YyYTdlMjA3OWY2MGU2MzJiMzdmYThiNTVkZWZmODYzMDgxYjQ2",
+  "snapshot_id": "MCwzMmJjYmJkOTJmYmJlMDFhMmE4ZWUzMzEzNTI2NTZiMjM4M2ZkMzc4",
   "tracks": [
     {
       "added_at": "2023-08-07 16:07:15",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-08-07 16:07:15",
       "album": {
-        "name": "hard to let you go",
-        "url": "https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2"
-      },
-      "artists": [
-        {
-          "name": "Sherman Zhuo",
-          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
-        }
-      ],
-      "duration_ms": 280845,
-      "name": "hard to let you go",
-      "url": "https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce"
-    },
-    {
-      "added_at": "2023-08-07 16:07:15",
-      "album": {
         "name": "\u5929\u9ed1\u8acb\u9589\u773c (feat. \u90b1\u92d2\u6fa4)",
         "url": "https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 286832,
       "name": "\u5929\u9ed1\u8acb\u9589\u773c (feat. \u90b1\u92d2\u6fa4)",
       "url": "https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR"
+    },
+    {
+      "added_at": "2023-08-07 16:07:15",
+      "album": {
+        "name": "hard to let you go",
+        "url": "https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "duration_ms": 280845,
+      "name": "hard to let you go",
+      "url": "https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-07 16:07:15",
       "album": {
-        "name": "\u6703\u627e\u5230\u6211",
-        "url": "https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 228718,
-      "name": "\u6703\u627e\u5230\u6211",
-      "url": "https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf"
-    },
-    {
-      "added_at": "2023-08-07 16:07:15",
-      "album": {
         "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
         "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-08-07 16:07:15",
       "album": {
-        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
+        "name": "\u6703\u627e\u5230\u6211",
+        "url": "https://open.spotify.com/album/2R2RBaPMBLThbU5YZlA6cc"
       },
       "artists": [
         {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
         }
       ],
-      "duration_ms": 217906,
-      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
+      "duration_ms": 228718,
+      "name": "\u6703\u627e\u5230\u6211",
+      "url": "https://open.spotify.com/track/1xclVAVV2GqqIyMB9JAZAf"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -799,6 +783,22 @@
       "duration_ms": 281799,
       "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
       "url": "https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8"
+    },
+    {
+      "added_at": "2023-08-07 16:07:15",
+      "album": {
+        "name": "\u4f60\u662f\u6211\u7684\u6b4c (\u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -847,6 +847,26 @@
       "duration_ms": 290823,
       "name": "\u9ed1\u6697\u7684\u76e1\u982d",
       "url": "https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX"
+    },
+    {
+      "added_at": "2023-08-07 16:07:15",
+      "album": {
+        "name": "\u6eab\u67d4 #MaydayBlue20th",
+        "url": "https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        },
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 271018,
+      "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
+      "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -935,42 +955,18 @@
     {
       "added_at": "2023-08-07 16:07:15",
       "album": {
-        "name": "\u5916\u4eba",
-        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+        "name": "\u6f6e\u5149",
+        "url": "https://open.spotify.com/album/2rxrXojvyNnKmZY3UAOVla"
       },
       "artists": [
         {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
-        },
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+          "name": "Jane Zhang",
+          "url": "https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu"
         }
       ],
-      "duration_ms": 275500,
-      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
-      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
-    },
-    {
-      "added_at": "2023-08-07 16:07:15",
-      "album": {
-        "name": "\u6eab\u67d4 #MaydayBlue20th",
-        "url": "https://open.spotify.com/album/0hFNgUJRgBphC1NBJaZGI3"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        },
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 271018,
-      "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
-      "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
+      "duration_ms": 214010,
+      "name": "\u6f6e\u5149(\u300a\u9006\u6c34\u5bd2\u300b\u4e94\u5468\u5e74\u63a8\u5ee3\u66f2)",
+      "url": "https://open.spotify.com/track/3LsHqNi3DK2i8K8RBkK7GQ"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -1023,18 +1019,42 @@
     {
       "added_at": "2023-08-07 16:07:15",
       "album": {
-        "name": "\u6f6e\u5149",
-        "url": "https://open.spotify.com/album/2rxrXojvyNnKmZY3UAOVla"
+        "name": "\u552f\u4e00",
+        "url": "https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v"
       },
       "artists": [
         {
-          "name": "Jane Zhang",
-          "url": "https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu"
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        },
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
         }
       ],
-      "duration_ms": 214010,
-      "name": "\u6f6e\u5149(\u300a\u9006\u6c34\u5bd2\u300b\u4e94\u5468\u5e74\u63a8\u5ee3\u66f2)",
-      "url": "https://open.spotify.com/track/3LsHqNi3DK2i8K8RBkK7GQ"
+      "duration_ms": 281500,
+      "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
+    },
+    {
+      "added_at": "2023-08-07 16:07:15",
+      "album": {
+        "name": "\u5916\u4eba",
+        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
     },
     {
       "added_at": "2023-08-07 16:07:15",
@@ -1067,26 +1087,6 @@
       "duration_ms": 317486,
       "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
       "url": "https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj"
-    },
-    {
-      "added_at": "2023-08-07 16:07:15",
-      "album": {
-        "name": "\u552f\u4e00",
-        "url": "https://open.spotify.com/album/4mRNBDaMYSr9hvo5CqAn7v"
-      },
-      "artists": [
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
-        },
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "\u552f\u4e00 (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
-      "url": "https://open.spotify.com/track/3cyscAaE8AjBqK1Va1hSWf"
     },
     {
       "added_at": "2023-08-07 16:07:15",

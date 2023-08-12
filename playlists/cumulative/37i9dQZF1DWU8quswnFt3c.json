@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "CAMPO DAS CEBOLAS \u00e9 nosso",
+        "url": "https://open.spotify.com/album/11prMsRWhDxsorNEcgbGvs"
+      },
+      "artists": [
+        {
+          "name": "MONSTRA",
+          "url": "https://open.spotify.com/artist/7oUlgiZtYEgJy0bo4peq37"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117538,
+      "name": "CAMPO DAS CEBOLAS \u00e9 nosso",
+      "url": "https://open.spotify.com/track/3kvftvR1EuxLY39qQXDyza"
+    },
+    {
+      "album": {
         "name": "Can I Shower At Yours",
         "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
       },
@@ -7078,12 +7096,12 @@
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
       "date_added": "2023-08-02",
@@ -16272,7 +16290,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 143506,
       "name": "Pap",
       "url": "https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B"

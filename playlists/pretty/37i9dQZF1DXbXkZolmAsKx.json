@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5269,
+  "num_followers": 5286,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
+  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        },
-        {
-          "name": "Rocco DeLuca",
-          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 220800,
       "name": "Terrazzo",
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        },
+        {
+          "name": "Rocco DeLuca",
+          "url": "https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Forgotten Hill",
         "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 321894,
       "name": "Cherry Blossom Petals Fall Like Heavy Snow",
       "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Narkopop 1",
-      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Best Driving Music in the World Ever",
         "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Narkopop 1",
+      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 239351,
       "name": "Equal Ourselves",
       "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "chapter",
+        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
+      },
+      "artists": [
+        {
+          "name": "Hirotaka Shirotsubaki",
+          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "soft rime",
+      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 201383,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "chapter",
-        "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
-      },
-      "artists": [
-        {
-          "name": "Hirotaka Shirotsubaki",
-          "url": "https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "soft rime",
-      "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Drifters / Love Is the Devil",
-        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
       },
       "artists": [
         {
-          "name": "Dirty Beaches",
-          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 222226,
-      "name": "This Is Not My City",
-      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+        "name": "Drifters / Love Is the Devil",
+        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
       "artists": [
         {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "Dirty Beaches",
+          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
         }
       ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
+      "duration_ms": 222226,
+      "name": "This Is Not My City",
+      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
     },
     {
       "added_at": "2023-06-07 15:21:34",

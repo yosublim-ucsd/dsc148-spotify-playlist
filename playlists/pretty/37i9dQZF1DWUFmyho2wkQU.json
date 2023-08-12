@@ -1,12 +1,12 @@
 {
   "description": "Drive slow homie. cover: Big Tymers",
-  "num_followers": 993806,
+  "num_followers": 994606,
   "original_name": "Hip-Hop Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTEzMmY3ZTIzMmIwMzAyYmJjYjYwZWZkNjQ4ZmYxZWExMDQyMGE4",
+  "snapshot_id": "MCxlZDVlMzBjODhhOGRkODU1ZmM3NmZkMGRjMmM3NmYwODkxMGI5NTlm",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 227960,
       "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
       "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 246400,
       "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
       "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Best Of Snoop Dogg",
-        "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Uncle Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B"
-        }
-      ],
-      "duration_ms": 299146,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Thug Matrimony: Married to the Streets",
         "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 222200,
       "name": "Let's Go (feat. Twista & Lil' Jon)",
       "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Best Of Snoop Dogg",
+        "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Uncle Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B"
+        }
+      ],
+      "duration_ms": 299146,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Welcome to the Zoo",
-        "url": "https://open.spotify.com/album/3PCD7OL3Pg7napxsltHIOj"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Zoe",
-          "url": "https://open.spotify.com/artist/3Y365ZqTf6fJ4ZcRnLKPGt"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Hood Nigga",
-      "url": "https://open.spotify.com/track/323Tzd2yjV4pifrVAajafb"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Strength & Loyalty",
         "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Welcome to the Zoo",
+        "url": "https://open.spotify.com/album/3PCD7OL3Pg7napxsltHIOj"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Zoe",
+          "url": "https://open.spotify.com/artist/3Y365ZqTf6fJ4ZcRnLKPGt"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Hood Nigga",
+      "url": "https://open.spotify.com/track/323Tzd2yjV4pifrVAajafb"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "The Inspiration",
         "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
       },
@@ -1647,22 +1647,6 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "God's Son",
-        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "I Can",
-      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 223000,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "I Can",
+      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "How's It Goin' Down",
+      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/2dkW0vytRLSwXcHpOGepZL"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "How's It Goin' Down",
-      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "God's Son",
-        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 286453,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5F7caGhe84C6ONva5S8yXF"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
     },
     {
       "added_at": "2022-12-09 05:00:00",

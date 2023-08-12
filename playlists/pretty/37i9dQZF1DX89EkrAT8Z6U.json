@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 540289,
+  "num_followers": 540890,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDExYTY1OWRkM2VjNWUwMzQ3ODA4NjUyYjlhNTk5NzljNGFiMDk5",
+  "snapshot_id": "MCxlODZhNjdmZDVmNWZmNDc4ODc2OGQ2YTI0ZWUxZTgwYWU2OTEwOTA3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
       "artists": [
         {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -367,6 +371,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Aces",
-        "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
-      },
-      "artists": [
-        {
-          "name": "dkj",
-          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Aces",
-      "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "kenopsia",
         "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Aces",
+        "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
+      },
+      "artists": [
+        {
+          "name": "dkj",
+          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Aces",
+      "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Go!",
-        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Cyberfreak",
         "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
     },
     {
       "added_at": "2023-07-13 15:18:57",

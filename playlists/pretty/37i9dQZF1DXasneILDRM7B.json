@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
-  "num_followers": 2988498,
+  "num_followers": 2989100,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmIzYmMyODYxMzk2ZmEwYjdhNzUxYmUzZDI2Njk0NTYyMjdjZGJh",
+  "snapshot_id": "MCwyN2EyNzhkMTY5NjM2MDlkNTE3ZmE4MDVkYjc5YmRhMjQyNTIyNzYz",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
-    },
-    {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Burnout (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH"
+        "name": "American Idiot (Deluxe)",
+        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
       },
       "artists": [
         {
-          "name": "Anarbor",
-          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 157360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
+      "duration_ms": 174320,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Revolution Radio",
-        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+        "name": "Burnout (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1G2wZ64g38gD8q3e4XMzdH"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Anarbor",
+          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Still Breathing",
-      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
+      "duration_ms": 157360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
+      "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "American Idiot (Deluxe)",
-        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
         }
       ],
-      "duration_ms": 174320,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
+      "duration_ms": 240453,
+      "name": "Be My Escape",
+      "url": "https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn"
     }
   ],
   "unique_name": "Pure Pop Punk",

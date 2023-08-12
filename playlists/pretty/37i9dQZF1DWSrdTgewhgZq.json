@@ -1,12 +1,12 @@
 {
   "description": "Only the best Hip-hop, only non-stop hits. Travis Scott on Cover \n",
-  "num_followers": 1041317,
+  "num_followers": 1041631,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTlhODA5NmUyNzg4YmU2MWMyNmZjY2ZiZGY5MmQ1MjQ2ZTVkY2Zj",
+  "snapshot_id": "MCw1MDY1NmZiOWRiMWYyZmI3ZDI3NDkwNmNjYTA3OWE3MDIxMjQxMzkz",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -407,6 +407,26 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-08-11 14:04:48",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2023-08-04 06:00:00",

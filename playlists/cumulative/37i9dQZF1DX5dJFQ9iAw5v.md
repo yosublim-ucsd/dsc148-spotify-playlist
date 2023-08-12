@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-95 songs - 7 hr 57 min
+96 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Brilliant Corners](https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Brilliant Corners](https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4) | 1:44 | 2022-08-12 |  |
 | [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 | 2022-09-09 | 2023-06-10 |
 | [Bésame Mucho](https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [GRABACIONES RECUPERADAS](https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4) | 2:12 | 2022-08-12 |  |
-| [Cabrera's Blues](https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:15 | 2022-09-23 |  |
+| [Cabrera's Blues](https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv) | [Oscar Giunta Supertrío!](https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Flavio Romero](https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl) | [Apaláp!](https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv) | 8:15 | 2022-09-23 | 2023-08-12 |
 | [Cafetin de Buenos Aires](https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6) | [Adrian Iaies Trio](https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje) | [Las Tardecitas de Miton's](https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4) | 6:08 | 2022-11-18 |  |
 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 | 2022-08-12 |  |
 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 | 2022-08-12 | 2023-05-08 |
@@ -81,6 +81,7 @@
 | [Primavera Porteña](https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [100](https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4) | 6:42 | 2022-08-12 |  |
 | [Promesas Sobre el Bidet](https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl), [Miguel Tarzia](https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0), [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [De Este Lado](https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G) | 7:51 | 2022-08-12 |  |
 | [Puerta y Regazo](https://open.spotify.com/track/2w1MdztRfIx6mS0SFSA53y) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 2:29 | 2022-08-12 |  |
+| [Qom](https://open.spotify.com/track/6C6rocIKeKyQ3bMqYDmhjR) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk), [Demian Cabaud](https://open.spotify.com/artist/4ZLSEw2BcU0GeZhyJotEDM), [Marcos Cavaleiro](https://open.spotify.com/artist/3tlZjxpF9HfPrAccSufAun) | [Estrellero](https://open.spotify.com/album/0h3Wf48mmz3NdceNSjdzYu) | 4:38 | 2023-08-11 |  |
 | [Rusty](https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 3:35 | 2022-08-12 |  |
 | [Sangre](https://open.spotify.com/track/60099HVnJq1szQWU2xrthI) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Richard Nant](https://open.spotify.com/artist/2TbC35HAukvJvVhhEhYXXH), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Sergio Verdinelli](https://open.spotify.com/artist/4ujhVf7VBbCNR8HaOnmg8x), [Juan Canosa](https://open.spotify.com/artist/2dSFZB48yrIdK7NtkuNql8), [Jeronimo Carmona](https://open.spotify.com/artist/1aWDZz3CHFBlXquod6WKvd) | [Son Dos](https://open.spotify.com/album/6uYzP5FXn8wfcDCv8HVASB) | 4:47 | 2022-09-23 | 2022-10-07 |
 | [Scon](https://open.spotify.com/track/75PPgwqKRWlnwPJyyhcIQ7) | [ROMÁN](https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [ROMÁN](https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq) | 4:36 | 2022-08-12 |  |

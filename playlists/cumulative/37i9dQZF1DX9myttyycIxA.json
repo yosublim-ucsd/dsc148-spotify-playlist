@@ -7839,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "Here Forever",
+        "url": "https://open.spotify.com/album/3gahadLXizRTaPjvdTDGKh"
+      },
+      "artists": [
+        {
+          "name": "buffchick",
+          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140278,
+      "name": "Here Forever",
+      "url": "https://open.spotify.com/track/5cfMeTRIX6feTG6JOMCd3V"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm"
       },
@@ -13233,6 +13251,24 @@
     },
     {
       "album": {
+        "name": "there is one place we're all going",
+        "url": "https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "rainwater on the windowsill",
+      "url": "https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh"
+    },
+    {
+      "album": {
         "name": "rainwater on the windowsill",
         "url": "https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw"
       },
@@ -13846,7 +13882,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 162176,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb"
@@ -13944,6 +13980,24 @@
       "duration_ms": 151864,
       "name": "Scaredy's World",
       "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
+    },
+    {
+      "album": {
+        "name": "Scene for an Exit",
+        "url": "https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF"
+      },
+      "artists": [
+        {
+          "name": "levitation room",
+          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159552,
+      "name": "Scene for an Exit",
+      "url": "https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2"
     },
     {
       "album": {
@@ -15618,6 +15672,24 @@
       "duration_ms": 174387,
       "name": "summer bruises",
       "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
+    },
+    {
+      "album": {
+        "name": "Summer Windows",
+        "url": "https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201579,
+      "name": "Summer Windows",
+      "url": "https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP"
     },
     {
       "album": {
@@ -17583,6 +17655,24 @@
     },
     {
       "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P"
       },
@@ -18726,7 +18816,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 231659,
       "name": "Your Mother's Name",
       "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"

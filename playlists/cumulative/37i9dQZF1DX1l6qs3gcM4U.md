@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-320 songs - 19 hr 16 min
+321 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 | 2022-07-22 |  |
 | [Desculpa](https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/3TWn2CcXySUwuQCnPLFQXH) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [Desculpa](https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Novelas](https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ) | 3:42 | 2021-12-10 | 2022-07-28 |
-| [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 |  |
+| [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 | 2023-08-12 |
 | [Diferente](https://open.spotify.com/track/3BlPiaT0qrlRubIzqJ5GWa) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Telma Lee](https://open.spotify.com/artist/7iQpFZXyUTiANqmxhb8c6P) | [Best of Kizomba 2017](https://open.spotify.com/album/22n3XPtnzeE2bQZKP0qt4O) | 4:24 | 2022-01-10 | 2022-05-28 |
 | [Djudan](https://open.spotify.com/track/23dtqRYCyGGlS1IUNJiyt7) | [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Djudan](https://open.spotify.com/album/7zktGWmrZnko6XwevyeBTQ) | 3:29 | 2023-03-17 | 2023-04-07 |
 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 | 2022-07-29 |
@@ -248,6 +248,7 @@
 | [Roçaré \- Extend](https://open.spotify.com/track/6HkqDpMmTV2IT2I01a9Zp5) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Dabanda](https://open.spotify.com/artist/1k3SV9swAsIXA7vAbuNk6M) | [Roçaré](https://open.spotify.com/album/1UyaN4EOdNN3hdTi3eP5Fh) | 3:36 | 2022-03-25 | 2022-05-16 |
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
 | [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 | 2023-07-27 |  |
+| [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 | 2023-08-10 |  |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 | 2023-03-22 |
 | [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > Nick and Charlie's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-68 songs - 3 hr 34 min
+69 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Shitty Gay Song About You](https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/5kPGmWHhhg25uk0lh3d229) | 1:55 | 2022-05-31 |  |
 | [A Young Understanding](https://open.spotify.com/track/69O1kiLyWiyDlGau81SykI) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 4:03 | 2022-05-26 |  |
 | [Addicted \- 2015 Version](https://open.spotify.com/track/6DgioNcBP8WnylwB3sA6pl) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Addicted \(2015 Version\)](https://open.spotify.com/album/5IpASQqHiGYuxOh8NSfSyv) | 4:45 | 2022-05-26 | 2022-06-01 |
+| [All The Things](https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [All The Things](https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3) | 3:22 | 2023-08-11 |  |
 | [As the World Caves In](https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:38 | 2022-05-26 |  |
 | [Biggest Fan](https://open.spotify.com/track/0maGpI9zkOMONNx74cCHyA) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Sweet Dreamer](https://open.spotify.com/album/0ja8b5YdGJVr6A4SQA2v9U) | 3:15 | 2022-05-26 |  |
 | [Boyfriend](https://open.spotify.com/track/37CA2be4dmNBDdf8tbZhv3) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy for You](https://open.spotify.com/album/38NEzyo2N5T68j7aFetd4x) | 2:29 | 2023-08-02 |  |

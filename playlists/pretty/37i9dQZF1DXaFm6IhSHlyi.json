@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 141403,
+  "num_followers": 141439,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
+  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kahit Maputi Na Ang Buhok Ko",
+        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok Ko",
+      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 192613,
       "name": "Ocean - Remix",
       "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kahit Maputi Na Ang Buhok Ko",
-        "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok Ko",
-      "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1829,7 +1829,7 @@
         }
       ],
       "duration_ms": 230386,
-      "name": "Te quiero - Versi\u00f3n 2019",
+      "name": "Te Quiero - Versi\u00f3n 2019",
       "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
     },
     {
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "DOCUMENTARY",
         "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I mecht nur wissn wo du bist (I.U.E.)",
         "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 207920,
       "name": "I mecht nur wissn wo du bist - I.U.E.",
       "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",

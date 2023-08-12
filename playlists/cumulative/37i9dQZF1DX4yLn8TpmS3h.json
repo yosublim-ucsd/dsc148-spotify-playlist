@@ -78,24 +78,6 @@
     {
       "album": {
         "name": "I Am A Bird Now",
-        "url": "https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN"
-      },
-      "artists": [
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156173,
-      "name": "For Today I Am A Boy",
-      "url": "https://open.spotify.com/track/4fX0mggT4nrjB2UtPfSllk"
-    },
-    {
-      "album": {
-        "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/4yYa6DGzkYsAIpoE8ael1V"
       },
       "artists": [
@@ -110,6 +92,28 @@
       "duration_ms": 156173,
       "name": "For Today I Am A Boy",
       "url": "https://open.spotify.com/track/7q7YdWzKy5d03MlQ8yFc90"
+    },
+    {
+      "album": {
+        "name": "I Am A Bird Now",
+        "url": "https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN"
+      },
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "For Today I Am A Boy",
+      "url": "https://open.spotify.com/track/4fX0mggT4nrjB2UtPfSllk"
     },
     {
       "album": {

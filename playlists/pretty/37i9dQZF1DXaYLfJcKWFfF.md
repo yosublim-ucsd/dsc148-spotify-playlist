@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd?si=\-vTi\-zG8TceLlVsEnt73bw"> Tommy WA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,808 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,849 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 7 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 8 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 |
 | 9 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 |
-| 10 | [What Are You Waiting For?](https://open.spotify.com/track/0vWrao6ShhQN2F1uZiHYHp) | [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V), [Eyal Rob](https://open.spotify.com/artist/3IaxnyrQnnPf1CRfRHxBrH), [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [What Are You Waiting For?](https://open.spotify.com/album/2pwWi3XR7NaplbMD4OU0HQ) | 5:05 |
+| 10 | [What Are You Waiting For?](https://open.spotify.com/track/0vWrao6ShhQN2F1uZiHYHp) | [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V), [Eyal Rob](https://open.spotify.com/artist/0bRtE2c9aw4IRXncNPSZba), [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [What Are You Waiting For?](https://open.spotify.com/album/2pwWi3XR7NaplbMD4OU0HQ) | 5:05 |
 | 11 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 |
 | 12 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 |
 | 13 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 | 50 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 |
 
-Snapshot ID: `MCw1Yjk2MDhlMTZhMzExMDMxNmE1YmY0ZTAwYzQ3MDFhMjVjMzUxOTY4`
+Snapshot ID: `MCwzNGE4OGYxMDQ4NTk0ZmRhZWU5NDc4OTZiMjc0NTJkNTExNzYxYWFh`

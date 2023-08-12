@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-581 songs - 1 day 15 hr 40 min
+582 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Whizz Kids](https://open.spotify.com/track/2fsvVkilWkNwnkD7mI3P37) | [Y Dail](https://open.spotify.com/artist/6T9JiCJWBompfb0R2KJZKI) | [Whizz Kids](https://open.spotify.com/album/4yygSaoyTJz4OPiXt0z4Jt) | 3:19 | 2022-12-14 | 2023-02-09 |
 | [Will Get Fooled Again \- Katie Dey Cover](https://open.spotify.com/track/30KHZE5UtVAFZKLCLVXydi) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc) | [Will Get Fooled Again \(Katie Dey Cover\)](https://open.spotify.com/album/0MNe5TZRA9xKuyoQ9aITYJ) | 3:17 | 2022-07-21 | 2022-09-15 |
 | [Will Logic](https://open.spotify.com/track/5tjxHRNIBmmYlEYBmzAOdw) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:17 | 2023-06-28 | 2023-08-10 |
+| [Willow, Pine and Oak](https://open.spotify.com/track/7KFN7Y3LkVbHoGL4g4meeA) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/527BUPjoqgyblvo1NL9Te9) | 3:44 | 2023-08-11 |  |
 | [Wood](https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Meeting with a Judas Tree](https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg) | 3:32 | 2022-11-23 | 2023-01-12 |
 | [Woofin' and Meowin'](https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Woofin' and Meowin'](https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ) | 2:47 | 2022-12-05 | 2023-02-09 |
 | [Worldslide](https://open.spotify.com/track/1Ycp9gP1ncYG6ZDVb7ovpQ) | [Pardans](https://open.spotify.com/artist/4G4h06yBNykvt3jutYtDSj) | [Peak Happiness](https://open.spotify.com/album/1UXu9UHoyN4E4xL8yFcM1v) | 3:24 | 2023-03-08 | 2023-04-20 |

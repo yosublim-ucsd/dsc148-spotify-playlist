@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY"
+      },
+      "artists": [
+        {
+          "name": "Carlo Castilla",
+          "url": "https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK"
+    },
+    {
+      "album": {
         "name": "Two Trees",
         "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
       },
@@ -1881,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Like A Feather",
+        "url": "https://open.spotify.com/album/3fU6JjOGp9mdg8PyxcXPy0"
+      },
+      "artists": [
+        {
+          "name": "Jaime Escalera",
+          "url": "https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Like A Feather",
+      "url": "https://open.spotify.com/track/7Mzcjfy53dYvSeqaTR0fSW"
+    },
+    {
+      "album": {
         "name": "Like my mother",
         "url": "https://open.spotify.com/album/1cvNj7kgZNbD62upsVl8G7"
       },
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 125527,
       "name": "Longing for Light",
       "url": "https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0"
@@ -2018,7 +2054,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 144640,
       "name": "Love Forever",
       "url": "https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY"
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 92180,
       "name": "Mirror Memories",
       "url": "https://open.spotify.com/track/0Y22MFnEekvXbXqecrHhGi"
@@ -2400,6 +2436,24 @@
       "duration_ms": 135128,
       "name": "Mondo Piccolo",
       "url": "https://open.spotify.com/track/375O24y2MnIWs0NWBBZOdh"
+    },
+    {
+      "album": {
+        "name": "Morongo Basin",
+        "url": "https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX"
+      },
+      "artists": [
+        {
+          "name": "Carlo Castilla",
+          "url": "https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Morongo Basin",
+      "url": "https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53"
     },
     {
       "album": {
@@ -2598,6 +2652,24 @@
       "duration_ms": 125820,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ"
+    },
+    {
+      "album": {
+        "name": "Old Novels",
+        "url": "https://open.spotify.com/album/6SGa8dYeTFicb8ORNNr33j"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128239,
+      "name": "Old Novels",
+      "url": "https://open.spotify.com/track/7qBvJvJkz9RAOwzAzxukbH"
     },
     {
       "album": {
@@ -3012,6 +3084,24 @@
       "duration_ms": 126654,
       "name": "Segments",
       "url": "https://open.spotify.com/track/4XQ7ijA6qvIb2hLqUmgWAG"
+    },
+    {
+      "album": {
+        "name": "Serene Skies",
+        "url": "https://open.spotify.com/album/2u8VTwNX8BXBTGRfAQf2x6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Westman",
+          "url": "https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123146,
+      "name": "Serene Skies",
+      "url": "https://open.spotify.com/track/5rvvtkkXrd8jvosvE0jJj0"
     },
     {
       "album": {
@@ -3714,6 +3804,24 @@
       "duration_ms": 120147,
       "name": "Waiting Is Over",
       "url": "https://open.spotify.com/track/6QKPjl901Y5aYw6ui19uHq"
+    },
+    {
+      "album": {
+        "name": "Wellspring for thought",
+        "url": "https://open.spotify.com/album/7KuVAWo78nXDxG4LS9rXvD"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "Wellspring for thought",
+      "url": "https://open.spotify.com/track/4ZfA8pzOEHovwGTg5wq32Q"
     },
     {
       "album": {

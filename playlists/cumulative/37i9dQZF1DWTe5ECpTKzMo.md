@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> Solo éxitos locales pasados, chapados en oro\. La Santa Grifa en portada
+> Solo éxitos locales pasados, chapados en oro\. Cartel de Santa en portada
 
 109 songs - 6 hr 57 min
 

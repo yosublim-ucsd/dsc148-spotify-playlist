@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating Haitian music. Cover: Anie Alerte ",
+  "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
   "name": "Haitian Heat",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 186857,
       "name": "Fanm Ch\u00e8",
       "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
@@ -3902,6 +3902,24 @@
       "duration_ms": 193846,
       "name": "Tonm Tonm",
       "url": "https://open.spotify.com/track/1WvbHRemlLGWYg4hm320U6"
+    },
+    {
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
     },
     {
       "album": {

@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Dino Sitting (From \"Disney Junior Music: Mickey Mouse Funhouse Dino Safari\")",
+        "url": "https://open.spotify.com/album/1aOuOUWimKCyUDUwRFKsV2"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74610,
+      "name": "Dino Sitting - From \"Disney Junior Music: Mickey Mouse Funhouse Dino Safari\"",
+      "url": "https://open.spotify.com/track/2OK67thLrzf6I4Gfv2e8jH"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Mickey Mornings",
         "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
       },

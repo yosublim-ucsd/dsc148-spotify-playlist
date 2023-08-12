@@ -2,7 +2,7 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> the pearls of an oyster\. Se Overmono live på Höjden By Spotify på Way Out West!
+> the pearls of an oyster\. Se salute live på Höjden By Spotify på Way Out West!
 
 761 songs - 1 day 18 hr 17 min
 
@@ -36,6 +36,7 @@
 | [ACTION MAN](https://open.spotify.com/track/7xmIP39CtageyeY2BPK4vG) | [Joe Lefty](https://open.spotify.com/artist/4Zbjxv6NJcEGkKUkRiLCad) | [ACTION MAN](https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig) | 2:50 | 2023-02-23 | 2023-03-18 |
 | [ADHD](https://open.spotify.com/track/1VptKlDOriidHrb0eaIo22) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Graduation](https://open.spotify.com/album/6r2LkXt6DqfQGV70OHAilY) | 2:36 | 2023-02-16 | 2023-02-24 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-28 | 2022-12-16 |
+| [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 |  |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 | 2023-03-25 |
 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 | 2022-10-28 | 2022-12-16 |
 | [Again](https://open.spotify.com/track/3Ys8E3yQA3itYjZtOgDZ8B) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Again](https://open.spotify.com/album/3d8cu7MZqUAMxEdsPHMzD0) | 3:32 | 2023-02-23 | 2023-04-21 |
@@ -329,7 +330,6 @@
 | [Horizons \- Baltra Remix](https://open.spotify.com/track/4BJJj1m5KE1bp1M4X4eetj) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Horizons \(Baltra Remix\)](https://open.spotify.com/album/0i9qcQjjdb1V5UppJJtgRd) | 4:10 | 2023-03-30 | 2023-04-07 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-10-28 | 2022-12-16 |
 | [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-07-14 |
-| [i adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [i adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 |  |
 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 | 2023-03-23 | 2023-05-12 |
 | [i don’t feel the same](https://open.spotify.com/track/6uLkhHrg56r7qzGzIKTmpx) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [i don’t feel the same](https://open.spotify.com/album/6dh383KA5FHseEX1QEHRCj) | 2:44 | 2022-10-28 | 2022-11-11 |
 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 | 2023-03-02 | 2023-05-12 |

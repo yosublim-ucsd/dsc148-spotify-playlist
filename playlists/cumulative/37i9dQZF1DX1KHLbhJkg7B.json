@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
@@ -4802,6 +4802,24 @@
       "duration_ms": 204282,
       "name": "The Cowboy Rides Away",
       "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
+    },
+    {
+      "album": {
+        "name": "The Devil Went Down to Georgia - Remastered",
+        "url": "https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "The Devil Went Down to Georgia - Remastered",
+      "url": "https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f"
     },
     {
       "album": {

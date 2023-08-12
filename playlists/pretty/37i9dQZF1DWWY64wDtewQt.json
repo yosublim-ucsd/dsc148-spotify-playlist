@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6176354,
+  "num_followers": 6188438,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY2NGVkNzEwNmM3ODdmN2FmMzUxZTdjNWZlOTdiOWNiOTIzMjEw",
+  "snapshot_id": "MCw1NzFlZTBiMTlkNzA5ZmQ1NmQ3NjMwNGRmZmNjNDIzNjU4NzQ3ODI2",
   "tracks": [
     {
       "added_at": "2023-06-02 17:32:35",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
+      "added_at": "2023-07-21 09:05:00",
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
+    },
+    {
       "added_at": "2022-08-19 05:11:18",
       "album": {
         "name": "SHADOW",
@@ -97,54 +117,6 @@
       "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
-      "added_at": "2022-04-13 07:53:17",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2023-06-09 13:51:36",
-      "album": {
-        "name": "FRESH",
-        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
-      },
-      "artists": [
-        {
-          "name": "NXVAMANE",
-          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
-        }
-      ],
-      "duration_ms": 68687,
-      "name": "FRESH",
-      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
@@ -163,6 +135,54 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2023-06-09 13:51:36",
+      "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
+      },
+      "artists": [
+        {
+          "name": "NXVAMANE",
+          "url": "https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh"
+        }
+      ],
+      "duration_ms": 68687,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
+    },
+    {
+      "added_at": "2022-04-13 07:53:17",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-10-14 08:20:18",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2022-10-14 08:20:18",
@@ -205,28 +225,48 @@
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
-      "added_at": "2023-02-04 02:41:25",
+      "added_at": "2023-07-28 11:47:20",
       "album": {
-        "name": "Brazilian Phonk Mano",
-        "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
+        "name": "Orquestra Maldita",
+        "url": "https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E"
       },
       "artists": [
         {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
         },
         {
-          "name": "lucaf.",
-          "url": "https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         }
       ],
-      "duration_ms": 84576,
-      "name": "Brazilian Phonk Mano",
-      "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
+      "duration_ms": 119736,
+      "name": "Orquestra Maldita",
+      "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
+    },
+    {
+      "added_at": "2023-05-19 15:58:05",
+      "album": {
+        "name": "MONTAGEM - MELODIA ENVOLVENTE 4 (Remixes)",
+        "url": "https://open.spotify.com/album/3YHtUENBFs9vZujcOCt1dP"
+      },
+      "artists": [
+        {
+          "name": "DJ Dudah",
+          "url": "https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr"
+        },
+        {
+          "name": "MC Vuiziki",
+          "url": "https://open.spotify.com/artist/1ZpSaxWCRK3n77MzhFVD3T"
+        },
+        {
+          "name": "MC Da 12",
+          "url": "https://open.spotify.com/artist/2ge1WtiBqengw0nAnq94Zo"
+        }
+      ],
+      "duration_ms": 250860,
+      "name": "MONTAGEM - MELODIA ENVOLVENTE 4",
+      "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -289,30 +329,6 @@
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
-      "added_at": "2023-05-19 15:58:05",
-      "album": {
-        "name": "MONTAGEM - MELODIA ENVOLVENTE 4 (Remixes)",
-        "url": "https://open.spotify.com/album/3YHtUENBFs9vZujcOCt1dP"
-      },
-      "artists": [
-        {
-          "name": "DJ Dudah",
-          "url": "https://open.spotify.com/artist/7yp6KygcGbQwOJQcRszaZr"
-        },
-        {
-          "name": "MC Vuiziki",
-          "url": "https://open.spotify.com/artist/1ZpSaxWCRK3n77MzhFVD3T"
-        },
-        {
-          "name": "MC Da 12",
-          "url": "https://open.spotify.com/artist/2ge1WtiBqengw0nAnq94Zo"
-        }
-      ],
-      "duration_ms": 250860,
-      "name": "MONTAGEM - MELODIA ENVOLVENTE 4",
-      "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
-    },
-    {
       "added_at": "2022-11-11 07:32:56",
       "album": {
         "name": "Scopin",
@@ -343,26 +359,6 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
-      "added_at": "2023-07-28 11:47:20",
-      "album": {
-        "name": "Orquestra Maldita",
-        "url": "https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
-        }
-      ],
-      "duration_ms": 119736,
-      "name": "Orquestra Maldita",
-      "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -399,6 +395,30 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+    },
+    {
+      "added_at": "2023-02-04 02:41:25",
+      "album": {
+        "name": "Brazilian Phonk Mano",
+        "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "lucaf.",
+          "url": "https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 84576,
+      "name": "Brazilian Phonk Mano",
+      "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -467,22 +487,6 @@
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "AVOID ME",
-        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        }
-      ],
-      "duration_ms": 105789,
-      "name": "AVOID ME",
-      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
       "added_at": "2023-03-31 15:56:27",
@@ -561,20 +565,24 @@
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
     },
     {
-      "added_at": "2023-08-04 15:24:45",
+      "added_at": "2023-07-21 09:05:00",
       "album": {
-        "name": "NIGHT PHONK",
-        "url": "https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz"
+        "name": "YUM YUM",
+        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
       "artists": [
         {
-          "name": "COWBELL DYNASTY",
-          "url": "https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 82865,
-      "name": "NIGHT PHONK",
-      "url": "https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn"
+      "duration_ms": 129697,
+      "name": "YUM YUM",
+      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -607,6 +615,54 @@
       "duration_ms": 114624,
       "name": "Override",
       "url": "https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "AVOID ME",
+        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        }
+      ],
+      "duration_ms": 105789,
+      "name": "AVOID ME",
+      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
+    },
+    {
+      "added_at": "2023-08-04 15:24:45",
+      "album": {
+        "name": "NIGHT PHONK",
+        "url": "https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz"
+      },
+      "artists": [
+        {
+          "name": "COWBELL DYNASTY",
+          "url": "https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p"
+        }
+      ],
+      "duration_ms": 82865,
+      "name": "NIGHT PHONK",
+      "url": "https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn"
+    },
+    {
+      "added_at": "2023-08-11 14:10:06",
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -663,26 +719,6 @@
       "duration_ms": 160029,
       "name": "POOR",
       "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
-      },
-      "artists": [
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -801,6 +837,26 @@
       "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
     },
     {
+      "added_at": "2023-08-11 14:10:06",
+      "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
       "added_at": "2022-12-09 08:15:38",
       "album": {
         "name": "Flare",
@@ -847,22 +903,6 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "YUM YUM",
-        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "YUM YUM",
-      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -1065,6 +1105,22 @@
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
     },
     {
+      "added_at": "2023-08-11 14:10:06",
+      "album": {
+        "name": "AWAKE",
+        "url": "https://open.spotify.com/album/6nqEEZxdRGuwMHYUUTl51a"
+      },
+      "artists": [
+        {
+          "name": "SXRKIN",
+          "url": "https://open.spotify.com/artist/4AMK7iRflGXCPdfIe1aA9v"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/2jGZZSMGhFxeypMxyVu4yS"
+    },
+    {
       "added_at": "2022-09-16 05:48:48",
       "album": {
         "name": "The Midnight Club GT",
@@ -1115,22 +1171,6 @@
       "duration_ms": 67030,
       "name": "Slapper - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/4Zf7vu8xsZeqOvel5fqyEK"
-    },
-    {
-      "added_at": "2023-06-30 16:50:50",
-      "album": {
-        "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
-        "url": "https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V"
-      },
-      "artists": [
-        {
-          "name": "KMJ",
-          "url": "https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI"
-        }
-      ],
-      "duration_ms": 182021,
-      "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
-      "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"
     },
     {
       "added_at": "2023-07-14 14:32:54",
@@ -1325,22 +1365,6 @@
       "url": "https://open.spotify.com/track/3WrHkFPgZ4zHa7eyeLe6Gg"
     },
     {
-      "added_at": "2023-07-28 11:47:20",
-      "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/2RSWURwG8u9S1kiS3dui9M"
-      },
-      "artists": [
-        {
-          "name": "zecki",
-          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
-        }
-      ],
-      "duration_ms": 138217,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/6FkmFtOV8I2ygYPZyeibqc"
-    },
-    {
       "added_at": "2023-05-05 15:57:14",
       "album": {
         "name": "DEUS DA GUERRA",
@@ -1379,22 +1403,6 @@
       "duration_ms": 125276,
       "name": "help urself",
       "url": "https://open.spotify.com/track/54ggxbEopZwQ20zurJiHSD"
-    },
-    {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "COLLAPSE",
-        "url": "https://open.spotify.com/album/0wf0691LfTzCCDHc5JR2j9"
-      },
-      "artists": [
-        {
-          "name": "SHADXWBXRN",
-          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
-        }
-      ],
-      "duration_ms": 111219,
-      "name": "COLLAPSE",
-      "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
     },
     {
       "added_at": "2023-02-17 15:31:33",
@@ -1439,22 +1447,6 @@
       "duration_ms": 125714,
       "name": "Heavenly Key",
       "url": "https://open.spotify.com/track/09m40hbfqNwnF5w2CbqIqt"
-    },
-    {
-      "added_at": "2023-05-12 13:58:46",
-      "album": {
-        "name": "SUCCUMB",
-        "url": "https://open.spotify.com/album/1FJXnIifvG1fUaPeRpZzn5"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "SUCCUMB",
-      "url": "https://open.spotify.com/track/4sKzGxtYdkGAu92sQPOGqF"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1565,24 +1557,20 @@
       "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
     },
     {
-      "added_at": "2023-06-30 16:50:50",
+      "added_at": "2023-07-21 09:05:00",
       "album": {
-        "name": "PIZZA PHONK",
-        "url": "https://open.spotify.com/album/40rU88TCRHTsZjUncUPC7G"
+        "name": "PSYCHO FUNK",
+        "url": "https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt"
       },
       "artists": [
         {
-          "name": "ZERO PAIN",
-          "url": "https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm"
-        },
-        {
-          "name": "toaster mob",
-          "url": "https://open.spotify.com/artist/3TGOOnG6oCyuwi2ZhUPSUr"
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
         }
       ],
-      "duration_ms": 108270,
-      "name": "PIZZA PHONK",
-      "url": "https://open.spotify.com/track/58IuZVow8rfBrZfpTnL6ze"
+      "duration_ms": 120937,
+      "name": "PSYCHO FUNK",
+      "url": "https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -1655,6 +1643,22 @@
       "duration_ms": 124033,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
+    },
+    {
+      "added_at": "2023-07-28 11:47:20",
+      "album": {
+        "name": "Ukrainian Cossack Phonk",
+        "url": "https://open.spotify.com/album/7qFKTMZWFMy2MfFTvq097a"
+      },
+      "artists": [
+        {
+          "name": "CHASHKAKEFIRA",
+          "url": "https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Ukrainian Cossack Phonk",
+      "url": "https://open.spotify.com/track/6vOMWakAlVuqaUUA1MMFgE"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1757,20 +1761,72 @@
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
-      "added_at": "2023-07-21 09:05:00",
+      "added_at": "2023-07-28 11:47:20",
       "album": {
-        "name": "PSYCHO FUNK",
-        "url": "https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt"
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/2RSWURwG8u9S1kiS3dui9M"
       },
       "artists": [
         {
-          "name": "ICHIRO",
-          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+          "name": "zecki",
+          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
         }
       ],
-      "duration_ms": 120937,
-      "name": "PSYCHO FUNK",
-      "url": "https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C"
+      "duration_ms": 138217,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/6FkmFtOV8I2ygYPZyeibqc"
+    },
+    {
+      "added_at": "2023-06-30 16:50:50",
+      "album": {
+        "name": "PIZZA PHONK",
+        "url": "https://open.spotify.com/album/40rU88TCRHTsZjUncUPC7G"
+      },
+      "artists": [
+        {
+          "name": "ZERO PAIN",
+          "url": "https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm"
+        },
+        {
+          "name": "toaster mob",
+          "url": "https://open.spotify.com/artist/3TGOOnG6oCyuwi2ZhUPSUr"
+        }
+      ],
+      "duration_ms": 108270,
+      "name": "PIZZA PHONK",
+      "url": "https://open.spotify.com/track/58IuZVow8rfBrZfpTnL6ze"
+    },
+    {
+      "added_at": "2023-05-05 15:57:14",
+      "album": {
+        "name": "COLLAPSE",
+        "url": "https://open.spotify.com/album/0wf0691LfTzCCDHc5JR2j9"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "duration_ms": 111219,
+      "name": "COLLAPSE",
+      "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
+    },
+    {
+      "added_at": "2023-08-11 14:10:06",
+      "album": {
+        "name": "ANTHEM",
+        "url": "https://open.spotify.com/album/4GTJniIFBafyIILyvAscbh"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "ANTHEM",
+      "url": "https://open.spotify.com/track/5gqVRbvtuTgXc5lbPz54Zj"
     },
     {
       "added_at": "2021-05-12 14:02:59",
@@ -1795,38 +1851,6 @@
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
-    },
-    {
-      "added_at": "2023-07-28 11:47:20",
-      "album": {
-        "name": "Ukrainian Cossack Phonk",
-        "url": "https://open.spotify.com/album/7qFKTMZWFMy2MfFTvq097a"
-      },
-      "artists": [
-        {
-          "name": "CHASHKAKEFIRA",
-          "url": "https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Ukrainian Cossack Phonk",
-      "url": "https://open.spotify.com/track/6vOMWakAlVuqaUUA1MMFgE"
-    },
-    {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi"
-      },
-      "artists": [
-        {
-          "name": "ROMANTICA",
-          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "ERROR",
-      "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
     }
   ],
   "unique_name": "phonk",

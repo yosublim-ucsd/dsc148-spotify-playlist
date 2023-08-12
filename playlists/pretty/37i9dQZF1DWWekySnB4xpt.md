@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,914 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,015 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 28 | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/track/5EjfGgOtvmbmsgXoONmsY5) | [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/album/4dQ6HJnfubQmA1UgOWWgE0) | 3:56 |
 | 29 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
 | 30 | [Una Vez Más](https://open.spotify.com/track/2lucHwbjszH0cmxigzmtfd) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Grandes Exitos con Chino y Nacho](https://open.spotify.com/album/68vYBxgxScKS5KmJiCwBGe) | 3:50 |
-| 31 | [Locos de Amor](https://open.spotify.com/track/3sS3ricJcq0cIEQze7kt9B) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Días de Junio](https://open.spotify.com/album/0F7bKN7VdFsLluqTHuV73f) | 4:03 |
+| 31 | [Locos de Amor](https://open.spotify.com/track/1IAEpUDHVfepUpX1xiL6ik) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Lunas](https://open.spotify.com/album/1cf8cE8ZDCCsiF9oKDtWa8) | 4:05 |
 | 32 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
 | 33 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 34 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `MCxjOGVlNDQzMTI0OWMzY2U1NTY3N2QyNWM2N2E4ZTA3OTU1MDdlZTI2`
+Snapshot ID: `MCwxM2Q0ZjZmMGE3NTI1NzA5YjA5M2FjYjU0YmNiZTM2OTA4YzU2ODc4`

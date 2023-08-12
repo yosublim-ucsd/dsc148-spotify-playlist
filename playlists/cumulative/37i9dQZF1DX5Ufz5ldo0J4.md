@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-285 songs - 13 hr 22 min
+286 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2021-12-10 | 2023-07-29 |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2021-12-10 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2021-12-10 |  |
-| [Beautiful Wave](https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN) | [Patterns In Everything](https://open.spotify.com/artist/2mgIQPmnKgc7jOQgq8JDDl) | [Beautiful Wave](https://open.spotify.com/album/3og8lAbTWBCejbKVa0O6Vh) | 3:58 | 2021-12-10 |  |
+| [Beautiful Wave](https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN) | [Patterns In Everything](https://open.spotify.com/artist/2mgIQPmnKgc7jOQgq8JDDl) | [Beautiful Wave](https://open.spotify.com/album/3og8lAbTWBCejbKVa0O6Vh) | 3:58 | 2021-12-10 | 2023-08-12 |
 | [Bela adormecida](https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF) | [Solidão](https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV) | [Bela adormecida](https://open.spotify.com/album/68lqrfMKELldWPve5nu9he) | 2:25 | 2021-12-10 |  |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2021-12-10 | 2022-09-03 |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2021-12-10 | 2022-07-29 |
@@ -67,7 +67,7 @@
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2021-12-10 | 2022-08-13 |
 | [Dolce](https://open.spotify.com/track/0PbMPORCi8wc3jlw1kipOm) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Dolce](https://open.spotify.com/album/0ygFEGKH9Rn6GeeThGKVOc) | 1:46 | 2021-12-10 | 2023-07-29 |
 | [Dolores](https://open.spotify.com/track/1P9g7RhZ5Qf89iiHlWYQPx) | [Lo Kee](https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF) | [Dolores](https://open.spotify.com/album/5NxcPLEVWtUSsCMW4pQgXd) | 2:35 | 2021-12-10 | 2022-08-13 |
-| [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2021-12-10 |  |
+| [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 | 2021-12-10 | 2023-08-12 |
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2021-12-10 |  |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2021-12-10 |  |
 | [Dreamland](https://open.spotify.com/track/1Z6HL87hCbjrmlhunxj0mK) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Dreamland](https://open.spotify.com/album/2tlJFcJHHKml5irtNTugCR) | 3:27 | 2021-12-10 | 2022-08-13 |
@@ -162,6 +162,7 @@
 | [New Star](https://open.spotify.com/track/17511fdxVIh76Mw6Md4rzC) | [Soliviant](https://open.spotify.com/artist/3EwfkP9uSQ9xjiYydhiqNe) | [Glorious Glow](https://open.spotify.com/album/4evkT8PYzfeH8XchduYOik) | 2:43 | 2021-12-10 |  |
 | [Nibelia](https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Nibelia](https://open.spotify.com/album/2OdvQNyQdAT3zOsZU3ozrA) | 3:44 | 2021-12-10 |  |
 | [Nightlight](https://open.spotify.com/track/2OlcmyPBuYV93F5yya6gvY) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Nightlight](https://open.spotify.com/album/422z8O8sTk1lBvRS0lyrMr) | 2:09 | 2021-12-10 | 2022-12-21 |
+| [No Bounds](https://open.spotify.com/track/0lSbHHeGi1JfzIS90duYhS) | [Amethyst Nimue](https://open.spotify.com/artist/3Jcoemtva31dOpUHzjxcga) | [No Bounds](https://open.spotify.com/album/7zam4agvaQsavCgombL3Ki) | 3:18 | 2023-08-11 |  |
 | [Noches rojas](https://open.spotify.com/track/1npS27jD8Fm6QpNHmtH5Pq) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Noches rojas](https://open.spotify.com/album/3bJk1wBUTadZVvqgi26z3q) | 2:13 | 2021-12-10 |  |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2021-12-10 |  |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2021-12-10 |  |
@@ -227,7 +228,7 @@
 | [Sleep Under The Stars](https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Sleep Under The Stars](https://open.spotify.com/album/2vilvq8rCXcEETrH8JeoXT) | 3:01 | 2021-12-10 |  |
 | [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2021-12-10 | 2023-07-18 |
 | [Sleepy Mountains](https://open.spotify.com/track/5pNEVP7GH0wgK3PCL5oEws) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 2:50 | 2021-12-10 |  |
-| [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-12-10 |  |
+| [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-12-10 | 2023-08-12 |
 | [Solitude Anticipée](https://open.spotify.com/track/1gTPJVG8cwEm0JHHvsfN3U) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitude Anticipée](https://open.spotify.com/album/7aLM80xsDvjrEE2eEW2CaH) | 3:12 | 2021-12-10 |  |
 | [Somnolence](https://open.spotify.com/track/42l68t0uutO6GH5xGEJLuO) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Somnolence](https://open.spotify.com/album/2I22kCuVqwkvnJ2sfO1huh) | 4:07 | 2021-12-10 | 2022-08-13 |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-10 | 2023-07-29 |

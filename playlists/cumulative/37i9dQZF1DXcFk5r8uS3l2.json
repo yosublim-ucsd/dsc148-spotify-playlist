@@ -5455,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/5xcqjv8Qm0h5r7PqIROYyF"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251503,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA"
+    },
+    {
+      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 189632,
       "name": "We're All the Way",
       "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"

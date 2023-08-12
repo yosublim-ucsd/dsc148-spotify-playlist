@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-117 songs - 8 hr 2 min
+118 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Tú Sufrirás](https://open.spotify.com/track/4ckjq1JV8PJCyZNEgFeEMA) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Fruko El Bueno: Ayunando](https://open.spotify.com/album/0zPoXzqnCDjPccDBSoXP7V) | 4:12 | 2021-12-16 | 2023-07-30 |
 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 | 2021-12-16 |  |
 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 | 2021-12-16 |  |
-| [Zúmbalo](https://open.spotify.com/track/2Xn5o0MhShu0lOiWuw4Khr) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb) | [Bailando Lambada](https://open.spotify.com/album/4ilpZLrVk38MepODyBUjX6) | 4:22 | 2021-12-16 |  |
+| [Zúmbalo](https://open.spotify.com/track/2Xn5o0MhShu0lOiWuw4Khr) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb) | [Bailando Lambada](https://open.spotify.com/album/4ilpZLrVk38MepODyBUjX6) | 4:22 | 2021-12-16 | 2023-08-12 |
+| [Zúmbalo](https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:25 | 2021-12-16 |  |
 
 \*This playlist was first scraped on 2023-05-16. Prior content cannot be recovered.

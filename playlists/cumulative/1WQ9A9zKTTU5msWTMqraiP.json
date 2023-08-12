@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230390,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
+    },
+    {
+      "album": {
         "name": "Brain Dead",
         "url": "https://open.spotify.com/album/4y8ySSKbYh60Z84gifPOpw"
       },

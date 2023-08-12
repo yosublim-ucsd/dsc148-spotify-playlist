@@ -4,12 +4,13 @@
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-95 songs - 5 hr 18 min
+96 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 | 2023-08-02 |  |
 | [Alaska \- Toby Green Remix](https://open.spotify.com/track/1S4z3fHfqPuIlWbx3fJAlp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Alaska \(Toby Green Remix\)](https://open.spotify.com/album/2CLcLiU2Fz9Dh5jLSih1Ur) | 3:05 | 2022-05-02 |  |
+| [All The Things](https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [All The Things](https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3) | 3:22 | 2023-08-11 |  |
 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 | 2022-05-02 |  |
 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2022-05-02 | 2022-12-26 |
 | [Any Other Way](https://open.spotify.com/track/2O2A2kGaLJ3u2GQ4Gn4Lu3) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/3fNsNoodAejnATNg10sXgr) | 3:22 | 2022-05-02 |  |

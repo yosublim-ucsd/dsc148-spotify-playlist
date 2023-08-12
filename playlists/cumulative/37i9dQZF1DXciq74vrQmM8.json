@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Die Quietly",
+        "url": "https://open.spotify.com/album/2QrPknS73bYJY4ZFnnTDjx"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Die Quietly",
+      "url": "https://open.spotify.com/track/5rp7ochiJYHjMYUy8eSFM7"
+    },
+    {
+      "album": {
         "name": "DIE.",
         "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
       },

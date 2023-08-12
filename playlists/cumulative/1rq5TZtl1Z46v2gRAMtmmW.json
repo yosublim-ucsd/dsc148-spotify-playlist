@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 345053,
       "name": "Gentle Heart",
       "url": "https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka"
@@ -1416,6 +1416,36 @@
       "duration_ms": 228750,
       "name": "Hidden Angel",
       "url": "https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9"
+    },
+    {
+      "album": {
+        "name": "Hidden Angel (Hackney Road Studio Session)",
+        "url": "https://open.spotify.com/album/2ho48nKrT5MmDd45bGNssX"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        },
+        {
+          "name": "Roger Robinson",
+          "url": "https://open.spotify.com/artist/7aTVcGnRT0kjTwWKjTU3xR"
+        },
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        },
+        {
+          "name": "Specimens",
+          "url": "https://open.spotify.com/artist/32sLVQDV5zUAFxNkj0i7ld"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257414,
+      "name": "Hidden Angel - Hackney Road Studio Session",
+      "url": "https://open.spotify.com/track/4VkylJXzgZjeNHksy0ANIE"
     },
     {
       "album": {

@@ -1,20 +1,24 @@
 {
   "description": "B bole toh biggest blockbusters, right here! Koi Shaq? \ud83d\ude0e Cover - Rocky Aur Rani Kii Prem Kahaani",
-  "num_followers": 1051960,
+  "num_followers": 1052786,
   "original_name": "Bollywood Butter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTJiZDlkNjRlYTE5NWQ1NDE1YmQxMmNjNGNjMGM4YTRmNzExZWI0",
+  "snapshot_id": "MCxmNjMwMmE2ZTlkNzRjNGIyZTYyYzI4ZDQ3ZWFkMjI3MTg0YzkzYTU0",
   "tracks": [
     {
       "added_at": "2023-08-09 08:58:41",
       "album": {
-        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN"
       },
       "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
@@ -29,8 +33,8 @@
         }
       ],
       "duration_ms": 277500,
-      "name": "Tum Kya Mile",
-      "url": "https://open.spotify.com/track/5SlUuPQGMX5Ehe57pktNkS"
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
     },
     {
       "added_at": "2023-08-09 08:58:41",

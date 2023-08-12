@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-82 songs - 6 hr 50 min
+83 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Darling](https://open.spotify.com/track/7uBmGSQI5GHoxGQ3CPzCfy) | [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [Better On My Own / Darling](https://open.spotify.com/album/18zAr9OwZKslHj7ZHF38LH) | 4:19 | 2023-05-26 |  |
 | [Days Like These \- Original Mix](https://open.spotify.com/track/0wlcIk9TmFMPWsSvw0aO31) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Days Like These](https://open.spotify.com/album/0yLw15IJ24NwZ4PLrHUUgH) | 6:49 | 2022-12-22 |  |
 | [death bed](https://open.spotify.com/track/1jjNGNTC6lWNxKXlHFPQlD) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [makeshift](https://open.spotify.com/album/7yqS6BS18Eo05B5N2bsfeA) | 3:49 | 2023-02-14 |  |
+| [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 | 2023-08-11 |  |
 | [Descendence](https://open.spotify.com/track/77Jee13pdAn2AVngCzgAVU) | [Rambutan](https://open.spotify.com/artist/3SNy9C8agzPn0LW9zTlj1u) | [Start / Descendence](https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv) | 3:31 | 2023-04-13 |  |
 | [Discovery](https://open.spotify.com/track/0x5JU2PT8jVHXdwHoQz6QH) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Full Fat 01](https://open.spotify.com/album/52fo23dS6QgbmVdqsriY5T) | 4:02 | 2022-11-30 |  |
 | [Dogs Behaving Badly](https://open.spotify.com/track/3zjYqFF5jsz7n2nUHTRaWl) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Days Like These EP](https://open.spotify.com/album/4v5HIb6e4LJpB1R7u7brRK) | 5:39 | 2023-01-20 |  |

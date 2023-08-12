@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,477 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,576 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 32 | [Cheerios \(feat\. keni can fly\)](https://open.spotify.com/track/5iQYvVEhZdWFK1rLmVXfGi) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4), [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [Cheerios \(feat\. keni can fly\)](https://open.spotify.com/album/1U0wIkKpiuT4UiWz0eBNJL) | 2:27 |
 | 33 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 |
 | 34 | [MIAMI](https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP), [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [MIAMI](https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF) | 3:12 |
-| 35 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 |
+| 35 | [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 |
 | 36 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
 | 37 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 |
 | 38 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 99 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 |
 | 100 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 |
 
-Snapshot ID: `MCw1ZWI1NjVkZTIyOWFjMmViMGNjNTAyZDIyODZiODY3NjY3MjVmYTlj`
+Snapshot ID: `MCwyYzhmYjU3M2NiOWZhOTFhNTc4ZmYyMzc3MWVmNzMwN2FhOWNiZTM5`

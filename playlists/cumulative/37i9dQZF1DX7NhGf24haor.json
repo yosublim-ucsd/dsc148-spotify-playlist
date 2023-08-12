@@ -1853,6 +1853,32 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/5iftBtlq966HmH1ST3ZvRu"
+      },
+      "artists": [
+        {
+          "name": "TBR",
+          "url": "https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv"
+        },
+        {
+          "name": "Narcyz",
+          "url": "https://open.spotify.com/artist/6bXKU7upMry4vNzi4jvgjq"
+        },
+        {
+          "name": "Haarley",
+          "url": "https://open.spotify.com/artist/77lkMf90wGcvn3Fgqxx2pM"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6VZFCVHMgLOjgJEP144EZe"
+    },
+    {
+      "album": {
         "name": "Devil's Night",
         "url": "https://open.spotify.com/album/74r8ToJjCrvRJBuxQzMTas"
       },
@@ -4412,6 +4438,24 @@
       "duration_ms": 194191,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/3ZJj3ayiTXSwFEsu4intvd"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/7rGPeX8nIBG28idHyjNWH0"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234100,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/1HZ45bmBkEy7ZrzA8XsBpD"
     },
     {
       "album": {
@@ -7900,6 +7944,24 @@
       "duration_ms": 217841,
       "name": "Rooftop - Jordiz Remix",
       "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
+    },
+    {
+      "album": {
+        "name": "Ruffneck Sound",
+        "url": "https://open.spotify.com/album/4yOfxfaE7xQmSaXjfRc2Xz"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Ruffneck Sound",
+      "url": "https://open.spotify.com/track/0QVF56A9dHRJh9iB7L5tZ5"
     },
     {
       "album": {

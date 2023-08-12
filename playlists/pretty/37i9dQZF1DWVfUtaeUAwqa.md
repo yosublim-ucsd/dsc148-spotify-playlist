@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,337 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,342 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 48 | [Oh Dem Golden Slippers](https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2) | [Big Bill Bissonnette](https://open.spotify.com/artist/6rWKOdIJ1sNrwIkExpqft3), [Fred Vigorito](https://open.spotify.com/artist/5oGStUPpuSDCwBNfrY6GRJ), [Ron Going](https://open.spotify.com/artist/4VrKYz7oSRR5bqK5Ee5CL3), [Jerry Zigmont](https://open.spotify.com/artist/12op0GfGk3ePWO5Z6ZibyI), [Bill Sinclair](https://open.spotify.com/artist/6DpwFj7nqyCNs73FyErWei), [Emil Mark](https://open.spotify.com/artist/4r7qBb1bWxrwAdHq8Hage3), [Arnie Hyman](https://open.spotify.com/artist/5Qsc6Qnpqs8Oaq21Fy3cfa) | [Jam Session in Connecticut, Vol\. 1](https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd) | 5:16 |
 | 49 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 50 | [Nobody's Sweetheart](https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu) | [Frank Teschemacher feat\. McKenzie and Condons Chicagoans](https://open.spotify.com/artist/1v7KpWrDzfMXDJFQAdyCQf), [Frank Teschemacher](https://open.spotify.com/artist/1BCIGVImYhfnEafy4sZZQA), [McKenzie and Condon's Chicagoans](https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d) | [Jazz Chronicles: Frank Teschemacher, Vol\. 1](https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe) | 3:02 |
-| 51 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
-| 52 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
+| 51 | [Bugle Call Blues](https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr) | [New Orleans Rhythm Kings](https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA) | [All Time Jazz: New Orleans Rhythm Kings](https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl) | 2:22 |
+| 52 | [We're Gonna Have Smooth Sailing](https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [The Incomparable Henry Red Allen: The Golden Years, Vol\. 2](https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK) | 2:50 |
 | 53 | [Thunder & Blazes](https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [More Best of the Dukes of Dixieland, Vol\. 2](https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI) | 2:15 |
 | 54 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 | 55 | [The Band Played On](https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8) | [The Muscrat Ramblers](https://open.spotify.com/artist/7sshU7PI841z2AbqZBiswL) | [30 Patriotic American Songs for Armed Forces Day](https://open.spotify.com/album/6gN9uADfLhgWYgO3P3h4gu) | 3:19 |
 
-Snapshot ID: `MCw1ZGYxNDk1YjM5MGNjYTYxOGEyOTIyNTc5NjEwODE4ODgyOGFjMWNh`
+Snapshot ID: `MCw3MjAyZWViMjMzZDcwODQ5MTRhZTlmOWNhZTZkNGQwZGRjMzFlZDcx`

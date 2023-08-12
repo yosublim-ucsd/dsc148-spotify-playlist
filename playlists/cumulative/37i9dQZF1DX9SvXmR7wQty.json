@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Eli Rose",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Evelyne Brochu",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
@@ -6286,7 +6286,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 272322,
       "name": "Cin\u00e9ma Paradiso",
       "url": "https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi"
@@ -10076,7 +10076,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 175238,
       "name": "EDM (Entre deux mondes)",
       "url": "https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq"
@@ -10980,6 +10980,24 @@
       "duration_ms": 194626,
       "name": "Escorte",
       "url": "https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi"
+      },
+      "artists": [
+        {
+          "name": "Dj Karaba",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174765,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG"
     },
     {
       "album": {
@@ -14122,6 +14140,24 @@
       "duration_ms": 172000,
       "name": "Holla",
       "url": "https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4"
+    },
+    {
+      "album": {
+        "name": "hollywood life",
+        "url": "https://open.spotify.com/album/5WJvUSEHW2vEmfeijbAOx6"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303644,
+      "name": "hollywood life",
+      "url": "https://open.spotify.com/track/6HShlHseLqm2OMZHCXrDfM"
     },
     {
       "album": {
@@ -19924,7 +19960,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 143055,
       "name": "Le stade",
       "url": "https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq"
@@ -20152,7 +20188,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 231382,
       "name": "Led Lights",
       "url": "https://open.spotify.com/track/0f9DSgM7W2EmLgRNuLA5jJ"
@@ -20910,7 +20946,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 148627,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6nc69Bx3qktJdCL9f0UlPn"
@@ -24119,6 +24155,24 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/3V2mdAG4obVY4Rz1LuKvIo"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/2dG5OE5ofzkluh4V9A2RFz"
+    },
+    {
+      "album": {
         "name": "Mwen Pare",
         "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
       },
@@ -24220,7 +24274,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 183346,
       "name": "M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
@@ -26386,6 +26440,24 @@
       "duration_ms": 216520,
       "name": "Parfaite \u00e0 l'\u00e9cran",
       "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5O1nozJq79ZpHyAjcHEPta"
+      },
+      "artists": [
+        {
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX"
     },
     {
       "album": {
@@ -30020,7 +30092,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 168000,
       "name": "Rien \u00e0 faire",
       "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"
@@ -32744,7 +32816,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 255906,
       "name": "Stirer la roux",
       "url": "https://open.spotify.com/track/1hcdg3ZqBoHP768ifZRG9W"
@@ -34218,7 +34290,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 125942,
       "name": "TORNADE",
       "url": "https://open.spotify.com/track/6DyYmMrd96OwJD60EHl9Zf"
@@ -35708,7 +35780,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -37528,7 +37600,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 157000,
       "name": "Yabibi (feat. Nej)",
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"

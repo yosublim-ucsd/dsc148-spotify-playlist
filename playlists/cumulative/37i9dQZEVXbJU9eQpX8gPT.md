@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,161 songs - 2 day 16 hr 3 min
+1,162 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Grammy](https://open.spotify.com/track/6dm2JL4ghgS4nTlNdP7GYS) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Cloud 26](https://open.spotify.com/album/1gGWJfhTrSCPgjrbWTvoDz) | 3:17 | 2021-03-27 | 2021-05-09 |
 | [GTB](https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [FLEM KGB](https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi) | [Faits Divers](https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51) | 2:56 | 2023-07-14 |  |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-08-06 |  |
-| [Guli Mata](https://open.spotify.com/track/3B9CL5t32mM2SDdps2IhYM) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Guli Mata](https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6) | 3:55 | 2023-07-14 |  |
+| [Guli Mata](https://open.spotify.com/track/3B9CL5t32mM2SDdps2IhYM) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Guli Mata](https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6) | 3:55 | 2023-07-14 | 2023-08-12 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2022-11-28 | 2023-01-03 |
 | [Habeel](https://open.spotify.com/track/2L48wIyVaLBb0AyvnkPbrY) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Habeel](https://open.spotify.com/album/7DWnM9EKQ12gwBMI6jHCBJ) | 3:30 | 2021-11-04 | 2021-11-06 |
 | [Habibi \- Albanian Remix](https://open.spotify.com/track/2sHYMLUd4nVLxHPKY05Ein) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Habibi \(Albanian Remix\)](https://open.spotify.com/album/3WOsyRdlR3qA5BhKW3Ffkj) | 2:09 | 2022-05-17 | 2022-08-14 |
@@ -605,6 +605,7 @@
 | [Local](https://open.spotify.com/track/67SRXY0G8by6iElzIGhTyq) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:53 | 2021-11-28 | 2021-11-28 |
 | [Lore \- Intro](https://open.spotify.com/track/3DcjhqPaJQrbobPrnbadwv) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 1:59 | 2021-04-18 | 2021-04-19 |
 | [Lost](https://open.spotify.com/track/62LM5V7p7Pzq6NVRAwhxay) | [KowKow](https://open.spotify.com/artist/2fNi6fQDoYiOyTj9iUkPih) | [Lost](https://open.spotify.com/album/1RszKGwyHJBvSSa0TW0q1I) | 2:57 | 2022-10-10 | 2022-10-13 |
+| [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2023-08-11 |  |
 | [LOST FOREVER](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-07-31 |
 | [Louder than bombs](https://open.spotify.com/track/4Aw8n6r2vuU0KUo1a2nftp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:37 | 2022-02-25 | 2022-02-27 |
 | [Louder than bombs](https://open.spotify.com/track/7rWZS6UDNgLbtCgq3eUrdM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:37 | 2021-11-30 | 2021-12-01 |

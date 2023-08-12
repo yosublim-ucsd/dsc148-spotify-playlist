@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 132313,
       "name": "26AR \"On The Radar\" Freestyle, Pt. 2",
       "url": "https://open.spotify.com/track/4DfbcSH0kGI2jlQqdRHkCJ"
@@ -291,6 +291,36 @@
     },
     {
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
+    },
+    {
+      "album": {
         "name": "Bonita Applebum (Bounce Mix)",
         "url": "https://open.spotify.com/album/5pymKpgNcU8vrX7l9wUuIi"
       },
@@ -404,10 +434,36 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 190310,
       "name": "Brucifix",
       "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
+    },
+    {
+      "album": {
+        "name": "GYATTT",
+        "url": "https://open.spotify.com/album/2jt244KyJ68SOuiOaS8chg"
+      },
+      "artists": [
+        {
+          "name": "PatekRemixes",
+          "url": "https://open.spotify.com/artist/3DtgcJKZUIpKlehmI0UgkV"
+        },
+        {
+          "name": "Kai Cenat",
+          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
+        },
+        {
+          "name": "Lil Bro",
+          "url": "https://open.spotify.com/artist/3STknxZC62USH50MMlLxve"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124923,
+      "name": "Bustdown JerseyDrill Avalanche",
+      "url": "https://open.spotify.com/track/2F9THPeGUa3U6IhZLgsAdI"
     },
     {
       "album": {
@@ -466,7 +522,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 109299,
       "name": "CONFETTI! (WITH CHOW LEE)",
       "url": "https://open.spotify.com/track/6cWXlRYBQ1FtJG2dXzr1WV"
@@ -744,7 +800,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 202285,
       "name": "FlyGod Jr (feat. DJ Drama)",
       "url": "https://open.spotify.com/track/5KXvG7j3Uvs9yyORfjxPv8"
@@ -766,6 +822,54 @@
       "duration_ms": 121600,
       "name": "Forever On That",
       "url": "https://open.spotify.com/track/655gj59E31LDwfkWED2SIs"
+    },
+    {
+      "album": {
+        "name": "Fumble",
+        "url": "https://open.spotify.com/album/51aJrcLm32vZ5Br5WJRovf"
+      },
+      "artists": [
+        {
+          "name": "Angel + Dren",
+          "url": "https://open.spotify.com/artist/6Ye3j17VAZMvh1v24l1hXc"
+        },
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212187,
+      "name": "Fumble",
+      "url": "https://open.spotify.com/track/4DM8cAMgXgYuX74o6Fk8c7"
+    },
+    {
+      "album": {
+        "name": "GYATTT",
+        "url": "https://open.spotify.com/album/2jt244KyJ68SOuiOaS8chg"
+      },
+      "artists": [
+        {
+          "name": "PatekRemixes",
+          "url": "https://open.spotify.com/artist/3DtgcJKZUIpKlehmI0UgkV"
+        },
+        {
+          "name": "Kai Cenat",
+          "url": "https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU"
+        },
+        {
+          "name": "Lil Bro",
+          "url": "https://open.spotify.com/artist/3STknxZC62USH50MMlLxve"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104828,
+      "name": "God Did",
+      "url": "https://open.spotify.com/track/5dVXJd6qS17aNJ6WxjuJWC"
     },
     {
       "album": {
@@ -922,6 +1026,28 @@
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     },
     {
       "album": {
@@ -1089,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "LOST FOREVER (feat. Westside Gunn)",
+      "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
+    },
+    {
+      "album": {
         "name": "Psychedelic Love Drugs",
         "url": "https://open.spotify.com/album/3rarTA86lsS7Z9wh3yyY60"
       },
@@ -1202,6 +1350,24 @@
       "duration_ms": 173948,
       "name": "MVP (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "album": {
+        "name": "My Set Pt. III",
+        "url": "https://open.spotify.com/album/3Q6KOCVQyPJYWZaGnVraN1"
+      },
+      "artists": [
+        {
+          "name": "26ar",
+          "url": "https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "MY SET PT. III",
+      "url": "https://open.spotify.com/track/0S6KnryNmhW3xW4WtvA8H3"
     },
     {
       "album": {
@@ -1751,6 +1917,32 @@
     },
     {
       "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/0FYIiXk8thJmRoGhiiIagB"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186131,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/0eApoAkkSWzutL62JgkClj"
+    },
+    {
+      "album": {
         "name": "Sailor Moon (2.0)",
         "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
       },
@@ -2136,7 +2328,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 283313,
       "name": "Until The End Of Time - Spotify Singles",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
@@ -2356,7 +2548,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 205949,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5ykfLaErZagVPL1N6movaf"

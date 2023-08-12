@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-439 songs - 1 day 0 hr 20 min
+440 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,10 +327,11 @@
 | [Skytrot](https://open.spotify.com/track/75xQjEq9XI7xfDsX2p1NAF) | [Equip](https://open.spotify.com/artist/3IOhNbmcUbaMuJkmyfkfE0) | [I Dreamed of a Palace in the Sky](https://open.spotify.com/album/3ZT5yVm7HWx0XoOyMXe62h) | 2:40 | 2022-01-26 | 2022-04-13 |
 | [Slow Kiss](https://open.spotify.com/track/3vI4aXieRTOzduSpl3LQXM) | [Pan!c Pop](https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL) | [Slow Kiss](https://open.spotify.com/album/25K1dYGl92NxLBGzCW6L7P) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [SNAKE WAY](https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:07 | 2021-12-08 |  |
+| [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [willi6m](https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 | 2023-07-18 |  |
 | [Sonic in the Holobeach](https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Sonic in the Holobeach](https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau) | 4:16 | 2021-12-08 |  |
 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 | 2022-04-11 | 2022-07-18 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
-| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-09-11 |  |
+| [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 | 2022-09-11 | 2023-08-12 |
 | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/2scoNjwADGcWEbSOKjy5oJ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/4DqYWsmyVGtZy4GuAMS5Rz) | 4:04 | 2021-12-08 | 2022-08-13 |
 | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/3ao2Od12RCMXeRSSk8XbUZ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/5TxXuszoIFAtpet7APPeYb) | 4:04 | 2022-09-11 | 2022-11-05 |
 | [Spectre](https://open.spotify.com/track/2AcYagmdjrM7wzTFwsjGMP) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Spectre](https://open.spotify.com/album/7MYuHhnFpEW9r2MeOCfzwI) | 3:01 | 2021-12-08 | 2022-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Adi\u00f3s Pop con \u00d1, hola Pop del Top. Lo mejor del pop. Foto: Juan Mag\u00e1n, Cali Y El Dandee, Mar Lucas",
-  "num_followers": 988294,
+  "num_followers": 988373,
   "original_name": "Pop del Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzU5MDM2NGI2ZmVlNjM3OTA4Nzk1MDUwOGYyZTQ5YmVmYWZlOTUy",
+  "snapshot_id": "MCxhZmRiOWVhOWI1NTczNDdhZjU3ODkxOWUwOWI0NWZmZTA5ZDg5MWY0",
   "tracks": [
     {
       "added_at": "2023-08-07 16:15:21",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-07 16:15:21",
       "album": {
+        "name": "Tenemos que hablar",
+        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Tenemos que hablar",
+      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
+    },
+    {
+      "added_at": "2023-08-07 16:15:21",
+      "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 189918,
       "name": "D\u00e9jalo En Visto",
       "url": "https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0"
-    },
-    {
-      "added_at": "2023-08-07 16:15:21",
-      "album": {
-        "name": "Tenemos que hablar",
-        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Tenemos que hablar",
-      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
     },
     {
       "added_at": "2023-08-07 16:15:21",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-08-07 16:15:21",
       "album": {
-        "name": "El Principio de algo",
-        "url": "https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 147907,
-      "name": "El Principio de algo",
-      "url": "https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb"
-    },
-    {
-      "added_at": "2023-08-07 16:15:21",
-      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 159272,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+    },
+    {
+      "added_at": "2023-08-07 16:15:21",
+      "album": {
+        "name": "El Principio de algo",
+        "url": "https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 147907,
+      "name": "El Principio de algo",
+      "url": "https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb"
     },
     {
       "added_at": "2023-08-07 16:15:21",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-07 16:15:21",
       "album": {
-        "name": "Canci\u00f3n de pop",
-        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Canci\u00f3n de pop",
-      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-08-07 16:15:21",
-      "album": {
         "name": "ME MATA(S)",
         "url": "https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 180525,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-08-07 16:15:21",
+      "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
     },
     {
       "added_at": "2023-08-07 16:15:21",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-07 16:15:21",
       "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
-    },
-    {
-      "added_at": "2023-08-07 16:15:21",
-      "album": {
         "name": "COSTA RICA",
         "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 175748,
       "name": "DOS PRIMAVERAS",
       "url": "https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF"
+    },
+    {
+      "added_at": "2023-08-07 16:15:21",
+      "album": {
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
     },
     {
       "added_at": "2023-08-07 16:15:21",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-08-07 16:15:21",
       "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Romero",
-          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
-        },
-        {
-          "name": "Fabbio",
-          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        }
-      ],
-      "duration_ms": 204492,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
-    },
-    {
-      "added_at": "2023-08-07 16:15:21",
-      "album": {
         "name": "12:34",
         "url": "https://open.spotify.com/album/6y6bupiIHnjn2PMDwjaftJ"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 174000,
       "name": "12:34",
       "url": "https://open.spotify.com/track/4SIj5BkpEBmQxvO27hwid6"
+    },
+    {
+      "added_at": "2023-08-07 16:15:21",
+      "album": {
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Fabbio",
+          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "duration_ms": 204492,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
     },
     {
       "added_at": "2023-08-07 16:15:21",

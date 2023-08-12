@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 340231,
+  "num_followers": 340380,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODFiMDE1ZTIwY2JhNTRhYzQ2ZDFmOTk2OTdjYTVkZTA2OGVlYzIw",
+  "snapshot_id": "MCwzZTJmOGViMzBiZTMzMGU2NGM5MGIzMDgxZjNjNjE0MmUxYWNmYTNm",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "girls like me don't cry (sped up)",
-        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "How Many Moons",
-        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
       },
       "artists": [
         {
-          "name": "LUI HILL",
-          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 183635,
-      "name": "How Many Moons",
-      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/6t8cfrbxqMrfQdOYYUd90r"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/52Z7SLcvX4b9tqiq2fiDzi"
     }
   ],
   "unique_name": "Feelgood Pop",

@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-236 songs - 16 hr 25 min
+237 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bleed Or Believe](https://open.spotify.com/track/6n51TISVIwlNyLyb7RYjwV) | [Raise the Death Toll](https://open.spotify.com/artist/2MxIHokKnCTGMYDHqwpgyv), [Jai Benoit of Golgothan](https://open.spotify.com/artist/636GS0r5hnL64Z6N8PGwQd) | [Bleed Or Believe](https://open.spotify.com/album/13BRID57L4cLgqWoueiOF6) | 4:04 | 2023-03-04 |  |
 | [Blood Of My Enemy](https://open.spotify.com/track/5S2irCNIdBJbt88ThCn0xS) | [Winds of Plague](https://open.spotify.com/artist/080xIP1qfuknBNYEYPuH1v) | [Blood Of My Enemy](https://open.spotify.com/album/5NldficOVi9yHRB078LVct) | 3:21 | 2020-09-18 |  |
 | [Born Ov Hex](https://open.spotify.com/track/2h3x7H0sms6dOVrEwjq8y6) | [Cerement](https://open.spotify.com/artist/0uxkw5GtlfU8BgOuP7cjfl) | [Born Ov Hex](https://open.spotify.com/album/4CzHl5fMbWDP1u88RdoWlo) | 3:45 | 2022-04-03 |  |
+| [Boy](https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:50 | 2023-08-11 |  |
 | [Brain Dead](https://open.spotify.com/track/7G7Q7BVL2zCJqhcDvoklYG) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Brain Dead](https://open.spotify.com/album/4y8ySSKbYh60Z84gifPOpw) | 2:44 | 2020-06-05 |  |
 | [Bring Me to Death](https://open.spotify.com/track/6meBUahAccx89oz7msidhZ) | [Oh, The Depth](https://open.spotify.com/artist/7J27xACCtVO392WY9Eve5y) | [Bring Me to Death](https://open.spotify.com/album/0CEqYnBSia4TO6uhTtQsay) | 4:22 | 2022-02-20 |  |
 | [Carnal Beast](https://open.spotify.com/track/7pCR9GYx4r6XUWx1jMlVaZ) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Sheol](https://open.spotify.com/album/6cpsxKxDIwcK6o8sJUQZkb) | 4:30 | 2020-10-15 |  |

@@ -6846,7 +6846,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-13",
+      "date_removed": null,
       "duration_ms": 141360,
       "name": "Everything Hit",
       "url": "https://open.spotify.com/track/3unMLNT5wyJaQL8v8jktQb"
@@ -7718,7 +7718,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -10928,7 +10928,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
@@ -11102,6 +11102,28 @@
       "duration_ms": 182196,
       "name": "I Am What I Am",
       "url": "https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3"
+    },
+    {
+      "album": {
+        "name": "I Believe (feat. Peruzzi)",
+        "url": "https://open.spotify.com/album/6d6yJ9b1SSt55K2AZ91LAS"
+      },
+      "artists": [
+        {
+          "name": "Siminof",
+          "url": "https://open.spotify.com/artist/5rW7KDgRFQfnngSRhLSRZ5"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164118,
+      "name": "I Believe (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/4kzAGCScarLclDeZbaR9jE"
     },
     {
       "album": {
@@ -22416,7 +22438,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 164571,
       "name": "Stack It Up",
       "url": "https://open.spotify.com/track/2kRx2UcFYN1H7We2ezKnCz"
@@ -28470,7 +28492,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

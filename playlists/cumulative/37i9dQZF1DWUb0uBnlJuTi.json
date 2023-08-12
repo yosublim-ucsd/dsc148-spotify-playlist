@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
@@ -1558,6 +1558,24 @@
       "duration_ms": 176000,
       "name": "Dumb People",
       "url": "https://open.spotify.com/track/0bLLEb8lkYeyK7gqiilVy4"
+    },
+    {
+      "album": {
+        "name": "Echo A.D.",
+        "url": "https://open.spotify.com/album/3nggWpLX9v8zCnpFcDsYMe"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "Echo A.D.",
+      "url": "https://open.spotify.com/track/00cDda3lfNh6lI9qoYwqnn"
     },
     {
       "album": {
@@ -2233,6 +2251,28 @@
     },
     {
       "album": {
+        "name": "Have a Talk with God",
+        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341918,
+      "name": "Have a Talk with God",
+      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
+    },
+    {
+      "album": {
         "name": "Head in the Clouds",
         "url": "https://open.spotify.com/album/5s57FHV8CsfmgUmpMzsoe3"
       },
@@ -2672,6 +2712,32 @@
       "duration_ms": 199002,
       "name": "La Fachada",
       "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
+    },
+    {
+      "album": {
+        "name": "STR4TASFEAR Remixes",
+        "url": "https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Jean Paul \"Bluey\" Maunick",
+          "url": "https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391640,
+      "name": "Lazy Days - Bluey Remix",
+      "url": "https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke"
     },
     {
       "album": {
@@ -6050,7 +6116,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 181666,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/7eL5p6ngW5Jm0e72xlyjL8"
@@ -6928,7 +6994,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 311213,
       "name": "We Like It",
       "url": "https://open.spotify.com/track/6Z69u434EzVPJ570SYeQDf"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Mt. Joy & Julia Pratt ",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Shakey Graves",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 246454,
       "name": "9beat",
       "url": "https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 182452,
       "name": "A Little Older",
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
@@ -1032,6 +1032,24 @@
       "duration_ms": 224120,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX"
+    },
+    {
+      "album": {
+        "name": "All Your Secrets",
+        "url": "https://open.spotify.com/album/2BPcQu4odVhPU6KXdE9e40"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "All Your Secrets",
+      "url": "https://open.spotify.com/track/1I3ZhmDNtw5fN8xoaEevxK"
     },
     {
       "album": {
@@ -1771,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Battery",
+        "url": "https://open.spotify.com/album/4Rt54DtlsmJjEFUyqcN5tC"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        },
+        {
+          "name": "Elliot Cain",
+          "url": "https://open.spotify.com/artist/4NzATPtq1rQJO51QceBd1J"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141157,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/1PFGol3dDxR5hIlNOc6eZw"
+    },
+    {
+      "album": {
         "name": "Be (For July)",
         "url": "https://open.spotify.com/album/0FBLgpnbL4kbvxPszHYGbd"
       },
@@ -2256,6 +2296,24 @@
       "duration_ms": 189483,
       "name": "Between the Sea and the Sun",
       "url": "https://open.spotify.com/track/7tTolh2aZMpYrLjALTyxUN"
+    },
+    {
+      "album": {
+        "name": "Big In The World",
+        "url": "https://open.spotify.com/album/2R8lG3iFzp3lqKdLNFJsI9"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268586,
+      "name": "Big In The World",
+      "url": "https://open.spotify.com/track/3Chjp9g7SkVVqAQ25jQRl2"
     },
     {
       "album": {
@@ -2776,7 +2834,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 166114,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/3sEwILGX1PMQehuSsuHDL3"
@@ -3393,6 +3451,28 @@
     },
     {
       "album": {
+        "name": "Inflorescence",
+        "url": "https://open.spotify.com/album/7wcqwO6mYfEcQVJt2CAUu3"
+      },
+      "artists": [
+        {
+          "name": "Rob Moose",
+          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
+        },
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250443,
+      "name": "Can Only Be Love (feat. Emily King)",
+      "url": "https://open.spotify.com/track/6ABkc4s3SFympP8gYouwzZ"
+    },
+    {
+      "album": {
         "name": "Can't Be By Myself",
         "url": "https://open.spotify.com/album/6GGqDtR8l4sebnwl7Zcqdj"
       },
@@ -3716,7 +3796,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 240124,
       "name": "Changes (feat. Laura Elliott)",
       "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
@@ -4541,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Don't You Dare Make Me Jaded",
+        "url": "https://open.spotify.com/album/6427clTKUdr7qc1Us3ZtTH"
+      },
+      "artists": [
+        {
+          "name": "Olive Klug",
+          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214484,
+      "name": "Cut the Ties",
+      "url": "https://open.spotify.com/track/0M2upcLdbMI5hsDqrjCEsD"
+    },
+    {
+      "album": {
         "name": "You Never Met Me",
         "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
       },
@@ -4913,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Death Narrative",
+        "url": "https://open.spotify.com/album/56oiEnAg469EOg0kUbK24I"
+      },
+      "artists": [
+        {
+          "name": "Clean Cut Kid",
+          "url": "https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262208,
+      "name": "Death Narrative",
+      "url": "https://open.spotify.com/track/3Uajwstil2g5p6ORy5qqcF"
+    },
+    {
+      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/1zpKAgRhDks0LH73FcojbM"
       },
@@ -4946,7 +5062,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 236302,
       "name": "Defender",
       "url": "https://open.spotify.com/track/4qVsCZhRS0glJbl3kvmGn4"
@@ -7638,7 +7754,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 251313,
       "name": "Ghost of Avalon",
       "url": "https://open.spotify.com/track/6dEpJEmLb0JTYotF0ndmOm"
@@ -8595,6 +8711,28 @@
     },
     {
       "album": {
+        "name": "Broken Glass, Vol. 6",
+        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225013,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
+    },
+    {
+      "album": {
         "name": "Heading for Home (feat. John Legend)",
         "url": "https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF"
       },
@@ -8672,7 +8810,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
@@ -11361,6 +11499,24 @@
     },
     {
       "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
+    },
+    {
+      "album": {
         "name": "Honest to God",
         "url": "https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT"
       },
@@ -11798,6 +11954,24 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/7hjYZWn6lzUPuzlOaNHFKx"
+    },
+    {
+      "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
     },
     {
       "album": {
@@ -12674,7 +12848,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 338733,
       "name": "Line Of Fire (feat. Sharon Van Etten)",
       "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
@@ -13135,6 +13309,24 @@
     },
     {
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/0rk1990CgQhutb4Oka6LJm"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185673,
+      "name": "Love & Light",
+      "url": "https://open.spotify.com/track/79yrvT5dnBB0OKfZsrxOa7"
+    },
+    {
+      "album": {
         "name": "Love After Love",
         "url": "https://open.spotify.com/album/6ztEDQCLA3lAfcpU6Jj6GB"
       },
@@ -13352,7 +13544,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 171928,
       "name": "Love You the Most",
       "url": "https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj"
@@ -13704,7 +13896,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 164873,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB"
@@ -15278,7 +15470,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 208006,
       "name": "Nu-Grape",
       "url": "https://open.spotify.com/track/21r46gpVhsV2zvbfK0aXOK"
@@ -15864,7 +16056,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 152416,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/6o3bz3cyg33UV3NMi29oXZ"
@@ -18709,6 +18901,24 @@
     },
     {
       "album": {
+        "name": "Silver Beaches",
+        "url": "https://open.spotify.com/album/1jcFUqJv7RmntukEnP7kM3"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351226,
+      "name": "Silver Beaches",
+      "url": "https://open.spotify.com/track/0tRVzLVwLYZmEEwyMz24xE"
+    },
+    {
+      "album": {
         "name": "Silver Sunset",
         "url": "https://open.spotify.com/album/5VwQv3rvZpM62Y0k6EIXn2"
       },
@@ -18908,6 +19118,24 @@
       "duration_ms": 182028,
       "name": "Smiling All The Way Back Home",
       "url": "https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS"
+    },
+    {
+      "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
     },
     {
       "album": {
@@ -19190,6 +19418,42 @@
       "duration_ms": 175866,
       "name": "Soundings",
       "url": "https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp"
+    },
+    {
+      "album": {
+        "name": "Sparrows",
+        "url": "https://open.spotify.com/album/6RngpIkJkMnhiuACZzrzoG"
+      },
+      "artists": [
+        {
+          "name": "Briscoe",
+          "url": "https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Sparrows",
+      "url": "https://open.spotify.com/track/5aacBMBoY2rFQQQBnnXYLT"
+    },
+    {
+      "album": {
+        "name": "Speech Bubble",
+        "url": "https://open.spotify.com/album/43pgKeCVeCiWcP8NATjoNt"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Speech Bubble",
+      "url": "https://open.spotify.com/track/7u1y8JmKryDuEt02kpphTM"
     },
     {
       "album": {
@@ -19891,6 +20155,24 @@
     },
     {
       "album": {
+        "name": "Summer Windows",
+        "url": "https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201579,
+      "name": "Summer Windows",
+      "url": "https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP"
+    },
+    {
+      "album": {
         "name": "Summertime Whiskey",
         "url": "https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH"
       },
@@ -20476,7 +20758,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 314800,
       "name": "Tarifa",
       "url": "https://open.spotify.com/track/54ZUSQxX61JRea6BhiwdxV"
@@ -20892,6 +21174,24 @@
       "duration_ms": 219162,
       "name": "The Big One",
       "url": "https://open.spotify.com/track/2yzo8yTdYCJ6VEBO8qUyNB"
+    },
+    {
+      "album": {
+        "name": "The Cabin",
+        "url": "https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237547,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
     },
     {
       "album": {
@@ -21794,7 +22094,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 213973,
       "name": "The Weakness [Feat. Samia]",
       "url": "https://open.spotify.com/track/57TqUYJNAbLe2W16M8kYLm"
@@ -22010,7 +22310,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 296678,
       "name": "This",
       "url": "https://open.spotify.com/track/6y0pooaE0WoVohlFwVPuT8"
@@ -22772,7 +23072,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 181763,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h"
@@ -22794,6 +23094,24 @@
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
+    },
+    {
+      "album": {
+        "name": "TRAFFIC FICTION",
+        "url": "https://open.spotify.com/album/15CZkU1fD1Gp2rfWzdGMSh"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "TRAFFIC FICTION",
+      "url": "https://open.spotify.com/track/2LeIA3mtEMFV4LpKWu9w6p"
     },
     {
       "album": {
@@ -23040,7 +23358,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 222426,
       "name": "Twelve-Thirty (Young Girls Are Coming To The Canyon) [feat. Susanna Hoffs, Chris Stills & Sheryl Crow]",
       "url": "https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ"
@@ -24353,6 +24671,24 @@
     },
     {
       "album": {
+        "name": "When We Come Back Down",
+        "url": "https://open.spotify.com/album/6RjqOSAsxoiCGjiuwFRqZr"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276278,
+      "name": "When We Come Back Down",
+      "url": "https://open.spotify.com/track/7pUneCfvoKAQXbS5htnRcX"
+    },
+    {
+      "album": {
         "name": "When We First Met",
         "url": "https://open.spotify.com/album/6toPCysiNBVMvf2Hp00Sse"
       },
@@ -24364,7 +24700,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 218721,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/0JSxVl5ri6Euk8U7RNEMn2"
@@ -24440,7 +24776,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 237781,
       "name": "Where My Wild Things Are",
       "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
@@ -25160,6 +25496,24 @@
       "duration_ms": 196424,
       "name": "Yellow Dawn",
       "url": "https://open.spotify.com/track/5zqXYobC2kadwwKOniBXtp"
+    },
+    {
+      "album": {
+        "name": "Yellow Roses",
+        "url": "https://open.spotify.com/album/3g4mP7ZujWwIdhOkDarYkN"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226704,
+      "name": "Yellow Roses",
+      "url": "https://open.spotify.com/track/1a5MsyICJgcT9z9bcUIOVV"
     },
     {
       "album": {

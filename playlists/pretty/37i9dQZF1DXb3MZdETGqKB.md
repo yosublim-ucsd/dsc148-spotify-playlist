@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,058 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,187 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Throw This Rope](https://open.spotify.com/track/1MbszgW431CEH2bik2ct6J) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Throw This Rope](https://open.spotify.com/album/5JELtrZUiqwmwQd98bJ2vG) | 2:30 |
-| 2 | [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 |
-| 3 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 |
+| 1 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 |
+| 2 | [Throw This Rope](https://open.spotify.com/track/1MbszgW431CEH2bik2ct6J) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Throw This Rope](https://open.spotify.com/album/5JELtrZUiqwmwQd98bJ2vG) | 2:30 |
+| 3 | [Jackpot](https://open.spotify.com/track/7ts8Hpf5LF6HmvyePJgysY) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Jackpot](https://open.spotify.com/album/18wuw7w0x6fqjTJIEK71A2) | 2:07 |
 | 4 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 |
 | 5 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 |
 | 6 | [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [You're Gonna Need Somebody on Your Bond](https://open.spotify.com/album/62bLeL1omNfCWUrDO0xkko) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCw0NzY1Zjc3MjQ2NDdjMGVjZjVkZDY1OTQ0ZTVkOGNkM2JlNTMyYTVi`
+Snapshot ID: `MCxjZmRiNzZmNzJjOWE3NzJkNTcxZGQ5MjU4OGRiMDU3MTFhNTJiY2Yy`

@@ -1,13 +1,29 @@
 {
   "description": "Nick and Charlie's mixtape. Watch <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033\">Heartstopper</a> now on Netflix.",
-  "num_followers": 69460,
+  "num_followers": 70511,
   "original_name": "Heartstopper: Nick and Charlie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZmYTE3N2U2YWFjM2FkYmY5M2ZiOGE1MjM3MDc1MzU5OTYzZWM3",
+  "snapshot_id": "MCxhNmY3NmIyODFjYTRjMjkwZmI0ZWFkNjE3MjFiMDIwNGJjYWRlZjQ4",
   "tracks": [
+    {
+      "added_at": "2023-08-11 13:17:22",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 202389,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
+    },
     {
       "added_at": "2023-08-02 23:00:00",
       "album": {

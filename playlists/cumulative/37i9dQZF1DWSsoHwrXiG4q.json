@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "Fade Into Dust / Departure",
+        "url": "https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        },
+        {
+          "name": "Captivate",
+          "url": "https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto"
+    },
+    {
+      "album": {
         "name": "Start / Descendence",
         "url": "https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv"
       },

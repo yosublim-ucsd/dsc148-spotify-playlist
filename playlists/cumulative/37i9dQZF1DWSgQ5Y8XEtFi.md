@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-267 songs - 11 hr 54 min
+271 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [151 Rum](https://open.spotify.com/track/5NiqIB4BwRpoU1V6U195OU) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [151 Rum](https://open.spotify.com/album/5FElaL1HQY12SARonJjSfI) | 2:36 | 2022-06-17 | 2022-07-29 |
 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 | 2022-04-20 | 2023-03-28 |
 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 | 2022-06-07 | 2022-11-08 |
+| [2 WORDS](https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [2 WORDS](https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO) | 2:03 | 2023-08-11 |  |
 | [5 Ways](https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [5 Ways](https://open.spotify.com/album/1afLHpWGBzbRaGX32Qye3S) | 1:50 | 2022-03-29 | 2022-07-29 |
 | [6 God](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:00 | 2022-08-29 | 2022-09-27 |
 | [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 | 2022-08-04 |
@@ -121,6 +122,7 @@
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-17 | 2023-08-01 |
 | [GS1](https://open.spotify.com/track/7AuuTaCNGubBwVwmtM0gOj) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [GS1](https://open.spotify.com/album/3aINmrTNXgONR2UXyhRxWe) | 2:10 | 2023-03-27 | 2023-04-01 |
 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 | 2022-03-29 | 2023-03-28 |
+| [GUMDROP](https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [GUMDROP](https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY) | 1:09 | 2023-08-11 |  |
 | [HANDSOME](https://open.spotify.com/track/58z1hY9hrwliXRIvQe8UOX) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 2:06 | 2022-10-14 |  |
 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 | 2023-03-27 | 2023-05-24 |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2022-03-29 | 2022-12-17 |
@@ -214,6 +216,7 @@
 | [SANA SANA](https://open.spotify.com/track/7kakp7vYlAUJAOTBYh42ic) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 2:58 | 2022-03-29 | 2022-04-21 |
 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 | 2022-04-19 | 2023-03-28 |
 | [Savior](https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:44 | 2022-05-16 | 2022-05-20 |
+| [Savior](https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Savior](https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh) | 3:06 | 2023-08-11 |  |
 | [Say the Name](https://open.spotify.com/track/3YHhWdTlWjIML155CvcH4F) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I) | [Visions of Bodies Being Burned](https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33) | 4:59 | 2023-03-27 | 2023-05-24 |
 | [SCARING THE HOES](https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:22 | 2023-03-27 |  |
 | [Sean\-Jared](https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:37 | 2023-07-21 |  |
@@ -272,6 +275,7 @@
 | [YELLOW PISS](https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [TOXIC BOOGALOO](https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9) | 2:01 | 2022-03-29 | 2023-01-24 |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2022-03-29 | 2022-07-16 |
 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-02-17 |  |
+| [your armour will not protect me](https://open.spotify.com/track/6kV8M2ztarCdw9w872mj8v) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [your armour will not protect me](https://open.spotify.com/album/7HrT8nJ0eOyoqrqveBxVdn) | 2:10 | 2023-08-11 |  |
 | [Yum](https://open.spotify.com/track/6srSZ98GEz495b0ejEIVGl) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 4:21 | 2023-04-14 | 2023-06-02 |
 | [YuNg BrAtZ](https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:41 | 2022-03-29 | 2022-10-17 |
 | [Zuccenberg](https://open.spotify.com/track/4m311PrEtKHZzy1JAsDCq1) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Zuccenberg](https://open.spotify.com/album/6yBZyX3cH4aX91Tng2QZdF) | 2:52 | 2022-03-29 | 2022-07-28 |

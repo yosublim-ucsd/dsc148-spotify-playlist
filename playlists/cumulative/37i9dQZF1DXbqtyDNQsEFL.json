@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 302608,
       "name": "IBUKA",
       "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
@@ -2176,6 +2176,24 @@
       "duration_ms": 209000,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/51pxV69UzKS3P4DwZBg9ab"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU"
+      },
+      "artists": [
+        {
+          "name": "J'Something",
+          "url": "https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35"
     },
     {
       "album": {
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 327554,
       "name": "Yahweh Be Praised",
       "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"

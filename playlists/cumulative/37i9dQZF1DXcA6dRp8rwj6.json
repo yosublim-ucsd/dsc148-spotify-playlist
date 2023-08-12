@@ -26531,6 +26531,36 @@
     },
     {
       "album": {
+        "name": "SUPPOSED TO BE LOVED",
+        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206972,
+      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
+    },
+    {
+      "album": {
         "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
         "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
@@ -30331,7 +30361,7 @@
     },
     {
       "album": {
-        "name": "Warriors",
+        "name": "Warriors (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/6DE4e2r1wjuFKMoK07iZFO"
       },
       "artists": [
@@ -30348,7 +30378,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169632,
-      "name": "Warriors",
+      "name": "Warriors (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/7tTbmORzpyRh8nIWk6xdGT"
     },
     {

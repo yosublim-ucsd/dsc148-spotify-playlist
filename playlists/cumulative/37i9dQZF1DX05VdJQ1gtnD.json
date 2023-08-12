@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 135626,
       "name": "A place to go",
       "url": "https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 228353,
       "name": "Arve",
       "url": "https://open.spotify.com/track/7Ej0i8220fmM91CuhkeG4Q"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 187428,
       "name": "Candle",
       "url": "https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc"
@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Shadow Mountain Road",
+        "url": "https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156565,
+      "name": "Shadow Mountain Road",
+      "url": "https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn"
+    },
+    {
+      "album": {
         "name": "Snap",
         "url": "https://open.spotify.com/album/14EkrSpgL11nQiSjq6t1UP"
       },
@@ -3742,6 +3760,24 @@
       "duration_ms": 98081,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh"
+    },
+    {
+      "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd"
+      },
+      "artists": [
+        {
+          "name": "Acusticalia",
+          "url": "https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4"
     },
     {
       "album": {

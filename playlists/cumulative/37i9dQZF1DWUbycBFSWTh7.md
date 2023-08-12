@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-202 songs - 19 hr 2 min
+203 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Enchanted \- Folamour Remix](https://open.spotify.com/track/3TFwhBJnNz5hDNwCAjqhgG) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Enchanted \(Folamour Remix\)](https://open.spotify.com/album/5PMvjuuAtss3R20Q3Xg91R) | 5:34 | 2023-04-07 |  |
 | [Everything](https://open.spotify.com/track/6ZgHM8CJ1GQTi7by3G1hg3) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Everything](https://open.spotify.com/album/1FVWcVkKpJJVmZOseVnpnO) | 8:31 | 2023-07-07 |  |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-21 |  |
-| [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 |  |
+| [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 | 2023-08-12 |
+| [Feel It Too](https://open.spotify.com/track/6eCxE93eHyR9XNClcIi3CS) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/6E73jFWCNomWlXp3Vis492) | 4:53 | 2023-07-14 |  |
 | [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 | 2022-10-15 |
 | [feel it yah](https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/2CzGwKbrawnjD37y7HTrL9) | 4:06 | 2022-10-13 | 2023-04-09 |
 | [Feel the Same \- Edit](https://open.spotify.com/track/0XzOoAXFwlJ9HABK13SvyE) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [City of All](https://open.spotify.com/album/4SGcWgxpJ0rsBtBXbuQEZg) | 3:44 | 2023-02-27 | 2023-04-09 |

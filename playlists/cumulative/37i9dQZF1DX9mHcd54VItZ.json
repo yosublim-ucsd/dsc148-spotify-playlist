@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=LPtyeJVuQRGv3ijbtZJVHQ\">Rooksein</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=gwz0e1ZRSK-Xp_kajrYT-A\">Loufi</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=t37Hl_ASTdWeFOa2L0Uebw\">Francois van Coke</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 228540,
       "name": "Black Candy",
       "url": "https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5UJLHNTrNAzal68QU0xZXB"
+      },
+      "artists": [
+        {
+          "name": "Toughguy",
+          "url": "https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206568,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0NsxWoR74hCj9KTYB70o4r"
+    },
+    {
+      "album": {
         "name": "Count the Days (2021)",
         "url": "https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq"
       },
@@ -1192,10 +1210,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 353025,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/48bu0l37kTYnMBCzIGwXoU"
+    },
+    {
+      "album": {
+        "name": "Delirium Tremors (Radio Edit)",
+        "url": "https://open.spotify.com/album/2VgzCSHbnfuPLKwnqfMMHa"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215498,
+      "name": "Delirium Tremors - Radio Edit",
+      "url": "https://open.spotify.com/track/6mEeRt3Y4seCZ3Ag54MAhK"
     },
     {
       "album": {
@@ -2079,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6"
+      },
+      "artists": [
+        {
+          "name": "Filthy Hippies",
+          "url": "https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292636,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1"
+    },
+    {
+      "album": {
         "name": "Vreemd",
         "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
       },
@@ -2907,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Let's Lose Our Minds",
+        "url": "https://open.spotify.com/album/2aPkXNnezt7DPLdoz4TnTR"
+      },
+      "artists": [
+        {
+          "name": "Joe, The Thinker",
+          "url": "https://open.spotify.com/artist/2ceKAnQNSsSV1ytRsucnky"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Let's Lose Our Minds",
+      "url": "https://open.spotify.com/track/7czgLEdXVU7oZKAP8izt9x"
+    },
+    {
+      "album": {
         "name": "Repine Forest",
         "url": "https://open.spotify.com/album/1Vd2YgVrjDTfQ5IhJmMglP"
       },
@@ -3124,7 +3196,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 205920,
       "name": "Melissa",
       "url": "https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4"
@@ -3618,6 +3690,28 @@
       "duration_ms": 182410,
       "name": "Ons Het Gewen",
       "url": "https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO"
+    },
+    {
+      "album": {
+        "name": "Ons Is Die Vuur",
+        "url": "https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "Ons Is Die Vuur",
+      "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
     },
     {
       "album": {
@@ -4262,7 +4356,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 210486,
       "name": "She's Heavenly",
       "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"
@@ -5088,7 +5182,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 142045,
       "name": "The Monday Song",
       "url": "https://open.spotify.com/track/1xjVX1qvj8x8vNC86hMmuR"

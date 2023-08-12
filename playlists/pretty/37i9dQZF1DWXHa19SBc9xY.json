@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 71703,
+  "num_followers": 71822,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmQ3YWFjNzRlNDU1Zjc1YzcwOTg3ZTdiNjM1YmEwMGQzYzlkMTAy",
+  "snapshot_id": "MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:38:09",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+        "name": "Good Vibration - Vol. 1",
+        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
+      "duration_ms": 253243,
+      "name": "Good Vibration",
+      "url": "https://open.spotify.com/track/2lb1kGw5zTptftaTQfyANi"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -567,22 +571,18 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
-        "name": "Good Vibration - Vol. 1",
-        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 253243,
-      "name": "Good Vibration",
-      "url": "https://open.spotify.com/track/2lb1kGw5zTptftaTQfyANi"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2023-07-28 04:38:09",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-28 04:38:09",
       "album": {
+        "name": "De Onde Eu Venho",
+        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "De Onde Eu Venho",
+      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
+    },
+    {
+      "added_at": "2023-07-28 04:38:09",
+      "album": {
         "name": "N\u00f3s Dois Aqui",
         "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 241572,
       "name": "N\u00f3s Dois Aqui",
       "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2023-07-28 04:38:09",
-      "album": {
-        "name": "De Onde Eu Venho",
-        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "De Onde Eu Venho",
-      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
     },
     {
       "added_at": "2023-07-28 04:38:09",

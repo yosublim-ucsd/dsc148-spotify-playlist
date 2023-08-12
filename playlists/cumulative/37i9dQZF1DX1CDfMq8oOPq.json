@@ -799,6 +799,48 @@
     },
     {
       "album": {
+        "name": "F.D.P",
+        "url": "https://open.spotify.com/album/4tHvgPqTQ1lhpL2IxZe478"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Tshawtty",
+          "url": "https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR"
+        },
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Nabru",
+          "url": "https://open.spotify.com/artist/67VY9YRt42yGpkO52KeIeF"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw"
+        },
+        {
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278068,
+      "name": "F.D.P",
+      "url": "https://open.spotify.com/track/6VGOXyPBs38qrq7nNyZvcD"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
       },
@@ -890,12 +932,12 @@
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
       "date_added": "2023-07-28",
@@ -2570,7 +2612,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 174657,
       "name": "Rude",
       "url": "https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO"

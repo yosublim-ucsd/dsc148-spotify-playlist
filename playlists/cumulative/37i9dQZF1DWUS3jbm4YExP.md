@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-574 songs - 1 day 17 hr 35 min
+575 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Despedida: Ensayo Silencio](https://open.spotify.com/track/6OSiOuTNk6XkfaLuvcnWN9) | [Arturo O'Farrill](https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV), [The Afro Latin Jazz Ensemble](https://open.spotify.com/artist/2K3sn0NdY2mQcrkzMoVCsn) | […dreaming in lions…](https://open.spotify.com/album/0pkU2fBus3YM1SgsaXcpj3) | 5:21 | 2021-10-06 | 2022-07-28 |
 | [Despierta \(feat\. Noel GC\) \- Main Mix](https://open.spotify.com/track/1LoCHLNw862XmsQNDPqH4i) | [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0), [Noel GC](https://open.spotify.com/artist/0Lh1YzhAgTeHmXP7BFox6g) | [Despierta \(feat\. Noel GC\) \[Main Mix\]](https://open.spotify.com/album/2DkW8upSVCkkD0j9176hhC) | 4:14 | 2022-03-29 | 2022-04-20 |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2021-10-06 | 2022-07-28 |
+| [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 | 2023-08-07 |  |
 | [Dia Ja Manche](https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo \(Analog Africa No\. 20\)](https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz) | 4:36 | 2021-10-06 | 2022-04-21 |
 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 | 2022-04-09 | 2022-08-14 |
 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 | 2022-09-23 |  |
@@ -425,7 +426,7 @@
 | [Porsche 944](https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Marvin](https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO) | 3:55 | 2021-10-06 |  |
 | [Pretty Boys \(feat\. Khruangbin\)](https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 5:48 | 2021-10-06 |  |
 | [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-11-20 |
-| [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 | 2023-08-07 |  |
+| [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 | 2023-08-07 | 2023-08-12 |
 | [Push Party](https://open.spotify.com/track/58OhTiU3KMT2pLvGeiYqoe) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Push Party](https://open.spotify.com/album/66HhgD8992OJjEk8X7KhM4) | 4:29 | 2021-10-26 | 2022-07-28 |
 | [Pé Di Bissilon](https://open.spotify.com/track/7FukgJWJ5qBI1vbXWKWPya) | [Bandé\-Gamboa](https://open.spotify.com/artist/0GvJLG8dgOx1tLGSXJW4Kf) | [Horizonte \- Revamping Rare Gems from Cabo Verde and Guinea\-Bissau](https://open.spotify.com/album/6nHSjff6aB7E60h19cdz2L) | 4:21 | 2021-10-06 | 2022-04-21 |
 | [Ragazzo](https://open.spotify.com/track/4LBhuxtdcv1ZIruY2P1xOz) | [Big Yawn](https://open.spotify.com/artist/01kK806Lcg2RNydzhYMzJZ) | [Ragazzo](https://open.spotify.com/album/57Ht9j2MEaJ65vkHiHuupX) | 3:27 | 2021-10-06 | 2022-07-05 |

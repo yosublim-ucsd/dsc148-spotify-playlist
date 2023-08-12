@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=sYH\-Jv0SSDeQl8GLBUd2oQ"> Xenia Manasseh  </a> and <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=22eZiPH8QGCE4gtrdT8iyA"> Karun  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,979 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,054 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 |
 | 80 | [By Your Side](https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [By Your Side](https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M) | 3:15 |
 
-Snapshot ID: `MCxmOTIzNmUxMTE1MGYxNDNmYjc0MTEyMDAyOTNhNjk2OTRjMTQ5NzBm`
+Snapshot ID: `MCwzYTcyMzNmMjNjN2EwOTRjMzdkOWJhZDA4ZWU2ZWYzZWJjNGM1OGE5`

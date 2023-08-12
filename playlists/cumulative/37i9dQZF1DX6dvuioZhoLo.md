@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-211 songs - 12 hr 27 min
+212 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Motorcycle](https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Gilded](https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP) | 3:06 | 2022-04-01 | 2023-01-15 |
 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 | 2021-11-12 | 2022-07-25 |
 | [My Boots](https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 4:47 | 2021-11-12 | 2022-05-26 |
-| [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 |  |
+| [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 | 2023-08-12 |
 | [No Name](https://open.spotify.com/track/4LJ2bh3gZf9rEKQeFeuG3R) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa) | 3:06 | 2021-11-12 |  |
 | [No One Has the Answers](https://open.spotify.com/track/4qpiPxbVxxtgmECadFR7fc) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/3ZVKsaGLzKLXyLpDht0SF6) | 3:28 | 2021-11-12 | 2022-07-29 |
 | [No One Has the Answers](https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 3:28 | 2022-04-01 |  |
@@ -174,6 +174,7 @@
 | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 | 2023-05-24 |
 | [Shakedown](https://open.spotify.com/track/5TiFSXE1DInbcr0xYeM2k4) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Shakedown](https://open.spotify.com/album/6H2F39aTyw02VjBsUyYmUb) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-04-01 |  |
+| [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 | 2023-08-11 |  |
 | [Sold My Soul](https://open.spotify.com/track/2xklhH0eIzxKyagF3XAOYL) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Sold My Soul](https://open.spotify.com/album/1nh6RFcSZx7lU2zLi9seOR) | 6:11 | 2021-11-12 | 2022-07-29 |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2022-04-01 |  |
 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 | 2021-11-12 |  |

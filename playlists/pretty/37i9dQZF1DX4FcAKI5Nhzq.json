@@ -1,13 +1,29 @@
 {
-  "description": "Future K-Pop hits! Cover: BBGIRLS",
-  "num_followers": 774648,
+  "description": "Future K-Pop hits! Cover: Eric Nam",
+  "num_followers": 774850,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGQ0MDZjMDg1MzBiNWVmZTQ1NTg4ZWU0Yjc3ZGYyODg1ZmEzNjU3",
+  "snapshot_id": "MCw5N2Y4MmRiNjg0YjQyYWJmMzZkMTQ1ZDg2OTRlYzYwYWNkYTA3Mjkz",
   "tracks": [
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Don't Leave Yet",
+        "url": "https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Don't Leave Yet",
+      "url": "https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD"
+    },
     {
       "added_at": "2023-08-07 10:04:12",
       "album": {
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-08-03 09:07:10",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2023-08-03 09:07:10",
-      "album": {
         "name": "I remember",
         "url": "https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO"
       },
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-08-03 09:07:10",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2023-08-03 09:07:10",
-      "album": {
         "name": "THE FUTURE IS OURS: LOST",
         "url": "https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni"
       },
@@ -759,22 +739,6 @@
       "duration_ms": 210400,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE"
-    },
-    {
-      "added_at": "2023-08-03 09:07:10",
-      "album": {
-        "name": "Subconscious",
-        "url": "https://open.spotify.com/album/2OMMDFODzniFpAc1uD9IRZ"
-      },
-      "artists": [
-        {
-          "name": "VAV",
-          "url": "https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/4j6eC1fspkLNV3Owy24oYA"
     },
     {
       "added_at": "2023-08-03 09:07:10",
@@ -883,22 +847,6 @@
       "duration_ms": 164266,
       "name": "BAD BOY (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF"
-    },
-    {
-      "added_at": "2023-08-03 09:07:10",
-      "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 183670,
-      "name": "Freakin' Bad",
-      "url": "https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq"
     }
   ],
   "unique_name": "K-Pop Rising",

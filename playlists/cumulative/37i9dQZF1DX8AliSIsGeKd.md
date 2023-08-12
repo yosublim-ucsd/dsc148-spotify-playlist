@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Anyma
 
-2,272 songs - 8 day 11 hr 44 min
+2,274 songs - 8 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,7 +1132,8 @@
 | [Last Night \- Andrew Becks Remix](https://open.spotify.com/track/0nPXD7OEOBvU3kHksh7PFB) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO), [Andrew Becks](https://open.spotify.com/artist/2D6mkPsBZ8R101RksNcla2) | [Last Night](https://open.spotify.com/album/6wGrhfx1mAWGUzIF9LUiFx) | 7:13 | 2022-11-25 | 2022-12-16 |
 | [Last Train](https://open.spotify.com/track/1HVAVHLQqIuDLDun48Zegt) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Follow The Dark \- Part II](https://open.spotify.com/album/3hcZSH0Xe8I9mbje702AOR) | 4:32 | 2023-06-01 | 2023-06-16 |
 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 | 2022-08-12 | 2022-09-02 |
-| [Laura \- ARGY & Omnya Remix](https://open.spotify.com/track/548DlYhe2Pn8f9wGpOJsBV) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Laura \(ARGY & Omnya Remix\)](https://open.spotify.com/album/38BbZfMpoLj0lkl5ESkKDz) | 5:47 | 2023-08-10 |  |
+| [Laura \- Argy & Omnya Remix](https://open.spotify.com/track/52SOce5eNcoP9g0CWrd4TJ) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [Laura \(Argy & Omnya Remix\)](https://open.spotify.com/album/11tOdJ1wGuc73FGjt6Wode) | 5:47 | 2023-08-10 |  |
+| [Laura \- ARGY & Omnya Remix](https://open.spotify.com/track/548DlYhe2Pn8f9wGpOJsBV) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Laura \(ARGY & Omnya Remix\)](https://open.spotify.com/album/38BbZfMpoLj0lkl5ESkKDz) | 5:47 | 2023-08-10 | 2023-08-12 |
 | [Layers \- Edit](https://open.spotify.com/track/6iclr1fgzVjzxpMtWGqCci) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Layers](https://open.spotify.com/album/1hWKFBJhEWrK1RX0RyHBfH) | 3:52 | 2023-03-30 | 2023-04-21 |
 | [Le Rêve](https://open.spotify.com/track/4Y6cZINkRQ8k6r8RqtvKyq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Le Rêve](https://open.spotify.com/album/2ZPGQQjq29FGoEgvKTJjTA) | 4:15 | 2022-08-04 | 2022-08-19 |
 | [Learning to Fly \- Bonus Track](https://open.spotify.com/track/0tKT5LrEldMTYJw3Ov9eAS) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Night](https://open.spotify.com/album/7f0bkf8n6AeLyDf8pI2bnT) | 4:46 | 2022-11-25 | 2022-12-09 |
@@ -1702,7 +1703,8 @@
 | [Sanji](https://open.spotify.com/track/7bBzfGYqUfavoBP6opT4sU) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Sanji](https://open.spotify.com/album/3GR5Km9zLtstlZzHtiClE8) | 6:41 | 2022-11-25 | 2022-12-09 |
 | [Sattar](https://open.spotify.com/track/43wipBg89OO9G04Y16CuMe) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [Amotik 013](https://open.spotify.com/album/3txP9tA0OEENbp7kJGA0Ei) | 6:16 | 2023-07-27 | 2023-08-11 |
 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-07-29 |
-| [Save Me](https://open.spotify.com/track/367D6p4dHFUXgnvO52jKvP) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/3uI67VYBj1l3aq2q5Or0NH) | 3:09 | 2023-08-10 |  |
+| [Save Me](https://open.spotify.com/track/367D6p4dHFUXgnvO52jKvP) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/3uI67VYBj1l3aq2q5Or0NH) | 3:09 | 2023-08-10 | 2023-08-12 |
+| [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 | 2023-08-10 |  |
 | [Save Me](https://open.spotify.com/track/7LmSjuxxri81vEP5lVv9Q4) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Save Me](https://open.spotify.com/album/2oYpFen8ljxlyZN4swXgPH) | 6:21 | 2022-11-25 | 2022-12-16 |
 | [Save Me](https://open.spotify.com/track/7fVeaVDxRrcnnKB6TLj9uE) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Save Me EP](https://open.spotify.com/album/4z2kshHJmuO99NZ93leb5t) | 5:42 | 2023-08-10 |  |
 | [save on love \- Edit](https://open.spotify.com/track/77tjTonIkxPWPN1pL3j7O0) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [save on love \- Edit](https://open.spotify.com/album/3roGcRRiXKiszUHXLpKeZ3) | 4:49 | 2022-11-25 | 2022-12-09 |

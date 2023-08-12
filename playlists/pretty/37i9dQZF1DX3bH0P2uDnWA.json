@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 365258,
+  "num_followers": 365425,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmMyMmQ5Y2MzMmMxMDUxZTY4OTQ3MzM2NTIwNzZlZDEzNmQ1YWZj",
+  "snapshot_id": "MCwwODI3MDA3OTMyYzVlNzIzY2Y1MTllZDcxY2Q2OTgwMDkxNzFmN2Vl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/0wOhiQLMavRdsBn0t8Nt2C"
     },
     {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Retronik",
+        "url": "https://open.spotify.com/album/4mubKPIoSCoePyKvxCrESc"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Retronik",
+      "url": "https://open.spotify.com/track/7q3sBCvNeZep3Ppz2ySBST"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Don't Drink & Jive",
@@ -127,6 +143,26 @@
       "duration_ms": 178992,
       "name": "Friend Like Me - Electro Swing Mix",
       "url": "https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Stormy Night",
+        "url": "https://open.spotify.com/album/4XGIFbYRL1U8MYTLFZsInB"
+      },
+      "artists": [
+        {
+          "name": "DanyloM",
+          "url": "https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx"
+        },
+        {
+          "name": "The Soulmate Project",
+          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Stormy Night",
+      "url": "https://open.spotify.com/track/3yv7S3DWESv8CF52hGglqH"
     },
     {
       "added_at": "2023-03-24 04:01:00",

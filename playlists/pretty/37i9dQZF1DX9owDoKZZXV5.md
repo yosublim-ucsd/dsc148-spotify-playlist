@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,203 likes - 28 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,964 likes - 28 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 27 | [Animal](https://open.spotify.com/track/6idjdo9ya87si2JI5OdbXc) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [I'm Da One](https://open.spotify.com/album/3Ds62hZPPPtvWgLDQLo5lD) | 3:22 |
 | 28 | [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 |
 
-Snapshot ID: `MCxkZjVmN2IwNDRiMWFiYjcyMTIyODQ0OGQ1NjJlMzM5M2Y0NWRiZTQz`
+Snapshot ID: `MCwxOGQ1YmI2YjI4ZTc5Yjc0MmZjZGZiMjJmMGUzOTEyOGY3OTIzYmU1`

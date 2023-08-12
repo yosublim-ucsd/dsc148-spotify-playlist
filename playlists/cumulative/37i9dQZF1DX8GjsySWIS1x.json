@@ -11303,6 +11303,28 @@
     },
     {
       "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4QKa6xzfvlkPXkAfmKQPlh"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1yQzX6SMV7VQOj6u4NKqk0"
+    },
+    {
+      "album": {
         "name": "Saviour",
         "url": "https://open.spotify.com/album/6LveXZTlldtTkNFeBbF9Fa"
       },

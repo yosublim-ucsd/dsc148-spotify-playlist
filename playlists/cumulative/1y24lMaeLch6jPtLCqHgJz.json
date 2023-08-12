@@ -611,6 +611,32 @@
     },
     {
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "album": {
         "name": "Crash & Smile in Dada Land - March",
         "url": "https://open.spotify.com/album/5Z4rjjju4su6VRnACT09oA"
       },
@@ -940,6 +966,24 @@
       "duration_ms": 156190,
       "name": "Control",
       "url": "https://open.spotify.com/track/3GWeeuS0rRQ8oUfjmqZ8fw"
+    },
+    {
+      "album": {
+        "name": "Create Yourself",
+        "url": "https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk"
+      },
+      "artists": [
+        {
+          "name": "Oskah",
+          "url": "https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Create Yourself",
+      "url": "https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3"
     },
     {
       "album": {
@@ -1304,7 +1348,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 193793,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O"
@@ -1474,7 +1518,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 170644,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/4PUbu73TaNrlRfoiPndPCg"
@@ -1640,6 +1684,32 @@
       "duration_ms": 143401,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/3DUSZj2NTr3M0J6DhTyjLw"
+      },
+      "artists": [
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Skylights",
+          "url": "https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171723,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/6DdkUAGaMcisWOsA4J4cUi"
     },
     {
       "album": {
@@ -2002,7 +2072,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 155243,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/3xOsLks1DS2H2B3a0x94KB"
@@ -2596,7 +2666,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 207187,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K"
@@ -3048,6 +3118,28 @@
       "duration_ms": 196935,
       "name": "Recount the Stars",
       "url": "https://open.spotify.com/track/0SEkpFkzcwvbZ3muExGTx5"
+    },
+    {
+      "album": {
+        "name": "Acid EP",
+        "url": "https://open.spotify.com/album/5gK8htmk5sE0Nu5BGOR5a6"
+      },
+      "artists": [
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        },
+        {
+          "name": "MK8",
+          "url": "https://open.spotify.com/artist/56P4MWXXtmCt1Zam2oLaeU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Return to Rave",
+      "url": "https://open.spotify.com/track/0dHUlFclEzLXbbMtPpxoQk"
     },
     {
       "album": {

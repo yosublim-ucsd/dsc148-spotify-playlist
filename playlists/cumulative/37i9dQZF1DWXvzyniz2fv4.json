@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Bom Te Encontrar",
+        "url": "https://open.spotify.com/album/1AKY92lHSjapYAzHJqVXd6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "Bom Te Encontrar",
+      "url": "https://open.spotify.com/track/2lZXUW8kOfJK7JfHMN6JqN"
+    },
+    {
+      "album": {
         "name": "Cabulosa",
         "url": "https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J"
       },
@@ -1124,7 +1150,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 141000,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/4lcF1N7S5c1Sx5iK4jRfvj"
@@ -1597,6 +1623,44 @@
     },
     {
       "album": {
+        "name": "Me Amarro",
+        "url": "https://open.spotify.com/album/4ipVfACV6pSoTPB4RJUFsG"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        },
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "DogDu BEAT$",
+          "url": "https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Me Amarro",
+      "url": "https://open.spotify.com/track/4eoNzrUStgITC2nrchIhQs"
+    },
+    {
+      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1668,7 +1732,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 280500,
       "name": "Melhor Dia 10 - A Rua Ensina",
       "url": "https://open.spotify.com/track/0IL7SqCFvxdDXxiAu55isz"

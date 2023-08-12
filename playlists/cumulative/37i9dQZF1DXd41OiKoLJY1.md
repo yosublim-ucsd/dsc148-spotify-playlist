@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Jetter\. Artwork: Isu Kim.
 
-1,550 songs - 3 day 20 hr 23 min
+1,551 songs - 3 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Control](https://open.spotify.com/track/5fVSP48Mv7Uiqp98uH7sY4) | [Yung Masa](https://open.spotify.com/artist/20shpSfFnBGulON1Hmxt5M), [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [Control](https://open.spotify.com/album/2ePyW4yNxnLhxKY7wj5MQy) | 3:15 | 2022-10-13 | 2023-02-03 |
 | [convenient](https://open.spotify.com/track/4Ik2gXDNY5Mzn01VfY7cUr) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z) | [convenient](https://open.spotify.com/album/0EEo7EHLa5MNpExOBwjht1) | 3:21 | 2022-07-21 | 2022-09-09 |
 | [Counting the Days](https://open.spotify.com/track/33Dyqa1eiiiQbpnBALSdwf) | [spacedog spacecat](https://open.spotify.com/artist/1A44P1fBFCagfLtDp7MT0O) | [Counting the Days](https://open.spotify.com/album/5g2DGU2fA5y0VH2h8Len2S) | 3:10 | 2023-07-13 | 2023-07-28 |
+| [Coup de grâce](https://open.spotify.com/track/3PCCqT0nTSey2h1iIWJRps) | [TEEN](https://open.spotify.com/artist/1chB7D5MsYcqBpie4zUKL0), [Lem.](https://open.spotify.com/artist/1ZECkYddAHfoFZgjeGuqsI) | [Coup de grâce](https://open.spotify.com/album/1c72dnTt4tMAcUcmxdzyNZ) | 2:35 | 2023-08-10 |  |
 | [Coupla Miles High](https://open.spotify.com/track/4sbo0Rc0zKjpELskYOb70D) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Coupla Miles High](https://open.spotify.com/album/2RaKfpMk9oCXjztATxxtmM) | 3:12 | 2023-06-29 | 2023-07-14 |
 | [Creepy](https://open.spotify.com/track/6EKOtMmCX6GuOXG5y975Td) | [Ruuu](https://open.spotify.com/artist/0h8CTim59fwR1EVwYl5TbX) | [Creepy](https://open.spotify.com/album/5CWx0XZ45FhyHaNORJSoT2) | 2:51 | 2022-08-26 | 2022-09-23 |
 | [Crowd](https://open.spotify.com/track/1CPU1w5vyug6XPsylvTAJd) | [folkways](https://open.spotify.com/artist/2SxvUEaRBBUd0fDjKO5R9H) | [Crowd](https://open.spotify.com/album/36MZPbIFBEpwUcMF5btdvb) | 3:20 | 2023-05-04 | 2023-05-26 |

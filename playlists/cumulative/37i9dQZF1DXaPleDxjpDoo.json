@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Azure Forest",
+        "url": "https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT"
+      },
+      "artists": [
+        {
+          "name": "Reitius Rex",
+          "url": "https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Azure Forest",
+      "url": "https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP"
+    },
+    {
+      "album": {
         "name": "Backwood Recline",
         "url": "https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4"
       },

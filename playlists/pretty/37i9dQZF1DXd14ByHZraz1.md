@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,601 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,682 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 6 | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u) | 2:39 |
 | 7 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Mister Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
 | 8 | [This Feeling](https://open.spotify.com/track/79SrdoXn93tgSzksq73X2y) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/1sumCybVSXAHHhMtfW3iFB) | 3:16 |
-| 9 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 |
+| 9 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/1z7ZRsJCIF3f5Y5I96iY2x) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/0nLHpeq5BmD8ugqcM9djvn) | 3:43 |
 | 10 | [Feel so High](https://open.spotify.com/track/1dogIxg7bbJosIYUU5oKuP) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Feel so High](https://open.spotify.com/album/5eoVOocz9H986axojADQID) | 3:38 |
 | 11 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
 | 12 | [Nightmare](https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Nightmare](https://open.spotify.com/album/4VPlyMZAnN0D78J2C49cky) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Don't Wake Me Up](https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Don't Wake Me Up](https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw) | 3:32 |
 | 50 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
 
-Snapshot ID: `MCxiZDhhYzRlOGM2N2E0YmYyNzM3N2I2ZGYyYzJkNTZmNmZmMmRiY2Mx`
+Snapshot ID: `MCwwOWFhMjAwMmExZTEzOTVjMmJiNWY4ZjllMzM1Y2U1YmRmNjAxZTlj`

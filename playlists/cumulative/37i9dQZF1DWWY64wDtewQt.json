@@ -368,6 +368,24 @@
     {
       "album": {
         "name": "ANTHEM",
+        "url": "https://open.spotify.com/album/4GTJniIFBafyIILyvAscbh"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143636,
+      "name": "ANTHEM",
+      "url": "https://open.spotify.com/track/5gqVRbvtuTgXc5lbPz54Zj"
+    },
+    {
+      "album": {
+        "name": "ANTHEM",
         "url": "https://open.spotify.com/album/2v4VXge6cTbMn32CqtekaV"
       },
       "artists": [
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "AWAKE",
+        "url": "https://open.spotify.com/album/6nqEEZxdRGuwMHYUUTl51a"
+      },
+      "artists": [
+        {
+          "name": "SXRKIN",
+          "url": "https://open.spotify.com/artist/4AMK7iRflGXCPdfIe1aA9v"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/2jGZZSMGhFxeypMxyVu4yS"
+    },
+    {
+      "album": {
         "name": "Awareness",
         "url": "https://open.spotify.com/album/108amnU3JXbyo488sSPcrx"
       },
@@ -746,7 +782,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 182021,
       "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
       "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 162782,
       "name": "ERROR",
       "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
@@ -9258,7 +9294,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 174880,
       "name": "SUCCUMB",
       "url": "https://open.spotify.com/track/4sKzGxtYdkGAu92sQPOGqF"
@@ -9634,6 +9670,24 @@
       "duration_ms": 116647,
       "name": "The Alchemist",
       "url": "https://open.spotify.com/track/7CrRiJJd6UNRWyYdQTBI1U"
+    },
+    {
+      "album": {
+        "name": "The Automotivo Infernal 1.0",
+        "url": "https://open.spotify.com/album/5qC8iY9FTnvTZFFKc5SFTi"
+      },
+      "artists": [
+        {
+          "name": "MRL",
+          "url": "https://open.spotify.com/artist/2hVynkZ4rWnOGXlwty42Rk"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114593,
+      "name": "The Automotivo Infernal 1.0 - Purple",
+      "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
     },
     {
       "album": {
@@ -11004,6 +11058,10 @@
         {
           "name": "LXNGVX",
           "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2023-07-21",

@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-194 songs - 9 hr 27 min
+195 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Meg's Garden](https://open.spotify.com/track/1xzhwKbHLhOLwCzIyZnJyW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 1:12 | 2022-08-16 | 2022-11-13 |
 | [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2022-06-28 |  |
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/6PsshaEg0aa2OgB4xiD01b) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:25 | 2022-04-15 |  |
+| [Movin' Right Along](https://open.spotify.com/track/3B9y94mviI5jHtjiSv6UyP) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Focus](https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9) | 3:06 | 2023-08-11 |  |
 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2022-04-15 |  |
 | [Nowhere to Go But Up](https://open.spotify.com/track/6UIUumGM96FmXKtMuDibZS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:52 | 2022-04-15 |  |

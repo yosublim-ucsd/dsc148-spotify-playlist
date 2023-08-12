@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93MoHvjamEO.md) - [plain]
 
 > Featuring Papi Souza, Quevedo, Jhayco & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93MoHvjamEO.md) - [plain]
 | 19 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 |
 | 20 | [Perreándote](https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 3:26 |
 | 21 | [Bellako Triste](https://open.spotify.com/track/2qhH0XlKiIYJpHkx1HzLmC) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Santuario](https://open.spotify.com/album/3uo1QU42J1TEctlj9EujvD) | 2:35 |
-| 22 | [En Su Nota](https://open.spotify.com/track/14JTYSChGSj1ULTnpTC70Z) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX) | 2:47 |
+| 22 | [En Su Nota](https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS) | 2:47 |
 | 23 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 |
 | 24 | [Sueños Húmedos](https://open.spotify.com/track/7lDjLRUBoWuABG7H9JU05m) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 3:46 |
 | 25 | [Bendecido](https://open.spotify.com/track/7gsHD3vIGkPC8DiPf3nbFV) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 3:07 |
 
-Snapshot ID: `MCxhZDY4OWNjMDZjODJmYTI4NDhjMDJlMmViOWI2MTkxYzg2MTY3Y2Nm`
+Snapshot ID: `MCwyYzQ2M2E2ODZhODk2MDg1MTc0ODczMDRmOGIyOTkxN2Q2OThjMTEx`

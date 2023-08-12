@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 238000,
       "name": "Beautiful Wave",
       "url": "https://open.spotify.com/track/2MG1XEnVM6rq63IDiOrdIN"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 155039,
       "name": "Dream Voucher",
       "url": "https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr"
@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "No Bounds",
+        "url": "https://open.spotify.com/album/7zam4agvaQsavCgombL3Ki"
+      },
+      "artists": [
+        {
+          "name": "Amethyst Nimue",
+          "url": "https://open.spotify.com/artist/3Jcoemtva31dOpUHzjxcga"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198843,
+      "name": "No Bounds",
+      "url": "https://open.spotify.com/track/0lSbHHeGi1JfzIS90duYhS"
+    },
+    {
+      "album": {
         "name": "Noches rojas",
         "url": "https://open.spotify.com/album/3bJk1wBUTadZVvqgi26z3q"
       },
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 184809,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/4YMvriirsclBSASn6serSA"

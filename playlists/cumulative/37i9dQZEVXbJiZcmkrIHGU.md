@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,972 songs - 4 day 0 hr 48 min
+1,973 songs - 4 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#11](https://open.spotify.com/track/1jZMXi8olaFtO8Iwz6kj5K) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [\#11](https://open.spotify.com/album/0lpjpkPlPEYUZ7LUq9WSOY) | 3:45 | 2023-02-25 | 2023-03-04 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-11 |  |
 | [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-11-28 | 2021-12-02 |
 | [0Uhr26](https://open.spotify.com/track/1pPG60ifB0mxK3hVjQQ1dn) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [0Uhr26](https://open.spotify.com/album/6CWSgEwcyj0qJbxyaUSePa) | 2:24 | 2022-10-15 | 2022-10-23 |
 | [1.000 EMOTIONEN](https://open.spotify.com/track/5bW7UeAOkE0wAeA6SOQWQc) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [1.000 EMOTIONEN](https://open.spotify.com/album/3mlFTmtgG9N6iAZPJJcINq) | 3:17 | 2022-01-22 | 2022-01-30 |
@@ -125,7 +126,7 @@
 | [ANNA](https://open.spotify.com/track/2H4HtOA24KXUYiINpGZ1ju) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [ANNA](https://open.spotify.com/album/2QG8jbLMq7vHYyiS2OCCeY) | 2:24 | 2023-05-06 | 2023-06-04 |
 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 | 2022-10-05 | 2023-01-07 |
 | [Another Love](https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/3Sz7mR0kbSHklOv6Nk5duJ) | 2:30 | 2022-09-03 | 2022-10-06 |
-| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-09 |  |
+| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-09 | 2023-08-12 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-01-20 | 2023-06-07 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-04-28 |
 | [Aperol im Glas](https://open.spotify.com/track/7CBXOpFYUCfRjtQ1wMLMYR) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Bülowstrasse](https://open.spotify.com/album/4ycRJCm5tY4dtVNRUFh2Nk) | 2:09 | 2023-05-06 | 2023-05-28 |
@@ -1250,7 +1251,7 @@
 | [Nese Don](https://open.spotify.com/track/6ZVpk9bSJGebJJzJmMocua) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [Nese Don](https://open.spotify.com/album/0OTT7dVpKhstfyv27YDLfg) | 2:50 | 2021-07-25 | 2021-08-12 |
 | [Netflix & Chill](https://open.spotify.com/track/3Xmup3IXYvdgjXz8zgoRlB) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Lost Tape](https://open.spotify.com/album/0bhhotdoHpVt9CPGdAN6od) | 2:10 | 2023-02-25 | 2023-03-05 |
 | [Neunzig](https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Neunzig](https://open.spotify.com/album/4sTrbesmnig1SJYSBYAJBn) | 2:25 | 2023-04-29 | 2023-06-11 |
-| [Neunzig](https://open.spotify.com/track/3caxdAr1m31mOuKS5g7LwQ) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Gartenstadt](https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU) | 2:25 | 2023-06-10 | 2023-08-08 |
+| [Neunzig](https://open.spotify.com/track/3caxdAr1m31mOuKS5g7LwQ) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Gartenstadt](https://open.spotify.com/album/6Sd0rVatEiURCktc2Yr4EU) | 2:25 | 2023-06-10 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-18 | 2023-04-20 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-09-20 | 2022-01-03 |
 | [Never Not Try](https://open.spotify.com/track/0AKxA0LR1eHNIiyg4KMZGy) | [Jan\-Marten Block](https://open.spotify.com/artist/5fISRashl2LHMXjwqNqedz) | [Never Not Try](https://open.spotify.com/album/0Bsk3VYWly9rPm6XqXmbUs) | 3:23 | 2021-04-06 | 2021-04-11 |
@@ -1393,7 +1394,7 @@
 | [Pirate](https://open.spotify.com/track/5e5C8eGXasN7JZApzBfopQ) | [Kasalla](https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S) | [Et jitt Kasalla!](https://open.spotify.com/album/6ELPZEfODg2DUvvgMPdvk6) | 3:56 | 2022-02-25 | 2023-02-22 |
 | [Platin](https://open.spotify.com/track/3LRFLqM4GEWCXvakg4rLtk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Platin](https://open.spotify.com/album/4ECnmTmfk4Tli0d01iXm2S) | 3:09 | 2023-07-29 | 2023-07-31 |
 | [PLAYA'S CIRCLE](https://open.spotify.com/track/4t2xvZq61Ww2hpdvP1JoRw) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PLAYA'S CIRCLE](https://open.spotify.com/album/0rE1mS53R8ACLjHbeQKCNl) | 3:28 | 2023-01-15 | 2023-01-23 |
-| [Playboys weinen auch](https://open.spotify.com/track/0l63sFDKc4r4GLANRmjcBu) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Playboys weinen auch](https://open.spotify.com/album/2BJjKajYjCz3RnRoDaUYYC) | 2:52 | 2023-07-29 |  |
+| [Playboys weinen auch](https://open.spotify.com/track/0l63sFDKc4r4GLANRmjcBu) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Playboys weinen auch](https://open.spotify.com/album/2BJjKajYjCz3RnRoDaUYYC) | 2:52 | 2023-07-29 | 2023-08-12 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-13 | 2023-03-26 |
 | [PLAYLIST](https://open.spotify.com/track/3K97IXyfwJ8tcce16rnifv) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [PLAYLIST](https://open.spotify.com/album/6ViX2AiIyaEvdUvdbdbWFR) | 2:11 | 2022-11-19 | 2022-11-27 |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2021-12-25 | 2022-12-28 |

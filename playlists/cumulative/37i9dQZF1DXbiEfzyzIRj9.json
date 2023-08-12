@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Aphex Twin",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Fred again..",
   "name": "Altar JP",
   "tracks": [
     {
@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/7lauAYc2Y3FifzGwnertrx"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "QN",
+          "url": "https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335357,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/1HuvcnsbUpEezwa20wr5zB"
+    },
+    {
+      "album": {
         "name": "80+1 Hardy Ones",
         "url": "https://open.spotify.com/album/6mryyljSMW08TfeSFlFbqu"
       },
@@ -38,6 +60,24 @@
       "duration_ms": 447333,
       "name": "80+1 Hardy Ones",
       "url": "https://open.spotify.com/track/257ekAZZ2dToJ4f1SGgUkX"
+    },
+    {
+      "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
       "album": {
@@ -59,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Night In The Room EP",
+        "url": "https://open.spotify.com/album/5695MXWUBg5OEpRsQFGuly"
+      },
+      "artists": [
+        {
+          "name": "Yuichi Inoue",
+          "url": "https://open.spotify.com/artist/2fhhRPvRUyymOwkL21ZnI1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408387,
+      "name": "A Night In The Room",
+      "url": "https://open.spotify.com/track/0rCbwx0GphaTlQP3wPwZUD"
+    },
+    {
+      "album": {
         "name": "The Drop EP",
         "url": "https://open.spotify.com/album/4Sq83NCbE302V4LuvBR1IN"
       },
@@ -74,6 +132,28 @@
       "duration_ms": 415645,
       "name": "ABM",
       "url": "https://open.spotify.com/track/5oMuydZhXTmKj3LD6EzAmp"
+    },
+    {
+      "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "album": {
@@ -296,6 +376,28 @@
       "duration_ms": 289674,
       "name": "Ase - DJ Shu-Ma Radio Edit",
       "url": "https://open.spotify.com/track/71xNovSBAgBx9fv0J8SP7P"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
       "album": {
@@ -530,7 +632,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 230205,
       "name": "Blue Bird (feat. Maika Loubt\u00e9)",
       "url": "https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v"
@@ -574,6 +676,28 @@
       "duration_ms": 258346,
       "name": "Bonfire - Junya Kishino Remix",
       "url": "https://open.spotify.com/track/2Y5YkeA3F5FQJiDOBGVCWH"
+    },
+    {
+      "album": {
+        "name": "BOW (Submerse Remix)",
+        "url": "https://open.spotify.com/album/5ixsuu7RrYyZiQsE1sf0Xd"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "Submerse",
+          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171717,
+      "name": "BOW - Submerse Remix",
+      "url": "https://open.spotify.com/track/3iZzgnrXkTGOydY1rBc5gi"
     },
     {
       "album": {
@@ -708,7 +832,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
@@ -985,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Comet",
+        "url": "https://open.spotify.com/album/4q9TGlE1399FrL5Rh5fpfi"
+      },
+      "artists": [
+        {
+          "name": "Dazzle Drums",
+          "url": "https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440975,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/33hpqN99b0TL6HtGXfpM8m"
+    },
+    {
+      "album": {
         "name": "Conveniency",
         "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
       },
@@ -1122,7 +1264,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 374000,
       "name": "Dark Energy",
       "url": "https://open.spotify.com/track/3kdhlzVT1e8XGFGSawkKPO"
@@ -1304,7 +1446,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 251208,
       "name": "Don't Drop Dead",
       "url": "https://open.spotify.com/track/1O72TP7NaHxageyDGhE4Cw"
@@ -1398,7 +1540,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 260187,
       "name": "Dread",
       "url": "https://open.spotify.com/track/2hm9icGTG6REAiJ6NAqhCF"
@@ -1663,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Guiding Hand",
+        "url": "https://open.spotify.com/album/4lsMOOhoxlPuuL7myVFyEy"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201111,
+      "name": "Everyday (Far From)",
+      "url": "https://open.spotify.com/track/6EI7rWSTNICgjFB6qxqy4T"
+    },
+    {
+      "album": {
         "name": "Unspoken Words Remixes I",
         "url": "https://open.spotify.com/album/3erKNm0B6Y5ATBF07eht6z"
       },
@@ -1682,6 +1842,28 @@
       "duration_ms": 352300,
       "name": "Everything - DJ Nobu Remix",
       "url": "https://open.spotify.com/track/4GdTGFtRYvOLCWG7FQq8is"
+    },
+    {
+      "album": {
+        "name": "Everything I Do",
+        "url": "https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194721,
+      "name": "Everything I Do",
+      "url": "https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O"
     },
     {
       "album": {
@@ -2141,6 +2323,32 @@
     },
     {
       "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "album": {
         "name": "Fuck what u heard",
         "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
       },
@@ -2156,7 +2364,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 220166,
       "name": "Fuck what u heard",
       "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
@@ -2174,7 +2382,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 199708,
       "name": "F\u00fcr Nimmer",
       "url": "https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl"
@@ -2250,7 +2458,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 288012,
       "name": "GG",
       "url": "https://open.spotify.com/track/205HoXBFsEHQPmpYfrbLyC"
@@ -3610,7 +3818,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
@@ -3772,7 +3980,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 264097,
       "name": "Mike (desert island duvet)",
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
@@ -4055,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Nobody Else Will Do",
+        "url": "https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Nobody Else Will Do",
+      "url": "https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C"
+    },
+    {
+      "album": {
         "name": "Not As I",
         "url": "https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr"
       },
@@ -4317,6 +4543,32 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
         "name": "Musique for Discoth\u00e8ques",
         "url": "https://open.spotify.com/album/0KnoZ3mKyveI7fykzUqqFy"
       },
@@ -4350,6 +4602,28 @@
       "duration_ms": 209656,
       "name": "Pico (Edit)",
       "url": "https://open.spotify.com/track/2ZDYmapd2u8Pxu65JFpKS0"
+    },
+    {
+      "album": {
+        "name": "Pleasure Peak",
+        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Pleasure Peak",
+      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
     },
     {
       "album": {
@@ -5270,7 +5544,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 321935,
       "name": "Step By Step - Amtrac Remix",
       "url": "https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a"
@@ -5513,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/4AWaBv2m15Ax6PC9qsCb9U"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327372,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/1sAZGCJEM8X7HeA93T7DcA"
+    },
+    {
+      "album": {
         "name": "tarde",
         "url": "https://open.spotify.com/album/0TxChFGfPF0i3lieCwXCVI"
       },
@@ -5528,6 +5820,32 @@
       "duration_ms": 333500,
       "name": "tarde",
       "url": "https://open.spotify.com/track/5LrkoYgRaJlKpTQdo2E53X"
+    },
+    {
+      "album": {
+        "name": "Targa (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215642,
+      "name": "Targa - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
     },
     {
       "album": {
@@ -5760,7 +6078,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 258663,
       "name": "Tokyo Flower",
       "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
@@ -5908,7 +6226,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 182916,
       "name": "Twist It",
       "url": "https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86"
@@ -5926,7 +6244,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 196000,
       "name": "U Want It",
       "url": "https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8"
@@ -6320,6 +6638,28 @@
       "duration_ms": 642500,
       "name": "WHen She Dance",
       "url": "https://open.spotify.com/track/410BvxZU6blJdbOVnbytzP"
+    },
+    {
+      "album": {
+        "name": "When She Dance (David Ariza Club Edit)",
+        "url": "https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "David Ariza",
+          "url": "https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336393,
+      "name": "When She Dance - David Ariza Club Edit",
+      "url": "https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw"
     },
     {
       "album": {

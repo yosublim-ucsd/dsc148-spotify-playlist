@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-171 songs - 12 hr 3 min
+172 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 | 2022-07-08 |  |
 | [Fire On The Floor](https://open.spotify.com/track/2FX5U6bbMwpy3VBn4sErbW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor](https://open.spotify.com/album/2lsOrtqnpScvxYvOrqQcl3) | 5:11 | 2022-05-25 | 2022-07-24 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-10-03 | 2023-03-06 |
-| [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 | 2022-10-03 |  |
+| [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 | 2022-10-03 | 2023-08-12 |
 | [Fool's Paradise](https://open.spotify.com/track/73Yf7OB7Wp1NGTYzr7iHXX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/0JYMsPpWHtTPlpX3aU4NdK) | 5:37 | 2022-05-25 | 2022-07-25 |
 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 | 2022-07-08 |  |
 | [Forget What I Said](https://open.spotify.com/track/12tomJynzttjC14htb6SBE) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/5DiqFt60EYh2nEa3NzoCbp) | 3:19 | 2022-07-08 | 2022-07-21 |
@@ -102,6 +102,7 @@
 | [It Hurts Me Too](https://open.spotify.com/track/6dEtTt8266eoCPhgaD2iDw) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/6eVIb9RFFRgvdxKlOXmmxm) | 4:49 | 2022-05-25 | 2022-07-29 |
 | [It Hurts Me Too](https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Precious Little](https://open.spotify.com/album/2B4SeINqci6ufKTo3XNoCN) | 4:49 | 2022-10-03 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2022-05-25 |  |
+| [Lay In Your Arms](https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Havin' Such A Good Time](https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I) | 3:22 | 2023-08-11 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 | 2023-04-11 |
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 | 2023-06-20 |
 | [London Bridge](https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 5:27 | 2023-06-16 |  |

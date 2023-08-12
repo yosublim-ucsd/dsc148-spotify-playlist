@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,356 likes - 67 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,399 likes - 67 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 19 | [Elroy](https://open.spotify.com/track/6jmUbrySw9qGfG7HW2dqC0) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Planet Earth](https://open.spotify.com/album/0PL8zomkWnMjhkJae8k6ee) | 6:05 |
 | 20 | [Mixed Bag](https://open.spotify.com/track/47kUGRjxvP9bhGEP4uSMZw) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 6:37 |
 | 21 | [Obliquely Speaking](https://open.spotify.com/track/32pUQ9rhUitApFWhjBQuAp) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Palindrome](https://open.spotify.com/album/7cKvZbIyBu3C7EIgHDtL8R) | 6:16 |
-| 22 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 |
+| 22 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 |
 | 23 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 |
 | 24 | [In The Pocket](https://open.spotify.com/track/6m7GqeOw8x6AhfAXNlA70B) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 5:30 |
 | 25 | [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [Trix](https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 34 | [Canine](https://open.spotify.com/track/7hTEStQeSnn0TxlaRsJLzv) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 6:23 |
 | 35 | [Extraction](https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6) | [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Extraction](https://open.spotify.com/album/7jWTOy2PAD52QCw7P4rRKT) | 6:13 |
 | 36 | [Can't Stop](https://open.spotify.com/track/5MZeACNzwzidxLfglyCspe) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Distractions](https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L) | 2:48 |
-| 37 | [Introducing the Fearless Flyers](https://open.spotify.com/track/5EUbvbjJxC2Qe3DXDix8dl) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:23 |
+| 37 | [Introducing the Fearless Flyers](https://open.spotify.com/track/5EUbvbjJxC2Qe3DXDix8dl) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:23 |
 | 38 | [Hipmotize](https://open.spotify.com/track/6BNK3p9suIfRLYfwnpxerd) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 5:29 |
 | 39 | [The Force](https://open.spotify.com/track/5FKYuJaxm0VCJapvg9GuMd) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Crush](https://open.spotify.com/album/749KEYqwGaNxbkLIqM5cBO) | 3:41 |
 | 40 | [Grebfruit](https://open.spotify.com/track/0Gm6qHnSTqOmZBqSfHfs3V) | [Benny Greb](https://open.spotify.com/artist/5hjhUiwzXZliQMmqqkYT81) | [Grebfruit](https://open.spotify.com/album/1sKqham86DDRADXxGLRmsG) | 4:47 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 52 | [Knuckaround](https://open.spotify.com/track/4Zg2zDhCMF019K5dIVItTE) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/26xicCegyTkFjxQQwec8ed) | 1:09 |
 | 53 | [Bruise Cruise](https://open.spotify.com/track/0Z27rTTijg45gBZn56hBSa) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Scary Goldings IV](https://open.spotify.com/album/6nR9rJfgSR5U6ffU4vhv75) | 2:13 |
 | 54 | [Welcome 2 Minneapolis \- The Paisley Park Session](https://open.spotify.com/track/4pFeY1QTJUGpqRJO3jqFQp) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Paisley Park Session](https://open.spotify.com/album/5sieNimqkuXKxrIGmeKg4W) | 4:36 |
-| 55 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
+| 55 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
 | 56 | [Equinox](https://open.spotify.com/track/30c2DrowJnjlyY0HWvWlaW) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Adventure](https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO) | 5:46 |
 | 57 | [Flex](https://open.spotify.com/track/6LefLnrYCefkpnjVJoZZTq) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Palmystery](https://open.spotify.com/album/1TP1qgFrX4iLjF23NE5Ouv) | 6:37 |
 | 58 | [Doin' Something](https://open.spotify.com/track/0QdLJ4eDU4vJ39nfT9sIPJ) | [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [Doin' Something](https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP) | 6:45 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 66 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 67 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MCxlZDFhNzVjOGMzZDI5ODE3M2IxZDcxZmU3NGMzZmRmZDViMzMxYTcx`
+Snapshot ID: `MCwwMjY1ZWZkY2M0OTZiZWYwZTYyMTNkNThmODUzOGQzYjJlMmM0Njcx`

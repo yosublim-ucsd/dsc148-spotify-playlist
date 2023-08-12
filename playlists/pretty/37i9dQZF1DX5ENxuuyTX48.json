@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Alextbh",
-  "num_followers": 14391,
+  "num_followers": 14419,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDkzMTZmZmE0YWViYWNlMDZjZDdlMTc0ZWYzZTk1N2IwYjY4OWE1",
+  "snapshot_id": "MCw3ZDE0NmQzNDQ0NDA5YTM2ZDVkNTJkZGEzMmU1MDI1MThiYzE2Yjky",
   "tracks": [
     {
       "added_at": "2023-08-11 00:18:18",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-11 00:18:18",
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "added_at": "2023-08-11 00:18:18",
+      "album": {
         "name": "Ekspektasi",
         "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 248471,
       "name": "Untukmu Aku Bertahan",
       "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
-    },
-    {
-      "added_at": "2023-08-11 00:18:18",
-      "album": {
-        "name": "Semua Aku Dirayakan",
-        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310625,
-      "name": "Semua Aku Dirayakan",
-      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
     },
     {
       "added_at": "2023-08-11 00:18:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,574 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,670 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 33 | [Hell \(feat\. Santigold\)](https://open.spotify.com/track/5Uc07fEUpjjFcLEIleEHkJ) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:51 |
 | 34 | [Leaked](https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:40 |
 | 35 | [Wockhardt](https://open.spotify.com/track/1Da2DD3CJyXvVWe3e80C3I) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Merry Wickmas](https://open.spotify.com/album/7maLkOMxNNkoHbVE8VWVka) | 2:11 |
-| 36 | [NY Is Killing Me](https://open.spotify.com/track/14uWrjrpU9TSpahKYPxyZx) | [Nems](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Scram Jones](https://open.spotify.com/artist/0Bi7gsMOc5xrBd3gSfGsFZ), [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H) | [NY Is Killing Me](https://open.spotify.com/album/0Xhr6mhVCkUSZ9vZdFDDjB) | 3:15 |
+| 36 | [NY Is Killing Me](https://open.spotify.com/track/14uWrjrpU9TSpahKYPxyZx) | [NEMS](https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Scram Jones](https://open.spotify.com/artist/0Bi7gsMOc5xrBd3gSfGsFZ), [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H) | [NY Is Killing Me](https://open.spotify.com/album/0Xhr6mhVCkUSZ9vZdFDDjB) | 3:15 |
 | 37 | [RAGS2BAGS](https://open.spotify.com/track/3wRwRtOvXEeDls3G9xhuzW) | [Hass Irv](https://open.spotify.com/artist/4xAG7j4dCBkd1CRy6WCyBN) | [RAGS2BAGS](https://open.spotify.com/album/2vhHeAUZbHrtFHe5WpxylO) | 1:56 |
 | 38 | [diss track maybe](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [diss track maybe](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 |
 | 39 | [SLIZZY LIKE](https://open.spotify.com/track/5bgZYokjcyfxRFzibiB9Gh) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY](https://open.spotify.com/album/6LTZvDHENUVTxeQrLLS28g) | 1:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0wdlLb695gFP3CSiUAqxls) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:32 |
 | 50 | [Don't Start Pt\. 2](https://open.spotify.com/track/4J1CPErx9yCZFirUXAxQVp) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 3:14 |
 
-Snapshot ID: `MCw1ZmRkMTNjM2M1NjRiYTBkOTJkNzhjMDM1YjhjMWRhNWY2MjExMTIw`
+Snapshot ID: `MCwwODQyNWQ1ZmRiYTNmOTMyYmU5MzY1NTI0NjAwMmEwZWNjYTFkNDk3`

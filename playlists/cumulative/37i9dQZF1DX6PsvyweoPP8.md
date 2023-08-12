@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-136 songs - 6 hr 51 min
+137 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Andar Mais Alto](https://open.spotify.com/track/1xXARLOEv8vgkRhPsarK8Q) | [Igão Spliff](https://open.spotify.com/artist/5JK0D8vobAenISPqlnWa2A), [Rugal](https://open.spotify.com/artist/2rI145bvCczreyC9mvk9hy), [ZeroUM](https://open.spotify.com/artist/6iMqvz6RouFq1o4IHJ7HVy) | [Andar Mais Alto](https://open.spotify.com/album/29zijHe0AMBIQDEQGS7vMS) | 2:11 | 2022-08-12 |  |
 | [Apaga a Luz](https://open.spotify.com/track/7kvIWyx7Jun0uEzTtQlLPj) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Jayy](https://open.spotify.com/artist/2YXlo4oLmS4JhncjEDHNdc) | [Apaga a Luz](https://open.spotify.com/album/2bx5mPk3d2GT4QzaiB9Cg0) | 2:34 | 2022-03-18 | 2022-09-10 |
 | [Babalú](https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Babalú](https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc) | 2:05 | 2023-07-28 |  |
+| [Baby Boy](https://open.spotify.com/track/6YkDNFdJpAXq3qgHYjPMCA) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 3:00 | 2023-08-11 |  |
 | [Baby Girl](https://open.spotify.com/track/1QtxuHsQEJVdudwdubcMns) | [drocke](https://open.spotify.com/artist/2Vxj17qIRPH1Q6e7M1Sj8a), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [Baby Girl](https://open.spotify.com/album/55sAyVRP8wgp4YWsETCkeB) | 3:46 | 2022-07-08 | 2023-03-03 |
 | [Baila Mais](https://open.spotify.com/track/6e7quuwQ5XSklHWemYmmHw) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Baila Mais](https://open.spotify.com/album/6ReUJDUFSmg9SpRCemLZkf) | 6:26 | 2022-12-23 |  |
 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 | 2023-04-21 |  |

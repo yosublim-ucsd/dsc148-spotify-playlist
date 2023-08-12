@@ -4,7 +4,7 @@
 
 > 🍪🍪🍪 de koekjes blijven smaken naar meer 🍪🍪🍪
 
-218 songs - 10 hr 56 min
+220 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2023-02-23 | 2023-03-04 |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-02-23 | 2023-04-06 |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-02-23 | 2023-04-12 |
+| [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-08-11 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-02-23 | 2023-03-08 |
 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 | 2023-03-03 | 2023-04-19 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-04 |  |
@@ -213,6 +214,7 @@
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-05-01 | 2023-05-26 |
 | [Vatos Locos](https://open.spotify.com/track/26xpfGNfaSxz3Ci7L6rVqv) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2VFcrKgzoVwpYAFTZZXv3a) | 2:43 | 2023-06-19 |  |
 | [Vatos Locos](https://open.spotify.com/track/6gF0SzgjzeYSriubXBGThr) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2GlT1zfc04pKMawuOvt1GL) | 2:43 | 2023-05-10 | 2023-06-22 |
+| [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2023-08-11 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-07 |  |
 | [Volg Je Niet](https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VIER](https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy) | 3:14 | 2023-07-04 |  |
 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 | 2023-07-04 |  |

@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 135553,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
@@ -2292,6 +2292,24 @@
       "duration_ms": 391000,
       "name": "Taban Ahwak",
       "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "album": {
+        "name": "TARAT ALTAYARA",
+        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122412,
+      "name": "TARAT ALTAYARA",
+      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
     },
     {
       "album": {

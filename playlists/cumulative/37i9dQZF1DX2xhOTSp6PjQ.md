@@ -4,7 +4,7 @@
 
 > It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ">Yallunder</a>.
 
-156 songs - 12 hr 26 min
+157 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Onke Lamadoda](https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 | 2018-09-25 | 2023-03-10 |
 | [Onke Lamadoda](https://open.spotify.com/track/6nhKAdmOWTivF0gggsVHx2) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Greatest Moments Of](https://open.spotify.com/album/4ETXztVwqM3WYnGU8c2hds) | 4:54 | 2018-09-25 | 2022-07-29 |
 | [Palamente e kgopela merapelo](https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Palamente e Kgopela Merapelo](https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF) | 5:08 | 2020-08-28 | 2023-02-01 |
+| [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 | 2023-08-11 |  |
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 |  |

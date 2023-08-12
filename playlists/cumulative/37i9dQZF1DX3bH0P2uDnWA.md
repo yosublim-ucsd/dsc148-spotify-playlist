@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-305 songs - 17 hr 41 min
+307 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Pressure \- Klischée Remix](https://open.spotify.com/track/7y7FwHBH5Al7M42rCtBF51) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB), [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg) | [Pressure \(Klischée Remix\)](https://open.spotify.com/album/36ksrwcXMXLdmRMXoK92ie) | 3:23 | 2022-11-07 |  |
 | [Prohibition](https://open.spotify.com/track/2l9emRx1ah5F2zTpiTqCcT) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 3:34 | 2022-10-12 | 2022-11-08 |
 | [Re\-Charleston \(Radio Edit\)](https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Re\-Charleston \(Electro Swing\)](https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo) | 2:47 | 2020-10-30 |  |
+| [Retronik](https://open.spotify.com/track/7q3sBCvNeZep3Ppz2ySBST) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Retronik](https://open.spotify.com/album/4mubKPIoSCoePyKvxCrESc) | 3:49 | 2023-08-11 |  |
 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 | 2021-01-22 |  |
 | [Rug Cutter](https://open.spotify.com/track/2cpJJubKd3E8DiRZvnNgJZ) | [The Hebbe Sisters](https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Rug Cutter](https://open.spotify.com/album/3HLK2bbzAYOfmccK1BIcil) | 2:58 | 2023-06-02 |  |
 | [Rum & Coke](https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Rum & Coke](https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P) | 2:37 | 2022-11-11 |  |
@@ -238,6 +239,7 @@
 | [Stay Swing](https://open.spotify.com/track/2bBRrsQMO0yVhVX0mWG7G9) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/12cCwjffS7Qxu6hfptUtut) | 4:32 | 2020-10-30 | 2022-07-29 |
 | [Step](https://open.spotify.com/track/72wlXAEF2A1dPfhGzNZSFA) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Don't Mean a Thing](https://open.spotify.com/album/0TdNnnOV3tQmZYggpxI2p5) | 5:13 | 2020-10-30 | 2022-05-15 |
 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 | 2020-10-30 |  |
+| [Stormy Night](https://open.spotify.com/track/3yv7S3DWESv8CF52hGglqH) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a) | [Stormy Night](https://open.spotify.com/album/4XGIFbYRL1U8MYTLFZsInB) | 2:28 | 2023-08-11 |  |
 | [Street Lamp Swing](https://open.spotify.com/track/4Vjc2hFx7GT7YtyfRmomgR) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Self Portrait in 3 Colors](https://open.spotify.com/album/09g7W6QRRXWNGDvfDtBtJe) | 3:57 | 2020-10-30 |  |
 | [Summer Swing](https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Summer Swing](https://open.spotify.com/album/5rzDrcy3EbPwDUV6IFUc0N) | 2:38 | 2021-07-23 | 2023-05-20 |
 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 | 2020-10-30 |  |

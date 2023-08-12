@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Ana Castela
+> O melhor do sertanejo em uma só playlist! Foto: Luan Pereira, Gustavo Mioto
 
-153 songs - 7 hr 16 min
+154 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-12-31 | 2023-04-01 |
 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-07-22 | 2023-08-05 |
 | [Amava Nada \- Ao Vivo](https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Rolê Diferenciado, Temp\. \#3 \(Ao Vivo\)](https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ) | 3:05 | 2022-02-11 | 2022-07-30 |
+| [AMBIENTE ERRADO \- Ao Vivo](https://open.spotify.com/track/2nfnhFDhwMet9yZodpGfn3) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [AMBIENTE ERRADO \(Ao Vivo\)](https://open.spotify.com/album/5OyqoxpsEn7XEilamuZcXU) | 2:24 | 2023-08-11 |  |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2021-12-31 | 2022-12-29 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Cola Aqui, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai) | 2:51 | 2022-03-25 | 2022-07-29 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 | 2022-07-22 | 2023-07-18 |
@@ -104,7 +105,7 @@
 | [Namorando Com Saudade](https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:54 | 2021-12-31 | 2022-12-22 |
 | [Namorando Ou Não \- Ao Vivo](https://open.spotify.com/track/0ZAL7RbP2FsM3rObV60o7T) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Namorando Ou Não \(Ao Vivo\)](https://open.spotify.com/album/6ZjnfGC0jZM3gnucvMpbpf) | 2:48 | 2023-03-17 |  |
 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 | 2023-08-04 |  |
-| [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Israel & Rodolffo: Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 | 2022-06-03 |  |
+| [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Israel & Rodolffo: Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 | 2022-06-03 | 2023-08-12 |
 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 | 2023-02-10 |  |
 | [Nosso Quadro](https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Nosso Quadro](https://open.spotify.com/album/2UcCoH8S3vHlaY27uLsxmc) | 2:53 | 2023-03-31 | 2023-04-06 |
 | [Nota de Repúdio \- Ao Vivo](https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Nota de Repúdio \(Ao Vivo\)](https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0) | 2:44 | 2021-12-31 | 2022-06-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: LEOPARD, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,221 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,233 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Almost](https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Almost](https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr) | 5:43 |
 | 80 | [Wasting Time](https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt) | [Ant Antic](https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh) | [Wasting Time](https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm) | 3:11 |
 
-Snapshot ID: `MCxiODU1ZWYzYmEzMGQ1N2Y3ODBmMDk1YWExNDI5ZmY0N2FhODgxM2Ux`
+Snapshot ID: `MCw3MmJiMzk1ZWM1Y2MwYWI3NzM0NzAwZTFjMDRhODdhNDdjNzgyZDYz`

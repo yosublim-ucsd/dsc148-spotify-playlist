@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,716 likes - 70 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,939 likes - 70 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 62 | [Liquid Fantasy](https://open.spotify.com/track/6CiW8ZvZQYHyCdKsfYeJYL) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 5:30 |
 | 63 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 | 64 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
-| 65 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
-| 66 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 |
+| 65 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 |
+| 66 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
 | 67 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 |
-| 68 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
-| 69 | [Pequeño Amor](https://open.spotify.com/track/7CV96EHpL4Xd1MXISAQr8O) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6kRoEOzwNU22R0SmjSNd3I) | 6:06 |
-| 70 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
+| 68 | [Pequeño Amor](https://open.spotify.com/track/7CV96EHpL4Xd1MXISAQr8O) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Back to You](https://open.spotify.com/album/6kRoEOzwNU22R0SmjSNd3I) | 6:06 |
+| 69 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
+| 70 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 
-Snapshot ID: `MCw0OWEzYzI3NWZlMmRiN2QwZDdhYTdiMjE0YTc2MTE4ODE3NmFmYjg5`
+Snapshot ID: `MCwyZWQ5NDE0NjFkYzgyOWNiZGJlMTI5NjQxOTJlYzZjOTk1MjZlZDMy`

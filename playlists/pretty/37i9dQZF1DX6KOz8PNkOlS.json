@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 392639,
+  "num_followers": 392936,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTIyYzk5M2M4ZjdkNTVjMGJjNjRjZjlhNjZlYWZiMzM5MTgyNTA1",
+  "snapshot_id": "MCwyMDM0MGI5YzMyMWMyY2I4YmFjNzg2ZTliYzlmYmQzODhhNTI3ZGZm",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
-      "added_at": "2023-04-14 01:00:33",
+      "added_at": "2022-08-13 00:39:16",
       "album": {
-        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 90110,
-      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
       "added_at": "2023-06-30 15:20:10",
@@ -65,20 +61,24 @@
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
-      "added_at": "2022-08-13 00:39:16",
+      "added_at": "2023-04-14 01:00:33",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 173640,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+      "duration_ms": 90110,
+      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -131,6 +131,22 @@
       "duration_ms": 261849,
       "name": "D>E>A>T>H>M>E>T>A>L",
       "url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6"
+    },
+    {
+      "added_at": "2022-08-31 04:27:20",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
     },
     {
       "added_at": "2023-06-07 16:18:58",
@@ -199,22 +215,6 @@
       "duration_ms": 221186,
       "name": "A Dream With a Baseball Player",
       "url": "https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1"
-    },
-    {
-      "added_at": "2022-08-31 04:27:20",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 260174,
-      "name": "Thrill",
-      "url": "https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n"
-    },
-    {
       "added_at": "2022-09-09 13:33:50",
       "album": {
         "name": "Look To Him",
@@ -935,6 +919,22 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 260174,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/6pq03Hl5tIY9ryqSEKt82n"
     },
     {
       "added_at": "2023-06-02 01:45:44",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
+      "added_at": "2023-05-24 02:01:11",
+      "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 177401,
+      "name": "Stay Away (From Me)",
+      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
+    },
+    {
       "added_at": "2023-06-02 02:31:02",
       "album": {
         "name": "The Universe",
@@ -1055,22 +1071,6 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
-    },
-    {
-      "added_at": "2023-05-24 02:01:11",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 177401,
-      "name": "Stay Away (From Me)",
-      "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 261614,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
+    },
+    {
       "added_at": "2022-04-18 03:39:12",
       "album": {
         "name": "State of Mine",
@@ -1209,20 +1225,20 @@
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-01-12 01:11:48",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "Further up Island",
+        "url": "https://open.spotify.com/album/0NtIyXrOXk3FEeLLxUp9Fv"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Andre Ethier",
+          "url": "https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF"
         }
       ],
-      "duration_ms": 261614,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
+      "duration_ms": 309403,
+      "name": "Nature Compels Me",
+      "url": "https://open.spotify.com/track/2xXIbixzOgrKu0r6uXZLHb"
     },
     {
       "added_at": "2022-02-25 03:07:19",
@@ -1295,22 +1311,6 @@
       "duration_ms": 194946,
       "name": "The Warning",
       "url": "https://open.spotify.com/track/5h6RX4lJ9opFcpGycS2ckD"
-    },
-    {
-      "added_at": "2023-01-12 01:11:48",
-      "album": {
-        "name": "Further up Island",
-        "url": "https://open.spotify.com/album/0NtIyXrOXk3FEeLLxUp9Fv"
-      },
-      "artists": [
-        {
-          "name": "Andre Ethier",
-          "url": "https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF"
-        }
-      ],
-      "duration_ms": 309403,
-      "name": "Nature Compels Me",
-      "url": "https://open.spotify.com/track/2xXIbixzOgrKu0r6uXZLHb"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1549,6 +1549,26 @@
       "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Song of the Lark and Other Far Memories",
+        "url": "https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 208056,
+      "name": "New Love Cassette (Mark Ronson Remix)",
+      "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
+    },
+    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Song of the Lark and Other Far Memories",
-        "url": "https://open.spotify.com/album/7qO3AbJIz7XMLP4bVOI7wj"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 208056,
-      "name": "New Love Cassette (Mark Ronson Remix)",
-      "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Apollonia",
         "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 158314,
       "name": "Foreign Affair",
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Maybe i'm alone",
-        "url": "https://open.spotify.com/album/1pQCvYotEs2hVCiSZVG1Xm"
-      },
-      "artists": [
-        {
-          "name": "Yaiko Kaori",
-          "url": "https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o"
-        }
-      ],
-      "duration_ms": 140999,
-      "name": "Maybe i'm alone",
-      "url": "https://open.spotify.com/track/3MWcUX999bO6D0AyDY64xL"
     },
     {
       "added_at": "2022-01-12 18:14:24",
@@ -1659,6 +1643,22 @@
       "duration_ms": 148461,
       "name": "Saturday Yawning",
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Maybe i'm alone",
+        "url": "https://open.spotify.com/album/1pQCvYotEs2hVCiSZVG1Xm"
+      },
+      "artists": [
+        {
+          "name": "Yaiko Kaori",
+          "url": "https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o"
+        }
+      ],
+      "duration_ms": 140999,
+      "name": "Maybe i'm alone",
+      "url": "https://open.spotify.com/track/3MWcUX999bO6D0AyDY64xL"
     },
     {
       "added_at": "2021-10-15 03:01:31",

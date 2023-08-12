@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=ZpNwfnpCT6mgpoW8jf83CQ\">Uncle Waffles</a> ",
-  "num_followers": 66522,
+  "num_followers": 66678,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTViMjk3M2RiMTBiY2EzY2NkMWU4NjBkYzJhN2MwOTY4MmRmZTdh",
+  "snapshot_id": "MCxkOWExYThmNjgzZWVlZWE1YzNkNTZhZDM0ZmEzYmZkY2JlNGI4MjNk",
   "tracks": [
     {
       "added_at": "2023-08-10 22:30:08",
@@ -49,6 +49,70 @@
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
+      "added_at": "2023-08-11 09:44:29",
+      "album": {
+        "name": "Ungiphethe Kahle (feat. Nokwazi, Mawhoo, Mashudu & LeeArt)",
+        "url": "https://open.spotify.com/album/0K8F5B3CYcHgLcS01c5LPC"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "LeeArt",
+          "url": "https://open.spotify.com/artist/7C4O7wPlxuGx7uvBgtd0eO"
+        }
+      ],
+      "duration_ms": 424834,
+      "name": "Ungiphethe Kahle (feat. Nokwazi, Mawhoo, Mashudu & LeeArt)",
+      "url": "https://open.spotify.com/track/7KwYLXSSMH8h5kVS3amYEj"
+    },
+    {
+      "added_at": "2023-08-11 07:59:54",
+      "album": {
+        "name": "SUPPOSED TO BE LOVED",
+        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 206972,
+      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
+    },
+    {
       "added_at": "2023-08-10 22:30:08",
       "album": {
         "name": "All The Things",
@@ -63,6 +127,38 @@
       "duration_ms": 202389,
       "name": "All The Things",
       "url": "https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj"
+    },
+    {
+      "added_at": "2023-08-11 09:44:29",
+      "album": {
+        "name": "Howa You (feat. Myztro & Xduppy)",
+        "url": "https://open.spotify.com/album/1Rej0ihnB0XxVKIizFelcL"
+      },
+      "artists": [
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "duration_ms": 356814,
+      "name": "Howa You (feat. Myztro & Xduppy)",
+      "url": "https://open.spotify.com/track/57T2jbt9nqR6VCeOH72wuG"
     },
     {
       "added_at": "2023-08-10 22:30:08",
@@ -144,7 +240,7 @@
           "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
         }
       ],
-      "duration_ms": 437198,
+      "duration_ms": 300061,
       "name": "Noma Kanjani",
       "url": "https://open.spotify.com/track/7ra81phD6VfKgcBJolmaP4"
     },
@@ -519,7 +615,7 @@
     {
       "added_at": "2023-08-10 22:30:08",
       "album": {
-        "name": "i adore u",
+        "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
       "artists": [
@@ -533,7 +629,7 @@
         }
       ],
       "duration_ms": 220653,
-      "name": "i adore u",
+      "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
@@ -807,26 +903,6 @@
       "duration_ms": 290612,
       "name": "Movie",
       "url": "https://open.spotify.com/track/6w96SS19VqUpo8O9B8Hzzc"
-    },
-    {
-      "added_at": "2023-08-10 22:30:08",
-      "album": {
-        "name": "Beautiful We Are",
-        "url": "https://open.spotify.com/album/2o7UJpLGvEJOrxOts0U6cJ"
-      },
-      "artists": [
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        },
-        {
-          "name": "KB Motsilanyane",
-          "url": "https://open.spotify.com/artist/3YUVEiN2CJ1isgAQv1AzNi"
-        }
-      ],
-      "duration_ms": 397860,
-      "name": "Beautiful We Are",
-      "url": "https://open.spotify.com/track/1nc09JKrVpmduQLD19ChQL"
     },
     {
       "added_at": "2023-08-10 22:30:08",

@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Big Mood",
+        "url": "https://open.spotify.com/album/1AKUUfxlhS2o1Fg0giIJMw"
+      },
+      "artists": [
+        {
+          "name": "Zefer",
+          "url": "https://open.spotify.com/artist/63lkUTZYWny7rlcy00F0jE"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Big Mood",
+      "url": "https://open.spotify.com/track/7BgGiBQaTuqdxtRdaO8uYJ"
+    },
+    {
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr"
       },
@@ -886,7 +908,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 152908,
       "name": "Come Off It",
       "url": "https://open.spotify.com/track/3aBbmuItelzZOxhPTuN9l6"

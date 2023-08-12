@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-451 songs - 23 hr 2 min
+453 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [24 Gang](https://open.spotify.com/track/3E8mWggRxk58HIVV7XmjiX) | [JuicemanSF](https://open.spotify.com/artist/7lmOPad5dsOfryNQB2sDay), [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [BangBangCashout](https://open.spotify.com/artist/6ejrJ9lIzqZ7sATdJaC9Uc) | [24 Gang](https://open.spotify.com/album/4Y9U6MyvAVyG4o00p90ap7) | 3:25 | 2022-02-25 | 2022-03-12 |
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-02-18 | 2022-09-17 |
 | [3 saisons](https://open.spotify.com/track/7qppWvyQ9uw2TPAlHNzp4H) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [3 saisons](https://open.spotify.com/album/3hNE9lZZ7U5EQxYCCZh3zT) | 3:33 | 2022-01-07 | 2022-03-05 |
-| [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 | 2022-10-07 |  |
+| [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 | 2022-10-07 | 2023-08-12 |
 | [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 | 2022-12-02 |  |
 | [30 Shots](https://open.spotify.com/track/6VEoDyngWaZrkKV7Jw2ShY) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/3sAKND1PUz7rDHB4xuvMuD) | 2:53 | 2023-02-03 | 2023-02-08 |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-01-21 | 2022-04-23 |
@@ -121,7 +121,7 @@
 | [Costco freestyle](https://open.spotify.com/track/0oFFNSKg6DvV7rYTCwfMMP) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Costco freestyle](https://open.spotify.com/album/7zXtx6SQ1XkGiEi63Qrh8Q) | 2:16 | 2022-06-03 | 2023-02-18 |
 | [Cowboy](https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:21 | 2023-02-17 |  |
 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 | 2022-09-02 | 2023-03-11 |
-| [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2022-08-05 |  |
+| [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2022-08-05 | 2023-08-12 |
 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 | 2022-07-22 | 2023-04-22 |
 | [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 | 2023-06-23 |  |
 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 | 2022-07-22 | 2023-04-22 |
@@ -154,6 +154,7 @@
 | [EAU DE MARS](https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [EAU DE MARS](https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu) | 3:26 | 2023-04-28 | 2023-06-17 |
 | [EDM \(Entre deux mondes\)](https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [EDM \(Entre deux mondes\)](https://open.spotify.com/album/4v9kxxVzv0G27JxTC1Aj3k) | 2:55 | 2023-07-28 |  |
 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 | 2022-10-28 | 2023-01-28 |
+| [EGK](https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK](https://open.spotify.com/album/2yO4mSOgBVH41omCGeIi5J) | 2:28 | 2023-08-11 |  |
 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 | 2023-04-14 | 2023-05-13 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-12 |
 | [Esprit méfiant](https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8) | [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Esprit méfiant](https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo) | 2:39 | 2022-05-13 | 2022-10-29 |
@@ -406,6 +407,7 @@
 | [TEC](https://open.spotify.com/track/3HJKrwiplwM14ZN9RowsIc) | [Soopafoo](https://open.spotify.com/artist/5qeGJOaQ09cd31ndQ0M7EN), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [TEC](https://open.spotify.com/album/6XlTKcnoHUtoZ2yQUra9zf) | 3:54 | 2023-02-10 | 2023-07-15 |
 | [Tempête](https://open.spotify.com/track/2rqlwmRWHm56vpLboDAp6Y) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tempête](https://open.spotify.com/album/5w1rhzcy6S7mXfEVSM6PtS) | 2:54 | 2023-04-21 | 2023-05-06 |
 | [Tension S](https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Tension S](https://open.spotify.com/album/2HAn3B2dgk6bkj3rHfOBQg) | 2:36 | 2023-06-02 | 2023-07-08 |
+| [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 | 2023-08-11 |  |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |
 | [Titulaire](https://open.spotify.com/track/1t3g4YEWcJXuau9ZuCCkwB) | [Stone](https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ) | [Titulaire](https://open.spotify.com/album/0M3hYvMSfsp0Bopt8xODgH) | 2:18 | 2023-01-28 | 2023-04-22 |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-10-08 |

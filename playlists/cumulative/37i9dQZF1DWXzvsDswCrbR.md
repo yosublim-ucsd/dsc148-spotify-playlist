@@ -4,7 +4,7 @@
 
 > The sound of bounce, curated by Big Freedia.
 
-22 songs - 1 hr 30 min
+23 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Play Yo Part](https://open.spotify.com/track/3DAHvC1IghkthR5Gps3ZVK) | [ReUp Reedy](https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l) | [The Reup](https://open.spotify.com/album/2J3lSRjlJhgo2r6P8wOIju) | 3:25 | 2021-02-16 |  |
 | [Rump Shaking Love Making](https://open.spotify.com/track/5y9e4vt9o3JLlvPrttgDwy) | [HaSizzle](https://open.spotify.com/artist/22mB4zQKJDI9I7ZnYs80iX) | [Rump Shaking Love Making](https://open.spotify.com/album/3UfDF4kAOBZwZq6nmKvkaH) | 2:52 | 2021-02-16 |  |
 | [Shake It Like a Dog](https://open.spotify.com/track/2R7wqBIsyqse2wjDR12m39) | [Partners\-N\-Crime](https://open.spotify.com/artist/45QC24TiJaUefMd4ZXqMpB) | [The Lost Tapes](https://open.spotify.com/album/2mYqZj0EnRZVWAy7lM7LqQ) | 2:38 | 2021-02-16 |  |
-| [Smoking Gun](https://open.spotify.com/track/3nOE0JabbXrgjYr7R7PRXf) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Shake Twerk & Wobble 2](https://open.spotify.com/album/7uvRdlfrGiOEZfAaERZNkA) | 3:23 | 2021-02-16 |  |
+| [Smoking Gun](https://open.spotify.com/track/3nOE0JabbXrgjYr7R7PRXf) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Shake Twerk & Wobble 2](https://open.spotify.com/album/7uvRdlfrGiOEZfAaERZNkA) | 3:23 | 2021-02-16 | 2023-08-12 |
+| [Smoking Gun](https://open.spotify.com/track/5MBPsMuZ3N7lHMwHgZqCMq) | [Magnolia Shorty](https://open.spotify.com/artist/31CN1AJfh8Oe1WBcELxK08) | [Gracie Productions Presents: Hip Hop Vol\. 3](https://open.spotify.com/album/1U2MTm3a5KFId2MrxCI1M2) | 3:23 | 2021-02-16 |  |
 | [Titty Bop](https://open.spotify.com/track/1lAoxsinr5MiR3rojTOTYn) | [Katey Red](https://open.spotify.com/artist/4xrkUOqFjYLYrThn1VIaI5) | [Katey's Hits](https://open.spotify.com/album/4xxECBRmMRR0giGMkT4FCl) | 4:56 | 2021-02-16 |  |
 | [Twerk Something](https://open.spotify.com/track/39GvFV5Ut0Lnyi3O2Apnpt) | [Cheeky Blakk](https://open.spotify.com/artist/2fPRPvD5jBW4fKLCRX9wLu) | [Old School New Orleans Bounce, Vol\. 2](https://open.spotify.com/album/6xaOJ6NKMroBlwYyKmh905) | 6:15 | 2021-02-16 |  |
 | [Where They At \- Radio Version](https://open.spotify.com/track/3BuSKfVHRKZhwiRuxgAJVp) | [DJ Jimi](https://open.spotify.com/artist/3nqEYrDwdr8t7E5eaxhcD2) | [It's Jimi](https://open.spotify.com/album/4uRPMTLaSkaCiHjtUKD8hY) | 3:33 | 2021-02-16 |  |

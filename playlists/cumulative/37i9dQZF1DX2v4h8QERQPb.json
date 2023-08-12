@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Soui Uno.",
+  "description": "Rimas argentinas. Foto: Trueno.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 188970,
       "name": "A 120",
       "url": "https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO"
@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Distopya",
+        "url": "https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao"
+      },
+      "artists": [
+        {
+          "name": "Santoz",
+          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
+        },
+        {
+          "name": "WHO'SNEAKY",
+          "url": "https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Fe en el caos",
+      "url": "https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH"
+    },
+    {
+      "album": {
         "name": "FEEL ME??",
         "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
       },
@@ -2825,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Mi Habilidad",
+        "url": "https://open.spotify.com/album/5yjj5tPt7fG1PefQiMPJ9E"
+      },
+      "artists": [
+        {
+          "name": "Fianru",
+          "url": "https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169305,
+      "name": "Mi Habilidad",
+      "url": "https://open.spotify.com/track/1gYFY8wNgJD7ydmnaW3CTA"
+    },
+    {
+      "album": {
         "name": "Mi Verdad",
         "url": "https://open.spotify.com/album/1dSYCNvuuGMzTWaZKVPWWz"
       },
@@ -3674,7 +3714,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 101744,
       "name": "Rub\u00edes Rubios Vol. 02",
       "url": "https://open.spotify.com/track/36csr9jNjoqz53hwAvTCVZ"
@@ -4322,6 +4362,24 @@
       "duration_ms": 203083,
       "name": "Traici\u00f3n",
       "url": "https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x"
+    },
+    {
+      "album": {
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
       "album": {

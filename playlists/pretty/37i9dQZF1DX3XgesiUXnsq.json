@@ -1,15 +1,15 @@
 {
   "description": "Damn son, where'd ya find this? Cover: Little Simz",
-  "num_followers": 274379,
+  "num_followers": 274508,
   "original_name": "Raw & Uncut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWFhM2Q3NGM0ODQxZDZkYWVlYjE3NmU0NTBmNzRlNzRiMTUwZTk0",
+  "snapshot_id": "MCwwMjA5OGI1Y2JiODNkZjkyOTVjMmExMjJlMTAxY2Y3MWUzMTE2ZTA1",
   "tracks": [
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "A Love Letter To You 5",
+        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "I'm Mad At Me (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/0OwUA3xLGpxgsBNQYVMno4"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
@@ -45,47 +65,7 @@
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "The Soul Pt. 3",
-        "url": "https://open.spotify.com/album/4YWmTUNhDr28SBv7wu9uce"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        }
-      ],
-      "duration_ms": 162635,
-      "name": "The Soul Pt. 3",
-      "url": "https://open.spotify.com/track/0US2yd2oJjwhUol9RJFdSP"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Smoke Break-Dance (feat. JID)",
-        "url": "https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
@@ -105,7 +85,71 @@
       "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "The Soul Pt. 3",
+        "url": "https://open.spotify.com/album/4YWmTUNhDr28SBv7wu9uce"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 162635,
+      "name": "The Soul Pt. 3",
+      "url": "https://open.spotify.com/track/0US2yd2oJjwhUol9RJFdSP"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Smoke Break-Dance (feat. JID)",
+        "url": "https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Harlem World 97 (feat. Estelle)",
+        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 137945,
+      "name": "Harlem World 97 (feat. Estelle)",
+      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb"
@@ -129,7 +173,7 @@
       "url": "https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Roc-A-Fella Y'all",
         "url": "https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu"
@@ -145,7 +189,31 @@
       "url": "https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
@@ -161,7 +229,7 @@
       "url": "https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "HOOD MUSICAL",
         "url": "https://open.spotify.com/album/0TvqqbXQbCGEcElEI4wj3G"
@@ -181,7 +249,71 @@
       "url": "https://open.spotify.com/track/0WTsFSArACKkIUmJrqX8FB"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Dump On Em",
+        "url": "https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "MC Ren",
+          "url": "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "Dump On Em",
+      "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "YUPP! (feat. Remy Ma)",
+        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "duration_ms": 182267,
+      "name": "YUPP! (feat. Remy Ma)",
+      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Cowboy Bebop",
+        "url": "https://open.spotify.com/album/5sMwxOdU1wyMJl8okwrzyQ"
+      },
+      "artists": [
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "duration_ms": 154630,
+      "name": "Cowboy Bebop",
+      "url": "https://open.spotify.com/track/6KHx0lFbfsplQJhZxJNJRX"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Section.80",
         "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
@@ -197,7 +329,7 @@
       "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Do You Love You Or Do You Love Money",
         "url": "https://open.spotify.com/album/34cpEt0hwBa8HBRLPmbqxa"
@@ -221,7 +353,7 @@
       "url": "https://open.spotify.com/track/4b5DBuOxapO0h4FFCoWVhM"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
@@ -237,7 +369,7 @@
       "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
@@ -257,7 +389,31 @@
       "url": "https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/63OTcaIP41YxalBJxLLmAI"
+      },
+      "artists": [
+        {
+          "name": "Mathematik",
+          "url": "https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        },
+        {
+          "name": "Lex (de Kalhex)",
+          "url": "https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/4tmXYg65XUNZwYxX8oaEbO"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "CHOMP 2.5 (EP)",
         "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
@@ -273,7 +429,7 @@
       "url": "https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
@@ -301,7 +457,7 @@
       "url": "https://open.spotify.com/track/3OFmFAEAfxNyJRAW0wLmfb"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
         "url": "https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo"
@@ -329,7 +485,7 @@
       "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Risky",
         "url": "https://open.spotify.com/album/5jo1DGIzHMKDuAUxLZqIhr"
@@ -353,7 +509,7 @@
       "url": "https://open.spotify.com/track/0WuH9YPPEnl75JyMIgXuiW"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG"
@@ -377,7 +533,7 @@
       "url": "https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "MAN DOWN",
         "url": "https://open.spotify.com/album/40ky3rclTC49nBSe3bikop"
@@ -393,7 +549,7 @@
       "url": "https://open.spotify.com/track/3jqEeqbsATtPx2V37ChPe0"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
@@ -409,7 +565,7 @@
       "url": "https://open.spotify.com/track/3X5tOT7Aif4l4ZjRj217pa"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
@@ -429,7 +585,7 @@
       "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Dangerous Daringer",
         "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
@@ -449,7 +605,7 @@
       "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Vibrant",
         "url": "https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1"
@@ -473,7 +629,7 @@
       "url": "https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "9th Wonder Presents: Jamla Is The Squad II",
         "url": "https://open.spotify.com/album/2K0JdsaYMJbNuY4qh7kC7X"
@@ -493,7 +649,7 @@
       "url": "https://open.spotify.com/track/4rQrECrwG9KPZT9LBMX1bi"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Conway The Machine Presents: Drumwork The Album",
         "url": "https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L"
@@ -521,7 +677,7 @@
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "CRUSH ON YOU",
         "url": "https://open.spotify.com/album/7K4uu3Ipk9osaAtwqPK1tQ"
@@ -545,7 +701,7 @@
       "url": "https://open.spotify.com/track/3zaQira9zngFXcrEavaL3F"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
@@ -565,7 +721,7 @@
       "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
@@ -589,7 +745,7 @@
       "url": "https://open.spotify.com/track/2IUJBpKPp9jW3p2d4EbkmB"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2Sl0XaBXOfw6xGivwcwoba"
@@ -613,7 +769,7 @@
       "url": "https://open.spotify.com/track/45SON3lVRz2QMyRXOqIN8v"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
@@ -629,7 +785,7 @@
       "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
@@ -645,7 +801,7 @@
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "No Invitation",
         "url": "https://open.spotify.com/album/4P8XTZ1mpbTuV9Dsycxb6G"
@@ -661,7 +817,7 @@
       "url": "https://open.spotify.com/track/2O5Fugk6ePvqzbvKiqUr5n"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Mumble Rap 2",
         "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
@@ -681,7 +837,7 @@
       "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "911 (Freestyle)",
         "url": "https://open.spotify.com/album/5RgVAFOgrpI3vteIllwmih"
@@ -697,7 +853,7 @@
       "url": "https://open.spotify.com/track/1udMijaNdBSlikjxcQi22I"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Knockout Freestyle",
         "url": "https://open.spotify.com/album/1OlzP8mp61u7YemKnWUQcT"
@@ -713,7 +869,7 @@
       "url": "https://open.spotify.com/track/7AS9apzc9bQ4Koq7jJx0Ax"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "TRUTH OR DARE",
         "url": "https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8"
@@ -733,7 +889,7 @@
       "url": "https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
@@ -753,7 +909,7 @@
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb"
@@ -769,7 +925,7 @@
       "url": "https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Since Elementary",
         "url": "https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs"
@@ -785,31 +941,7 @@
       "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Drug Trade (feat. Black Thought)",
-        "url": "https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        }
-      ],
-      "duration_ms": 272517,
-      "name": "Drug Trade (feat. Black Thought)",
-      "url": "https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/5sNNL10Qqlgix8lBHPibqj"
@@ -829,7 +961,7 @@
       "url": "https://open.spotify.com/track/4gu103x5nz3NpN6lRKSeWC"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "My Own Lane",
         "url": "https://open.spotify.com/album/4Pct0jmajIPalLfYBY2ghD"
@@ -849,7 +981,7 @@
       "url": "https://open.spotify.com/track/4Vp0ivRVcWXrPrxZA7w7gi"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Since Always and Forever",
         "url": "https://open.spotify.com/album/5LbUG3bpLruW7Hc3PkVACy"
@@ -865,7 +997,7 @@
       "url": "https://open.spotify.com/track/6tQ5E896MerZcJ9A5kwWMD"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Get A Ticket",
         "url": "https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw"
@@ -885,7 +1017,7 @@
       "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Let The Sample Work",
         "url": "https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5"
@@ -901,7 +1033,7 @@
       "url": "https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "SURF OR DROWN",
         "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
@@ -921,35 +1053,7 @@
       "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Round Trip",
-        "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
-      },
-      "artists": [
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 288548,
-      "name": "Ain't Too Much To It",
-      "url": "https://open.spotify.com/track/3HN5EZk2zIoZdWxfLLE1E6"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Chung Shui II",
         "url": "https://open.spotify.com/album/0UFRwJ6g0EkJKipUxCHKtf"
@@ -977,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2lxD7mHyVfEbvZv7Z0oZsP"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "From The Cradle To The Game",
         "url": "https://open.spotify.com/album/3KfXv2pCUXIoz9bt8tJKiu"
@@ -1005,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6VsVdAOO0AfJo9za71hQsd"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
@@ -1029,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "hue_man nature",
         "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
@@ -1049,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Road to CASABLANCO.",
         "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
@@ -1069,27 +1173,7 @@
       "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Love Without Conditions",
-        "url": "https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej"
-      },
-      "artists": [
-        {
-          "name": "Zombie Juice",
-          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Terpalation",
-      "url": "https://open.spotify.com/track/2ItI24yglCAAnbiVCclgEp"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "CRIMINOLOGY",
         "url": "https://open.spotify.com/album/7GLk9G7so4H75Flbw56OAt"
@@ -1109,7 +1193,7 @@
       "url": "https://open.spotify.com/track/1DtjK21lNaO932RZdJUiI3"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Rage & The Machine",
         "url": "https://open.spotify.com/album/57rqfjTcSuv9Ih9gLyFpEN"
@@ -1125,27 +1209,7 @@
       "url": "https://open.spotify.com/track/7FEP7xsMvSYfrWjycHJffk"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Yellowtail Sashimi",
-        "url": "https://open.spotify.com/album/5wfrKW8sf4xT3J1c27mBCr"
-      },
-      "artists": [
-        {
-          "name": "Steelo",
-          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 149403,
-      "name": "Yellowtail Sashimi",
-      "url": "https://open.spotify.com/track/4vSd2IvCGMOCoZGtRbkhdv"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "To See A Sunset (Deluxe)",
         "url": "https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW"
@@ -1169,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "lonrwrld (freestyle)",
         "url": "https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N"
@@ -1185,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
@@ -1201,51 +1265,7 @@
       "url": "https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Chapel Hill",
-        "url": "https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi"
-      },
-      "artists": [
-        {
-          "name": "John River",
-          "url": "https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg"
-        }
-      ],
-      "duration_ms": 160697,
-      "name": "Chapel Hill",
-      "url": "https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5CRUgLsE5Ol3bqPGZl2H9X"
-      },
-      "artists": [
-        {
-          "name": "Big Sproxx",
-          "url": "https://open.spotify.com/artist/1VbTgItwxUwsq1UMMhDzwb"
-        },
-        {
-          "name": "Planet Asia",
-          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
-        },
-        {
-          "name": "The Legend Adam Bomb",
-          "url": "https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei"
-        },
-        {
-          "name": "Dj Grouch",
-          "url": "https://open.spotify.com/artist/6mIpjorojnsaBjfp4v4f78"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Duality",
-      "url": "https://open.spotify.com/track/2nYUSaJWDsHWBRJnaanEtX"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "In and of Itself",
         "url": "https://open.spotify.com/album/4KvgpjA1iYE6faTItuNgOb"
@@ -1261,7 +1281,7 @@
       "url": "https://open.spotify.com/track/5hz64PXbswyt7i2xPoEWCc"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Welcome Back Freestyle",
         "url": "https://open.spotify.com/album/2hrBoFw5HxYq9Ru1l5I55y"
@@ -1281,7 +1301,7 @@
       "url": "https://open.spotify.com/track/0knVZZi4TCmdRVAvZdi1Ng"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -1297,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Never Freestyle",
         "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
@@ -1313,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB"
@@ -1337,7 +1357,7 @@
       "url": "https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/22uaTFEEg8Orsei0457A6i"
@@ -1361,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0l6pd92PEvsz42gUIKint0"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Lightsabers (feat. C Dot Castro)",
         "url": "https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9"
@@ -1381,7 +1401,7 @@
       "url": "https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows"
@@ -1401,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3l6D0NUQn6Ttyz5ePSPk5w"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Palisades, CA",
         "url": "https://open.spotify.com/album/4XYsvQ49unoFwRD0mjooPT"
@@ -1425,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7ySRtcBS3aaEv7myWwMPKN"
@@ -1441,7 +1461,7 @@
       "url": "https://open.spotify.com/track/3IwTfr5BZ9Wiz9dmgp5ITm"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
@@ -1457,7 +1477,7 @@
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
@@ -1473,27 +1493,7 @@
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
-      "album": {
-        "name": "Creed III: The Soundtrack",
-        "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 95902,
-      "name": "Adonis Interlude (The Montage) (with J. Cole)",
-      "url": "https://open.spotify.com/track/23w7p4AuDtw9CrhFBcMat5"
-    },
-    {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Buddy",
         "url": "https://open.spotify.com/album/6BuUcGesmUnJwCdlIGqB6u"
@@ -1517,7 +1517,7 @@
       "url": "https://open.spotify.com/track/4hOq0WCZgv1I3okksD4bag"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Darkest Ocean",
         "url": "https://open.spotify.com/album/78dvlqECzjKdT6oBev6tsQ"
@@ -1533,7 +1533,7 @@
       "url": "https://open.spotify.com/track/0fpTlN16c9TyQEUM1i2x8A"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Johnny P's Caddy",
         "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
@@ -1553,7 +1553,7 @@
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Paradise II (feat. Norah Jones)",
         "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
@@ -1573,7 +1573,7 @@
       "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Uncomfortable Truth (feat. Millyz)",
         "url": "https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL"
@@ -1597,7 +1597,7 @@
       "url": "https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "My Name Is My Name",
         "url": "https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC"
@@ -1617,7 +1617,7 @@
       "url": "https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
@@ -1657,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
@@ -1677,7 +1677,7 @@
       "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/7tIapzAUTxUTYMvWWFSzV5"
@@ -1693,7 +1693,7 @@
       "url": "https://open.spotify.com/track/3yjVsUq8psgcHm8SQrZ8i4"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
@@ -1709,7 +1709,7 @@
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Buhloone Mindstate",
         "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
@@ -1729,7 +1729,7 @@
       "url": "https://open.spotify.com/track/2avmI53DtuX5r32jnx3rxt"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -1745,7 +1745,7 @@
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5t0IgR1t1Xn4juP7Fb65nb"
@@ -1761,7 +1761,7 @@
       "url": "https://open.spotify.com/track/6jawC4HnwfnVzb7vCbN8Mt"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Melt My Eyez See Your Future (The Extended Edition)",
         "url": "https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI"
@@ -1777,7 +1777,7 @@
       "url": "https://open.spotify.com/track/2GzUm7Ps1WbaiMiSY7CY0S"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -1797,7 +1797,7 @@
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Dark Hearted",
         "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
@@ -1813,7 +1813,7 @@
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Father Time (2018 Version)",
         "url": "https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW"
@@ -1837,7 +1837,7 @@
       "url": "https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
@@ -1861,7 +1861,7 @@
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Sriracha",
         "url": "https://open.spotify.com/album/380OfomX0FAj25skGNBOiK"
@@ -1877,7 +1877,7 @@
       "url": "https://open.spotify.com/track/1ytLhTM7p87C4eWPRWqAC9"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Colombian Coke",
         "url": "https://open.spotify.com/album/5jUbc7xQEQAvBAQbAxpipi"
@@ -1893,7 +1893,7 @@
       "url": "https://open.spotify.com/track/4EXNCf6q28bG84yxygHsch"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
@@ -1909,7 +1909,7 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "B.B. King Freestyle",
         "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
@@ -1929,7 +1929,7 @@
       "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "E-Z on the Motion / Hard Copy",
         "url": "https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a"
@@ -1945,7 +1945,7 @@
       "url": "https://open.spotify.com/track/7v0NXl6RTU9XMhHrUp0gQJ"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Phenomenon",
         "url": "https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP"
@@ -1977,7 +1977,7 @@
       "url": "https://open.spotify.com/track/2jpd11oy0FGFebu6BpKSse"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
@@ -1997,7 +1997,7 @@
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
-      "added_at": "2023-08-04 04:42:30",
+      "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"

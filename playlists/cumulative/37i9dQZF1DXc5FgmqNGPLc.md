@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-124 songs - 18 hr 28 min
+125 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2CaSvJjrI52lwbbNwpmc9V) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [live from the archives \* BOOTLEG JUNE 15, 2000](https://open.spotify.com/album/2hCxogjHMvleKKenbxi9sP) | 13:42 | 2022-09-23 |  |
 | [Variations of a Bloodline \- Live](https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Variations of a Bloodline \(Live\)](https://open.spotify.com/album/3iD3tUauck969gRVKq4Bt5) | 13:42 | 2022-09-23 | 2023-05-01 |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2021-11-12 |  |
+| [Watermelon Man](https://open.spotify.com/track/6Hq4YLH2m7vfyPqpdE1Fan) | [The Headhunters](https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT) | [Live From Brooklyn Bowl](https://open.spotify.com/album/6zTO2dBLInxVTEy2TLsKiF) | 9:30 | 2023-08-11 |  |
 | [Well, You Needn't \- Live \[It Club\]](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk Live At The It Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 | 2021-11-12 |  |
 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/19SAIkqkaDzQsaX1h0Jmam) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [That's What Happened 1982\-1985: The Bootleg Series, Vol\. 7](https://open.spotify.com/album/2mwZpszzkV5EzChG04oDWv) | 6:45 | 2022-07-08 | 2022-11-13 |
 | [What It Is \- Live at Theatre St\-Denis, Montreal, Canada \- July 7, 1983](https://open.spotify.com/track/3oNcGjNy8kWNrORs3LGfrL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is: Montreal 7/7/83 \(Live\)](https://open.spotify.com/album/5NUH4GlFSKf4QnKsK8EQHL) | 6:45 | 2022-07-08 |  |
@@ -128,7 +129,7 @@
 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/4TAydY5d4u5cL5RcxxIZ6J) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Where Do I Go from Here? \(Live\)](https://open.spotify.com/album/3Kdz365Ndt7t2GFKxSeJUZ) | 7:38 | 2022-10-21 | 2022-11-26 |
 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 | 2022-10-21 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
-| [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
+| [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 | 2023-08-12 |
 | [You Gotta Move \- Live](https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [You Gotta Move \(Live\)](https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI) | 14:01 | 2023-01-13 | 2023-07-29 |
 | [Your Smile \- Live](https://open.spotify.com/track/5dF9OuGFO1rtDfpbULTpL0) | [Victor Feldman](https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Trevor Feldman](https://open.spotify.com/artist/2e44l2JbTpsjkrk97ji0A1) | [Your Smile \(Live\)](https://open.spotify.com/album/6lHTZb9TcHVd2qKE7QDilR) | 8:54 | 2023-04-07 |  |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |

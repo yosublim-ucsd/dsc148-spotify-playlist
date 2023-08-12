@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,901 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,971 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 58 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 |
 | 59 | [No One Special \(feat\. J.O.Y & GARETH FERNANDEZ\)](https://open.spotify.com/track/0Gn4sPo3XJk1J897upDQru) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Truman Show](https://open.spotify.com/album/6dPPKcd9FxtjGrwONNOTLR) | 2:50 |
 
-Snapshot ID: `MCwwNzdjODZlNWI2NWMyODRmMDA1NmJjOGJjMGM4Njc4OTE5NjFlNWNj`
+Snapshot ID: `MCxiYTk3YTA1NWMzODE3ZThmNGRlYTcwYzE4NzJiM2RiNzAzYzE0NGNh`

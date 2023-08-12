@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 130074,
+  "num_followers": 130111,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmE5NWU4Yzc3OTRjZDkyNjMzN2ZjOWJmY2I3OGQ0NGJlZmMyMzdm",
+  "snapshot_id": "MCxhOWRlZDU4YzhjMjEyMzMwYmNjMzU0MmU0YTNjZDZkNGNmZmY0MzFl",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -219,18 +219,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+        "name": "Living Chicago Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+          "name": "Eddie Shaw",
+          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
         }
       ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+      "duration_ms": 222893,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -267,18 +267,18 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 1",
-        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
       "artists": [
         {
-          "name": "Eddie Shaw",
-          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -347,34 +347,18 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
       },
       "artists": [
         {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+          "name": "Floyd Jones",
+          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
         }
       ],
-      "duration_ms": 216373,
-      "name": "The Little Red Rooster",
-      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
+      "duration_ms": 217120,
+      "name": "Dark Road",
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -393,20 +377,20 @@
       "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
+      "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Masters Of Modern Blues",
-        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
       },
       "artists": [
         {
-          "name": "Floyd Jones",
-          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -441,20 +425,20 @@
       "url": "https://open.spotify.com/track/0P1NVWntMal7tHrLG1HxEC"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
+      "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Come Back Baby",
-        "url": "https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb"
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
       "artists": [
         {
-          "name": "Linsey Alexander",
-          "url": "https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 287640,
-      "name": "Call My Wife",
-      "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
+      "duration_ms": 216373,
+      "name": "The Little Red Rooster",
+      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -471,6 +455,22 @@
       "duration_ms": 280573,
       "name": "Drown In My Own Tears",
       "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Come Back Baby",
+        "url": "https://open.spotify.com/album/1j7FMsDxZQUKhanMXgRsdb"
+      },
+      "artists": [
+        {
+          "name": "Linsey Alexander",
+          "url": "https://open.spotify.com/artist/3Em6TiK664KLJAnWovmvan"
+        }
+      ],
+      "duration_ms": 287640,
+      "name": "Call My Wife",
+      "url": "https://open.spotify.com/track/4t9IqVoxJN5F9aWj1YYlQ1"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -507,22 +507,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Living Chicago Blues, Vol. 2",
         "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 256466,
       "name": "Worry, Worry",
       "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2018-02-27 18:08:29",

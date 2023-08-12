@@ -333,6 +333,32 @@
     },
     {
       "album": {
+        "name": "A Fonte",
+        "url": "https://open.spotify.com/album/3FtMnxO2hM0LxEQE4Jfc7h"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        },
+        {
+          "name": "Bubbajay",
+          "url": "https://open.spotify.com/artist/7fctsXmbgy715CE6TEafJq"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "A Fonte",
+      "url": "https://open.spotify.com/track/1m6u5l7PdEjNA7B6eSJSEB"
+    },
+    {
+      "album": {
         "name": "Nuvens de Neon",
         "url": "https://open.spotify.com/album/5ojGjI0TqdxY2ZFGIzJn76"
       },
@@ -1426,7 +1452,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 229333,
       "name": "Bem Posturado",
       "url": "https://open.spotify.com/track/16FvQn0EO9qx0KC3KBQHVI"
@@ -1737,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "De Ontem Pra Hoje",
+        "url": "https://open.spotify.com/album/6iyvwMl9CJcMPSxs78j04G"
+      },
+      "artists": [
+        {
+          "name": "Yamashita",
+          "url": "https://open.spotify.com/artist/5aJKizHlj2VReayOZHmHFw"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141929,
+      "name": "Camale\u00e3o",
+      "url": "https://open.spotify.com/track/3qeWrfX8zmDMPqCPEH27gV"
+    },
+    {
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX"
       },
@@ -1782,7 +1826,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 162725,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/0EP4JCuMHMh7QX1ZqRlqg2"
@@ -5816,7 +5860,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 132603,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6arTWP7kPORoLcuUbhMwhe"
@@ -7445,6 +7489,28 @@
     },
     {
       "album": {
+        "name": "Piranhas Internacionais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1yrsTfx2KKRyj4wCCYHw9u"
+      },
+      "artists": [
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133455,
+      "name": "Piranhas Internacionais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uoUMoezbo6XxdvxNcM26K"
+    },
+    {
+      "album": {
         "name": "Mund\u00e3o Girou (In\u00e9ditas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0RjQW3b9M864bJJrAjl310"
       },
@@ -7776,7 +7842,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-12",
       "duration_ms": 157263,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/61JLcgwqCPklv7QOsmqrvR"
@@ -8900,6 +8966,28 @@
       "duration_ms": 161379,
       "name": "Sigilo",
       "url": "https://open.spotify.com/track/4RTBTH9zhe0n8LGCh2Z0Cj"
+    },
+    {
+      "album": {
+        "name": "Sinais",
+        "url": "https://open.spotify.com/album/5o2YimIGycrQwGN2qRDIEx"
+      },
+      "artists": [
+        {
+          "name": "Dzalles",
+          "url": "https://open.spotify.com/artist/1g6LF0uXFYCwtHPCx1qzTm"
+        },
+        {
+          "name": "PVT NIICK",
+          "url": "https://open.spotify.com/artist/089HT91OtLr9ZMhtbMhiXM"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "Sinais (feat. PVT NIICK)",
+      "url": "https://open.spotify.com/track/4SJiun1VArsIwaQyGVr6I8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: TIMØ
 
-133 songs - 7 hr 9 min
+135 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Besos En Guerra](https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:51 | 2023-02-17 |  |
 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 | 2023-02-17 |  |
 | [Casa En El Aire](https://open.spotify.com/track/1j0a4dRwOwFMKul897zhE2) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [Casa En El Aire](https://open.spotify.com/album/7xh37rpO1dVzU9XAJUEGqX) | 3:01 | 2023-02-17 |  |
+| [Casi](https://open.spotify.com/track/4MJS2cxqpRbwn9G88X3w0j) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Casi](https://open.spotify.com/album/0f5a0neVTzB1SxXr21FCl0) | 3:10 | 2023-08-11 |  |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-09 |  |
 | [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 | 2023-02-17 |  |
 | [Culpables](https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Culpables](https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA) | 3:53 | 2023-02-17 | 2023-07-01 |
@@ -57,6 +58,7 @@
 | [La Correcta](https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Correcta](https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD) | 3:39 | 2023-02-17 |  |
 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 | 2023-02-17 |  |
 | [La Estrategia](https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/06ndmW1TODpGRPdGE7At37) | 3:39 | 2023-02-17 |  |
+| [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-08-11 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-17 | 2023-05-20 |
 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 | 2023-02-17 |  |
 | [La Vida Sin Ti](https://open.spotify.com/track/1RvL7eHoeUolnQbWm2Hnba) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:14 | 2023-02-17 |  |
@@ -112,10 +114,10 @@
 | [Si Todo Se Acaba](https://open.spotify.com/track/0nlajzlXJu0xOV1mJn82KW) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Si Todo Se Acaba](https://open.spotify.com/album/1vpkYpvq615ckRbbbWAPk0) | 3:55 | 2023-02-17 |  |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2023-02-17 |  |
 | [Simples Corazones \(feat\. Melendi\)](https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 4:03 | 2023-02-17 |  |
-| [Sin Decir Adiós](https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Sin Decir Adiós](https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS) | 2:46 | 2023-06-09 |  |
+| [Sin Decir Adiós](https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Sin Decir Adiós](https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS) | 2:46 | 2023-06-09 | 2023-08-12 |
 | [Sirena](https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Sirena](https://open.spotify.com/album/66gJE320Be12GcqN7BKFk0) | 3:25 | 2023-02-17 |  |
 | [Solo Fue un Sueño](https://open.spotify.com/track/3PZ2fwbFnoOH34CpjypLyL) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX), [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Solo Fue un Sueño](https://open.spotify.com/album/6o32Vp2hpfTi2aJAfZAlKj) | 3:21 | 2023-02-17 | 2023-03-10 |
-| [Soltar](https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB), [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ) | [Soltar](https://open.spotify.com/album/6cjPFGtVkGI1KwJM2AQc3C) | 3:15 | 2023-06-30 |  |
+| [Soltar](https://open.spotify.com/track/5iKm6jYs4eJIQROWw69Faf) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB), [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ) | [Soltar](https://open.spotify.com/album/6cjPFGtVkGI1KwJM2AQc3C) | 3:15 | 2023-06-30 | 2023-08-12 |
 | [Tabaco y Chanel \- Re\-Recorded](https://open.spotify.com/track/4HDgFMEOyaqsashrPpeAu2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Tabaco y Chanel \(Re\-Recorded\)](https://open.spotify.com/album/5icBj9TnIae7ihDILXJfW9) | 5:15 | 2023-02-17 |  |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2023-02-17 |  |
 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 | 2023-02-17 |  |

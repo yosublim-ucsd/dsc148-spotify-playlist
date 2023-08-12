@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 365021,
+  "num_followers": 365198,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNkOTc1NjE1YWJkOTY1YzIwMDQ5MDljOTc1MmQ2YWIxODA3MTY3",
+  "snapshot_id": "MCwzYTFmMTI1NTc3ZjdkNmMyYWYxZmVjYmRkZmM0NTYyNjQzY2E3ZGQ4",
   "tracks": [
     {
       "added_at": "2023-08-08 08:29:50",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "A tale to tell",
         "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 130132,
       "name": "A tale to tell",
       "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Stille Sj\u00f8",
+        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "duration_ms": 151829,
+      "name": "Stille Sj\u00f8",
+      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Peggy's Cove",
         "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Stille Sj\u00f8",
-        "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Stille Sj\u00f8",
-      "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 148874,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Your Happiness",
-        "url": "https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "Your Happiness",
-      "url": "https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "When It\u00b4s Love",
         "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Your Happiness",
+        "url": "https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "Your Happiness",
+      "url": "https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 159000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 148874,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
-      },
-      "artists": [
-        {
-          "name": "Ivan Malik",
-          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
-        }
-      ],
-      "duration_ms": 180874,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Les Soir",
         "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
       "artists": [
         {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
         }
       ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Liminal ride",
         "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Moondust",
-        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
-      },
-      "artists": [
-        {
-          "name": "Nina Fiadh",
-          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
-        }
-      ],
-      "duration_ms": 115565,
-      "name": "Moondust",
-      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Whatever Will Be",
         "url": "https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 112802,
       "name": "Whatever Will Be",
       "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Moondust",
+        "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
+      },
+      "artists": [
+        {
+          "name": "Nina Fiadh",
+          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
+        }
+      ],
+      "duration_ms": 115565,
+      "name": "Moondust",
+      "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Entangled (Ole-Bj\u00f8rn Talstad Rework)",
         "url": "https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 133487,
       "name": "Entangled - Ole-Bj\u00f8rn Talstad Rework",
       "url": "https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "M\u00e1 sestra",
-        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
-      },
-      "artists": [
-        {
-          "name": "Jani Lechleiter",
-          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
-        }
-      ],
-      "duration_ms": 125055,
-      "name": "M\u00e1 sestra",
-      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172399,
       "name": "Candles",
       "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "M\u00e1 sestra",
+        "url": "https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe"
+      },
+      "artists": [
+        {
+          "name": "Jani Lechleiter",
+          "url": "https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU"
+        }
+      ],
+      "duration_ms": 125055,
+      "name": "M\u00e1 sestra",
+      "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Ash of memory",
+        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+        }
+      ],
+      "duration_ms": 115985,
+      "name": "Ash of memory",
+      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Spring Thaw",
         "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Ash of memory",
-        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Preber",
-          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
-        }
-      ],
-      "duration_ms": 115985,
-      "name": "Ash of memory",
-      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
       },
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "La grande Nue",
+        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "La grande Nue",
+      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "If You Should Go",
         "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "La grande Nue",
-        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 184235,
-      "name": "La grande Nue",
-      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "For the Love of You",
-        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+        "name": "Twilights",
+        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
       },
       "artists": [
         {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
         }
       ],
-      "duration_ms": 107730,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+      "duration_ms": 137647,
+      "name": "Twilights",
+      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Matterello",
         "url": "https://open.spotify.com/album/4j3SmMhdfe5CqfCqsOeJkl"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 170122,
       "name": "Matterello",
       "url": "https://open.spotify.com/track/1fBfm3eA3qgQvJlT4VPwjC"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Twilights",
-        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
-      },
-      "artists": [
-        {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Twilights",
-      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1507,50 +1491,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
       },
       "artists": [
         {
-          "name": "Nate LaFleur",
-          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
         }
       ],
-      "duration_ms": 154874,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Passages",
-        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
-      },
-      "artists": [
-        {
-          "name": "Noomi Meerbach",
-          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
-        }
-      ],
-      "duration_ms": 159439,
-      "name": "Days Passing By",
-      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1571,6 +1523,38 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+      },
+      "artists": [
+        {
+          "name": "Nate LaFleur",
+          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+        }
+      ],
+      "duration_ms": 154874,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
+      },
+      "artists": [
+        {
+          "name": "Noomi Meerbach",
+          "url": "https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh"
+        }
+      ],
+      "duration_ms": 159439,
+      "name": "Days Passing By",
+      "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
     },
     {
       "added_at": "2023-08-08 08:29:50",

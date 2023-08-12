@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Go Getta",
+        "url": "https://open.spotify.com/album/3SWkyJ4qVYj0VzVV6VhGbd"
+      },
+      "artists": [
+        {
+          "name": "LooneyCK",
+          "url": "https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160417,
+      "name": "Go Getta",
+      "url": "https://open.spotify.com/track/14XOgXJMI89O2I6KCTh089"
+    },
+    {
+      "album": {
         "name": "Go Gettaz",
         "url": "https://open.spotify.com/album/28TaD1I7rQBkBKxKWGNQJK"
       },

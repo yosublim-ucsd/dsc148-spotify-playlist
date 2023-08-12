@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Santti
 
-76 songs - 4 hr 13 min
+78 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Repeat](https://open.spotify.com/track/5IMqtBkrBojIW74dlWuSHW) | [R I V I E R A](https://open.spotify.com/artist/5I90qYDTQGW8PouvhwSvCm), [Dainez](https://open.spotify.com/artist/1cXvUXxzPbmFIBq7y9ZudT) | [Repeat](https://open.spotify.com/album/1pLgKrGlAuCuuGC8lHsiQF) | 2:48 | 2023-07-21 |  |
 | [Resistance](https://open.spotify.com/track/76TAjkJMvZIjpxWlbRN8sE) | [SNYL](https://open.spotify.com/artist/3HgxWk2K2rP0tL9RHYl7EY), [Touchtalk](https://open.spotify.com/artist/7h3WYtTqpcXSkGcrKC4kAZ), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Resistance](https://open.spotify.com/album/0uMb6TzyUqyBeVXGWzxaeX) | 7:26 | 2023-07-21 |  |
 | [REVENGE](https://open.spotify.com/track/1A33gWRHaeE6MyzQil5Un9) | [Vincce](https://open.spotify.com/artist/56R8A5Xu0PRqsPRpUj81Jp) | [REVENGE](https://open.spotify.com/album/7AsQLij8HQMqW2dvFb9Bbp) | 2:30 | 2023-07-21 | 2023-08-05 |
+| [Right Here](https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Right Here](https://open.spotify.com/album/5Zlbsn63qOeWzxsWGBcKvu) | 2:39 | 2023-08-11 |  |
 | [Sacrifice](https://open.spotify.com/track/5yDjrOfCUPzCrPWUFB1QST) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Sacrifice](https://open.spotify.com/album/6hr9MiOKUoFxcXXeyG7JCS) | 2:58 | 2023-07-21 |  |
 | [San Andreas](https://open.spotify.com/track/4aogNwcaLdqWPxnXc420oU) | [The Contraband](https://open.spotify.com/artist/0DMtZYoJGC80SJeB6uJXCk), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [San Andreas](https://open.spotify.com/album/3QSrPYxT5qQokiOsURRfjd) | 4:13 | 2023-07-21 |  |
 | [Sax Honest](https://open.spotify.com/track/3jIG0AquVw4B6yYpzBsQ3C) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [Di Paulo](https://open.spotify.com/artist/3mV32t6fsjAGWdzSOjHzW8) | [Sax Honest](https://open.spotify.com/album/2HccPq97AWbHJkKo7vEZ1r) | 2:46 | 2023-07-21 |  |
@@ -72,6 +73,7 @@
 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 |  |
+| [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 |  |
 | [The Vibe On My Body](https://open.spotify.com/track/0NYBlJUxRnCp6rlwG4E5F0) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/2yKnkHBnvbe94sGDNh9Jmv) | 2:19 | 2023-07-28 |  |
