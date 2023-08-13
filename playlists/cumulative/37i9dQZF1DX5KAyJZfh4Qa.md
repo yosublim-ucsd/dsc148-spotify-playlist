@@ -4,7 +4,7 @@
 
 > it's just one of those days with Home Is Where.
 
-127 songs - 7 hr 0 min
+128 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 | 2023-05-01 |  |
 | [Curly Q](https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Prince Daddy & The Hyena](https://open.spotify.com/album/4Os6Tb2ris9W7QgWSHEUye) | 4:17 | 2022-11-25 |  |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 |  |
-| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-08 |  |
+| [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 | 2023-08-08 |  |
+| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-08 | 2023-08-13 |
 | [Day Drunk](https://open.spotify.com/track/0ajpmHagIPCaaYP11S2Hk5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Day Drunk](https://open.spotify.com/album/02g2OE0ocT6kbLj9p6jXMX) | 2:39 | 2022-11-25 |  |
 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 | 2022-12-09 |  |
 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 | 2023-02-11 |  |

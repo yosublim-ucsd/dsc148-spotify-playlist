@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,227 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,327 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 49 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 |
 | 50 | [Calling](https://open.spotify.com/track/5NrecJDB0DefSkXKERjTFF) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Calling EP](https://open.spotify.com/album/0dDkU7N5EdbL9cernFdnKi) | 4:07 |
 | 51 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
-| 52 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
-| 53 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
+| 52 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 |
+| 53 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 54 | [The Old You](https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [The Old You](https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh) | 3:15 |
 | 55 | [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 |
 | 56 | [Colibrí](https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Colibrí](https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 | 60 | [Lungs](https://open.spotify.com/track/7ooSRbTulJUUtatq4pl80X) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Lungs](https://open.spotify.com/album/5zgVbEqb773OX6liiiZ7Ap) | 6:43 |
 
-Snapshot ID: `MCxmMGNjMjFiN2VjMTgwYjM1ZjkxNjk5NmU3MzcyZmE3MDlkOGM4MWZi`
+Snapshot ID: `MCxmODY3YjE1ZTE0MGQzYjFiNmQ4YTJjYTRmNTkyNDkwMDdhMGZhYTg2`

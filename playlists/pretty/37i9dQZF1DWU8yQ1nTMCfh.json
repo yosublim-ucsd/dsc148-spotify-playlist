@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
-  "num_followers": 282218,
+  "num_followers": 282249,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWNkODk3MWUyYTU4NmJiODZlODNiZDFlZWIxMGU4ZWYwZmU4ZDI1",
+  "snapshot_id": "MCw3MzljMDhkM2RkYzZmOGQ1YTQ2NzdlNTk2NzUxNTY0NWY3N2QyMmJj",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "RAMONA FLOWERS",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "RAMONA FLOWERS",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/1LOIcSJvLUkmJlqvxdzVC3"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "RAMONA FLOWERS",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 177348,
       "name": "Dos",
       "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fallaste",
-        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 156698,
-      "name": "Fallaste",
-      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
+      "duration_ms": 247375,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+        "name": "Fallaste",
+        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
         }
       ],
-      "duration_ms": 247375,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R"
+      "duration_ms": 156698,
+      "name": "Fallaste",
+      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
         }
       ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
     },
     {
       "added_at": "2023-08-04 04:00:00",

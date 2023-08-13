@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock\-Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,464 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,509 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [King Size Papa](https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It \(Deluxe Edition\)](https://open.spotify.com/album/544v2wHRMwPAc7frjbukKf) | 3:52 |
 | 50 | [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 |
 
-Snapshot ID: `MCw5ZWY0MTA5Mjg3YWY2YmM2NjQzYmIzMzdmYmEwZjdmY2Y3NDY3MjM0`
+Snapshot ID: `MCw4ZjM0NGE5ZTIwMGE0ZjM4NDM2NjFmNmFmNDc4YzZmZjVjNWEzM2Jh`

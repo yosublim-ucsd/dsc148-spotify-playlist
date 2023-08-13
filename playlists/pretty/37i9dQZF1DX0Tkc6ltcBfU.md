@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,010 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,221 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 50 | [Kreepin \(feat\. Denzel Curry\)](https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Safe House](https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm) | 2:40 |
 
-Snapshot ID: `MCxlOGE1MjY5NzRlMDFlZjRiNzU3MjE3NTkwZDJlMDk1NjhkMmE3NjVj`
+Snapshot ID: `MCw4MmNiZmVmMjQ3ZjI3NTQzYjEwZDg1NDY4OTcxMWFjNGI5YjU1NWFi`

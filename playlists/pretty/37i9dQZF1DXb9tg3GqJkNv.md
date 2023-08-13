@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Baka Not Nice
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,635 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,657 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 44 | [Late Nights](https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:48 |
 | 45 | [Netflix & Chill \(feat\. Fenix Flexin\)](https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Rastar](https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag) | 2:53 |
 | 46 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 |
-| 47 | [Backseat](https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [HOU I AM](https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x) | 3:48 |
-| 48 | [All Aces](https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg) | 3:21 |
+| 47 | [All Aces](https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg) | 3:21 |
+| 48 | [Backseat](https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [HOU I AM](https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x) | 3:48 |
 | 49 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 | 50 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 |
 | 51 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 | 75 | [BURN EVERYTHING](https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Ye](https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt) | [BURN EVERYTHING](https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow) | 2:49 |
 
-Snapshot ID: `MCw0MzhjZjZiOTIxMTNlNzRhNGRhYmYyYzE0NWJjYjhiMGU1ODZkODUw`
+Snapshot ID: `MCw5M2U4ZGVlMDk4ZGFhY2VjYmNjNTYyYjVjMDQ1NDNhZGIxNTUwYjE2`

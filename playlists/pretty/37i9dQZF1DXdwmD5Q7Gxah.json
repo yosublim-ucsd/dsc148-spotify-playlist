@@ -1,12 +1,12 @@
 {
   "description": "Lorem \ud83e\udd1d Bleached festival. Omar Apollo is on the cover. ",
-  "num_followers": 1101916,
+  "num_followers": 1101998,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2U3MmQ3ZjAxNTc3ZGNkZDlkZThlZTdkOWRhYTkwM2YzZmJlZThk",
+  "snapshot_id": "MCxlZDI5YzJhZjkzOTEyOTJhNGRlMTVmYjY0ODg5OWQwN2ViMzE4ZGQy",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 199760,
       "name": "time waits",
       "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "ghosts",
-        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 220776,
-      "name": "ghosts",
-      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -77,20 +61,20 @@
       "url": "https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-05-25 00:06:09",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 226660,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo"
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -107,38 +91,6 @@
       "duration_ms": 80333,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/3sJEg2QHnRA71tdYvZ9QIS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "All of This Will End",
-        "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 131208,
-      "name": "Time Back",
-      "url": "https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV"
-    },
-    {
-      "added_at": "2023-08-08 18:48:35",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 127272,
-      "name": "Ugotme",
-      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -175,6 +127,118 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 226660,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "All of This Will End",
+        "url": "https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 131208,
+      "name": "Time Back",
+      "url": "https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV"
+    },
+    {
+      "added_at": "2023-08-08 18:48:35",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "Ugotme",
+      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
+    },
+    {
+      "added_at": "2023-07-31 15:58:06",
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
+    },
+    {
+      "added_at": "2023-08-11 17:33:01",
+      "album": {
+        "name": "Quiet Music For Young People",
+        "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "duration_ms": 165620,
+      "name": "When We Met",
+      "url": "https://open.spotify.com/track/5FEqBgIdceDWsbt0LJipMT"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Since August",
+        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 175190,
+      "name": "Since August",
+      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "the world is big, get over it",
         "url": "https://open.spotify.com/album/0OmGufWKh3Mvwtn33Z0j9P"
       },
@@ -207,38 +271,6 @@
       "duration_ms": 199518,
       "name": "Achieve",
       "url": "https://open.spotify.com/track/6nxHUthuBDeaojNDs9GFA3"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Since August",
-        "url": "https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 175190,
-      "name": "Since August",
-      "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-08-11 17:33:01",
-      "album": {
-        "name": "Quiet Music For Young People",
-        "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
-      },
-      "artists": [
-        {
-          "name": "Dana and Alden",
-          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
-        }
-      ],
-      "duration_ms": 165620,
-      "name": "When We Met",
-      "url": "https://open.spotify.com/track/5FEqBgIdceDWsbt0LJipMT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -305,6 +337,22 @@
       "url": "https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI"
     },
     {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "american spirit",
+        "url": "https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "american spirit",
+      "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
+    },
+    {
       "added_at": "2022-08-04 04:00:00",
       "album": {
         "name": "Live at Electric Lady",
@@ -321,20 +369,20 @@
       "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
     },
     {
-      "added_at": "2023-07-31 15:58:06",
+      "added_at": "2023-07-25 17:52:53",
       "album": {
-        "name": "The Loveliest Time",
-        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 256528,
-      "name": "Kollage",
-      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -351,22 +399,6 @@
       "duration_ms": 200869,
       "name": "Midnight Freak-Out",
       "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "american spirit",
-        "url": "https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "american spirit",
-      "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -479,22 +511,6 @@
       "duration_ms": 68732,
       "name": "Misery Moon",
       "url": "https://open.spotify.com/track/5EwRVuWJpNNMYM4UkT561o"
-    },
-    {
-      "added_at": "2023-07-25 17:52:53",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2023-06-28 19:30:20",
@@ -671,22 +687,6 @@
       "duration_ms": 199384,
       "name": "Baby from Atlanta",
       "url": "https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A"
-    },
-    {
-      "added_at": "2023-05-25 00:06:09",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1880,8 +1880,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",

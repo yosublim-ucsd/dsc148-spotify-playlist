@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Caloncho",
-  "num_followers": 14446,
+  "num_followers": 14473,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTZmOWQzOTJmZWVjMjJhYTAxNTRmMWJmMTcwNDZhNTEyYWY0M2Q1",
+  "snapshot_id": "MCwxOTc5ZWY4NmJmMjJlMDY5NTJlNWUxNTI0ZjNmYThlYTY3OGMxZGJk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "El Faro",
-        "url": "https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p"
+        "name": "Me Empiezo a Enamorar",
+        "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 188000,
-      "name": "El Faro",
-      "url": "https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od"
+      "duration_ms": 202090,
+      "name": "Me Empiezo a Enamorar",
+      "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
     }
   ],
   "unique_name": "Latin Folk",

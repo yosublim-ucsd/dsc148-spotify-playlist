@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 734191,
+  "num_followers": 734365,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODZiMWFmNWFlYTI0Yzg2Y2UxZmQ5ODkxNzk2NDNkMzViZTUyYWE5",
+  "snapshot_id": "MCxkNTViMjZkNzFkZTJiYTE1MWRhNGEwOWE5MzJjZjdiOGUxMDUzZDM3",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 269760,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 208080,
       "name": "To Be With You - 2021 Remastered",
       "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 232234,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr"
+      "duration_ms": 228506,
+      "name": "The Man Who Can't Be Moved - Acoustic",
+      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 228506,
-      "name": "The Man Who Can't Be Moved - Acoustic",
-      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
+      "duration_ms": 232234,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 284496,
       "name": "Is This Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2022-08-26 12:00:00",

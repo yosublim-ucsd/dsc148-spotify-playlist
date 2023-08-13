@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,740 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,915 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Maaye Maaye](https://open.spotify.com/track/5SNRhelbiJfu3aKYho9i4V) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Nenu Student Sir](https://open.spotify.com/album/0jEEf15OT7CRttOqDkt2MD) | 3:38 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCxmYjRhZGUwMmI3NDVjODAyN2NmOTEyYzFiNWJhZTBjMGE3NDNkMDVk`
+Snapshot ID: `MCw4ZWU1ODE4MTExMTY0MzFlMTcyNDZkMTg4ZjVhNDI5ZGExYjM2NGYy`

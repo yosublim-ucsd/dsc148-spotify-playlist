@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 438703,
+  "num_followers": 439016,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTE4ZWJmNWIyNmFhZDQ0ZjQ4ZDNjYmJiY2ZkYTFkMTQ3MWM1YTk5",
+  "snapshot_id": "MCw1ZWVmNjg5NmMxOGFmODJlNDIyMTQzZmU5MDY4OTkxZWI5MTAwZGU0",
   "tracks": [
     {
       "added_at": "2023-08-09 03:58:49",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-08-09 03:58:49",
       "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2023-08-09 03:58:49",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-09 03:58:49",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-08-09 03:58:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-09 03:58:49",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Dia Milikku",
-      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
-    },
-    {
-      "added_at": "2023-08-09 03:58:49",
-      "album": {
         "name": "Film Favorit",
         "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 223500,
       "name": "Film Favorit",
       "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
+    },
+    {
+      "added_at": "2023-08-09 03:58:49",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Dia Milikku",
+      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
     },
     {
       "added_at": "2023-08-09 03:58:49",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-09 03:58:49",
       "album": {
-        "name": "Kedua",
-        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
-      },
-      "artists": [
-        {
-          "name": "Virzha",
-          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
-        }
-      ],
-      "duration_ms": 241631,
-      "name": "Tentang Rindu",
-      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
-    },
-    {
-      "added_at": "2023-08-09 03:58:49",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-08-09 03:58:49",
+      "album": {
+        "name": "Kedua",
+        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
+      },
+      "artists": [
+        {
+          "name": "Virzha",
+          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
+        }
+      ],
+      "duration_ms": 241631,
+      "name": "Tentang Rindu",
+      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
     },
     {
       "added_at": "2023-08-09 03:58:49",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-08-09 03:58:49",
       "album": {
+        "name": "Penantian Berharga",
+        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "Penantian Berharga",
+      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
+    },
+    {
+      "added_at": "2023-08-09 03:58:49",
+      "album": {
         "name": "Keabadian",
         "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 247666,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2023-08-09 03:58:49",
-      "album": {
-        "name": "Cukup Tau",
-        "url": "https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 205620,
-      "name": "Cukup Tau",
-      "url": "https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L"
     }
   ],
   "unique_name": "Santai Sejenak",

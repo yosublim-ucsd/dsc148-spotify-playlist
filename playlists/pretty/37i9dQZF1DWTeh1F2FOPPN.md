@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,793 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,894 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 33 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
 | 34 | [Get MuNNY](https://open.spotify.com/track/0ZKCq8E5QS4lRjEtFvZqZX) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 5:25 |
 | 35 | [Jerrod](https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:02 |
-| 36 | [Cross My Mind](https://open.spotify.com/track/58wz6SXvLA7JjKtX5Ydq06) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:44 |
-| 37 | [Just Like Water \- Live](https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 6:09 |
+| 36 | [Just Like Water \- Live](https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 6:09 |
+| 37 | [Cross My Mind](https://open.spotify.com/track/58wz6SXvLA7JjKtX5Ydq06) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 4:44 |
 | 38 | [\(At Your Best\) You Are Love](https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 5:23 |
 | 39 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 | 40 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [Know](https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:34 |
 | 50 | [My Imagination](https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 4:52 |
 
-Snapshot ID: `MCxiNjQ5N2MyODNjN2YyNTA1MTkzNmQ4MDFiNDg4MjRiOTI3MzkyOTFk`
+Snapshot ID: `MCw4Njc4YTM0MzNmOGQ0YmYyNDdmZjM0MGY0ODVlMWU5MmFiZTg0Y2U1`

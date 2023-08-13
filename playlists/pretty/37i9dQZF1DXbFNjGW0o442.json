@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Barbi Recanati",
-  "num_followers": 36301,
+  "num_followers": 36307,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDlkZmE0ZTRhOGNiODIyYThiODZlZmEwZjY0Nzk1YmI1MDZjNTUy",
+  "snapshot_id": "MCwyZjk1ZGQwYjEyZDVkZGM4YzkwNGU2ZDI5OWFjZmE1Mzk4ZmUxNWM0",
   "tracks": [
     {
       "added_at": "2023-08-03 18:54:36",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 193000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Tuya",
-      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "added_at": "2023-08-03 18:54:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
-      },
-      "artists": [
-        {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
-        }
-      ],
-      "duration_ms": 291280,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
         "name": "Tigre Ulli",
         "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 127600,
       "name": "Postales Blancas",
       "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "duration_ms": 291280,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
     },
     {
       "added_at": "2023-08-03 18:54:36",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 145086,
-      "name": "Ghost in the Machine",
-      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
         "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
         "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 192811,
       "name": "H\u00e9roes An\u00f3nimos",
       "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 145086,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
     },
     {
       "added_at": "2023-08-03 18:54:36",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "All\u00e1 en la Tierra",
-        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
-      },
-      "artists": [
-        {
-          "name": "Sr Tomate",
-          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Dibujo un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
+        "name": "All\u00e1 en la Tierra",
+        "url": "https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn"
+      },
+      "artists": [
+        {
+          "name": "Sr Tomate",
+          "url": "https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Dibujo un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII"
     },
     {
       "added_at": "2023-08-03 18:54:36",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
         "name": "Todo Se Est\u00e1 Cayendo",
         "url": "https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 255200,
       "name": "Todo Se Est\u00e1 Cayendo",
       "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     },
     {
       "added_at": "2023-08-03 18:54:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "\u00c9xodo Mental",
-        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 196951,
-      "name": "\u00c9xodo Mental",
-      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
-    },
-    {
-      "added_at": "2023-08-03 18:54:36",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2023-08-03 18:54:36",
       "album": {
-        "name": "Acorralar a la Bestia",
-        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
+        "name": "\u00c9xodo Mental",
+        "url": "https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO"
       },
       "artists": [
         {
-          "name": "Actitud Mar\u00eda Marta",
-          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 331676,
-      "name": "Confusion",
-      "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
+    },
+    {
+      "added_at": "2023-08-03 18:54:36",
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv"
+      },
+      "artists": [
+        {
+          "name": "Sugar Tampaxxx",
+          "url": "https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j"
     }
   ],
   "unique_name": "Rockeras",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Sheemar
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,150 likes - 59 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,162 likes - 59 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 58 | [Better](https://open.spotify.com/track/2iGmikdkLtcL13MYLtq8ls) | [Nathania Wibowo](https://open.spotify.com/artist/28wnVNqW7GlkuyrKadCRzA) | [Better](https://open.spotify.com/album/5kIaAJkIDou06oIcHC6pIJ) | 4:42 |
 | 59 | [Sweet Fantasy](https://open.spotify.com/track/1Ws3csaefM66UV6Utk0kMH) | [Axel Farden](https://open.spotify.com/artist/3zHN9rvZ75jIZyXircCo2e), [Tru The Artist](https://open.spotify.com/artist/5Rg7rcXHSNbzNuzZVg8DHH) | [Sweet Fantasy](https://open.spotify.com/album/4VPzLZgib7gjqNo5ultEoi) | 4:10 |
 
-Snapshot ID: `MCxiMzI0OTA4OTU4YzRhZmZkNTJjYTgxYTRlZDQ5MmE1YWUwNzRmMDdm`
+Snapshot ID: `MCw2ODNkNjcwNDUzMDY5NTIxOWYxMmQzZTI3M2Q4NzIzM2QyMjY1Yzk0`

@@ -1,20 +1,24 @@
 {
   "description": "Bollywood hits, repackaged. Cover - Sooryavanshi",
-  "num_followers": 164012,
+  "num_followers": 164165,
   "original_name": "Bollywood 2.O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGEyNmQ5MzgxMmE2OGI4ZmNjMzU0NDE1ZDhiN2U0MmZlYjc3ZWQy",
+  "snapshot_id": "MCwxNGM4ZDYwMzAxMDFkNDYxODVjNzFkZWZjYzA3NTVjMzhhOTM0YjZh",
   "tracks": [
     {
       "added_at": "2023-07-31 07:36:54",
       "album": {
-        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
       "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
@@ -28,13 +32,17 @@
           "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
         },
         {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 213611,
-      "name": "What Jhumka ?",
-      "url": "https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb"
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
     },
     {
       "added_at": "2023-07-31 07:36:54",

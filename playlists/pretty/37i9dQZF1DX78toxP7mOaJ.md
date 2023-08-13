@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,757 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,783 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 19 | [Monsters](https://open.spotify.com/track/12sh7voB9W5VSfLQOJ25rO) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Monsters](https://open.spotify.com/album/2lt23Jml3vjyvnmprbMHYo) | 3:06 |
 | 20 | [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 |
 | 21 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 22 | [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 |
+| 22 | [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 |
 | 23 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 |
 | 24 | [Sandcastle](https://open.spotify.com/track/4hmTzkEtFi3ZH58lKJeW1G) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Sandcastle](https://open.spotify.com/album/2PPyaxI6VYNSGJZM8XaVlT) | 2:50 |
 | 25 | [Get Away](https://open.spotify.com/track/3xC0k93l0LjPtpudQVGJjM) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Get Away](https://open.spotify.com/album/2pvYMPRxgFJd9Zofm1SZTv) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 |
 | 100 | [Hometown](https://open.spotify.com/track/6ZSL0bZxgGLsygQLQptyH3) | [Babytooth](https://open.spotify.com/artist/1qOs0GjofPiGwLs3hOFR4M) | [Hometown](https://open.spotify.com/album/4V7eZToUT2CCrwxHlwzizF) | 2:37 |
 
-Snapshot ID: `MCwyM2I3MzM5NjYxZTI4YzVlZTU5YzU1NDVjYWI2MTc4ZWE4NDg2M2Mx`
+Snapshot ID: `MCw4MTk3YWIzN2M5MGU5MTRjMDZkNTk0YTc0NTIzOWUxMWFlOTE4MjRj`

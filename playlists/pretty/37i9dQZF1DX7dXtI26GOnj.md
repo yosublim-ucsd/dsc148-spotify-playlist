@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,342 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,597 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 69 | [Sola](https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:50 |
 | 70 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
 
-Snapshot ID: `MCxjNTY1ZjI4ZTQ2N2VmMTVlZDlmZDQxYzcxMTRlNTAzNDMyNGU1Mjdl`
+Snapshot ID: `MCw1NzU5YTM3MDg5Yjk2MGU1NzA3MzIyZjA1ZGI4YzRlMzFjOTdkNzYx`

@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
+    },
+    {
+      "album": {
         "name": "A Drug From God",
         "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 259047,
       "name": "Breathe (feat. No/Me)",
       "url": "https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO"
@@ -5176,6 +5194,24 @@
       "duration_ms": 215952,
       "name": "Do We Go",
       "url": "https://open.spotify.com/track/3K6zIVZWAI66YhNRzjfWbb"
+    },
+    {
+      "album": {
+        "name": "Do You Feel It",
+        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186625,
+      "name": "Do You Feel It",
+      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
     },
     {
       "album": {
@@ -11948,7 +11984,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 228661,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/59SiZ1Bz65rRdCuHdgzsd7"
@@ -13680,7 +13716,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 218373,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3w0YAWJFozZh2kDFeACktC"
@@ -16420,6 +16456,28 @@
       "duration_ms": 160476,
       "name": "Paralyzed By Your Eyes",
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
+    },
+    {
+      "album": {
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
     },
     {
       "album": {

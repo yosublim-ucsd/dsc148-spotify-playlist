@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 444061,
+  "num_followers": 444560,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDRjYWExZTQ1NGVhMjYxNTVkZGY3MzUwYmJmZDVjMjY5NjU5M2Q2",
+  "snapshot_id": "MCwxYTVkNDI1MDhhYjk5ZDE0ZTIxYzAwYjAwNmNhNDQyM2YyZGU2ZTk5",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        },
-        {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
-        }
-      ],
-      "duration_ms": 141453,
-      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
       },
@@ -1003,24 +983,28 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Me Acord\u00e9 de Ti",
-        "url": "https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi"
+        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        },
+        {
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Me Acord\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4"
+      "duration_ms": 141453,
+      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
     },
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Si Esta Casa Hablara",
-        "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
+        "name": "Se Fue Viral",
+        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
       "artists": [
         {
@@ -1028,17 +1012,13 @@
           "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "Pablito HC",
-          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 200575,
-      "name": "Si Esta Casa Hablara",
-      "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
+      "duration_ms": 180213,
+      "name": "Se Fue Viral",
+      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1107,6 +1087,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Me Acord\u00e9 de Ti",
+        "url": "https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Me Acord\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1127,6 +1123,30 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Si Esta Casa Hablara",
+        "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 200575,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -1139,6 +1159,22 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1159,42 +1195,6 @@
       "duration_ms": 139163,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Se Fue Viral",
-        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Se Fue Viral",
-      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "200 Copas",
         "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 237738,
       "name": "200 Copas",
       "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Messirve Mix 3",
-        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 447529,
-      "name": "Messirve Mix 3",
-      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+        "name": "Messirve Mix 3",
+        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+      "duration_ms": 447529,
+      "name": "Messirve Mix 3",
+      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2023-08-11 03:00:00",

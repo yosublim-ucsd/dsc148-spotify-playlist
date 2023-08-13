@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 ### [RIPPLE EFFECT](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95?si=Sbyfk88GRe2RY8KJQvv8mQ">BAMBII</a>
+> New music breaking waves\.  Cover:  Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=cnTeOGk9SCqokA3WxMAKow">Jastin Martin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,170 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,187 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 14 | [Fast Route](https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Fast Route](https://open.spotify.com/album/2pBXTzlMiG0H7o4koiswWy) | 2:59 |
 | 15 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
 | 16 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 |
-| 17 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 17 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 18 | [ACT](https://open.spotify.com/track/53digzlDS79znypcRuFXBo) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy) | [L O W B L O W](https://open.spotify.com/album/6HxhnZSjU62P9B0OzZXh1v) | 2:27 |
 | 19 | [Clickbait \(FlauMixx\)](https://open.spotify.com/track/3jTEDbYsZPI5ZXuuI4sai8) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [4 My Fans](https://open.spotify.com/album/5HCupVwP2tEJ4NTEarUl8c) | 2:06 |
 | 20 | [Better Off](https://open.spotify.com/track/3TL3UrGWuIS8e8FXhO7qK6) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET \(Deluxe\)](https://open.spotify.com/album/5tEScQJvMZmUIqMt3DHISF) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Big Motion Ft Money Man](https://open.spotify.com/track/0m6KwKbig8S2kE7pYLSqXc) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Snake Me](https://open.spotify.com/album/2311S2LhvI7TfK6SqdvkWf) | 2:50 |
 | 100 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 |
 
-Snapshot ID: `MCxiYzg3ZjE2MzgxZGY1OGY2MzA4ZjkyZDdkMTgwZGJjYmYwYjk1MDg4`
+Snapshot ID: `MCxhMWRiMjhjMzc0YmE3MDdhMjgyNjVmYzY5MWFlZTE5NTc4ZWFmMzZk`

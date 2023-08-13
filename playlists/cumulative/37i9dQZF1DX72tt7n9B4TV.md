@@ -4,11 +4,11 @@
 
 > Hot noise for those summer days.
 
-212 songs - 11 hr 39 min
+213 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-05-25 |  |
+| [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-05-25 |  |
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2022-04-01 | 2022-11-13 |
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-04-01 | 2023-08-03 |
 | [98.](https://open.spotify.com/track/06R6ozRwIKqXSRTPCF5QOB) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [98.](https://open.spotify.com/album/6Cuk7bUyJRsqmr7RLb5iXg) | 2:59 | 2022-04-01 | 2022-07-28 |
@@ -51,7 +51,7 @@
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-03-17 | 2023-06-03 |
 | [Darkside](https://open.spotify.com/track/6IxHk0uFSBTwTiNDsWfqIv) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Industry Plant](https://open.spotify.com/album/5UuzudgFxwLkxC1LFajC5e) | 2:34 | 2022-04-01 | 2023-05-12 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-25 | 2023-07-29 |
-| [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2022-04-01 |  |
+| [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2022-04-01 | 2023-08-13 |
 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 | 2022-04-01 |  |
 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-28 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-17 |  |
@@ -96,6 +96,7 @@
 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 | 2023-05-25 |  |
 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 | 2022-04-01 |  |
 | [I Need Some of That](https://open.spotify.com/track/2bVC92dVDTRzlQGcz4RtOp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Need Some of That](https://open.spotify.com/album/758At0nYWEPPSkWiGOlEwj) | 3:19 | 2022-04-01 | 2022-07-29 |
+| [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-28 |  |
 | [I Wanna Know](https://open.spotify.com/track/2u42f2gV0OxY7zWYhow1Zu) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [I'd Rather Die Than Let You In](https://open.spotify.com/album/6u34jktTRXSNEWTJgqU8L9) | 3:37 | 2022-04-01 | 2022-07-29 |
 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 | 2022-04-01 | 2023-03-18 |
 | [I Want to Believe](https://open.spotify.com/track/65GhsC6Dg96hLgXUr615li) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [I Want to Believe](https://open.spotify.com/album/4L6Gyyq0l1C2CozZIDejbJ) | 2:39 | 2022-04-01 | 2022-07-29 |

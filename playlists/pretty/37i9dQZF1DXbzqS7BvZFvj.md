@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,340 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,351 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 78 | [Theme of +81 Connect Mix](https://open.spotify.com/track/3fgywJ88l0n6O4ExCP12pk) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Theme of +81 Connect EP](https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf) | 7:31 |
 | 79 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCwwYThmY2FiNWJjOGIzMDBhNGJhOTYyOTM5NDNiYTc4ZjgzY2FjMTE2`
+Snapshot ID: `MCxkNjhhZmY3ZDQ3YWZmZTRmN2MwYWUwOWY3ZTJhOWI4MTkyOWY5ZDk2`

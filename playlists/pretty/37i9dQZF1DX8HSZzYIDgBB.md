@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Immasoul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,518 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,544 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,22 +42,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 32 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 |
 | 33 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 34 | [Oiseau Sauvage](https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:25 |
-| 35 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 |
-| 36 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
-| 37 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 |
-| 38 | [Soñando](https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:02 |
+| 35 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 |
+| 36 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 |
+| 37 | [Soñando](https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:02 |
+| 38 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 |
 | 39 | [Te Olvidaste](https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Te Olvidaste](https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ) | 3:02 |
 | 40 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
-| 41 | [Sueño de Amapola](https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:45 |
-| 42 | [Glorieta](https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3) | 2:28 |
-| 43 | [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 |
-| 44 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
+| 41 | [Glorieta](https://open.spotify.com/track/0n0pCIWwd6Fz7ZJWdlWfnH) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/6HdgU5FwmqGs0JfKXT7IZ3) | 2:28 |
+| 42 | [Sueño de Amapola](https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:45 |
+| 43 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
+| 44 | [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 |
 | 45 | [Sal de Mar](https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/5jDsT9P0V42MMYlJ9gI1jl) | 3:26 |
 | 46 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 47 | [Sueño Nómade](https://open.spotify.com/track/48IuvQA45zrS1FJBKhOLH8) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Sueño Nómade](https://open.spotify.com/album/2jl3Ee3yRurbYUoq2ffbLN) | 3:00 |
 | 48 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 |
-| 49 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
-| 50 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
+| 49 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
+| 50 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
 | 51 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
 | 52 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
 | 53 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE) | 4:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Acuario \- Solo San Remix](https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Acuario \(Solo San Remix\)](https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso) | 2:54 |
 | 75 | [La Noche](https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ) | [G\-Flux](https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Hey Cosmo](https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9) | [La Noche](https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM) | 4:00 |
 
-Snapshot ID: `MCxiOTliZjQ3YWUzZDBmYzU0ZmE4Mjk3ODQ5MTIyZmY2YmIzMDY5NWVm`
+Snapshot ID: `MCxmN2UxZDhjODRiOTlmODFmOGFlODVjOWQ0YjI0ZDY4ZmIzNzZlZjA3`

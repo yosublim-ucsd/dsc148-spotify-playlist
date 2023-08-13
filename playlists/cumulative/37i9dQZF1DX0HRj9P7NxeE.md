@@ -250,7 +250,7 @@
 | [Why Yo Face So Ugly](https://open.spotify.com/track/1pmdSzE3yRNcagg7H59Z7X) | [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Why Yo Face So Ugly](https://open.spotify.com/album/3w9CBT8F4uMHA5Bvc1LBcI) | 2:15 | 2022-08-19 | 2022-09-03 |
 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 | 2022-06-10 | 2023-06-10 |
 | [Work Out](https://open.spotify.com/track/4ONoOH59Y95Ro9BrqfwojZ) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Mental Trillness](https://open.spotify.com/album/0n3k7ldAO73nGqiVZJUoZt) | 3:05 | 2023-03-31 | 2023-06-20 |
-| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 |  |
+| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 |  |
 | [Young and Ratchet](https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:32 | 2021-09-03 | 2022-02-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

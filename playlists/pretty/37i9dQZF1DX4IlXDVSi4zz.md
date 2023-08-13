@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,670 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,008 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 34 | [Dorothy](https://open.spotify.com/track/2GuIRSthEpYN5MO6PGD7Vx) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Dorothy](https://open.spotify.com/album/7lJXrA1jzqGVpLUyLIYXLK) | 5:16 |
 | 35 | [No Man No Cry \- Jimmy Sax Version](https://open.spotify.com/track/426lDtGrejS1wga7gmAmDv) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE) | [No Man No Cry \(Jimmy Sax Version\)](https://open.spotify.com/album/6b5NUXA1oqqHew4DGFykRR) | 6:59 |
 | 36 | [Soul Sacrifice](https://open.spotify.com/track/4vEHTE0TocuaKZqiSq0UIS) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Soul Sacrifice](https://open.spotify.com/album/4l96ykvJ6wobEk9uyCDg5a) | 3:52 |
-| 37 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
-| 38 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
+| 37 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
+| 38 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
 | 39 | [Body Funk](https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Soulmatic](https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi) | 4:16 |
 | 40 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
 | 41 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [Bum Bum Tam Tam](https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Bum Bum Tam Tam](https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0) | 2:50 |
 | 50 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 |
 
-Snapshot ID: `MCw2MTFlNjdkYmIyY2QwNWM1OWVjYzdlZjk5NGI0NGU2ZjhiNDg4Zjc1`
+Snapshot ID: `MCw4YmY3OTBiZDFjZjQ4MWY3MTkwNDMyZmIwMzZlYmNmNzlkZjA0Y2Jj`

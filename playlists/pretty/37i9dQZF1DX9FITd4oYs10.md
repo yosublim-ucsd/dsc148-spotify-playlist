@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,799 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,811 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Filosofia de Boteco](https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Perfil](https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe) | 4:10 |
 | 60 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
 
-Snapshot ID: `MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3`
+Snapshot ID: `MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl`

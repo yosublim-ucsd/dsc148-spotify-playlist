@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 1739,
+  "num_followers": 1752,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzM3ZjRlOGUxYTFiN2VkMDI2ZDRjNjYwNWQ0OGZmY2QyYjkzMjgy",
+  "snapshot_id": "MCxmMjg5ODk2ZGFmYTE3N2NlOTE3YjhhNjcyYTMzNjAzZDJlMjA1YWZk",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "Wob\u025bye K\u025bse",
+        "url": "https://open.spotify.com/album/4DfCe7hKPJcWK8OidAZyZ8"
       },
       "artists": [
         {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
         }
       ],
-      "duration_ms": 377678,
-      "name": "Bue Kwan Ma Me",
-      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+      "duration_ms": 296333,
+      "name": "Wobeye Kese - Highlife",
+      "url": "https://open.spotify.com/track/2bZWFsHg4HzKSlfQPo2mKG"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+        }
+      ],
+      "duration_ms": 377678,
+      "name": "Bue Kwan Ma Me",
+      "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "Pentecost Soree Nwom",
         "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
       },
@@ -667,38 +683,6 @@
       "duration_ms": 354150,
       "name": "Hymm",
       "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Wob\u025bye K\u025bse",
-        "url": "https://open.spotify.com/album/4DfCe7hKPJcWK8OidAZyZ8"
-      },
-      "artists": [
-        {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "Wobeye Kese - Highlife",
-      "url": "https://open.spotify.com/track/2bZWFsHg4HzKSlfQPo2mKG"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Isaac Ampong",
-          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
-        }
-      ],
-      "duration_ms": 324179,
-      "name": "Nyame Do Me",
-      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -724,13 +708,13 @@
       },
       "artists": [
         {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+          "name": "Isaac Ampong",
+          "url": "https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho"
         }
       ],
-      "duration_ms": 331389,
-      "name": "Enyi Me Mma",
-      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
+      "duration_ms": 324179,
+      "name": "Nyame Do Me",
+      "url": "https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -783,22 +767,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 347693,
-      "name": "Aden Nti Na Woresu Yi_",
-      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Yesu Mo",
         "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 394031,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 347693,
+      "name": "Aden Nti Na Woresu Yi_",
+      "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
+        }
+      ],
+      "duration_ms": 331389,
+      "name": "Enyi Me Mma",
+      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2023-04-06 15:07:44",

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,086 songs - 2 day 18 hr 21 min
+1,087 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT) | 2:49 | 2022-02-22 |  |
 | [Be Kind To Me \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6jcPLlygnVZ4ZUfinbtVIn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Spotify Singles](https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB) | 3:17 | 2022-01-19 |  |
 | [Be Sweet \- Spotify Singles](https://open.spotify.com/track/4oObZd0IEcMNcmVLwpeeTo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:14 | 2022-03-30 |  |
-| [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 | 2022-01-19 |  |
+| [Beach Coma \- Spotify Singles](https://open.spotify.com/track/1Tdi6GOyTx3imu45JCDWNx) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \(Spotify Singles\)](https://open.spotify.com/album/7GDubsnXSeba3b60kt7eQU) | 3:40 | 2023-05-31 |  |
+| [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 | 2022-01-19 | 2023-08-13 |
 | [Beautiful Surprise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1gXiYI4GLRq0NhTRkAXYqZ) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/5GQsyApGiDXhevzFuqZQuA) | 2:39 | 2022-01-19 | 2022-07-29 |
 | [Beautiful Surprise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2esgPIfWHuQ6TiuxnUUZrq) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/0g3SMc5PXgQL9xPvGRwLhy) | 2:39 | 2022-07-05 |  |
 | [Bedroom Exile \- Spotify Singles](https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:21 | 2023-03-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:04HwAPYr2hTMLjDVrpewQZ\">Izabela Zabielska</a>",
-  "num_followers": 5684,
+  "num_followers": 5733,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmI3YTEzNzdiNzYyNzViYzQwMjY1ZmZhN2IwYmFhMzU4MGMzMmVi",
+  "snapshot_id": "MCxjMmEyZDkwYzBhMDk3ZjhlZmE2NzQ3Nzc1NGVhMWFiNjI0ZmVjNTE2",
   "tracks": [
     {
       "added_at": "2023-08-07 22:02:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 193942,
-      "name": "Spytaj mnie",
-      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "tw\u00f3j zapach",
         "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
       },
@@ -503,34 +487,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Stukamy si\u0119 browarami",
-        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 205502,
-      "name": "Stukamy si\u0119 browarami",
-      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
+      "duration_ms": 193942,
+      "name": "Spytaj mnie",
+      "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -551,6 +519,38 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "Stukamy si\u0119 browarami",
+        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "Stukamy si\u0119 browarami",
+      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
         "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "SLAY",
-        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
+        "name": "The Moon",
+        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "Youth Novels",
+          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+        },
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
         }
       ],
-      "duration_ms": 179000,
-      "name": "SLAY",
-      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
+      "duration_ms": 284422,
+      "name": "The Moon",
+      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -619,22 +623,18 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "The Moon",
-        "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m"
       },
       "artists": [
         {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
-        },
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 284422,
-      "name": "The Moon",
-      "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
+      "duration_ms": 179000,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Pokussa Na Parkiecie",
         "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 176000,
       "name": "POKUSSA",
       "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -891,6 +871,42 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 243062,
       "name": "Polska",
       "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Bezpowrotnie",
-        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 182219,
-      "name": "Bezpowrotnie",
-      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     },
     {
       "added_at": "2023-08-07 22:02:00",
@@ -971,38 +971,6 @@
     {
       "added_at": "2023-08-07 22:02:00",
       "album": {
-        "name": "Ulubione miejsce",
-        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ulubione miejsce",
-      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2023-08-07 22:02:00",
-      "album": {
         "name": "Technikolor",
         "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "added_at": "2023-08-07 22:02:00",
+      "album": {
+        "name": "Bezpowrotnie",
+        "url": "https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 182219,
+      "name": "Bezpowrotnie",
+      "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
     }
   ],
   "unique_name": "GLOW Polska",

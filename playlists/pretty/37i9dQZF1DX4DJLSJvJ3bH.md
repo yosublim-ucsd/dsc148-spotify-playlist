@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,150 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,143 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 76 | [Sleigh Ride](https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 3:40 |
 | 77 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 |
 | 78 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |
-| 79 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
-| 80 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
+| 79 | [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 |
+| 80 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
 | 81 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/2SGWl7dI4dFSpHad6o95pm) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Christmas Jazz](https://open.spotify.com/album/6Kwbqxv0h4YLHhLcU34GFC) | 2:18 |
 | 82 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 | 83 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 | 100 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 
-Snapshot ID: `MCw5Y2IyZGUyMTliNTVjNGRhYzFlMjI2MzkxNzQ3MTJkYjg0ZmQwZTQ2`
+Snapshot ID: `MCxiZmFiOWVlMGZhY2QxZGY4NTljMDg2MDExZTkzMDg1NTQyOGUyODVm`

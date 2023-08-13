@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, KAROL G, DJ Khaled, Trippie Redd & Roddy Ricch, Fred Again.., Yeat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,155,337 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,155,945 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 29 | [Good Summer](https://open.spotify.com/track/1LRXEi1IElbjyh9MzOW8ko) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Good Summer](https://open.spotify.com/album/3w8GyyoKJWb0IFhGOzwmmm) | 2:41 |
 | 30 | [Now It’s Real](https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Now It’s Real](https://open.spotify.com/album/0QjhNM3DEemC41NSJ4Lu6E) | 4:13 |
 | 31 | [Fire of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 |
-| 32 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 32 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 33 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 |
 | 34 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 35 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [GUMDROP](https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [GUMDROP](https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY) | 1:09 |
 | 100 | [Sun Up / Sun Down](https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Radistarz](https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2) | [Sun Up / Sun Down](https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8) | 3:10 |
 
-Snapshot ID: `MCwzNjE4YjA1YzY3ZDM3OTI3NGNlMWViMWRhODBiODYxNDU4YWJkZDJh`
+Snapshot ID: `MCwyMWJmYTkxNTI4NDM5MTdlYTI0Mzg5Y2RjMTM2NDc3ODJiNDEzODk2`

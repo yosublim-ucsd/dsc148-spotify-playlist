@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs this summer",
-  "num_followers": 50789,
+  "num_followers": 50791,
   "original_name": "Songs of Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTMzYjYwODE1MjMzMDBlYTZiOTljNmQ3ODdkNGU1MTY4NzcyZGJj",
+  "snapshot_id": "MCxjYzI5MjZmY2QwNmNlZDYwNzMwNDk2ZGU2MzBlODljNjFjMTY3ZWEz",
   "tracks": [
     {
       "added_at": "2023-06-07 04:00:00",
@@ -296,8 +296,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",

@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 544783,
+  "num_followers": 544865,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTkwY2FhNTdmNTJiN2E4MTk3MTViOTRlZjEzNzc2ZjJmYjAxYjBl",
+  "snapshot_id": "MCw2MGNlYWNkYjY2NjcxYWFiNDE5MzY5MjBmYjA2NTNhMDJmNGUxMWYz",
   "tracks": [
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Tradici\u00f3n, Arte y Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Los Camperos",
-          "url": "https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5"
-        }
-      ],
-      "duration_ms": 376773,
-      "name": "La Petenera (Medley)",
-      "url": "https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 136672,
       "name": "Gavilancito Sangre Cruzada",
       "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Tradici\u00f3n, Arte y Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Los Camperos",
+          "url": "https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5"
+        }
+      ],
+      "duration_ms": 376773,
+      "name": "La Petenera (Medley)",
+      "url": "https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi Cobre: Este Es Mi Mariachi",
-        "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Cobre",
-          "url": "https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Las Abajenas",
-      "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
-    },
-    {
-      "added_at": "2022-09-12 17:32:54",
-      "album": {
         "name": "La Voz de M\u00e9xico (Remastered)",
         "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-09-12 17:32:54",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+        "name": "Mariachi Cobre: Este Es Mi Mariachi",
+        "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
       },
       "artists": [
         {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+          "name": "Mariachi Cobre",
+          "url": "https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ"
         }
       ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
+      "duration_ms": 144720,
+      "name": "Las Abajenas",
+      "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
     },
     {
       "added_at": "2022-09-12 17:32:54",
@@ -1231,6 +1215,22 @@
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/5TavsDOCbpycDklaALq2dH"
+    },
+    {
+      "added_at": "2022-09-12 17:32:54",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
     },
     {
       "added_at": "2022-09-12 17:32:54",

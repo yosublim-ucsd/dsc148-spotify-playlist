@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,904 likes - 105 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,915 likes - 105 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 66 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 |
 | 67 | [Now It’s Real](https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Now It’s Real](https://open.spotify.com/album/0QjhNM3DEemC41NSJ4Lu6E) | 4:13 |
 | 68 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 |
-| 69 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 69 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 70 | [Good News](https://open.spotify.com/track/1BvftxMNfcEp9nDYxCNRTc) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Everwood](https://open.spotify.com/album/4YI8iB9csSyJOEjgaNO0GL) | 3:48 |
 | 71 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
 | 72 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 104 | [highstreet 4:44](https://open.spotify.com/track/3mtrXXbyYUHZTuh6UZAKiF) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [alter ego](https://open.spotify.com/album/4jaRABr4vZW4IEp13hP6l9) | 3:05 |
 | 105 | [good guys](https://open.spotify.com/track/4GTuuIJCWdhk5HFCAzCifT) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [good guys](https://open.spotify.com/album/33YxugTwUhRBiGfRbNbXgs) | 3:33 |
 
-Snapshot ID: `MCxjYzQ5NjUyYWJmZWE1ZTRmZTk4MzM5ZDNjNjYwMGViMjMwZDA4YjVm`
+Snapshot ID: `MCwxZTMzMjMzZGM1YWZhYmFhMTU1YzE4OWQ4ZWJhMzNmODhlNDNkZGFm`

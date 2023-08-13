@@ -9967,6 +9967,32 @@
     },
     {
       "album": {
+        "name": "Do It Like That (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295955,
+      "name": "Do It Like That (Jax Jones Remix)",
+      "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
+    },
+    {
+      "album": {
         "name": "Do not touch",
         "url": "https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 365198,
+  "num_followers": 365363,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTFmMTI1NTc3ZjdkNmMyYWYxZmVjYmRkZmM0NTYyNjQzY2E3ZGQ4",
+  "snapshot_id": "MCxiODNkOTc1NjE1YWJkOTY1YzIwMDQ5MDljOTc1MmQ2YWIxODA3MTY3",
   "tracks": [
     {
       "added_at": "2023-08-08 08:29:50",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Sonnet 1",
         "url": "https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 131451,
       "name": "Sonnet 1",
       "url": "https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Release from silence",
-        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 137642,
-      "name": "Release from silence",
-      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Stille Sj\u00f8",
         "url": "https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151829,
       "name": "Stille Sj\u00f8",
       "url": "https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Release from silence",
+        "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 137642,
+      "name": "Release from silence",
+      "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
-      },
-      "artists": [
-        {
-          "name": "Junie Graziano",
-          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
-        }
-      ],
-      "duration_ms": 114232,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Light of wintertime",
         "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 131295,
       "name": "Light of wintertime",
       "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
+      },
+      "artists": [
+        {
+          "name": "Junie Graziano",
+          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
+        }
+      ],
+      "duration_ms": 114232,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 148874,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 148874,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Petites danses et r\u00eaveries",
-        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
-      },
-      "artists": [
-        {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Un sourire et une larme (valse)",
-      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Les Soir",
         "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 144875,
       "name": "Les Soir",
       "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+        }
+      ],
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
+        "name": "Petites danses et r\u00eaveries",
+        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
       },
       "artists": [
         {
-          "name": "Ivan Malik",
-          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
         }
       ],
-      "duration_ms": 180874,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+      "duration_ms": 146090,
+      "name": "Un sourire et une larme (valse)",
+      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 115124,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 172399,
       "name": "Candles",
       "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 115124,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Ash of memory",
+        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+        }
+      ],
+      "duration_ms": 115985,
+      "name": "Ash of memory",
+      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Nowesind",
         "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Ash of memory",
-        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Preber",
-          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
-        }
-      ],
-      "duration_ms": 115985,
-      "name": "Ash of memory",
-      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 145250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "For the Love of You",
-        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+        "name": "As I Dream",
+        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
       "artists": [
         {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
         }
       ],
-      "duration_ms": 107730,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+      "duration_ms": 184583,
+      "name": "As I Dream",
+      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "As I Dream",
-        "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 184583,
-      "name": "As I Dream",
-      "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
       },
@@ -1551,22 +1535,6 @@
       "duration_ms": 154874,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
-    },
-    {
-      "added_at": "2023-08-08 08:29:50",
-      "album": {
-        "name": "Tr\u00e4umerei",
-        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rg Sorensen",
-          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
     },
     {
       "added_at": "2023-08-08 08:29:50",
@@ -1587,6 +1555,38 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rg Sorensen",
+          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+    },
+    {
+      "added_at": "2023-08-08 08:29:50",
+      "album": {
         "name": "Take care",
         "url": "https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-08-08 08:29:50",
       "album": {
-        "name": "The stars are listening",
-        "url": "https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM"
+        "name": "San Remo",
+        "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
       },
       "artists": [
         {
-          "name": "Carl Faber",
-          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+          "name": "Finley Rhone",
+          "url": "https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V"
         }
       ],
-      "duration_ms": 111500,
-      "name": "The stars are listening",
-      "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"
+      "duration_ms": 170966,
+      "name": "San Siro",
+      "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
     }
   ],
   "unique_name": "Coffee and Piano",

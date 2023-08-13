@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 52156,
+  "num_followers": 52217,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjczY2U0N2UwMThlN2NkY2EzNDJlYTdiZTg0YzgyMzIwOTEwNjU5",
+  "snapshot_id": "MCxkYWY0YTZiYzBhYmNlMWFhNDE4ZjJiYjhiMmMwYjVkOTZjZDYzNjMw",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "How Big, How Blue, How Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 234526,
       "name": "Ship To Wreck",
       "url": "https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Peripheral Vision",
-        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 195984,
-      "name": "Cutting My Fingers Off",
-      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Every Open Eye",
         "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233769,
       "name": "Clearest Blue",
       "url": "https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 195984,
+      "name": "Cutting My Fingers Off",
+      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Treasure - EP",
-        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Tired of Talking",
-      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "Treasure - EP",
+        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+      "duration_ms": 197000,
+      "name": "Tired of Talking",
+      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 258860,
       "name": "Hollow Moon (Bad Wolf)",
       "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
     },
     {
       "added_at": "2021-09-14 05:14:45",

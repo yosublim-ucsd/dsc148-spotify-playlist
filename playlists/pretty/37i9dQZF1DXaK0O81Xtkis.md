@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Daniel Seavey
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,148 likes - 65 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,195 likes - 65 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
 | 2 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 |
 | 3 | [Novocaine](https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:54 |
-| 4 | [fuckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fuckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 |
+| 4 | [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 |
 | 5 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 | 6 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 |
 | 7 | [Gracie](https://open.spotify.com/track/2woJ2PjBLoeKPn47ZHmT4w) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Gracie](https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni) | 2:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 64 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 65 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 |
 
-Snapshot ID: `MCw5NmNlNGYxZGI1YjdmMDBjM2ZmYTNmNzk5ZDg5YTk4ODgxM2NiOTA4`
+Snapshot ID: `MCwwNzk0MDBjMmRlZGVlMTdhOTg3OWQ1MmFlMWIxMTU5YTBjOGZkZGQz`

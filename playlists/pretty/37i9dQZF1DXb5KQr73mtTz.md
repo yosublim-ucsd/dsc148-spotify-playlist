@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,914 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,929 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 |
 | 50 | [Be there](https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [The Secret Romantic Guesthouse Part.7](https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt) | 3:46 |
 
-Snapshot ID: `MCwwMTA2MGM0ODdkZTY5ZmI4OTg0ZjM3ZDE5OGQ5YzJlMWY4YjYwOGZj`
+Snapshot ID: `MCwwYTFhNmU5NzFmZjY1MmVmNjI0Y2RlMmEyOGY1NWEwNzI3MDdjZGMz`

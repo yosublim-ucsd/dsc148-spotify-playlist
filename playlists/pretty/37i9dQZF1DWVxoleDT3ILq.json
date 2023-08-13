@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDVjZjBjZTBiNjE4NWY3NzJlYjJlOWRhYjhiNGVjZDZlYjQxZjk0",
+  "snapshot_id": "MCw3YzQ4NjQ5NWU1MzNmYTVjYTk1NzNiMDA3NjIwYTE1MjVkZTc0M2Y2",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -695,22 +695,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Antes que el sol nos queme",
-        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
+        "name": "Bien Mal",
+        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         }
       ],
-      "duration_ms": 255268,
-      "name": "Antes que el sol nos queme",
-      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+      "duration_ms": 180554,
+      "name": "Bien Mal",
+      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bien Mal",
-        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
+        "name": "Antes que el sol nos queme",
+        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
       "artists": [
         {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 180554,
-      "name": "Bien Mal",
-      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
+      "duration_ms": 255268,
+      "name": "Antes que el sol nos queme",
+      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Me Hace Bien Amarte",
         "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 168714,
       "name": "Me Hace Bien Amarte",
       "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "DULCE BESO",
-        "url": "https://open.spotify.com/album/5YLKO3Krg4pK7zZUKqpnXC"
-      },
-      "artists": [
-        {
-          "name": "White MJ",
-          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
-        }
-      ],
-      "duration_ms": 125651,
-      "name": "DULCE BESO",
-      "url": "https://open.spotify.com/track/7mH047VdrRvKcHkyUiAeYH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 214736,
       "name": "Un Espejismo",
       "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "DULCE BESO",
+        "url": "https://open.spotify.com/album/5YLKO3Krg4pK7zZUKqpnXC"
+      },
+      "artists": [
+        {
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+        }
+      ],
+      "duration_ms": 125651,
+      "name": "DULCE BESO",
+      "url": "https://open.spotify.com/track/7mH047VdrRvKcHkyUiAeYH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1099,6 +1099,22 @@
       "duration_ms": 229010,
       "name": "Venenos",
       "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1139,38 +1155,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
-      },
-      "artists": [
-        {
-          "name": "Proyectosolo",
-          "url": "https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "La Resistencia",
         "url": "https://open.spotify.com/album/6wJYD7J46pVGUNZ3PA6YkJ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 253709,
       "name": "La Resistencia",
       "url": "https://open.spotify.com/track/1M9rrn3d94oMrwuJRgVZ5W"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
+      },
+      "artists": [
+        {
+          "name": "Proyectosolo",
+          "url": "https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Que no se corte la cadena",
-        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 156166,
-      "name": "Que no se corte la cadena",
-      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Que no se corte la cadena",
+        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "Que no se corte la cadena",
+      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "CASI P\u00daRPURA",
         "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "\u00c9pica",
-        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 194756,
-      "name": "Sin Fama ni Fortuna",
-      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "mala",
-        "url": "https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj"
-      },
-      "artists": [
-        {
-          "name": "carla martinez",
-          "url": "https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg"
-        }
-      ],
-      "duration_ms": 206437,
-      "name": "mala",
-      "url": "https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "mala",
+        "url": "https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj"
+      },
+      "artists": [
+        {
+          "name": "carla martinez",
+          "url": "https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg"
+        }
+      ],
+      "duration_ms": 206437,
+      "name": "mala",
+      "url": "https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b"
     },
     {
       "added_at": "2023-08-11 04:00:00",

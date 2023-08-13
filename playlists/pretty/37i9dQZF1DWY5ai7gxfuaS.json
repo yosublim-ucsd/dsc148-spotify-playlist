@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 254765,
+  "num_followers": 254992,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmEyYTJkNDRhZDdlYmI4M2RiYjJkNjQ4Y2YxMWQ0M2I5YTEzM2Vh",
+  "snapshot_id": "MCwwNjI2NTNkNzQwYjVkMmEwOTIyZjRhNjg3YTMwNDYwZjQyMDExZWJl",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Kosmik",
-        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
-      },
-      "artists": [
-        {
-          "name": "Violet Cold",
-          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Kosmik",
+        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Satellites (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
       "artists": [
         {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
         }
       ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Picasso On The Concrete",
         "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Wake of a Nation",
         "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 78531,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "May Our Chambers Be Full",
-        "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        },
-        {
-          "name": "Thou",
-          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Ancestral Recall",
-      "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1313,6 +1293,42 @@
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "May Our Chambers Be Full",
+        "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
+      },
+      "artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        },
+        {
+          "name": "Thou",
+          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Ancestral Recall",
+      "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
+    },
+    {
+      "added_at": "2023-07-11 13:39:19",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Sun Up To Sun Down (Remix)",
@@ -1331,22 +1347,6 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
-    },
-    {
-      "added_at": "2023-07-11 13:39:19",
-      "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2022-11-18 01:42:16",

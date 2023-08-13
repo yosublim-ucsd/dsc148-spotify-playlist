@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,525 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,568 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 43 | [Savera](https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry) | [Savera \- Single](https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N) | 4:05 |
 | 44 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 |
 | 45 | [Coming Home \(feat\. Akanksha Grover\)](https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Akanksha Grover](https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 4:54 |
-| 46 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 |
-| 47 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
+| 46 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
+| 47 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 |
 | 48 | [Yatra](https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Barry Phillips](https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:22 |
-| 49 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 |
-| 50 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
+| 49 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 |
+| 50 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 |
 
-Snapshot ID: `MCxhZWRjZTk4NGNlMzA2MjU3MTU2ZDdhYWFlMjdlYzMxOTRjYTczMjJh`
+Snapshot ID: `MCxkMDc2OGJiNjU1OWNiZDI2YzMwMzFiNDA0NWU5MDA2YzVlM2JlOGEz`

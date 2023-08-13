@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Kelsea Ballerini, Cody Johnson, Luke Bryan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,426 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,772 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 46 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 |
 | 47 | [Chevy](https://open.spotify.com/track/2S1AUpbamlb1XijnpBlOZ9) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Chevy](https://open.spotify.com/album/4BdRzFSbh6cdV2CuXUMAC2) | 2:48 |
 | 48 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 |
-| 49 | [Man That Holds The Beer](https://open.spotify.com/track/18JV5t0U5Qb7fPLNRnZtVS) | [Ryan Larkins](https://open.spotify.com/artist/6Jwgx2Uic37n2C84UcWeQN) | [Meet Ryan Larkins](https://open.spotify.com/album/6M0V0P2GYRAs3FeBmoqTyN) | 3:41 |
+| 49 | [Man That Holds the Beer](https://open.spotify.com/track/18JV5t0U5Qb7fPLNRnZtVS) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Meet Ryan Larkins](https://open.spotify.com/album/6M0V0P2GYRAs3FeBmoqTyN) | 3:41 |
 | 50 | [LAWN CHAIRS](https://open.spotify.com/track/7nW70LbTy6RwOZEIEK9Xa3) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [LAWN CHAIRS](https://open.spotify.com/album/1tdpLzGHURmPM0vCcmai4z) | 2:43 |
 | 51 | [Love in a Country Town](https://open.spotify.com/track/0CdgXUdmcZ2Tej7Ilv2Hz0) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Love In A Country Town](https://open.spotify.com/album/4l7zygarBRjtJrGaE8w04t) | 3:08 |
 | 52 | [If It Would Only Rain \(feat\. Adam Hood\)](https://open.spotify.com/track/1ICM7EXaqPH33r4WcE0Xah) | [Vinnie Paolizzi](https://open.spotify.com/artist/62Nt9LwkCk8t88Y0H7Ewjh), [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [If It Would Only Rain \(feat\. Adam Hood\)](https://open.spotify.com/album/4pxoXByAR0fC5aaayNbcv7) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 59 | [Leavin' You](https://open.spotify.com/track/5XZq7KZco9CGnOXmxigMJR) | [Garrett Gregory](https://open.spotify.com/artist/4M21uVR94o70nHfuprIdvh) | [Leavin' You](https://open.spotify.com/album/155fGFvhi5so5ODsVp9Rcb) | 3:47 |
 | 60 | [Summer to Me](https://open.spotify.com/track/7eyjAColwSkNl117hr4OpS) | [Wayland](https://open.spotify.com/artist/5DG4mAvzfoF70wDbSd4wAJ) | [Summer to Me](https://open.spotify.com/album/3qgs08Ysi4hXtFEAqTTbwJ) | 3:08 |
 
-Snapshot ID: `MCwxZDM5YzFjMTMyZGE1YWQzMDQ3OTFkY2IyNGNhOGRmNTZmNzY1Y2Yz`
+Snapshot ID: `MCxhZDA4MTM0MDlhYTZmZjhhZjYzNjgxMTQzNDkwNmVkNDMyZjNjNDJj`

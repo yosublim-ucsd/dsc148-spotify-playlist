@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain]
 
 > Enjoy the JTBC drama 'Snowdrop,' OSTs in a different way with the lines in the drama\. You can watch this drama on Disney + as well\. \(JTBC 드라마 '설강화'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 디즈니 플러스에서도 설강화를 감상하실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,946 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,962 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain]
 | 2 | [Memories More than love](https://open.spotify.com/track/74MdGbrtYKzKHaOigmYrj3) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
 | 3 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 4 | [Looks like a real thing](https://open.spotify.com/track/7g7gSmVZdzG8ZHZF3qDvdx) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
-| 5 | [Friend](https://open.spotify.com/track/34xITkFwc6r6axSKEWcMzA) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:23 |
+| 5 | [Friend](https://open.spotify.com/track/34xITkFwc6r6axSKEWcMzA) | [Kim Hee Won](https://open.spotify.com/artist/6Hv1gVYk0ZUnmO0eKVStTi) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:23 |
 | 6 | [If you're with me](https://open.spotify.com/track/30aVEUz4NgkGuegz32gjl8) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 7 | [Looks like a real thing \- English Version](https://open.spotify.com/track/7Du7BYQKTAn4CJMHw43B4m) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
-| 8 | [Friend](https://open.spotify.com/track/4qMtamXhA9Wy4ar6qJi0Ds) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 4:23 |
+| 8 | [Friend](https://open.spotify.com/track/4qMtamXhA9Wy4ar6qJi0Ds) | [Kim Hee Won](https://open.spotify.com/artist/6Hv1gVYk0ZUnmO0eKVStTi) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 4:23 |
 | 9 | [If you're with me](https://open.spotify.com/track/77aQDEqr0SVD5l8oYOZY5s) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 3:51 |
 | 10 | [Looks like a real thing](https://open.spotify.com/track/3LUhXbJs95uhTXsmHGBfPc) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 3:02 |
 | 11 | [Paper Airplane](https://open.spotify.com/track/1GPrG2NPDiLTQGX47IAGVx) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 2:57 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV7xFZCVx23.md) - [plain]
 | 47 | [A Song For Lovers](https://open.spotify.com/track/3OfCfOYQR6QCQ0lpsocnIX) | [KIM YEON JEONG](https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi) | [Snowdrop \(Original Television Soundtrack\)](https://open.spotify.com/album/2zfKowC7TPQkba2eN5oFZi) | 2:56 |
 | 48 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 49 | [Memories More than love \- Instrumental](https://open.spotify.com/track/1CltdzmU5Fdaq4fe6tgfE8) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Snowdrop \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1GnkuJvrXWsNJfNDhQfaB2) | 4:45 |
-| 50 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
+| 50 | [Friend \- Instrumental](https://open.spotify.com/track/33Y5YU2kcUOso429akQOjI) | [Kim Hee Won](https://open.spotify.com/artist/6Hv1gVYk0ZUnmO0eKVStTi) | [Snowdrop \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/06tbn25qs1DIa2C580RbD1) | 4:16 |
 | 51 | [Looks like a real thing \- Instrumental](https://open.spotify.com/track/3o1od0SpRtQI628cYNubg1) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [Snowdrop \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3) | 3:02 |
 | 52 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 53 | [Hello from JISOO](https://open.spotify.com/track/0q4eizHq7nTR7LGCtEusLD) | [Snowdrop](https://open.spotify.com/artist/1uU3fjP18oTB2reXvj3ljY) | [Snowdrop \- Voice Liner](https://open.spotify.com/album/6x2GF6t6Q58ebXhaHNUXal) | 0:23 |
 | 54 | [Hello from Jung Hae In](https://open.spotify.com/track/0eVLuU6aEj9JIKnuU2CNZE) | [Snowdrop](https://open.spotify.com/artist/1uU3fjP18oTB2reXvj3ljY) | [Snowdrop \- Voice Liner](https://open.spotify.com/album/6x2GF6t6Q58ebXhaHNUXal) | 0:23 |
 
-Snapshot ID: `MCwyYzRjOGQ3MDdiNDE4Mzk4NDViNWJmYTE2YzNjMDgwYTYwMjgxZGZm`
+Snapshot ID: `MCxmMDNkZTE1MjA1NDcyMmFlNjc3N2IzOWQwOTMwYjgxOTAxNTdlM2Vl`

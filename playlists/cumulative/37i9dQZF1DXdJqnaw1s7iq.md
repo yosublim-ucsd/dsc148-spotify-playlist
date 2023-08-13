@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-118 songs - 8 hr 25 min
+119 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Can't See What Is Burning There \- Mixed](https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [DJ\-KiCKS \(Wolf + Lamb vs Soul Clap\) \[DJ Mix\]](https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW) | 1:57 | 2023-05-17 |  |
 | [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 | 2023-05-17 |  |
 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 | 2023-05-17 |  |
-| [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 | 2023-05-17 |  |
+| [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 | 2023-05-17 | 2023-08-13 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2023-05-17 |  |
 | [CMYK](https://open.spotify.com/track/09alZMvBX6qVQGzfFsRi9X) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Iotdxi](https://open.spotify.com/album/3VOh4ZvVfyIDe4hlW300qv) | 3:39 | 2023-05-17 |  |
 | [CMYK](https://open.spotify.com/track/493ZpVleSN7MnPyWc8mzUQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK EP](https://open.spotify.com/album/0LSInSSnuRkl4G6cQ14dFB) | 3:39 | 2023-05-17 | 2023-07-09 |
@@ -51,6 +51,7 @@
 | [Get Away](https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:28 | 2023-05-17 |  |
 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 | 2023-05-17 |  |
 | [Get Innocuous!](https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:11 | 2023-05-17 | 2023-06-28 |
+| [Get Like It](https://open.spotify.com/track/4SLw3mYAeDLzg0gLp8pi2x) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Tora](https://open.spotify.com/album/76ocQWuSKuIePnWmqWTXh7) | 2:09 | 2023-05-17 |  |
 | [Gimme Some](https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Easier](https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B) | 5:08 | 2023-05-17 |  |
 | [Good Intentions](https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 4:42 | 2023-05-17 | 2023-06-25 |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2023-05-17 |  |

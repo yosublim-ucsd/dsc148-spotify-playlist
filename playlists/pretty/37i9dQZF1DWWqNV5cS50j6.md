@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Yeek & Paris Texas make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,367 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,357 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 48 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 |
 | 49 | [sunset blvd](https://open.spotify.com/track/4RN4a0h7o3Cxv2mJSHxKJ2) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [sunset blvd](https://open.spotify.com/album/5Jdnp7iYU4QlKkdMoKn0DR) | 2:12 |
 
-Snapshot ID: `MCw5NTNiZDk2MTI3ZTkyNzRmNDIxN2M1MGM5N2U5NTg5MWQ5ZjU1NDQ1`
+Snapshot ID: `MCxkNWVlNDFkOWNjNzIyNmYwNmY1ZTI0ZTNmZThlYmQ1ZTQ3NTU2YTYy`

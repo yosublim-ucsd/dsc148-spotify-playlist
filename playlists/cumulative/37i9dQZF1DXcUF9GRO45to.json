@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 259386,
       "name": "A Glorious Time",
       "url": "https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 211505,
       "name": "Others",
       "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
@@ -3598,6 +3598,24 @@
       "duration_ms": 164026,
       "name": "REQUIN MAKO",
       "url": "https://open.spotify.com/track/4qTYigArkxHtrICjMTZ8aX"
+    },
+    {
+      "album": {
+        "name": "DEUXI\u00c8ME \u00c9TOILE",
+        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9niche",
+          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "REQUIN MAKO",
+      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
     },
     {
       "album": {

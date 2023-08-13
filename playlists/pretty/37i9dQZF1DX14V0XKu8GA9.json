@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23455,
+  "num_followers": 23477,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3",
+  "snapshot_id": "MCw3MWM1YzIyY2UwY2UzOWJiNDJmYjhkODAxZjQ3YzY0NjA1ZmZkMWNj",
   "tracks": [
     {
       "added_at": "2023-07-28 04:05:08",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
-        "name": "Parkside Angle",
-        "url": "https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 83474,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
         "name": "Pozole",
         "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+    },
+    {
+      "added_at": "2023-07-28 04:05:08",
+      "album": {
+        "name": "Parkside Angle",
+        "url": "https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 83474,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX"
     },
     {
       "added_at": "2023-07-28 04:05:08",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-07-28 04:05:08",
       "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        }
-      ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
         "name": "MISAWA )",
         "url": "https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 231428,
       "name": "MISAWA )",
       "url": "https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr"
+    },
+    {
+      "added_at": "2023-07-28 04:05:08",
+      "album": {
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+        }
+      ],
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
     },
     {
       "added_at": "2023-07-28 04:05:08",

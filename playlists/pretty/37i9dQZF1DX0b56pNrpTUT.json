@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 7799,
+  "num_followers": 7846,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjJkZWExZDY1NGFhZmQxYWZhZmI0YzU2MWE3OThhNTRlMWYyZDgx",
+  "snapshot_id": "MCw5OGU2NGM2ZTAzODA2M2Q2NjMzYTQ4YTY2NDBiOTNiYzA0NDM1Mzdl",
   "tracks": [
     {
       "added_at": "2023-07-18 18:13:51",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 180884,
+      "name": "Mad Apology",
+      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 180884,
-      "name": "Mad Apology",
-      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
     },
     {
       "added_at": "2023-07-18 18:13:51",

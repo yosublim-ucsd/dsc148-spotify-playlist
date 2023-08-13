@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 9287,
+  "num_followers": 9296,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjYzMjVmZmFlZWVkZjM2OTZiNjM0NzZmNTUzNjkyYzQ1Nzc3N2Ji",
+  "snapshot_id": "MCxjYmQwOWYzNGJhYjA5ODE4NGMxOTc1MDg4ZGNmZWE4OGMzYjRiZGIz",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -299,38 +299,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Harpslinger",
-        "url": "https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "What My Mama Told Me",
-      "url": "https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Too Cool to Move",
-        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Bottle It Up and Go",
-      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Harp Attack!",
         "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
@@ -355,6 +323,38 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Too Cool to Move",
+        "url": "https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Bottle It Up and Go",
+      "url": "https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Harpslinger",
+        "url": "https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "What My Mama Told Me",
+      "url": "https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -387,6 +387,22 @@
       "duration_ms": 229506,
       "name": "The Wine Talkin'",
       "url": "https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -443,22 +459,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Groovin' In Greaseland",
         "url": "https://open.spotify.com/album/3fZLjidk1UlpKM9Kw5NWSh"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 187186,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -547,26 +567,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 548440,
       "name": "Bad Boys Heaven",
       "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Dirty Memory",
-        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
-      },
-      "artists": [
-        {
-          "name": "JJ Appleton",
-          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
-        },
-        {
-          "name": "Jason Ricci",
-          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "Can't Believe It's This Good",
-      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -707,6 +687,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Flash Forward",
+        "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
+      },
+      "artists": [
+        {
+          "name": "The Siegel-Schwall Band",
+          "url": "https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Going Back To Alabama",
+      "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Whoopin'",
         "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
       },
@@ -723,18 +719,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Flash Forward",
-        "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
+        "name": "Dirty Memory",
+        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
       "artists": [
         {
-          "name": "The Siegel-Schwall Band",
-          "url": "https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo"
+          "name": "JJ Appleton",
+          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
+        },
+        {
+          "name": "Jason Ricci",
+          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Going Back To Alabama",
-      "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+      "duration_ms": 217376,
+      "name": "Can't Believe It's This Good",
+      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",

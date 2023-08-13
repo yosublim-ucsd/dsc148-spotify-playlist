@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 752594,
+  "num_followers": 752623,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjc0NjAzZjcxZDc5OWI1NGY2ODAyZWZkZmE4MjQ1ZTYwMjg3NDQ0",
+  "snapshot_id": "MCxhNzkzNDE4M2Q3YjllMTRiNWI4NWVkNjVhMDY3ZWNiNjA0OTg5MWFj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:28:27",
@@ -389,24 +389,20 @@
       "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "To This Day",
-        "url": "https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI"
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 210880,
-      "name": "To This Day",
-      "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -441,20 +437,24 @@
       "url": "https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+        "name": "To This Day",
+        "url": "https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+      "duration_ms": 210880,
+      "name": "To This Day",
+      "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Mind Yo Mouth",
-      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Head Straight",
@@ -771,6 +755,22 @@
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Mind Yo Mouth",
+      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "I Hope",
+        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "When I Hear Your Name",
@@ -991,22 +1007,6 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "I Hope",
-        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
     },
     {
       "added_at": "2023-05-26 13:00:09",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
-        "url": "https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 200252,
-      "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
-    },
-    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Variables",
@@ -1149,20 +1129,24 @@
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+        "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu"
       },
       "artists": [
         {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+      "duration_ms": 200252,
+      "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
     },
     {
       "added_at": "2023-04-03 16:57:20",
@@ -1181,6 +1165,22 @@
       "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "The Rebirth Of Marvin",
@@ -1195,38 +1195,6 @@
       "duration_ms": 181253,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Angels & Queens (Deluxe)",
-        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Great Wind",
-      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1253,6 +1221,22 @@
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Untidy Soul",
@@ -1267,6 +1251,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Angels & Queens (Deluxe)",
+        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Great Wind",
+      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1337,32 +1337,20 @@
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
-        "url": "https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9"
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM"
       },
       "artists": [
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "DAISY WORLD",
-          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 198881,
-      "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
-      "url": "https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9"
+      "duration_ms": 218783,
+      "name": "Bewilderment",
+      "url": "https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1405,20 +1393,32 @@
       "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/6lhy077vcpLXGOSSCkP3wM"
+        "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
+        "url": "https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
         }
       ],
-      "duration_ms": 218783,
-      "name": "Bewilderment",
-      "url": "https://open.spotify.com/track/4qqNPAiQmGVdwxLrfYmYDg"
+      "duration_ms": 198881,
+      "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
+      "url": "https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -1441,42 +1441,6 @@
       "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Crush You",
-        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
-      },
-      "artists": [
-        {
-          "name": "Shafiq Husayn",
-          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 256069,
-      "name": "Crush You",
-      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Don't Doubt It",
@@ -1493,40 +1457,20 @@
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
-      "added_at": "2023-06-30 04:28:27",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "What Love Can Do [Feat. Emily King]",
-        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
         }
       ],
-      "duration_ms": 230840,
-      "name": "What Love Can Do [Feat. Emily King]",
-      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Don't Think You Ever Loved Me",
-        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 396825,
-      "name": "Don't Think You Ever Loved Me",
-      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
       "added_at": "2022-09-30 04:06:57",
@@ -1551,6 +1495,62 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
+    {
+      "added_at": "2023-06-30 04:28:27",
+      "album": {
+        "name": "What Love Can Do [Feat. Emily King]",
+        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "What Love Can Do [Feat. Emily King]",
+      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Don't Think You Ever Loved Me",
+        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 396825,
+      "name": "Don't Think You Ever Loved Me",
+      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1653,6 +1653,22 @@
       "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
     },
     {
+      "added_at": "2023-08-04 04:06:14",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
+    },
+    {
       "added_at": "2023-03-31 05:53:45",
       "album": {
         "name": "Changed",
@@ -1701,22 +1717,6 @@
       "url": "https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf"
     },
     {
-      "added_at": "2023-08-04 04:06:14",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        }
-      ],
-      "duration_ms": 259265,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "All I Really Wanna Do",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Like Neptune",
@@ -1779,6 +1763,22 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
     },
     {
       "added_at": "2023-05-26 13:00:09",
@@ -1821,28 +1821,20 @@
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
     },
     {
-      "added_at": "2023-05-05 05:35:01",
+      "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Energy",
-        "url": "https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD"
+        "name": "Desperate Soul",
+        "url": "https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4"
       },
       "artists": [
         {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        },
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        },
-        {
-          "name": "KOLE",
-          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 219464,
-      "name": "The Energy",
-      "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
+      "duration_ms": 127826,
+      "name": "Desperate Soul",
+      "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
     }
   ],
   "unique_name": "Soul Coffee",

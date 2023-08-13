@@ -143,6 +143,6 @@
 | [Vivir Mi Vida](https://open.spotify.com/track/2YDWFquF9bozKkoAhG7qxV) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Exitos de Verano](https://open.spotify.com/album/2n7M96zHmPpzVbDOQEhxiO) | 4:10 | 2022-08-31 | 2022-11-13 |
 | [Vivir Mi Vida](https://open.spotify.com/track/3tm3GG9BBOYhUzKWlS6A74) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Vivir Mi Vida](https://open.spotify.com/album/6C4gFMJay6Si2kRcNB21Sz) | 4:11 | 2021-12-21 | 2022-07-29 |
 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 | 2022-01-01 |  |
-| [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 | 2023-01-27 |  |
+| [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 | 2023-01-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

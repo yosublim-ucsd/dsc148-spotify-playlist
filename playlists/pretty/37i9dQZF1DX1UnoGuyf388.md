@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,046 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,101 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 7 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 |
 | 8 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 |
 | 9 | [Lift Me Up](https://open.spotify.com/track/2ELn4AbxtbATXMsPDkEyjh) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD), [James Ian](https://open.spotify.com/artist/5oOFQ8WI7kQxsyTw2gkC8b), [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [Lift Me Up](https://open.spotify.com/album/7nNO2GemVOjoyDpji26fnz) | 3:47 |
-| 10 | [Trashboi](https://open.spotify.com/track/1Z6paKXkwnkJkvUZZJoZl8) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv) | 2:24 |
+| 10 | [Trashboi](https://open.spotify.com/track/1Z6paKXkwnkJkvUZZJoZl8) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/1tHZNwa8uy5Cre8Evb5YKv) | 2:24 |
 | 11 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 |
 | 12 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 13 | [Envy Me](https://open.spotify.com/track/0xc4ODKuFf11SjYBLUoQUD) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Envy Me](https://open.spotify.com/album/2i0KPUHQX0ujQ3gq4NwQ7j) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 74 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 75 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 
-Snapshot ID: `MCxkMjdiMWUxYzFjZjIyNTY4NzIzYWQ4YjhjNWIwYTA5NjNkZTZiOGZi`
+Snapshot ID: `MCwwOGFjZTQzMmNkMDRhNGRjYzg5ZWZmY2NjZGI3OTAxMjBhNjAzYjAy`

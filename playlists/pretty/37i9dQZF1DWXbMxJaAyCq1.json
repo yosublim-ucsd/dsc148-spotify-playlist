@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Feid, Yandel & Daddy Yankee.",
-  "num_followers": 424675,
+  "num_followers": 424985,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU5MGNiOTg0YmIyMWNkMDQ4NTY4MTk1NDgyMTJiOTI1MmY5YTQw",
+  "snapshot_id": "MCxjYjJjMTRhMTI2MDJkMjRkZmJjYmFlMWE0YTM4NjA4NmFjZTU1ZWVh",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Esc\u00e1pate Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 167418,
+      "name": "Esc\u00e1pate Conmigo - Remix",
+      "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Esc\u00e1pate Conmigo (Remix)",
-        "url": "https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 167418,
-      "name": "Esc\u00e1pate Conmigo - Remix",
-      "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -667,70 +667,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Las Bratz (Remix)",
-        "url": "https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
-        },
-        {
-          "name": "El Bobe",
-          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
-        },
-        {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
-        }
-      ],
-      "duration_ms": 444631,
-      "name": "Las Bratz (Remix)",
-      "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -771,34 +707,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -831,6 +759,78 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Las Bratz (Remix)",
+        "url": "https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "El Bobe",
+          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "duration_ms": 444631,
+      "name": "Las Bratz (Remix)",
+      "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+      },
+      "artists": [
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        }
+      ],
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "El Farsante (Remix)",
         "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 330040,
       "name": "Adem\u00e1s de M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
-      },
-      "artists": [
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        }
-      ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1563,6 +1563,50 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "105 F Remix",
+        "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
+      },
+      "artists": [
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 464200,
+      "name": "105 F Remix",
+      "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
         "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
       },
@@ -1607,50 +1651,6 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "105 F Remix",
-        "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
-      },
-      "artists": [
-        {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 464200,
-      "name": "105 F Remix",
-      "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1995,30 +1995,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Gasolina (feat. Myke Towers) [Safari Riot Remix]",
-        "url": "https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 152295,
-      "name": "Gasolina (feat. Myke Towers) - Safari Riot Remix",
-      "url": "https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Esta Cabron (Remix) [feat. Anuel Aa, Yomo, Pusho, Almighty, D.Ozi & Jamby \"El Favo\"]",
         "url": "https://open.spotify.com/album/2xzISXCrWUEEmQDMV7W9U0"
       },
@@ -2087,6 +2063,30 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Gasolina (feat. Myke Towers) [Safari Riot Remix]",
+        "url": "https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 152295,
+      "name": "Gasolina (feat. Myke Towers) - Safari Riot Remix",
+      "url": "https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -2123,34 +2123,30 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        "name": "Tu No Metes Cabra Remix",
+        "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 273198,
-      "name": "A Solas (Remix)",
-      "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
+      "duration_ms": 331440,
+      "name": "Tu No Metes Cabra - Remix",
+      "url": "https://open.spotify.com/track/6ipDE6Y0xrjEeaBTuPfW1K"
     }
   ],
   "unique_name": "Remixes Urbanos",

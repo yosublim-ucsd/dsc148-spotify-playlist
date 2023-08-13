@@ -1868,7 +1868,7 @@
     {
       "album": {
         "name": "Darkness",
-        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
       },
       "artists": [
         {
@@ -1879,6 +1879,24 @@
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-13",
       "duration_ms": 228923,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n"
@@ -3436,6 +3454,24 @@
       "duration_ms": 407240,
       "name": "Hide",
       "url": "https://open.spotify.com/track/7K0W4JZRyK0i5A7JUKeaL6"
+    },
+    {
+      "album": {
+        "name": "highschool",
+        "url": "https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207177,
+      "name": "highschool",
+      "url": "https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB"
     },
     {
       "album": {

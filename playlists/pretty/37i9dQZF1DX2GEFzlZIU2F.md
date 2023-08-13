@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 
 > ahhhhhhhhh
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,334 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,372 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 42 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 | 43 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 44 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
-| 45 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
+| 45 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
 | 46 | [Worldwide Torture](https://open.spotify.com/track/0lUSIaEhUApWIbru6IX21z) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 3:33 |
 | 47 | [Ghost](https://open.spotify.com/track/4BxHvb29LvfTzGMmSVB1ou) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Burnt Sugar](https://open.spotify.com/album/2hRFrwaBSK3IdR1ahR7ajj) | 3:33 |
 | 48 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GEFzlZIU2F.md) - [plain]
 | 54 | [Who's Got My Lighter?](https://open.spotify.com/track/3MJekXiIAzupvp8wQop8zL) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Who's Got My Lighter?](https://open.spotify.com/album/7fqONBEazCdEoUHby6uwlm) | 3:10 |
 | 55 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 
-Snapshot ID: `MCwzNDRmNGRhODAyYjdjZjFlZTcyZjk1YmI3ZGZiYmE5N2IwODZhODg4`
+Snapshot ID: `MCwxMDJiNDYwNmQxZjEwYzM0MDEzMzhjYzlhM2QwYzg2ODdiYmMwNGIx`

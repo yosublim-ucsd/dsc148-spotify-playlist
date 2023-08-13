@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxOTU0NDAsMDAwMDAwMDA3ZjdiNjA1YmQ3NGVmMGVmNjNlMzk0NmIzNGEwNjM3NA==",
+  "snapshot_id": "MjgxOTU0NDAsMDAwMDAwMDA3YWNiZTk3ODFkZTZlNmU0NmFkZjIyMTM1YjA3M2U5OA==",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
         }
       ],
-      "duration_ms": 367049,
-      "name": "Afterlife - Live at Metal Church",
-      "url": "https://open.spotify.com/track/1bo1SACAnxyGc4rWJQhsOd"
+      "duration_ms": 254320,
+      "name": "Vermilion Pt. 2 - Live at Metal Church",
+      "url": "https://open.spotify.com/track/5QuHwaiOHFGvYvYohuzWZh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Them Belly Full (But We Hungry) (Feat. Rema & Skip Marley)",
-        "url": "https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R"
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
       "artists": [
         {
@@ -360,9 +360,33 @@
           "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
         }
       ],
-      "duration_ms": 190589,
-      "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
-      "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
+      "duration_ms": 190051,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tchaikovsky: Romeo and Juliet",
+        "url": "https://open.spotify.com/album/4Y5nLBzrgqH7U4bMQIt7XC"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Nuremberg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0PQnsTU4RL8NHZmtDJ6lFg"
+        },
+        {
+          "name": "Christian Lindberg",
+          "url": "https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy"
+        }
+      ],
+      "duration_ms": 61711,
+      "name": "Romeo end Juliet, Fantasy Overture: X",
+      "url": "https://open.spotify.com/track/0zDmGu4KZJy21f8NJp67TK"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -439,6 +463,42 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Dark Ice",
+        "url": "https://open.spotify.com/album/7j3eJsf5v6HCXg2qvgIv8w"
+      },
+      "artists": [
+        {
+          "name": "Coronatus",
+          "url": "https://open.spotify.com/artist/0SWKrljgHUNYD3KplPchyG"
+        }
+      ],
+      "duration_ms": 290417,
+      "name": "Dark Ice - Single Version",
+      "url": "https://open.spotify.com/track/4WCnwHiyThWJmUaWFaUwFt"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tunguska",
+        "url": "https://open.spotify.com/album/3SRRyRLdVbQMzY00K5RqPs"
+      },
+      "artists": [
+        {
+          "name": "Ashbury Heights",
+          "url": "https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9"
+        },
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        }
+      ],
+      "duration_ms": 266181,
+      "name": "Tunguska",
+      "url": "https://open.spotify.com/track/5CHhfCYtHpot20CaQDuDpf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Vulindlela",
         "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
       },
@@ -459,6 +519,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Ballad of Darren (Deluxe)",
+        "url": "https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/4w2neublxPdSVAoKrGhVGJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "A Love",
         "url": "https://open.spotify.com/album/0nNK36AnVwTjbNEt3vrrma"
       },
@@ -475,68 +551,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Ballad of Darren",
-        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 248774,
-      "name": "Barbaric",
-      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "A Veces Bien a Veces Mal",
-        "url": "https://open.spotify.com/album/20OrFsDu55gkVr7dY5JUjy"
-      },
-      "artists": [
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "Sebasti\u00e1n Orellana",
-          "url": "https://open.spotify.com/artist/5uosMg0bUbmZIlQpzTAPc7"
-        },
-        {
-          "name": "Dj Perez",
-          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
-        }
-      ],
-      "duration_ms": 247583,
-      "name": "A Veces Bien a Veces Mal",
-      "url": "https://open.spotify.com/track/1py1Q70o23MDIghZWTVzE9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "July: Reaper's Song from The Seasons, Op. 37a",
-        "url": "https://open.spotify.com/album/6hSGHwJohK7KZjb3amiVaI"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Digital Vinyl",
-          "url": "https://open.spotify.com/artist/0X9EKzOkxJ5A5ARUW5RbSZ"
-        }
-      ],
-      "duration_ms": 129996,
-      "name": "July: Reaper's Song from The Seasons, Op. 37a",
-      "url": "https://open.spotify.com/track/5Kqgvp1YuW7vxMyYaIZc9i"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Give It To Me (Demo)",
-        "url": "https://open.spotify.com/album/7oOYddAiFE10K6tmXvVIGa"
+        "name": "Let Them Drag My Soul Away: Singles, Demos, Sessions And Live Recordings (1979-1982)",
+        "url": "https://open.spotify.com/album/3uYx5vJTvX3oQU6oEq7gqG"
       },
       "artists": [
         {
@@ -544,29 +560,9 @@
           "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Give It To Me - Demo",
-      "url": "https://open.spotify.com/track/3Am8LuNaOHc9nPnBSZZIc5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "It's a Man's World (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4mXTpvVCAnAsDjdI2Pe9vr"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        },
-        {
-          "name": "Trevor Horn",
-          "url": "https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "The Sun Ain't Gonna Shine Anymore - (Trevor Horn Remix) [2023 Remaster]",
-      "url": "https://open.spotify.com/track/6pDCfwTeLNAbzhKJlue7Qx"
+      "duration_ms": 263080,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/0VapZ2ODeQRVv0eFboE9uL"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

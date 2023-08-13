@@ -1,12 +1,12 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1083557,
+  "num_followers": 1084399,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTI5MjUxODVlM2I2NjcyZWE4MTQwNWVmYTJiZjQ4MmZkN2I3ZTZm",
+  "snapshot_id": "MCxmOTc0NDQwYTBjOTk3YjdmMTE5NGJhZjFkMTQyYzRiMTA4M2FmZjdj",
   "tracks": [
     {
       "added_at": "2023-05-19 16:52:20",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
-    },
-    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "DAMN.",
@@ -315,6 +299,22 @@
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "PRIDE.",
+      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "PRIDE.",
-      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Melting",
-      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Mrs Magic",
+        "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Mrs Magic",
+      "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
+    },
+    {
       "added_at": "2023-06-07 15:28:24",
       "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
@@ -763,22 +779,6 @@
       "duration_ms": 319493,
       "name": "Hummingbird (Metro Boomin & James Blake)",
       "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Mrs Magic",
-        "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Mrs Magic",
-      "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Swimming",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Offering",
-        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 212736,
-      "name": "Gilded Lily",
-      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -891,6 +875,22 @@
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
     },
     {
+      "added_at": "2023-08-09 15:29:21",
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Lady Lady",
@@ -1143,22 +1159,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2023-08-09 15:29:21",
-      "album": {
-        "name": "eyes don't lie",
-        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "eyes don't lie",
-      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -1263,18 +1279,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 326533,
-      "name": "Ex-Factor",
-      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1307,26 +1327,6 @@
       "duration_ms": 238306,
       "name": "L$D",
       "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
-      },
-      "artists": [
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2023-06-16 04:00:00",

@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-372 songs - 1 day 1 hr 36 min
+373 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Absolute Sensitivity](https://open.spotify.com/track/6EgHKLUAPtLqfvAVYx5PMr) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 6:04 | 2021-10-20 | 2022-07-29 |
 | [Acōlmiztli](https://open.spotify.com/track/6TfMblmD4IEYbUkECvnbho) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu) | [Chicxulub](https://open.spotify.com/album/0ECX5VMP06pTlNkFAprmsv) | 3:34 | 2023-05-12 | 2023-07-29 |
 | [Afterrain](https://open.spotify.com/track/2NceltBWeS2qRzVVvz5TuT) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Kinoe](https://open.spotify.com/album/7289VPvd4QJR0L0W0LenmM) | 3:56 | 2021-10-20 | 2022-07-29 |
+| [Ailments](https://open.spotify.com/track/2mn02smI0cOZT9BXKyz1qz) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9) | 2:29 | 2021-10-20 |  |
 | [Ailments](https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:29 | 2021-10-20 | 2023-07-14 |
 | [Air Flows](https://open.spotify.com/track/55wACBXq7gogSECrvlwXOB) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Air Flows](https://open.spotify.com/album/0WxLQCwh31spbbNsTrTOxU) | 4:55 | 2021-10-20 | 2022-07-29 |
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
@@ -376,7 +377,7 @@
 | [Xylem](https://open.spotify.com/track/4wnHK9ktLGCpBN2jl0Xy5c) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 5:21 | 2021-10-20 | 2022-07-27 |
 | [Yawn Machine](https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Sova](https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY) | 2:12 | 2021-10-20 |  |
 | [Yearning](https://open.spotify.com/track/3Ov9hd59cYEYlgsv1zRjAk) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey…](https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW) | 3:47 | 2022-03-30 | 2022-07-29 |
-| [Yo Soy \- \(Versión Instrumental\)](https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Yo Soy](https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn) | 7:24 | 2022-05-18 |  |
+| [Yo Soy \- \(Versión Instrumental\)](https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Yo Soy](https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn) | 7:24 | 2022-05-18 | 2023-08-13 |
 | [Zideco Pad](https://open.spotify.com/track/1OMLr436FtU9cVugtggpeT) | [Miroque A.k.a Cassiopia](https://open.spotify.com/artist/61MIC2di2Ky5MtDuxWnulX) | [Blue Bird Tone](https://open.spotify.com/album/31kqx8zMZv4WD2ctuSKLVq) | 4:58 | 2021-10-20 | 2022-07-29 |
 | [zzz](https://open.spotify.com/track/2j2V9KXUXABef5EyeCNJaq) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [picturebook](https://open.spotify.com/album/4MsX67fRrAZboVJEVdstO7) | 1:14 | 2021-10-20 | 2022-04-21 |
 | [歩風](https://open.spotify.com/track/1m7V5cftzdLMwEnKcgNae8) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/1AXWTClIWg41I6owaJxOEf) | 4:19 | 2021-10-20 | 2022-07-29 |

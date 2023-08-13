@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,888 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,987 likes - 100 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
 | 100 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
 
-Snapshot ID: `MCwwODA1MWNiMDgxYWY5NjQ3NGE4ZjdiMTNkOTg0M2E3OGYxNmIyMzQx`
+Snapshot ID: `MCw4NDU0OThkYzE5ZGQ2MTkzZTUxNjAwOTdmOTY5Yjk3NzM3ZTU3Y2Zh`

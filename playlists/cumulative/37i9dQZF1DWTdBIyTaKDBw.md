@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-200 songs - 12 hr 32 min
+201 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-12-09 |  |
 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 | 2022-05-03 |  |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-20 |  |
-| [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-03 |  |
+| [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-03 | 2023-08-13 |
 | [Heart Is… \(마음은\)](https://open.spotify.com/track/0khR5XMKIRR9LQVS28dYoe) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Heart Is… \(마음은\)](https://open.spotify.com/album/44EfLSGEjiG7bj5jJlOzLs) | 4:51 | 2022-05-03 | 2022-07-24 |
 | [Holiday](https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [YUMI's Cells, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX) | 3:56 | 2022-05-03 |  |
 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 | 2022-05-03 |  |
@@ -156,6 +156,7 @@
 | [Sunshine](https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR) | 3:42 | 2022-05-03 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé : LEVANTER](https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj) | 3:42 | 2022-07-22 |  |
 | [SuperMoon](https://open.spotify.com/track/25xBsASRnYwryM5Ftb7pZQ) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Even if get lost, it can flow anyway](https://open.spotify.com/album/0HRFHhuvLEfG77flcrbCI9) | 3:16 | 2022-05-03 | 2022-07-25 |
+| [Sweet lies](https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX), [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Bittersweet](https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme) | 3:25 | 2023-07-17 |  |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-12-09 |  |
 | [Sweet\(Brand New Mix\) \(feat.Verbal Jint\)](https://open.spotify.com/track/12YVdrlWZONFqxr7MrTwsO) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Syncrofusion Lena Park + Brand New Music](https://open.spotify.com/album/6P6MNd9zNPxd6mPAYt0zWK) | 3:46 | 2022-05-03 | 2022-07-27 |
 | [That's the way it is](https://open.spotify.com/track/119ykc6I8ohNeQ54vfqcoe) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [That's the way it is](https://open.spotify.com/album/4Ds1q2b6rm2TuQ9d2h2x60) | 5:18 | 2022-06-20 | 2022-07-12 |

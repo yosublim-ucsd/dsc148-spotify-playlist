@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,015 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,057 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,21 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 25 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
 | 26 | [Urban Myth](https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM) | [Iglew](https://open.spotify.com/artist/7losew6I5eFiELv8kHRk1x) | [Urban Myth](https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt) | 4:13 |
 | 27 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
-| 28 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
-| 29 | [Rise to Ashes](https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:03 |
+| 28 | [Rise to Ashes](https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:03 |
+| 29 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 30 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
 | 31 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
 | 32 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
 | 33 | [Valve](https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:24 |
 | 34 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 |
 | 35 | [Low](https://open.spotify.com/track/2nJ5KcsR3jDf4XKB2nSlTi) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Donne che Corrono coi Lupi](https://open.spotify.com/album/0hMOgkYpG0Koyu4turzyQ1) | 1:38 |
-| 36 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
-| 37 | [Punta Alem](https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr) | [Gora Sou](https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS) | [Ramifications](https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ) | 4:46 |
+| 36 | [Punta Alem](https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr) | [Gora Sou](https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS) | [Ramifications](https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ) | 4:46 |
+| 37 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
 | 38 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
 | 39 | [Dazzle Anew](https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 3:36 |
 | 40 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
-| 41 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
-| 42 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
+| 41 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
+| 42 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
 | 43 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
 | 44 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
 | 45 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCwxZjc0ZTg4M2FjY2U2YzExODQ3ODIxMjBiZDZmZTBhYjY2ZjUyY2Uy`
+Snapshot ID: `MCwxZjcwNGNkYWFjOWY2NTczMTRhOTUxZjA1NDQwZTViNjg5ZDIxZTg0`

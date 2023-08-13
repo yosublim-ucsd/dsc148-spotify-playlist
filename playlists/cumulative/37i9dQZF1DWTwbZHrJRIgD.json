@@ -2656,6 +2656,32 @@
     {
       "album": {
         "name": "Zara Hatke Zara Bachke (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Z9XfG5fDAU8Nu3GNEDhYK"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189136,
+      "name": "Tere Vaaste",
+      "url": "https://open.spotify.com/track/20LfqGqyGqjOsw9YA4nOTG"
+    },
+    {
+      "album": {
+        "name": "Zara Hatke Zara Bachke (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Yb13Od1beXcshjO6vSskt"
       },
       "artists": [
@@ -2682,7 +2708,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 189136,
       "name": "Tere Vaaste",
       "url": "https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5"
@@ -3124,7 +3150,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 213611,
       "name": "What Jhumka ?",
       "url": "https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb"
@@ -3162,7 +3188,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

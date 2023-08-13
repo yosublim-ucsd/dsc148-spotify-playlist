@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 199261,
+  "num_followers": 199342,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQyZWMzZWVkMjBiMWM4Yzc0NGY3YzNkN2I2NTY3NWVkNTFiMGZm",
+  "snapshot_id": "MCw0ODliOTk3MjQ1NmQ5ZDExMTg0MGVlYjU0ZGExODI1M2Q3M2EwYTc5",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Puro Tejano",
-        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
-      },
-      "artists": [
-        {
-          "name": "Little Joe",
-          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Borrachera",
-      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Pasion",
         "url": "https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 217146,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Puro Tejano",
+        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
+      },
+      "artists": [
+        {
+          "name": "Little Joe",
+          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Borrachera",
+      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 216346,
-      "name": "Con Mis Alas Rotas",
-      "url": "https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5"
+      "duration_ms": 217426,
+      "name": "Yo No Tengo La Culpa",
+      "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1792,9 +1792,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Yo No Tengo La Culpa",
-      "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
+      "duration_ms": 216346,
+      "name": "Con Mis Alas Rotas",
+      "url": "https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5"
     },
     {
       "added_at": "2023-03-10 18:44:18",

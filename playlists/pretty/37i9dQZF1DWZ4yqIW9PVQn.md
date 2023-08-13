@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,299 likes - 111 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309 likes - 111 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 89 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 |
 | 90 | [Petal](https://open.spotify.com/track/32FYSYIIpc1j6To2Qgl4hq) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/4YuNLaeHfW3p5tzSaEiFB1) | 4:04 |
 | 91 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 |
-| 92 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 |
+| 92 | [Nowhere](https://open.spotify.com/track/4kTZxgvVmd7K7aHIWCbC9z) | [JeongAro](https://open.spotify.com/artist/1Y8urbdlVHsSpTN7yc1JqU) | [Nowhere](https://open.spotify.com/album/3koUyscDUfW9sJsrdQZqk6) | 3:26 |
 | 93 | [After love](https://open.spotify.com/track/2ugH0jKsATjJsJGfG1e4pj) | [Party in My Pool](https://open.spotify.com/artist/2pl9dVDwRd7RGJnA9yyRHD), [Lee Michelle](https://open.spotify.com/artist/1raBwKX1IlL7ewBrCcd07p) | [Complicated](https://open.spotify.com/album/0OP5WsrqHp6GxCkadpmDEG) | 3:15 |
 | 94 | [All I want is you](https://open.spotify.com/track/6ESVVNkjPVG7w8VNon6GDH) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:19 |
 | 95 | [우리의 상아는 구름 모양 The Elephant](https://open.spotify.com/track/1JTTM8rBsNLiem0GCMP24a) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:36 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 110 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 111 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCwxZjI5MWVlOGQ5YmRhYzc3MmY1NGQ5ODdhY2RiYjBjOGQ4NDE1N2Fj`
+Snapshot ID: `MCw3YmYyYmNiMDk2M2U5MWVmMTE4NmE4MzM1NzRkZWQ4M2I3MDNjOTJm`

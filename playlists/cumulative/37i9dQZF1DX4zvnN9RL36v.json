@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 223258,
       "name": "Loving You is Loving Me",
       "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
@@ -1260,6 +1260,24 @@
       "duration_ms": 219440,
       "name": "to him",
       "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
+    },
+    {
+      "album": {
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG"
     },
     {
       "album": {

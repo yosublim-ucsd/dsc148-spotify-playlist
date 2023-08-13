@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,147 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,213 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 25 | [Blue Dunes](https://open.spotify.com/track/7p8brxEGCXT8VF4wWphDGI) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Blue Dunes](https://open.spotify.com/album/5L1AdJPeUnvRwyEk8OFx6g) | 2:48 |
 | 26 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 27 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
-| 28 | [Sea Waves](https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:13 |
+| 28 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 29 | [Resonant Wave](https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg), [Phil Heaven](https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ) | [Harmonic Way](https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0) | 5:35 |
 | 30 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 |
 | 31 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
 | 32 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
 | 33 | [Savasana Sunrise \- Dawn Flow](https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 5:45 |
 | 34 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
-| 35 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
+| 35 | [Sea Waves](https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:13 |
 | 36 | [Letting Go](https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI), [Bluetech](https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68) | [Prana Pulse](https://open.spotify.com/album/5O4WzB9mVJobYtlpFILShK) | 9:17 |
 | 37 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
 | 38 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 43 | [Honesty & Truth \- 10\-Minute Mix For Meditation & Massage](https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Spa Music: Tibet \(80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation\)](https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3) | 10:59 |
 | 44 | [Savasana](https://open.spotify.com/track/4knWfIEQO6hcKW20A16gYY) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Pamanyungan](https://open.spotify.com/album/4GafeD514GWyl9actIQHbA) | 8:32 |
 | 45 | [Storm of Prayers](https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI) | [Prana: Music for Yoga, Meditation & Relaxation](https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1) | 10:24 |
-| 46 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
-| 47 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 |
+| 46 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 |
+| 47 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
 | 48 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 |
 | 49 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
 | 50 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [REM Deep Sleep Inducing](https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 4:48 |
 | 100 | [Relaxing Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Natural Meditation Guru](https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN) | [Indian Music for Relaxation – Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
 
-Snapshot ID: `MCwxOTg4ZDFiMTU2NGRhYmUyYzRkZDY5MWE3YWY1YzJlYzE5ZTA4NjU3`
+Snapshot ID: `MCwzNDk1NjQ3MzJkMzA3NDc3OTg1NWE1ZmJmZjA2YmQ1ZWVlYmUyNTUz`

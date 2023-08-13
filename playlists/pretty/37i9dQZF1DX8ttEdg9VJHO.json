@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 340380,
+  "num_followers": 340490,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTJmOGViMzBiZTMzMGU2NGM5MGIzMDgxZjNjNjE0MmUxYWNmYTNm",
+  "snapshot_id": "MCxhODFiMDE1ZTIwY2JhNTRhYzQ2ZDFmOTk2OTdjYTVkZTA2OGVlYzIw",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+      "duration_ms": 169949,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
       "artists": [
         {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 169949,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "GROWING UP IS _____",
-        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "GROWING UP IS _____",
-      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 180581,
       "name": "Ready To Be Loved",
       "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
       },
       "artists": [
         {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 180062,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
+      "duration_ms": 172066,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
+      "duration_ms": 180062,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl"
-      },
-      "artists": [
-        {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        }
-      ],
-      "duration_ms": 198803,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -1087,18 +1071,34 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "We Can Be Just Friends",
-        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl"
       },
       "artists": [
         {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
         }
       ],
-      "duration_ms": 164135,
-      "name": "We Can Be Just Friends",
-      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
+      "duration_ms": 198803,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/6t8cfrbxqMrfQdOYYUd90r"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/52Z7SLcvX4b9tqiq2fiDzi"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1115,6 +1115,22 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "We Can Be Just Friends",
+        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "We Can Be Just Friends",
+      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1147,22 +1163,6 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
-        "name": "Settle Down",
-        "url": "https://open.spotify.com/album/6t8cfrbxqMrfQdOYYUd90r"
-      },
-      "artists": [
-        {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/52Z7SLcvX4b9tqiq2fiDzi"
     }
   ],
   "unique_name": "Feelgood Pop",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Bennett Coast
 
-1,638 songs - 3 day 14 hr 25 min
+1,639 songs - 3 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Half Life](https://open.spotify.com/track/7EpbGGZSj9wsXVHmQg7gyN) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Half Empty](https://open.spotify.com/album/0gKxpdLLqf2611EmOCA7mI) | 3:28 | 2020-11-10 | 2021-05-21 |
 | [Halloween](https://open.spotify.com/track/1qx755YI9plWMkHAoPq1lH) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Halloween](https://open.spotify.com/album/08MVxeBRotNzwJZhx5mNzY) | 2:35 | 2020-10-16 | 2021-01-15 |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0OStKKAuXlxA0fMH54Qs6E) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie III: Seven Days](https://open.spotify.com/album/1UdHs4K8sjSKy3BJJP1h8q) | 2:30 | 2020-10-24 | 2020-11-15 |
+| [Hallucinate](https://open.spotify.com/track/53khINup0uLYSDNiU7nKuL) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Hallucinate](https://open.spotify.com/album/2LzZKyFO0COd6mbeDeGVPb) | 2:59 | 2023-07-28 |  |
 | [Hang My Head](https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hang My Head](https://open.spotify.com/album/66Jgk4cIkmqjVjwO4VxIin) | 3:26 | 2021-06-03 | 2021-06-04 |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-17 | 2023-02-25 |
 | [Happen To Me](https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Happen To Me](https://open.spotify.com/album/7BHTjC0GfwdDkEDDvniZj7) | 3:51 | 2020-11-10 | 2022-04-16 |
@@ -1571,7 +1572,7 @@
 | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [WHAT WOULD YOU DO? \(feat\. Pink Sweat$\)](https://open.spotify.com/album/5QKRK4MEDqyjPmX4dErfTw) | 3:12 | 2021-06-11 | 2022-04-15 |
 | [What You're Made Of](https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [What You're Made Of](https://open.spotify.com/album/3V1JAPu9uyL0n7DU1hdrzP) | 2:52 | 2021-06-03 | 2021-06-04 |
 | [What's up](https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk) | 2:52 | 2023-06-02 | 2023-06-07 |
-| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 |  |
+| [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 | 2023-06-02 | 2023-08-13 |
 | [What's Wrong](https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [What's Wrong](https://open.spotify.com/album/3L275DRtt9sRWWdGMRDQ51) | 2:57 | 2021-04-03 | 2022-04-29 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-25 | 2022-10-08 |
 | [WHATDOISAY?](https://open.spotify.com/track/0w69QFnWIwTCwEzI1lxkTC) | [Maggie Miles](https://open.spotify.com/artist/3fU7b1NSQYROvvdepD4PZ0) | [WHATDOISAY?](https://open.spotify.com/album/1a0pyLgTaQHKVJJlxm4m8p) | 3:09 | 2020-10-20 | 2021-05-28 |

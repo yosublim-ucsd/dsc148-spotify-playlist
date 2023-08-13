@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 403760,
       "name": "'Round Midnight - Live At Palais Des Congres, Paris / 1999",
       "url": "https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 494560,
       "name": "Catania",
       "url": "https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc"
@@ -5641,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "New sponsor",
+        "url": "https://open.spotify.com/album/2Xgmzfb2ZGhDBM0xYfj86c"
+      },
+      "artists": [
+        {
+          "name": "Henry Albert Trio",
+          "url": "https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198025,
+      "name": "New sponsor",
+      "url": "https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq"
+    },
+    {
+      "album": {
         "name": "World Painter",
         "url": "https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC"
       },
@@ -9122,6 +9140,24 @@
       "duration_ms": 450426,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd"
+    },
+    {
+      "album": {
+        "name": "What I\u2019m doing wrong?",
+        "url": "https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP"
+      },
+      "artists": [
+        {
+          "name": "Songbird Trio",
+          "url": "https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177331,
+      "name": "What I\u2019m doing wrong?",
+      "url": "https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V"
     },
     {
       "album": {

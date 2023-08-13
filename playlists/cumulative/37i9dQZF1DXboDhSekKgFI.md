@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-76 songs - 4 hr 5 min
+77 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Esto es una fiesta](https://open.spotify.com/track/1EJPIRE9940BW0ksVlt3Of) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Esto es una fiesta \(Music from the TV Series\)](https://open.spotify.com/album/27sSsMXBELJJkHpasXVq0u) | 2:13 | 2020-04-27 |  |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2020-04-27 |  |
 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 | 2020-04-27 |  |
-| [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 | 2020-04-27 |  |
+| [Festival](https://open.spotify.com/track/5u1Nj9PCsHHrEkx4bTTv9T) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/7MAb0h0jW4yff08JYsIinA) | 3:26 | 2020-04-27 |  |
+| [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 | 2020-04-27 | 2023-08-13 |
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2020-04-27 |  |
 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 | 2020-04-27 |  |
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-04-27 |  |

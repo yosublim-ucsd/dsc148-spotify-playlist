@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap só dá o play e aumenta! Foto: Ryu, the Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,126 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,927 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 | 50 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
 
-Snapshot ID: `MCw4MWVmNDJjM2U2MDNlMzY1MTJjODA4OWJhYjM5YzNhMjQwMDZjOGY4`
+Snapshot ID: `MCw4OTk5OWVlYTY2ZjA3MzRkNDc2YTI2YTg1ODkwNmQ5YTVjMjk4ODIz`

@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-316 songs - 19 hr 38 min
+317 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 | 2022-07-19 | 2022-09-03 |
 | [Brindemos por Ellas](https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Ronny Mercedes](https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2) | [Brindemos por Ellas](https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2) | 3:39 | 2022-03-04 | 2022-09-03 |
 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 | 2023-07-07 |  |
-| [Canaima](https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Canaima](https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok) | 2:29 | 2023-07-28 |  |
+| [Canaima](https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Canaima](https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok) | 2:29 | 2023-07-28 | 2023-08-13 |
 | [Caprichito](https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Caprichito](https://open.spotify.com/album/0sI8xJ3Um4Bx7YECYOXNpH) | 3:46 | 2023-04-14 |  |
 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 | 2022-03-04 | 2022-07-29 |
 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 | 2022-03-04 | 2022-09-30 |
@@ -86,6 +86,7 @@
 | [Dec\. 21](https://open.spotify.com/track/5HXMo0UmeCdK9c8uDm9KKz) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Dec\. 21](https://open.spotify.com/album/1NmenPP7T2r5WlWdYlZNYV) | 3:31 | 2022-03-25 | 2022-07-16 |
 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 | 2022-03-04 |  |
 | [Descarados](https://open.spotify.com/track/37LgVakNT0vVHU8C7kPjKd) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Descarados \- Single](https://open.spotify.com/album/2ZYo0qYURje5FXX5j6vcnG) | 3:03 | 2022-03-25 | 2022-07-24 |
+| [Desde Cero](https://open.spotify.com/track/3Lj8lhwQXIpBpshQNFOpMa) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Desde Cero](https://open.spotify.com/album/3poewmREiVEL85dIOHfped) | 3:28 | 2023-08-11 |  |
 | [Desnudos](https://open.spotify.com/track/0OIIQRWuA7UvljV4FwU5Wi) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:18 | 2022-07-19 | 2022-09-03 |
 | [Desnudos](https://open.spotify.com/track/1jcuM7QyfvgLb3hQE9thuR) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Desnudos](https://open.spotify.com/album/1ixJW996NTmv40SvpRSW0o) | 3:18 | 2022-03-04 | 2022-07-29 |
 | [Dile](https://open.spotify.com/track/1w2cCY4iJ50Pm9qtwt310x) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Dile](https://open.spotify.com/album/0gwDKRO0kdXe8digRzZqFs) | 3:16 | 2022-03-04 | 2022-07-29 |

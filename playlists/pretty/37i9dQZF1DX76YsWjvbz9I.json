@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 225965,
+  "num_followers": 226390,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTIyNTJhNjhjNjE2MTA3ODlmMTA2ODA0OGU1ZjQwYTIxYWQ1OGUw",
+  "snapshot_id": "MCxiMTBlNThjZTlkNTI5NGY5OTNlNzNlNDIyNWYwNTg5ZjIxMTRhY2Zj",
   "tracks": [
     {
       "added_at": "2023-08-08 14:19:22",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+      "duration_ms": 320773,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 320773,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "Like Someone In Love - Vocal Version",
-      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "Mystery Lady: Songs of Billie Holiday",
         "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 266733,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 146040,
+      "name": "Like Someone In Love - Vocal Version",
+      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -627,22 +627,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 164866,
-      "name": "Save Your Love For Me",
-      "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -663,6 +659,26 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 161173,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
-        "name": "Sings Sweet Songs For Swingers",
-        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 161960,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Sings Sweet Songs For Swingers",
+        "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "Winners",
         "url": "https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 216626,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 378373,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/4NHNztFS67GSpnU611l74v"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "L.A. Is My Lady",
         "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 225933,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 378373,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/4NHNztFS67GSpnU611l74v"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "That's All",
-      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "Pointless Nostalgic (Remastered)",
         "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
+        "name": "Sings The Music Of Cole Porter",
+        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
         "name": "Sings The Rodgers & Hart Songbook",
         "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "Sings The Music Of Cole Porter",
-        "url": "https://open.spotify.com/album/7FyTUyjduHNUKGU1uTbvak"
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 232226,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0iYxYs1kiiStzdaK29yHP2"
+      "duration_ms": 211133,
+      "name": "That's All",
+      "url": "https://open.spotify.com/track/6QQZ902yIsQOHCusbHb3g9"
     },
     {
       "added_at": "2023-08-08 14:19:22",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-08 14:19:22",
       "album": {
-        "name": "I Feel a Song Coming On: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 167723,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
-    },
-    {
-      "added_at": "2023-08-08 14:19:22",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 109813,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
+    },
+    {
+      "added_at": "2023-08-08 14:19:22",
+      "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
     },
     {
       "added_at": "2023-08-08 14:19:22",

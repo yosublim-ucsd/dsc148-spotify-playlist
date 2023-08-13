@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,941 likes - 70 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,122 likes - 70 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 28 | [Hino da Vitória](https://open.spotify.com/track/2MHtGSaW12T738131nTj0d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:47 |
 | 29 | [Não Morrerei](https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Força Jovem RJ](https://open.spotify.com/artist/6MyKEycdZOKcCXq0pQ4feI), [Angelo Torres](https://open.spotify.com/artist/5hvG3vCln060TdigBSXnOV) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 3:51 |
 | 30 | [Me Ajude A Melhorar](https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Casa De Deus](https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm) | 3:36 |
-| 31 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
-| 32 | [Me Leva Pra Casa](https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T) | [Israel Subira](https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU) | [Me Leva Pra Casa](https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD) | 7:45 |
+| 31 | [Me Leva Pra Casa](https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T) | [Israel Subira](https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU) | [Me Leva Pra Casa](https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD) | 7:45 |
+| 32 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
 | 33 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 |
 | 34 | [Lindo És + Só Quero Ver Você \- Ao Vivo](https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Livres ao Vivo em São Paulo](https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C) | 7:27 |
 | 35 | [Yeshua](https://open.spotify.com/track/6466PQ9yTWUsEr1sWBpH2w) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yeshua](https://open.spotify.com/album/5CJfvaEHC43XbIFCDRN97k) | 5:43 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 53 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
 | 54 | [Você Me Leva ao Deserto](https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Há Um Vinho Novo](https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80) | 5:15 |
 | 55 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 |
-| 56 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
-| 57 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
+| 56 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
+| 57 | [Deus Vai Fazer \(feat\. Damaris Brandão\)](https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Damaris Brandão](https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:35 |
 | 58 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
 | 59 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
 | 60 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 70 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 |
 
-Snapshot ID: `MCxhMGFhODI5OTc2YzM4NjliMThmNTg5NzdlNGM3NGY0NzE4ZGYxNTAx`
+Snapshot ID: `MCxjMjMwMThlZmJiNjc4YWQyNWYyNmI0YTM5NDBiNTg1YjZiOTA3NTYy`

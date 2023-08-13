@@ -7744,7 +7744,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 163190,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m"
@@ -13543,6 +13543,28 @@
     },
     {
       "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+    },
+    {
+      "album": {
         "name": "\"God, Forgive These Bastards\" Songs From The Forgotten Life of Henry Turner",
         "url": "https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm"
       },
@@ -14614,7 +14636,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
@@ -14938,7 +14960,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 229562,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO"
@@ -17078,7 +17100,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 88605,
       "name": "listen!",
       "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
@@ -20388,7 +20410,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -27246,7 +27268,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 147049,
       "name": "Special K",
       "url": "https://open.spotify.com/track/2GeCqcr5X9P055lHR9foYn"
@@ -31104,7 +31126,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 180033,
       "name": "Try That In A Small Town",
       "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
@@ -34457,7 +34479,7 @@
     },
     {
       "album": {
-        "name": "Make It A Double",
+        "name": "You Wish + Trashboi",
         "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
       },
       "artists": [

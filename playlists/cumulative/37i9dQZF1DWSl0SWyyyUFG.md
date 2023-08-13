@@ -4,12 +4,13 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-245 songs - 12 hr 51 min
+246 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 | 2021-10-22 |  |
 | [Acuerdate De Mi](https://open.spotify.com/track/0Qv6Bdi1KitiMtuKly796E) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:52 | 2021-10-22 | 2022-07-29 |
+| [Acuérdate De Mi](https://open.spotify.com/track/6aN8TKLXGFkELIwJfCWZzi) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:52 | 2023-08-08 |  |
 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 | 2022-12-30 |  |
 | [Al Final De Nuestra Historia](https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU) | 3:17 | 2021-10-22 | 2022-11-18 |
 | [Al gato y al ratón](https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:42 | 2021-10-22 |  |
@@ -201,7 +202,7 @@
 | [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 | 2021-10-22 | 2022-07-29 |
 | [Río Rebelde](https://open.spotify.com/track/2tkxHULxMGrgDNkTvcZBhR) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [La Única](https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH) | 2:52 | 2021-10-22 | 2023-08-09 |
 | [Sangoloteadito](https://open.spotify.com/track/3Eql8puvczeQC4WWgcDv7R) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:59 | 2021-10-22 | 2022-07-29 |
-| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2021-10-22 |  |
+| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2021-10-22 | 2023-08-13 |
 | [Sangoloteadito](https://open.spotify.com/track/59Mef3D20yXBdqXahLv3AO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Las Retro Chingonas: Las Favoritas de Mamá](https://open.spotify.com/album/7fFOroJrce5OZ6JS5dYvcs) | 3:02 | 2021-10-22 | 2022-11-13 |
 | [Se Me Canso El Corazon](https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 3:08 | 2021-10-22 |  |
 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 | 2021-10-22 |  |

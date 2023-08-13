@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 235452,
+  "num_followers": 235592,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJmNjc4ZmMxM2EyMjAzYjFkNzVhMWI5MTk0MjRhZTUxMTU4OWMz",
+  "snapshot_id": "MCw0OWQ1ZTkzOTE0ZjY4ZTE0MmYxNDdjNDJjZTA4MTc1YmM1MDRiNTZh",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225253,
       "name": "Even Though I'm Leaving",
       "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Where I Find God",
+      "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Stack of Records",
-        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
-      },
-      "artists": [
-        {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "Where I Find God",
-      "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Can't Say I Ain't Country",
-        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Small Town Crazy",
         "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 162352,
       "name": "Small Town Crazy",
       "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Can't Say I Ain't Country",
+        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Raised Up Right",
-        "url": "https://open.spotify.com/album/65me2n6m4vtVzbZ26h1w04"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194838,
-      "name": "Raised Up Right",
-      "url": "https://open.spotify.com/track/4sajp0FouooklY5JCHzwvh"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 252493,
       "name": "Give Me Back My Hometown",
       "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Raised Up Right",
+        "url": "https://open.spotify.com/album/65me2n6m4vtVzbZ26h1w04"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194838,
+      "name": "Raised Up Right",
+      "url": "https://open.spotify.com/track/4sajp0FouooklY5JCHzwvh"
     },
     {
       "added_at": "2023-07-14 04:00:00",

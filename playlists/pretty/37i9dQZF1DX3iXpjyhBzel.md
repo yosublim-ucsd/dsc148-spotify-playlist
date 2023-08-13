@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Rebeca Carvalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,747 likes - 100 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,127 likes - 100 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 83 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 |
 | 84 | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 |
 | 85 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
-| 86 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
-| 87 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
-| 88 | [Tu És Fiel](https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Tu És Fiel](https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N) | 5:01 |
-| 89 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
+| 86 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
+| 87 | [Primeira Essência](https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 2](https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X) | 4:40 |
+| 88 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn) | 5:04 |
+| 89 | [Tu És Fiel](https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Tu És Fiel](https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N) | 5:01 |
 | 90 | [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 |
 | 91 | [Saudai o Rei Jesus \(All Hail King Jesus\) \- Ao Vivo](https://open.spotify.com/track/5gZIS1GbJxNgc0rTzzM6Lq) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 6:57 |
 | 92 | [Doxologia \(feat\. AMÉM\)](https://open.spotify.com/track/5DXFKMcwCf0w2E6sIcfu5a) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP) | [Doxologia \(feat\. AMÉM\)](https://open.spotify.com/album/5uAYngAUPvd0RDdmnfsjfF) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 |
 | 100 | [Tu és Fiel Senhor / Sou Feliz / Meu Tributo](https://open.spotify.com/track/3GPG1S2vY1ptyCM9VjxrXR) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Tu és Fiel Senhor / Sou Feliz / Meu Tributo \(Ao Vivo\)](https://open.spotify.com/album/0372gytPSbw0SKdWnHU11P) | 5:16 |
 
-Snapshot ID: `MCw0ZTVjM2YxMTYwYzk4NDAzYmY4ZjRhZDFhOWVhZWU4MDFjMzViZWUz`
+Snapshot ID: `MCw2ZGE0MWZmMzExMTJhNzBhYjYwZmYyYWM3NWNhZmFkYzdjZGJlNDE4`

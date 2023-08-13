@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Typhoon
 
-284 songs - 13 hr 41 min
+285 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Goed Nieuws](https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Goed Nieuws](https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s) | 3:43 | 2023-06-01 | 2023-06-23 |
 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 | 2023-06-29 |  |
 | [Heel Voorzichtig](https://open.spotify.com/track/4tztLvoZQM8dh9igywG5lj) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Heel Voorzichtig](https://open.spotify.com/album/6TuzXkeovBRJESi56txMVU) | 3:01 | 2023-06-15 |  |
+| [Heet](https://open.spotify.com/track/1JIoe7WHdVMRun0XRwUq8g) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Heet](https://open.spotify.com/album/3XNt9DB77grWkzXEomVvdO) | 3:01 | 2023-08-12 |  |
 | [Heimwee](https://open.spotify.com/track/3jTDCptomGx0Y7NF7T874P) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Heimwee](https://open.spotify.com/album/0jfzgWx5m88pvXWbyA8kbw) | 2:45 | 2023-02-23 | 2023-03-25 |
 | [Helder](https://open.spotify.com/track/12UPFDkEv0yW7quLCTze44) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Helder](https://open.spotify.com/album/0ZhIFPsMmwsF5GtpgK2plV) | 2:14 | 2023-02-23 | 2023-04-07 |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-23 | 2023-05-10 |

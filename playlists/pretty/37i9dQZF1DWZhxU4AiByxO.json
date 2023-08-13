@@ -1,12 +1,12 @@
 {
   "description": "Enjoy some kid-friendly pop tunes.",
-  "num_followers": 443177,
+  "num_followers": 443158,
   "original_name": "Pop 4 Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2RlZWFjYzRkOGJiMGIyM2JkYzM2NDNjZjc2MmFiNDY1MzM3Mzg1",
+  "snapshot_id": "MCwzYTlhODcwZmVhZDc3N2Y1NmYzMjhkNTkzMzkxNzc0NDg2MDc3OGQz",
   "tracks": [
     {
       "added_at": "2023-06-21 16:44:46",
@@ -723,6 +723,46 @@
       "duration_ms": 184000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
+    },
+    {
+      "added_at": "2023-06-21 16:44:46",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
       "added_at": "2023-06-21 16:44:46",

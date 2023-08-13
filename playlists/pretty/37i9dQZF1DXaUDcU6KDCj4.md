@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Shakey Graves
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,131 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,208 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 142 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 143 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
 | 144 | [Saturn Returning](https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Saturn Returning](https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA) | 2:47 |
-| 145 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/4AIcVoMMyutcuiSPVvSS5n) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 3:04 |
+| 145 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/1QvlEyfVC3QB5tnbTuDdV2) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Inflorescence](https://open.spotify.com/album/7wcqwO6mYfEcQVJt2CAUu3) | 3:04 |
 | 146 | [Til the Day I Die](https://open.spotify.com/track/4DWerKpi6EkGiCBo1M7O6w) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Strange Weather](https://open.spotify.com/album/7aHwTEU8eEbVHZa2gJQArj) | 3:11 |
 | 147 | [Stuck In A Room](https://open.spotify.com/track/7qK6GYLSuy28Vz0wPZzVCB) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Stuck In A Room](https://open.spotify.com/album/1Hus5kgGEybS8diRKiKWVb) | 2:11 |
 | 148 | [Sheep Song](https://open.spotify.com/track/12c743o30lNiAysRaNu29y) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Sheep Song](https://open.spotify.com/album/0ETbfyLtecs5wGYVpGdo77) | 3:50 |
 | 149 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
 | 150 | [Out On The Road \- Mondo Version / Bonus Track](https://open.spotify.com/track/3li4MoN6EJvRpkxMr9OLXd) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Little Broken Hearts \(Deluxe Edition\)](https://open.spotify.com/album/3iQMKWUB3u2q5DSQj5G4Pg) | 3:22 |
 
-Snapshot ID: `MCwwYmU2MzNlN2U4MzcwNjg4NDk2ZTM5NDY2ZTZlZDdmMmVlMDE0OWNh`
+Snapshot ID: `MCxjOWM5NzU0NTJjZmE2ZTYwYjk1ZTQxYzQ5ZGEzNzkzNzcxOTM1YWY3`

@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Love Wore A Halo (Back Before the War)",
+        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Love Wore A Halo (Back Before The War)",
+      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+    },
+    {
+      "album": {
         "name": "Live at the Old Quarter",
         "url": "https://open.spotify.com/album/2drUynocyGveMTFheprmJy"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"

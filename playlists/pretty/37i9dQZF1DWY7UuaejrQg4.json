@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 77384,
+  "num_followers": 77410,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2Q4YzIyYmFjZmY3YjBmZDNiMjFmYWQ2NjIwOTExMGMyNmQ1MTVl",
+  "snapshot_id": "MCxiNDI5ODJhYWViZWQyMjI1YzBlMTg5NzU0ODc4ZTE3N2NkOGRmMWMx",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "4EVER",
         "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Feeling Lonely",
-      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 184599,
       "name": "Heavy, California",
       "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Feeling Lonely",
+      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Chiquito",
-        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Kwe$t",
-          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "Summer Time High Time",
-      "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Say, Can You Hear",
         "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
       },
@@ -1103,18 +1083,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "Chiquito",
+        "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Kwe$t",
+          "url": "https://open.spotify.com/artist/7Llo2snfeOZSNoo5508aqk"
         }
       ],
-      "duration_ms": 196588,
-      "name": "Give Yourself A Try",
-      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
+      "duration_ms": 208067,
+      "name": "Summer Time High Time",
+      "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1147,6 +1131,22 @@
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 196588,
+      "name": "Give Yourself A Try",
+      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 234055,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 234055,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1279,22 +1295,6 @@
       "duration_ms": 190693,
       "name": "All I Want To Hear You Say",
       "url": "https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2022-03-08 15:07:06",

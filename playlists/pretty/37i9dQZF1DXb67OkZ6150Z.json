@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 283928,
+  "num_followers": 283999,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzMxODM5ODFiZmMyYmNlZDJmNTJmZmIzNTI5MTMwY2Y3OGYyNDcw",
+  "snapshot_id": "MCwzOGM4YTJkZjk3YjNkNGE5YTcwYWQ0MTc2ZjAwYzk4N2RlNWQ0ZGZm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Dancing on My Own",
@@ -667,6 +651,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Volume 1",
@@ -755,6 +739,22 @@
       "duration_ms": 126343,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -829,20 +829,24 @@
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-08-08 14:58:46",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+      "duration_ms": 265772,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -859,6 +863,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -949,22 +969,6 @@
       "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Blinding Lights",
@@ -987,6 +991,22 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1111,6 +1131,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -1127,38 +1163,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5"
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 205220,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1309,26 +1309,6 @@
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
-      },
-      "artists": [
-        {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "The Version Suicides, Vol. 2",
@@ -1367,6 +1347,26 @@
       "duration_ms": 280086,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+      },
+      "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "On the Road Again",
-        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
         }
       ],
-      "duration_ms": 145305,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
+      "duration_ms": 190333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Stolen Time Deluxe",
-        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
+        "name": "On the Road Again",
+        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
       },
       "artists": [
         {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
+      "duration_ms": 145305,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1535,6 +1535,22 @@
       "duration_ms": 176853,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
     },
     {
       "added_at": "2023-07-20 17:51:58",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
+        "name": "I Kissed a Boy",
+        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
         }
       ],
-      "duration_ms": 199062,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz"
+      "duration_ms": 182213,
+      "name": "I Kissed a Boy",
+      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "I Kissed a Boy",
-        "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "I Kissed a Boy",
-      "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2023-08-08 14:58:46",
+      "album": {
+        "name": "I Love You (But You're Boring)",
+        "url": "https://open.spotify.com/album/5bAGxbsl5q0Rg9XxZP14Yg"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "I Love You (But You're Boring)",
+      "url": "https://open.spotify.com/track/2zvoxw6eF6Ruif28Mu3JE5"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1685,36 +1701,20 @@
       "url": "https://open.spotify.com/track/3P87k30Y8InwhW8Vx9YOZR"
     },
     {
-      "added_at": "2023-08-08 14:58:46",
-      "album": {
-        "name": "I Love You (But You're Boring)",
-        "url": "https://open.spotify.com/album/5bAGxbsl5q0Rg9XxZP14Yg"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "I Love You (But You're Boring)",
-      "url": "https://open.spotify.com/track/2zvoxw6eF6Ruif28Mu3JE5"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cool Dry Place (Expanded)",
-        "url": "https://open.spotify.com/album/0BxC9YkHqyPbj5sk9wvJ1m"
+        "name": "Bad News from Home",
+        "url": "https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 218836,
-      "name": "Bad Man",
-      "url": "https://open.spotify.com/track/5jlechEPcQgjdHgr2t57w8"
+      "duration_ms": 169584,
+      "name": "Bad News from Home",
+      "url": "https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk"
     }
   ],
   "unique_name": "Indie Covers",

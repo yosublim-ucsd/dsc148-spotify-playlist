@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-113 songs - 7 hr 26 min
+114 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 | 2022-03-07 |  |
 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 | 2022-06-09 |  |
 | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/track/36OfOb4vcMDpnCp08CkAoZ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/album/6cUZKyRcIN505hk8MxDm2v) | 3:39 | 2022-03-07 | 2022-07-29 |
-| [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 |  |
+| [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 | 2023-08-13 |
 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 | 2022-03-07 |  |
 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 | 2022-03-07 |  |
 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2022-03-07 |  |
@@ -75,6 +75,7 @@
 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 | 2022-06-09 |  |
 | [Till The End of Time](https://open.spotify.com/track/03YtYSkpHqqY3EBmHJkTjP) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Another Miss Oh \(Original Television Soundtrack\), Pt 7](https://open.spotify.com/album/7MoXcGUrx7gzm95iSLAIHV) | 4:29 | 2022-03-07 |  |
 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19 to 20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 | 2022-03-07 | 2023-08-06 |
+| [to him](https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2) | 3:39 | 2023-05-02 |  |
 | [To me, to you](https://open.spotify.com/track/0vZoGvgmr4OPZG1CpYiiow) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W) | [The name of the flower is](https://open.spotify.com/album/3kua7mWxDfHuDEzDfwzgKK) | 3:12 | 2022-03-07 | 2022-08-19 |
 | [Toy](https://open.spotify.com/track/0yD2ihr9ZseEZQXQcz6y61) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/1eTUNDuzCMs5n39C6eWAEA) | 3:26 | 2022-03-07 | 2022-07-29 |
 | [Toy](https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Blooming Period](https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3) | 3:26 | 2022-06-09 |  |

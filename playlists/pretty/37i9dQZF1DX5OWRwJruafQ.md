@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,796 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,859 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 41 | [Mumble](https://open.spotify.com/track/54hKX4l7Ul9onSHbqjvDHv) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Mumble](https://open.spotify.com/album/30h7pg2eJvOUeqx5B6fRno) | 3:03 |
 | 42 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 |
 | 43 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 |
-| 44 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:20 |
+| 44 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:20 |
 | 45 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 |
 | 46 | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq) | 2:28 |
 | 47 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 78 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 79 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCxiMzg0ZTdkMDZiNTY5NjMzNmYxMDFiNDdkYTZjODBlZDk0ZDBiMWZl`
+Snapshot ID: `MCxhZWJmMDRmYThkNzY1M2NlOWEwOGYxNTczMjc5OTIwOTRlMTJlZTc2`

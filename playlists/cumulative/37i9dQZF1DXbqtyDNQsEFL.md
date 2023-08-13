@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-182 songs - 21 hr 1 min
+183 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 | 2023-06-16 |  |
 | [Emmanuel](https://open.spotify.com/track/466dosccGHgyox0Wr3hdea) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [NWANDO OMOSEBI](https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT), [IFIOK EZENWA](https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:46 | 2022-06-09 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2023-07-28 |  |
-| [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
+| [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-08-13 |
 | [Exalted](https://open.spotify.com/track/5fzrSMisZDfevOeNYX3a7j) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:36 | 2022-10-14 | 2022-11-05 |
 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 | 2023-04-14 |  |
 | [Eze Ebube II](https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Ebube II](https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh) | 7:12 | 2022-06-16 | 2023-06-16 |
@@ -78,6 +78,7 @@
 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 | 2022-06-09 | 2023-08-12 |
 | [Imagine me](https://open.spotify.com/track/0VAqGWb9Q9MUqgGGbJZZ0E) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Imagine me](https://open.spotify.com/album/3kdwXD4qQzAxuRbHSD87fB) | 2:40 | 2023-06-16 | 2023-06-30 |
 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 | 2023-08-04 |
+| [In Your Arms](https://open.spotify.com/track/7D4Dco7KtJWomSWYNbECA7) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [In Your Arms](https://open.spotify.com/album/7mBjRZdYC0gN0du3ZKHHvK) | 7:11 | 2023-08-11 |  |
 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 | 2022-06-09 | 2023-04-15 |
 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 | 2022-06-09 |  |
 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 | 2022-06-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s.",
-  "num_followers": 1691384,
+  "num_followers": 1691934,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDg1OTU2ZmUzZmE1MWMwMzNhZmRjYTQxODk3N2E4ZjIzNmRmMTFh",
+  "snapshot_id": "MCwyZGQ1YWE4OTFlYjMzYjc4ZTVmMjI1NmNhMWFlMTIxOTM3ZGI3MGYz",
   "tracks": [
     {
       "added_at": "2022-06-09 22:02:00",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 256120,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -779,8 +779,8 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 147880,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Strange Fruit",
-      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
         "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1411,8 +1395,24 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Sinatra And Swingin' Brass",
-        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+        "name": "Bo Diddley",
+        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
@@ -1420,9 +1420,25 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 194093,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 159906,
       "name": "Magic Moments",
       "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Columbia Singles, Vol. 2",
-        "url": "https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Rags to Riches",
-      "url": "https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
@@ -1511,22 +1495,34 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Call Of The Wildest (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
+        "name": "The Columbia Singles, Vol. 2",
+        "url": "https://open.spotify.com/album/69MC1P86JXGPPfRDOgicPO"
       },
       "artists": [
         {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        },
-        {
-          "name": "Sam Butera & The Witnesses",
-          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
+      "duration_ms": 168480,
+      "name": "Rags to Riches",
+      "url": "https://open.spotify.com/track/4BH8EuPAxeFAh1rSWtnGdD"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "The Call Of The Wildest (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5RDBugAE4cU2vbLZj0dvmf"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        },
+        {
+          "name": "Sam Butera & The Witnesses",
+          "url": "https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+      "duration_ms": 141666,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/4tmy6FB76bR5eLmx0zO1mn"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "Presenting Dion And The Belmonts",
         "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 141386,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Little Adventures of Thurston Harris (65th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -1999,22 +1999,6 @@
       "duration_ms": 157866,
       "name": "You Mean Everything to Me",
       "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
-        "name": "Milestones of \"The\" Legends - Boy Groups, Vol. 8",
-        "url": "https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Why Do Fools Fall In Love?",
-      "url": "https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2327,22 +2311,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
       },
@@ -2359,18 +2327,18 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 129613,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/2s4B4fUlVIkE4ELgoupjXL"
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2022-06-09 22:02:00",
@@ -2395,6 +2363,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 129613,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/2s4B4fUlVIkE4ELgoupjXL"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "Get Rhythm / I Walk the Line",
         "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
       },
@@ -2415,22 +2399,6 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
-        "name": "Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "It's Not For Me To Say",
-      "url": "https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2"
-    },
-    {
-      "added_at": "2022-06-09 22:02:00",
-      "album": {
         "name": "The Magic Of Sarah Vaughan",
         "url": "https://open.spotify.com/album/2hTjOrY0sgLWBtvkxb1pcF"
       },
@@ -2447,6 +2415,22 @@
     {
       "added_at": "2022-06-09 22:02:00",
       "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "It's Not For Me To Say",
+      "url": "https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 138640,
       "name": "He'll Have to Go",
       "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+    },
+    {
+      "added_at": "2022-06-09 22:02:00",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     }
   ],
   "unique_name": "All Out 50s",

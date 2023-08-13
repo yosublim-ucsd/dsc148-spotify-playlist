@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 664364,
+  "num_followers": 664700,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODBlYTRlZjhiZjQ3MTRlNTA0Y2NlZDQ1MzZjMTY3MTIwNGRmMzY1",
+  "snapshot_id": "MCxkYjlhZjJlODJmNzBkOWQ0NGNjNjhkOGFmNTk5MzYxZDU1NmIxZDhm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "T\u00f9 No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Lo Mio Es Amor",
         "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 299893,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "T\u00f9 No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Grandes Exitos - Live",
-        "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 441360,
-      "name": "Un Verano En Nueva York",
-      "url": "https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 305200,
       "name": "Dile a Ella",
       "url": "https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Grandes Exitos - Live",
+        "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 441360,
+      "name": "Un Verano En Nueva York",
+      "url": "https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN"
     },
     {
       "added_at": "2023-03-17 00:48:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fredo \(pictured\), Olivia Rodrigo, Fred Again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,386 likes - 139 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,441 likes - 139 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 53 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 54 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 |
 | 55 | [Do You Feel It](https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Do You Feel It](https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y) | 3:06 |
-| 56 | [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 |
+| 56 | [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 |
 | 57 | [decay](https://open.spotify.com/track/6KOBwRuYhao5Q7b9kL5h6D) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [in the flesh](https://open.spotify.com/album/1795Gnf8L33OI6FuVwWeOe) | 2:46 |
 | 58 | [Cap 2 da Side](https://open.spotify.com/track/4O6uoBjLCGRqSTopXl9x8x) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Cap 2 da Side](https://open.spotify.com/album/5YS7zT4TXxqj2VGRlYe7dN) | 2:36 |
 | 59 | [Fucked Up](https://open.spotify.com/track/6zGpRBIN6LBqQ7wV8yL4MC) | [Alexander Benjamin](https://open.spotify.com/artist/4M1EwKYNg2mwMhkjXzk1us) | [Fuck Knows](https://open.spotify.com/album/1U3X1uFdAiMH4A0jiBsMxC) | 3:35 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 138 | [Lidocaine](https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A) | 2:31 |
 | 139 | [Golden Highs](https://open.spotify.com/track/0jJZZit9EZdmbuG8lHPV4u) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Golden Highs](https://open.spotify.com/album/2qxq7n2YzyVwRBskiPFYn4) | 3:51 |
 
-Snapshot ID: `MCw0NTAxYmNiOWE3MjhjMjU5MTE4YWFjNWVjMGZmNjdiODhkNTUzNjI3`
+Snapshot ID: `MCw0ZDViNjcwYjc0ZDY4ZDJiNTEzZmM2NDI1OTViOGI1MWM0ODNiMWY5`

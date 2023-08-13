@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,612 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,782 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 12 | [Everyday \- Netsky Remix](https://open.spotify.com/track/76kY7vDRhosNwxcml9LwTR) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Everyday/Lick The Lizard](https://open.spotify.com/album/1dpRdYiURwamTQ14T9OrDi) | 4:11 |
 | 13 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 14 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
-| 15 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
-| 16 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
+| 15 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
+| 16 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
 | 17 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 18 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
 | 19 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 28 | [Perfect Stranger \(feat\. Katy B\)](https://open.spotify.com/track/45pKLqudtUxyytI3xPBap7) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 5:57 |
 | 29 | [Changes](https://open.spotify.com/track/0PfR5qCmwobwbpXL3vaqPm) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/0Sg1wEBeKHsV2v9FOQlBm9) | 6:50 |
 | 30 | [Midnight \- Bassnectar Remix](https://open.spotify.com/track/6FOW4afZzzl8eqNKnvNTsV) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Midnight](https://open.spotify.com/album/78FzmtmPS5byGfw6tsz8QM) | 3:39 |
-| 31 | [Intensive Snare feat\. Skepta \- Original Mix](https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 3:44 |
-| 32 | [Woo Boost](https://open.spotify.com/track/5NqgbZeRoGf5ZV7B9Z4gcG) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:09 |
+| 31 | [Woo Boost](https://open.spotify.com/track/5NqgbZeRoGf5ZV7B9Z4gcG) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:09 |
+| 32 | [Intensive Snare feat\. Skepta \- Original Mix](https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 3:44 |
 | 33 | [Hard](https://open.spotify.com/track/35M4cbE6QoUF5b3SlOR9GS) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh), [Newham Generals](https://open.spotify.com/artist/4uvxuGejwpYNsKHUkNNtc7) | [Foundation](https://open.spotify.com/album/3xy1r4NNCOswj3q7vKJpDd) | 3:43 |
 | 34 | [Running](https://open.spotify.com/track/5BW2ieMFF1MhCgdUvbCmP3) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 4:47 |
 | 35 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 39 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 |
 | 40 | [Japan \- Original Mix](https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 4:08 |
 
-Snapshot ID: `MCwyM2RjY2IyNGVkOTA3N2ZjOWYxZjI4ZTExZGVlMjNjM2E1MDNhMjc5`
+Snapshot ID: `MCwxZTc4YzIwOGRhYTM3ZDUxYzA4YzAxZWVjZDhlOThlM2Q3NGJjYTNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,496 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,525 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 | 50 | [I Could Use A Miracle](https://open.spotify.com/track/4ZOLpF93H8Rhl1eI8gFELd) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Late Checkout](https://open.spotify.com/album/4OGaMVoEehxXtlBJ94bChD) | 4:08 |
 
-Snapshot ID: `MCw5YTkyNDAwZmFmNjJkNDY1ZTY0MGZkOTJiMWZjYWNlMGY3YThmNDZl`
+Snapshot ID: `MCwyZDk3NmNiMjBjMDA0MzUyZDJlMTJlZDFjMDhjMjQzNWE2NjVmYTZk`

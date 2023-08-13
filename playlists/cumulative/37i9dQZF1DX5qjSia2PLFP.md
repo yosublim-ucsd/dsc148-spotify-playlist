@@ -2,7 +2,7 @@
 
 ### [RIPPLE EFFECT](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95?si=Sbyfk88GRe2RY8KJQvv8mQ">BAMBII</a>
+> New music breaking waves\.  Cover:  Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=cnTeOGk9SCqokA3WxMAKow">Jastin Martin</a>
 
 359 songs - 16 hr 18 min
 
@@ -365,7 +365,7 @@
 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-13 | 2023-07-08 |
 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 | 2021-08-14 | 2022-03-05 |
 | [You Got It Made](https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd) | [Young Roc](https://open.spotify.com/artist/5ycH6CkEItjfS7VPVNg5kQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jay John Henry](https://open.spotify.com/artist/6NL6Ja857luFYLYZOqQQ9i) | [You Got It Made](https://open.spotify.com/album/1OiIUAjUxe5IMDwVvDtB2e) | 2:11 | 2021-09-01 | 2022-03-05 |
-| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 |  |
+| [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-14 |  |
 | [Zodiac Killa](https://open.spotify.com/track/763jWrBsTruva7I3U3FQyw) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [HEAVY](https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL) | 2:58 | 2023-04-15 | 2023-07-29 |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

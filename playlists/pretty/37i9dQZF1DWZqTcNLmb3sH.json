@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50916,
+  "num_followers": 50955,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTZhZjJjNTVmNWI0ZjMzMTMwMGMyYzU3OGZiOTU5ODQxYzA4MWUy",
+  "snapshot_id": "MCxmMDhlNGU2NzAxNWViNTAzM2YzOGMwNjRmY2RlNjMwNTFhNjU2YzRm",
   "tracks": [
     {
       "added_at": "2023-07-27 13:11:20",
@@ -192,21 +192,25 @@
       "added_at": "2023-08-11 11:40:10",
       "album": {
         "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
-        "url": "https://open.spotify.com/album/7zbUjbUGRhxfNQ48KPxJMw"
+        "url": "https://open.spotify.com/album/0zLgKALvhpwwVu7g5iwGa5"
       },
       "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
         {
           "name": "Arjun Janya",
           "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
         },
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
         }
       ],
       "duration_ms": 207529,
       "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
-      "url": "https://open.spotify.com/track/6jDbIJ7McGcZJ6Vc5QP1Qs"
+      "url": "https://open.spotify.com/track/7sGkGhe6mAtCCxX1lcpeLw"
     },
     {
       "added_at": "2023-08-10 11:59:55",

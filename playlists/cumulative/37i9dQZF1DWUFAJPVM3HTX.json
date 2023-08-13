@@ -18994,10 +18994,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 144960,
       "name": "OF US",
       "url": "https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL"
+    },
+    {
+      "album": {
+        "name": "OF US (Sped Up)",
+        "url": "https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3"
+      },
+      "artists": [
+        {
+          "name": "hanuel",
+          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "OF US (Sped Up)",
+      "url": "https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6"
     },
     {
       "album": {

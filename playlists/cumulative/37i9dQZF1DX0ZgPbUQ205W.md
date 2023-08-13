@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-308 songs - 22 hr 21 min
+309 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Tale Begun](https://open.spotify.com/track/16X8iiFGnwZrwendrYuwNj) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym) | [In Praise Of Dreams](https://open.spotify.com/album/7ucsX19objOe4AZhFH7G1L) | 4:39 | 2021-12-17 | 2022-03-04 |
 | [A Tale Begun](https://open.spotify.com/track/7EARqOXQvRcvOscWRoC28S) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym) | [In Praise Of Dreams](https://open.spotify.com/album/2zXOO2tVqEcBzEtFmYG9Ps) | 4:39 | 2021-12-17 | 2022-02-22 |
 | [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-25 |  |
-| [AG76](https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN) | 6:13 | 2021-12-17 |  |
+| [AG76](https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN) | 6:13 | 2021-12-17 | 2023-08-13 |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-11 |  |
 | [Alba](https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 4:24 | 2022-05-25 |  |
 | [Albatross](https://open.spotify.com/track/3PnllpK4EkIOzpXEe8jhJ2) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:28 | 2022-05-26 |  |
@@ -299,6 +299,7 @@
 | [Walking In Sand](https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB) | [Stephan Micus](https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj) | [Winter's End](https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB) | 2:47 | 2021-12-17 |  |
 | [Waltz No\. 6](https://open.spotify.com/track/2kux8wUJ2tchQumA0lqELV) | [Sollinger/Hermansson](https://open.spotify.com/artist/5Gbj8QFV1IwOmZXmXiLw14) | [My Friend with Takotsubo](https://open.spotify.com/album/4pziSOg9h6y3cReoq89Mai) | 4:04 | 2023-06-21 |  |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-17 | 2022-08-18 |
+| [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-10 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-11 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2021-12-17 | 2022-03-12 |
 | [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2023-03-09 |  |

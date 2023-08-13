@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,165 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,241 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 |
 | 18 | [Jakarta Freestyle](https://open.spotify.com/track/5YLSbIQkUWrZgHpSYObShA) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs) | [Jakarta Freestyle](https://open.spotify.com/album/55m3oonZdZYTeDFP7dYUUz) | 2:44 |
 | 19 | [PROTEZT](https://open.spotify.com/track/7ou2pIRaEektTukh1oOecN) | [Block8](https://open.spotify.com/artist/07eym6kJMnZ2lBnLTuQMkA) | [PROTEZT](https://open.spotify.com/album/3eWj85whDFF0CR99ksBeYr) | 2:51 |
-| 20 | [Way Too Easy](https://open.spotify.com/track/6pfl1cJuB0PK7kkBiXYAm3) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Manic](https://open.spotify.com/artist/6COXg668vcaV0n3olIjoWM), [Hazy Dael](https://open.spotify.com/artist/2hmy1VCX1tjw9pBZ0plk52) | [Way Too Easy](https://open.spotify.com/album/1YSgcetRMAxSjCVIBgdaMo) | 2:51 |
+| 20 | [Way Too Easy](https://open.spotify.com/track/6pfl1cJuB0PK7kkBiXYAm3) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj), [Hazy Dael](https://open.spotify.com/artist/2hmy1VCX1tjw9pBZ0plk52) | [Way Too Easy](https://open.spotify.com/album/1YSgcetRMAxSjCVIBgdaMo) | 2:51 |
 | 21 | [Sights](https://open.spotify.com/track/2UvMH3V2MRzke8Gp4F5WnE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Sights](https://open.spotify.com/album/68aaWS6579noGSQbCC0LuF) | 2:25 |
 | 22 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
 | 23 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 60 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 |
 | 61 | [Now It’s Real](https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Now It’s Real](https://open.spotify.com/album/0QjhNM3DEemC41NSJ4Lu6E) | 4:13 |
 | 62 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 |
-| 63 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 63 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 64 | [Good News](https://open.spotify.com/track/1BvftxMNfcEp9nDYxCNRTc) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Everwood](https://open.spotify.com/album/4YI8iB9csSyJOEjgaNO0GL) | 3:48 |
 | 65 | [Interlude \(Full Length\)](https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:19 |
 | 66 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [Last Bite](https://open.spotify.com/track/0b6OaKlmNGqPH1LElAFOAx) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Sleepless Mentality](https://open.spotify.com/album/4QuBFVJDDVkYweqV4SIUue) | 2:48 |
 | 97 | [maraschino](https://open.spotify.com/track/5DSB71uDcChPUK9EjFHWvZ) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [spice village](https://open.spotify.com/album/3VWqYKSHeAYT8bm7X6lbcl) | 2:41 |
 
-Snapshot ID: `MCwyMWZkMGIzOWM5MDFiY2NhNjJjMjU2ZGQ1MDZlMGU1MzE4N2JlMzU2`
+Snapshot ID: `MCw2NjZiZmQ0YWVjZWVhZjhmMDNlYjgwY2UwNTJiZDAxYTMxNmVkMGQ2`

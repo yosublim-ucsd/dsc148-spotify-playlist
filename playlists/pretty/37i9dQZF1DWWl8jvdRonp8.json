@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 171763,
+  "num_followers": 171872,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzg4NTUwM2VhMTRiZTg3MjA2MmFkMWRjOTRhN2I2NWFjMmE3M2E1",
+  "snapshot_id": "MCxkNTM0ZjYxZGI5NjJkMGMyZDgwNDIxZjZlNjVmOWE1OTkzYjBiN2E4",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "El Amor M\u00e1s Bonito",
-      "url": "https://open.spotify.com/track/6MceOvlRW5ewCuKdgCUDac"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 235813,
       "name": "Mi Eterno Amor Secreto - En Vivo",
       "url": "https://open.spotify.com/track/1nWEVcvYkpfVFxSfAOkaW5"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "El Amor M\u00e1s Bonito",
+      "url": "https://open.spotify.com/track/6MceOvlRW5ewCuKdgCUDac"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Para Dejarte de Querer",
-        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "Presiento Que Voy a Llorar - Con Banda",
-      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Para Dejarte de Querer",
+        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 184833,
+      "name": "Presiento Que Voy a Llorar - Con Banda",
+      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 235106,
       "name": "\u00bf A D\u00f3nde Vamos A Parar ?",
       "url": "https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM"
     },
     {
       "added_at": "2023-02-24 16:30:36",

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-358 songs - 21 hr 12 min
+359 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Helium \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/5fc6rQgAKiLutfUYWQ6QnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RPo8gaqAbJksSE8JOIVLF) | 4:12 | 2021-06-22 | 2022-03-21 |
 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 | 2023-05-26 |  |
 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 | 2022-10-28 | 2022-11-13 |
-| [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2022-07-22 |  |
+| [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2022-07-22 | 2023-08-13 |
 | [Hold My Girl](https://open.spotify.com/track/1kjrgWG47wJgVqvQOvyb7C) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl](https://open.spotify.com/album/6cYPeMZiYaFOyHEoXglH7m) | 3:31 | 2021-06-22 | 2022-07-29 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-07-22 |  |
 | [Hold On](https://open.spotify.com/track/2dAPIql12y8hpWzsTC2ms2) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Hold On](https://open.spotify.com/album/7obZKo62kgM8zA0QEXMcgo) | 3:51 | 2021-06-22 | 2022-07-29 |
@@ -172,6 +172,7 @@
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2022-07-22 |  |
 | [I Wish](https://open.spotify.com/track/1z49ktSkJvCSUlVmTs9rpZ) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [I Wish](https://open.spotify.com/album/3sq1PsjnTYJLmBqRH5x9IG) | 3:18 | 2021-06-22 | 2022-07-22 |
 | [I'm on Fire](https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:12 | 2021-06-22 | 2023-05-27 |
+| [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 | 2023-07-28 |  |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-05-29 | 2023-07-23 |
 | [If Not With You, For You](https://open.spotify.com/track/2Vp7ZK5wP51LYayV14ichq) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [If Not With You, For You](https://open.spotify.com/album/1TYQx1Ku35FXe4eatyAGeC) | 3:08 | 2021-06-22 | 2022-06-18 |
 | [If That's Alright](https://open.spotify.com/track/1PZG9IBZMCY6HdK2v8kSYo) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/0N45Hx7WHKubuoOVWUzgSH) | 3:55 | 2021-06-22 | 2022-07-29 |

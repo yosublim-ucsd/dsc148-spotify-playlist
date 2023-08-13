@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,848 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,886 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 21 | [Give It To Her](https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [The Beat Goes On](https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1) | 3:29 |
 | 22 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
 | 23 | [Rasta Should Be Deeper](https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Tough Life](https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc) | 3:29 |
-| 24 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
-| 25 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
-| 26 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
+| 24 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
+| 25 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
+| 26 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
 | 27 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
 | 28 | [Saddest Day](https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:43 |
 | 29 | [Fisherman](https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 5:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 49 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 | 50 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
 
-Snapshot ID: `MCxjNDk3N2FmYmI2YWM1Yzc3NTMxYzdjMGM1NWIwMTA2NjkwZDBmOTc5`
+Snapshot ID: `MCxhM2FkZDVmOTY4ZjJlNWI3NmYzYTgyMzE5NjU0ZmExMTY5NmFjMDg4`

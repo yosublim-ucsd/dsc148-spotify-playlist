@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,575 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,693 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 119 | [Heaven on Earth](https://open.spotify.com/track/3FTpb7bVZEK503Ldoiewm1) | [Roann](https://open.spotify.com/artist/6OwRvBiAqnNokRLAtnGDLy), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Heaven on Earth](https://open.spotify.com/album/08R8TFMIdn2IwhDOmfKmqA) | 3:12 |
 | 120 | [I'm In Love With You](https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Suburb Hero](https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6) | 3:47 |
 | 121 | [So Close To Magic](https://open.spotify.com/track/6aiss5Ofip4rDM88Fs1Yrg) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/0U9mWDHfGU2dOySdeHlQh1) | 3:22 |
-| 122 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 |
-| 123 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
+| 122 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 |
+| 123 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 |
 | 124 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
 | 125 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
 | 126 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 139 | [Teach](https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Teach](https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY) | 2:55 |
 | 140 | [Kaleidoscope Evening](https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX) | [Reuben Fleetwood](https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH) | [Kaleidoscope Evening](https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG) | 2:43 |
 | 141 | [Beautiful Lies](https://open.spotify.com/track/5FEURlJJerhVZqQT43aKFj) | [CokeCarl](https://open.spotify.com/artist/4la2pVycKuAABaLuWNnYCU) | [Beautiful Lies](https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID) | 3:02 |
-| 142 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
-| 143 | [Rebekah](https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah \- EP](https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH) | 3:20 |
+| 142 | [Rebekah](https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah \- EP](https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH) | 3:20 |
+| 143 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 144 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 145 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
 | 146 | [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Keeper](https://open.spotify.com/track/4eAjYQi1Pcimj01jVl9DFO) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Keeper](https://open.spotify.com/album/6diy4RSh46M4H07eFCSywl) | 4:25 |
 | 150 | [Heights](https://open.spotify.com/track/6AeMqCW8yvsUlPbC2euMON) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/0XDFAkZ0lguLrmkJlq0bRp) | 3:46 |
 
-Snapshot ID: `MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3`
+Snapshot ID: `MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5`

@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 231683,
       "name": "5AM",
       "url": "https://open.spotify.com/track/40eyckMRTkS5t6lIsNVJIi"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 180705,
       "name": "Anteeks",
       "url": "https://open.spotify.com/track/5nawVr53Lj9JMQ2OcvrCSS"
@@ -1878,6 +1878,24 @@
       "duration_ms": 157309,
       "name": "Back to Life (Birthdae)",
       "url": "https://open.spotify.com/track/4iGKPU8XBlsUoOoyvsFhLw"
+    },
+    {
+      "album": {
+        "name": "W1NDY SEASON",
+        "url": "https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154721,
+      "name": "Bad Body",
+      "url": "https://open.spotify.com/track/3hRfRk5bwhrvHkHIE1KVje"
     },
     {
       "album": {
@@ -14405,6 +14423,28 @@
     },
     {
       "album": {
+        "name": "Liikkuu",
+        "url": "https://open.spotify.com/album/2bxzOGsTuZr2Hkgb78K0hD"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134549,
+      "name": "Liikkuu",
+      "url": "https://open.spotify.com/track/2ivIPcbBmQMPmiJ2HYamUB"
+    },
+    {
+      "album": {
         "name": "Liiottelen",
         "url": "https://open.spotify.com/album/7usVq86FZCnT7Dt65TuZSd"
       },
@@ -14818,7 +14858,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 209992,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/1109YCxz81OJrsFTD97WXA"
@@ -16414,6 +16454,24 @@
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "album": {
+        "name": "Mielenmaisemat",
+        "url": "https://open.spotify.com/album/7vhx9FcEb5ghpw4WKoOpTN"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192357,
+      "name": "Mielenmaisemat",
+      "url": "https://open.spotify.com/track/2Iz23pg8SQUgcBvhSXKPOO"
     },
     {
       "album": {
@@ -19389,6 +19447,28 @@
     },
     {
       "album": {
+        "name": "W1NDY SEASON",
+        "url": "https://open.spotify.com/album/0AMQd51PmhVYbnM3M35dBL"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174526,
+      "name": "OnlyFans (feat. ibe)",
+      "url": "https://open.spotify.com/track/07K7Kam6iLBOjnWzAaey1s"
+    },
+    {
+      "album": {
         "name": "Onnea matkaan",
         "url": "https://open.spotify.com/album/2fZ1zMWE5iVrZCy2DrosSK"
       },
@@ -21214,7 +21294,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"

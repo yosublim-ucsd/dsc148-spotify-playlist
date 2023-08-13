@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,661 likes - 141 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,686 likes - 141 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 91 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
 | 92 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
 | 93 | [MY WAY \(Prod\. R.Tee\)](https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 6:17 |
-| 94 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
+| 94 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 95 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 |
 | 96 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
 | 97 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 140 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
 | 141 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 
-Snapshot ID: `MCwzMzQyNTMzMTRhNjAzMjBiZDgzMTlmYzI4OWI2MTFkNzVlZGVhODg0`
+Snapshot ID: `MCw3OTNhN2E5ZGFhMmM0ZDhmYjU0ZTFkZTA1MWViMGFmMjIwNTFlODQw`

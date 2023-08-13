@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224025,
+  "num_followers": 224034,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzExZjFhNjIzYzZlNzkwYjFlYTkyZWMzNmMyM2I5ODM2YjNiZDlj",
+  "snapshot_id": "MCxkNjgwYzU0MDIzNTBmMjM0ZTVmZmFiNGQ2NDE5ZWU3NGRiY2RlOGVl",
   "tracks": [
     {
       "added_at": "2022-12-15 16:14:29",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 177048,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
-    },
-    {
-      "added_at": "2022-12-15 16:14:29",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2022-12-15 16:14:29",
       "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
     },
     {
       "added_at": "2022-12-15 16:14:29",
@@ -587,6 +571,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2022-12-15 16:14:29",
+      "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-12-15 16:14:29",

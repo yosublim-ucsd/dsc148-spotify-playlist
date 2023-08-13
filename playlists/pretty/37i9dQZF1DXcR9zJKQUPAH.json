@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 140336,
+  "num_followers": 140392,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGQxOWI4MGYyN2U1YjExZGQ2NTA0NzA4YzA2ZWNhYzBiYWQ1ODFm",
+  "snapshot_id": "MCwzOGY4NTBjNDI1OTE2MzJmN2UzN2JiZTUzMGVlMmYzOWJkNTY2YmI3",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "My God Has a Telephone",
         "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Why Do You Feel So Down",
-      "url": "https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 194906,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Why Do You Feel So Down",
+      "url": "https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Goodpain",
+        "url": "https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "Goodpain",
+      "url": "https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 189506,
       "name": "So Tied Up",
       "url": "https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Goodpain",
-        "url": "https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "Goodpain",
-      "url": "https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X"
     },
     {
       "added_at": "2022-10-27 05:38:58",

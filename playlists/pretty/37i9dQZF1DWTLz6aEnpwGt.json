@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 42290,
+  "num_followers": 42328,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RjMmY5YWY1YzUwNWNhN2RhZDM0MmU3MjEyNzgyYThlOTczOTky",
+  "snapshot_id": "MCw1YjA1Y2Y4MTE5MTgxYjNiMTc3YTdiODg2YTIxOGYyNzFiNWU3Yzk5",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -787,30 +787,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 410160,
-      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
-      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 410160,
+      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
+      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
     },
     {
       "added_at": "2022-08-19 10:45:11",

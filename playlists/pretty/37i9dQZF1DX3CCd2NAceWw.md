@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 24 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 25 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
 | 26 | [Passion Fruit](https://open.spotify.com/track/52JVO9jBTTmdxncddU06sN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:14 |
-| 27 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
-| 28 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
+| 27 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
+| 28 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
 | 29 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
 | 30 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
 | 31 | [Crazy Tings](https://open.spotify.com/track/2Li9UJop1djc8aH4MjuJUX) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 39 | [On My Way \(feat\. El DeBarge\)](https://open.spotify.com/track/4k9AeRyrbBwgsy5DxoQXSl) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 2:21 |
 | 40 | [Girls Love Beyoncé \(feat\. James Fauntleroy\)](https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:45 |
 
-Snapshot ID: `MCxhOGY3ODc0ZmQwMzExY2JkYzJmNTJiNjNjZmQzNzVmODg1NTQyMTVi`
+Snapshot ID: `MCxlZmNiMGY5Zjc5M2RhMDIyMDE2MWNjZjA1NGRhMTA3ZGYxNTBmM2Nl`

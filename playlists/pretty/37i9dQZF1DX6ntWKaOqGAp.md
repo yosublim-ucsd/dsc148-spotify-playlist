@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,793 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,863 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 | 100 | [Yureigai To Gyakusetsu](https://open.spotify.com/track/2nhjP3RjbfZQgSIQk1elzZ) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Yureigai To Gyakusetsu](https://open.spotify.com/album/0whu8sWSEyuODpfsg8Q8Go) | 3:31 |
 
-Snapshot ID: `MCwxYTc4ZjI3ZDEzMDdkYjQ0Y2Q3Y2Y0YmQ5YjQ1OGE1ODc3MDFlYTRj`
+Snapshot ID: `MCxlM2ZlNWVhNzgwYzhlNDRjN2U3ZTMyNzE0YjBjZjIzZWE3ZWRmMjdm`

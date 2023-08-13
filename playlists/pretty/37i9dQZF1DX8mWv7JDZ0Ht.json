@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Johnny Hooker",
-  "num_followers": 429654,
+  "num_followers": 429697,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTkyZTZlNzU0YWQyMzQ1ZWIwZDI3ODQyMzZlZTY3ZDMxNDM4NDc5",
+  "snapshot_id": "MCw1ZTUwMGQyYzAzZTRhYjZjMzI4OWI5NDM1NTMwOTFjOThmZjFkNmNm",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Estrela do Mar",
-        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 195033,
-      "name": "Estrela do Mar",
-      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
+      "duration_ms": 188333,
+      "name": "Nova Bad",
+      "url": "https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Nova Bad",
-      "url": "https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh"
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Quintal",
         "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "N\u00f3 de Marinheiro",
         "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
@@ -447,6 +427,42 @@
       "duration_ms": 183503,
       "name": "N\u00f3 de Marinheiro",
       "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Vem Meu Amor",
+        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 155738,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -487,22 +503,6 @@
       "duration_ms": 242580,
       "name": "N\u00e3o Sou De Me Entregar",
       "url": "https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Vem Meu Amor",
-        "url": "https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 155738,
-      "name": "Vem Meu Amor",
-      "url": "https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -559,26 +559,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Quase Amor",
-        "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
+        "name": "Por Voc\u00ea",
+        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
       },
       "artists": [
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 151616,
-      "name": "Quase Amor",
-      "url": "https://open.spotify.com/track/46U95V5hKnM6tM12lOuAOi"
+      "duration_ms": 191769,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -599,18 +591,26 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Por Voc\u00ea",
-        "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
+        "name": "Quase Amor",
+        "url": "https://open.spotify.com/album/3WGeOlYSDU8mYhWsz2wWcp"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 191769,
-      "name": "Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
+      "duration_ms": 151616,
+      "name": "Quase Amor",
+      "url": "https://open.spotify.com/track/46U95V5hKnM6tM12lOuAOi"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Dias Claros",
-        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dias Claros",
-      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Dias Claros",
+        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Dias Claros",
+      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Tudo Certo",
-        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Porto",
-          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Tudo Certo",
-      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Ela \u00c9 S\u00f3 Dela",
-        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
+        "name": "Tudo Certo",
+        "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
       },
       "artists": [
         {
-          "name": "Gabi Luthai",
-          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
+          "name": "Gabriel Porto",
+          "url": "https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx"
         }
       ],
-      "duration_ms": 176325,
-      "name": "Ela \u00c9 S\u00f3 Dela",
-      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
+      "duration_ms": 181209,
+      "name": "Tudo Certo",
+      "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -803,22 +787,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "n\u00f3s",
-        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "n\u00f3s",
-      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
@@ -835,6 +803,38 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Ela \u00c9 S\u00f3 Dela",
+        "url": "https://open.spotify.com/album/4sZAzREscCzfftBTpg5Eev"
+      },
+      "artists": [
+        {
+          "name": "Gabi Luthai",
+          "url": "https://open.spotify.com/artist/1mPhhdjInAQwRBg8mI20TV"
+        }
+      ],
+      "duration_ms": 176325,
+      "name": "Ela \u00c9 S\u00f3 Dela",
+      "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "n\u00f3s",
+        "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "n\u00f3s",
+      "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "te decorei em mim",
         "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 177078,
       "name": "te decorei em mim",
       "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Brisa 22",
-      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Por um Segundo",
-        "url": "https://open.spotify.com/album/627Wd7lYBpTEJOD2QklY7i"
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
       "artists": [
         {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 170216,
-      "name": "Por um Segundo",
-      "url": "https://open.spotify.com/track/6iRIlunvrMSQN3fmEuWUEr"
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Por um Segundo",
+        "url": "https://open.spotify.com/album/627Wd7lYBpTEJOD2QklY7i"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Por um Segundo",
+      "url": "https://open.spotify.com/track/6iRIlunvrMSQN3fmEuWUEr"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "elevador",
-        "url": "https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa"
+        "name": "Tua Voz",
+        "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
       },
       "artists": [
         {
-          "name": "zawa",
-          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
         }
       ],
-      "duration_ms": 162507,
-      "name": "elevador",
-      "url": "https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5"
+      "duration_ms": 205374,
+      "name": "Tua Voz",
+      "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Tua Voz",
-        "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
+        "name": "elevador",
+        "url": "https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa"
       },
       "artists": [
         {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
         }
       ],
-      "duration_ms": 205374,
-      "name": "Tua Voz",
-      "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
+      "duration_ms": 162507,
+      "name": "elevador",
+      "url": "https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Quero Te Ver Pra Sempre",
+        "url": "https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Quero Te Ver Pra Sempre",
+      "url": "https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Cear\u00e1",
         "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 169539,
       "name": "Terminou Bem",
       "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Quero Te Ver Pra Sempre",
-        "url": "https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Quero Te Ver Pra Sempre",
-      "url": "https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1"
     },
     {
       "added_at": "2023-08-11 03:00:00",

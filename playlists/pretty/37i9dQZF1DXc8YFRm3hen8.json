@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 155927,
+  "num_followers": 155964,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTg2ZTE1ODk4M2QzZTQwYTk5YmM3NDJkNDMyZjYwNDkxYzE1ODIw",
+  "snapshot_id": "MCxmNjMxYzZlY2Q5ZjEyN2M3MGZlYmFmOWM1NmI4OGYyYzg0NjI4ZWUx",
   "tracks": [
     {
       "added_at": "2023-08-11 14:45:31",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-11 14:45:31",
       "album": {
-        "name": "Vicio",
-        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
-    },
-    {
-      "added_at": "2023-08-11 14:45:31",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+    },
+    {
+      "added_at": "2023-08-11 14:45:31",
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
       "added_at": "2023-08-11 14:45:31",

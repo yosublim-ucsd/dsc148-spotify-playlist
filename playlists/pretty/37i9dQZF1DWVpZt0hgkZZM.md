@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,566 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,609 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 67 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 68 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 69 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
-| 70 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 |
+| 70 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 |
 | 71 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 |
-| 72 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 |
+| 72 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 |
 | 73 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
-| 74 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 |
-| 75 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 |
+| 74 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 |
+| 75 | [Anhelos](https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Los Dos Inseparables](https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D) | 2:56 |
 | 76 | [Oye \(Made Popular By La Sonora Dinamita\) \[Karaoke Version\]](https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Tropical Hits 9](https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I) | 3:08 |
 | 77 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
 | 78 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 |
 | 100 | [La Chica Gomela \(Niña Fresa\)](https://open.spotify.com/track/69qirPIejgKVEeflQfGah5) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 2:19 |
 
-Snapshot ID: `MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5`
+Snapshot ID: `MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw`

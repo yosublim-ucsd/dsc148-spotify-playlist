@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 107646,
+  "num_followers": 107761,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDQ1N2Q0YzBmODU5ZWRmNDFkMTljY2JhNTQxMDUzYTYwNjcxY2Yw",
+  "snapshot_id": "MCwxN2RhZTQ5NzhhMmNhYjgzODllNGY1NDVmNWMzZjZjYzkxMmU2YmI3",
   "tracks": [
     {
       "added_at": "2023-08-10 16:46:04",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Steamroller Blues (Live at The Honolulu International Center, Hawaii January 14, 1973)",
-        "url": "https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs"
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 193309,
-      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
-      "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -303,22 +303,6 @@
       "duration_ms": 178973,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Street Talkin'",
         "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
@@ -467,18 +451,34 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -499,22 +499,6 @@
       "duration_ms": 540573,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "461 Ocean Boulevard",
         "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 414000,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "Chicago Blues Legend",
         "url": "https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 199253,
       "name": "All for Business",
       "url": "https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Shake Your Moneymaker",
+      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -979,34 +995,18 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Shake Your Moneymaker",
-      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
+      "duration_ms": 207000,
+      "name": "Nine Below Zero",
+      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
     }
   ],
   "unique_name": "Electric Blues Classics",

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 448555,
+  "num_followers": 449155,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzUzNjM2ZjA2ZDdjMzQ5NjU0MDJjMTJmNjdjYzAxNjJiZTY5OWVk",
+  "snapshot_id": "MCw2NzY4NjdlZmNhNzZhMjIyNGM3NGZiNmNiMGIyZmY3NDBhZmVmN2Q4",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Bullet in the Gun 2000",
+        "url": "https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto",
+          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Bullet In the Gun 2000 - Radio Mix",
+      "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Seven Cities",
         "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 211333,
       "name": "Seven Cities - Solarstone's Atlantis Mix",
       "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Bullet in the Gun 2000",
-        "url": "https://open.spotify.com/album/6rhPbYVEu7rVdSvsA0zvHi"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto",
-          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Bullet In the Gun 2000 - Radio Mix",
-      "url": "https://open.spotify.com/track/3c7aA2sPM4xcFTWkBINhty"
     },
     {
       "added_at": "2023-08-11 10:02:57",

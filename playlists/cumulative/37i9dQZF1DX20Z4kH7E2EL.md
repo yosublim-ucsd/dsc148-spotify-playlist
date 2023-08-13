@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-172 songs - 15 hr 9 min
+173 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [Give Me A Reason](https://open.spotify.com/track/6ZrkMngeMwqJBv7nZcT1bG) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Give Me A Reason](https://open.spotify.com/album/5ZpjoOlW69TEeoMDtWp8Ks) | 5:56 | 2023-02-10 | 2023-07-01 |
 | [Giving Up \- Extended Version](https://open.spotify.com/track/2hOLCovzbfRlAEj9hweFa0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 4:36 | 2023-01-12 | 2023-03-18 |
 | [Grammar](https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 7:41 | 2023-01-27 | 2023-06-17 |
+| [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 | 2023-08-04 |  |
 | [Gravity](https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Gravity](https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8) | 4:29 | 2023-06-16 | 2023-06-26 |
-| [Gravity](https://open.spotify.com/track/7B6mFdzHolEYKtTGtEXAuc) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:29 | 2023-06-22 |  |
+| [Gravity](https://open.spotify.com/track/7B6mFdzHolEYKtTGtEXAuc) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:29 | 2023-06-22 | 2023-08-13 |
 | [Gross Weight](https://open.spotify.com/track/0tTLKDCU0uEGklsgfFWSuj) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Les Yeux](https://open.spotify.com/album/5ii1hyx3gCzdsQVut2Y5yk) | 6:29 | 2023-06-16 |  |
 | [Hold Up, Hold On](https://open.spotify.com/track/1ZgSeZW90oTERXELrNjALJ) | [Rimbaudian](https://open.spotify.com/artist/2mBp5EJQEiv7xNhyriCl8r) | [Illuminations EP](https://open.spotify.com/album/6GWaQBoDbfFb4lsvklJEqY) | 4:49 | 2023-01-12 | 2023-01-28 |
 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 | 2023-04-14 |  |

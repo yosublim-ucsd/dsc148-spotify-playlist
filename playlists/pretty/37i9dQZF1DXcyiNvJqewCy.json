@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 136910,
+  "num_followers": 137010,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWI5ZWYxZWZkZWZkOGM5ZjYyN2NkNGRhMmZkYjcyZTY0YjRhM2M5",
+  "snapshot_id": "MCxlNjU4MDVkMmIyMWU1MWFiOTMzNjZmYTI1OTkzYTY4ZTc3NTM3ZjRi",
   "tracks": [
     {
       "added_at": "2023-07-21 02:24:36",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
+    },
+    {
+      "added_at": "2023-07-21 02:24:36",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2023-07-21 02:24:36",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "invisible string",
-      "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
-      },
-      "artists": [
-        {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2023-07-21 02:24:36",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
         }
       ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -723,6 +707,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2023-07-21 02:24:36",
+      "album": {
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
+        "name": "The Papas & The Mamas",
+        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
+    },
+    {
+      "added_at": "2023-07-21 02:24:36",
+      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
-        "name": "The Papas & The Mamas",
-        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
       "artists": [
         {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -1071,22 +1087,6 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
-    },
-    {
-      "added_at": "2023-07-21 02:24:36",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2023-07-21 02:24:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-21 02:24:36",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
-    },
-    {
-      "added_at": "2023-07-21 02:24:36",
-      "album": {
         "name": "SHE IS COMING",
         "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 233654,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
+    },
+    {
+      "added_at": "2023-07-21 02:24:36",
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
     },
     {
       "added_at": "2023-07-21 02:24:36",

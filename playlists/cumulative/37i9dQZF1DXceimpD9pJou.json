@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  <a href=\"https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs?si=92e7441706e64118\">Tommy Royale</a>, <a href=\"https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv?si=d6b20d5fdda349da\">Samuel ASH</a>, y <a href=\"https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp?si=8b8f38368fc44e8c\">Alexxander</a>  ",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  <a href=\"https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ?si=JDSWzJmlTo-vUzPV3na3NQ\">Dariann Gonz\u00e1lez</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -9848,12 +9848,16 @@
         {
           "name": "CRYS",
           "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156505,
+      "duration_ms": 189000,
       "name": "Isla del Encanto",
       "url": "https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx"
     },

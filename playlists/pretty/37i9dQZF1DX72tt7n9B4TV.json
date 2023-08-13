@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for those summer days. ",
-  "num_followers": 31800,
+  "num_followers": 31849,
   "original_name": "Summer Rock 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUxNTJhNjMxN2IwOGFhOTExMmEwZTg2ZGY3NDljMDMwM2QwZWJj",
+  "snapshot_id": "MCw2OTEzYzcxM2ViZmU4ZTE0MmNkYmY4YTU4Y2ExNWE4N2JhOTQwMWVj",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -256,8 +256,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
         "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
     },
     {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
-    },
-    {
       "added_at": "2023-07-28 14:13:22",
       "album": {
         "name": "Welcome To My House",
@@ -939,6 +923,22 @@
       "duration_ms": 190611,
       "name": "By The Time You're Reading This",
       "url": "https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 163832,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 207226,
       "name": "Visitor",
       "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "girlfriends",
+        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1213,6 +1213,26 @@
       "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
     },
     {
+      "added_at": "2023-07-28 14:13:22",
+      "album": {
+        "name": "Hello (feat. KennyHoopla)",
+        "url": "https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 219932,
+      "name": "Hello (feat. KennyHoopla)",
+      "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
+    },
+    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
@@ -1257,26 +1277,6 @@
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
-      "added_at": "2023-07-28 14:13:22",
-      "album": {
-        "name": "Hello (feat. KennyHoopla)",
-        "url": "https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 219932,
-      "name": "Hello (feat. KennyHoopla)",
-      "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
-    },
-    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "All I Need",
@@ -1309,24 +1309,20 @@
       "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
-      "added_at": "2023-05-25 20:52:42",
+      "added_at": "2023-07-28 14:13:22",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
         }
       ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     }
   ],
   "unique_name": "Summer Rock 2023",

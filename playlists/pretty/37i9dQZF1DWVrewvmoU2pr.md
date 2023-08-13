@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 30 | [左右手](https://open.spotify.com/track/78AQlcD4vmJap3xJKAFb9t) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [I am what I am](https://open.spotify.com/album/5AwQPb2mVsTaLGLMCMJgqI) | 4:15 |
 | 31 | [DNA出錯](https://open.spotify.com/track/3v7I5i3ftuEZ0JJNgcrD8j) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [黎明音樂大全 101](https://open.spotify.com/album/2UFGVSPUNQ13FYv2FDQiM3) | 3:41 |
 | 32 | [改造人之戀](https://open.spotify.com/track/1EMIWxkveOpQRQzQjINyJp) | [樂瞳](https://open.spotify.com/artist/0MtnIthBQRDmzIzcqwB2Ck) | [短罪](https://open.spotify.com/album/02N1sXjUD45kIo5zlFnXsr) | 4:49 |
-| 33 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
+| 33 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 34 | [自然變態](https://open.spotify.com/track/4qXWCG925X5KsC4a0yuApZ) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [自然變態](https://open.spotify.com/album/5qqDeDjCxJ7ZTgUB6JCCs5) | 3:39 |
 | 35 | [尼斯](https://open.spotify.com/track/0e0mQ0D5oPkGeTOvTWqVfg) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [尼斯](https://open.spotify.com/album/5623cWq9MXmzS6E6YUWxcf) | 4:05 |
 | 36 | [私奔記](https://open.spotify.com/track/0XRRL7HKdhOF3AADcuZ4mE) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [私奔記](https://open.spotify.com/album/5WcEqKh7qlndDxeUdM1Evz) | 4:20 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrewvmoU2pr.md) - [plain]
 | 45 | [好朋友](https://open.spotify.com/track/0b110tCRwwA7Z7BD1qGM6f) | [Edmond Leung](https://open.spotify.com/artist/1THfyLd3iyJYJ6X2U36K0y) | [好朋友 \(華星40系列\)](https://open.spotify.com/album/5wYJgrAPKb6xreuSMyYVpO) | 3:15 |
 | 46 | [紅屋頂](https://open.spotify.com/track/6BSlsvHQiJw9XuqAAHqUrS) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [What Really Matters \(加強版\)](https://open.spotify.com/album/3Dg9TeDh6zX0604z9T2AIh) | 4:00 |
 
-Snapshot ID: `MCxkYWY4NWFkNjMwZTFkNTI4NTk0M2VhODM2ZThmN2E4NzY2YjU4NTg3`
+Snapshot ID: `MCxlNzQ5OWQzNmQ0ODI5NDBkNTBlN2E0ZmM1Y2FkYjNlMzI2MmU3NTFj`

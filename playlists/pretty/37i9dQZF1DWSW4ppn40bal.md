@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,327 likes - 386 songs - 20 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,337 likes - 386 songs - 20 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,4 +395,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 385 | [Brown Bliss 250 Hz Q 1 \- Seamless](https://open.spotify.com/track/1i92x6LMGFvTvtqGWLBqw4) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Brown Bliss](https://open.spotify.com/album/6eXlffD6lBYQwW2nvWL5xq) | 2:57 |
 | 386 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 |
 
-Snapshot ID: `MCwyYWQwY2VkNTFkNzg1OWRmOTY0ZjdlNWJlZWZiOWRiMDhjNTlhNzAz`
+Snapshot ID: `MCw2ZjYzYTEzZjA5MGMzNTgxZTU3YzMzZGRkMGZkNmIyZWNjMzcxYzc5`

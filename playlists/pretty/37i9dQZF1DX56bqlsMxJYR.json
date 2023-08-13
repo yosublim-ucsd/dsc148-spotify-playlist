@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1006409,
+  "num_followers": 1007022,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzU2MjIwNjU4YzdlNjc1ZDEwOTAwYWE2ODVkNTgzMzc4MmViMzll",
+  "snapshot_id": "MCw3ZmUzMDYyNDE3MGI3YmFjMTMwMTY5ZjJkZjM2ZDJkZDgxNzJmYjc2",
   "tracks": [
     {
       "added_at": "2023-08-03 14:07:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "It's Pony Time/Let's Twist Again",
         "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Runaround Sue",
         "url": "https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 171600,
       "name": "Runaround Sue",
       "url": "https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Sings the Songs that Made Him Famous",
-        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
-        }
-      ],
-      "duration_ms": 163045,
-      "name": "I Walk The Line - Single Version",
-      "url": "https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Sings the Songs that Made Him Famous",
+        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 146720,
-      "name": "I Want To Hold Your Hand - Remastered 2009",
-      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -1439,18 +1455,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+      "duration_ms": 230386,
+      "name": "All You Need Is Love - Remastered 2009",
+      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1499,22 +1515,6 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "All You Need Is Love - Remastered 2009",
-      "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 147306,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
-      },
-      "artists": [
-        {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
-        }
-      ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Stay Awhile / I Only Want To Be With You",
         "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 158200,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 148013,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1923,22 +1939,6 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Animal Tracks",
         "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
       "artists": [
         {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
         }
       ],
-      "duration_ms": 225426,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
     },
     {
       "added_at": "2023-08-03 14:07:21",

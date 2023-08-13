@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 65194,
+  "num_followers": 65241,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
+  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
-      },
-      "artists": [
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Crispy Bacon",
-      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Crispy Bacon",
+      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Bromance #1 - Single",
         "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 311272,
       "name": "Let the Beat Control Your Body",
       "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Fuck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Burner",
         "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 308858,
       "name": "Burner",
       "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Sol De Mi Vida",
+        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Young Lies",
         "url": "https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Sol De Mi Vida",
-        "url": "https://open.spotify.com/album/4FnwfcgBFqIQoUXBccJhmV"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2nzw5ghlLsOKEqD4EuH6qO"
     },
     {
       "added_at": "2023-07-07 04:00:00",

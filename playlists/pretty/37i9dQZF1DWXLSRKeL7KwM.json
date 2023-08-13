@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 360850,
+  "num_followers": 361031,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWU3YzA0NjhjNzk5MDZmMTMxMmM5ZjMyMjY2NTQ0NmQwZTE2N2Ux",
+  "snapshot_id": "MCxlZjM2MDY5ODM2N2ViMzk1Y2IwZTllNmNjMGQxY2ZlOWNlOTkzMTQ5",
   "tracks": [
     {
       "added_at": "2023-03-28 16:23:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 216800,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+      "duration_ms": 216800,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Cold Beer Calling My Name",
-        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 210480,
-      "name": "Cold Beer Calling My Name",
-      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Cold Beer Calling My Name",
+        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 210480,
+      "name": "Cold Beer Calling My Name",
+      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 223626,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Second One To Know",
+      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Three Chord Country and American Rock & Roll",
         "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 222013,
       "name": "Get Your Shine On",
       "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Second One To Know",
-      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Almost Maybes",
         "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
       },
@@ -1655,38 +1671,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 211767,
       "name": "80s Mercedes",
       "url": "https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
     },
     {
       "added_at": "2023-03-28 16:23:23",

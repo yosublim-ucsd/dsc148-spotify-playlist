@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
       },
@@ -2438,6 +2460,24 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
       "album": {
@@ -4875,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Christian lou",
+        "url": "https://open.spotify.com/album/3O7b5DEFAL8A9yEzTcAbgs"
+      },
+      "artists": [
+        {
+          "name": "BLB Fujin",
+          "url": "https://open.spotify.com/artist/7MQRQddSEKe2ESkHRPgNB8"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165121,
+      "name": "Christian lou",
+      "url": "https://open.spotify.com/track/5kuVXm0eq1L0ZYQVD6pSUi"
+    },
+    {
+      "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
@@ -5334,7 +5392,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -7568,7 +7626,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 146838,
       "name": "Du geh\u00f6rst zu mir",
       "url": "https://open.spotify.com/track/3FKNmt0rCLg6gEjpI0C8Ap"
@@ -15127,6 +15185,28 @@
     },
     {
       "album": {
+        "name": "Mami (feat. BIA)",
+        "url": "https://open.spotify.com/album/5Cfrwq2WmiSRAm5vRpjxse"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178398,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/2cEklOsQ4yr4SgtXZtHwvN"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -16766,7 +16846,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -22243,6 +22323,24 @@
     },
     {
       "album": {
+        "name": "Stack It Up",
+        "url": "https://open.spotify.com/album/3iDWqDTl6CfAa3M2ZOCPq9"
+      },
+      "artists": [
+        {
+          "name": "JAMS The Flava Child",
+          "url": "https://open.spotify.com/artist/5fksTbgLoeE6E0oGWYoYYX"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Stack It Up",
+      "url": "https://open.spotify.com/track/2kRx2UcFYN1H7We2ezKnCz"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -23470,7 +23568,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -26044,7 +26142,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"

@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 14761,
+  "num_followers": 14863,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2",
+  "snapshot_id": "MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj",
   "tracks": [
     {
       "added_at": "2023-08-04 09:26:45",
@@ -803,6 +803,30 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "Sommer auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+        }
+      ],
+      "duration_ms": 134520,
+      "name": "1,2,3 im Sauseschritt - Bauernhof Version",
+      "url": "https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -815,22 +839,6 @@
       "duration_ms": 122506,
       "name": "F\u00fchl Mich So Gut",
       "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Sommerkinder",
-        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Wir wollen Sonne (Verde e amarelo)",
-      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -859,26 +867,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Sommer auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f"
+        "name": "Sommerkinder",
+        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
       "artists": [
         {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        },
-        {
-          "name": "Sarah Schiffer",
-          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 134520,
-      "name": "1,2,3 im Sauseschritt - Bauernhof Version",
-      "url": "https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV"
+      "duration_ms": 219760,
+      "name": "Wir wollen Sonne (Verde e amarelo)",
+      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
     },
     {
       "added_at": "2023-08-04 09:26:45",

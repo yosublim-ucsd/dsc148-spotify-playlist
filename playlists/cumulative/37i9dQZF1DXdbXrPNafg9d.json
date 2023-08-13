@@ -41229,6 +41229,24 @@
     },
     {
       "album": {
+        "name": "highschool",
+        "url": "https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207177,
+      "name": "highschool",
+      "url": "https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS"
       },
@@ -80383,7 +80401,7 @@
     },
     {
       "album": {
-        "name": "show me what I\u2019m missing",
+        "name": "show me what i\u2019m missing",
         "url": "https://open.spotify.com/album/2UDm6A3I5Jn5aLzvPowhI2"
       },
       "artists": [
@@ -80396,7 +80414,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189745,
-      "name": "show me what I\u2019m missing",
+      "name": "show me what i\u2019m missing",
       "url": "https://open.spotify.com/track/6rHWwbh2swzbI49ToX8dgb"
     },
     {

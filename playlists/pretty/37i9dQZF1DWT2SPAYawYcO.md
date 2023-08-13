@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jessica Mauboy + Jason Derulo
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,470 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,477 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 11 | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Ring Ring \(feat\. Gold Fang\)](https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay) | 2:27 |
 | 12 | [GBG \(feat\. Marshmello\)](https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [GBG \(feat\. Marshmello\)](https://open.spotify.com/album/6Dnz4ttJCfBT9ZgsswTa1E) | 2:10 |
 | 13 | [DELIRIUM](https://open.spotify.com/track/1UWf4dn9d17amlGBLY4U1I) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [DELIRIUM](https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ) | 2:47 |
-| 14 | [As Above So Below](https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [As Above So Below](https://open.spotify.com/album/7JHmHPWUghH4yG9oM34tKZ) | 1:53 |
+| 14 | [Situation](https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Situation](https://open.spotify.com/album/7JHmHPWUghH4yG9oM34tKZ) | 1:53 |
 | 15 | [More Money More Problems](https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [More Money More Problems](https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO) | 2:57 |
 | 16 | [I'm Getting Bored of This](https://open.spotify.com/track/5egFmtCexSoBQFGl4gMY7y) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [I'm Getting Bored of This](https://open.spotify.com/album/6NaLrfKHBiUFxI3NX24CgV) | 3:46 |
 | 17 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 89 | [Second Chance](https://open.spotify.com/track/3bVRFaa9FrYW53CdoiEA2h) | [The Screaming Jets](https://open.spotify.com/artist/3vgQA38yGGMvn4DHjsVre5) | [Second Chance](https://open.spotify.com/album/0zthdGXSPrODtS0EDVhIU5) | 4:14 |
 | 90 | [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 |
 
-Snapshot ID: `MCwzYTUyYzgyNjMxZjA2Yjg1MDY0MDRjYzBhNzkwM2FhYTk2NTMwYjQ5`
+Snapshot ID: `MCxiZjJjN2ExYTg3ZTljMjlkNjkwOTZhYTJmNTQ0Zjc3MTkxNzU4YzMy`

@@ -4,7 +4,7 @@
 
 > Sunlight! The most precious gold to be found on Earth.
 
-149 songs - 11 hr 26 min
+150 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2022-12-21 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-30 | 2022-07-28 |
 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 | 2021-09-10 |  |
-| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 |  |
+| [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 | 2021-09-10 | 2023-08-13 |
 | [AT THE RIVERS EDGE](https://open.spotify.com/track/3Cf908nBvfqqH7rzAi8KbM) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 4:31 | 2021-09-10 | 2022-07-29 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-09-10 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/1dUJSg35YhhEeG9potM4Cv) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Insen](https://open.spotify.com/album/3VT8eoRaoFsqjVcSu1GFfB) | 6:16 | 2021-09-10 | 2022-04-20 |
@@ -72,6 +72,7 @@
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2021-09-10 |  |
 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 | 2021-09-10 | 2023-03-16 |
 | [If](https://open.spotify.com/track/5nptEUCXW1z3I0Y6F3Wz3r) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 5:07 | 2022-01-13 | 2022-07-17 |
+| [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 | 2021-09-10 |  |
 | [Illusion Of Time](https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 4:22 | 2021-09-10 | 2022-07-27 |
 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 | 2021-09-10 |  |
 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 | 2021-09-10 |  |

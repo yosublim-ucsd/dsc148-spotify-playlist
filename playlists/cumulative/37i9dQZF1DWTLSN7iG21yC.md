@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-638 songs - 1 day 9 hr 58 min
+639 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [GIVE IT ALL UP \(feat\. Tove Lo\)](https://open.spotify.com/track/43DFMjVuW7gYyh5Cpz94Js) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [FUTURE PAST](https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD) | 5:07 | 2022-02-11 | 2022-04-17 |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 | 2022-07-29 |
 | [Give You Love](https://open.spotify.com/track/3Iz5IcBHY2rCw9LQ8zC3X4) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Give You Love](https://open.spotify.com/album/6dlnjl4CTkwgMAJbccuLo0) | 3:38 | 2022-01-14 | 2022-07-21 |
+| [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-11 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-06-07 |  |
 | [Go \(feat\. Sam Fischer\)](https://open.spotify.com/track/3ZqohZNsr8U58usomfXpCO) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Go \(feat\. Sam Fischer\)](https://open.spotify.com/album/28U01akPQLKmVWm7Hwhu8A) | 3:35 | 2022-03-25 | 2022-04-19 |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2021-07-09 |  |
@@ -544,7 +545,7 @@
 | [Tell Me](https://open.spotify.com/track/4Y2rXSgFiWO7xYRYzd3F6D) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue \(Complete\)](https://open.spotify.com/album/34pktWFaaTEkl9W38YXwQj) | 3:54 | 2021-10-22 | 2022-07-16 |
 | [That's Hilarious](https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 2:24 | 2022-04-08 | 2023-01-28 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:24 | 2022-04-08 | 2022-10-16 |
-| [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 | 2021-06-25 |  |
+| [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 | 2021-06-25 | 2023-08-13 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-17 | 2023-01-28 |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-03-31 |  |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2021-06-07 |  |

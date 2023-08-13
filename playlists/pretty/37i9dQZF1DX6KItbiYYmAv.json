@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 723378,
+  "num_followers": 723482,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGE3MDdhM2UxMWEwOGFkMzU3MWVkYmJiZDg2YjY1MGVlNjIzMDQ1",
+  "snapshot_id": "MCwwNjY3YjkyMzk3ZDczOGZiYTQ2MTZhYjRmODY2YjY5NTg3MTJjMTA1",
   "tracks": [
     {
       "added_at": "2023-07-21 11:29:56",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 307697,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Old Sea Brigade",
         "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 307697,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1107,6 +1091,22 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "The Oh Hellos EP",
-        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 256006,
-      "name": "Hello My Old Heart",
-      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "The Oh Hellos EP",
+        "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
         }
       ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+      "duration_ms": 256006,
+      "name": "Hello My Old Heart",
+      "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "You and Me for Now",
-        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
-      },
-      "artists": [
-        {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+      },
+      "artists": [
+        {
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Vanilla Tobacco",
-      "url": "https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Notion - EP",
         "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Vanilla Tobacco",
+      "url": "https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7"
     },
     {
       "added_at": "2023-07-21 11:29:56",

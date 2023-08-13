@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 29525,
+  "num_followers": 29575,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU2ZjVlMGZhYjQyYTBjNjA1MjlhYjZkZDcyYzg0NzI2OGQ3YTU1",
+  "snapshot_id": "MCxhMmNiMTdjOTcyNzg4YWZlZmRlMTM3ZjFkMzg2NjEwOTVlNDQ5NDEz",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -691,18 +691,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "El Enemy de Los Guas\u00edbiri",
+        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 217773,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
+      "duration_ms": 204382,
+      "name": "Al Natural (feat. Yandel)",
+      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -739,22 +743,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "El Enemy de Los Guas\u00edbiri",
-        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 204382,
-      "name": "Al Natural (feat. Yandel)",
-      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+      "duration_ms": 217773,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp"
     },
     {
       "added_at": "2021-12-22 23:41:59",

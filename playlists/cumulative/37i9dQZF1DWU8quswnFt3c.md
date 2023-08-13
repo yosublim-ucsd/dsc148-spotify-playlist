@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-1,395 songs - 3 day 4 hr 38 min
+1,396 songs - 3 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 | 2023-01-04 | 2023-02-02 |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2022-09-07 | 2022-10-05 |
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2022-11-02 | 2022-12-01 |
+| [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 | 2023-08-02 |  |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-06-01 | 2022-07-07 |
 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 | 2022-03-08 | 2022-04-07 |
 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 | 2023-02-01 | 2023-03-02 |
@@ -1067,7 +1068,7 @@
 | [SUKA](https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [SUKA](https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp) | 6:30 | 2023-07-05 | 2023-08-03 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-08-02 |  |
 | [Summer Really Hurt Us](https://open.spotify.com/track/11DdY87mhLta5MmtZLmtGo) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Time Machine](https://open.spotify.com/album/6YRsZur2KmT2HbrCbVHBd6) | 2:48 | 2023-05-03 | 2023-07-06 |
-| [Summer Tune](https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Work\-life Island](https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d) | 5:05 | 2023-08-02 |  |
+| [Summer Tune](https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Work\-life Island](https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d) | 5:05 | 2023-08-02 | 2023-08-13 |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-08-02 | 2023-08-10 |
 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 | 2023-02-01 | 2023-03-02 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-12-11 | 2022-01-06 |

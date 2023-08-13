@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
         "name": "Origins (Deluxe)",
         "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
       },
@@ -3067,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "bigger th\u00ebn everything",
+        "url": "https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218264,
+      "name": "bigger th\u00ebn everything",
+      "url": "https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -3132,7 +3168,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -7308,10 +7344,32 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 112615,
       "name": "Es jau braucu",
       "url": "https://open.spotify.com/track/54h4ONWq4Xuv6buo9A5QTT"
+    },
+    {
+      "album": {
+        "name": "GODAV\u0100RD5",
+        "url": "https://open.spotify.com/album/6hXpzDfdnGbBiCMlEvlm0D"
+      },
+      "artists": [
+        {
+          "name": "Mauku Sencis",
+          "url": "https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5"
+        },
+        {
+          "name": "Grandmasters Neons",
+          "url": "https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "Es jau braucu",
+      "url": "https://open.spotify.com/track/6A2afTbV107zqCsSUrPq4g"
     },
     {
       "album": {
@@ -9313,6 +9371,28 @@
     },
     {
       "album": {
+        "name": "GODAV\u0100RD5",
+        "url": "https://open.spotify.com/album/6hXpzDfdnGbBiCMlEvlm0D"
+      },
+      "artists": [
+        {
+          "name": "Mauku Sencis",
+          "url": "https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5"
+        },
+        {
+          "name": "Grandmasters Neons",
+          "url": "https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195644,
+      "name": "Hasls",
+      "url": "https://open.spotify.com/track/1saw9GLTTdmHvAfu8SN8ho"
+    },
+    {
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -10636,7 +10716,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -16008,7 +16088,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -18416,7 +18496,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 255606,
       "name": "Piepist Seju",
       "url": "https://open.spotify.com/track/0fyfPkT2929pU4hsqJqp7y"
@@ -22452,7 +22532,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -23742,7 +23822,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -24158,7 +24238,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 192940,
       "name": "The Lost Soul Down",
       "url": "https://open.spotify.com/track/5dPy1CCYQ04xaQHpajf5CY"
@@ -25596,7 +25676,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
@@ -25886,6 +25966,28 @@
       "duration_ms": 176815,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE"
+    },
+    {
+      "album": {
+        "name": "GODAV\u0100RD5",
+        "url": "https://open.spotify.com/album/6hXpzDfdnGbBiCMlEvlm0D"
+      },
+      "artists": [
+        {
+          "name": "Mauku Sencis",
+          "url": "https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5"
+        },
+        {
+          "name": "Grandmasters Neons",
+          "url": "https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "V\u0101lodze",
+      "url": "https://open.spotify.com/track/3Mq0XqFYemV5VommuBvHCj"
     },
     {
       "album": {
@@ -27846,7 +27948,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 133541,
       "name": "\u0412\u041c\u0415\u0421\u0422\u0415",
       "url": "https://open.spotify.com/track/04Rp6XjTowBcL7gIbJf7uc"
@@ -28272,7 +28374,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 152000,
       "name": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
       "url": "https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU"

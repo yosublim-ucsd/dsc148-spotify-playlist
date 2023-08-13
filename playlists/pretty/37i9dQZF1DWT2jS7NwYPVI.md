@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,100 likes - 128 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,194 likes - 128 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 25 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 |
 | 26 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 | 27 | [Bang](https://open.spotify.com/track/5HPO5OueGBrX9lc0awR3a7) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Bang](https://open.spotify.com/album/04Y4grAfU2VJ4kgEkSy5AX) | 2:42 |
-| 28 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 28 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 29 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 |
 | 30 | [I'm Alright](https://open.spotify.com/track/1GuW9IWVsGZOIhpwvMt7Ht) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [I'm Alright](https://open.spotify.com/album/7J89BNNwTMOeNj6PzNXOHI) | 4:35 |
 | 31 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 127 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 128 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCwwOWQ0NWE1MDJjNTYyOWY4N2U1NThhYTBkODFhODFhYWQwMDJjNzBm`
+Snapshot ID: `MCwxODIwZTMyMjU1MTM1MzM0NmIwMGZiOTMxZWUzMGY2ZDY3OWQyOTA1`

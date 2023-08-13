@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 160258,
+  "num_followers": 160367,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjllNThiNDBlZWVmZjM3ZjVlMzNiNDFlZWEzMzFlMjI3YzgwMmFi",
+  "snapshot_id": "MCwyZjA2YTQwYTM1M2RiOWJiMjQzYjJmYzQ3ZmZlOGQxZjAzZDJmZDM4",
   "tracks": [
     {
       "added_at": "2023-05-30 10:21:10",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
+        "name": "Deb",
+        "url": "https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 305653,
+      "name": "Ghir Enta",
+      "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
         "name": "Eish Besho'ak",
         "url": "https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 253895,
       "name": "Kefayak Aazar",
       "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
-      },
-      "artists": [
-        {
-          "name": "Lena Chamamyan",
-          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Lamma Bada Yatathana",
-      "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -303,34 +303,18 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Deb",
-        "url": "https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Lena Chamamyan",
+          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
         }
       ],
-      "duration_ms": 305653,
-      "name": "Ghir Enta",
-      "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
-        "name": "Fi 7eta Tanya",
-        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
-      },
-      "artists": [
-        {
-          "name": "Hana Yousry",
-          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Fi 7eta Tanya",
-      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
+      "duration_ms": 241506,
+      "name": "Lamma Bada Yatathana",
+      "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -347,6 +331,22 @@
       "duration_ms": 242760,
       "name": "Ma Baaref",
       "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Fi 7eta Tanya",
+        "url": "https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n"
+      },
+      "artists": [
+        {
+          "name": "Hana Yousry",
+          "url": "https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Fi 7eta Tanya",
+      "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Eza",
-        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
-      },
-      "artists": [
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 272471,
-      "name": "Khallini Bel Jaw",
-      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 305319,
       "name": "Aatini Al Naya Wa Ghanni",
       "url": "https://open.spotify.com/track/4Lyx3S3OkUrJrJJAGrsh0Q"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Eza",
+        "url": "https://open.spotify.com/album/6ZyBVcuJy1NFAEQJWIA5Iq"
+      },
+      "artists": [
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 272471,
+      "name": "Khallini Bel Jaw",
+      "url": "https://open.spotify.com/track/514i2jFUpYy26L92YGRSOH"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Ana Moush Kafer",
-        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Shou Hal Ayyam - 2008 Remastered",
-      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Ana Moush Kafer",
+        "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Shou Hal Ayyam - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
     },
     {
       "added_at": "2023-05-30 10:21:10",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-30 10:21:10",
       "album": {
-        "name": "Ella Enta (Live Session)",
-        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 248952,
-      "name": "Ella Enta (Live Session)",
-      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
-    },
-    {
-      "added_at": "2023-05-30 10:21:10",
-      "album": {
         "name": "Falaytaka Tahlou",
         "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 272333,
       "name": "Fasl",
       "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
+    },
+    {
+      "added_at": "2023-05-30 10:21:10",
+      "album": {
+        "name": "Ella Enta (Live Session)",
+        "url": "https://open.spotify.com/album/4v585gO6VevpUdxqcyvIV3"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 248952,
+      "name": "Ella Enta (Live Session)",
+      "url": "https://open.spotify.com/track/3dyoifUuRTOhUbF4sN3oGd"
     },
     {
       "added_at": "2023-05-30 10:21:10",

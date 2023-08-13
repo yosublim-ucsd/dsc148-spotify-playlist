@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 172695,
+  "num_followers": 172772,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDJlZTYyODZjOTQzYmQxYTg3ZTc4N2JmYjAzMzkzYjViNTMzNzZh",
+  "snapshot_id": "MCw3MzllMWU3NTI3MmI5MTM4ZDA3M2U1ZDExZDczYWQ1NmM4NjI2MGVk",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2022-06-30 13:51:59",

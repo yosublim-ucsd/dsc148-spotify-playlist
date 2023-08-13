@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,460 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,476 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 32 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 33 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
 | 34 | [Perdonémonos](https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Perdonémonos](https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i) | 2:16 |
-| 35 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
-| 36 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
-| 37 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
-| 38 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 35 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
+| 36 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 |
+| 37 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 38 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
 | 39 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
 | 40 | [Morena Cachetona](https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk) | [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Morena Cachetona](https://open.spotify.com/album/6UPwgTTQembPg88PGOPls3) | 3:20 |
 | 41 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 |
 | 60 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 
-Snapshot ID: `MCxhMTI4OTZjNDg4N2EwNzM1NjE3MDE0YjBmNDY0MDBhMTYzNTE5ZTZk`
+Snapshot ID: `MCxmYzMzMGNlMmE4MWY0OTBiY2EyZTY5NTVlMzI0MTE1MDg4ZmQ5Njhm`

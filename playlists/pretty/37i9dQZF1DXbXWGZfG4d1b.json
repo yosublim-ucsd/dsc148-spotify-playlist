@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18752,
+  "num_followers": 18763,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTA0OTczZTU5M2Q1YTcwNTgzMWQ5MTBkNzU0ZTFkNTg1YmNhNWYw",
+  "snapshot_id": "MCxhNzFlNDg1ODVjNjczZTc1NjAwNjEzYWVmZDFmZjNkMWY1MDgwZjk0",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Nadie Duerma",
-        "url": "https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc"
-      },
-      "artists": [
-        {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
-        }
-      ],
-      "duration_ms": 286998,
-      "name": "Nadie Duerma",
-      "url": "https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "La Cuesta del Sol",
         "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 245034,
       "name": "La Cuesta del Sol",
       "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Nadie Duerma",
+        "url": "https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc"
+      },
+      "artists": [
+        {
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+        }
+      ],
+      "duration_ms": 286998,
+      "name": "Nadie Duerma",
+      "url": "https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+      },
+      "artists": [
+        {
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1019,18 +1035,34 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+        "name": "Algo Para Decirte",
+        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
       },
       "artists": [
         {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
+      "duration_ms": 255593,
+      "name": "Chinos Ojos Rojos",
+      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1055,22 +1087,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 243951,
       "name": "El Im\u00e1n",
       "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Algo Para Decirte",
-        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 255593,
-      "name": "Chinos Ojos Rojos",
-      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "La Ciudad Que Dejamos",
-        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 244952,
-      "name": "Hacia los Bosques",
-      "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "La Ciudad Que Dejamos",
+        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 244952,
+      "name": "Hacia los Bosques",
+      "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Un X100To",
+        "url": "https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 167673,
+      "name": "Un X100To",
+      "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Una Pel\u00edcula",
         "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
@@ -1375,6 +1391,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Zona de Fumadores",
         "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
       },
@@ -1407,22 +1439,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -1439,6 +1455,22 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Nocturno",
+        "url": "https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1475,22 +1507,6 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Modernica",
-        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
-      },
-      "artists": [
-        {
-          "name": "Soy Irracional",
-          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Mordisco",
-      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1543,6 +1559,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Modernica",
+        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
+      },
+      "artists": [
+        {
+          "name": "Soy Irracional",
+          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
+        }
+      ],
+      "duration_ms": 189707,
+      "name": "Mordisco",
+      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -1575,42 +1607,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Nocturno",
-        "url": "https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh"
-      },
-      "artists": [
-        {
-          "name": "Los L\u00e1tigos",
-          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "AMORA",
-      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1631,26 +1627,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         },
         {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
     },
     {
       "added_at": "2023-08-11 03:00:00",

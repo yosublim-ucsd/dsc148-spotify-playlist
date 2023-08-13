@@ -1,12 +1,12 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Paola Jara",
-  "num_followers": 207414,
+  "num_followers": 207496,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjU4N2MyZTdkNDFjNWUzMzhkZjE3ZDNiOTc4NTU1ZDQ0Y2RiNmE5",
+  "snapshot_id": "MCwyNjRkMjcwMmMyMjM2NjE1ZDc2MmIyOGMwYmE3ZmIyZmMwYWY1ZjI2",
   "tracks": [
     {
       "added_at": "2023-07-28 01:01:00",
@@ -83,6 +83,26 @@
       "duration_ms": 179372,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
+    },
+    {
+      "added_at": "2023-07-28 01:01:00",
+      "album": {
+        "name": "Hasta La Madre",
+        "url": "https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF"
     },
     {
       "added_at": "2023-07-28 01:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,591 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,639 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 75 | [Parindey](https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Parindey](https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q) | 3:01 |
 
-Snapshot ID: `MCwxODk4YjhlMWMzYTBjNzBiMmI4NjY0OTFlOTY1ZWMzNjQ5ZDkxZGE1`
+Snapshot ID: `MCw4MDZjOGI0OWUyMjdhMTQwMmMyOTEwOWIwODJkOTRhMjJiYWQ1M2I0`

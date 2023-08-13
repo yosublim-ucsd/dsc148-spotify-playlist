@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,320 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,334 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 8 | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/track/1TKXDNKrUOV21b19jfXiSO) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lam Anh](https://open.spotify.com/artist/5trMq1OIockzQVpFicyrpn) | [Sao Anh Nỡ Đành Quên](https://open.spotify.com/album/69IZ8R0qBU6ySFRFW9B6Tj) | 4:10 |
 | 9 | [Hoa Nở Về Đêm](https://open.spotify.com/track/66cuTRLlp6GUD06TzELKnj) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chiều Cuối Tuần](https://open.spotify.com/album/133qaaT0iDJWj8WSrYSMh8) | 5:54 |
 | 10 | [Chuyện hẹn hò](https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:05 |
-| 11 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hương](https://open.spotify.com/artist/20D0rskLHvakkfhZcgbulX) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
+| 11 | [Cho Người Tình Lỡ](https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ) | [Phương Phương Thảo](https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v) | [Cho Người Tình Lỡ](https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk) | 5:56 |
 | 12 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/6zJMd6pK2dPB5wFkWRh8Rl) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Ngày Em Đi](https://open.spotify.com/album/2aeAcs0wd9gHfmRbwmZZRS) | 4:49 |
 | 13 | [Không Giờ Rồi](https://open.spotify.com/track/4hCo5F8lu2qeVYEUgOX9Ba) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Không Giờ Rồi](https://open.spotify.com/album/5kWpxGSD5nHD9hKN1dMFtN) | 5:12 |
-| 14 | [Cho Người Tình Lỡ](https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ) | [Phương Phương Thảo](https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v) | [Cho Người Tình Lỡ](https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk) | 5:56 |
+| 14 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hương](https://open.spotify.com/artist/20D0rskLHvakkfhZcgbulX) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
 | 15 | [Thành Phố Buồn](https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf) | 5:43 |
 | 16 | [Xuân Này Con Không Về](https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Bến Xuân](https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ) | 4:45 |
 | 17 | [Mùa xuân đó có em](https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mùa Xuân Đó Có Em](https://open.spotify.com/album/11Zy14Xv73QRBRFMykcFz5) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/track/0dnXeBSlnqLpHkJ5g5o2eY) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Nỗi Buồn Gác Trọ \(Version Lofi\)](https://open.spotify.com/album/5RiWfZNluUklLApntD9oRG) | 2:53 |
 | 50 | [Đường tình đôi ngả](https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh \- Tuấn Vũ \- Đôi mắt người xưa](https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN) | 4:29 |
 
-Snapshot ID: `MCxhNmVhOGJlOGI2NGY4YzUxODk4OTk5ODA0MmQ5MzJlYzEzYjQ4ODJi`
+Snapshot ID: `MCwxMmNjNDRlOGYzYzBlMmUyMzdiOWIzNzU5YzQ2Njc5YzMyMTdkNWYw`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 56685,
+  "num_followers": 56743,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTAwNGRiMTkyOTAxZDhlZDg1MTcyMGZiYzk0MTA2Mjk4NjFjYWU2",
+  "snapshot_id": "MCxhYmIwMmI2OTkzOWEyZTY4ODgyZjRkNzQzM2JjZWEzMjAwZmVkNTE2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Agachadita",
-        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 195024,
-      "name": "Agachadita",
-      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -719,6 +715,26 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Tragedias de Mi Pueblo (Con Banda)",
-        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253105,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "El Fugitivo (En Vivo)",
         "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 178050,
       "name": "El Fugitivo (En Vivo)",
       "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -983,6 +983,22 @@
       "duration_ms": 134234,
       "name": "La Flechita",
       "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Borrachera Con los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1039,6 +1055,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Las Preferidas, Vol. 2 (En vivo)",
         "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
       },
@@ -1051,22 +1083,6 @@
       "duration_ms": 188917,
       "name": "Yo Te Necesito - En vivo",
       "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Borrachera Con los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 164257,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
+      "duration_ms": 180542,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180542,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Lives Pa' la Raza",
+        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 236945,
+      "name": "El Viajecito",
+      "url": "https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Golpe de Estado (En Vivo)",
         "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Lives Pa' la Raza",
-        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 236945,
-      "name": "El Viajecito",
-      "url": "https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o"
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1455,8 +1471,8 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
       },
       "artists": [
         {
@@ -1464,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7eXKLWZeQdMDBzGZvpAvr7"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 205949,
-      "name": "Inv\u00e9ntame - En Vivo",
-      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
       },
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 205949,
+      "name": "Inv\u00e9ntame - En Vivo",
+      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 192480,
       "name": "Abrazado De Un Poste - En Vivo",
       "url": "https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7eXKLWZeQdMDBzGZvpAvr7"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Mi Eterno Amor Secreto - En Vivo",
+      "url": "https://open.spotify.com/track/1nWEVcvYkpfVFxSfAOkaW5"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "De Parranda Lives Vol. 2/3",
         "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
@@ -1663,26 +1679,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -1703,18 +1699,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 235813,
-      "name": "Mi Eterno Amor Secreto - En Vivo",
-      "url": "https://open.spotify.com/track/1nWEVcvYkpfVFxSfAOkaW5"
+      "duration_ms": 178240,
+      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1751,38 +1751,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
-        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         },
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Loco - En Vivo",
-      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
-        }
-      ],
-      "duration_ms": 204078,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En vivo)",
+      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1807,22 +1791,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Levantando Polvadera (En vivo)",
-      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+      "duration_ms": 204078,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1871,6 +1851,26 @@
       "duration_ms": 183842,
       "name": "Mi Luna, Mi Estrella",
       "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
+        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Loco - En Vivo",
+      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1963,22 +1963,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Disimulando (En Vivo)",
-        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 202869,
-      "name": "Disimulando - En Vivo",
-      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1999,6 +1995,26 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Disimulando (En Vivo)",
+        "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 202869,
+      "name": "Disimulando - En Vivo",
+      "url": "https://open.spotify.com/track/7mjkqI87JhGwAou3aWe37T"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "H\u00edbrido (En Vivo)",
         "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 180537,
       "name": "Celos del Viento - En Vivo",
       "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2083,34 +2083,38 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "A La Antig\u00fcita (En Vivo)",
-        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 164306,
-      "name": "A La Antig\u00fcita - En Vivo",
-      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
+      "duration_ms": 159390,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
     },
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 153562,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2135,22 +2139,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 159390,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+      "duration_ms": 153562,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Una Copa Por Cada Reina",
-        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+        "name": "A La Antig\u00fcita (En Vivo)",
+        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Lo Siento Mi Amor",
-      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+      "duration_ms": 164306,
+      "name": "A La Antig\u00fcita - En Vivo",
+      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Desde el corral (En Vivo)",
+        "url": "https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU"
+      },
+      "artists": [
+        {
+          "name": "Los Humildes Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "Fue Manuel (En Vivo)",
         "url": "https://open.spotify.com/album/5ML7zIqNucPLnoArhEpUcf"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 173946,
       "name": "Fue Manuel - En Vivo",
       "url": "https://open.spotify.com/track/0GVjvHPjw5c0FkKYuv8Kxe"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Desde el corral (En Vivo)",
-        "url": "https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU"
-      },
-      "artists": [
-        {
-          "name": "Los Humildes Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "En Vivo: Desde Los Cabos",
+        "url": "https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 176650,
+      "name": "La M\u00e1s Bonita de Todas - En Vivo",
+      "url": "https://open.spotify.com/track/3tcExFTnLwXcKEUw2cWNum"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "El Codiciado (En Vivo)",
         "url": "https://open.spotify.com/album/6HzaXemIvKdZw3PAlycETQ"
       },
@@ -2579,22 +2595,6 @@
       "duration_ms": 221893,
       "name": "El Cajoncito - En Vivo",
       "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "En Vivo: Desde Los Cabos",
-        "url": "https://open.spotify.com/album/3eg49AFsugMffeVhRfG98r"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 176650,
-      "name": "La M\u00e1s Bonita de Todas - En Vivo",
-      "url": "https://open.spotify.com/track/3tcExFTnLwXcKEUw2cWNum"
     },
     {
       "added_at": "2023-06-16 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 36933,
+  "num_followers": 36983,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk",
+  "snapshot_id": "MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Antolog\u00eda...Los Xochimilcas",
-        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Xochimilcas",
-          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Pulque para dos",
-      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Mambo!",
         "url": "https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 137240,
       "name": "Gopher Mambo - Remastered 2009",
       "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Antolog\u00eda...Los Xochimilcas",
+        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Xochimilcas",
+          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Pulque para dos",
+      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Chicavasco",
-        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
-      },
-      "artists": [
-        {
-          "name": "Rana Santacruz",
-          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Cajita De Barro",
-      "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "This Time",
@@ -1071,6 +1055,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Chicavasco",
+        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
+      },
+      "artists": [
+        {
+          "name": "Rana Santacruz",
+          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Cajita De Barro",
+      "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
-        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Hot Tamales (Los Tamalitos De Olga)",
-      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1295,6 +1279,22 @@
       "duration_ms": 300226,
       "name": "Mujer Soy",
       "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Complete 78's, Vol. 4 (1949 - 1955)",
+        "url": "https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "Hot Tamales (Los Tamalitos De Olga)",
+      "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165982,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "This Is Desmond Dekker (Enhanced Edition)",
@@ -1359,6 +1343,22 @@
       "duration_ms": 209360,
       "name": "Coconut Water",
       "url": "https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 165982,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Guapapasea!",
-        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
-      },
-      "artists": [
-        {
-          "name": "Gecko Turner",
-          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
-        }
-      ],
-      "duration_ms": 331293,
-      "name": "Limon En La Cabeza",
-      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Tastes Like L.A.",
         "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 235934,
       "name": "Paletero",
       "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Guapapasea!",
+        "url": "https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP"
+      },
+      "artists": [
+        {
+          "name": "Gecko Turner",
+          "url": "https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg"
+        }
+      ],
+      "duration_ms": 331293,
+      "name": "Limon En La Cabeza",
+      "url": "https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "The Power of the Latin Music",
         "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "15 \u00c9xitos de los Zafiros",
-        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
-      },
-      "artists": [
-        {
-          "name": "Los Zafiros",
-          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
-        }
-      ],
-      "duration_ms": 152027,
-      "name": "Bossa Cubana",
-      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Tropid\u00e9lico",
         "url": "https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 257786,
       "name": "Regi Bugal\u00fa (Bugalu)",
       "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 \u00c9xitos de los Zafiros",
+        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
+      },
+      "artists": [
+        {
+          "name": "Los Zafiros",
+          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Bossa Cubana",
+      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
       "added_at": "2020-05-28 20:45:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: La Delio Valdez, KePersonajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,560 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,650 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 13 | [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 |
 | 14 | [Como Si Nada](https://open.spotify.com/track/3YFyhztixS611aIfBEN8NV) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Como Si Nada](https://open.spotify.com/album/0WPkV2wMM2Njzd3ul53OBD) | 3:03 |
 | 15 | [Pobrecito](https://open.spotify.com/track/24sdfs2SJcIhgMZvmHH60k) | [Ala Jaza](https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW) | [Pobrecito](https://open.spotify.com/album/0W5usfEgvQYSkTWv63t7d7) | 3:05 |
-| 16 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 2:36 |
+| 16 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 |
 | 17 | [Barbie Truchita](https://open.spotify.com/track/4XM3SxTK3a2FPRp9CxCjB1) | [Nandy Versátil](https://open.spotify.com/artist/3GwoCpFbjTgpIVbNikSfFr) | [Barbie Truchita](https://open.spotify.com/album/0ZhltdoXgZLpCT0M0T5wwj) | 3:07 |
 | 18 | [Cuando Una Mujer Decide Olvidar](https://open.spotify.com/track/6He7riulvkDRFFrZeJnyEF) | [Son Tentacion](https://open.spotify.com/artist/0cRklsfE0m4PJdClx3Ke26) | [Me Canse de Ser La Otra](https://open.spotify.com/album/5frVaSeuU88aUwWFyvEGGK) | 6:39 |
 | 19 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Brindis](https://open.spotify.com/track/7GFsruIOvW7kE3iw48zAHi) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Brindis](https://open.spotify.com/album/4D7iZ7xXU4GQM8s8pCC9W4) | 3:56 |
 | 50 | [Mueve / Cumbia Caliente / No Me Mires](https://open.spotify.com/track/2sWxnXLNEy02jEocDcstw7) | [Siempre Verde](https://open.spotify.com/artist/4eyu1IhLo2RUlDwJLtodxl), [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [Mueve / Cumbia Caliente / No Me Mires](https://open.spotify.com/album/2Z3LRXJFNMMnepvkk4hsbX) | 4:37 |
 
-Snapshot ID: `MCxkNGU1MmVlZjMwNDJiNjIwYjk0YTIzNmQ4YWY5MTUyYjhiYjk3N2Vl`
+Snapshot ID: `MCxhNTJiZjMxYTFiYzI1OTM3MWJjNzdkNjgwM2E0ZjY4Y2ZkMTJmYWNj`

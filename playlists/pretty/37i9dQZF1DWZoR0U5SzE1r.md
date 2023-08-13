@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,447 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,580 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 54 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
 | 55 | [My Hallelujah](https://open.spotify.com/track/6ibX7aG1bsQzTJb5gUjCpn) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 4:06 |
 | 56 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
-| 57 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 |
-| 58 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
+| 57 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
+| 58 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 |
 | 59 | [My Hope Secure](https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [My Hope Secure](https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6) | 4:16 |
 | 60 | [Dancing On The Waves \- Live At The Wheelhouse](https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dancing On The Waves \(Live\)](https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r) | 4:29 |
 | 61 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 69 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 |
 | 70 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
 | 71 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
-| 72 | [On My Side](https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 4:19 |
-| 73 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
+| 72 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
+| 73 | [On My Side](https://open.spotify.com/track/4NG3Xw4yu8O2j4UIDLUwCP) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 4:19 |
 | 74 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
 | 75 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 |
 | 76 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
 
-Snapshot ID: `MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi`
+Snapshot ID: `MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: The Band CAMINO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,544 likes - 126 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,606 likes - 126 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 17 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 18 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 19 | [Desire](https://open.spotify.com/track/4tyDTLhNhe5y0g53vrpv8e) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Desire](https://open.spotify.com/album/1KT4zt8tTkUTQlUWJKLjQW) | 3:12 |
-| 20 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
+| 20 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
 | 21 | [dose no\. 2](https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 2:54 |
 | 22 | [Who's Laughing Now](https://open.spotify.com/track/7MtcgU2tdfXxVfzDZt08c9) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/5t3uODZ1VSYMBoIVQLxQXJ) | 3:38 |
 | 23 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 |
 | 126 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 
-Snapshot ID: `MCxlNDRjODQ1NTYwYjhlMTMwNTIzMDIzZDIzMjE1OGVkNzg0ODZkYjJj`
+Snapshot ID: `MCw5YmZlOWI0ZTM0NzNhZGQzNDQ5M2E4N2ViZDZmMDcyZDI0MjQ3MTUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,917 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 37 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 |
 | 38 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
 | 39 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
-| 40 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
-| 41 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
+| 40 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
+| 41 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
 | 42 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
 | 43 | [Testimony \- Acoustic](https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Testimony Therapy](https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7) | 3:39 |
 | 44 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
 | 50 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
 
-Snapshot ID: `MCw2OTU3NzZkMTE4NjY3NDU2MTU2YmRlNzI2ODYzMTczZmIyY2EwY2Ez`
+Snapshot ID: `MCwxM2Q2NmVlMmFiZDBjODI3NWVmNzU3NWYwNGVhZmQ4YmQ1ZjkzNjA5`

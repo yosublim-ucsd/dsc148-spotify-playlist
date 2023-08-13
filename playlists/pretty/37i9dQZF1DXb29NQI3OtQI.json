@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 171944,
+  "num_followers": 172070,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDJlYTIxY2M0Yzc1YmNjOGQ0N2JjYjNlMTQxNTM1NjlhNWUwNTU0",
+  "snapshot_id": "MCw4YmJlZDkzYzlmNDczNTVkOTIzZjE5ZGZlMDBlZmJmMDUzMTYwZDU0",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "No Stranger to Shame",
-        "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "No Stranger to Shame",
+        "url": "https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "The Best Of Keane (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 332973,
-      "name": "Fly To Me",
-      "url": "https://open.spotify.com/track/3Bf9nv32awaGVdviHbmp8Q"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "The Beautiful Letdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 282080,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/1HTNd7iD21O7dyNcE85oku"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "The Best Of Keane (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 332973,
+      "name": "Fly To Me",
+      "url": "https://open.spotify.com/track/3Bf9nv32awaGVdviHbmp8Q"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "The Beautiful Letdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 293520,
-      "name": "Twenty-four",
-      "url": "https://open.spotify.com/track/2DLmQACFPykftNpEAc4bDa"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "Sailing to Philadelphia",
         "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 347866,
-      "name": "My Sundown",
-      "url": "https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0"
+      "duration_ms": 224213,
+      "name": "Your Arms Feel Like home",
+      "url": "https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "The Beautiful Letdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 293520,
+      "name": "Twenty-four",
+      "url": "https://open.spotify.com/track/2DLmQACFPykftNpEAc4bDa"
     }
   ],
   "unique_name": "00s Easy Rock",

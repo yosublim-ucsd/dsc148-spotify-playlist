@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-739 songs - 1 day 15 hr 6 min
+740 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Mamma](https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Mamma](https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv) | 2:20 | 2023-01-19 | 2023-03-04 |
 | [Mamma är lik sin mamma](https://open.spotify.com/track/4UBKHem0p2HpIAjCnELAjE) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Mamma är lik sin mamma](https://open.spotify.com/album/4zcd1yACKoc6R3fAi8NhCn) | 3:36 | 2021-12-16 | 2022-03-11 |
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
+| [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 | 2023-08-10 |  |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 | 2023-04-26 |
@@ -665,7 +666,7 @@
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 |  |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
-| [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 |  |
+| [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-08-13 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |
 | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tusen gånger om \(feat\. Newkid\)](https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2) | 3:16 | 2022-06-02 |  |
 | [Två steg från helvetet](https://open.spotify.com/track/2Rnovc1XuaXP1yc7X1AqbK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Två steg från helvetet](https://open.spotify.com/album/6tdvSwpWnFTRkpnvX0CP76) | 3:18 | 2022-03-10 | 2022-09-16 |

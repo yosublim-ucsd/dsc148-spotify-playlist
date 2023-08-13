@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTY2ZGQ3NzNkOWZkMzMyY2U3ZGU5NDA3Njk2MzE3MmQ2ZjM1NTQ2",
+  "snapshot_id": "MCxkMTE4NTdhMzYxZTk4MTE0Yzk4NWQ2Y2RiZTM2MDhhOGNmMWI5ZDQ5",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "dramatic",
-        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
       },
       "artists": [
         {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 150200,
-      "name": "dramatic",
-      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
+      "duration_ms": 140880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
+        "name": "dramatic",
+        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
         }
       ],
-      "duration_ms": 140880,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
+      "duration_ms": 150200,
+      "name": "dramatic",
+      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Aston",
+        "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
+      },
+      "artists": [
+        {
+          "name": "ASTON",
+          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Middle Fingers",
+      "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "I Love You But I Love Me More (feat. Beach Bunny)",
         "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 222786,
       "name": "I Love You But I Love Me More (feat. Beach Bunny)",
       "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Aston",
-        "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
-      },
-      "artists": [
-        {
-          "name": "ASTON",
-          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Middle Fingers",
-      "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
     },
     {
       "added_at": "2022-11-15 00:54:21",

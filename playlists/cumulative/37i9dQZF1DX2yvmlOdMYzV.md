@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-462 songs - 1 day 1 hr 33 min
+463 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Closer](https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:21 | 2022-11-09 |  |
 | [Closer](https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 3:21 | 2022-06-10 | 2022-11-20 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-12-15 | 2022-04-05 |
+| [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 | 2023-04-03 |  |
 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 | 2023-06-16 |  |
 | [colo\(u\)rs](https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [colo\(u\)rs](https://open.spotify.com/album/4PxZgS3FxsNaMTOag2Vn5M) | 3:07 | 2021-12-15 | 2022-07-29 |
 | [Colour Blind](https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 2:35 | 2023-04-28 |  |
@@ -299,7 +300,7 @@
 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 | 2021-12-15 | 2022-06-11 |
 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 |  |
 | [Okok \(Hibachi\)](https://open.spotify.com/track/44ashym52bERKclJsKt3Db) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Valley Hopefuls](https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp) | 2:13 | 2022-02-11 | 2022-09-30 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-11 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-11 | 2023-08-13 |
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-06-11 |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-31 |  |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-05-05 |  |

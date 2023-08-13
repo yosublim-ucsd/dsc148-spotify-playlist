@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,603 songs - 5 day 18 hr 9 min
+3,604 songs - 5 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Chilly Night](https://open.spotify.com/track/6P37KIXwqglon8XbGEZrS8) | [Seeweed](https://open.spotify.com/artist/3vY6SsmX9WFNkLJPqfYGvv) | [In the Twilight](https://open.spotify.com/album/1TAAqHGtb2WxUtZPmvNcvb) | 3:10 | 2020-03-31 | 2020-06-05 |
 | [Chime](https://open.spotify.com/track/3np8jFrLxrWPOYW3mv1Thk) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/21WyYkF4blA4UzeFhssGwD) | 1:49 | 2022-09-22 | 2022-10-22 |
 | [Chimera](https://open.spotify.com/track/3nRJAi4a3tghGk13KemWUF) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Chimera](https://open.spotify.com/album/5CIbtSlJjUMo4XfIypmeLm) | 2:12 | 2020-06-12 | 2020-08-30 |
+| [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-10 |  |
 | [Chirps](https://open.spotify.com/track/6CnuhgK2L3JX19GlCl019Q) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Chirps](https://open.spotify.com/album/2lhTWmrIIDDUJ96T83kXMt) | 1:58 | 2021-03-02 | 2021-07-09 |
 | [Chiyo](https://open.spotify.com/track/1kd6vdfLCJFEqjEPRXEggo) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Kyūta EP \#1](https://open.spotify.com/album/5gf7IxCPfDUxA8GUQjD3d3) | 2:42 | 2020-09-25 | 2021-04-30 |
 | [Chocolata](https://open.spotify.com/track/2h3lDwbjavbLGIOi8fyGVo) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Chocolata / Dark Hole Funk](https://open.spotify.com/album/5nCzqAC8iMj6KyhWI8giGD) | 1:49 | 2021-02-26 | 2021-03-19 |
@@ -1813,7 +1814,7 @@
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2021-09-03 | 2021-10-22 |
 | [Love Story](https://open.spotify.com/track/6ODrXsPvaBDGDw0TmtWXyP) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Love Story](https://open.spotify.com/album/1ZxPi92lMw8Ys2V3cUwUNK) | 3:35 | 2020-09-04 | 2021-02-06 |
 | [Love Supreme](https://open.spotify.com/track/1HQ9dRBteu06o0W3ERJS9d) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf) | [Love Supreme](https://open.spotify.com/album/3eJGYjm9doLGIwCTk63hy3) | 3:15 | 2021-01-17 | 2021-06-25 |
-| [Love The Sun](https://open.spotify.com/track/2PobmTozpLhPVs1iytBTLL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [The Goldenboys](https://open.spotify.com/artist/6t7lCFSZxaGnFE9q1jhDCe) | [Love The Sun](https://open.spotify.com/album/0QqRAiQU6keRuDht6kmPI2) | 1:21 | 2023-08-10 |  |
+| [Love The Sun](https://open.spotify.com/track/2PobmTozpLhPVs1iytBTLL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [The Goldenboys](https://open.spotify.com/artist/6t7lCFSZxaGnFE9q1jhDCe) | [Love The Sun](https://open.spotify.com/album/0QqRAiQU6keRuDht6kmPI2) | 1:21 | 2023-08-10 | 2023-08-13 |
 | [Love Traces](https://open.spotify.com/track/6zuQXEb1izSVz6YwRgfjDI) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Plata](https://open.spotify.com/album/29Cnf0Tk8eb0uGzOOwmaD2) | 2:29 | 2020-04-18 | 2020-06-22 |
 | [Lovebites](https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Lovebites](https://open.spotify.com/album/6p6lIvpJt7O9t5QNVs8A9u) | 1:33 | 2023-05-11 |  |
 | [lovedrunk](https://open.spotify.com/track/34Xzv8Mm11LYddFgw6rfdl) | [Hawks](https://open.spotify.com/artist/4ZUNXYwh6gDNwd3IUHdaYw) | [lovedrunk](https://open.spotify.com/album/5ZzQcWkfG8ieikKxos3Nb1) | 1:18 | 2019-11-06 | 2020-03-25 |

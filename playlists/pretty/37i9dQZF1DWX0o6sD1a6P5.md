@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,079 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,557 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Sortez les mapessa](https://open.spotify.com/track/4Fi2x6A5gFjKOxVWINY5f8) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ), [smy](https://open.spotify.com/artist/0pqQHE8S2ZiLknH7zjJcJ7), [Zaza](https://open.spotify.com/artist/3KywjJVE3nbXb3wIWVT0Y7), [Moris Beat](https://open.spotify.com/artist/6dkNQYPE7rqk57DfAfZdQU), [Ady Junior](https://open.spotify.com/artist/7BvNM0DOw6Y4aCG5CwRpQR) | [Sortez les mapessa](https://open.spotify.com/album/0JFwx4V0UXNDsCLlCU1KYY) | 2:26 |
 | 50 | [Bankruptcy](https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:31 |
 
-Snapshot ID: `MCw3NTJlMGJiYjlkNzg5NTU0YzdiMGI3N2RlMmVlODM5YTE4NDgwNDE1`
+Snapshot ID: `MCxmNzE3NzgxOTI5NjI0YzM5YmJhYzRiZDhiOTQ5N2VjMWRkZWNmOWI5`

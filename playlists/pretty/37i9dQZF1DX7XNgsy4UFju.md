@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,942 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,949 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 27 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 |
 | 28 | [Good Time](https://open.spotify.com/track/0Bnpz1CaFfX0jvsEjTpBez) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Good Time](https://open.spotify.com/album/6n4HP1Pwg3VrFhBVaPXrmF) | 2:58 |
 | 29 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
-| 30 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 30 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 31 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 |
 | 32 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
 | 33 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 90 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 |
 | 91 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 |
 | 92 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 |
-| 93 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
+| 93 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 94 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 95 | [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 |
 | 96 | [Delicate People](https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Delicate People](https://open.spotify.com/album/5TPEdVSMdIG6aiatkrVtZp) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 |
 | 100 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 |
 
-Snapshot ID: `MCw3YTI0MmFmM2JmYzNiMjBiNjM4YzM4Yjc0MTc4OGM5MzNmMTc4OGQy`
+Snapshot ID: `MCw5ZGE3ZDg4YTlhY2NkZTk0MjFiZjMyMDVmMzk2N2FjYmEzN2QyYmNh`

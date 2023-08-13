@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 1346271,
       "name": "Africa (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/5V5HRJEn8y0ZcfOmdGMaZj"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 172213,
       "name": "Always Gonna Be",
       "url": "https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 189066,
       "name": "Dagger",
       "url": "https://open.spotify.com/track/1hICPeE2RsgszcRY0qMswI"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 206821,
       "name": "Disconnect - Ti\u00ebsto Extended Remix",
       "url": "https://open.spotify.com/track/2P9PYltlVgxAcLOerXqcHA"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 293023,
       "name": "Down For Some Freakin' - Violent Hill remix",
       "url": "https://open.spotify.com/track/0jdWQi1f4hKgufhYWQLgUY"
@@ -4036,6 +4036,24 @@
       "duration_ms": 136000,
       "name": "Girl Power",
       "url": "https://open.spotify.com/track/0vO5M6kkxFGxQexnnYpcgV"
+    },
+    {
+      "album": {
+        "name": "Give Her That",
+        "url": "https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Give Her That",
+      "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
     },
     {
       "album": {
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 490614,
       "name": "Look at the Birds",
       "url": "https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja"
@@ -7772,10 +7790,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 217470,
       "name": "Realest (with Eminem)",
       "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
+    },
+    {
+      "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/6dcPEVpGyhIgIYeW1CVQeP"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218859,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/2r00b713EahQGlSYQY9FWw"
     },
     {
       "album": {
@@ -9094,7 +9134,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 154957,
       "name": "Supercalifragilisticexpialidocious (Metal Version)",
       "url": "https://open.spotify.com/track/0UdRc3ZTTzy5Ys5ujAviuE"
@@ -9546,7 +9586,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 173560,
       "name": "The Big One - Live at Sugarshack Sessions",
       "url": "https://open.spotify.com/track/20YkHoHHJ8RCJ7ksOpzMts"

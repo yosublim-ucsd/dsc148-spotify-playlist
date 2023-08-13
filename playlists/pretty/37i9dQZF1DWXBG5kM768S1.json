@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 69990,
+  "num_followers": 70010,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDMxNjhlY2IyZWIzYjg2YjkxOTQ0NWI3YzhiYTkxMTAyMjc5Nzlj",
+  "snapshot_id": "MCwxNzgzMzJjNTBlMTRhOGJlNzU4YjEzOTU0NDllZjYzOGUzYmZlZTgw",
   "tracks": [
     {
       "added_at": "2023-08-02 08:55:38",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Varme Ut Av Is",
-        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
       "artists": [
         {
-          "name": "J\u00f8rn Hoel",
-          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Har En Dr\u00f8m",
-      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-08-02 08:55:38",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+        "name": "Varme Ut Av Is",
+        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
       "artists": [
         {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+          "name": "J\u00f8rn Hoel",
+          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
         }
       ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+      "duration_ms": 234466,
+      "name": "Har En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
     },
     {
       "added_at": "2023-08-02 08:55:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-02 08:55:38",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2023-08-02 08:55:38",
-      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
+    },
+    {
+      "added_at": "2023-08-02 08:55:38",
+      "album": {
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2023-08-02 08:55:38",

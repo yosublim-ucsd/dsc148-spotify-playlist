@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 160132,
+  "num_followers": 160522,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjgwZjBhM2MyMzBlYmM2OThjYzRmNjA1MDllN2NjN2M2MjliNTQ2",
+  "snapshot_id": "MCw3YmExZDhlNTFhZGI1MGMwZTYwY2Q3ZTE0M2YxMDg4NjU3NzdhOWUy",
   "tracks": [
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 175229,
       "name": "YOU'RE DRUNK, GO HOME",
       "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Tanya Tucker / Super Hits",
-        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Love Me Like You Mean It",
-      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Only What I Feel",
         "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 213693,
       "name": "Blame It on Your Heart",
       "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Off The Deep End",
-        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Off The Deep End",
-      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Blue Roses",
         "url": "https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 206293,
       "name": "Buy My Own Drinks",
       "url": "https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 196499,
+      "name": "Off The Deep End",
+      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2023-07-24 19:45:41",

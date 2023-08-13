@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,538 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,551 likes - 40 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 6 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 7 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
 | 8 | [Gouyé](https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Nouvel R](https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD) | 4:42 |
-| 9 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
-| 10 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
+| 9 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
+| 10 | [M Sweté'l Dansé](https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 4:27 |
 | 11 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 |
 | 12 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [Kai](https://open.spotify.com/artist/7B6Ajzkbv8vuRUJfOZE9GH), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 13 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 37 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 38 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 39 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
-| 40 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
+| 40 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 
-Snapshot ID: `MCw2NGY4YjVjNmU2ZDBmNjRmNjI1ZDIxNmY2ZTdkMDRjYTY3ZmQ2MzBk`
+Snapshot ID: `MCw3ODM0MGZhNTJjNWJmZGVhZmE0MTk0Nzg5MDMzZjE4NWU2OTQwNTgx`

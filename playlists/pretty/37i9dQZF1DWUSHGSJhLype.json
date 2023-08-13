@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: MC Kevin o Chris",
-  "num_followers": 383122,
+  "num_followers": 383531,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODg0MGFjNmIyZGZiZTFkYjdjZDdmYTQ1ZTNkNWUwNzk0NjE0ZTI3",
+  "snapshot_id": "MCwzNTQyYzE0N2RlNWYwOTBhZTU3ZmVmMGJjMzllY2Q2MTcxZDcyZTFl",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Tamborz\u00e3o Raiz",
-        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Papin",
-      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Forte Forte de Lacoste - Pra Come\u00e7ar o Final de Semana",
         "url": "https://open.spotify.com/album/3cMus2DPrc3370m8whkCul"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 182769,
       "name": "Forte Forte de Lacoste - Pra Come\u00e7ar o Final de Semana",
       "url": "https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Eu Gosto Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 148800,
       "name": "Eu Gosto Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Another One",
-        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 187562,
-      "name": "Posturado E Calmo",
-      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1043,22 +1043,34 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Perdoou Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
       },
       "artists": [
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Perdoou Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Piseiro Tocando Alto",
+        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 do HF",
+          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
+        }
+      ],
+      "duration_ms": 108931,
+      "name": "Piseiro Tocando Alto",
+      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1083,38 +1095,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Piseiro Tocando Alto",
-        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
-      },
-      "artists": [
-        {
-          "name": "Forr\u00f3 do HF",
-          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
-        }
-      ],
-      "duration_ms": 108931,
-      "name": "Piseiro Tocando Alto",
-      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Faz o Teu Nome",
         "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 99701,
       "name": "Faz o Teu Nome",
       "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Perdoou Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Onde Tu Vai Sentar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Onde Tu Vai Sentar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Tchuco Nela",
         "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Onde Tu Vai Sentar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Onde Tu Vai Sentar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Te Love (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
-      },
-      "artists": [
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Te Love - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Wesley Safad\u00e3o Ao Vivo em Fortaleza - EP.01",
         "url": "https://open.spotify.com/album/3rlBnUvwFdWTdEzlaakPfg"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 178765,
       "name": "Pega o Guanabara - Ao Vivo",
       "url": "https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Embaixador do Piseiro em Casa - Ao Vivo",
         "url": "https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 135947,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
       "added_at": "2023-08-11 03:00:00",

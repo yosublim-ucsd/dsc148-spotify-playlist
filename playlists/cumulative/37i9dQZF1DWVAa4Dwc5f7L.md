@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz
 
-190 songs - 13 hr 0 min
+191 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 | 2023-08-04 |  |
 | [Bomba](https://open.spotify.com/track/3Yv9scZyi4XkzOpRLtHVwQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Fuera de Serie](https://open.spotify.com/album/76M2iaTLAP0pTJZyciQSvM) | 4:39 | 2022-01-20 | 2022-10-15 |
 | [Bomba](https://open.spotify.com/track/5HBkbQ99IuQgCaxgyEZeYZ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Fuera de Serie](https://open.spotify.com/album/29B8jyk5wcTxQBC2HIKeIR) | 4:39 | 2022-09-09 | 2023-03-11 |
+| [Borracho Me Dolió](https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Borracho Me Dolió](https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny) | 3:08 | 2023-08-11 |  |
 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 | 2022-09-09 |  |
 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/7EpStg3XDydJ7F9iVfED27) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/6xSWCwybltm1cIL74pE5xg) | 3:58 | 2022-01-20 | 2022-10-15 |
 | [Buscando Tus Besos](https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0) | 3:55 | 2022-01-20 | 2022-10-15 |
@@ -171,7 +172,7 @@
 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 | 2022-01-20 | 2023-03-11 |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2022-01-20 | 2022-07-28 |
 | [Sube y Baja](https://open.spotify.com/track/5CT25pSoL7HJXoNkQJtWlN) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Swing a Domicilio](https://open.spotify.com/album/4u0jr5cSJrFNk4lJ3PYlY9) | 4:31 | 2022-01-20 | 2022-05-22 |
-| [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 | 2022-01-20 |  |
+| [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 | 2022-01-20 | 2023-08-13 |
 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 | 2022-01-20 |  |
 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 | 2023-06-09 |  |
 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 | 2022-01-20 |  |

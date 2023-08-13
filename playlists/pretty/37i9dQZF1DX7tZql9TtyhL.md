@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 
 > La música de ayer, el party de hoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,667 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,794 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 | 90 | [Sin Culpa \(feat.DrefQuila\)](https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Sin Culpa \(feat\. DrefQuila\)](https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4) | 4:04 |
 | 91 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
 | 92 | [Obsesionado](https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:31 |
-| 93 | [Te Quiero Ver \(feat\. Polimá Westcoast y Young Cister\)](https://open.spotify.com/track/4YQieyZIxrHaDiAPQosmoP) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Utopia](https://open.spotify.com/album/4V1XBfXlZsJxOduPutlN9D) | 3:25 |
-| 94 | [Vamos pra Gaiola](https://open.spotify.com/track/7FiIQXpIeLo3ITfGGpb8PB) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [Vamos pra Gaiola](https://open.spotify.com/album/0hJtsPSnS9gsqawibZGR5E) | 2:41 |
+| 93 | [Vamos pra Gaiola](https://open.spotify.com/track/7FiIQXpIeLo3ITfGGpb8PB) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [Vamos pra Gaiola](https://open.spotify.com/album/0hJtsPSnS9gsqawibZGR5E) | 2:41 |
+| 94 | [Te Quiero Ver \(feat\. Polimá Westcoast y Young Cister\)](https://open.spotify.com/track/4YQieyZIxrHaDiAPQosmoP) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Utopia](https://open.spotify.com/album/4V1XBfXlZsJxOduPutlN9D) | 3:25 |
 | 95 | [Como Yo Le Doy](https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 3:41 |
 | 96 | [Falsas Mentiras \(feat\. Ozuna\)](https://open.spotify.com/track/36JI0KHc591i9liHaFqDFG) | [Los De La Nazza](https://open.spotify.com/artist/7sQc4ugqcqoLJPnznIE2jm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Orion](https://open.spotify.com/album/1qA8Q6vn2oYXBwiMb55HTu) | 4:29 |
 | 97 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tZql9TtyhL.md) - [plain]
 | 99 | [Ni Gucci Ni Prada](https://open.spotify.com/track/32lexhcz93AinKK0qLTZaZ) | [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [Ni Gucci Ni Prada](https://open.spotify.com/album/4x1ekBFExz90qUx1dKQByU) | 2:55 |
 | 100 | [Loquita](https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:24 |
 
-Snapshot ID: `MCw0MGQxYWM5OTFkM2M3ZThmN2RlYWUxZjJjNDU0Njc5MGQ2OWYyYWI2`
+Snapshot ID: `MCw4YTRjMTkyYzk2YjYyNmQyMDI1MzZmNzQ3ZTgyNmRiY2ZiYTUxMmY4`

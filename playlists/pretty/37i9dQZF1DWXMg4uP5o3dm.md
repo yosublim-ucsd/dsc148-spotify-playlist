@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Layto
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,424 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,554 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 81 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
 | 82 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 83 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
-| 84 | [DESIRE](https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [DESIRE](https://open.spotify.com/album/4QUh3Ycq5uOvzMLqlQsafb) | 3:15 |
-| 85 | [Heaven Angel](https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Heaven Angel](https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh) | 3:39 |
+| 84 | [Heaven Angel](https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Heaven Angel](https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh) | 3:39 |
+| 85 | [DESIRE](https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [DESIRE](https://open.spotify.com/album/4QUh3Ycq5uOvzMLqlQsafb) | 3:15 |
 | 86 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 87 | [LOST IT](https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [P!X!E](https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq) | [LOST IT](https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0) | 2:46 |
 | 88 | [engravings](https://open.spotify.com/track/47FdoVKyPNFnrWlj10Jx4z) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK) | 2:53 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 90 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 91 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 92 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
-| 93 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
-| 94 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
+| 93 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
+| 94 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 95 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
 | 96 | [PUMP THE BREAK](https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:12 |
 | 97 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
-| 98 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 99 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
+| 98 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 |
+| 99 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 | 100 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 |
 
-Snapshot ID: `MCxhOWE0ZWRhNWNlNzhmYmFmYjRiNGM2ODRmODljZmMwMjM3NmM5NWYy`
+Snapshot ID: `MCwzZjUzZjRmYjQxMDhhNzg3YzAyN2YwYTcyZTk4YWE1NjJkYjFjZGVh`

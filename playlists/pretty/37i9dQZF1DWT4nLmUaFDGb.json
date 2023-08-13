@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 416762,
+  "num_followers": 417108,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWExYjk2MTJhMmI5MGZkZTlkZWE3OTE5NTMwMDk2ZDMyN2MwMTVi",
+  "snapshot_id": "MCw5Y2IwMWJmMjY0NTRiOTMzYjZlYzhiNThiNTdmZjlkYzA1MmNhMTI2",
   "tracks": [
     {
       "added_at": "2023-08-10 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
-      },
-      "artists": [
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 272784,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
       },
       "artists": [
         {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+      "duration_ms": 183480,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Songs from Other Places (Special Edition)",
-        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 183480,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA"
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+        "name": "The Boy Next Door (Special Edition)",
+        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+      "duration_ms": 252840,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1203,6 +1199,26 @@
       "duration_ms": 250186,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 233848,
       "name": "Castles in the Air",
       "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "The Boy Next Door (Special Edition)",
-        "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "What The World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
         }
       ],
-      "duration_ms": 341333,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
+      "duration_ms": 105721,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/6jNGB51fvvkF49gqkDdOZG"
-      },
-      "artists": [
-        {
-          "name": "Cassidy Place",
-          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
-        }
-      ],
-      "duration_ms": 105721,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+      },
+      "artists": [
+        {
+          "name": "Alex Baird",
+          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -2423,18 +2439,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
       },
       "artists": [
         {
-          "name": "Alex Baird",
-          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+          "name": "Disco Loveless",
+          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
         }
       ],
-      "duration_ms": 348013,
-      "name": "All I Needed",
-      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
+      "duration_ms": 201577,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -2467,22 +2483,6 @@
       "duration_ms": 221241,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Taxes",
-        "url": "https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv"
-      },
-      "artists": [
-        {
-          "name": "Disco Loveless",
-          "url": "https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL"
-        }
-      ],
-      "duration_ms": 201577,
-      "name": "Taxes",
-      "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
     },
     {
       "added_at": "2023-08-10 22:00:00",

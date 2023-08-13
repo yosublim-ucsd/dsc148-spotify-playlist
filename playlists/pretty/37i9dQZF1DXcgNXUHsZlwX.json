@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 111149,
+  "num_followers": 111190,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjgwY2Y5ZTFkMzA3ZmUxMTU2NTZmMWE5NzQyNjY3M2JjMzkwNjdh",
+  "snapshot_id": "MCxjNTI2NDVkOTU0OWEzY2ExMTA0ZjBmZTJhOGM1ZjBmZjZmMmY3ZjY5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 224520,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1043,6 +1043,22 @@
       "duration_ms": 167920,
       "name": "Nous sommes",
       "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+        }
+      ],
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
+        "name": "Je vais te faire danser",
+        "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
       },
       "artists": [
         {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Je vais te faire danser",
-        "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Dans la lune",
-        "url": "https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND"
-      },
-      "artists": [
-        {
-          "name": "Meghan Oak",
-          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
-        },
-        {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
-        }
-      ],
-      "duration_ms": 200397,
-      "name": "Je retourne \u00e0 la maison",
-      "url": "https://open.spotify.com/track/1w0stJagOZUvxjsP5lEvSF"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+        "name": "Dans la lune",
+        "url": "https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
         }
       ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/1w0stJagOZUvxjsP5lEvSF"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Pourchasser l'aube",
         "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 214720,
       "name": "Mille et un",
       "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1511,6 +1479,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 208698,
       "name": "On br\u00fblera - Spotify Singles",
       "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2023-08-04 04:00:00",

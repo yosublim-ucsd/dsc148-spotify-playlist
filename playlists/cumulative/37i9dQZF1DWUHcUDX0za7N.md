@@ -4,10 +4,11 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ"> Cheque </a>
 
-253 songs - 12 hr 15 min
+254 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [11:11](https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [11:11](https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn) | 2:30 | 2023-08-10 |  |
 | [234 \(PRBLMS\)](https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV) | [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [234 \(PRBLMS\)](https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3) | 2:59 | 2023-06-02 | 2023-06-11 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-11-15 | 2022-11-25 |
 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 | 2023-06-30 |  |
@@ -161,7 +162,7 @@
 | [Okwaraji](https://open.spotify.com/track/4ghRDR6c8VNISdVTCQ5FK4) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 2:45 | 2022-06-09 | 2022-10-14 |
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2022-06-09 | 2023-07-14 |
 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 | 2023-03-10 |  |
-| [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 | 2022-06-09 |  |
+| [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 | 2022-06-09 | 2023-08-13 |
 | [On My Grind](https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [On My Grind](https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB) | 2:14 | 2023-03-18 | 2023-03-25 |
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-28 |
 | [OPPS](https://open.spotify.com/track/4yTwUVvSIjB62K5iQH56hi) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:27 | 2022-10-14 | 2022-10-29 |

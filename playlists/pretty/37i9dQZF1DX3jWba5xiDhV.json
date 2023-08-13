@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 149073,
+  "num_followers": 149525,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQwOGQ1MzNhYTZmMDU5MjM2MGJiOWU3YjFhNDc4ZTI5MDdiN2Vm",
+  "snapshot_id": "MCw3Y2MxZTQ3M2RhYjgyM2FkMjBhMjQ3OTcwNjUzY2VmZDY1ODU0ZDM1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "My Magic Number",
-        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Squad",
-          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
-        },
-        {
-          "name": "Dita Von Teese",
-          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
-        },
-        {
-          "name": "Club Domani",
-          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
-        }
-      ],
-      "duration_ms": 317120,
-      "name": "My Magic Number - Club Domani Remix",
-      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Baby I Love You (Original) - Single",
         "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
       },
@@ -1195,6 +1171,30 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "My Magic Number",
+        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Dita Von Teese",
+          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
+        },
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        }
+      ],
+      "duration_ms": 317120,
+      "name": "My Magic Number - Club Domani Remix",
+      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1207,26 +1207,6 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Danza Organica (Musumeci Remix Hot Version)",
-        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
-      },
-      "artists": [
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Musumeci",
-          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
-        }
-      ],
-      "duration_ms": 196957,
-      "name": "Danza Organica - Musumeci Remix Hot Version",
-      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1247,6 +1227,26 @@
       "duration_ms": 300773,
       "name": "Baila Bolero - Marc Hartman Remix",
       "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Danza Organica (Musumeci Remix Hot Version)",
+        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "duration_ms": 196957,
+      "name": "Danza Organica - Musumeci Remix Hot Version",
+      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
     },
     {
       "added_at": "2023-07-28 04:01:00",

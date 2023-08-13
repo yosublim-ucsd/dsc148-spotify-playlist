@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,889 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,968 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 53 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 |
 | 54 | [Flowers \- Country Version](https://open.spotify.com/track/0QaCLt0Zgkuadn0seBouFh) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Flowers \(Country Version\)](https://open.spotify.com/album/5v4cqsC4ClbfO04ZeJLJhF) | 3:18 |
 | 55 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 |
-| 56 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
+| 56 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
 | 57 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 |
 | 58 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
-| 59 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
+| 59 | [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 |
 | 60 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 |
 | 61 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
 | 62 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 97 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 98 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
 | 99 | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC) | 4:19 |
-| 100 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 |
+| 100 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
 
-Snapshot ID: `MCxiYjk1YTlhOWZhMzM0MmU0YjQ5MmQ4NzA1YTgwNzBmZDJkNGZhNTI3`
+Snapshot ID: `MCw1ZGFlNTU2NzIyMjI5OWQwN2VmM2Y4MWJiMTkyYzBlYjdlMWU4YTI0`

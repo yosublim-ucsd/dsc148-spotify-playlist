@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 300491,
+  "num_followers": 300678,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
+  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Blackbyrd",
         "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 303133,
       "name": "I Want'a Do Something Freaky To You",
       "url": "https://open.spotify.com/track/4ijuSvn7dE8i9o8Ori6QmC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
-      },
-      "artists": [
-        {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
+      },
+      "artists": [
+        {
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afro-Funk",
-        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
-      },
-      "artists": [
-        {
-          "name": "T. P. Orchestre Poly-Rythmo",
-          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
-        },
-        {
-          "name": "Gabo Brown",
-          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "It's A Vanity",
-      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
+      },
+      "artists": [
+        {
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Sleazeball",
         "url": "https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 267066,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
       "added_at": "2022-07-14 19:24:43",

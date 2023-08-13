@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,501 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,558 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 33 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 34 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
 | 35 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
-| 36 | [Fake Starfield](https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp) | [a\\wshhine](https://open.spotify.com/artist/7hVjrS9PyralpN34AsqlGR), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [Fake Starfield](https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK) | 2:40 |
+| 36 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
 | 37 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 |
-| 38 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
+| 38 | [Fake Starfield](https://open.spotify.com/track/01sIVQByS0Z4NpkbgCa6Xp) | [a\\wshhine](https://open.spotify.com/artist/7hVjrS9PyralpN34AsqlGR), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [Fake Starfield](https://open.spotify.com/album/3UanbDy5SRrq3K1LCcdWPK) | 2:40 |
 | 39 | [Byte into an Apple](https://open.spotify.com/track/2yrmWG0ppPgLS5roqMruJP) | [Alpha Room](https://open.spotify.com/artist/0u3vSXLtwN75J1AlhuXpMk) | [Byte into an Apple](https://open.spotify.com/album/1JgMUjHWidmXNlfNWHiLEr) | 3:15 |
 | 40 | [One Last Time](https://open.spotify.com/track/6IC0untdEsc2PeKcQgZWN9) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Hourglass](https://open.spotify.com/album/2rZTW31z0d1DhCztQr21b2) | 2:20 |
 | 41 | [settled down.](https://open.spotify.com/track/7KFQ0LrtvHkiR0aSZKscjF) | [mr\. okane](https://open.spotify.com/artist/6sQtzwpgvnWhyi9yi6pfxE) | [OKANE 金 1](https://open.spotify.com/album/5bal2BUbu8l191xGDxQ8AK) | 1:45 |
 | 42 | [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 |
-| 43 | [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 |
-| 44 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
+| 43 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 |
+| 44 | [continue](https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [continue](https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4) | 1:36 |
 | 45 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 |
 | 46 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
 | 47 | [Royal Lavender](https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ) | [jiabeats](https://open.spotify.com/artist/4jhs50wp7NjDYvEIUzRrF5) | [Royal Lavender](https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 | 50 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 |
 
-Snapshot ID: `MCwwZWUyZjlhODUzYTdjZWI0NzQ0OWNhNTBmYTBjMzdlNmMyMjkwNmFk`
+Snapshot ID: `MCxhZjkyZGQyNjdkNTI3NTNjODFhYTRmNDU5MjQzYjI4YjZhOGM0OWE1`

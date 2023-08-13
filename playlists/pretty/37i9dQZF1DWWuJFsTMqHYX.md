@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,288 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,520 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 26 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
 | 27 | [Rachid Ouiguini](https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [Toumani & Sidiki](https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV) | 4:33 |
 | 28 | [Haiyu](https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [Shouka](https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0) | 3:22 |
-| 29 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
+| 29 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
 | 30 | [Zerzura Theme II](https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 4:23 |
-| 31 | [Sinanon Saran \(Chant de griot\)](https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 3:43 |
-| 32 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
+| 31 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
+| 32 | [Sinanon Saran \(Chant de griot\)](https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 3:43 |
 | 33 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
 | 34 | [Alasidi](https://open.spotify.com/track/5RhFZ82NnuUrRxQOWphUI3) | [Afel Bocoum](https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W) | [Alkibar](https://open.spotify.com/album/2iYA7xvN6sFDWgwFYvOInV) | 4:34 |
 | 35 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
-| 36 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
+| 36 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 37 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
 | 38 | [Be Ki Don](https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Albala](https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH) | 5:11 |
 | 39 | [Mirage](https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Sequana](https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Mariama Kaba](https://open.spotify.com/track/5bnDe8MjKs8mQnNTXq2yNJ) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 5:38 |
 | 50 | [Tiwàyyen](https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 3:44 |
 
-Snapshot ID: `MCw4OWJjZjIxZDJhZTkxY2QzYWYzOTY4ZjE4YWM0YzY3N2U4NTUwN2Jm`
+Snapshot ID: `MCw4MGUwZGVhOGM3MzVhMGZmOTZmNjY2Yzk5YmRkYzI0OTI4NjE2MWZl`

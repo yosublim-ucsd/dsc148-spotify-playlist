@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-208 songs - 14 hr 33 min
+209 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,10 @@
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2023-05-19 |  |
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 | 2023-06-10 |
 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 |  |
+| [Every Night](https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:05 | 2023-08-11 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
-| [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 |  |
+| [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-08-13 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 |  |
 | [Flawless](https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Open Market](https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011) | 3:10 | 2023-05-19 |  |
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love](https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy) | 3:59 | 2023-07-07 |  |

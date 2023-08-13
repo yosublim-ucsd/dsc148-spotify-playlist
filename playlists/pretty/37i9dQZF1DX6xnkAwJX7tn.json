@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 547226,
+  "num_followers": 548422,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGYxZDI0NGI3MmMxOGNiOTFjMTcyYzQyYjNlOWU5MDYyNjZiOGYx",
+  "snapshot_id": "MCwwNGI1ZGEwNDY3MzRjY2JhMGNjNzA4YjQ2Zjk2Yjg1ODZlOTBlMDdj",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -965,20 +949,20 @@
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
       "artists": [
         {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -997,6 +981,22 @@
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Living In The Background",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Whitney Houston",
@@ -1043,6 +1027,22 @@
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
       "artists": [
         {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Together Forever",
-      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
       "artists": [
         {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
         }
       ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+      "duration_ms": 205533,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2277,22 +2277,6 @@
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Very Best Of Kool & The Gang (Reissue)",
@@ -2307,6 +2291,22 @@
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
-        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
-      },
-      "artists": [
-        {
-          "name": "Murray Head",
-          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
-      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
+        "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
+      },
+      "artists": [
+        {
+          "name": "Murray Head",
+          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
+      "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
     },
     {
       "added_at": "2021-09-08 13:09:25",

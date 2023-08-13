@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 90024,
+  "num_followers": 90039,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWMzNWU5MGM4MDdlYmRlNDg5MWQ5NzY5ZjgzZGRjODZlOWJlYjZk",
+  "snapshot_id": "MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 170549,
       "name": "Build a Boat",
       "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Steady Light",
         "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
       },
@@ -263,22 +247,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Goodness",
-        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 225228,
-      "name": "The Goodness (feat. Blessing Offor)",
-      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -307,6 +287,26 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Goodness",
+        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 225228,
+      "name": "The Goodness (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212253,
       "name": "Show Up Choose Love (feat. Jon Reddick)",
       "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -1299,6 +1299,26 @@
       "duration_ms": 199573,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Pursuit (As The Deer) [Live]",
+        "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "duration_ms": 374437,
+      "name": "Pursuit (As The Deer) - Live",
+      "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1339,26 +1359,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Pursuit (As The Deer) [Live]",
-        "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
-        }
-      ],
-      "duration_ms": 374437,
-      "name": "Pursuit (As The Deer) - Live",
-      "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Is On The Throne",
-        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "God Is On The Throne",
-      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "In Good Hands",
         "url": "https://open.spotify.com/album/78YcAcIlPislZ3egxPnPOt"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 250933,
       "name": "In Good Hands",
       "url": "https://open.spotify.com/track/2nzJmPNJj4Wki8xmdAOWhK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "God Is On The Throne",
+        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "God Is On The Throne",
+      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Here's To The One We Love (Live)",
         "url": "https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 253800,
       "name": "When The World Is Changing",
       "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 256600,
       "name": "JOY",
       "url": "https://open.spotify.com/track/6UCBG8W5KLIYwcGrzDygoe"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1719,22 +1719,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Nothing To Buy",
-        "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
       "artists": [
         {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        },
-        {
-          "name": "kalley",
-          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Nothing To Buy",
-      "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+      "duration_ms": 228068,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
     }
   ],
   "unique_name": "Sing A New Song",

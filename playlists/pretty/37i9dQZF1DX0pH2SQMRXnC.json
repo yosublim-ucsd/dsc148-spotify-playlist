@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1232776,
+  "num_followers": 1233111,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNjZjg2ODFmNTZhNjNmMzg3Y2M4NTlhMGE2YjRmMzRlZWJmNjAy",
+  "snapshot_id": "MCwwNTUwNzYyMWQ0MTg0M2MwNzgwYzRkZDYxNDI0ZWQwNGZmNDY4MmUz",
   "tracks": [
     {
       "added_at": "2023-07-12 09:01:15",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 239812,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
         "name": "Paper Thin (Headhunterz Remix)",
         "url": "https://open.spotify.com/album/0bOFeg0VbNsscC0Kq4Ca5r"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 245392,
       "name": "Paper Thin - Headhunterz Remix",
       "url": "https://open.spotify.com/track/0OKHUom3gY9xWago6Y1BKk"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 239812,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Oh Fortuna",
-        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
-        },
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
-        }
-      ],
-      "duration_ms": 170117,
-      "name": "Oh Fortuna - Carmina Burana",
-      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "Geisterbahn",
         "url": "https://open.spotify.com/album/72CzcpUgHhEYsDPlrZVllJ"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 158038,
       "name": "Geisterbahn",
       "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Oh Fortuna",
+        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "duration_ms": 170117,
+      "name": "Oh Fortuna - Carmina Burana",
+      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Sun Comes Up",
-        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Sun Comes Up",
-      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/7sBdYRoRxO2kSHsGIKcaV9"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 236800,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1nS5RjmwKhROZY2XvSL71u"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -2755,22 +2755,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Chaos & Crime",
-        "url": "https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Chaos & Crime",
-      "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "EP I",
         "url": "https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4"
       },
@@ -2783,6 +2767,22 @@
       "duration_ms": 195600,
       "name": "Luminosity - Edit",
       "url": "https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Chaos & Crime",
+        "url": "https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Chaos & Crime",
+      "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -2859,6 +2859,30 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
+        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
+        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "Cathrine Lassen",
+          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
+        }
+      ],
+      "duration_ms": 197927,
+      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
+      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
         "name": "Beat Of The Drum",
         "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
       },
@@ -2871,22 +2895,6 @@
       "duration_ms": 224500,
       "name": "Beat Of The Drum",
       "url": "https://open.spotify.com/track/2SfZz1PiMgma882CqeEvqf"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
-        "name": "Everybody Dance Now",
-        "url": "https://open.spotify.com/album/1eypUs5ufFH95SbyMMW7kP"
-      },
-      "artists": [
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        }
-      ],
-      "duration_ms": 206900,
-      "name": "Everybody Dance Now",
-      "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -2911,26 +2919,18 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
-        "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
+        "name": "Everybody Dance Now",
+        "url": "https://open.spotify.com/album/1eypUs5ufFH95SbyMMW7kP"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        },
-        {
-          "name": "Cathrine Lassen",
-          "url": "https://open.spotify.com/artist/5i09Vd9N18qRJl2RcXODOp"
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
         }
       ],
-      "duration_ms": 197927,
-      "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
-      "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+      "duration_ms": 206900,
+      "name": "Everybody Dance Now",
+      "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -3051,26 +3051,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Jupiter (Brennan Heart Remix)",
-        "url": "https://open.spotify.com/album/0wf6AdSfavF10y3TgZAQF9"
-      },
-      "artists": [
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Jupiter - Brennan Heart Remix",
-      "url": "https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -3087,6 +3067,26 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Jupiter (Brennan Heart Remix)",
+        "url": "https://open.spotify.com/album/0wf6AdSfavF10y3TgZAQF9"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 183993,
+      "name": "Jupiter - Brennan Heart Remix",
+      "url": "https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -3239,22 +3239,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Synergy (Reverze Anthem 2023)",
-        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "Synergy (Reverze Anthem 2023)",
-      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "Mr Brightside",
         "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
       },
@@ -3267,6 +3251,22 @@
       "duration_ms": 230412,
       "name": "Mr Brightside",
       "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Synergy (Reverze Anthem 2023)",
+        "url": "https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "Synergy (Reverze Anthem 2023)",
+      "url": "https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -3435,26 +3435,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Blow The Speakers",
-        "url": "https://open.spotify.com/album/6gKOvFcZaVixudwxDSsfYb"
-      },
-      "artists": [
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        },
-        {
-          "name": "Maikki",
-          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Blow The Speakers",
-      "url": "https://open.spotify.com/track/3qbqvbfHDtu3nvRFBpnfZB"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/7rOhx7pN6AsM9cBhCuUgPn"
       },
@@ -3487,22 +3467,22 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "We Are Xtra",
-        "url": "https://open.spotify.com/album/6cBWzJiPeHrRSAON22E7dI"
+        "name": "Blow The Speakers",
+        "url": "https://open.spotify.com/album/6gKOvFcZaVixudwxDSsfYb"
       },
       "artists": [
         {
-          "name": "Mad Crow",
-          "url": "https://open.spotify.com/artist/6pGjgrarHpfl9hgNlq3Pvq"
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
         },
         {
-          "name": "Lachi",
-          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
+          "name": "Maikki",
+          "url": "https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID"
         }
       ],
-      "duration_ms": 165379,
-      "name": "We Are Xtra",
-      "url": "https://open.spotify.com/track/519wD9zbe3OZI6LYKq1zXS"
+      "duration_ms": 163245,
+      "name": "Blow The Speakers",
+      "url": "https://open.spotify.com/track/3qbqvbfHDtu3nvRFBpnfZB"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -3523,6 +3503,26 @@
       "duration_ms": 148000,
       "name": "The Night - Hardstyle Mix",
       "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "We Are Xtra",
+        "url": "https://open.spotify.com/album/6cBWzJiPeHrRSAON22E7dI"
+      },
+      "artists": [
+        {
+          "name": "Mad Crow",
+          "url": "https://open.spotify.com/artist/6pGjgrarHpfl9hgNlq3Pvq"
+        },
+        {
+          "name": "Lachi",
+          "url": "https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD"
+        }
+      ],
+      "duration_ms": 165379,
+      "name": "We Are Xtra",
+      "url": "https://open.spotify.com/track/519wD9zbe3OZI6LYKq1zXS"
     },
     {
       "added_at": "2023-07-12 09:01:15",
@@ -3747,30 +3747,6 @@
     {
       "added_at": "2023-07-12 09:01:15",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/2riMTUMIgVSmOZ4lcWXn5T"
-      },
-      "artists": [
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        },
-        {
-          "name": "MNO",
-          "url": "https://open.spotify.com/artist/2Sa2vsmQGqTyPp8i3dBKQH"
-        },
-        {
-          "name": "DV8",
-          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
-        }
-      ],
-      "duration_ms": 257032,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0eabtLcfZxAa28WvUig7KV"
-    },
-    {
-      "added_at": "2023-07-12 09:01:15",
-      "album": {
         "name": "Ready To Rave (Bass Modulators Remix)",
         "url": "https://open.spotify.com/album/77wfxBbJnDUgKojMlD05pi"
       },
@@ -3811,6 +3787,30 @@
       "duration_ms": 213200,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
+    },
+    {
+      "added_at": "2023-07-12 09:01:15",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2riMTUMIgVSmOZ4lcWXn5T"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "MNO",
+          "url": "https://open.spotify.com/artist/2Sa2vsmQGqTyPp8i3dBKQH"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+        }
+      ],
+      "duration_ms": 257032,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0eabtLcfZxAa28WvUig7KV"
     },
     {
       "added_at": "2023-07-12 09:01:15",

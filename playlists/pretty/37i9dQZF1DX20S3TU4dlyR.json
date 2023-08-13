@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 54325,
+  "num_followers": 54350,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYThiY2VjMzZhYmVjMTUzMGQyY2RmMjc5NDM0MjlkZDhkZWY4NTg1",
+  "snapshot_id": "MCxjNmY5YmY1ODcyODYzYjIwODlmMzM5YjhlYzMxYjRiYzkxMDc3YTA2",
   "tracks": [
     {
       "added_at": "2023-08-11 14:42:11",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-08-11 14:42:11",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-08-11 14:42:11",

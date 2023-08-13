@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-298 songs - 1 day 4 hr 35 min
+299 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Desert God](https://open.spotify.com/track/61zZe6nTfoyRsuIwMg3DR8) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/4p0VY8aORNcSS8i7sXZUkE) | 5:16 | 2021-11-30 | 2022-07-27 |
 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 | 2023-03-10 |  |
 | [Devil At Your Heels](https://open.spotify.com/track/55sRqwQUnHzq3olWwNj6kO) | [Plainride](https://open.spotify.com/artist/2NDj8i2isAwlLIRGlNWsCh) | [Return Of The Jackalope](https://open.spotify.com/album/4JUtyjs4vGEjIhhiUfLpaN) | 6:29 | 2021-11-30 | 2022-01-17 |
-| [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 | 2021-11-30 |  |
+| [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 | 2021-11-30 | 2023-08-13 |
 | [Diabolical Dopenosis](https://open.spotify.com/track/22M0PiZ3USkjxGvprJWj1g) | [Belzebong](https://open.spotify.com/artist/3MffQ9fJsgtOEqW8GvzJW8) | [Greenferno](https://open.spotify.com/album/7tgGRcUIjdyILQf7bZL2rH) | 8:48 | 2021-11-30 | 2022-02-15 |
 | [Die of Thirst](https://open.spotify.com/track/3PrPbuCs02pv3jZtWieaFa) | [Gorilla Pulp](https://open.spotify.com/artist/5YrEyL1qzrGlLosqAbPQC4) | [Peyote Queen](https://open.spotify.com/album/6VcJVeS8r48qPQnk2M6Tvj) | 2:22 | 2021-11-30 | 2022-01-31 |
 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 | 2023-05-19 |  |
@@ -288,6 +288,7 @@
 | [Uluru Rock](https://open.spotify.com/track/3ahec9rRdvMHQCgG6Ctfdv) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/1gD5vrYMJHGaR8LAwah7T2) | 14:08 | 2021-11-30 | 2022-07-29 |
 | [Uluru Rock](https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9) | 14:08 | 2022-04-28 |  |
 | [Unbroken \(Hotel Baby\)](https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Let Me Down Hard](https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt) | 3:42 | 2021-11-30 | 2022-11-13 |
+| [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 | 2023-08-11 |  |
 | [Unitive Knowledge of the Godhead](https://open.spotify.com/track/2eOJWFWUNLWIWWRNuhPf5B) | [OM](https://open.spotify.com/artist/4hCgC4FnYZLBgQPUMLOoiI) | [Pilgrimage](https://open.spotify.com/album/3J8fyzTnN9AyIgTD2Xvnw6) | 5:50 | 2021-11-30 | 2022-05-17 |
 | [Up in the Sky](https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe) | 8:12 | 2021-11-30 | 2022-07-29 |
 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 | 2022-04-28 |  |

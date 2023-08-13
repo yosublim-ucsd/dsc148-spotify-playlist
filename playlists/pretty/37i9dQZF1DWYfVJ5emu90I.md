@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,408 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,443 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 50 | [Living Legend](https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Living Legend](https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF) | 2:18 |
 
-Snapshot ID: `MCxmZmE3NWU5ZWVjZTg1Y2M5ZGE3ZTViODRlYTg1MjQxZWI5MzZiYzMy`
+Snapshot ID: `MCw1ODczNGY0ZDE5ODgxYjRjNGQ5ZTg4OTc1OWVhYjNmMjE5N2Q3NjZh`

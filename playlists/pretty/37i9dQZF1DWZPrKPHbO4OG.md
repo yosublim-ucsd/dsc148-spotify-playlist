@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,703 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 39 | [Waju De Waju De](https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Aboli Girhe](https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM) | [Masuta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a) | 4:42 |
 | 40 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 |
 
-Snapshot ID: `MCwzYzJkMmFlNDJlMDRjYzdiOTVmNzcxODJjODI0MTVhZDU4YjE3NmU2`
+Snapshot ID: `MCwyYzNjZjUwNzg4YWIzMWY2MmQyMzgyMzBlMTRhNzlhZTIxYzU1ODBm`

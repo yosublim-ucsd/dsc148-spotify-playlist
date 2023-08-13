@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,774 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,928 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 25 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
 | 26 | [HOT TO GO!](https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [HOT TO GO!](https://open.spotify.com/album/1w3Hfg4S2fqafTw9FQNzMu) | 3:04 |
 | 27 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 |
-| 28 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 28 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 29 | [Fire of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 |
 | 30 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
 | 31 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 |
 | 100 | [GUMDROP](https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [GUMDROP](https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY) | 1:09 |
 
-Snapshot ID: `MCw3YzU2ZDllNzdkYzJjNGE3MDg4YjgxMTZlNjUyOTMxZGJhYTRlNmVi`
+Snapshot ID: `MCxmYTZmNzM5N2ViNmRmZGVjYzE0ZTNlODE2MDk1NmMyMmMyZjQ1NmNj`

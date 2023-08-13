@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Johnathan Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,753 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,969 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Groundhog Day](https://open.spotify.com/track/0GC0DyCot6CjE0ZfgLPkd4) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 5:07 |
-| 2 | [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 |
+| 2 | [Magnolia II](https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP) | [Magnolia II](https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u) | 3:17 |
 | 3 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
 | 4 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 |
 | 5 | [Only The Lonely Woman](https://open.spotify.com/track/3s1Y7qnksD5YTAK7Dcd7Al) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Only the Lonely Woman](https://open.spotify.com/album/7JYCtQYFD7UfNU8iKrku37) | 5:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 |
 | 100 | [Part VII](https://open.spotify.com/track/6YBlNOhf1CXD3tBS47AgVx) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV), [Benjamin Muralt](https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP) | [Focus](https://open.spotify.com/album/4cP6mSCbTaGDtU8Eprv6cm) | 3:12 |
 
-Snapshot ID: `MCxiNmUwZGNlNWJkNjE0ZWU2MzdjNTU4ZGYxMWYyMGU4YzVlOTI5MGVk`
+Snapshot ID: `MCxlYjE0ZWZkMjE4Y2IwYWZmMTljYzVjMTllMGU5ZmY5NjhiMTliZjg5`

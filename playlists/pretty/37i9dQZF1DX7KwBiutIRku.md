@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,146 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,245 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
 | 50 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 
-Snapshot ID: `MCwwZThlMjQzY2RiYzIxZDk1Mjg0YzBkNTU4ODhjMjMyMTQ1NzllOWQw`
+Snapshot ID: `MCxlZTYxMTg3MzBiMzQ0ODU0NjIyZWRmNWViNjc1MWJkMjgzYmYwNjkx`

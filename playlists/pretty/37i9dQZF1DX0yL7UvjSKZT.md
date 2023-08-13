@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,980 likes - 135 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,003 likes - 135 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 134 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 |
 | 135 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 
-Snapshot ID: `MCwzZGYyZWRmZjgxMzI5YTc3NzRhYWRiNjhiNWU3M2NmMDliOGM0MDEx`
+Snapshot ID: `MCw5MTA3ZDUzZTNiOGZjMzVlZDY1MTczMGIzYWYyMTdjZDMzOTVlZjc2`

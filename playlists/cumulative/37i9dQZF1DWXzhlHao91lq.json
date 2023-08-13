@@ -620,8 +620,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 242387,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
@@ -3328,6 +3328,24 @@
       "duration_ms": 152275,
       "name": "To Watch The World Spin Without You",
       "url": "https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1"
+    },
+    {
+      "album": {
+        "name": "To Watch the World Spin Without You",
+        "url": "https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "To Watch the World Spin Without You",
+      "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"
     },
     {
       "album": {

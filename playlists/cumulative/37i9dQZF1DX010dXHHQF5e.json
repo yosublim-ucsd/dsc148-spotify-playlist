@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 298482,
       "name": "Alice In Wonderland",
       "url": "https://open.spotify.com/track/4UJzmVIGyu3k4exTbjk5Yd"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 272000,
       "name": "Alone Time Flies",
       "url": "https://open.spotify.com/track/5zHS7Es44XkrYt76lKxGed"
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Can't We Be Friends",
+        "url": "https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130873,
+      "name": "Can't We Be Friends",
+      "url": "https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK"
+    },
+    {
+      "album": {
         "name": "Caramelle",
         "url": "https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 259210,
       "name": "cry me a river",
       "url": "https://open.spotify.com/track/4olBwuWQChNo3bH8zMXHTK"
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 251250,
       "name": "Delusions",
       "url": "https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH"
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "I got it secondhand",
+        "url": "https://open.spotify.com/album/5qjZGP5e9vKkbPYSGPQLXx"
+      },
+      "artists": [
+        {
+          "name": "Winola Weber",
+          "url": "https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182111,
+      "name": "I got it secondhand",
+      "url": "https://open.spotify.com/track/3EKA6gbbXL07UX9Txi9ad0"
+    },
+    {
+      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY"
       },
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 207969,
       "name": "I loves you Porgy",
       "url": "https://open.spotify.com/track/1BXfufGuarf9zIDlq8Lbud"
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 207766,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/2ripUOoce7Cc9A26fQAoxE"
@@ -2288,6 +2324,24 @@
       "duration_ms": 205332,
       "name": "If I Ask You",
       "url": "https://open.spotify.com/track/6OTwRbIdpZ69hQ2ill1Cno"
+    },
+    {
+      "album": {
+        "name": "If I Were A Bell",
+        "url": "https://open.spotify.com/album/1v582C03OT0ooYLzgt72UA"
+      },
+      "artists": [
+        {
+          "name": "David Jenau",
+          "url": "https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "If I Were A Bell",
+      "url": "https://open.spotify.com/track/1c1C9gGAQs6P7BuJpRjUDv"
     },
     {
       "album": {
@@ -2536,7 +2590,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 242000,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki"
@@ -2615,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
+    },
+    {
+      "album": {
         "name": "La Luna",
         "url": "https://open.spotify.com/album/3koQMMCtwNwhiJyeRLGext"
       },
@@ -2666,6 +2738,24 @@
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
+    },
+    {
+      "album": {
+        "name": "Later honey",
+        "url": "https://open.spotify.com/album/3gCq5zExh1KnvrUhfxFrq5"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Ives",
+          "url": "https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197150,
+      "name": "Later honey",
+      "url": "https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ"
     },
     {
       "album": {
@@ -2723,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix"
+      },
+      "artists": [
+        {
+          "name": "R. Embers",
+          "url": "https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172102,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K"
+    },
+    {
+      "album": {
         "name": "Like Someone in Love",
         "url": "https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r"
       },
@@ -2738,6 +2846,24 @@
       "duration_ms": 212435,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl"
+    },
+    {
+      "album": {
+        "name": "Little Bossy",
+        "url": "https://open.spotify.com/album/5IsaWRF8HEtro5Ajt2DYUV"
+      },
+      "artists": [
+        {
+          "name": "Nineve Wilson",
+          "url": "https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188413,
+      "name": "Little Bossy",
+      "url": "https://open.spotify.com/track/0Rz7PvOkwkVnTlEFsmSt3n"
     },
     {
       "album": {
@@ -3317,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Narrative Plots",
+        "url": "https://open.spotify.com/album/0YbLFKlKbftSi7NoKwIyi7"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151283,
+      "name": "Narrative Plots",
+      "url": "https://open.spotify.com/track/04kxiPz27M53foJBfuucne"
+    },
+    {
+      "album": {
         "name": "Never Blame The Young Ones",
         "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
       },
@@ -3717,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Rains diamonds",
+        "url": "https://open.spotify.com/album/6H8IRrqFArtshNG4oP3oQV"
+      },
+      "artists": [
+        {
+          "name": "Lyle Walters",
+          "url": "https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "Rains diamonds",
+      "url": "https://open.spotify.com/track/5y4uYShnlTpxgmq9igxXjt"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
@@ -3854,7 +4016,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 224340,
       "name": "Sad Eyes",
       "url": "https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF"
@@ -4250,7 +4412,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 262931,
       "name": "stairway to the stars",
       "url": "https://open.spotify.com/track/56Sb9modW6bh4xtwuDwUiE"
@@ -4340,7 +4502,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 165874,
       "name": "Stella by Starlight",
       "url": "https://open.spotify.com/track/6Jo1M2DdKDMYuuBWkjuQQB"
@@ -4736,7 +4898,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 322628,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/3xKchgf19FmMrNNxC0SpT1"
@@ -4938,6 +5100,24 @@
       "duration_ms": 281059,
       "name": "There\u00b4s no you",
       "url": "https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72"
+    },
+    {
+      "album": {
+        "name": "There\u2019s always extra",
+        "url": "https://open.spotify.com/album/1lAAR31ZWxeLZc6Hf1TzHo"
+      },
+      "artists": [
+        {
+          "name": "Joel Goldberg",
+          "url": "https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125321,
+      "name": "There\u2019s always extra",
+      "url": "https://open.spotify.com/track/3JPddONpP3AhaEEhS6Vksv"
     },
     {
       "album": {
@@ -5226,6 +5406,24 @@
       "duration_ms": 153518,
       "name": "Wake Up In Spring",
       "url": "https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq"
+    },
+    {
+      "album": {
+        "name": "We Kiss In A Shadow",
+        "url": "https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P"
+      },
+      "artists": [
+        {
+          "name": "Arielan Vide",
+          "url": "https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163950,
+      "name": "We Kiss In A Shadow",
+      "url": "https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,700 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,000 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 57 | [If I Can't](https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:16 |
 | 58 | [The Seed \(2.0\)](https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p) | 4:27 |
 | 59 | [E.I.](https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:45 |
-| 60 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
+| 60 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
 | 61 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 62 | [Notorious B.I.G\. \(feat\. Lil' Kim & Puff Daddy\) \- 2005 Remaster](https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Born Again](https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6) | 3:11 |
 | 63 | [Ante Up \(feat\. Busta Rhymes, Teflon & Remi Martin\) \- Remix](https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Teflon](https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51), [Remi Martin](https://open.spotify.com/artist/7MseR8aIHbFMXzMAkRPCZy) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:07 |
 | 64 | [X](https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [Restless](https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3) | 4:15 |
-| 65 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
+| 65 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 | 66 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
 | 67 | [Clap Back](https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Blood In My Eye](https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6) | 4:56 |
 | 68 | [I Can](https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 4:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 |
 | 90 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [B2K Presents "You Got Served" Soundtrack](https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT) | 3:52 |
 
-Snapshot ID: `MCxjMzRiMDcwMWY2NjBjZDQ4NjE3YTY0ODFmNDM4ZTFiZjU4MWIwMDdk`
+Snapshot ID: `MCxmZmUyNmI0NmIwZmZhMTMyNTYwM2E0OTVjNjI2NTVjYWIzNjg5MjY2`

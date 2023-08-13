@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 132500,
       "name": "Octaves",
       "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
@@ -2966,6 +2966,24 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "album": {
+        "name": "Prados",
+        "url": "https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123862,
+      "name": "Prados",
+      "url": "https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: LØLØ
 
-672 songs - 1 day 14 hr 5 min
+673 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Nomads](https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:03 | 2023-03-17 |  |
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 |  |
 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 | 2022-04-15 | 2022-10-01 |
-| [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-23 |  |
+| [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-23 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [Nothing Else Matters](https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w) | 6:35 | 2021-12-31 | 2022-02-05 |
 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 | 2023-08-11 |  |
 | [Nowhere Generation](https://open.spotify.com/track/3j7V0K2tn1IJF1Yciu91Gv) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:52 | 2021-12-31 | 2022-03-12 |
@@ -640,7 +640,8 @@
 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 | 2022-03-04 | 2022-04-29 |
 | [Warriors](https://open.spotify.com/track/5dq7kJxJRIWsu39gvp6DKz) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Warriors](https://open.spotify.com/album/4I61bW3dyG0G4FgmLwjXmg) | 3:34 | 2022-09-30 |  |
 | [Washed Away](https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Washed Away](https://open.spotify.com/album/6MI2S0SLN6rKzdYr8uBVTB) | 3:20 | 2022-04-08 | 2022-05-20 |
-| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-02-03 |  |
+| [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 | 2023-08-11 |  |
+| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-02-03 | 2023-08-13 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-10 |  |
 | [We Could Get High](https://open.spotify.com/track/1XP8ad1y8ZO2waW4w9gqrh) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [We Could Get High](https://open.spotify.com/album/3yQIForUmxKbu1trz4C2El) | 2:58 | 2022-10-07 | 2023-02-18 |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-08-04 |  |

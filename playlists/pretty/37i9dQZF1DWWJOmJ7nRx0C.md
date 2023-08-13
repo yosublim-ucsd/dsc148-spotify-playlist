@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Daughtry
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,534 likes - 151 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,781 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Calm Before The Storm](https://open.spotify.com/track/00pQHFVMLQFxJ5YGJlRwpy) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Calm Before The Storm](https://open.spotify.com/album/7rZYtNrVKMr5wR7e6zH9pa) | 3:47 |
 | 151 | [Terminal](https://open.spotify.com/track/4Z9tWNJocirwz6btdF5Ocq) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Terminal](https://open.spotify.com/album/3f0WYqDiUWm4thElxyEoLG) | 3:40 |
 
-Snapshot ID: `MCxlODc4MmNmYmQxY2JkMDkwZmY3ZDZhYjhhYmViMjhhMWFkNmFlNDZl`
+Snapshot ID: `MCw2ODlkZjExMmYxNTZiZjMxNGU3YmRjYTcxZmViMzk5NDYxNjI4OTIz`

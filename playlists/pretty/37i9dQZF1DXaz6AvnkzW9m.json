@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Eme MalaFe en portada.",
-  "num_followers": 97633,
+  "num_followers": 97747,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzU2ZTgxYjg5MGU0ODI3MjcwODMzNmZkNGExMGFlZjIxMmJjNWE4",
+  "snapshot_id": "MCw1ODcyMDJkMzBjZGFiMDJkYjVkMGZmZWZmYTAxZjNkYzBmZDFjZDhi",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
         "name": "Me Gusta Mi Vida",
         "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 227726,
       "name": "Me Gusta Mi Vida",
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2023-07-07 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 15073,
+  "num_followers": 15139,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWRjOWZiMmYzMDYzZjM5YWYzYTZmMzJiYzZiMGQ5NmFhMmU5OGVl",
+  "snapshot_id": "MCw4ZTEwMGNkNjIwYTc2Y2U3M2U5MzllMjVkZWFiMTVhMjIxNTg4ZWEw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Arepa 3000",
-        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Funk Your Bones (Side B)",
         "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 196874,
       "name": "Young Girl",
       "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Arepa 3000",
+        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The New Sound of the Venezuelan Gozadera",
         "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Cool Love",
+        "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204172,
+      "name": "Tuyonama (feat. Charles Ans)",
+      "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Comida",
         "url": "https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ"
       },
@@ -915,22 +935,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Cool Love",
-        "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
       "artists": [
         {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
         }
       ],
-      "duration_ms": 204172,
-      "name": "Tuyonama (feat. Charles Ans)",
-      "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Ritmo y Poes\u00eda",
         "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218580,
       "name": "Ritmo y Poes\u00eda",
       "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2023-08-11 04:00:00",

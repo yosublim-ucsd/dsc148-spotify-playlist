@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-212 songs - 12 hr 58 min
+214 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 |  |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-10-07 | 2022-11-13 |
 | [Ask Me Out](https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Dear X Who Doesn't Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4jdwECuw0825yQKD5CJCHm) | 4:18 | 2022-08-08 | 2022-08-14 |
-| [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-22 |  |
+| [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-22 | 2023-08-13 |
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2022-06-20 | 2022-07-29 |
 | [Back](https://open.spotify.com/track/7Fh5m2ZoYoRcs8aNvDetIi) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:25 | 2022-06-20 | 2022-07-06 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2022-06-20 | 2022-06-28 |
@@ -95,12 +95,13 @@
 | [LET IT RAIN](https://open.spotify.com/track/6BBBU2oQsKb7TydvGTzjZP) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [2 4 8 2](https://open.spotify.com/album/5EJxhjUavcjZKjhla9agvg) | 3:30 | 2022-06-20 | 2022-06-23 |
 | [Letter](https://open.spotify.com/track/0ITMEO0clDcUSmoYkf2JsI) | [th!nk](https://open.spotify.com/artist/6wkbcJFYb6g2k5nUsyu7t3) | [Letter](https://open.spotify.com/album/2UpSNHpmHjtNVuVVKYfuSF) | 3:46 | 2022-07-22 | 2022-07-28 |
 | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4), [HENG](https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N) | [Like Lovers \(feat\. Seol Hoseung \(SURL\) & HENG\)](https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8) | 3:28 | 2022-06-20 | 2022-07-29 |
-| [Like You Was To Me](https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Perfect Stranger OST Part.3](https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri) | 4:31 | 2023-07-07 |  |
+| [Like You Was To Me](https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Perfect Stranger OST Part.3](https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri) | 4:31 | 2023-07-07 | 2023-08-13 |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-06-20 | 2022-07-28 |
 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 | 2022-07-04 | 2022-10-09 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-29 | 2022-07-26 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-22 | 2022-08-14 |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 | 2023-07-17 | 2023-07-28 |
 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 | 2022-06-20 |  |
 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 | 2022-07-22 |  |
@@ -150,6 +151,7 @@
 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 | 2022-06-20 | 2022-07-29 |
 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2022-08-13 |  |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
 | [Rainy Saturday](https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Rainy Saturday](https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2) | 4:04 | 2022-06-20 | 2022-08-14 |
 | [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 | 2023-05-02 | 2023-08-01 |
 | [Remind](https://open.spotify.com/track/6saQVRL70Dfs25G0y3S6M9) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Remind](https://open.spotify.com/album/1cli5zZQ2oP31DTO4U8Ybg) | 3:13 | 2022-06-20 | 2022-07-13 |

@@ -502,7 +502,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS"
@@ -560,6 +560,24 @@
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/3ZYTHmGaFzW55UnXYmXZFD"
+    },
+    {
+      "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2fF80RcYbCG6c1hnEMw1d6"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/4kMhGfOuHaAuTnnKW6J7WU"
     },
     {
       "album": {

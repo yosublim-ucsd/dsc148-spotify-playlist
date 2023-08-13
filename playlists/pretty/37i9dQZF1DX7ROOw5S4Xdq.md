@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,888 likes - 40 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,959 likes - 40 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [Vai Transbordar \- Ao Vivo](https://open.spotify.com/track/4H6N0bQHdI8XzXFXrx2wXV) | [Sandro Nazireu](https://open.spotify.com/artist/0Dp4MzpjAtMZqP5Dpbf6pV) | [Vai Transbordar \(Ao Vivo\)](https://open.spotify.com/album/6RqeuvTy0ZmRNFQu0zAbMj) | 2:34 |
 | 40 | [Tarde Demais](https://open.spotify.com/track/0MEjtwPxUEAtZJJ4cguIKP) | [Quezia Coutinho](https://open.spotify.com/artist/44fkFuMFocsyvD9myIOPsP), [Tângela Vieira](https://open.spotify.com/artist/3Q93kLhERsBhTewW7iN2Va) | [Tarde Demais](https://open.spotify.com/album/5M8VALCiUYregNQPshSwsj) | 3:54 |
 
-Snapshot ID: `MCw2N2JlNTVhNTQ0NTYyMzQ5NmQ0OTRmMzhkNjM3NGY3YWM1M2QxMTIx`
+Snapshot ID: `MCw0ZWVhODU4MDE5NGNmNTVkMjkzZmRjYTA5ODI3YmU0YzVmMjA2NWQ5`

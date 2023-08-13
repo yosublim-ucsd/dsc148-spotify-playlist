@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 431057,
+  "num_followers": 431328,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjI1NWI1MTA0MzRlOTI4MDc2ZTVjYzk2MTIyMTAwZmIwMDllZTg2",
+  "snapshot_id": "MCw2NDE3Y2Q0YzJhY2FkZWE4YWQyNDhkMjE1ZmRmNTBiOTVjNGZlNWYy",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -759,6 +759,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Pro Dia Nascer Feliz",
+        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Pro Dia Nascer Feliz",
+      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Pro Dia Nascer Feliz",
-        "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Pro Dia Nascer Feliz",
-      "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        },
-        {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Um Dia Inteiro",
         "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 184000,
       "name": "Um Dia Inteiro",
       "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
         "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Dias Melhores - Remix",
         "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
@@ -1099,30 +1119,6 @@
       "duration_ms": 174193,
       "name": "Dias Melhores - Remix",
       "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
-      },
-      "artists": [
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1147,6 +1143,30 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
+        }
+      ],
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1195,26 +1215,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Mais um Dia",
         "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Evoluiu (Rakka & Onabeat Remix)",
         "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 172918,
       "name": "Evoluiu - Rakka & Onabeat Remix",
       "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1383,26 +1403,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
-        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
-      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1527,6 +1503,26 @@
       "duration_ms": 188995,
       "name": "Colours & Lights",
       "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Praia (Sem Sair de Casa) [Remix]",
+        "url": "https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Helen Sancho",
+          "url": "https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Praia (Sem Sair de Casa) [Remix]",
+      "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
     }
   ],
   "unique_name": "Festa na Praia",

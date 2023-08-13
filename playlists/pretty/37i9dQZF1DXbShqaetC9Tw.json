@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 91034,
+  "num_followers": 91074,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzk2ZTMwNTljYTNhMDYyYmIwMzA2YTcyYTE1NmE4MjZmNzBmZTFl",
+  "snapshot_id": "MCwyZGEyNTJlYWQxMGI0MDYyOGRjMWEyYjZlNzA0M2RkNDFkMmM5MDFj",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "want YOU",
-        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        }
-      ],
-      "duration_ms": 154803,
-      "name": "want YOU",
-      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
+        "name": "want YOU",
+        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "duration_ms": 154803,
+      "name": "want YOU",
+      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "11:59 (feat. Goopy)",
-        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
-      },
-      "artists": [
-        {
-          "name": "JEY",
-          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
-        },
-        {
-          "name": "Goopy",
-          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "11:59 (feat. Goopy)",
-      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
         "name": "Lost Mood",
         "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+      },
+      "artists": [
+        {
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+        },
+        {
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
     },
     {
       "added_at": "2023-07-21 03:24:44",

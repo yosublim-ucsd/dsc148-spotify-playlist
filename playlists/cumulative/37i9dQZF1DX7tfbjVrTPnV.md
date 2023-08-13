@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-256 songs - 16 hr 23 min
+257 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Longer Than You've Been Alive](https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Most Messed Up](https://open.spotify.com/album/2AKIfsITXtRcHZL1u6xCQp) | 5:52 | 2021-11-11 | 2022-07-29 |
 | [Look At Miss Ohio](https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 4:16 | 2021-11-11 |  |
 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 | 2023-02-24 |  |
+| [Love Wore A Halo \(Back Before The War\)](https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Love Wore A Halo \(Back Before the War\)](https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS) | 3:40 | 2023-08-11 |  |
 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 | 2021-11-11 | 2022-07-29 |
 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 | 2022-04-22 |  |
 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 | 2022-04-22 |  |
@@ -217,7 +218,7 @@
 | [The Galway Girl](https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transendental Blues](https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm) | 3:05 | 2021-11-11 | 2022-07-29 |
 | [The Git Go \(with Jamey Johnson\)](https://open.spotify.com/track/3UtWQppzqaArTONICZWdTR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Band of Brothers](https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C) | 4:06 | 2021-11-11 | 2022-11-25 |
 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 | 2021-11-11 |  |
-| [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 | 2021-11-11 |  |
+| [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 | 2021-11-11 | 2023-08-13 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-11-11 |  |
 | [The Midnight Special](https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:34 | 2022-04-22 |  |
 | [The Midnight Special](https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [The Midnight Special](https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo) | 3:34 | 2021-11-11 | 2022-07-29 |

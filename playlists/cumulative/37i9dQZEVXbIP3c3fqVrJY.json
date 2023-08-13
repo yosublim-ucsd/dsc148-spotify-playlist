@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
         "name": "Origins (Deluxe)",
         "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
       },
@@ -2165,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "BEZ TEBE",
+        "url": "https://open.spotify.com/album/04NZWwnvkNNwims0YrO5mO"
+      },
+      "artists": [
+        {
+          "name": "Adam Mi\u0161\u00edk",
+          "url": "https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ"
+        },
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163255,
+      "name": "BEZ TEBE",
+      "url": "https://open.spotify.com/track/77OedqonwR6D09NwHAEphs"
+    },
+    {
+      "album": {
         "name": "Inside (The Songs)",
         "url": "https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3"
       },
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -3988,7 +4028,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -15214,7 +15254,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 163578,
       "name": "Plakala",
       "url": "https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce"
@@ -18478,7 +18518,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -18908,7 +18948,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -19190,7 +19230,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -19964,7 +20004,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 198801,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL"

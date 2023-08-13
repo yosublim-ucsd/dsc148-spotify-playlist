@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 451766,
+  "num_followers": 452359,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjAwMzkxNTBjNjVjNzk2NWE2ZmRmMTg3NWUyMGYwZjlhY2I3NGQ0",
+  "snapshot_id": "MCwzNjIyZjcwZDljZTQ1YjM2NWY1MWZhMmNlOTI0ZDJlNzQ3MzMwZjYx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:48:21",
@@ -344,8 +344,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
-      "added_at": "2023-07-21 10:48:21",
+      "added_at": "2023-08-04 12:43:17",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -979,22 +979,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -1011,6 +1007,26 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1043,22 +1059,6 @@
       "duration_ms": 187895,
       "name": "Pleaser",
       "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2023-08-04 12:43:17",
-      "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1173,24 +1173,36 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
+      "added_at": "2023-08-08 22:15:15",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "I've Been In Love",
-        "url": "https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
           "name": "Jungle",
           "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 169472,
-      "name": "I've Been In Love",
-      "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1307,22 +1319,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -1351,6 +1347,26 @@
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "I've Been In Love",
+        "url": "https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "I've Been In Love",
+      "url": "https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1415,22 +1431,6 @@
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
-    },
-    {
-      "added_at": "2023-08-08 22:15:15",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 212991,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/4r0E0bSoVfYWzizCgjtSX4"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/1hzh9Hz7urXIxfH0WztWI2"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 212991,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
     },
     {
       "added_at": "2023-07-21 10:48:21",

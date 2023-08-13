@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-522 songs - 1 day 4 hr 11 min
+523 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Handheld](https://open.spotify.com/track/1jvXHXzVqTmLikAnwSkHJE) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/6vrni1LbmUPTikDFWR8VbH) | 2:23 | 2022-07-08 | 2022-10-14 |
 | [Handheld](https://open.spotify.com/track/5HKd4zf5JNQAdna8bt3e92) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Handheld](https://open.spotify.com/album/102kNKUxCEAmndlduhq0jY) | 2:23 | 2021-10-07 | 2022-07-29 |
 | [Handheld](https://open.spotify.com/track/7eb3YXrQcF5bA9o6SwuNU2) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 2:23 | 2022-10-07 | 2022-10-25 |
-| [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-08-08 |  |
+| [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-08-11 |  |
+| [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-08-08 | 2023-08-13 |
 | [Happy \(God’s Own Country\)](https://open.spotify.com/track/1XVqUGcVQ2VqgoWAwis1lE) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Happy \(God’s Own Country\)](https://open.spotify.com/album/3QuCM83bCSFTmBNAERz5JZ) | 2:31 | 2021-10-07 | 2022-08-06 |
 | [happy pills](https://open.spotify.com/track/4fnMyrxXogmYCi40RBRmso) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [happy pills](https://open.spotify.com/album/3LRjouzNdqap0NEXiBOzoF) | 2:03 | 2021-10-07 | 2022-01-08 |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2022-03-11 | 2023-01-28 |

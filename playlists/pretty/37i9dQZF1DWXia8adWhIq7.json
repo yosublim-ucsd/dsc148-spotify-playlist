@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Lito Atalaia, Eyshila",
-  "num_followers": 72747,
+  "num_followers": 72802,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGQ4NTBiNzE5NDUyMjM3NDRlYjk4MWE0ZTQ5YzdjNjAzOTMwYzQ0",
+  "snapshot_id": "MCxlNjAyZGY0ZDE2ZDQzNWEwMTM4YTYwZWMwM2JkNmNlY2E2ZTk5NTY1",
   "tracks": [
     {
       "added_at": "2023-08-04 17:52:11",
@@ -163,6 +163,26 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "Le\u00e3o de Jud\u00e1: Brave Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1: Brave Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 239013,
       "name": "Eu Vou Correr",
       "url": "https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "Le\u00e3o de Jud\u00e1: Brave Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Le\u00e3o de Jud\u00e1: Brave Sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
-        "name": "Sopro de Deus",
-        "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Sopro de Deus",
-      "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
         "name": "Achei um Bom Amigo",
         "url": "https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 208927,
       "name": "Achei um Bom Amigo",
       "url": "https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
+        "name": "Sopro de Deus",
+        "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Sopro de Deus",
+      "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
-        "name": "Pequenas Coisas",
-        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
-      },
-      "artists": [
-        {
-          "name": "Louisy Cim",
-          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
         "name": "Minha Cura (The Healing)",
         "url": "https://open.spotify.com/album/424928PBVycQwfKKhk2oPj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 237209,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
+        "name": "Pequenas Coisas",
+        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
+      },
+      "artists": [
+        {
+          "name": "Louisy Cim",
+          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
-        "name": "Leif Bessa - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 280235,
-      "name": "Caminhada",
-      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
         "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
         "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
-        "name": "Sabe Tudo",
-        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+        "name": "Leif Bessa - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
       },
       "artists": [
         {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
         }
       ],
-      "duration_ms": 193388,
-      "name": "Sabe Tudo",
-      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+      "duration_ms": 280235,
+      "name": "Caminhada",
+      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "Sabe Tudo",
+        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Sabe Tudo",
+      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "Acoustic Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
@@ -747,30 +747,6 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "Agora",
-        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        },
-        {
-          "name": "DD Junior",
-          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Agora",
-      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -823,6 +799,46 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "Teu Amor",
+        "url": "https://open.spotify.com/album/2Xc9hJsZGqo70af62TgXRO"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 219357,
+      "name": "Teu Amor",
+      "url": "https://open.spotify.com/track/3AbDKvjqnNQIph2HtbHPhZ"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
+        "name": "Agora",
+        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        },
+        {
+          "name": "DD Junior",
+          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Agora",
+      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "\u00c9 de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 219857,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "Teu Amor",
-        "url": "https://open.spotify.com/album/2Xc9hJsZGqo70af62TgXRO"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 219357,
-      "name": "Teu Amor",
-      "url": "https://open.spotify.com/track/3AbDKvjqnNQIph2HtbHPhZ"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "Nunca Te Deixei",
         "url": "https://open.spotify.com/album/0pF4py857zGGCEty1CeelF"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 226000,
       "name": "Nunca Te Deixei",
       "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2023-08-04 17:52:11",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-08-04 17:52:11",
       "album": {
+        "name": "O Som da Liberdade",
+        "url": "https://open.spotify.com/album/7sger5hoY95tgrvEhvLRpO"
+      },
+      "artists": [
+        {
+          "name": "Higor Fernandes",
+          "url": "https://open.spotify.com/artist/1noy0yXpKIidatxl4OQsY1"
+        }
+      ],
+      "duration_ms": 233299,
+      "name": "O Som da Liberdade",
+      "url": "https://open.spotify.com/track/6Hf4bTfYtLOxzv4Ur12G9v"
+    },
+    {
+      "added_at": "2023-08-04 17:52:11",
+      "album": {
         "name": "Teu Calor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 224083,
       "name": "Teu Calor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"
-    },
-    {
-      "added_at": "2023-08-04 17:52:11",
-      "album": {
-        "name": "O Som da Liberdade",
-        "url": "https://open.spotify.com/album/7sger5hoY95tgrvEhvLRpO"
-      },
-      "artists": [
-        {
-          "name": "Higor Fernandes",
-          "url": "https://open.spotify.com/artist/1noy0yXpKIidatxl4OQsY1"
-        }
-      ],
-      "duration_ms": 233299,
-      "name": "O Som da Liberdade",
-      "url": "https://open.spotify.com/track/6Hf4bTfYtLOxzv4Ur12G9v"
     },
     {
       "added_at": "2023-08-04 17:52:11",

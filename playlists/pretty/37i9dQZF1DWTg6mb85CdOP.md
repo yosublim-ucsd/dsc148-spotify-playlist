@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ¡Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! ¿A quién no te vas a perder?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,737 likes - 68 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,739 likes - 68 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 16 | [Hoy Como Ayer](https://open.spotify.com/track/61PINnmqnoF9cTFfbGu3by) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 2:02 |
 | 17 | [Tiempo Perfecto](https://open.spotify.com/track/2gJ5HpHVVkFu5eQkw0eIt0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tiempo Perfecto](https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI) | 4:59 |
 | 18 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
-| 19 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 |
+| 19 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
 | 20 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 |
-| 21 | [Nakamarra](https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Tawk Tomahawk](https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo) | 4:35 |
+| 21 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 |
 | 22 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 23 | [Merci Éclair](https://open.spotify.com/track/0tGWcbplNiSkw8RxhMPuMJ) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Talabout](https://open.spotify.com/album/4um67GUp8OfQFyfSMwtp7J) | 5:25 |
 | 24 | [Jeans](https://open.spotify.com/track/2o5Pi9Q9mshFu6uvvgFg3c) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [DROPOUT](https://open.spotify.com/album/72UjDMnMsU8gD9AQDbeeYW) | 3:42 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 67 | [Te invito a santiago con Leinadh](https://open.spotify.com/track/5WTn6NbKBQRXiiAtkqFOCc) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Ruiseñor en su tinta](https://open.spotify.com/album/4H24kwEBnj5HXFqojqTl9q) | 3:35 |
 | 68 | [fuck this shit \(Facer v shorta\)](https://open.spotify.com/track/33mJM2VfL0QRPtVn5tHE1k) | [Ruiseñor](https://open.spotify.com/artist/58QcmTFKcNJrvRAZxuadGD) | [Coleccion Urbana](https://open.spotify.com/album/1A74wottgv3CRTddEoZcLv) | 3:04 |
 
-Snapshot ID: `MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl`
+Snapshot ID: `MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk`

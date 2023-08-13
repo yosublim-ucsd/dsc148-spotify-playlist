@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,695 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,815 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 28 | [Ángel Caído](https://open.spotify.com/track/7JwpNgl56v5uUGiufJxwNu) | [EXTi](https://open.spotify.com/artist/4qXoStzSrllHWv0TPl96l1) | [Ángel Caído](https://open.spotify.com/album/47b6kGXV4VUxj4MsVeNMbC) | 3:22 |
 | 29 | [Maldades](https://open.spotify.com/track/0P8zvojI7o0j1KqmAcrBtz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Maldades](https://open.spotify.com/album/3JN4kOdxpA7UzS2O39PaP9) | 3:10 |
 | 30 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
-| 31 | [IDGAF](https://open.spotify.com/track/6M3UCUUfbuSHEbDuV9M2At) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [IDGAF](https://open.spotify.com/album/0zDz4XE7QhOYlTuQ8EsP2v) | 2:25 |
+| 31 | [IDGAF](https://open.spotify.com/track/6M3UCUUfbuSHEbDuV9M2At) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [IDGAF](https://open.spotify.com/album/0zDz4XE7QhOYlTuQ8EsP2v) | 2:25 |
 | 32 | [Casi](https://open.spotify.com/track/4MJS2cxqpRbwn9G88X3w0j) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Casi](https://open.spotify.com/album/0f5a0neVTzB1SxXr21FCl0) | 3:10 |
 | 33 | [\#24](https://open.spotify.com/track/46hNpfShCb5FqYJcdA9sIM) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [\#24](https://open.spotify.com/album/1KIzB0bjIVZZSFCyNJ6Not) | 2:39 |
 | 34 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Todo Amor do Mundo](https://open.spotify.com/track/1M9JZXjz6GCUH7VbFFBmJx) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/2oY868IbyPjEOmHjeI3dCG) | 3:06 |
 | 60 | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6) | 5:08 |
 
-Snapshot ID: `MCw1MjJiNDEzMjc1YWM3YjgwZTVkYTNmOThmNTY4ZTAwMGNjNjcwODQ4`
+Snapshot ID: `MCwxODVjMDUwZDgzZmJjZmRhNmJmMWM3YjlhNjAyNDU2YWY3YmM0MzBl`

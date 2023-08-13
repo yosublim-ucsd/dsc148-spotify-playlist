@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,593 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,732 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 99 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 4:29 |
 | 100 | [Let's Get Close](https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:32 |
 
-Snapshot ID: `MCw0MzhmY2NhM2E2ZDI4YWRkNjZkMWI3OGFmZGU2YjY3YWY5Yzk5YjBl`
+Snapshot ID: `MCxlN2E1M2IzYjMyZWM5MGM2YjIxMDdiMzNhYjNjNGU0NDRmOGJlMjg4`

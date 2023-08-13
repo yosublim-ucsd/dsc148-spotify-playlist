@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 
 > Our editors' favorites of the moment\. Save them to your collection before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwq2EYhP9Qz.md) - [plain]
 | 24 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 |
 | 25 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 
-Snapshot ID: `MCxhODI0YjFiYzBlMzFjN2UyNjk1OWRjNjU0ZDBkYzc4ZTJkN2VkMzEy`
+Snapshot ID: `MCwyYWRmNDFhMGJkZWI4ZWM3OGIxY2I5NDhkNjIyYTI4ZDJmZTE2MmI4`

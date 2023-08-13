@@ -7765,6 +7765,28 @@
     },
     {
       "album": {
+        "name": "..and the usual suspects",
+        "url": "https://open.spotify.com/album/6Wxtt1SRFWDW28nflxhzRF"
+      },
+      "artists": [
+        {
+          "name": "Oxo86",
+          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
+        },
+        {
+          "name": "Ole - Brutal Bravo",
+          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239725,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0SrcDEUv9PzTlYz78rpsgG"
+    },
+    {
+      "album": {
         "name": "...and the usual suspects",
         "url": "https://open.spotify.com/album/17wUqCqJDIeX2eKNzxJ6By"
       },
@@ -7780,7 +7802,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 239725,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1mQiNksbVKQZEEfNCKOzOL"

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-481 songs - 1 day 4 hr 30 min
+482 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-03-17 | 2023-08-05 |
 | [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 | 2023-08-04 |  |
 | [Nota De Voz](https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Nota De Voz](https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s) | 2:50 | 2023-08-04 |  |
-| [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |
+| [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 | 2023-08-13 |
 | [Nube](https://open.spotify.com/track/0ptdCEFJjqE7hJJrUVz29z) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 1:10 | 2022-07-15 | 2023-03-03 |
 | [Nube](https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 1:10 | 2022-07-01 | 2022-07-25 |
 | [Nudos](https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Nudos](https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb) | 4:03 | 2022-07-15 | 2022-08-28 |
@@ -458,6 +458,7 @@
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2022-09-09 | 2022-10-12 |
 | [Un Recuerdo](https://open.spotify.com/track/1q06uH13BsX1S7xW7FAjlQ) | [Andrés Guerrero](https://open.spotify.com/artist/5DZ6Jknzod4InSRVzxpajz), [DOMΔ](https://open.spotify.com/artist/4CEn2mufh7u7qkxxC0ICDk) | [Un Recuerdo](https://open.spotify.com/album/5SqxZQlpBefSeSTrbeMi3g) | 4:43 | 2022-07-01 | 2022-07-29 |
 | [Un Sencillo de Nadia](https://open.spotify.com/track/41up2ORs1QRWXUb4wMllIR) | [Nadia Sandrone](https://open.spotify.com/artist/2G5QfSxYMNMRYPMWGi492n), [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Sencillo de Nadia](https://open.spotify.com/album/0tzNeL1YRoC2Rzd0mBwRaF) | 3:28 | 2023-04-14 | 2023-04-22 |
+| [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-08-11 |  |
 | [Una Curita para el Raspón](https://open.spotify.com/track/6oaHnpYZSyy7nSysc2o3HP) | [El Chavez](https://open.spotify.com/artist/78At4Kngmy7acsoeNPRHZN), [Marcos Insurgente](https://open.spotify.com/artist/3vcMKTlZppgP6exZh5WTDV) | [Una Curita para el Raspón](https://open.spotify.com/album/5rsBzvDMqOiu71KctWNIEC) | 3:27 | 2022-07-01 | 2022-07-17 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-06-03 |  |
 | [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 | 2022-06-03 |  |

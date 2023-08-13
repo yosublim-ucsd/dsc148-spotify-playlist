@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 214332,
+  "num_followers": 214464,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
+  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Changes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh"
-      },
-      "artists": [
-        {
-          "name": "Keni Burke",
-          "url": "https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2"
-        }
-      ],
-      "duration_ms": 314320,
-      "name": "Risin' to the Top",
-      "url": "https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Relight My Fire (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 225893,
       "name": "Relight My Fire - Single Version",
       "url": "https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Changes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh"
+      },
+      "artists": [
+        {
+          "name": "Keni Burke",
+          "url": "https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2"
+        }
+      ],
+      "duration_ms": 314320,
+      "name": "Risin' to the Top",
+      "url": "https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 375106,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 278000,
       "name": "Stop Your Life - Original Album",
       "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
-        }
-      ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin Out",
         "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 320851,
       "name": "Today Is the Day - Linkwood Chop",
       "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+        }
+      ],
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     },
     {
       "added_at": "2022-09-05 16:54:43",

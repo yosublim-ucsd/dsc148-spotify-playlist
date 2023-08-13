@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: ZIAD ZAZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,733 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,786 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 17 | [Askot Khales](https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:50 |
 | 18 | [Work \(feat\. Madd\)](https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:16 |
 | 19 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 |
-| 20 | [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 |
-| 21 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 |
+| 20 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 |
+| 21 | [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 |
 | 22 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 |
 | 23 | [6G](https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [6G](https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj) | 2:56 |
 | 24 | [S3ib](https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [S3ib](https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI) | 3:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 50 | [SRT](https://open.spotify.com/track/6heHtvgHYZ4VgmRXYwcjtQ) | [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Rissi Tempo](https://open.spotify.com/artist/43xRhVBpsVIj6XqUcpEmA2) | [SRT](https://open.spotify.com/album/2QJOXagj621ALebtT8BKN0) | 3:20 |
 | 51 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
 
-Snapshot ID: `MCxmMzI0Y2UzYTg1ZmFhZGMwYTFiNjFhMTEzYjlkMTY0MjZiMDEzNjg1`
+Snapshot ID: `MCxlMDJlMmM4OTI3OTA5NTM2ZTViOTYyYTliN2E2MWQ3YzM2MjdiYTM5`

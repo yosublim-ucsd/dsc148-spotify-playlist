@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,624 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,656 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 18 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
 | 19 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
 | 20 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 |
-| 21 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
-| 22 | [Adios Nonino](https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [El Tango](https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF) | 4:58 |
+| 21 | [Adios Nonino](https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [El Tango](https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF) | 4:58 |
+| 22 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
 | 23 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
 | 24 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 25 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Acompáñame](https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mujeres Universales Vol\. 2](https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA) | 3:36 |
 | 50 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:40 |
 
-Snapshot ID: `MCxlNmI5OTAxZWRhNzgxZjAyMmNhNjliZjUxMjEyMjQ4NmFiNzljN2Rk`
+Snapshot ID: `MCxkYjNmMDgwZTZhMjMwNTFjZGMzNmZlNmM5MGNiOTA0YTFkYjNiMzQz`

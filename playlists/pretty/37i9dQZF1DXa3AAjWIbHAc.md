@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 8 | [Just Be You](https://open.spotify.com/track/6ZaZSVjFmBnQxVU9vj8F4j) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music: Vampirina \- Ghoul Girls Rock!](https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf) | 1:45 |
 | 9 | [Building a Dream](https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 0:46 |
 | 10 | [Going on a Mission](https://open.spotify.com/track/4aY2hh55axhL2qYYqXNoOM) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 0:38 |
-| 11 | [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 |
+| 11 | [Festival](https://open.spotify.com/track/5u1Nj9PCsHHrEkx4bTTv9T) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/7MAb0h0jW4yff08JYsIinA) | 3:26 |
 | 12 | [Find Your Inner Ghoul](https://open.spotify.com/track/0INyRGOVccrAV4gDN4q4YR) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music: Vampirina \- Ghoul Girls Rock!](https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf) | 1:05 |
 | 13 | [Stand Up](https://open.spotify.com/track/7eAZrLtEJidSbD44HVuloP) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:41 |
 | 14 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 59 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 60 | [True Friend](https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 3:09 |
 
-Snapshot ID: `MCw2ZTBhNWJkNTEyYmY0Njk2NmQ4YzBlMDQ3MjMyM2Q0ZmEyZjQ3OWEz`
+Snapshot ID: `MCxhNTljYWVhNmUyN2Y4ZDRhODRhODA5ZWQ1N2ZlOTRlYzFhMjQyYTRl`

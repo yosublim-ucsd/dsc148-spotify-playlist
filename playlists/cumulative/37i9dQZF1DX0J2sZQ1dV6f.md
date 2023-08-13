@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-329 songs - 17 hr 29 min
+330 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-05-25 |  |
 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 4:06 | 2023-05-25 |  |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-09-16 | 2023-05-26 |
-| [Mi real lova](https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Mi real lova](https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn) | 2:46 | 2023-05-25 |  |
+| [Mi real lova](https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Mi real lova](https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn) | 2:46 | 2023-05-25 | 2023-08-13 |
 | [Millonarios Juntos](https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Millonarios Juntos](https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU) | 3:02 | 2023-05-25 |  |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-12-07 |  |
 | [Mintiendo](https://open.spotify.com/track/1T1YzsWr4iH6xJKTe0zZEs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:35 | 2023-01-27 | 2023-05-26 |
@@ -202,6 +202,7 @@
 | [No Me Saluda](https://open.spotify.com/track/0U7DXjOGWUWJJXVc8YjF4i) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No Me Saluda](https://open.spotify.com/album/0JTiGuynQIcU5xIOp1Rie0) | 3:32 | 2022-12-07 | 2023-02-25 |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-03-21 | 2022-07-09 |
 | [Nunca Te Vi](https://open.spotify.com/track/6vaUk4OPTLQE57pbOPjyB9) | [Micheille Soifer](https://open.spotify.com/artist/5ZzuIr5IQbqJdQksiK23pN), [Oplus](https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0) | [Nunca Te Vi](https://open.spotify.com/album/1St9xFvoilgmWsM6HbFVGK) | 3:26 | 2023-04-03 | 2023-05-26 |
+| [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 | 2023-08-11 |  |
 | [Otros XOXO](https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Otros XOXO](https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr) | 3:15 | 2023-04-03 | 2023-05-26 |
 | [OUTFIT](https://open.spotify.com/track/4WyPc0dy8I25djfCG2K6lS) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [OUTFIT](https://open.spotify.com/album/3YNt2WWH3by3btLDtEcZwi) | 3:02 | 2023-02-24 | 2023-04-04 |
 | [Oye Mi Canto](https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Gemstar](https://open.spotify.com/artist/5WooWF4HvIcgW0BDA2VBPN), [Big Mato](https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS) | [N.O.R.E\. Y La Familia](https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA) | 4:00 | 2022-04-25 | 2022-07-09 |

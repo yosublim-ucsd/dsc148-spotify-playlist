@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: G Flip
 
-1,038 songs - 2 day 10 hr 58 min
+1,039 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,7 +703,8 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-11 | 2023-08-11 |
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-15 | 2023-02-24 |
 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 | 2022-01-06 | 2022-02-25 |
-| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 |  |
+| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 | 2023-08-13 |
+| [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 | 2023-08-10 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-25 | 2022-12-09 |
 | [Pets and Drugs](https://open.spotify.com/track/2OsegEPsE0MtkHtqGmZYcx) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Pets and Drugs](https://open.spotify.com/album/0a19vxCEadBJNSysmQUKjU) | 3:01 | 2023-06-01 |  |
 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 | 2022-12-08 | 2022-12-24 |

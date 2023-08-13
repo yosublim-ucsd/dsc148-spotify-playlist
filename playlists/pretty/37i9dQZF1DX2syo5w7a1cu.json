@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 607001,
+  "num_followers": 607945,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzgzZDIzOTg3YjNkZDUxNmRmNTBlNjlmZDY5NTBjZTI3YzM1ZjBm",
+  "snapshot_id": "MCxlZDQwYTg5YmM3OTU2Mjc4YjI2YzZkNmI0OTFiYmZkMzAzOTFiNmZl",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 255400,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
-        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "Can You Feel the Love Tonight",
-      "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Colours (2014 Remaster)",
         "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 216000,
       "name": "Sleeping Child - 2014 Remaster",
       "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Colours (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "25 Minutes - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -2351,22 +2335,6 @@
       "duration_ms": 250560,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Westlife",
-        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "More than Words",
-      "url": "https://open.spotify.com/track/4DdXHK3z3vb7kPNIisCp3K"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2407,18 +2375,34 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Crash! Boom! Bang! (Extended Version)",
-        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+        "name": "Colours (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 300973,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
+      "duration_ms": 264000,
+      "name": "25 Minutes - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Westlife",
+        "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "More than Words",
+      "url": "https://open.spotify.com/track/4DdXHK3z3vb7kPNIisCp3K"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2435,6 +2419,22 @@
       "duration_ms": 316760,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/11Mkoen07pKwyDqHiFnVU9"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Crash! Boom! Bang! (Extended Version)",
+        "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
     },
     {
       "added_at": "2022-03-21 23:00:00",

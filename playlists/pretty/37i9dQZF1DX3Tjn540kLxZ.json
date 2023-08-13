@@ -1,12 +1,12 @@
 {
   "description": "all-day bops you can always rely on \u25e1\u0308\n",
-  "num_followers": 170558,
+  "num_followers": 170607,
   "original_name": "free refills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjg0NTg1NDMxZDRmMDhmNzY1ZDlmNzBmZGQ1Y2JmMjlmZTQxMjc1",
+  "snapshot_id": "MCw0NGNkYzYzYzI3YWNiZDVjZjI1MjBiN2IyY2UyN2U1MGM5ZjYyYjYw",
   "tracks": [
     {
       "added_at": "2023-01-18 17:37:10",
@@ -148,8 +148,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
         "url": "https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 158240,
       "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "Your Life Your Time",
+        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 160257,
+      "name": "Your Life Your Time",
+      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "There's Always Going To Be Something",
-        "url": "https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 133636,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "WHY NOT",
         "url": "https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 180578,
       "name": "Everything You Want",
       "url": "https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "There's Always Going To Be Something",
+        "url": "https://open.spotify.com/album/1qjaY5r4U3OcqPfLfIQwxn"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "omg",
+      "url": "https://open.spotify.com/track/6klN3VguUtcDdJcteXxi0X"
     },
     {
       "added_at": "2023-01-04 23:35:04",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-04 23:35:04",
       "album": {
-        "name": "SYNCOPATE",
-        "url": "https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 118168,
-      "name": "SYNCOPATE",
-      "url": "https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI"
-    },
-    {
-      "added_at": "2023-01-04 23:35:04",
-      "album": {
         "name": "Bleak Sublime",
         "url": "https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 231722,
       "name": "Bleak Sublime",
       "url": "https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6"
+    },
+    {
+      "added_at": "2023-01-04 23:35:04",
+      "album": {
+        "name": "SYNCOPATE",
+        "url": "https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 118168,
+      "name": "SYNCOPATE",
+      "url": "https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI"
     },
     {
       "added_at": "2023-01-04 23:35:04",

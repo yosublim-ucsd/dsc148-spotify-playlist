@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-277 songs - 22 hr 57 min
+278 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Gone With The Wind](https://open.spotify.com/track/5HUziXfrLH5nfXJ64IAZ1c) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [In My Solitude: Billie Sings Ballads](https://open.spotify.com/album/6VGj5HLqvQSJetlleNjCly) | 3:26 | 2022-05-18 | 2022-08-27 |
 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 | 2022-05-18 | 2022-08-27 |
 | [Goor Katan](https://open.spotify.com/track/3QkYKsHpTagzTUuRmHtPEM) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/1bDV4bLFXF03SWcbuV9wrm) | 5:37 | 2022-05-18 | 2022-07-29 |
-| [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2022-06-29 |  |
+| [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2022-06-29 | 2023-08-13 |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
 | [He Was Too Good to Me](https://open.spotify.com/track/0qj5TGBUn4HqIYobLteQT8) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [The Richard Rodgers Songbook](https://open.spotify.com/album/6opNRfwAVL3qUz1ixuVAJ5) | 4:42 | 2022-05-18 | 2022-09-23 |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-11-10 | 2023-06-23 |
@@ -138,6 +138,7 @@
 | [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-09-08 | 2023-04-21 |
 | [In Love, In Vain](https://open.spotify.com/track/24HJ0wbvFZflLOlr9SzM6h) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:00 | 2022-05-18 | 2022-11-11 |
 | [In the Days of our Love](https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [In the Days of our Love](https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0) | 3:40 | 2022-10-13 |  |
+| [In the Rain](https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [In the Rain](https://open.spotify.com/album/5Oa3uJhlz8F0wjNe41IvPX) | 3:58 | 2023-08-11 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/1GNMUzUtOCejRJfdRbKqLZ) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Alone at the Vanguard](https://open.spotify.com/album/5eeSHIlJkI0bcgn2DdOnZa) | 7:25 | 2022-05-18 | 2022-10-12 |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-05-18 | 2022-07-29 |
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-06-29 | 2022-09-15 |

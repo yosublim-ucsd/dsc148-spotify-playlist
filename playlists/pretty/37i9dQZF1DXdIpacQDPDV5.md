@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Felix Cartal & Karen Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,307 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,308 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 |
 | 65 | [Aphrodite](https://open.spotify.com/track/0HHQK3hnRPKHJZzIPcNE3M) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Aphrodite](https://open.spotify.com/album/1jta1AymwSA45U2uTZPYLk) | 4:01 |
 
-Snapshot ID: `MCw2MDM0MTJiNDYzZmNiNTZiMmUxMzY4NmNkMDBjYmZlMmVjNjE0NmI0`
+Snapshot ID: `MCxlYzQ0NDBjMjc3M2E3YWZhMDBjZmRmZTJmZjBkMzRlN2UyMTkzZWU1`

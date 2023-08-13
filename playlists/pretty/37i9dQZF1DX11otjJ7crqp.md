@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,308 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,401 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 30 | [Every Time I Go](https://open.spotify.com/track/4FTpa1KemfwP8YMoJrZ7oB) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Every Time I Go](https://open.spotify.com/album/3UW3xgjapRpeUnl4rjOQ1X) | 3:05 |
 | 31 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 |
 | 32 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
-| 33 | [fuckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fuckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 |
+| 33 | [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 |
 | 34 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 |
 | 35 | [Trust Me](https://open.spotify.com/track/6Tr21jU9bkvMInMemDrsB9) | [Lola Blanc](https://open.spotify.com/artist/3n1yZfKIQhSaPjF1LZBhxy) | [Trust Me](https://open.spotify.com/album/2cZr0zvYEZDQS7TJauEMHZ) | 4:38 |
 | 36 | [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 88 | [young dumb](https://open.spotify.com/track/70Zo6N1w5N2dYaFHOy2xb2) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [young dumb](https://open.spotify.com/album/2EF3xSuFYlY1fKopxlYxYw) | 2:02 |
 | 89 | [Healthy](https://open.spotify.com/track/0igmB6VlUbV5YH2I3nameJ) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Healthy](https://open.spotify.com/album/5DhoiR9QdR7Lr2ExeMdxcb) | 3:47 |
 | 90 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
-| 91 | [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 |
+| 91 | [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 |
 | 92 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 |
 | 93 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 94 | [Fine Wine](https://open.spotify.com/track/37CV0890LJZX1brg1076d9) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Fine Wine](https://open.spotify.com/album/3AG9ZN9APdEhVvWZGLBHrD) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [\(Don't Quit Your\) Daydream](https://open.spotify.com/track/5yzsibZ4IDv0wNfY1Ho9Cc) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [\(Don't Quit Your\) Daydream](https://open.spotify.com/album/3rNF0eHQy0hHbAlDNwwZ12) | 2:51 |
 | 100 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
 
-Snapshot ID: `MCxlOTY2OTY2OGNiYTBjZDE5NGUwZGQwODU0MWY0ZjZlY2Q5YTg2OTc0`
+Snapshot ID: `MCxjZjljNGY4MmI5ZGE5ODhiZDQ1MzNmNmQyYjFlNWMzYjkyOWIyNDAw`

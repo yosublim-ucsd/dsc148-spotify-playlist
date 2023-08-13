@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Cloonee.
 
-2,369 songs - 5 day 17 hr 40 min
+2,370 songs - 5 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1609,7 +1609,8 @@
 | [Pepper Shake](https://open.spotify.com/track/7Fija4DerahoDRmSEzS6dl) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Pepper Shake](https://open.spotify.com/album/2G4O758DtYi0RxzXVeGmlb) | 6:37 | 2020-10-30 | 2020-12-12 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-05-27 | 2022-07-09 |
 | [Perfect Mistake](https://open.spotify.com/track/39xbjWMhqIpPZVT0V4uDSh) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Perfect Mistakes](https://open.spotify.com/album/2ImjAATcpj7FOT4f3XTxlp) | 4:13 | 2022-10-07 | 2022-11-19 |
-| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 |  |
+| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 | 2023-08-13 |
+| [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 | 2023-07-14 |  |
 | [Phoenix](https://open.spotify.com/track/2nsuUT8ey4AhPkkyM74shh) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Immunity EP](https://open.spotify.com/album/1XrBkrwPVsP8DmPfEtyjt3) | 4:21 | 2022-03-18 | 2022-06-11 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2021-05-27 | 2021-06-26 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2021-05-29 | 2021-07-04 |

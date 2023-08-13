@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [I'll Be Your Jonny on the Spot](https://open.spotify.com/track/67LZLp33p2yt2RlLoDjfrl) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:00 |
 | 30 | [I'm Gonna Be Your God](https://open.spotify.com/track/5PILfr1y1m407pGGnXIjf3) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Undisputed Attitude](https://open.spotify.com/album/59xI3W9v5TlptONboeTvbD) | 2:58 |
 
-Snapshot ID: `MCwwMDAwMDAwMDRjZjA5MGI5OTc0MjkyM2U1ZTAyMDc5NWY5ZGJlNGU3`
+Snapshot ID: `MCwwMDAwMDAwMDBjOWQ5ZDExN2I3OTNjOWFhZDEwMTU0YjdiZWZkYzVh`

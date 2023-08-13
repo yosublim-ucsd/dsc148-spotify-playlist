@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 553479,
+  "num_followers": 553644,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2Y5N2M4ZjQ3OWZlNGVkYzJhMmNlZmNjNGVjYzJiNDUwMTlkMzEz",
+  "snapshot_id": "MCwwYmE3NWFjNmJmYmFkMzkyODJjZDg5YzAwMDQwNTliYWM4NzZiMWUy",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 173465,
       "name": "Vamos A Amanecer - Remix",
       "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -919,22 +899,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "ROMPE",
-        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
         },
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 193989,
-      "name": "ROMPE",
-      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -967,6 +947,26 @@
       "duration_ms": 177815,
       "name": "Chetos y Cumbieros",
       "url": "https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "ROMPE",
+        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 193989,
+      "name": "ROMPE",
+      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "AL RITMO | E2",
+        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "AL RITMO | E2",
+      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "La Gilera (Remix)",
         "url": "https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 147107,
       "name": "La Gilera - Remix",
       "url": "https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "AL RITMO | E2",
-        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "AL RITMO | E2",
-      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        },
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "No Me Vuelvo a Enamorar (Remix)",
         "url": "https://open.spotify.com/album/76XGHb95o1OiR8mBqLKnD9"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 193290,
       "name": "No Me Vuelvo a Enamorar - Remix",
       "url": "https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Ponte La 10",
-        "url": "https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 200842,
-      "name": "Ponte La 10",
-      "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "El Manual",
         "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 128567,
       "name": "El Manual",
       "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Ponte La 10",
+        "url": "https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 200842,
+      "name": "Ponte La 10",
+      "url": "https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -2243,26 +2243,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Adentro del Party",
-        "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Adentro del Party",
-      "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Culo Pa 2 Tangas",
         "url": "https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL"
       },
@@ -2279,6 +2259,26 @@
       "duration_ms": 182000,
       "name": "Culo Pa 2 Tangas",
       "url": "https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Adentro del Party",
+        "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Adentro del Party",
+      "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
     },
     {
       "added_at": "2023-08-11 03:00:00",

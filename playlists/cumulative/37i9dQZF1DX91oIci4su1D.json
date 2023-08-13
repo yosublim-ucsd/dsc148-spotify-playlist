@@ -13721,6 +13721,32 @@
     },
     {
       "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/5zrMuPK7Z8qnG0KHYqRyVr"
+      },
+      "artists": [
+        {
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        },
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/4UiwWCmcwV0gbY9RqIQEgN"
+    },
+    {
+      "album": {
         "name": "The Wave",
         "url": "https://open.spotify.com/album/6ULWukeV1aKc2B1hUpJ3bt"
       },
@@ -13896,7 +13922,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 198654,
       "name": "Till The Sun Is Up High",
       "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"

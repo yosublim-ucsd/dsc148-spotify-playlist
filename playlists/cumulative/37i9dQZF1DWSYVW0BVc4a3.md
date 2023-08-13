@@ -4,7 +4,7 @@
 
 > The stomping ground\. Cover: Jeremy Olander
 
-599 songs - 1 day 23 hr 8 min
+600 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Nobody Lives There](https://open.spotify.com/track/5whkrjfLjgdvi06bKRt9Hc) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Nobody Lives There](https://open.spotify.com/album/08xDzuReWt6lMW9sOkVtyA) | 6:18 | 2022-09-22 | 2022-09-30 |
 | [Nostalgia \- Damon Jee Remix](https://open.spotify.com/track/67GnPEtHU5riviOYIfWxmF) | [LuLúxpo](https://open.spotify.com/artist/2bG6IYowjS6GUqtVEoHrFF), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Nostalgia \(Damon Jee Remix\)](https://open.spotify.com/album/2ahUGet76bYgW0LPaoV43g) | 6:44 | 2022-12-27 | 2023-01-02 |
 | [Nova](https://open.spotify.com/track/1vI2i7zBGfds8C0pwGwFVu) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Nova](https://open.spotify.com/album/02nQ3wRxs2G5iv1Zf1GhSP) | 4:00 | 2022-12-27 | 2023-03-18 |
+| [Novaacation \(Solomun Remix\)](https://open.spotify.com/track/69V3ab9N7fahkgWc4vLddT) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Novaacation \(Solomun Remix\)](https://open.spotify.com/album/6aVjBTKbhhhjAN4OlEUzvd) | 3:41 | 2023-08-10 |  |
 | [Nox](https://open.spotify.com/track/0TPfMoZCd8IToLykBdRtfH) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Nox](https://open.spotify.com/album/75VRRBmVpGrOYMmAPhDSG7) | 3:49 | 2022-08-18 | 2022-08-20 |
 | [Of Me \- Edit](https://open.spotify.com/track/292721zd62TFxtEeKAYmFP) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return/Of Me](https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL) | 4:05 | 2023-08-03 |  |
 | [Oh, Ok](https://open.spotify.com/track/3yIECX2EFJr3udccZ0M5zw) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Parallel Reality EP](https://open.spotify.com/album/1iNJnvt99QWmxm5a96YYrB) | 5:41 | 2022-12-27 | 2023-01-27 |
@@ -471,7 +472,7 @@
 | [Sorry \(with Madonna\) \- Miss Monique Remix](https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\) \[Miss Monique Remix\]](https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq) | 3:07 | 2023-08-03 |  |
 | [Soul Seekers \- Joachim Pastor Remix](https://open.spotify.com/track/0OaPgWQe0OrOamArbbAga9) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Soul Seekers \(Joachim Pastor Remix\)](https://open.spotify.com/album/69ToKf1GTf7ldT3SXK7Cfq) | 4:34 | 2022-11-10 | 2023-03-12 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-13 | 2023-01-27 |
-| [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 |  |
+| [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 | 2023-08-13 |
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-08-18 | 2022-12-02 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-08-03 |  |
 | [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 | 2022-08-18 | 2023-03-25 |

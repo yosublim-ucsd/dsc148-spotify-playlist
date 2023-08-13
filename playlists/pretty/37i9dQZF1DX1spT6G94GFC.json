@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2667651,
+  "num_followers": 2668334,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTg5ZmQzZmU1OWQ4YjYyNGUwODU4MjAxYjUzN2Y2M2I5ODgyYWI2",
+  "snapshot_id": "MCw4NTQ0NzAwYzNjZjcwZWEzYTEyN2U5MGEzZmI1OTE4Y2FjMTlkNzJj",
   "tracks": [
     {
       "added_at": "2023-01-18 20:58:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 316706,
-      "name": "Bad Medicine",
-      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 316706,
+      "name": "Bad Medicine",
+      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
     },
     {
       "added_at": "2023-01-18 20:58:29",

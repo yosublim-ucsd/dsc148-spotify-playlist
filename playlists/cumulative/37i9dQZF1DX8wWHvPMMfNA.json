@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "A persuasive argument",
+        "url": "https://open.spotify.com/album/3OAJII4iToETQ0SPLK8b9z"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "A persuasive argument",
+      "url": "https://open.spotify.com/track/5WwybHBAdhsJMNBbXymtS3"
+    },
+    {
+      "album": {
         "name": "A place I knew",
         "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 211563,
       "name": "After Winter Comes Spring",
       "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
@@ -365,6 +383,42 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m"
+    },
+    {
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX"
+      },
+      "artists": [
+        {
+          "name": "Marc Frost",
+          "url": "https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205902,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG"
+    },
+    {
+      "album": {
         "name": "All Hands On Deck!",
         "url": "https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob"
       },
@@ -434,6 +488,24 @@
       "duration_ms": 230675,
       "name": "All My Yesterdays",
       "url": "https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k"
+    },
+    {
+      "album": {
+        "name": "All Of The Little Things I Know",
+        "url": "https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "All Of The Little Things I Know",
+      "url": "https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO"
     },
     {
       "album": {
@@ -639,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Autumn Promises",
+        "url": "https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198826,
+      "name": "Autumn Promises",
+      "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
+    },
+    {
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -654,7 +744,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 488733,
       "name": "Ballad Medley",
       "url": "https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12"
@@ -1040,7 +1130,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 211146,
       "name": "Blues For Daryl",
       "url": "https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI"
@@ -1058,7 +1148,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 357160,
       "name": "Blues In The Night - Short Version",
       "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
@@ -1206,6 +1296,24 @@
       "duration_ms": 219104,
       "name": "Bullock's Oriole",
       "url": "https://open.spotify.com/track/7fHjVyteq1A6TOfjqdxvrE"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0z75wR9FrPuaqE5srfUZaf"
+      },
+      "artists": [
+        {
+          "name": "Piper Williamson",
+          "url": "https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182458,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3PzunsgZeWxBAgsI99Ha7v"
     },
     {
       "album": {
@@ -1382,7 +1490,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 220533,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/0H0jaN6OYfn4bT31hTU9de"
@@ -1400,7 +1508,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 372693,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/4Y0ck8IWqiZJr66A9fTbUn"
@@ -2446,7 +2554,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 319333,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
@@ -2608,7 +2716,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 417586,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1"
@@ -2644,7 +2752,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 249500,
       "name": "Five Leaves",
       "url": "https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw"
@@ -3088,7 +3196,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 175077,
       "name": "Golden Three",
       "url": "https://open.spotify.com/track/0qSLvyFx0jziMxNkC44GeL"
@@ -3290,6 +3398,24 @@
       "duration_ms": 212110,
       "name": "Heaven here",
       "url": "https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ"
+    },
+    {
+      "album": {
+        "name": "Blues For Elsie",
+        "url": "https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Sparks",
+          "url": "https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Hello From Above",
+      "url": "https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0"
     },
     {
       "album": {
@@ -3694,7 +3820,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 235826,
       "name": "I Remember You - 1989 Digital Remaster;The Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5r8RZwbct7wfq9HJ0kY89c"
@@ -3820,7 +3946,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 368653,
       "name": "I'll Never Be The Same",
       "url": "https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj"
@@ -3874,7 +4000,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 240543,
       "name": "I'm Glad There Is Us",
       "url": "https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy"
@@ -4061,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Impressive-looking",
+        "url": "https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs"
+      },
+      "artists": [
+        {
+          "name": "Courtney Salas Group",
+          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204617,
+      "name": "Impressive-looking",
+      "url": "https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2"
+    },
+    {
+      "album": {
         "name": "In a quiet voice",
         "url": "https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK"
       },
@@ -4148,6 +4292,24 @@
       "duration_ms": 174867,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "album": {
+        "name": "In Space And Time",
+        "url": "https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g"
+      },
+      "artists": [
+        {
+          "name": "Quinn Perry Trio",
+          "url": "https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "In Space And Time",
+      "url": "https://open.spotify.com/track/64ns7jHUJWaFn25DXc8aMK"
     },
     {
       "album": {
@@ -4432,7 +4594,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 301680,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/7cB9JASnipEy8pASGqu74J"
@@ -4544,6 +4706,24 @@
       "duration_ms": 157464,
       "name": "I\u2019m just on the road",
       "url": "https://open.spotify.com/track/5R6016N0exIZeQj0xAzI5k"
+    },
+    {
+      "album": {
+        "name": "Jazz Noir",
+        "url": "https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227437,
+      "name": "Jazz Noir",
+      "url": "https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd"
     },
     {
       "album": {
@@ -4763,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m"
+      },
+      "artists": [
+        {
+          "name": "Ellie Manne",
+          "url": "https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230753,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK"
+    },
+    {
+      "album": {
         "name": "Late Lament",
         "url": "https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z"
       },
@@ -4828,7 +5026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 274360,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0zYyFn3sMcotsTsxA7fNym"
@@ -5170,7 +5368,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 397400,
       "name": "Lonely Town (From On The Town)",
       "url": "https://open.spotify.com/track/1ymGHXrlbLxcMqFAtEOqBs"
@@ -5282,6 +5480,24 @@
       "duration_ms": 202872,
       "name": "Love In Your Arms",
       "url": "https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY"
+    },
+    {
+      "album": {
+        "name": "Love is a Journey",
+        "url": "https://open.spotify.com/album/0ozfnmVBCGIpDt6WuZqBx9"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203222,
+      "name": "Love is a Journey",
+      "url": "https://open.spotify.com/track/4eYgjiiahjqmhweRqCHxBm"
     },
     {
       "album": {
@@ -5710,7 +5926,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 230008,
       "name": "Miso the cat",
       "url": "https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX"
@@ -6153,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "My Shining Hour",
+        "url": "https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM"
+    },
+    {
+      "album": {
         "name": "My Sweetest You",
         "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
@@ -6549,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Numbers",
+        "url": "https://open.spotify.com/album/1O4evJabwDBsEixzbR0eRO"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
+    },
+    {
+      "album": {
         "name": "Numerous Occasions",
         "url": "https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et"
       },
@@ -6801,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Part of the moment",
+        "url": "https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170145,
+      "name": "Part of the moment",
+      "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn"
       },
@@ -6884,7 +7154,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 299533,
       "name": "Polka Dots And Moonbeams - Rudy Van Gelder/Digital Remaster/2007",
       "url": "https://open.spotify.com/track/4X56eAHSvc1H2SeAjLXv4h"
@@ -7831,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "Someone To Watch Over Me",
+        "url": "https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218974,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l"
+    },
+    {
+      "album": {
         "name": "Something about him",
         "url": "https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx"
       },
@@ -8094,7 +8382,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 182314,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9"
@@ -8155,6 +8443,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Snow Cones For Two",
+        "url": "https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q"
+      },
+      "artists": [
+        {
+          "name": "Andy Miller Group",
+          "url": "https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214569,
+      "name": "Strawberry Snow Cones For Two",
+      "url": "https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD"
+    },
+    {
+      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
       },
@@ -8202,7 +8508,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 354013,
       "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
@@ -8425,6 +8731,24 @@
     },
     {
       "album": {
+        "name": "The bag with cash",
+        "url": "https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212829,
+      "name": "The bag with cash",
+      "url": "https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi"
+    },
+    {
+      "album": {
         "name": "Same As Ever",
         "url": "https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc"
       },
@@ -8562,10 +8886,46 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 590666,
       "name": "The Folks Who Live on the Hill - Live",
       "url": "https://open.spotify.com/track/7kSaXrHANOFv8iXgh2gvgA"
+    },
+    {
+      "album": {
+        "name": "The Fool That Fell For You",
+        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270976,
+      "name": "The Fool That Fell For You",
+      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
+    },
+    {
+      "album": {
+        "name": "The Last Call",
+        "url": "https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Fischer",
+          "url": "https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "The Last Call",
+      "url": "https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW"
     },
     {
       "album": {
@@ -8692,6 +9052,24 @@
       "duration_ms": 133419,
       "name": "The next day",
       "url": "https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK"
+    },
+    {
+      "album": {
+        "name": "The Only One Was Me",
+        "url": "https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W"
+      },
+      "artists": [
+        {
+          "name": "The Bob Davis Group",
+          "url": "https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257577,
+      "name": "The Only One Was Me",
+      "url": "https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2"
     },
     {
       "album": {
@@ -8876,7 +9254,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 369800,
       "name": "Then I'll Be Tired Of You",
       "url": "https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl"
@@ -8948,7 +9326,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 304040,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi"
@@ -8970,7 +9348,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 372266,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx"
@@ -9208,6 +9586,24 @@
       "duration_ms": 280866,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
+    },
+    {
+      "album": {
+        "name": "Time For Us All",
+        "url": "https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197427,
+      "name": "Time For Us All",
+      "url": "https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28"
     },
     {
       "album": {
@@ -9546,7 +9942,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "Weary Whispers",
       "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
@@ -9684,10 +10080,28 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 241026,
       "name": "What It's All About",
       "url": "https://open.spotify.com/track/3kSPBfOF2cDiyAcoRiuN8v"
+    },
+    {
+      "album": {
+        "name": "What room you in?",
+        "url": "https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197484,
+      "name": "What room you in?",
+      "url": "https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe"
     },
     {
       "album": {
@@ -9799,6 +10213,24 @@
     },
     {
       "album": {
+        "name": "Where Two Oceans Meet",
+        "url": "https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw"
+      },
+      "artists": [
+        {
+          "name": "North West Trio",
+          "url": "https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193308,
+      "name": "Where Two Oceans Meet",
+      "url": "https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ"
+    },
+    {
+      "album": {
         "name": "Whereabouts",
         "url": "https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57"
       },
@@ -9864,7 +10296,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 382160,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/62r3mboXZSQy14RTlw0QKO"
@@ -9918,7 +10350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
@@ -9940,6 +10372,24 @@
       "duration_ms": 236785,
       "name": "Without A Song",
       "url": "https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d"
+    },
+    {
+      "album": {
+        "name": "Wooden String",
+        "url": "https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204391,
+      "name": "Wooden String",
+      "url": "https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9"
     },
     {
       "album": {
@@ -9972,7 +10422,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 130333,
       "name": "You Are There - Remastered",
       "url": "https://open.spotify.com/track/3liUB1RsKdQawbQJN4ZaHc"

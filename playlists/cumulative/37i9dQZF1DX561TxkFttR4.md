@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-233 songs - 12 hr 35 min
+234 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Nowesind](https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nowesind](https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X) | 1:59 | 2022-02-25 |  |
 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 | 2022-03-04 |  |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2019-04-17 | 2022-02-05 |
-| [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 | 2022-02-25 |  |
+| [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 | 2022-02-25 | 2023-08-13 |
 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 | 2023-07-05 |  |
 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 | 2022-03-04 |  |
 | [orange sky](https://open.spotify.com/track/1OkZQr910laZJBVCCSoO5v) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [orange sky](https://open.spotify.com/album/48DV4MT587DAdUhy2Sd8Pb) | 3:10 | 2022-02-25 | 2023-07-06 |
@@ -166,6 +166,7 @@
 | [Poco a Poco](https://open.spotify.com/track/17wwTCZ6BAMA9z8SdaJnvQ) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [One Night in Cologne](https://open.spotify.com/album/7oEsACwlnikrKIMA7klMCG) | 3:30 | 2019-04-17 | 2022-02-05 |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-07-05 |  |
 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 | 2022-07-01 |  |
+| [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-07-24 |  |
 | [Prelude](https://open.spotify.com/track/7xlpo6ITGazjDHHP6FxQ4I) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Darkest Hour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ikAm8jHnZeIFLK0Nk3NJe) | 2:25 | 2019-04-17 | 2022-02-05 |
 | [Prelude](https://open.spotify.com/track/3FstZWj7DvbyvBMeY7bxRF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prelude](https://open.spotify.com/album/05iQTaPGlhdviXaDpH0eFr) | 4:32 | 2019-04-17 | 2022-02-05 |
 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 | 2022-02-04 | 2023-07-06 |

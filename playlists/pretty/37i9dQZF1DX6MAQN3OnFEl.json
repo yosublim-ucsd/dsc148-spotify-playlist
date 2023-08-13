@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 379017,
+  "num_followers": 379340,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDVkMmFkYzY3ODgyM2Q5MzgyN2YyZWRkYTAyMzFmNDYyZmU3NGIw",
+  "snapshot_id": "MCwxNWIxYTBiZTQzMTJjZjNhZWQ3ZmIzZGQ3Mzc4NTllNzU0ZWYzZmVm",
   "tracks": [
     {
       "added_at": "2023-06-09 18:32:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1079,22 +1095,6 @@
       "duration_ms": 245066,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "Greetings From Imrie House (U.S. Version)",
-        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+        "name": "The Dynasty",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
       "artists": [
         {
-          "name": "The Click Five",
-          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Just the Girl",
-      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2023-06-09 18:32:45",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-09 18:32:45",
       "album": {
-        "name": "The Dynasty",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2023-06-09 18:32:45",
-      "album": {
         "name": "What Is Love (Reloaded)",
         "url": "https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 176026,
       "name": "What Is Love - Radio Edit",
       "url": "https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK"
+    },
+    {
+      "added_at": "2023-06-09 18:32:45",
+      "album": {
+        "name": "Greetings From Imrie House (U.S. Version)",
+        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+      },
+      "artists": [
+        {
+          "name": "The Click Five",
+          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Just the Girl",
+      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
     },
     {
       "added_at": "2023-06-09 18:32:45",

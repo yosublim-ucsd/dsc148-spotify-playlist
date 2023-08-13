@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-124 songs - 7 hr 31 min
+125 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-12-01 |  |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-12-01 |  |
 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2023-04-13 | 2023-07-25 |
-| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-22 |  |
+| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-22 | 2023-08-13 |
+| [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 | 2023-08-10 |  |
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2023-02-09 | 2023-04-14 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-12-01 |  |
 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 | 2022-12-01 |  |

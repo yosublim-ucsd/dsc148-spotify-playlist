@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-88 songs - 4 hr 56 min
+89 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 | 2023-02-23 |  |
 | [Snow](https://open.spotify.com/track/1EBnTBd5Vyk9JjiABs4K9b) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [OBSIDIAN // SILK](https://open.spotify.com/album/6McpJlFhksAys07iNsfQjz) | 2:54 | 2023-02-23 | 2023-06-09 |
 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 | 2023-02-23 |  |
-| [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2023-02-23 |  |
+| [Something Somewhere](https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:34 | 2023-06-23 |  |
+| [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2023-02-23 | 2023-08-13 |
 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 | 2023-02-23 |  |
 | [Staying](https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Staying](https://open.spotify.com/album/4bgpK9yRrpcB2NGO7CDRav) | 3:19 | 2023-02-23 | 2023-04-01 |
 | [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 | 2023-02-23 |  |

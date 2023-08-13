@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
-  "num_followers": 97393,
+  "num_followers": 97744,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDEyNjhlOWQ1NDEzY2MwNWYxN2VhNDM1N2ZhMTgxMDdkMWNiMTI5",
+  "snapshot_id": "MCw0ODM0OTcyMDQxNzFmMWUxYWY5MDk5YjRmODZjNmY2ZTNjZjQ4YjI1",
   "tracks": [
     {
       "added_at": "2023-08-11 16:31:35",
@@ -23,6 +23,22 @@
       "duration_ms": 310874,
       "name": "the slab",
       "url": "https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp"
+    },
+    {
+      "added_at": "2023-08-11 16:31:35",
+      "album": {
+        "name": "highschool",
+        "url": "https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "highschool",
+      "url": "https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB"
     },
     {
       "added_at": "2023-08-11 16:31:35",
@@ -140,7 +156,7 @@
       "added_at": "2023-08-11 16:31:35",
       "album": {
         "name": "Darkness",
-        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
       },
       "artists": [
         {
@@ -150,7 +166,7 @@
       ],
       "duration_ms": 228923,
       "name": "Darkness",
-      "url": "https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n"
+      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
     },
     {
       "added_at": "2023-08-11 16:31:35",

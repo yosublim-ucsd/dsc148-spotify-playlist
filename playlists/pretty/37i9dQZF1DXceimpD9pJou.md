@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 ### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs?si=92e7441706e64118">Tommy Royale</a>, <a href="https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv?si=d6b20d5fdda349da">Samuel ASH</a>, y <a href="https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp?si=8b8f38368fc44e8c">Alexxander</a>
+> Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ?si=JDSWzJmlTo\-vUzPV3na3NQ">Dariann González</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,422 likes - 99 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,485 likes - 99 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 |
-| 2 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 2:36 |
+| 2 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 |
 | 3 | [Enfocao'](https://open.spotify.com/track/0N4DWBGSIZX2roMfhmM9EW) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Enfocao'](https://open.spotify.com/album/3k5CzX9hpWqMiJtER6rXD0) | 4:00 |
 | 4 | [no te vas](https://open.spotify.com/track/3VWi1zSgfa9eVD68tWkypw) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [no te vas](https://open.spotify.com/album/0jMHTKEmiLGXQPT36OnSNi) | 4:25 |
 | 5 | [Lo Harás](https://open.spotify.com/track/1XnYHgCrAU6DFJH7mlZ6pC) | [Sharil](https://open.spotify.com/artist/5ORVnd2wkMlJx7wkblVY5l) | [Lo Harás](https://open.spotify.com/album/4zYNT4pTDitu8L94sTWvgQ) | 4:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Buen Hermano](https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Buen Hermano](https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k) | 2:56 |
 | 99 | [Confuso](https://open.spotify.com/track/3YH5hCLxzAdem21I4xFhN8) | [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Confuso](https://open.spotify.com/album/7a53VfXvE7ezrt9T43XtS2) | 3:55 |
 
-Snapshot ID: `MCw2NDM2YzE4NzI5ZmZkMzdmM2M1ZGFiYjhlM2VkNDZhMDA2MGRmZmIw`
+Snapshot ID: `MCw4NTg5NjIyZDAyN2IxM2I2ZmMwNzI5ODYwZGM3OGI3ZTk4YjIwN2Mz`

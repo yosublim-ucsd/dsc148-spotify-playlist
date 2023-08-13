@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 540890,
+  "num_followers": 541517,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODZhNjdmZDVmNWZmNDc4ODc2OGQ2YTI0ZWUxZTgwYWU2OTEwOTA3",
+  "snapshot_id": "MCwxMDExYTY1OWRkM2VjNWUwMzQ3ODA4NjUyYjlhNTk5NzljNGFiMDk5",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "CODE MISTAKE",
         "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "GTG",
-        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 93893,
-      "name": "GTG",
-      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+        "name": "GTG",
+        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+      "duration_ms": 93893,
+      "name": "GTG",
+      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -399,6 +383,22 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "BodyPartz",
+        "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
+      },
+      "artists": [
+        {
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+        }
+      ],
+      "duration_ms": 79129,
+      "name": "BodyPartz",
+      "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "chinatown!",
         "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 145115,
       "name": "chinatown!",
       "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "BodyPartz",
-        "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
-      },
-      "artists": [
-        {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
-        }
-      ],
-      "duration_ms": 79129,
-      "name": "BodyPartz",
-      "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "My Swisher Sweet, But My Sig Sauer",
+        "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Germ",
+          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
+        }
+      ],
+      "duration_ms": 226932,
+      "name": "My Swisher Sweet, But My Sig Sauer",
+      "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 158710,
       "name": "CHROME BERETTA",
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "My Swisher Sweet, But My Sig Sauer",
-        "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Germ",
-          "url": "https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh"
-        }
-      ],
-      "duration_ms": 226932,
-      "name": "My Swisher Sweet, But My Sig Sauer",
-      "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
     },
     {
       "added_at": "2023-07-13 15:18:57",

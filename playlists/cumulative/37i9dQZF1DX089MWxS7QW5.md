@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
 
-217 songs - 12 hr 20 min
+219 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Look at the Sky](https://open.spotify.com/track/2xCb6yQWQexnqBj15IU6sh) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Look at the Sky \(Single Edition 3\)](https://open.spotify.com/album/3qfywpeo4Jch6bALjKWdYn) | 4:07 | 2022-05-28 | 2022-07-06 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-04 | 2022-11-15 |
+| [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love Tree](https://open.spotify.com/track/4NBC72liv5nVfBAq8icUK6) | [JUNJE](https://open.spotify.com/artist/6cJKMYIKYbO8MSNEYLg0PB) | [Love Tree](https://open.spotify.com/album/0kvZ99xBCsYUGZqMCNTiD1) | 3:44 | 2023-04-27 |  |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
@@ -157,6 +158,7 @@
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 |  |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 | 2023-04-28 |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |

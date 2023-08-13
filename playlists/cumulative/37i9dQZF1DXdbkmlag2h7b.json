@@ -906,10 +906,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 136326,
       "name": "Friends for Life",
       "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
+    },
+    {
+      "album": {
+        "name": "From Another View",
+        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
+      },
+      "artists": [
+        {
+          "name": "Salvation Hildersham",
+          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "From Another View",
+      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
     },
     {
       "album": {
@@ -960,7 +978,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"

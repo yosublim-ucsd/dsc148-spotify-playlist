@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Trending Pakistani tracks under one roof\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,661 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,706 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 50 | [12 Saal](https://open.spotify.com/track/00KoecK1MTjqUamcy5Tm0l) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Twelve](https://open.spotify.com/album/2g6UjRDpyGzozySNDFtiqU) | 3:13 |
 | 51 | [Duur](https://open.spotify.com/track/7Ee3A2Q4UcHiUDrd3aGi6a) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Duur](https://open.spotify.com/album/7GEhbVGW9GziGstoE415v4) | 3:39 |
 
-Snapshot ID: `MCxhNmJjMWM2OWQ5OTRhMWRiMzMyNGU1ZGJmY2ZjZTU1NWFmMzYyODBl`
+Snapshot ID: `MCwyMzYxZjNiMjUzZDExY2RmNGE2YjI2NTI3NTYzM2QwYzdmYjg0OTc5`

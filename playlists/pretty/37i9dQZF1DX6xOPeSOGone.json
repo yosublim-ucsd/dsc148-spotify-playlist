@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3591265,
+  "num_followers": 3591282,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWFmOWFiYTEyYTlhZTMzNDc5NmQ5MDY3OGIyOTZjODgwMzg3MjVi",
+  "snapshot_id": "MCw2ZWZhZGRmZDdiYjIyNmMxOWIxMmE2N2M3MDBhMjFlYTM3OGM1Yjg1",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Chicago XI",
-        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Baby, What a Big Surprise - Edit",
-      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Nicolette",
         "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 191773,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Chicago XI",
+        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Baby, What a Big Surprise - Edit",
+      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Earth",
-        "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Starship",
-          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Diamond Girl",
         "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Boys in the Trees",
-        "url": "https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs"
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "Jefferson Starship",
+          "url": "https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF"
         }
       ],
-      "duration_ms": 232666,
-      "name": "You Belong to Me",
-      "url": "https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn"
+      "duration_ms": 194893,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -843,6 +827,22 @@
       "duration_ms": 282040,
       "name": "Get It Right Next Time",
       "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Boys in the Trees",
+        "url": "https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Bish",
-        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Everybody Needs Love",
-      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Bish",
+        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
     },
     {
       "added_at": "2023-03-20 17:07:41",

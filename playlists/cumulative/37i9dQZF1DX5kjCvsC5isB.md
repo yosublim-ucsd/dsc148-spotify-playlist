@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-375 songs - 19 hr 23 min
+376 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,8 @@
 | [Vertigo](https://open.spotify.com/track/0m2shlE6c6TUSiZe3nFoj0) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Vertigo](https://open.spotify.com/album/61iZisOZS8Wpi00CYxDXtH) | 3:06 | 2021-07-30 | 2022-06-25 |
 | [Waiting](https://open.spotify.com/track/7Fej4yhXNj3hBFHOrcwiuR) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Parallel Timeline](https://open.spotify.com/album/4obmH6ayerXolnpcH3AcMZ) | 3:09 | 2021-09-10 | 2022-04-02 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-02-04 | 2022-03-05 |
-| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-06-09 |  |
+| [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 | 2023-07-28 |  |
+| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-06-09 | 2023-08-13 |
 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 | 2022-10-07 | 2023-06-10 |
 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 | 2021-07-30 | 2022-02-05 |
 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 | 2023-06-09 |  |

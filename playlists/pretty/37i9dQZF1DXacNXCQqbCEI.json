@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 353213,
+  "num_followers": 353313,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzRjYTg0NjBlMjM1ODcwMzViZjUxZTYzYjE0MTEwNTk0ZjJjYjc3",
+  "snapshot_id": "MCwxNDY4MjJhZDY5OWFkNDJjN2EzNzVhYTU5NjJmNzA4ZjY2NTdkODMx",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -955,30 +955,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
-      },
-      "artists": [
-        {
-          "name": "CANU",
-          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
-        },
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Alejandro Castelli",
-          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
-        }
-      ],
-      "duration_ms": 477049,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "ATO 3: Am\u00e9rica do Sol",
         "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
@@ -1019,6 +995,46 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
+      },
+      "artists": [
+        {
+          "name": "CANU",
+          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
+        },
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Alejandro Castelli",
+          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
+        }
+      ],
+      "duration_ms": 477049,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Ghetto Kumb\u00e9",
+        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "duration_ms": 255976,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Ghetto Kumb\u00e9",
-        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
     },
     {
       "added_at": "2023-02-13 21:09:56",

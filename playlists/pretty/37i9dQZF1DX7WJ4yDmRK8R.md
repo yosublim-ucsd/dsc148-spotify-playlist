@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,773 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,878 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 73 | [Future Version](https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [South Somewhere Else](https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO) | 1:35 |
 | 74 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
 | 75 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
-| 76 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
-| 77 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
+| 76 | [Let's Do Rock Steady](https://open.spotify.com/track/0FkBWszH9H2y7TxH899416) | [The Bodysnatchers](https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV) | [Let's Do Rock Steady](https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO) | 2:54 |
+| 77 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
 | 78 | [I Don't Love You Anymore](https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Get Warmer](https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs) | 4:42 |
 | 79 | [Wasted Days](https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Wasted Days](https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB) | 4:08 |
-| 80 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
-| 81 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
+| 80 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
+| 81 | [Apparition](https://open.spotify.com/track/1yC2n0cfsyIASjIKD0EZ3H) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | […And The Battle Begun](https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij) | 3:39 |
 | 82 | [El Coo Cooi](https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 2:37 |
 | 83 | [You Can't Have All of Me](https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Life Sucks..\. Let's Dance!](https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy) | 2:44 |
 | 84 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
 | 100 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
 
-Snapshot ID: `MCxjNTY2Y2IyODA2Y2RjN2M3ZDE3ZDI3MzU0NmViMGUxMGViMGZiZWQ0`
+Snapshot ID: `MCw4ZmU1M2IxM2MxZmIyM2Q1MjI3YTE4ZWJmMGE3Y2QzMmJmOGExY2E2`

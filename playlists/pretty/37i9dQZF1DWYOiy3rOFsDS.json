@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 530432,
+  "num_followers": 530555,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzk2OTQ3N2U5YzNhOWVkZjNlMzRlODkxOTQwNjAzZWQxMDBiNGU1",
+  "snapshot_id": "MCxjM2I3YWU1NTM3NTFiYTkyYzg4ZjYzMmIzZjVmMWY5Y2VjNTI1NzM0",
   "tracks": [
     {
       "added_at": "2023-06-09 16:27:37",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Armando Manzanero Duetos 2",
-        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero Duetos 2",
-          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Nada personal (A dueto con Ana Torroja)",
-      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 212000,
       "name": "Aventurera (with Alex Ferreira)",
       "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Armando Manzanero Duetos 2",
+        "url": "https://open.spotify.com/album/7CVN6xKqwDafXQ4vTsNUwl"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero Duetos 2",
+          "url": "https://open.spotify.com/artist/3ynESLbVr0i6wxyRMMF08A"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Nada personal (A dueto con Ana Torroja)",
+      "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Secreto de Amor",
-      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Tal Vez, Quiz\u00e1",
         "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 276436,
       "name": "Tal Vez, Quiz\u00e1",
       "url": "https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Secreto de Amor",
+      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 188626,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "B\u00e9same mucho",
-        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
-      },
-      "artists": [
-        {
-          "name": "Edna Vazquez",
-          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
-        },
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 244711,
-      "name": "B\u00e9same mucho",
-      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1491,22 +1471,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Frenesi (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Frenes\u00ed - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
         "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
@@ -1519,6 +1483,42 @@
       "duration_ms": 235453,
       "name": "No Olvides Recordarme - En Vivo",
       "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "B\u00e9same mucho",
+        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
+      },
+      "artists": [
+        {
+          "name": "Edna Vazquez",
+          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
+        },
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 244711,
+      "name": "B\u00e9same mucho",
+      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Frenesi (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Frenes\u00ed - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
     },
     {
       "added_at": "2023-06-09 16:27:37",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-06-09 16:27:37",
       "album": {
-        "name": "Keep\u00b4n Love",
-        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 197965,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
-    },
-    {
-      "added_at": "2023-06-09 16:27:37",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2023-06-09 16:27:37",
+      "album": {
+        "name": "Keep\u00b4n Love",
+        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 197965,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
     },
     {
       "added_at": "2023-06-09 16:27:37",

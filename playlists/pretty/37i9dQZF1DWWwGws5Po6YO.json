@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30190,
+  "num_followers": 30193,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2NkODQyMGMyNjk3M2I3YzFlMjJjNzZiYjA2ZDJiOGFlMmZmZTNl",
+  "snapshot_id": "MCw3NGYwMWFmNzhmZTc1YTFjYmJmY2YwOGRhZTE3ZTlmNzEyNzdhYmY0",
   "tracks": [
     {
       "added_at": "2023-08-11 11:32:53",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
       "artists": [
         {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -603,18 +603,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Blue Alibi",
-        "url": "https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0"
+        "name": "Comme Un Seul Narcisse",
+        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
       "artists": [
         {
-          "name": "Mica Levi",
-          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
         }
       ],
-      "duration_ms": 281202,
-      "name": "Blue Shit",
-      "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
+      "duration_ms": 261565,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Comme Un Seul Narcisse",
-        "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
+        "name": "Blue Alibi",
+        "url": "https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Jefre Cantu-Ledesma",
-          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
         }
       ],
-      "duration_ms": 261565,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+      "duration_ms": 281202,
+      "name": "Blue Shit",
+      "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
       "artists": [
         {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "Satnam Waheguru",
-      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
       "artists": [
         {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
         }
       ],
-      "duration_ms": 347680,
-      "name": "Moon View",
-      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+      "duration_ms": 299666,
+      "name": "Satnam Waheguru",
+      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1063,6 +1063,22 @@
       "duration_ms": 303828,
       "name": "Marina`s Song",
       "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Moon View",
+      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
-        "name": "For Organ and Brass",
-        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 446000,
-      "name": "Mountain of Air",
-      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
+        "name": "For Organ and Brass",
+        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 446000,
+      "name": "Mountain of Air",
+      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1239,6 +1255,22 @@
     {
       "added_at": "2023-08-11 11:32:53",
       "album": {
+        "name": "Sleepstep. Sonar Poems for my sleepless friends",
+        "url": "https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI"
+      },
+      "artists": [
+        {
+          "name": "Dasha Rush",
+          "url": "https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4"
+        }
+      ],
+      "duration_ms": 61909,
+      "name": "Intro - Space Privet for Cosmonauts",
+      "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
+    },
+    {
+      "added_at": "2023-08-11 11:32:53",
+      "album": {
         "name": "The Spring of Dreams",
         "url": "https://open.spotify.com/album/5RByB1SOfHYoRaG2HHa8xT"
       },
@@ -1255,22 +1287,6 @@
       "duration_ms": 302303,
       "name": "The Space of Love",
       "url": "https://open.spotify.com/track/6ObHLa9Rmr2aAGiZeKgWLR"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Sleepstep. Sonar Poems for my sleepless friends",
-        "url": "https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI"
-      },
-      "artists": [
-        {
-          "name": "Dasha Rush",
-          "url": "https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4"
-        }
-      ],
-      "duration_ms": 61909,
-      "name": "Intro - Space Privet for Cosmonauts",
-      "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
     },
     {
       "added_at": "2023-08-11 11:32:53",
@@ -1471,22 +1487,6 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2023-08-11 11:32:53",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-08-11 11:32:53",

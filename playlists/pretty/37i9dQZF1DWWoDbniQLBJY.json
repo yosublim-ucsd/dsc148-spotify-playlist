@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2017545,
+  "num_followers": 2017560,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRlNzBiZjMzNzM0NjhkZjA1MDI2NTVhZWNiNmNkNDFkMzI4MDgy",
+  "snapshot_id": "MCxmNGQzYTIwNmM5OTExMzhjODgxODA2M2M0OWZjYmRkZjU0NGQ5NGVk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 200593,
       "name": "Fantasias - Unplugged",
       "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "plan (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "plan (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Cuanto antes (feat. Lali)",
         "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "plan (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2yzuzakKWgRN89T3VpB1EP"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "plan (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "My Stupid Heart",
-        "url": "https://open.spotify.com/album/3dmsMK66JcTGZbWEZJRusw"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "My Stupid Heart - Mi Pobre Corazon",
-      "url": "https://open.spotify.com/track/1wUw0OzMdLMrzneOH3XUgu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
       },
@@ -1127,6 +1091,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "My Stupid Heart",
+        "url": "https://open.spotify.com/album/3dmsMK66JcTGZbWEZJRusw"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "My Stupid Heart - Mi Pobre Corazon",
+      "url": "https://open.spotify.com/track/1wUw0OzMdLMrzneOH3XUgu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Matadero 5 (Live)",
-        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 152355,
-      "name": "Cuando Se Apaga la Luz (Live)",
-      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Matadero 5 (Live)",
+        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 152355,
+      "name": "Cuando Se Apaga la Luz (Live)",
+      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1583,6 +1583,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Trazando Rutas",
+        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 166947,
+      "name": "Trazando Rutas",
+      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1603,22 +1635,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Trazando Rutas",
-        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 166947,
-      "name": "Trazando Rutas",
-      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
     },
     {
       "added_at": "2023-08-11 04:00:00",

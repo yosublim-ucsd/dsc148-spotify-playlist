@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 39921,
+  "num_followers": 40155,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTAyYmRhYzU3ZjAxMzM0ZmQ1NGNjOGNjMTU5NzRjY2Q5ODJiYjU4",
+  "snapshot_id": "MCxkNDgxODcyN2ZjNjdmMmI4NTk3YzdjZjY5YTk2NDYzMmNiMzAxODhk",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Rise Of An Empire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
       "artists": [
         {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Trophies",
-      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 216013,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     }
   ],
   "unique_name": "Trophy Room",

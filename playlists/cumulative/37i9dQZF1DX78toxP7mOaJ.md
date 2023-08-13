@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-1,076 songs - 2 day 10 hr 39 min
+1,077 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Dark Humor](https://open.spotify.com/track/5DxBf3AdsNVQWY2nU6L0bJ) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Dark Humor](https://open.spotify.com/album/4SbUbjiHB7LZ1DWIRRgkNf) | 3:47 | 2023-06-07 |  |
 | [Dark Morning \(Magnetic\)](https://open.spotify.com/track/1GHljdEqWnDZiRB3UzfXa2) | [String Machine](https://open.spotify.com/artist/0YxHMJ1H95yl1lu1P0oNQj) | [Hallelujah Hell Yeah](https://open.spotify.com/album/66CpHLKUOtIKqxS1VubsaY) | 3:27 | 2022-03-09 | 2022-04-07 |
 | [dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [dark out](https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7) | 2:25 | 2023-06-07 |  |
-| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-09 |  |
+| [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 | 2023-08-09 |  |
+| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-09 | 2023-08-13 |
 | [Darling, You're a Star](https://open.spotify.com/track/67o1LTEGaFE0a6xCp23ZR5) | [Brasko](https://open.spotify.com/artist/7pEbFi2YyD5d3Mxsqp5r4U) | [Darling, You're a Star](https://open.spotify.com/album/0oWFZD8JNw7qz2eNbNkteR) | 2:54 | 2022-05-18 | 2022-06-16 |
 | [Day In The Life](https://open.spotify.com/track/1V9xrTCXVqoSFG26OIR26w) | [Sophisticated Dingo](https://open.spotify.com/artist/7jEdUHdu1pVw9IDiGTooUL) | [Day In The Life](https://open.spotify.com/album/51iGoWMV4jpde8LHDPAvl6) | 2:21 | 2021-12-01 | 2022-01-20 |
 | [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-19 | 2023-06-15 |

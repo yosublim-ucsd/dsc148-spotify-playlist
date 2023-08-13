@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 147476,
+  "num_followers": 147566,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTcyYzI4MjI3NDdmYTcyZGQwYWViNWZmNzM5MThmMzA4YTlhNmU2",
+  "snapshot_id": "MCw5NzU3MGYxYTBlOGZiNGU5NDUwYTQxZDk5NGIzNDg5ODlmZjI4MWM1",
   "tracks": [
     {
       "added_at": "2023-08-08 15:00:00",
@@ -983,22 +983,22 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 255853,
-      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
+      "duration_ms": 225369,
+      "name": "Venus Flytrap feat. Chiaki Sato",
+      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 225369,
-      "name": "Venus Flytrap feat. Chiaki Sato",
-      "url": "https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
+        "name": "nestling",
+        "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 227122,
+      "name": "nestling",
+      "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
         "name": "Mo ai ni",
         "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 178673,
       "name": "Mo ai ni",
       "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "nestling",
-        "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 227122,
-      "name": "nestling",
-      "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "candy",
-        "url": "https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
       "artists": [
         {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 190045,
-      "name": "candy",
-      "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 283106,
       "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
       "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "candy",
+        "url": "https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 190045,
+      "name": "candy",
+      "url": "https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1471,34 +1455,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
       "artists": [
         {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
-        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
-        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
-      },
-      "artists": [
-        {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
-      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1515,6 +1483,42 @@
       "duration_ms": 162287,
       "name": "ANIME",
       "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "PRISMATICS",
+        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "NO TIME",
+        "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 160298,
+      "name": "NO TIME",
+      "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1539,22 +1543,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "NO TIME",
-        "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
+        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
+        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
       "artists": [
         {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
         }
       ],
-      "duration_ms": 160298,
-      "name": "NO TIME",
-      "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+      "duration_ms": 235325,
+      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
-    },
-    {
-      "added_at": "2023-08-08 15:00:00",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 205253,
       "name": "Amber Bare Skin",
       "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2023-08-08 15:00:00",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
     },
     {
       "added_at": "2023-08-08 15:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-08-08 15:00:00",
       "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/3ClQYZUc2caqnGJWSDdn4l"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
       "artists": [
         {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Signpost",
-      "url": "https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy"
+      "duration_ms": 313561,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
     },
     {
       "added_at": "2023-08-08 15:00:00",

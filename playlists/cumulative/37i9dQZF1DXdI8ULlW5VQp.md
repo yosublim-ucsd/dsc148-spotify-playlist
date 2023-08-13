@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Caloncho en portada.
 
-249 songs - 14 hr 13 min
+250 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Contigo](https://open.spotify.com/track/5Hb3UidmAF1veAx2vhQ2kr) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Contigo](https://open.spotify.com/album/6XrfQ9Sip8eC6X7yQ90PxH) | 2:47 | 2022-02-04 | 2023-02-09 |
 | [Contigo](https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Contigo](https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln) | 2:28 | 2022-04-01 |  |
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2022-07-22 |  |
-| [Contigo Quiero](https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/6fn5SRnldgMCPtTztHlOok) | 4:19 | 2022-02-04 |  |
+| [Contigo Quiero](https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/6fn5SRnldgMCPtTztHlOok) | 4:19 | 2022-02-04 | 2023-08-13 |
+| [Contigo Quiero](https://open.spotify.com/track/71fHHYGL47wkCw3TQRmU14) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Contigo Quiero](https://open.spotify.com/album/4XICGSUas3iNGZb7OxZlE5) | 4:19 | 2023-07-28 |  |
 | [Corazón de Ave](https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Corazón de Ave](https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI) | 4:12 | 2023-06-16 | 2023-08-11 |
 | [Cositas Que Haciamos \(feat\. Farruko\)](https://open.spotify.com/track/6V2Y0Anhyq538bSVyWVt47) | [Musicologo Y Menes](https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Los De La Nazza the Collection, Vol\. 1](https://open.spotify.com/album/7CKHPPrMD8WHybUhrykhjk) | 4:04 | 2023-02-08 | 2023-03-11 |
 | [creo que todo estará bien](https://open.spotify.com/track/1s85LXbICacrdeMlFAG8st) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [creo que todo estará bien](https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR) | 3:40 | 2022-02-04 | 2022-07-02 |

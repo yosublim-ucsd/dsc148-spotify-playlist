@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
-145 songs - 7 hr 40 min
+146 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [UNICEF](https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [UNICEF](https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1) | 2:30 | 2023-05-12 | 2023-06-23 |
 | [Uno Dos Tres](https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 3:18 | 2023-07-27 | 2023-07-29 |
 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 | 2023-01-06 |  |
-| [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 |  |
+| [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |
 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 | 2022-11-14 |  |
 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 | 2023-02-11 |  |
@@ -149,6 +149,7 @@
 | [Wlad L'Hazeb](https://open.spotify.com/track/29IkCgFbnBQtl2YOI4FE3n) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Pappy Mouchkil](https://open.spotify.com/artist/45CKDXnmfFhpQTQLfPALId), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq), [Kookie](https://open.spotify.com/artist/3CCs8ilMIhbVTACrzv9TvQ), [célia](https://open.spotify.com/artist/5ikzDydgUTIC4GV1lyhody), [Betty](https://open.spotify.com/artist/7EG97ivURIiwtDaRfqhbgn), [Souky](https://open.spotify.com/artist/73qse5Vy0FIPZignb83mcD) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 4:17 | 2022-11-28 | 2023-01-06 |
 | [Work \(feat\. Madd\)](https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:16 | 2023-06-22 |  |
 | [Ya Salam](https://open.spotify.com/track/7dlVtBCBmYt4Hl0fsQd9MP) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu), [YP](https://open.spotify.com/artist/4VSRwfbKJ1Vube1Vlbm80p), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Sybka](https://open.spotify.com/artist/0wKWC4FXvBdk5b1m9eJWQO) | [Ya Salam](https://open.spotify.com/album/1KtfpysU1BtHrbhVPCHFFJ) | 3:51 | 2023-03-02 | 2023-04-09 |
+| [Yeah ho v4](https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Yeah ho v4](https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI) | 4:49 | 2023-08-12 |  |
 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 | 2022-11-14 | 2023-05-13 |
 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 | 2023-07-28 |  |
 | [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 | 2023-01-26 |  |

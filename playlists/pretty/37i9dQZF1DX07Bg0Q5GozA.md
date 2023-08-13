@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Hot Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,212 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,242 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Find You \(Gerd Janson Remix\)](https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU) | 6:14 |
 | 75 | [Start Again](https://open.spotify.com/track/5A5bwcDikT756mRVs9gVCw) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Start Again](https://open.spotify.com/album/2n5GoOI0mkA8zavtQ32xU3) | 2:40 |
 
-Snapshot ID: `MCxmZGI2NDIxZWI0NGY4NDliY2UzNTQ5Nzg2MGE3YWYyNjUzNmE4NzMx`
+Snapshot ID: `MCxlZjYwMjJhMzhhMWRmZDg4MDcxNTllYmYxOGEzYzI0NTMzNmQxMDBj`

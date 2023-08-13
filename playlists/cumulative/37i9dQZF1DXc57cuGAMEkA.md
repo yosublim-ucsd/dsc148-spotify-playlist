@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, Tove Lo, indigo la End, Eve,ちゃんみな and more! cover: Olivia Rodrigo
 
-2,463 songs - 5 day 19 hr 45 min
+2,464 songs - 5 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-24 | 2023-03-31 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2023-07-14 |
 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 | 2023-08-03 | 2023-08-11 |
+| [Do It Like That \(Jax Jones Remix\)](https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Do It Like That \(Jax Jones Remix\)](https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA) | 4:55 | 2023-08-10 |  |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 | 2023-07-21 |
 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-28 | 2023-08-04 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |

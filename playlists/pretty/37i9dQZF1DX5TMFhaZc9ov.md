@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,134 likes - 96 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,162 likes - 96 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 3 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 4 | [Through The Fires](https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:31 |
 | 5 | [Carolina](https://open.spotify.com/track/5Q7BgJ0EhqFWdqlMtgDUgM) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 3:24 |
-| 6 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
+| 6 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
 | 7 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
 | 8 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
 | 9 | [Erase Me](https://open.spotify.com/track/0XVbJvveXmtVlMGKhIcGZK) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [Write Your Name In Pink](https://open.spotify.com/album/5MimZH5rLcsbFj6tUxsnrM) | 5:02 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 95 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 96 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCw2MTc0MmI3ODAzM2QwNGI5MWNmZDliMDg1YWExOWQ3YjY3NzEwODli`
+Snapshot ID: `MCxjZjRjOTZlMzE5YjdhMGU1NjllNGIwMmU5YmM5MGUwYzEzNDUxODk0`

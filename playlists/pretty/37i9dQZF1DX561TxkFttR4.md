@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,963 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,007 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 47 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 48 | [Daybreak](https://open.spotify.com/track/6Xq1rE2hfjSMSK5mTpfzb6) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Arash Sanee](https://open.spotify.com/artist/5e1mVc0tKg6XL7bSHRdBSa) | [Daybreak](https://open.spotify.com/album/79Dz2veZjjtnOFMNOHMKFl) | 1:42 |
 | 49 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 |
-| 50 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
-| 51 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
+| 50 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
+| 51 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
 | 52 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 |
 | 53 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
 | 54 | [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 62 | [Searching for peace](https://open.spotify.com/track/1oTDH6fYxlZT0MitUs0HPb) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Searching for peace](https://open.spotify.com/album/693uXrfZISnow1uU36mzn6) | 3:05 |
 | 63 | [Ephemera](https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2) | [Luke Gajdus](https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh) | [In Breath](https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6) | 2:54 |
 | 64 | [Numéro 1](https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 1](https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35) | 2:34 |
-| 65 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
-| 66 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
+| 65 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
+| 66 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
 | 67 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
 | 68 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
 | 69 | [Entropy](https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Entropy](https://open.spotify.com/album/1ewxVTG5noRgSJwSgWGWqS) | 1:50 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 71 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 72 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 73 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
-| 74 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
-| 75 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
+| 74 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
+| 75 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
 | 76 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
 | 77 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
 | 78 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
 | 79 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
-| 80 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
+| 80 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 |
 
-Snapshot ID: `MCw5NWNiOGVjOWQ1ODYwMTI1MjgwMjcwZGIwMDk4NmYxM2E2NGU1ZWE4`
+Snapshot ID: `MCw4YzVhOGVhNTc5MmI5NjRmMDNkMTM4NjQ1YzZhMWQzMTUzMzM4MmNm`

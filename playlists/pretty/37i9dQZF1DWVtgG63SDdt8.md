@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=0d7c4b79d47f4409">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,858 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,008 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 19 | [Give Me Jesus \- Studio Version](https://open.spotify.com/track/3KRn4e2y0p1GyoKqWaAhA2) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Give Me Jesus \(Studio Version\)](https://open.spotify.com/album/4J7KZmf2ym2MU2pNyBJQqs) | 3:52 |
 | 20 | [A Place For You](https://open.spotify.com/track/49Rm1mXCs0F9wq6tgSzieK) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Macintosh](https://open.spotify.com/artist/0cCXrDHh4fDfIpc485NvbI), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [A Place For You](https://open.spotify.com/album/0jcZL0VFKVHkeRY9dQqL90) | 4:29 |
 | 21 | [Pressure](https://open.spotify.com/track/3qVUrZpitkNBkIQZvLY7IS) | [A Jesus Church](https://open.spotify.com/artist/4TYANTKQ4uK2FLUcu7Nq6a) | [Pressure](https://open.spotify.com/album/4ADL3YAJTezOEAQre4Lby5) | 4:41 |
-| 22 | [We Believe](https://open.spotify.com/track/2Y0nAf9t1aeutVYqmXOwq9) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [We Believe](https://open.spotify.com/album/0ZiQ24x1u9F9T8aMsqKYqo) | 4:07 |
+| 22 | [We Believe](https://open.spotify.com/track/2Y0nAf9t1aeutVYqmXOwq9) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [We Believe](https://open.spotify.com/album/0ZiQ24x1u9F9T8aMsqKYqo) | 4:03 |
 | 23 | [The Lord's Prayer](https://open.spotify.com/track/0zlZPt2FIbv9KRfnGhfSWE) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Lord's Prayer](https://open.spotify.com/album/3WbtVvqZ4XY7mEHZIc43j0) | 2:36 |
 | 24 | [Sho' Been Good](https://open.spotify.com/track/4rG8r3XYn7FUH9t6An0tLD) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Sho' Been Good](https://open.spotify.com/album/1QCLxqOKzbrWv68bl8ithr) | 3:45 |
 | 25 | [Always \(Father I Trust You\) \- Live](https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Always \(Father I Trust You\) \[Live\]](https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3) | 4:15 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Never Letting Go](https://open.spotify.com/track/0nwqekQQmUtaylcihI4GDV) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Never Letting Go](https://open.spotify.com/album/5ikF0kV4fCj8ZgMCSGzkFD) | 3:38 |
 | 99 | [Worship](https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Worship](https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q) | 3:02 |
 
-Snapshot ID: `MCwwODM0YTJhODk4OTZhYmI5OGYxMDU4YTk0YmMzMzkwYmU4OGIwMmFm`
+Snapshot ID: `MCxjNWQ3MDA3ODA3YTY0NGU4MGI3YjM5OWY5MTBlZDc2M2IxMmM4YzE1`

@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove",
-  "num_followers": 363732,
+  "num_followers": 363794,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDAxMTdkM2FhYWFhOTYyNTRmOTAyYWJiYjIwN2IzYTY0YTFkY2Y0",
+  "snapshot_id": "MCxiNWQ3NWFjYzdiYjNiN2YxMTg3Yzg1MTNmMjM0Y2MzZDY1MzgzNzFl",
   "tracks": [
     {
       "added_at": "2023-08-11 03:01:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         }
       ],
-      "duration_ms": 161338,
-      "name": "Make Love",
-      "url": "https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9"
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+      "duration_ms": 161338,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1035,38 +1035,6 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 144640,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
         "name": "Calcinha",
         "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
       },
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/3MHN5j12HKAm8ZKujTRaVL"
+        "name": "Inevit\u00e1vel",
+        "url": "https://open.spotify.com/album/4D5zioWfo0fINhVyjtfCyz"
       },
       "artists": [
         {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
         }
       ],
-      "duration_ms": 214374,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/1Adaje7vCpt4qKaF5YfUb3"
+      "duration_ms": 167940,
+      "name": "Inevit\u00e1vel",
+      "url": "https://open.spotify.com/track/3UOsMxiN3OdI7h7x6uzYu2"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Inevit\u00e1vel",
-        "url": "https://open.spotify.com/album/4D5zioWfo0fINhVyjtfCyz"
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/3MHN5j12HKAm8ZKujTRaVL"
       },
       "artists": [
         {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
         }
       ],
-      "duration_ms": 167940,
-      "name": "Inevit\u00e1vel",
-      "url": "https://open.spotify.com/track/3UOsMxiN3OdI7h7x6uzYu2"
+      "duration_ms": 214374,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/1Adaje7vCpt4qKaF5YfUb3"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
+        "name": "MEU 1\u00ba APARTAMENTO",
+        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "MEU 1\u00ba APARTAMENTO",
+      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
         "name": "MALDADE",
         "url": "https://open.spotify.com/album/52nHq9WKHMGtH2Wyily71x"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 160000,
       "name": "MALDADE",
       "url": "https://open.spotify.com/track/0WHlG8p1XeTHV773c2oSGE"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
-        "name": "MEU 1\u00ba APARTAMENTO",
-        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "MEU 1\u00ba APARTAMENTO",
-      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
+        "name": "F\u00e9 Na Caminhada",
+        "url": "https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 159913,
+      "name": "Digdin",
+      "url": "https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
-        "name": "F\u00e9 Na Caminhada",
-        "url": "https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 159913,
-      "name": "Digdin",
-      "url": "https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n"
     },
     {
       "added_at": "2023-08-11 03:01:00",

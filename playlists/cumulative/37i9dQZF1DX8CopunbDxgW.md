@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-876 songs - 2 day 9 hr 14 min
+877 songs - 2 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-02 | 2023-07-29 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-05-20 | 2023-01-06 |
 | [Highest Building \(feat\. Oklou\) \[Prospa Remix\]](https://open.spotify.com/track/1CJ2lDRCEm8GP4q90VSOOs) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Highest Building \(feat\. Oklou\) \[Prospa Remix\]](https://open.spotify.com/album/2VrD6kjPurkh3zy0gRVxsy) | 4:21 | 2022-09-17 | 2022-10-06 |
-| [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 | 2023-07-21 |  |
+| [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 | 2023-07-21 | 2023-08-13 |
 | [Hips \(w/ Mindchatter\)](https://open.spotify.com/track/6r807Xr2NIpbKE6litA7va) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Hips \(w/ Mindchatter\)](https://open.spotify.com/album/0Fzl3cLF11oVpaEPNruUPk) | 3:44 | 2022-02-18 | 2022-07-29 |
 | [Hit My Line](https://open.spotify.com/track/15PrfgQsQ43DlLnwFZvhQm) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Don't Wait Up](https://open.spotify.com/album/4PCIgzgjxD6Ul8Lihd2ojF) | 3:30 | 2022-02-18 | 2022-07-27 |
 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 | 2022-03-04 | 2022-09-16 |
@@ -783,6 +783,7 @@
 | [THINKING](https://open.spotify.com/track/6kChUQ3dve0oRH3a6wrxHM) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [THINKING](https://open.spotify.com/album/3qZHlcmOavLTKddnup8qdf) | 2:00 | 2021-07-09 | 2022-02-12 |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-16 | 2023-07-01 |
 | [This Can’t Be Everything](https://open.spotify.com/track/5kd5cFgaqMbe4AZcat1b7S) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [This Can’t Be Everything](https://open.spotify.com/album/7LOFkHnqJwlKcOzACHsrpy) | 5:58 | 2022-05-13 | 2022-07-29 |
+| [This Way](https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [How To Fly On The Ground](https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2) | 2:48 | 2023-08-11 |  |
 | [THREE STRIKES \(feat\. Khalid\) \- TSHA remix](https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f) | 4:26 | 2021-12-03 | 2022-02-10 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2021-10-22 | 2022-02-12 |
 | [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 | 2023-03-24 |  |

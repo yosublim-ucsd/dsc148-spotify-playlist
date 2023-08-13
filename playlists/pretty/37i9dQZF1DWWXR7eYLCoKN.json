@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 124114,
+  "num_followers": 124218,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx",
+  "snapshot_id": "MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Pagode Novo",
-        "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Campos",
-          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
-        },
-        {
-          "name": "Mari Tavares",
-          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Atraco",
-      "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
         "url": "https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 145823,
       "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
       "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Pagode Novo",
+        "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        },
+        {
+          "name": "Mari Tavares",
+          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "Atraco",
+      "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
     },
     {
       "added_at": "2023-08-04 03:01:00",

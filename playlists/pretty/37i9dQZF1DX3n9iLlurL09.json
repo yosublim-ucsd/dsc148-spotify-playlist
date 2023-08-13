@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 75768,
+  "num_followers": 75819,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjU0NDA1NDJjN2NhZDM5YjFiMDYzNWViMDYyMTc2NDA3MTNlMjFh",
+  "snapshot_id": "MCxjMzZkMWU2NDMyNWFmNzczMzdkNDZmNGU1MTMxYjc3YzQxNmEwNDBl",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 173888,
       "name": "Freaking Out the Neighborhood",
       "url": "https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        },
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "We Are Young (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
         }
       ],
-      "duration_ms": 233817,
-      "name": "Ode to Viceroy",
-      "url": "https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet"
+      "duration_ms": 278373,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -883,6 +867,22 @@
       "duration_ms": 195986,
       "name": "Two Fingers",
       "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 233817,
+      "name": "Ode to Viceroy",
+      "url": "https://open.spotify.com/track/6WZjjf4mKurHPC5BhdGwet"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -915,22 +915,6 @@
       "duration_ms": 209440,
       "name": "Blue Jeans - Remastered 2011",
       "url": "https://open.spotify.com/track/77XvocHaWXkG39G4qag6BG"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Fitzpleasure",
-      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -979,6 +963,22 @@
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Fitzpleasure",
+      "url": "https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Simple As This",
-      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Simple As This",
+      "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/4g4iUbyDPTz3wCy25Tvivk"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 308066,
       "name": "Only For You",
       "url": "https://open.spotify.com/track/17ZnveSDBpG9QtL7zLJNPy"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/4tmwiN9YU7xMjh2hoqcVuI"
     },
     {
       "added_at": "2022-05-19 08:11:23",

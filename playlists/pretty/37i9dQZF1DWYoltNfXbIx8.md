@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,285 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,371 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 64 | [Viajando Na Balada](https://open.spotify.com/track/6crVEDmeU57DebYfJnr7Qq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 5:11 |
 | 65 | [Contexto](https://open.spotify.com/track/5eS43KfdjIfUWxAXpfXT8x) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [A Invasão do Sagaz Homem Fumaça](https://open.spotify.com/album/0ElMwq6ONWreyOISGZKaTl) | 3:45 |
 | 66 | [Enxame](https://open.spotify.com/track/21HGlwk8A6uiTMdb74W4Jb) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU), [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 6:31 |
-| 67 | [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 |
+| 67 | [Se O Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/6jby7YbF4SBR93sMCi1To8) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz) | [Retrospectiva](https://open.spotify.com/album/0RVeLforeHn6YSc8wCT86E) | 5:34 |
 | 68 | [Saudades Mil](https://open.spotify.com/track/1hB4340DP1nnBmfWn37uTN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 8:46 |
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MCw5NmY3MzcyMjY2YTA2ZTdkYzM5ZDMzMWU0ZTYxYTQzOTJjZDc5NzRh`
+Snapshot ID: `MCxjYTFlYWUwODdmMzc0OGY5MGY3MDg5M2IyNTc3ODM0MzY3NDY0NTlh`

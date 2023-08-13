@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,178 songs - 2 day 21 hr 3 min
+1,179 songs - 2 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,7 +778,8 @@
 | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/track/7d8p8TXJnFcu1Mtd11t13t) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Paul Oakenfold X Lizzy Land \- “Get to You” \(Felix Cartal Remix\)](https://open.spotify.com/album/0ERL2LODP5ufNIr99tWWh6) | 2:34 | 2022-11-11 |  |
 | [Peace \- Nightcall Remix](https://open.spotify.com/track/1RUPWZSE3alqsQ0dUIETrS) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Peace \(QUIX Remix\)](https://open.spotify.com/album/1bu5GBHWLGiyn5CCsDmP0i) | 2:44 | 2019-08-09\* | 2020-03-29 |
 | [Peace Of Mind \- Arty Remix](https://open.spotify.com/track/6HsOltpTcr8kKapqkpE9VJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Peace Of Mind \(Arty Remix\)](https://open.spotify.com/album/36Av0s9NETsrPzT0e9bSli) | 5:01 | 2019-08-09\* | 2019-08-27 |
-| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 |  |
+| [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-23 | 2023-08-13 |
+| [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 | 2023-08-11 |  |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2021-06-05 | 2022-05-14 |
 | [Picture Us \- NERVO Remix](https://open.spotify.com/track/1x05gL9CMLZte5ZizwDGZM) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Picture Us \(NERVO Remix\)](https://open.spotify.com/album/3OK4Yzv5dqStpBgcAUaAiC) | 2:26 | 2020-10-30 | 2022-05-14 |
 | [Pieces](https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Pieces](https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS) | 2:44 | 2022-11-11 | 2023-06-17 |

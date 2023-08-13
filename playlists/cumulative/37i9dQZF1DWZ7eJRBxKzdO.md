@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-305 songs - 15 hr 20 min
+306 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 | 2022-05-02 | 2023-05-12 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-18 |  |
 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 | 2023-02-09 |  |
+| [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 |  |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-28 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-07 |  |
 | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4) | 2:54 | 2022-05-02 | 2022-07-29 |
@@ -33,7 +34,7 @@
 | [Be My Lover \(feat\. La Bouche\) \- 2023 Mix](https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Be My Lover \(feat\. La Bouche\) \[2023 Mix\]](https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX) | 2:49 | 2023-04-27 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-05-02 |  |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-05-26 |  |
-| [Behind These Hazel Eyes](https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi) | [Bounce Projectz](https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ) | [Behind These Hazel Eyes](https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq) | 3:17 | 2023-06-14 |  |
+| [Behind These Hazel Eyes](https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi) | [Bounce Projectz](https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ) | [Behind These Hazel Eyes](https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq) | 3:17 | 2023-06-14 | 2023-08-13 |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2022-05-02 | 2023-03-02 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-05-02 | 2023-04-07 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2022-05-02 | 2022-07-29 |

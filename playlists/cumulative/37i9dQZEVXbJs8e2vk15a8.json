@@ -10818,7 +10818,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 227067,
       "name": "La Noche Esta",
       "url": "https://open.spotify.com/track/7b7ORxbb6zAcb8VKioq6xA"
@@ -11058,7 +11058,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 203311,
       "name": "Las Mininas",
       "url": "https://open.spotify.com/track/0pPKOPyTUaibyQvmlaG9rS"
@@ -13657,6 +13657,28 @@
     },
     {
       "album": {
+        "name": "Mininas",
+        "url": "https://open.spotify.com/album/4m7GNmiLRuo47E3E2TSL6g"
+      },
+      "artists": [
+        {
+          "name": "alviiero69",
+          "url": "https://open.spotify.com/artist/5KlD4on77awS5LFWtG3gz6"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0GDGIGcxUTNtLIQtUackNU"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203311,
+      "name": "Mininas",
+      "url": "https://open.spotify.com/track/0jE39gajhbRHxMTSMM5Ayv"
+    },
+    {
+      "album": {
         "name": "Pa K Te Enamore",
         "url": "https://open.spotify.com/album/1b1MIUkBs4F7Mhhx59Sbql"
       },
@@ -14844,7 +14866,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "No Estuviste En Lo Malo",
       "url": "https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK"
@@ -16271,7 +16293,7 @@
     },
     {
       "album": {
-        "name": "PANAMERA (feat. Dj Zetian)",
+        "name": "PANAMERA (feat. Djay W)",
         "url": "https://open.spotify.com/album/5hzMoEOPyyLQXUvwr2VGNQ"
       },
       "artists": [
@@ -16288,15 +16310,15 @@
           "url": "https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B"
         },
         {
-          "name": "Dj Zetian",
-          "url": "https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy"
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
         }
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 208615,
-      "name": "PANAMERA (feat. Dj Zetian)",
+      "name": "PANAMERA (feat. Djay W)",
       "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
     },
     {
@@ -17574,7 +17596,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 212007,
       "name": "Polvo Sano",
       "url": "https://open.spotify.com/track/7nJZcBCBHo9vZbL9rycfwR"
@@ -17592,7 +17614,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 60186,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/4eW7NIUAHI3qSl7Pyqimh3"
@@ -18858,7 +18880,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
@@ -19100,6 +19122,24 @@
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
     },
     {
       "album": {
@@ -22796,7 +22836,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"

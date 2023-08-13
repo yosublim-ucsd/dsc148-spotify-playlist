@@ -4,7 +4,7 @@
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-57 songs - 3 hr 10 min
+58 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,13 +26,14 @@
 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 | 2023-06-08 |  |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2023-06-08 |  |
 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 | 2023-06-08 |  |
-| [Exclusive](https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Exclusive](https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m) | 2:29 | 2023-06-08 |  |
+| [Exclusive](https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Exclusive](https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m) | 2:29 | 2023-06-08 | 2023-08-13 |
 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 | 2023-06-08 |  |
 | [Fluorescente](https://open.spotify.com/track/5jvq9Nn9CUnRckxHjCezzA) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Huye](https://open.spotify.com/album/0PMFPm6A15sJGUbzS15SKD) | 4:07 | 2023-06-08 |  |
 | [Guarapo y Flor](https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Guarapo y Flor](https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ) | 2:59 | 2023-07-21 |  |
 | [Hasta el final](https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Hasta el final](https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd) | 3:28 | 2023-07-21 |  |
 | [Hilos](https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Tejido de Laurel](https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B) | 1:02 | 2023-06-08 |  |
 | [Igual](https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx) | [Los Berets](https://open.spotify.com/artist/7seVD4zALd4VgPn2G7VWRM) | [Igual](https://open.spotify.com/album/41zIUQ0zbNnO3uoRJzxm9S) | 2:09 | 2023-06-08 | 2023-07-16 |
+| [La Estrella del Show](https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [La Estrella del Show](https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf) | 2:57 | 2023-08-11 |  |
 | [La Mitad](https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:56 | 2023-06-08 |  |
 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 | 2023-06-08 |  |
 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 | 2023-06-08 |  |

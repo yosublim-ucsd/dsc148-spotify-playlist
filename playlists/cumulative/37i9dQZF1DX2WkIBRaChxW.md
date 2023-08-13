@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now – featuring LOONY.
 
-577 songs - 1 day 7 hr 51 min
+578 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,8 @@
 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 | 2022-12-30 | 2023-01-28 |
 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 | 2022-09-30 | 2023-04-15 |
 | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/track/67epLDPaekqbQcxV0tNMVZ) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ocean Drive \(feat\. Chris Brown\)](https://open.spotify.com/album/0fIwvs8RMDBB2l0CGuuWcU) | 3:24 | 2022-07-22 | 2023-01-14 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 |  |
 | [On Guard \(feat\. 6lack\)](https://open.spotify.com/track/0VAuyz8H8mgh89sjdR983P) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PRELUDE](https://open.spotify.com/album/6ur2Xhe9Q3YvsQSFIfbuQZ) | 3:26 | 2021-12-31 | 2022-01-15 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-16 |  |
 | [On My Way](https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [On My Way](https://open.spotify.com/album/62fWbXuvA9gXsfibRB1WCq) | 3:03 | 2022-11-24 | 2023-02-18 |

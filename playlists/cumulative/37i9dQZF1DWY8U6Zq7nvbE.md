@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-398 songs - 21 hr 35 min
+400 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Attention \- Acoustic](https://open.spotify.com/track/2bKS7HtZ9Cy4K7NGeRlePF) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic\)](https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw) | 3:26 | 2021-03-11 | 2022-07-29 |
 | [Attention \- Acoustic](https://open.spotify.com/track/2xp0omM9ej1ErRQ1J5kKnA) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Quiet Moment Ballads](https://open.spotify.com/album/3GsjwdiCGkKqD51G4NRtI8) | 3:26 | 2022-10-26 | 2022-11-13 |
 | [Attention \- Acoustic](https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic + Remixes\)](https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP) | 3:26 | 2021-03-11 | 2022-12-02 |
+| [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-10 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-31 |  |
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2021-03-11 | 2022-09-01 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-03-11 |  |
@@ -101,6 +102,7 @@
 | [Colder Weather](https://open.spotify.com/track/5CAdiD4hnQ5EjzBX5GWEOG) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj), [Ryan James Tillema](https://open.spotify.com/artist/3IynIgLNoj6nup0mywwOh8) | [Colder Weather](https://open.spotify.com/album/4EahKMkojSXw8daBLQPZGz) | 3:28 | 2021-03-11 | 2022-11-12 |
 | [Collide](https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG) | 3:04 | 2023-06-08 |  |
 | [Colors](https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Wood Fire](https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant) | 3:07 | 2021-03-11 | 2022-12-02 |
+| [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-10 |  |
 | [Congratulations \- Acoustic](https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [Congratulations \(Acoustic\)](https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E) | 3:57 | 2021-03-11 | 2022-12-17 |
 | [Cooped up \- Acoustic](https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Cooped up \- Acoustic](https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU) | 2:41 | 2023-01-20 |  |
 | [Crying My Eyes Out \- Acoustic](https://open.spotify.com/track/73ez4MUeIzT35JfhYoPYxZ) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Crying My Eyes Out \(Acoustic\)](https://open.spotify.com/album/5FQiRzFDZ1mRaz0MyPoS73) | 2:50 | 2021-03-11 |  |
@@ -183,7 +185,7 @@
 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 | 2022-08-31 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-03-11 | 2023-03-10 |
 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 | 2023-06-22 |  |
-| [I'll Save A Place](https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [I'll Save A Place](https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ) | 3:01 | 2023-01-20 |  |
+| [I'll Save A Place](https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [I'll Save A Place](https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ) | 3:01 | 2023-01-20 | 2023-08-13 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/0GU7mjplm8DvhlBPPyB3VP) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [lifeline sad pop](https://open.spotify.com/album/522309wFWxwkT7FguIQqvG) | 2:33 | 2022-11-11 | 2023-02-11 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1NbGvDjCF1s7pH62AjKUdJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Luv Starved \- Sad Pop](https://open.spotify.com/album/2jzJSgieL4xBi7Fq794ZTx) | 2:33 | 2023-01-20 | 2023-02-13 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2023-01-20 |  |
@@ -196,7 +198,7 @@
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2021-03-11 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2021-03-11 | 2022-07-29 |
 | [If I Can't Have You](https://open.spotify.com/track/2QaTtQ3bvllhg2Ot5CpgtC) | [Emmie Reins](https://open.spotify.com/artist/0VmhvPRTiSbS9ndW7wjuDb) | [If I Can't Have You](https://open.spotify.com/album/4SDJD7TxUqwR7yvqkJ6VLF) | 3:29 | 2021-03-11 | 2022-11-26 |
-| [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 | 2023-03-31 |  |
+| [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 | 2023-03-31 | 2023-08-13 |
 | [If I'm Being Honest](https://open.spotify.com/track/4JizrXo9waLOAqSJoA6MsA) | [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [If I'm Being Honest](https://open.spotify.com/album/1xtPhACexlKPMpTO8YTMxc) | 3:51 | 2021-03-11 | 2023-01-05 |
 | [If We Ever Broke Up](https://open.spotify.com/track/5krUQJ8Luu2P44Qpqaa33S) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [If We Ever Broke Up](https://open.spotify.com/album/17eugw7y0jcABlG8x6EDEa) | 2:21 | 2023-05-12 | 2023-06-28 |
 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 | 2021-03-11 | 2022-10-01 |

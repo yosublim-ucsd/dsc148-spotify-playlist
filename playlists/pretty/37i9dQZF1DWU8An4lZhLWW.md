@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 50 | [Supergirl Theme](https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Music Of DC Comics: Vol\. 2](https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N) | 1:11 |
 | 51 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 
-Snapshot ID: `MCxiNDU5MTdkNmVkNGIyYjMwMDdkNzM3YjMyYmYxMjU3MjRlOWM4N2Fi`
+Snapshot ID: `MCxlMzQ3ZTNiMzI1NGNmYTIwNTcwNTExNzk1MTZiYTdjNDU2NmRiYmYw`

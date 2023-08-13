@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 39869,
+  "num_followers": 40029,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg2ZTJiNzUyN2Q4MDdiZDI2ZWI3MjRhNzVjYWIzZTQwNmUzYzcz",
+  "snapshot_id": "MCxmY2M3MDJjMjMyMDBlY2VhZDAxZTk1ZDQwYWM2ZDc2ZTRkMTVjNzdh",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+        "name": "Toncho Pilatos",
+        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
       },
       "artists": [
         {
-          "name": "La Fachada De Piedra",
-          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
+          "name": "Toncho Pilatos",
+          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
         }
       ],
-      "duration_ms": 187611,
-      "name": "Roaming",
-      "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
+      "duration_ms": 230973,
+      "name": "Tommy Lyz",
+      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Toncho Pilatos",
-        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
       "artists": [
         {
-          "name": "Toncho Pilatos",
-          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
+          "name": "La Fachada De Piedra",
+          "url": "https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9"
         }
       ],
-      "duration_ms": 230973,
-      "name": "Tommy Lyz",
-      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
+      "duration_ms": 187611,
+      "name": "Roaming",
+      "url": "https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -772,22 +772,6 @@
       },
       "artists": [
         {
-          "name": "The Love Army",
-          "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
-      },
-      "artists": [
-        {
           "name": "Los Soul Master's",
           "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
         }
@@ -799,18 +783,34 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Soul Latino",
-        "url": "https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE"
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
       "artists": [
         {
-          "name": "Rabbits And Carrots",
-          "url": "https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ"
+          "name": "The Love Army",
+          "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
         }
       ],
-      "duration_ms": 307408,
-      "name": "Ciudad Hippie",
-      "url": "https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v"
+      "duration_ms": 229955,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Monster A Go-Go: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 1)",
+        "url": "https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7"
+      },
+      "artists": [
+        {
+          "name": "The Spiders",
+          "url": "https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "Nati Bati Yi",
+      "url": "https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

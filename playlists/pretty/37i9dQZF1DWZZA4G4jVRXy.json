@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 124491,
+  "num_followers": 124552,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh",
+  "snapshot_id": "MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Maunalua",
-        "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
-      },
-      "artists": [
-        {
-          "name": "Maunalua",
-          "url": "https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS"
-        }
-      ],
-      "duration_ms": 324920,
-      "name": "Uilani / Baby Kalae",
-      "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Maunalua",
+        "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
+      },
+      "artists": [
+        {
+          "name": "Maunalua",
+          "url": "https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Uilani / Baby Kalae",
+      "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
         "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 143666,
       "name": "Glow Worm Cha Cha Cha - Remastered",
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
       "artists": [
         {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
+      "duration_ms": 149000,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+      },
+      "artists": [
+        {
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -735,22 +751,6 @@
       "duration_ms": 138133,
       "name": "Hawaiian War Chant",
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
-        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Calls Orchestra",
-          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Don Ho Show! (Live)",
         "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 244800,
       "name": "Shells - Live from Hawaii",
       "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
+        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Calls Orchestra",
+          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
       "added_at": "2021-01-20 03:50:53",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: M\u00e9ne",
-  "num_followers": 514100,
+  "num_followers": 514153,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRlNWI1OWQ4MTUwOTM4ZWFmMWJmY2NkNDZhYTgwYmE0ZWZiZmJj",
+  "snapshot_id": "MCw5Nzg0MmE2OTE4OGEwMGMxNDI5MmExY2ZmYzJmODRkODIxYWZkYjM3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Midnight Freak-Out",
+        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Midnight Freak-Out",
+      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 175813,
       "name": "Mi Droga Favorita",
       "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Midnight Freak-Out",
-        "url": "https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Midnight Freak-Out",
-      "url": "https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
+        "name": "FDA",
+        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
       },
       "artists": [
         {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
+      "duration_ms": 159272,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "FDA",
-        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
       "artists": [
         {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 159272,
-      "name": "vulnerable",
-      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
+      "duration_ms": 222666,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Un Parque",
-        "url": "https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1"
-      },
-      "artists": [
-        {
-          "name": "Pimp Flaco",
-          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
-        }
-      ],
-      "duration_ms": 185690,
-      "name": "Un Parque",
-      "url": "https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Salvaje oeste",
         "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 220853,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Un Parque",
+        "url": "https://open.spotify.com/album/627VLg40KgocbJfDXnQ8U1"
+      },
+      "artists": [
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        }
+      ],
+      "duration_ms": 185690,
+      "name": "Un Parque",
+      "url": "https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Caf\u00e9 con Miel",
-        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 195437,
-      "name": "Caf\u00e9 con Miel",
-      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 133693,
       "name": "Insurgentes",
       "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Caf\u00e9 con Miel",
+        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 195437,
+      "name": "Caf\u00e9 con Miel",
+      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "En Un Instante",
+        "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "En Un Instante",
+      "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Stuck in California",
         "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
       },
@@ -1679,34 +1695,46 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "En Un Instante",
-        "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
+        "name": "Me Haces Bien",
+        "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
       "artists": [
         {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
         }
       ],
-      "duration_ms": 171785,
-      "name": "En Un Instante",
-      "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
+      "duration_ms": 207499,
+      "name": "Me Haces Bien",
+      "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Miamorcito Loco + Regresar",
-        "url": "https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf"
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 211922,
-      "name": "Regresar",
-      "url": "https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ"
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1731,42 +1759,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "El Principal",
-        "url": "https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v"
+        "name": "Miamorcito Loco + Regresar",
+        "url": "https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "ni-hao!!!!",
-          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
         }
       ],
-      "duration_ms": 210187,
-      "name": "El Principal",
-      "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Blanca",
-        "url": "https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM"
+      "duration_ms": 211922,
+      "name": "Regresar",
+      "url": "https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ"
     }
   ],
   "unique_name": "el nuevo indie",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-474 songs - 1 day 22 hr 46 min
+475 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Odium](https://open.spotify.com/track/4suC1hINTUwtEjbGDgeKzi) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [VRuno](https://open.spotify.com/artist/0f3CNjLXoEkL441sJUE4BO) | [Stories From Space](https://open.spotify.com/album/1bAAVjlN4pssW3GMWZGJaN) | 7:28 | 2021-05-26 | 2022-07-22 |
 | [Of Dreams and Hopes](https://open.spotify.com/track/4gV7GVMSyubzPxOjToHOMM) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Of Dreams and Hopes](https://open.spotify.com/album/4ofJwou4D0dp0ij2nI8O7S) | 7:22 | 2022-01-07 | 2022-07-28 |
 | [Olappa](https://open.spotify.com/track/4MaARFislNIGgr6iqejbHC) | [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [Lunar Plane / Daniel Rateuke](https://open.spotify.com/album/440LEyeR8cvOC2LKtbBret) | 7:42 | 2021-04-21 | 2022-04-21 |
-| [Olele](https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Talisman](https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9) | 3:45 | 2023-02-24 |  |
+| [Olele](https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Talisman](https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9) | 3:45 | 2023-02-24 | 2023-08-13 |
 | [On Me \- Malóne Remix](https://open.spotify.com/track/5Wemnm8Xwz2b2h6BfDsvMi) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Malone](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Uhura](https://open.spotify.com/artist/3jngSW5geTKjZ8OjMFuGs6) | [On Me \(Malóne Remix\)](https://open.spotify.com/album/6y6P7dKg5zEQgScPD1w4I9) | 3:25 | 2022-09-16 | 2022-10-21 |
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-07-28 |  |
 | [On My Mind](https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [On My Mind](https://open.spotify.com/album/6VcvfOH50yuKWVaeluq2SJ) | 4:20 | 2023-06-16 |  |
@@ -332,6 +332,7 @@
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 |  |
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-03-11 | 2022-07-19 |
+| [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 |  |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |

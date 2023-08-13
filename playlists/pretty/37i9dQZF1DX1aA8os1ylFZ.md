@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,599 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,645 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 41 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
 | 42 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 |
 | 43 | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Rodeo \(feat\. Big Jade\)](https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx) | 4:22 |
-| 44 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 |
-| 45 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 |
+| 44 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 |
+| 45 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 |
 | 46 | [Petty](https://open.spotify.com/track/5s7SToFcsOVGPDIv6Fv6dA) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 3:15 |
 | 47 | [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 |
 | 48 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 67 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 |
 | 68 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 |
 | 69 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 |
-| 70 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
-| 71 | [Bubble](https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Bubble](https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye) | 3:15 |
+| 70 | [Bubble](https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Bubble](https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye) | 3:15 |
+| 71 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
 | 72 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 |
 | 73 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
 | 74 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [WOMAN](https://open.spotify.com/track/63yD1pa1Ux5Ug4tIi6ygdv) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [WOMAN](https://open.spotify.com/album/7eS3314VnVZQ3ZMNFCjZ92) | 2:44 |
 | 100 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
 
-Snapshot ID: `MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj`
+Snapshot ID: `MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz`

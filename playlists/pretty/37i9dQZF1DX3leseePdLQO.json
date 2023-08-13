@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring LAGOS.",
-  "num_followers": 6579,
+  "num_followers": 6596,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmExZTUzOTIxMmVkYjhkZGE1ZTU2M2UzODcyMmJmMWEzMjkyMmI1",
+  "snapshot_id": "MCw3NTZlZTMxNTQ1NDkwOWYwMWRkNDQxZGQxNzAwMjEzZmI5ZTNkZTUx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Man\u00edaca",
+        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "Man\u00edaca",
+      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Man\u00edaca",
-        "url": "https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 175175,
-      "name": "Man\u00edaca",
-      "url": "https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "TU VALOR",
-      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Como T\u00fa y Yo",
         "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 192757,
       "name": "Como T\u00fa y Yo",
       "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Obvio",
-        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 165784,
-      "name": "Obvio",
-      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "P.M.",
         "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 173440,
       "name": "NUNCA PASAR\u00c1",
       "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 165784,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 163911,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "No Quiero Olvidarte",
         "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 230049,
       "name": "No Quiero Olvidarte",
       "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 163911,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/2wKCkLD4ZqSA4S7k3MZPLN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1607,6 +1607,22 @@
       "duration_ms": 161571,
       "name": "M\u00e1s Que Amigas",
       "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 150428,
       "name": "Quiero Q Me Tat\u00faes",
       "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "DEKKOLETERA 33",
-        "url": "https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 204241,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/4oTiqed4Dp5gMfw0BUF4YD"
     }
   ],
   "unique_name": "Crema Pop",

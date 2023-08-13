@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: vf7
 
-692 songs - 1 day 13 hr 13 min
+693 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Chanel](https://open.spotify.com/track/1WOeXa0KaCMCg3oiHNO3w4) | [Carlos Cortez](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC) | [Chanel](https://open.spotify.com/album/6gebMWgHnR1GXP237B6G7Y) | 2:54 | 2022-08-11 | 2022-11-12 |
 | [Chantaje](https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Chantaje](https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg) | 3:58 | 2022-03-21 | 2022-04-02 |
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-15 | 2023-03-25 |
-| [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 | 2023-07-14 |  |
+| [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 | 2023-07-14 | 2023-08-13 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2022-12-02 | 2023-04-09 |
 | [Chulo](https://open.spotify.com/track/3szqC0lxrJdhn3eW6FfFfo) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Chulo](https://open.spotify.com/album/2oDHlQQn8sthDVKO8pJ6eZ) | 2:00 | 2023-02-10 | 2023-03-25 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-06-23 |  |
@@ -689,6 +689,7 @@
 | [Winnie Pooh](https://open.spotify.com/track/0QupfeRNFEdNatL4gkcZUp) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Winnie Pooh](https://open.spotify.com/album/0oDpw4EOFV53oC23SU5jJT) | 3:00 | 2022-05-13 | 2022-07-13 |
 | [Wuapa](https://open.spotify.com/track/1GXZJCOFcyGpvUEqq7qxiY) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Wuapa](https://open.spotify.com/album/1jGVjqkgkhhwXDwjU988gW) | 3:07 | 2023-04-14 | 2023-07-03 |
 | [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-17 | 2023-05-27 |
+| [X ESO BB](https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [X ESO BB](https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu) | 3:13 | 2023-08-11 |  |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-03 | 2023-03-25 |
 | [X2 \- Remix](https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [X2 \(Remix\)](https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys) | 3:39 | 2022-03-21 | 2022-05-14 |
 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 | 2023-03-31 |  |

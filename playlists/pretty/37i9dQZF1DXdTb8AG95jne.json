@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 450284,
+  "num_followers": 450392,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTVlMjljMjAwNTJjYjJjODVlMGRmM2Q1ZGMxYWU0NWUwZGI5MjQz",
+  "snapshot_id": "MCxiMzgyZjEyZDA4ODc5ODJkZTRiN2EzYzczYTk5YzcxMmI5Y2ZhNzk2",
   "tracks": [
     {
       "added_at": "2023-08-01 04:46:36",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Orange, You\u2019re Not a Joke to Me!",
-        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 220069,
-      "name": "Orange, You\u2019re Not a Joke to Me!",
-      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "RAL 9002",
         "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+        "name": "Orange, You\u2019re Not a Joke to Me!",
+        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
       },
       "artists": [
         {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 181046,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
+      "duration_ms": 220069,
+      "name": "Orange, You\u2019re Not a Joke to Me!",
+      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -859,6 +843,22 @@
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
     }
   ],
   "unique_name": "In The K-Indie",

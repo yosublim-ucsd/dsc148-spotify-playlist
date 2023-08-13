@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 106316,
+  "num_followers": 106438,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGIyZTg3MDdlMTJlNTJhYWIwMTNhNjJkYWI2NDdiYTg3MzNlMzI5",
+  "snapshot_id": "MCw0NzI5YTVjMzYyMTI2MmY5NDU0NDJkMGVmNjVhMjYwNTU0ZTA2NGNl",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Always on My Mind - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 206187,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "PopArt: The Hits",
-        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Always on My Mind - 2003 Remaster",
-      "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218253,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/4N20DI57V9TX4VwBQwbkXq"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7j8FDy7eI1TommLedXXdHz"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1012,6 +1012,22 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+        "name": "The Salcombe Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/5gAYEvsJZ7nFC220oB5DAv"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 161130,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "The Salcombe Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/5gAYEvsJZ7nFC220oB5DAv"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1528,22 +1528,6 @@
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
       "artists": [
@@ -1555,6 +1539,22 @@
       "duration_ms": 261977,
       "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236334,
-      "name": "Halo - Spotify Singles",
-      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Halo - Spotify Singles",
+      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "LEGEND (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
@@ -1939,18 +1923,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
       },
       "artists": [
         {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
         }
       ],
-      "duration_ms": 224588,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1967,6 +1951,22 @@
       "duration_ms": 176508,
       "name": "Golden - Originally Performed By Harry Styles",
       "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 224588,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Walking On The Moon",
         "url": "https://open.spotify.com/album/2kwI7O2JRV0R0WXLPr9teL"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 241213,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/64NgJu6rPcsDYCN4IhYjDE"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Born in the Eighties",
-        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 213945,
-      "name": "Ayo Technology",
-      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Division (Deluxe)",
         "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+        "name": "Born in the Eighties",
+        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
         }
       ],
-      "duration_ms": 252716,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+      "duration_ms": 213945,
+      "name": "Ayo Technology",
+      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2351,6 +2335,22 @@
       "duration_ms": 179333,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Nothing Compares 2 U",
         "url": "https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 259866,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 199874,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Broken Glass, Vol. 5",
         "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 214933,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 199874,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
     },
     {
       "added_at": "2023-08-04 04:01:00",

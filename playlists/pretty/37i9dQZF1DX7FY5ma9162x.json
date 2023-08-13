@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Snoh Aalegra",
-  "num_followers": 221288,
+  "num_followers": 221365,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTRlNWViNDE4OWRjNmQ3NDBkMDI0MDM1Mjc4YmFiMmU0ZjNkNTM1",
+  "snapshot_id": "MCw1NDJjMDcyOGE4YTNjOTdhNmY3NjUwNWUxYWJlODg3NDgzOWU5N2Vl",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 252746,
       "name": "Could've Been (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Special (feat. SZA)",
-        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 174748,
-      "name": "Special (feat. SZA)",
-      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -939,6 +919,26 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "The Lead",
         "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "A N N I V E R S A R Y (Deluxe)",
-        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 188293,
-      "name": "7:00",
-      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     }
   ],
   "unique_name": "R&B Favourites",

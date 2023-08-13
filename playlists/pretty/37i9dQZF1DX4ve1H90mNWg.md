@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=p9UUD7S\-TvabLVShoGN47A">Jastin Martin</a>
+> Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=e3da516300794ecb">Travis Scott</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,646 likes - 66 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,667 likes - 66 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 65 | [We the Gods](https://open.spotify.com/track/7KbTt8tYmvxshHNwFwbLwd) | [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [We the Gods](https://open.spotify.com/album/6udZUGOYAXAKm4A34zEhQL) | 3:07 |
 | 66 | [Love Answers All \- Bonus](https://open.spotify.com/track/5tb59dvZdlxWur0O7VTuxT) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 3:24 |
 
-Snapshot ID: `MCwwNWY1MTQ0MWQ3MGM2NTEzZjJjYmM3ZDNkYjM2M2FmMDUxNGQ0ZDc0`
+Snapshot ID: `MCwwMmU0YTQ4Nzg2NWFhMzM2NzE1ZGRhZjA3YjdiODViNjUwODc2M2Rm`

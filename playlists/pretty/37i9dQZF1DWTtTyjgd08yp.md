@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,721 likes - 126 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,904 likes - 126 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 8 | [Punisher](https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:09 |
 | 9 | [Ghosts](https://open.spotify.com/track/4RD9ieX3yq8OLW5tlf1KLL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 3:44 |
 | 10 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
-| 11 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
+| 11 | [We're In Love](https://open.spotify.com/track/5eoy62yFNJAli6AyKK5qnH) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:54 |
 | 12 | [Don't Even Worry](https://open.spotify.com/track/59budStVXuAhbpyBKJBdX9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Don’t Even Worry](https://open.spotify.com/album/4O2OauH8V7xGJ0yru5xndT) | 3:23 |
 | 13 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
 | 14 | [Switch It On, Switch It Off](https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Switch It On, Switch It Off](https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja) | 3:57 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 125 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
 | 126 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 
-Snapshot ID: `MCxkMTBhZmZkM2M3OGI4MDFkYjA3NmRkNGY0NGZkOGE5YTU3ODJjNzMy`
+Snapshot ID: `MCw2NDM2MzhiM2ZjNmE4YWFhYjdlNmQwYmVkZGRhODkwZTEzMjMwYWUx`

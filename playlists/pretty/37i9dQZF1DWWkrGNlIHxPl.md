@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,801 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,888 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Guidance](https://open.spotify.com/track/7F2LPT5Jat7biCPwmVfoGn) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Guidance](https://open.spotify.com/album/0HHZvMLL6NA2UjSi9dBz0M) | 2:50 |
 | 50 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 |
 
-Snapshot ID: `MCw5MDEzYTI1YTIyNTBiZTIxOTM4NDQ1MGE5YmI2ZmNjODA1MDdjZmM0`
+Snapshot ID: `MCxlMDlmM2Y3NDNhZTU0MDdmN2RjYzc3OTY5NTU2NGEwMzkwYWQyODNj`

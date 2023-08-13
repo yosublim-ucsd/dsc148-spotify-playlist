@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Francisca Valenzuela & Ximena Sariñana.
 
-243 songs - 13 hr 16 min
+244 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [otro lugar • despertar](https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [otro lugar • despertar](https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC) | 3:06 | 2022-05-20 | 2023-06-24 |
 | [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 | 2022-05-20 | 2023-04-15 |
 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 | 2022-08-26 | 2023-07-29 |
-| [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 | 2023-04-07 |  |
+| [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 | 2023-04-07 | 2023-08-13 |
 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 | 2023-04-07 |  |
 | [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 | 2023-07-15 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-05-20 | 2023-04-15 |
@@ -207,6 +207,7 @@
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-20 | 2023-07-08 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2022-05-20 | 2023-04-15 |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-06-09 |  |
+| [t quiero baby](https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU) | 2:26 | 2023-08-11 |  |
 | [t quiero baby](https://open.spotify.com/track/5Ism0pljdp59O89F22begB) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG) | 2:26 | 2023-07-14 | 2023-08-10 |
 | [tal vez, no sé](https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj) | [Poli Sallustro](https://open.spotify.com/artist/3GDDrbnVlyfhi84cAVaZ6w), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [tal vez, no sé](https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla) | 3:44 | 2023-06-23 |  |
 | [Tampoco Poco](https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Tampoco Poco](https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r) | 3:00 | 2023-05-12 |  |

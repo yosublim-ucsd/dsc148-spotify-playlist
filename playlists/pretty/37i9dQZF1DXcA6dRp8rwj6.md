@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Trippie Redd\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,981 likes - 98 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,045 likes - 98 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 12 | [From The Jump](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [From The Jump](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
 | 13 | [NEW PHONE](https://open.spotify.com/track/0bT3twZTsEvim6VYujo290) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [NEW PHONE](https://open.spotify.com/album/1cKql5Tt9YfiDc07VF38ff) | 2:06 |
 | 14 | [Hype Me Up](https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hype Me Up](https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i) | 4:02 |
-| 15 | [As Above So Below](https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [As Above So Below](https://open.spotify.com/album/7JHmHPWUghH4yG9oM34tKZ) | 1:53 |
+| 15 | [Situation](https://open.spotify.com/track/2mJKflpK3ZUNQZB0C8jk1S) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Situation](https://open.spotify.com/album/7JHmHPWUghH4yG9oM34tKZ) | 1:53 |
 | 16 | [Podium](https://open.spotify.com/track/7zralDvSIwPnynP4JJeXIs) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [DU4LI7Y: REDUX](https://open.spotify.com/album/4RO6790j1uHJXcI9CTqA1R) | 3:26 |
 | 17 | [ICE COLD ZEL FREESTYLE \[Feat\. ICECOLDBISHOP\]](https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [BLOOD ON MY NIKEZ](https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8) | 1:39 |
 | 18 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/6Khk3gI5G1ygnJYkc5QZIz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/5qVEygFbfiRgrFy7zlUxZK) | 2:54 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 97 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 |
 | 98 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
 
-Snapshot ID: `MCw5ZWIxMjZhM2U4MDE4MzVhZDkyMjNjYTcxYjhhMmYyYmY4Njk5MmZj`
+Snapshot ID: `MCwzYzZmMTcxYzNjMDg4NmM5ZmI2MGZmOWM0MWNjMWZlMjI5YmJlYWRl`

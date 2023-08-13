@@ -4,7 +4,7 @@
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-215 songs - 12 hr 1 min
+216 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 | 2021-11-12 |  |
 | [Rumores](https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 | 2022-09-12 |  |
-| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2022-09-12 |  |
+| [Sangoloteadito](https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Frente A Frente](https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6) | 3:00 | 2022-09-12 | 2023-08-13 |
+| [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2022-09-12 |  |
 | [Sangoloteadito](https://open.spotify.com/track/59Mef3D20yXBdqXahLv3AO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Las Retro Chingonas: Las Favoritas de Mamá](https://open.spotify.com/album/7fFOroJrce5OZ6JS5dYvcs) | 3:02 | 2022-09-12 | 2022-11-13 |
 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 | 2021-11-12 |  |
 | [Secreto De Amor](https://open.spotify.com/track/5NZDQErD8SKBQTWokxFNSk) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM) | 4:33 | 2021-11-12 | 2022-07-29 |

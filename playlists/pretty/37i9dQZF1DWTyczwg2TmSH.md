@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from Ladies First: A Story of Women in Hip\-Hop, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 8 | [Roxanne's Revenge](https://open.spotify.com/track/1AHnvshGmGaq4OkWlop4gq) | [Roxanne Shante](https://open.spotify.com/artist/3r7n7y3j0nYgkPePO4p3QC) | [The Ol' Skool Flava of...Nia](https://open.spotify.com/album/6vqwsHyibju75gYK0LRmbb) | 5:09 |
 | 9 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 10 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
-| 11 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 11 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 12 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 13 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 14 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 30 | [Mind Yo Business \(feat\. Latto\)](https://open.spotify.com/track/1GXZk5WpfVSjFL6wEE2SnK) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:02 |
 | 31 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 
-Snapshot ID: `MCxlYzNlYzdhZjllYzBlYTM3YmYzZTAzNDdhNzlmMmMxOTM1MDhkODQ1`
+Snapshot ID: `MCw1OWNmZTI0MDA0Yjg1Yjk4YjEyNjE4MzUzYWVjNDY2OTNjYWRjMmVl`

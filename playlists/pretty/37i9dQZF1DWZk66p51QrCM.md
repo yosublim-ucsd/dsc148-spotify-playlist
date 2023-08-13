@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,166 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,276 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 |
 | 2 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
-| 3 | [DNA](https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1) | [DNA](https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1) | 2:16 |
-| 4 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
+| 3 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
+| 4 | [DNA](https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1) | [DNA](https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1) | 2:16 |
 | 5 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 |
 | 6 | [757](https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:06 |
 | 7 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 16 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
 | 17 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 |
 | 18 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
-| 19 | [Don't Cry](https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM) | [Don't Cry](https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV) | 3:11 |
-| 20 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
+| 19 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
+| 20 | [Don't Cry](https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM) | [Don't Cry](https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV) | 3:11 |
 | 21 | [Eleanor](https://open.spotify.com/track/4FGIHe2zLB3Y43mPybYdDa) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 5:09 |
 | 22 | [Freefall](https://open.spotify.com/track/0j8FwkrQI4y15CEaO9CzeA) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Freefall](https://open.spotify.com/album/6u7ORvdJdUwg9VTvAy3gtX) | 3:44 |
 | 23 | [If You Like That](https://open.spotify.com/track/39u52p0pgk76Ukq3e0c815) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm) | 4:34 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 |
 
-Snapshot ID: `MCxiYjlmM2JiNDY2YjQ5MjY0NjdkYTkzMjI4ZWE0ZjhlMWZjZjY3MTVk`
+Snapshot ID: `MCwzNzViZjYzZTlmODExNWUzYzk0MTUwNzk0ZjA5MjgxZjFmOTJiN2Ey`

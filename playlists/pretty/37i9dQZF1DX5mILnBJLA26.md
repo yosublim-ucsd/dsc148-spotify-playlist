@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=mEJKKE5VTVeJTI5tH4xu3w">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,630 likes - 52 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,498 likes - 52 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 51 | [Thando](https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Thando](https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx) | 4:50 |
 | 52 | [Valentines \(feat\. Kabza De Small\)](https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Uthingo Le Nkosazana](https://open.spotify.com/album/3uJs8ecQGgEsACraT8ucQ7) | 6:22 |
 
-Snapshot ID: `MCxmNDE2ZDQxNDgxMjRmYTYxZWU2NjUwYmM2Mzg4YmQ2MzhhYjJiNDky`
+Snapshot ID: `MCw2OGQxMmIwNjQ0ZGUzMTU3OTFhM2U2ZTU1MGU0NDNiMThmYWZmM2Yz`

@@ -1,12 +1,12 @@
 {
   "description": "Bollywood crooner's essential songs.",
-  "num_followers": 822838,
+  "num_followers": 823659,
   "original_name": "This Is Arijit Singh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjk0ODc4YjRlYmI5YmFlZTRlY2ZmM2Y2NDVmZmI0NTU3MjkzZjc2",
+  "snapshot_id": "MCw5MjJjM2RiMTY2ODU2NjU0YTY5MjVmZDQ0NmEzMmZhYmIwNDQwYzAz",
   "tracks": [
     {
       "added_at": "2023-08-08 08:08:48",
@@ -91,10 +91,14 @@
     {
       "added_at": "2023-08-08 08:08:48",
       "album": {
-        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
       "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
@@ -108,13 +112,17 @@
           "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
         },
         {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
           "name": "Amitabh Bhattacharya",
           "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 213611,
-      "name": "What Jhumka ?",
-      "url": "https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb"
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
     },
     {
       "added_at": "2023-08-08 08:08:48",

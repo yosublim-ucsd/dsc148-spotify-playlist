@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Helsinki Lambda Club
 
-714 songs - 1 day 20 hr 33 min
+715 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Tonight](https://open.spotify.com/track/6xHQ5Pzxoor8cjQjKgcevB) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Tonight](https://open.spotify.com/album/0IMYcOMmlYhL0QFBekAHdX) | 3:33 | 2023-05-23 | 2023-06-07 |
 | [Too dry to die](https://open.spotify.com/track/06PwDDJ5QSf53DBEX7PuzT) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [Too dry to die](https://open.spotify.com/album/26NOGqdDjsSnXRYNWIsOwN) | 3:58 | 2023-01-12 | 2023-01-25 |
 | [Torch](https://open.spotify.com/track/587DhmH1SuAW6DyfMByWZ7) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [State of Mind](https://open.spotify.com/album/5IlACT0Uw2qjYTgHrK37b0) | 4:55 | 2023-03-28 | 2023-04-05 |
+| [Touching](https://open.spotify.com/track/2uDkbhdKNmlmTTzYJGvqoi) | [Boyish](https://open.spotify.com/artist/4zOMFblFUbK27Smau7ABhD) | [FIELDS](https://open.spotify.com/album/6csud901rv0tlVffyKpOy5) | 3:58 | 2023-08-12 |  |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-21 | 2023-07-05 |
 | [Try it](https://open.spotify.com/track/6uiJDc0yjQ9hBVIpQ0ZZw2) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Try it](https://open.spotify.com/album/3acGxNAVqRP0UCLT0rQpuR) | 3:41 | 2023-01-12 | 2023-02-15 |
 | [U THINK](https://open.spotify.com/track/3sLrzUeK6tiFbqIf3bKu7s) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [BREAK POINT](https://open.spotify.com/album/43T8WbhPCFjtOqrEyB9EgU) | 2:58 | 2023-06-27 | 2023-07-05 |
@@ -684,7 +685,7 @@
 | [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 | 2023-04-04 | 2023-05-30 |
 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 | 2023-05-30 | 2023-06-14 |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-02-01 |
-| [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 |  |
+| [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-13 |
 | [経験](https://open.spotify.com/track/0yu9KcjQ7H3TzCG0nLOFOn) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [経験](https://open.spotify.com/album/3XIBN10g7e3wsL5naIp77z) | 4:20 | 2023-04-20 | 2023-04-22 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2023-03-28 | 2023-08-02 |
 | [聖者](https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [戀愛大全](https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky) | 3:26 | 2023-03-30 | 2023-04-03 |

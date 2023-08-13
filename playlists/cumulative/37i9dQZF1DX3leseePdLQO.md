@@ -4,7 +4,7 @@
 
 > Pop para refrescarte los días, featuring LAGOS.
 
-117 songs - 5 hr 58 min
+118 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2023-04-04 |  |
 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 | 2023-04-21 |  |
 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 | 2023-04-04 |  |
+| [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-08-11 |  |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-04-04 |  |
 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 |  |
 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-09 |  |
@@ -80,7 +81,7 @@
 | [No Quiero Olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [No Quiero Olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 | 2023-08-04 |  |
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-04-04 |  |
 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 | 2023-04-04 |  |
-| [No Te Vayas](https://open.spotify.com/track/4oTiqed4Dp5gMfw0BUF4YD) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 33](https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso) | 3:24 | 2023-08-04 |  |
+| [No Te Vayas](https://open.spotify.com/track/4oTiqed4Dp5gMfw0BUF4YD) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 33](https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso) | 3:24 | 2023-08-04 | 2023-08-13 |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-04-04 |  |
 | [Nochentera \- Remix](https://open.spotify.com/track/2NXqU1inHfNFvbKompOlB3) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Nochentera \- Remix](https://open.spotify.com/album/0qnysHbtmZhGS2aZiPJwk5) | 3:53 | 2023-07-14 |  |
 | [Nubes](https://open.spotify.com/track/5Gbhyq8vK0aO4iogHPcKXX) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Lo Que No Te Dije](https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315) | 2:52 | 2023-05-12 | 2023-06-24 |

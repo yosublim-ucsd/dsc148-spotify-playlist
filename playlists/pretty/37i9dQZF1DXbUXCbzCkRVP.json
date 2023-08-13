@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 36988,
+  "num_followers": 37037,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjBhZmVhNDE4OGZlOTJlMjJhNjBmNGZjZjU4MTNiZWI3N2U2Zjkw",
+  "snapshot_id": "MCxlNjRhMzNiNjE1ZWQ0MTdjNWJjZDg5MmRkODY1NmMyODMxNTI0NTAx",
   "tracks": [
     {
       "added_at": "2023-08-04 12:24:11",
@@ -483,18 +483,22 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Cha Cha The Blues",
-      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+      "duration_ms": 133481,
+      "name": "Blue Dreamer",
+      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -519,26 +523,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Country, Blues & More",
-        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
-      },
-      "artists": [
-        {
-          "name": "Paul Lenart",
-          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
-        },
-        {
-          "name": "Duke Levine",
-          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
-        }
-      ],
-      "duration_ms": 133481,
-      "name": "Blue Dreamer",
-      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 154493,
       "name": "San-Ho-Zay",
       "url": "https://open.spotify.com/track/54tnyfQvFNTCNjhvH540CU"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cha Cha The Blues",
+      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "All Kinds Of Blues",
         "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 246333,
       "name": "Frankie And Johnny Boogie",
       "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2023-08-04 12:24:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-04 12:24:11",
       "album": {
-        "name": "Roll Forward",
-        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
-      },
-      "artists": [
-        {
-          "name": "Ross Hammond",
-          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
-        }
-      ],
-      "duration_ms": 361689,
-      "name": "Easy Does It Blues",
-      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
-    },
-    {
-      "added_at": "2023-08-04 12:24:11",
-      "album": {
         "name": "Screamin' the Blues",
         "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188800,
       "name": "Sweet Ginny",
       "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2023-08-04 12:24:11",
+      "album": {
+        "name": "Roll Forward",
+        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
+      },
+      "artists": [
+        {
+          "name": "Ross Hammond",
+          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
+        }
+      ],
+      "duration_ms": 361689,
+      "name": "Easy Does It Blues",
+      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
     },
     {
       "added_at": "2023-08-04 12:24:11",

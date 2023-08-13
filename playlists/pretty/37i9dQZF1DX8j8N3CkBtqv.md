@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Abhijay Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,124 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,163 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Teri Yaad Mein](https://open.spotify.com/track/2aiFwTLjAPGyqoiOL5AQ0t) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Teri Yaad Mein](https://open.spotify.com/album/3tvaiYj2MUbAcCmgDn6Jku) | 2:40 |
 | 50 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 |
 
-Snapshot ID: `MCw4NjhkNTM5NmNlMThhN2VmMGEzMzNhNDcxNDczYTIzZDU3OGZmNTU1`
+Snapshot ID: `MCxlNGYxNDQ5YzU4NzVmMTgyZjQ0ODJiMGE2MWE5MzE1ODE2OGQ1OTQy`

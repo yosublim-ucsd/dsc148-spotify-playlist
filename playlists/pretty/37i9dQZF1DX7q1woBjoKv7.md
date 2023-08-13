@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et?si=1e43029707cf49e2">Caleborate</a>
+> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM?si=fe31eea36d134f5f">LaRussell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,822 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,838 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 58 | [On My Way \(feat\. Kenyon Dixon\) \- Live](https://open.spotify.com/track/0pbJUFEkn8LIg1ulz32BQ4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Watch The Sun Live: The Mansion Sessions](https://open.spotify.com/album/6iKXvP6UmLpCyfHOjM6TGi) | 4:25 |
 | 59 | [Talk To Me](https://open.spotify.com/track/0ymsXAqP1gCTSpZJmcxHo3) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/0EIevih5nJYCNj9FsXyTgy) | 3:14 |
 
-Snapshot ID: `MCwwNjU3MTk3NDc0MjEzYmNmN2QxMThiNWYyN2Y0YjUxMTcxNDI1MTA0`
+Snapshot ID: `MCxkNTgxNDYyNzhkYzMzNWQ0NTA0ODY1NDVmNzhjYzllYmY2NjViOTBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Sean Leon\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,698 likes - 200 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,783 likes - 200 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 141 | [PHONE DOWN](https://open.spotify.com/track/38iuyBG3Bj4J0Qw9sKMrDn) | [ANDRIELLE](https://open.spotify.com/artist/2jGNYZcCuwa6dNWfVa8hr7) | [PHONE DOWN](https://open.spotify.com/album/6EoPekQd30idDAAi1aEqKa) | 2:55 |
 | 142 | [Astro Travel](https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV) | [Kish](https://open.spotify.com/artist/4Vo0o5cMw8x1cIdbMCzE9L) | [Astro Travel](https://open.spotify.com/album/42VAj34qHpL8CNeiQcfoT1) | 2:43 |
 | 143 | [Heaven](https://open.spotify.com/track/6sw7U2DkWE6PpyrJwA7T51) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [Color](https://open.spotify.com/album/1qyXEiOlyQkLOXsclicMYN) | 2:58 |
-| 144 | [OF US](https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/13KbkH5IT1BK3UP46s1lVe) | 2:24 |
+| 144 | [OF US \(Sped Up\)](https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US \(Sped Up\)](https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3) | 2:24 |
 | 145 | [N@STY](https://open.spotify.com/track/4gakvfER14bHLM7IkBpwsn) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:16 |
 | 146 | [No Pussy For Losers](https://open.spotify.com/track/3kh99WWzbxxl4OOKNzGI0Q) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [No Pussy For Losers](https://open.spotify.com/album/7wE4Cw0xiprtBBk4k8rYs8) | 2:57 |
 | 147 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [787](https://open.spotify.com/track/2xlspjY2EDUBuPc7qVLY74) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [787](https://open.spotify.com/album/70jmIcCLlaaPqiMZcAsMyG) | 2:49 |
 | 200 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 |
 
-Snapshot ID: `MCwwMGQ0M2Y4ZTM2MDdhYjQ0YjI1MTk1MzM1MTJhNWNjZjgxYzY2NmM1`
+Snapshot ID: `MCwzODA4Y2I1YmY1ZDUyODNlYmRmNzI4NTY3Y2Y2NDllYjdhMDcxNTli`

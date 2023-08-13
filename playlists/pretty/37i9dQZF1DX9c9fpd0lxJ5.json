@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 455138,
+  "num_followers": 455177,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWJkNmQzZWVkMjA3MjA4MmYxMGM4YTU0N2E5MTdkYjlkMzAyOGY3",
+  "snapshot_id": "MCw0M2Q1MmNkOWVlZTIwNWZmODQ2MmQxOWU3ZjIwNDI3MjM5YWJiNzBi",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Capul\u00ed",
         "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 163423,
       "name": "Marte",
       "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1163,6 +1163,34 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Me Haces Bien",
+        "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        }
+      ],
+      "duration_ms": 207499,
+      "name": "Me Haces Bien",
+      "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1195,22 +1223,6 @@
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1251,30 +1263,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Me Haces Bien",
-        "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        },
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Castellano",
-          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 207499,
-      "name": "Me Haces Bien",
-      "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Estereomance",
-        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
-      },
-      "artists": [
-        {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "Dung Ding Dang",
-      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Enloqueciendo",
         "url": "https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Estereomance",
+        "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "Dung Ding Dang",
+      "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Hasta Que",
         "url": "https://open.spotify.com/album/5CfItgvcqP5EQkbDnzeZ6s"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 193933,
       "name": "Hasta Que",
       "url": "https://open.spotify.com/track/5XMjWyEq3MJXQX80jj24yM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Nawebona",
-        "url": "https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw"
-      },
-      "artists": [
-        {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
-        },
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 195853,
-      "name": "Nawebona",
-      "url": "https://open.spotify.com/track/699gDcpwPjEIySd499EG7s"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 202500,
       "name": "\u00bfPa Qu\u00e9?",
       "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Nawebona",
+        "url": "https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "Nawebona",
+      "url": "https://open.spotify.com/track/699gDcpwPjEIySd499EG7s"
     },
     {
       "added_at": "2023-08-04 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,310 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,320 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 24 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |
 | 25 | [La Canción y el Poema \(Morir de Amor\)](https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 3:17 |
 | 26 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
-| 27 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
-| 28 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
+| 27 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
+| 28 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 29 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
 | 30 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 | 31 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Caserón de Tejas \(feat\. Jorge Calandrelli\)](https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:10 |
 | 55 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 
-Snapshot ID: `MCw5MTM4MGFhNTI4YTVhNGU2MDJiMTMwM2U3ZGIyMDA4ZjJkZThlMDYx`
+Snapshot ID: `MCw3NWMyMzA3YTVhNDk0YTJjYWQ3ODZlMzZjZDQ1MjMxY2E3MjFhMzRm`

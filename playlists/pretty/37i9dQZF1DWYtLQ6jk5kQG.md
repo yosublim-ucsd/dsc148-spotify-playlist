@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,602 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,861 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 34 | [Uno de Tantos \(Uno Dei Tanti\)](https://open.spotify.com/track/0pfZCtCDHwLqKShDp4uDsZ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [15 Exitos De Enrique Guzman Vol\. ll](https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y) | 3:40 |
 | 35 | [Bésame Mucho](https://open.spotify.com/track/2neFW5nfgUrRxonX7oW8Fr) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Pedro Vargas En El Carnegie Hall](https://open.spotify.com/album/5jvBrYHrtUggTCPNMdtvnt) | 2:49 |
 | 36 | [Amor de Mis Amores](https://open.spotify.com/track/6ykbMeaYP0fcADEFAn65Y9) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Cada Noche Un Amor](https://open.spotify.com/album/3mqlr428rzRpER555YbBJN) | 3:04 |
-| 37 | [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
+| 37 | [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 |
 | 38 | [Amigo](https://open.spotify.com/track/24Thqkee9KZgifP7G8c70N) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Línea Azul \- Vol IV \- Amigo](https://open.spotify.com/album/5rvgKyUOHvy6tTwv5hUTdJ) | 3:31 |
 | 39 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
 | 40 | [Estar enamorado](https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 4:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 | 74 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 75 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
 
-Snapshot ID: `MCxlNWU5MTMyODA3MjVkNmYwNzU0ZjA0MDRhMDFiMTUzODlhMTQyMzAy`
+Snapshot ID: `MCxkNjJlYWVhNDhlZWViZDkxOWRhY2ZjN2EwMmQ3YjJmMmY2ZGFjZDVm`

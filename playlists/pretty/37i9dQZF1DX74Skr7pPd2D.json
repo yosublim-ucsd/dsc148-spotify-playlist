@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40041,
+  "num_followers": 40051,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTQ1NTZiYTU3NzcxOTU5MWU0ZmQ3ZDcwZGFlNDE4OWIxNGE2OWNh",
+  "snapshot_id": "MCw4Y2E3MjIyMmI4YzFiZGY0MjYxYzA1NGJhY2RiZDM0M2NkYTRhNDAz",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -839,22 +839,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "An Image: Lee Konitz With Strings",
-        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 319666,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Buddy And Sweets",
         "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 244706,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Soul Sauce",
         "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 147266,
       "name": "Soul Sauce",
       "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -955,6 +923,22 @@
       "duration_ms": 368000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -993,22 +977,6 @@
       "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Movin' Wes",
-        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Movin' Wes - Pt. 1",
-      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -1027,6 +995,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Blues Caravan",
         "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 189346,
       "name": "BR Blues",
       "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 333800,
-      "name": "Moonlight (Claro de Luna)",
-      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Lester Swings",
         "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 153600,
       "name": "Lester Swings",
       "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 333800,
+      "name": "Moonlight (Claro de Luna)",
+      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Fred Astaire Sings & Swings Irving Berlin",
-        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 338826,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Giblet Gravy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 332733,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Fred Astaire Sings & Swings Irving Berlin",
+        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 338826,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 280053,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Flip Wails: The Best Of The Verve Years",
         "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 179600,
       "name": "Singin' In The Rain",
       "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 280053,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1563,22 +1563,6 @@
       "duration_ms": 237053,
       "name": "You're A Sweetheart",
       "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Lullaby In Rhythm",
-      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1661,6 +1645,22 @@
       "url": "https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Lullaby In Rhythm",
+      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Audience With Betty Carter (Live)",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
         "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 343893,
       "name": "I Still Love Him So",
       "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
     }
   ],
   "unique_name": "Legendary Labels: Verve Records",

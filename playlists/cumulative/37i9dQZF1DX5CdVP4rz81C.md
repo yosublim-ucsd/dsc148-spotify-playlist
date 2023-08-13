@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-1,417 songs - 3 day 2 hr 12 min
+1,418 songs - 3 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,7 +936,8 @@
 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 | 2020-10-13\* | 2020-11-05 |
 | [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-19 | 2023-07-03 |
 | [okay](https://open.spotify.com/track/3DJLO9LSpjGjbb3mVr6rbe) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Kids Table](https://open.spotify.com/album/3HD4WElDaFq88hVyDATf2I) | 3:19 | 2022-08-19 | 2022-10-01 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 |  |
 | [Old Insecurities](https://open.spotify.com/track/3JRCle6ESV3KCRNaD7ajDu) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Old Insecurities](https://open.spotify.com/album/4QPmdSjskG1dugYEu45z0F) | 3:21 | 2021-04-24 | 2021-06-12 |
 | [Old Love](https://open.spotify.com/track/3zp73VDprxEz5IWLEE3bUa) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Old Love](https://open.spotify.com/album/4lM01Bs0rujCmxRIkiEczo) | 2:57 | 2020-11-20 | 2021-01-15 |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2021-09-18 | 2022-06-30 |

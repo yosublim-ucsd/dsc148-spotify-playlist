@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-396 songs - 21 hr 16 min
+397 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-03-03 | 2023-05-27 |
 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 | 2022-09-02 | 2023-03-04 |
 | [Rainbow Tears](https://open.spotify.com/track/61cuhk02W7Nd72FhAvBmJI) | [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Rainbow Tears](https://open.spotify.com/album/26DOC6q64fqWFgwR3QJNt8) | 4:05 | 2022-05-06 | 2022-07-23 |
-| [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 | 2022-05-06 |  |
+| [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Rampage \(Free Fire Rampage Theme Song\)](https://open.spotify.com/album/4nTGQqcsqWjwt2dpUEOrUb) | 2:39 | 2022-05-06 | 2023-08-13 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2022-07-14 | 2023-07-19 |
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-05-06 |  |
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-10-07 | 2023-07-19 |
@@ -388,6 +388,7 @@
 | [When A Champion Falls](https://open.spotify.com/track/4kDZlKBNDgUCMKXui3ZGhL) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR) | [When A Champion Falls](https://open.spotify.com/album/7bZGff0Ak3WYpInUoD4LbW) | 4:05 | 2022-05-06 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-24 | 2022-07-25 |
 | [When The Summer Dies](https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [When The Summer Dies](https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK) | 5:29 | 2022-07-14 | 2022-10-13 |
+| [When The Summer Dies](https://open.spotify.com/track/1Lgvs8WzpPbT5VuUFIAJwt) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [When The Summer Dies](https://open.spotify.com/album/7LasafuTdmSWgVvC1Zweum) | 5:29 | 2023-08-11 |  |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-07-18 |  |
 | [Where You Are \- Zedd Remix](https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Where You Are \(Zedd Remix\)](https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B) | 3:04 | 2023-08-01 |  |
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2022-07-14 | 2023-07-19 |

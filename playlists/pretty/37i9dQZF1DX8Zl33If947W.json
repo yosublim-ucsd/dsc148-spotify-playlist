@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 138924,
+  "num_followers": 139042,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw",
+  "snapshot_id": "MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mailbox",
-        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "mailbox",
-      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Endorphine",
         "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
       },
@@ -323,6 +303,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "30-11-80",
         "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
       },
@@ -339,18 +335,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+        "name": "Mailbox",
+        "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
       "artists": [
         {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+      "duration_ms": 174500,
+      "name": "mailbox",
+      "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Muttersprache (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Connor",
-          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Wie sch\u00f6n du bist",
-      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Schlagschatten",
         "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 207751,
       "name": "Vielleicht Vielleicht",
       "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Muttersprache (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Wie sch\u00f6n du bist",
+      "url": "https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220173,
       "name": "Nur getr\u00e4umt",
       "url": "https://open.spotify.com/track/27DEhFC0G2olRFgCTksnfw"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2023-03-06 08:21:00",

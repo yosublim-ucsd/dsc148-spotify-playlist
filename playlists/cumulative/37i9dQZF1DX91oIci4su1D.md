@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-726 songs - 1 day 20 hr 12 min
+727 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [The Purpose Is You](https://open.spotify.com/track/0A2CCIN1vmLwySJgmH8RXi) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [The Purpose Is You](https://open.spotify.com/album/37ZYpN6VlvKlQClHxYZHtC) | 4:28 | 2021-12-17 | 2023-01-14 |
 | [The Sermon](https://open.spotify.com/track/7LGzutkISUMIrN4txTvYkg) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [The Sermon](https://open.spotify.com/album/6ZzZiPsh651XKEGgPGYKlS) | 3:54 | 2022-07-22 | 2023-05-20 |
 | [The Source of Harmony \(FYH 350 Anthem\)](https://open.spotify.com/track/1V4zpJOvZJ4xap4iPrzFNB) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [The Source of Harmony \(FYH 350 Anthem\)](https://open.spotify.com/album/4IskRlDi5nv1zrDgNvL9Lf) | 3:46 | 2023-04-21 |  |
+| [The Void](https://open.spotify.com/track/4UiwWCmcwV0gbY9RqIQEgN) | [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [The Void](https://open.spotify.com/album/5zrMuPK7Z8qnG0KHYqRyVr) | 2:34 | 2023-08-11 |  |
 | [The Wave](https://open.spotify.com/track/4LqFGYtqOm4Jf6BDedewBq) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [The Wave](https://open.spotify.com/album/6ULWukeV1aKc2B1hUpJ3bt) | 3:35 | 2022-06-17 | 2022-06-22 |
 | [The Way It Goes](https://open.spotify.com/track/3O1YUsg20oMgQtoLautPwM) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [The Way It Goes](https://open.spotify.com/album/1y5ccrwPC7GMb9Qw7zR8Fm) | 3:47 | 2023-07-14 |  |
 | [The Wind in Your Face](https://open.spotify.com/track/4RERO3pHGa0M48863ndJB9) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [The Wind in Your Face](https://open.spotify.com/album/7s7TIvQnePhDTy8wmozDFg) | 4:06 | 2021-12-17 | 2022-07-29 |
@@ -658,7 +659,7 @@
 | [This Is Real \- Christopher Corrigan Remix](https://open.spotify.com/track/1rxfxybkU2MH5FPqE7UNqs) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8) | [This Is Real \(Christopher Corrigan Remix\)](https://open.spotify.com/album/3MvFKWuD9UdN5MmOFwxb2v) | 4:25 | 2023-06-09 |  |
 | [Thunderstorm](https://open.spotify.com/track/1W7IB819HPkn1wder2Yq15) | [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [Thunderstorm](https://open.spotify.com/album/5yjnMWHueuTWmPj3B6GBKT) | 3:59 | 2022-04-22 | 2022-05-14 |
 | [Tiger](https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Tiger](https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg) | 3:19 | 2022-01-21 | 2022-07-26 |
-| [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 |  |
+| [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 | 2023-08-13 |
 | [Time](https://open.spotify.com/track/1yFexL3PgnFKXtDF29Hmax) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Time](https://open.spotify.com/album/6BuCGdSlBbvyxs4MEL60zK) | 4:55 | 2023-08-04 |  |
 | [Time After Time](https://open.spotify.com/track/7HnozJfCXo4H21kZNRYv5V) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Time After Time](https://open.spotify.com/album/1Wk9LOhvSz6RQ0Cq8pcnyW) | 2:49 | 2023-01-13 |  |
 | [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 | 2023-07-21 |  |

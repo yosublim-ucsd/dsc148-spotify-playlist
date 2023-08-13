@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Fred again.\. and Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,596 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,602 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 75 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
 
-Snapshot ID: `MCwyMzM5MDAwYzAxZmQ4OWQ4NGYxM2UyNDc2NDY3OTU2OGMxZTUwOTRk`
+Snapshot ID: `MCwyZWI5ZTc0ODIwNjJhMzlhNjA5ZDJlOGU5M2VlNzgxZWVlYWRhY2Uy`

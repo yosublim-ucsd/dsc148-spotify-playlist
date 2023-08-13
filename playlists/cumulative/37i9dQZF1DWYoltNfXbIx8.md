@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-108 songs - 10 hr 25 min
+109 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Saudades Mil](https://open.spotify.com/track/79zU8jvVMf5GEvpFqBF1Ya) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Provérbios 13](https://open.spotify.com/album/57PrguDb7kufweSs0PyAwT) | 8:46 | 2022-02-25 | 2022-07-29 |
 | [Saudades Mil](https://open.spotify.com/track/1apGGQByi4X8wWlqdBnwvZ) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Rap \- Edição Especial](https://open.spotify.com/album/05MN7GfN3uNl2iZv15DXPN) | 8:46 | 2022-02-25 | 2022-11-13 |
 | [Saudades Mil](https://open.spotify.com/track/1hB4340DP1nnBmfWn37uTN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 8:46 | 2022-02-25 |  |
-| [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 | 2022-02-25 |  |
+| [Se O Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/6jby7YbF4SBR93sMCi1To8) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz) | [Retrospectiva](https://open.spotify.com/album/0RVeLforeHn6YSc8wCT86E) | 5:34 | 2022-12-02 |  |
+| [Se o Mundo Inteiro Pudesse Me Ouvir](https://open.spotify.com/track/4pEi1lS6zX3MSsMUH1BBwz) | [Filosofia de Rua](https://open.spotify.com/artist/7rwCXuDiu5DR1oLOmTBOLz), [Adriana Lessa](https://open.spotify.com/artist/0rYHFYy1sEUIRLg8vaoIim) | [Valeu a Experiência](https://open.spotify.com/album/5aQEUX7xQXEiBVRjyc5I8v) | 5:36 | 2022-02-25 | 2023-08-13 |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/1J4tWt31G0Klu7R6pMb3Nl) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Hip Hop \- Rap](https://open.spotify.com/album/0J4Q8MK2zce9EFgMdIgulZ) | 6:23 | 2022-02-25 | 2022-07-29 |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/66073TiPtbCattnpSkyuKq) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/album/0VmL8hxCqd5PwaxybyPASP) | 6:23 | 2022-02-25 |  |
 | [Se Tu Lutas Tu Conquistas](https://open.spotify.com/track/7E3mRwZRKczueVE7tUJkZv) | [Somos Nós A Justiça](https://open.spotify.com/artist/4hPSDG97FxGlqYvKPU6b1B) | [Hip Hop \- Rap](https://open.spotify.com/album/6amf30HfWUp6yF3aHjv2jE) | 6:23 | 2022-02-25 | 2022-11-13 |

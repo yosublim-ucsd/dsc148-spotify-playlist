@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Hives
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,218 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,356 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 6 | [Novocaine](https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:54 |
 | 7 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
 | 8 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 |
-| 9 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 9 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 10 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 |
 | 11 | [Run The World](https://open.spotify.com/track/5k5lnc4JZJ5WNGJTtnalfi) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Never Stood A Chance](https://open.spotify.com/album/54ysYDd2EN8EaMQUxS1ZcF) | 2:12 |
 | 12 | [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 64 | [Chemicals](https://open.spotify.com/track/3cCyVW5cIxc6DoZPvK8nWe) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Chemicals](https://open.spotify.com/album/0AxaNm78afsotACJJEtItX) | 3:17 |
 | 65 | [MEGAPHONE MOUTH](https://open.spotify.com/track/2G4PCGT78ZOVFZlpy4E6XM) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [MEGAPHONE MOUTH](https://open.spotify.com/album/1zKC4TgOWV32itGtbX8xDQ) | 2:06 |
 
-Snapshot ID: `MCxlOGY3YzI2NmI0OGVjNGJhYzFkNjdmZTI2Yzk4ZWUwYzczYWRjN2Nl`
+Snapshot ID: `MCxmZWMxYzM1MTdlNDJhMjI5NmRkM2YyNWM4NTdiYjAxMGIzZGQ0NGYw`

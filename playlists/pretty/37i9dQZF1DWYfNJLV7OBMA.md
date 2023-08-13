@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \-  Anushka Udana
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,075 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,121 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Nango](https://open.spotify.com/track/3zsdyk0mlvInZBcG8yoqWY) | [Chanuka Mora](https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl), [Harinie](https://open.spotify.com/artist/6rbw8DyPPoJplhz9fCpFWz) | [Nango](https://open.spotify.com/album/6Cx8GxB1WjbpJESJKjcaHX) | 3:19 |
 | 100 | [Peradaa](https://open.spotify.com/track/4OJnLf2MPlo1SbaLPAeoCq) | [Udara Samaraweera](https://open.spotify.com/artist/5bJVhEZyYJ17uQ8NSgbkcM), [Nadeesha Dayarathna](https://open.spotify.com/artist/18Y9unXLmFWMO8Ep5rruZT) | [Peradaa](https://open.spotify.com/album/76SNCUb6bk2bu3ZorWkHPz) | 3:23 |
 
-Snapshot ID: `MCxjNmI4M2QxN2E5Y2MzNWViMDVlYTU4YWE3NmEyMjQ3MzFiZTU0YjMy`
+Snapshot ID: `MCwyYTU5MTc3Y2U1MjIyNDI5NDM3MjMyODUxYjcwYjA3MWIyNzE5YjA3`

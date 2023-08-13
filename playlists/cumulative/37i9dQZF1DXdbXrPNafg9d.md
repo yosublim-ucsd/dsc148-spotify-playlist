@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Hot Chip x Yunè Pinku
 
-5,689 songs - 13 day 20 hr 48 min
+5,690 songs - 13 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2216,6 +2216,7 @@
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-21 | 2023-06-03 |
 | [High Priestess](https://open.spotify.com/track/5SiznYWcgL8nfDNwoDdJa8) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [High Priestess](https://open.spotify.com/album/0HzNnOls6EoSgMtbzLIGB8) | 3:13 | 2022-05-20 | 2022-06-26 |
 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-08-05 | 2022-09-24 |
+| [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-11 |  |
 | [Highway](https://open.spotify.com/track/5Y5Poj7qMpNSOX9L0c2gup) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Highway](https://open.spotify.com/album/2ncXtuMWMcC2c1UhJp7OmS) | 3:03 | 2023-06-23 | 2023-07-22 |
 | [Highway](https://open.spotify.com/track/5GhNwJqiRvHRgOSEsfNsKD) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Highway](https://open.spotify.com/album/3A4pmO23vmg1fbFpnbcSgk) | 2:32 | 2020-07-31 | 2020-09-04 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-05-28 |
@@ -4311,7 +4312,7 @@
 | [shoulda coulda woulda \(feat\. Deem Spencer & Torii Wolf\)](https://open.spotify.com/track/2z7FdYHNDoXpoxrc7BZ0qt) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz), [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [shoulda coulda woulda \(feat\. Deem Spencer & Torii Wolf\)](https://open.spotify.com/album/7Kj3JXTa2bYBQa96H4D4gh) | 2:37 | 2021-01-23 | 2021-03-14 |
 | [ShoulderBlades](https://open.spotify.com/track/3wpqJnWQWl4bY4BtMWTbtk) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [ShoulderBlades](https://open.spotify.com/album/3BTJdS4xG8Pah4MkBJEukW) | 2:29 | 2023-01-20 | 2023-02-25 |
 | [show me the world](https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [drama](https://open.spotify.com/album/5UG9KN0cHdMNLvLQI3OxLd) | 3:43 | 2022-12-09 | 2023-02-11 |
-| [show me what I’m missing](https://open.spotify.com/track/6rHWwbh2swzbI49ToX8dgb) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [show me what I’m missing](https://open.spotify.com/album/2UDm6A3I5Jn5aLzvPowhI2) | 3:09 | 2023-08-11 |  |
+| [show me what i’m missing](https://open.spotify.com/track/6rHWwbh2swzbI49ToX8dgb) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [show me what i’m missing](https://open.spotify.com/album/2UDm6A3I5Jn5aLzvPowhI2) | 3:09 | 2023-08-11 |  |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-28 | 2021-10-16 |
 | [Show Up](https://open.spotify.com/track/6ouWFK1glsWeCC5C0uw2KR) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/2eCZIIngA9bPYRUoKxd29z) | 3:21 | 2021-06-05 | 2021-07-17 |
 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 | 2022-07-15 | 2022-08-20 |

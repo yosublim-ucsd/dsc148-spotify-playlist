@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 316434,
+  "num_followers": 316470,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTdjYjBhOTZkMjZlNmNiMTU5YjdjYmQwYjU1NWNkMDUxYmE3YzMx",
+  "snapshot_id": "MCw2NWU3MTVlMzExMTFkNDNhZDgwMTViYjdiYmJhMWZmNDA5ZjE0YzRh",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -227,22 +243,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -255,26 +255,6 @@
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -351,6 +331,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -363,6 +359,26 @@
       "duration_ms": 165560,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -383,42 +399,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Los D\u00fao (Deluxe)",
-        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -431,6 +411,22 @@
       "duration_ms": 218120,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -471,18 +467,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+        "name": "Los D\u00fao (Deluxe)",
+        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 278800,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -870,11 +870,15 @@
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Filippa Giordano",
+          "url": "https://open.spotify.com/artist/40f4c3LvZNQAjn487No6K4"
         }
       ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+      "duration_ms": 229469,
+      "name": "Perd\u00f3name, Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1014,15 +1018,11 @@
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Filippa Giordano",
-          "url": "https://open.spotify.com/artist/40f4c3LvZNQAjn487No6K4"
         }
       ],
-      "duration_ms": 229469,
-      "name": "Perd\u00f3name, Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3"
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1566,11 +1566,15 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 311216,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1582,15 +1586,11 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        },
-        {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
+      "duration_ms": 311216,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
     },
     {
       "added_at": "2023-05-05 18:26:22",

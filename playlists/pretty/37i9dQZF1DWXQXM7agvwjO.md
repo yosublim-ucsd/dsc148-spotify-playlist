@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: No Rome
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,695 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,761 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 69 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 | 70 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 |
 | 71 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
-| 72 | [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 |
+| 72 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 |
 | 73 | [để quên](https://open.spotify.com/track/4rPrBNnDgdZpS5gosHv0yr) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [để quên](https://open.spotify.com/album/7iMtteNjEshW8vTYxD7py2) | 2:50 |
 | 74 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 75 | [Tsuki \- พระจันทร์](https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Tsuki \(พระจันทร์\)](https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x) | 3:36 |
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 78 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 79 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 80 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
-| 81 | [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 |
-| 82 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 |
-| 83 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
+| 81 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 |
+| 82 | [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 |
+| 83 | [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 |
 | 84 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 |
 | 85 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 |
 | 86 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 87 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 |
-| 88 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
-| 89 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
-| 90 | [How Are You](https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [How Are You](https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO) | 4:35 |
-| 91 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 |
-| 92 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
+| 88 | [How Are You](https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [How Are You](https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO) | 4:35 |
+| 89 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
+| 90 | [คนเดียวกัน \(You?\)](https://open.spotify.com/track/2Cm88ZmLpkDQaYHZEjPWv0) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [คนเดียวกัน \(You?\)](https://open.spotify.com/album/2hlF4yvrAXDUGPaL1P2qFa) | 4:01 |
+| 91 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 |
+| 92 | [berkelana dalam ruang dan mimpi](https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [berkelana dalam ruang dan mimpi](https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4) | 2:36 |
 | 93 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 94 | [berkelana dalam ruang dan mimpi](https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [berkelana dalam ruang dan mimpi](https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4) | 2:36 |
+| 94 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 |
 | 95 | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV) | 2:20 |
-| 96 | [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 |
-| 97 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 |
-| 98 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
+| 96 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
+| 97 | [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 |
+| 98 | [NWYK](https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [NWYK](https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf) | 2:13 |
 | 99 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 |
 | 100 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
 
-Snapshot ID: `MCw4NDliZmE3NzcwNDVlYTBmYjg0MjUxMDBkMzgzYTE4MDVlMjMwZmNm`
+Snapshot ID: `MCw1ZWY1NDM2OTc1Yjk4ZTFlMDM0ZjE5ZDkxMTBiNWQ5MjIxMjJlNmJh`

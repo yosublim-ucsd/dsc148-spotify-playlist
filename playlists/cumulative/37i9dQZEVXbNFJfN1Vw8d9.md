@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-753 songs - 1 day 17 hr 5 min
+755 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-01-26 |  |
 | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/track/4JC18crxRPZOuTqBfXKFIR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD: Bzrp Music Sessions, Vol\. 44](https://open.spotify.com/album/2r7IVQiJULrFYTN195Dtwo) | 2:53 | 2021-09-18 | 2021-09-30 |
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-25 | 2023-05-21 |
+| [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-12 |  |
 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 | 2023-04-22 | 2023-04-24 |
 | [Mi Lova](https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Mi Lova](https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV) | 3:40 | 2023-07-08 |  |
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2022-02-08 | 2022-10-25 |
@@ -599,7 +600,8 @@
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-07-20 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-06 | 2022-06-08 |
 | [RÁPIDO](https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [RÁPIDO](https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe) | 3:02 | 2023-04-29 | 2023-05-24 |
-| [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-15 |  |
+| [S91](https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:53 | 2023-08-12 |  |
+| [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-15 | 2023-08-13 |
 | [Sabe](https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:57 | 2021-10-31 | 2021-12-04 |
 | [SAKURA](https://open.spotify.com/track/15pRGUlhmCxtewBs42ui1N) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:21 | 2022-03-20 | 2022-03-25 |
 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 | 2021-05-08 | 2021-08-05 |
@@ -716,7 +718,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-07-03 |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-03-25 | 2023-04-30 |
 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 | 2021-09-08 | 2021-12-01 |
-| [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-05 |  |
+| [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-05 | 2023-08-13 |
 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 | 2021-03-27\* | 2021-04-05 |
 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2021-03-27\* | 2021-07-21 |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2023-03-07 | 2023-03-30 |

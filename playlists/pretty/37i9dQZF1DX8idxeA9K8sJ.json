@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 918978,
+  "num_followers": 919098,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGVmYWZkMGM5ZjI4NTliZjI2ZTc0YTVkMDhmNjI2M2ZiYTRkZTA4",
+  "snapshot_id": "MCw1M2VmMDNhNGU5ZGZhZjhhMzg2ZDBmYjcyNjU4NTEzY2IzNjA5ZmQ5",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -181,7 +181,7 @@
         }
       ],
       "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 201040,
       "name": "\u00a1Ay Amor!",
       "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -765,7 +765,7 @@
         }
       ],
       "duration_ms": 211000,
-      "name": "Qu\u00e9 pasar\u00e1 ma\u00f1ana",
+      "name": "\u00bfQu\u00e9 Pasar\u00e1 Ma\u00f1ana?",
       "url": "https://open.spotify.com/track/588L3T9VgPngwtXUiFWnf6"
     },
     {
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+        "name": "Que Nada Nos Separe",
+        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+      "duration_ms": 267000,
+      "name": "No Hace Falta",
+      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Que Nada Nos Separe",
-        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 267000,
-      "name": "No Hace Falta",
-      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 266013,
       "name": "Yo No Nac\u00ed para Amar",
       "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Celebridades- Daniela Romo",
-        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Yo No Te Pido La Luna",
-      "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1615,18 +1599,34 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
       "artists": [
         {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Mi Ag\u00fcita Amarilla",
-      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+      "duration_ms": 231440,
+      "name": "Yo No Te Pido La Luna",
+      "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
     }
   ],
   "unique_name": "Los 80 M\u00e9xico",

@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 33727,
+  "num_followers": 33815,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDk3NmM3ZTBmMjdmZDRmMmJiZmFmNjhjODMxOTg1MWZiZjFiZmVm",
+  "snapshot_id": "MCw2ZTg5YmE0MTAzM2JjNDFmY2Q4NzEzY2I3NWJiY2IzN2JjYzBlZTVi",
   "tracks": [
     {
       "added_at": "2023-06-16 14:02:21",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 165066,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "The Iron Pot Cooker",
         "url": "https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253574,
       "name": "Take Yo' Praise",
       "url": "https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
         "name": "Got To Be Good",
         "url": "https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
     },
     {
       "added_at": "2023-06-16 14:02:21",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-16 14:02:21",
       "album": {
-        "name": "The Sweetest Peaches [Part One (1940-1966)]",
-        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
-    },
-    {
-      "added_at": "2023-06-16 14:02:21",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 249926,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6"
+    },
+    {
+      "added_at": "2023-06-16 14:02:21",
+      "album": {
+        "name": "The Sweetest Peaches [Part One (1940-1966)]",
+        "url": "https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
     },
     {
       "added_at": "2023-06-16 14:02:21",

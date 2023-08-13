@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 374020,
+  "num_followers": 374293,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjFjZDVmYWQwYTQ0MmYyMDVlZjI2ZmE5M2ViOTI5NTk1OWE1Nzgy",
+  "snapshot_id": "MCxiZjQxZTFkOGFlNDMwMTMxNjk1MjZiYWU1NjUyNjg5M2E4N2I4Yzk3",
   "tracks": [
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
+        "name": "happy im",
+        "url": "https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "happy im",
+      "url": "https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "Mouth Flash (Kuchinohanabi)",
-        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Mouth Flash (Kuchinohanabi)",
-      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1139,6 +1139,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "Mouth Flash (Kuchinohanabi)",
+        "url": "https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Mouth Flash (Kuchinohanabi)",
+      "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Intro",
-        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "how many times",
-      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "how many times",
+      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
-      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
         "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
         "url": "https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+        "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
+      "url": "https://open.spotify.com/track/3wMYas4SVVxlBd7tgSeh2O"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1675,8 +1691,8 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ"
+        "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
+        "url": "https://open.spotify.com/album/4I1YDrFEUJO6l0Oy3jsgcR"
       },
       "artists": [
         {
@@ -1686,11 +1702,15 @@
         {
           "name": "\u3072\u304b\u308a",
           "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        },
+        {
+          "name": "MELRAW",
+          "url": "https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N"
         }
       ],
-      "duration_ms": 255853,
-      "name": "Make-up Shadow (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3"
+      "duration_ms": 285306,
+      "name": "\u63a5\u543b (feat. \u3072\u304b\u308a & MELRAW)",
+      "url": "https://open.spotify.com/track/3VV4tTyh2wm5e1f3iz7qGR"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1711,22 +1731,18 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Mo ai ni",
-        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+        "name": "nestling",
+        "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
       },
       "artists": [
         {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        },
-        {
-          "name": "\u77f3\u73ba\u5f64",
-          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 178673,
-      "name": "Mo ai ni",
-      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+      "duration_ms": 227122,
+      "name": "nestling",
+      "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1751,26 +1767,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/6dxnxwVjewZUp8K967BUaq"
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
       },
       "artists": [
         {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         },
         {
-          "name": "ILL-BOSSTINO",
-          "url": "https://open.spotify.com/artist/5jhQeriKleBz95HuKGNcbO"
-        },
-        {
-          "name": "5lack",
-          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
         }
       ],
-      "duration_ms": 247849,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7IY2Ro6XnoIAtr5bLuoCJD"
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1787,22 +1799,6 @@
       "duration_ms": 206986,
       "name": "Clockwise",
       "url": "https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "nestling",
-        "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 227122,
-      "name": "nestling",
-      "url": "https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y"
     }
   ],
   "unique_name": "Tokyo Rising",

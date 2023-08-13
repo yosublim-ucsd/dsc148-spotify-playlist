@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 9293,
+  "num_followers": 9308,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
+  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Scars In Heaven",
+        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Just Sing!",
         "url": "https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 457853,
       "name": "Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need",
       "url": "https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Scars In Heaven",
-        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
-      },
-      "artists": [
-        {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Scars In Heaven",
-      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Great Is His Faithfulness",
-        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
-      },
-      "artists": [
-        {
-          "name": "The Collingsworth Family",
-          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
-        },
-        {
-          "name": "Olivia Collingsworth",
-          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Great Is His Faithfulness",
-      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Pray Now",
         "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 225773,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Great Is His Faithfulness",
+        "url": "https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt"
+      },
+      "artists": [
+        {
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        },
+        {
+          "name": "Olivia Collingsworth",
+          "url": "https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Great Is His Faithfulness",
+      "url": "https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "2: 22",
         "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 194198,
       "name": "Future Glory",
       "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Come and Dine",
-        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
+        "name": "Brighten The Corner Where You Are (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
       "artists": [
         {
-          "name": "William Lee Golden and The Goldens",
-          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
         }
       ],
-      "duration_ms": 149213,
-      "name": "Come and Dine",
-      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
+      "duration_ms": 149545,
+      "name": "Brighten The Corner Where You Are - Radio Edit",
+      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Brighten The Corner Where You Are (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+        "name": "Come and Dine",
+        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
       },
       "artists": [
         {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+          "name": "William Lee Golden and The Goldens",
+          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
         }
       ],
-      "duration_ms": 149545,
-      "name": "Brighten The Corner Where You Are - Radio Edit",
-      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+      "duration_ms": 149213,
+      "name": "Come and Dine",
+      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Give Me Jesus",
-        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
       },
       "artists": [
         {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+          "name": "Wisecarvers",
+          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Give Me Jesus",
-      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
+      "duration_ms": 219867,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1083,18 +1083,34 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz"
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
       "artists": [
         {
-          "name": "Wisecarvers",
-          "url": "https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 219867,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK"
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Give Me Jesus",
+        "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Heritage, Vol. 3",
         "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "My Name Is Victory",
         "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 202710,
       "name": "The Spirit and the Bride",
       "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good The Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
         }
       ],
-      "duration_ms": 202000,
-      "name": "How Good The Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "How Good The Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "How Good The Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Sings Greatest Country Gospel Hits",
         "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 157500,
       "name": "Pass Me Not Oh Gentle Saviour",
       "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 222064,
-      "name": "I Bring You Jesus",
-      "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1308,7 +1308,7 @@
       "added_at": "2023-04-14 06:27:38",
       "album": {
         "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+        "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
         }
       ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+      "duration_ms": 222064,
+      "name": "I Bring You Jesus",
+      "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
     }
   ],
   "unique_name": "Streets Of Gold",

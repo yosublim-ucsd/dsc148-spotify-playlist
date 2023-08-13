@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 2675,
+  "num_followers": 2677,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg2Y2FhODE0OTZkZmE2MWJjNzY1OGZkZDQ2MjI2NTk5NjI2Nzg4",
+  "snapshot_id": "MCw0OTA5YjRmZjdhY2U5MmQ5YTVkNmRjMTcxODhlYzMxMWM3MTM5ZDNh",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MAESTRO",
-        "url": "https://open.spotify.com/album/4MQct3Qg6rDNPbWsvtCSRA"
+        "name": "GAEKO ATTIC`s 1st PIECE",
+        "url": "https://open.spotify.com/album/4uBjYfzTlE9MrdsgYL7Ljz"
       },
       "artists": [
         {
-          "name": "Outsider",
-          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
-        },
-        {
-          "name": "Moowoong",
-          "url": "https://open.spotify.com/artist/0KDNGtLnJizXdOOjdDzJUV"
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 230120,
-      "name": "\ud53c\uc5d0\ub85c\uc758 \ub208\ubb3c (feat. Moowoong)",
-      "url": "https://open.spotify.com/track/2ItTuAhdxuZvGBO3k7yvT8"
+      "duration_ms": 242245,
+      "name": "Feel so good",
+      "url": "https://open.spotify.com/track/0Xz8GGkDorpyPfeJmzjZHw"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -227,18 +223,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "GAEKO ATTIC`s 1st PIECE",
-        "url": "https://open.spotify.com/album/4uBjYfzTlE9MrdsgYL7Ljz"
+        "name": "MAESTRO",
+        "url": "https://open.spotify.com/album/4MQct3Qg6rDNPbWsvtCSRA"
       },
       "artists": [
         {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "Outsider",
+          "url": "https://open.spotify.com/artist/1i4Y4WlFFetQV14Z8UDdvr"
+        },
+        {
+          "name": "Moowoong",
+          "url": "https://open.spotify.com/artist/0KDNGtLnJizXdOOjdDzJUV"
         }
       ],
-      "duration_ms": 242245,
-      "name": "Feel so good",
-      "url": "https://open.spotify.com/track/0Xz8GGkDorpyPfeJmzjZHw"
+      "duration_ms": 230120,
+      "name": "\ud53c\uc5d0\ub85c\uc758 \ub208\ubb3c (feat. Moowoong)",
+      "url": "https://open.spotify.com/track/2ItTuAhdxuZvGBO3k7yvT8"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 255608,
-      "name": "\ub0a8\uc790\uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "\ud488\ud589\uc81c\ub85c Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4B6mtALVNEPQrFZ89u5HSl"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 231235,
       "name": "\uc990\uac70\uc6b4 \uc0dd\ud65c",
       "url": "https://open.spotify.com/track/1497gstQL5iceFZJ5vb2ti"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 255608,
+      "name": "\ub0a8\uc790\uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+      },
+      "artists": [
+        {
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
+      "url": "https://open.spotify.com/track/2TU1lpHBd1C0DvvSsdVdiI"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Best of Best",
         "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 256417,
       "name": "\uac70\uc6b8 - New Version",
       "url": "https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
-      },
-      "artists": [
-        {
-          "name": "Soul Company",
-          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
-        }
-      ],
-      "duration_ms": 294986,
-      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
-      "url": "https://open.spotify.com/track/2TU1lpHBd1C0DvvSsdVdiI"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216967,
       "name": "Strike The Gold (feat. The Quiett)",
       "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1563,6 +1563,30 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+      },
+      "artists": [
+        {
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+        },
+        {
+          "name": "Eluphant",
+          "url": "https://open.spotify.com/artist/59YukrTVTiGNpuhyw3v4dB"
+        },
+        {
+          "name": "Celma",
+          "url": "https://open.spotify.com/artist/3dipS6uWlgqk3r4Ddeb9Oo"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Superstar (feat. Celma)",
+      "url": "https://open.spotify.com/track/7yAGggmGxkcSr37n8kn2XA"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
@@ -1583,22 +1607,6 @@
       "duration_ms": 291333,
       "name": "Alchemy (feat. Kebee, Paloalto)",
       "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Lastman Standing",
-      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1627,26 +1635,34 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
       },
       "artists": [
         {
-          "name": "Soul Company",
-          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
-        },
-        {
-          "name": "Eluphant",
-          "url": "https://open.spotify.com/artist/59YukrTVTiGNpuhyw3v4dB"
-        },
-        {
-          "name": "Celma",
-          "url": "https://open.spotify.com/artist/3dipS6uWlgqk3r4Ddeb9Oo"
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Superstar (feat. Celma)",
-      "url": "https://open.spotify.com/track/7yAGggmGxkcSr37n8kn2XA"
+      "duration_ms": 233000,
+      "name": "Lastman Standing",
+      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "HEAVY BASS",
+        "url": "https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "P-TYPE the Big Cat",
+      "url": "https://open.spotify.com/track/3jBWh7Cb5KcZyEpKGyYZ0z"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1671,22 +1687,6 @@
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "HEAVY BASS",
-        "url": "https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "P-TYPE the Big Cat",
-      "url": "https://open.spotify.com/track/3jBWh7Cb5KcZyEpKGyYZ0z"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1743,42 +1743,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
-      },
-      "artists": [
-        {
-          "name": "Onesun",
-          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "Little Thug Kid",
-      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "HEAVY BASS",
-        "url": "https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "MC META",
-          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "So U Wanna Be Hardcore (feat. MC META)",
-      "url": "https://open.spotify.com/track/65nWhpQj9M7S5flk4hhS6I"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
         "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
       },
@@ -1831,6 +1795,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+      },
+      "artists": [
+        {
+          "name": "Onesun",
+          "url": "https://open.spotify.com/artist/0tNK6IJVsvU5Zxv5sqgJiU"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "Little Thug Kid",
+      "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
@@ -1867,22 +1847,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+        "name": "HEAVY BASS",
+        "url": "https://open.spotify.com/album/1RFTWDsuEmw65S3OEOGvT3"
       },
       "artists": [
         {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
         },
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "MC META",
+          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
         }
       ],
-      "duration_ms": 224973,
-      "name": "\ub9c8\ubd80",
-      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
+      "duration_ms": 189933,
+      "name": "So U Wanna Be Hardcore (feat. MC META)",
+      "url": "https://open.spotify.com/track/65nWhpQj9M7S5flk4hhS6I"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1907,6 +1887,50 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "\ub9c8\ubd80",
+      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Respect 4 Brotha",
+        "url": "https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT"
+      },
+      "artists": [
+        {
+          "name": "Infinite Flow (I.F)",
+          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
+        },
+        {
+          "name": "Ill Skillz",
+          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
+        },
+        {
+          "name": "K.O.D",
+          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
+        }
+      ],
+      "duration_ms": 313893,
+      "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
+      "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1971,30 +1995,6 @@
       "duration_ms": 282586,
       "name": "Again",
       "url": "https://open.spotify.com/track/1ZQK8wTvRhyL1vEe19j4Dp"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Respect 4 Brotha",
-        "url": "https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT"
-      },
-      "artists": [
-        {
-          "name": "Infinite Flow (I.F)",
-          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
-        },
-        {
-          "name": "Ill Skillz",
-          "url": "https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW"
-        },
-        {
-          "name": "K.O.D",
-          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
-        }
-      ],
-      "duration_ms": 313893,
-      "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
-      "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
     }
   ],
   "unique_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",

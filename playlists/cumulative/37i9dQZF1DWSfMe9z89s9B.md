@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Lou Val
 
-916 songs - 2 day 1 hr 25 min
+918 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-06-18 | 2022-07-16 |
 | [2007](https://open.spotify.com/track/4LDPVpLoRZIvSCeLC0Ueyx) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:04 | 2023-08-11 |  |
 | [23rd Street](https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:24 | 2022-12-02 |  |
-| [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 |  |
+| [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-07-15 | 2023-08-13 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-03-25 |
 | [3000 Miles \(Baby Baby\)](https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [3000 Miles \(Baby Baby\)](https://open.spotify.com/album/6Z65cY2NlkT0q3wCILkHdx) | 2:22 | 2021-03-19 | 2022-05-24 |
 | [4 This Moment](https://open.spotify.com/track/4BfGlDPJrCBzk7gpQkwJUo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [4 This Moment](https://open.spotify.com/album/6TfPUynI7LH4DgW5mg0IUz) | 2:07 | 2022-08-26 | 2022-09-17 |
@@ -458,6 +458,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-06-03 |
 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 | 2022-04-01 | 2022-04-13 |
 | [Light Me Up](https://open.spotify.com/track/0QQMJ3W0zNoHeak1NWnPDm) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Light Me Up](https://open.spotify.com/album/7dZicvXTzIqBHXYpeeeCn2) | 3:49 | 2022-04-01 | 2022-04-16 |
+| [Like A Habit](https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Like A Habit](https://open.spotify.com/album/7LQNO7K3yEVQttdrOVOko3) | 2:46 | 2023-08-11 |  |
 | [Like That](https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Like That](https://open.spotify.com/album/5ZL7YD2z03z5DGj1Z132ua) | 2:46 | 2022-04-01 | 2022-04-11 |
 | [Like Water](https://open.spotify.com/track/4WXjY5WXtsrC9okLc7dLGl) | [Garçons](https://open.spotify.com/artist/0HAiMAa8lwFrKnEq55SLWe) | [Like Water](https://open.spotify.com/album/3nuKDj3p6LkwHosNTKr1e9) | 2:55 | 2021-11-05 | 2022-01-19 |
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-07-10 |
@@ -562,9 +563,10 @@
 | [Nothing & Everything](https://open.spotify.com/track/21olzr6m9aB9ZvfquKzdFh) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Nothing & Everything](https://open.spotify.com/album/7n7NfivNnVE8SjlYHzGJ65) | 5:12 | 2022-04-01 | 2022-08-13 |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2023-04-14 | 2023-04-22 |
 | [NTWFL](https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [NTWFL](https://open.spotify.com/album/67yqGJaYgMvkXi5J1YQcio) | 2:59 | 2021-03-19 | 2022-07-29 |
+| [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 | 2023-08-11 |  |
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-04-01 | 2022-07-16 |
 | [O, The Blood!](https://open.spotify.com/track/2c62n9rmj4yhIZEs86liA8) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [O, The Blood!](https://open.spotify.com/album/4Px25dA9ws4dY4Q2l2BPnC) | 4:01 | 2023-06-16 |  |
-| [OCCASION](https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [OCCASION](https://open.spotify.com/album/7vBidH3RRrzZt7CqkhTFgV) | 4:05 | 2022-07-15 |  |
+| [OCCASION](https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [OCCASION](https://open.spotify.com/album/7vBidH3RRrzZt7CqkhTFgV) | 4:05 | 2022-07-15 | 2023-08-13 |
 | [ODEE](https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [ODEE](https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx) | 3:28 | 2023-05-05 |  |
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2022-12-02 | 2023-02-25 |
 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 | 2023-04-28 |  |

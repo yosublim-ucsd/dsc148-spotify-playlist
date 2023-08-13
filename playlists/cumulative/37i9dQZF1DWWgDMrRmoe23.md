@@ -4,7 +4,7 @@
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-26 songs - 1 hr 32 min
+27 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Lemme Take You To The Beach](https://open.spotify.com/track/24pKgx2qOMMNT0XmRBpWCI) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Studio Tan](https://open.spotify.com/album/2Z39MzRC9Jh5eBt7dcJsdL) | 2:44 | 2023-07-20 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-07-20 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-07-20 |  |
-| [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 | 2023-07-20 |  |
+| [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 | 2023-07-20 | 2023-08-13 |
+| [Omae Wa Mou](https://open.spotify.com/track/79G2ITmSiJLeNe9NbDeJMk) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/6KTdztObe5nfnzQ6xLtDNb) | 1:53 | 2023-07-20 |  |
 | [Omae Wa Mou](https://open.spotify.com/track/0NckjJeevRkkomP38oh5Zw) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Omae Wa Mou](https://open.spotify.com/album/2tlxiEF7Q9nGc7EIX64Syu) | 1:53 | 2023-07-20 | 2023-08-11 |
 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2023-07-20 |  |
 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 | 2023-07-20 |  |

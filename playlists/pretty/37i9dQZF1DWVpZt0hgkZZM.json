@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 21566,
+  "num_followers": 21609,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5",
+  "snapshot_id": "MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
       "artists": [
         {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 165586,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 165586,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+        }
+      ],
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 176533,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2021-12-16 22:41:17",

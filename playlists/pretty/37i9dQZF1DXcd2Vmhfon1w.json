@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
-  "num_followers": 507253,
+  "num_followers": 507358,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTM1NTVkODExMWVjZmZlOTUxMzlmOGNlODlmOWQxMDE3Yzk3Yzdm",
+  "snapshot_id": "MCwyZDYzYWMxMjQ0MTE2NTRiODBjYmY4MjMyNDZjNDc5MTc1MDFjMmY0",
   "tracks": [
     {
       "added_at": "2023-08-08 14:52:41",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
-        "name": "No hay nada nuevo",
-        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
-      },
-      "artists": [
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        }
-      ],
-      "duration_ms": 220881,
-      "name": "No hay nada nuevo",
-      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
         "name": "Me Lo Pienso",
         "url": "https://open.spotify.com/album/7wxQQrU7i44rtSah6GHnj6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 174048,
       "name": "Me Lo Pienso",
       "url": "https://open.spotify.com/track/7wI8VR7eA11W2Jpq8D4Olw"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
+        "name": "No hay nada nuevo",
+        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "duration_ms": 220881,
+      "name": "No hay nada nuevo",
+      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
     },
     {
       "added_at": "2023-08-08 14:52:41",
@@ -415,30 +415,18 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
-        "name": "Kurosawa",
-        "url": "https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3"
+        "name": "Mal Ag\u00fcero",
+        "url": "https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9"
       },
       "artists": [
         {
-          "name": "Prok",
-          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Ayax y Prok",
-          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
-        },
-        {
-          "name": "Blasfem",
-          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
         }
       ],
-      "duration_ms": 258709,
-      "name": "Kurosawa",
-      "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
+      "duration_ms": 221203,
+      "name": "Mal Ag\u00fcero",
+      "url": "https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa"
     },
     {
       "added_at": "2023-08-08 14:52:41",
@@ -459,42 +447,6 @@
       "duration_ms": 175914,
       "name": "Mortales",
       "url": "https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
-        "name": "Mal Ag\u00fcero",
-        "url": "https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9"
-      },
-      "artists": [
-        {
-          "name": "Delaossa",
-          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
-        }
-      ],
-      "duration_ms": 221203,
-      "name": "Mal Ag\u00fcero",
-      "url": "https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
-        "name": "Gold Diggers",
-        "url": "https://open.spotify.com/album/1AqOMFcHUFigojsurVdSD1"
-      },
-      "artists": [
-        {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
-        },
-        {
-          "name": "Al Safir",
-          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
-        }
-      ],
-      "duration_ms": 267789,
-      "name": "Gold Diggers",
-      "url": "https://open.spotify.com/track/1r9Lbgiags0gJAS15Ygmc5"
     },
     {
       "added_at": "2023-08-08 14:52:41",
@@ -523,6 +475,54 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
+        "name": "Gold Diggers",
+        "url": "https://open.spotify.com/album/1AqOMFcHUFigojsurVdSD1"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        }
+      ],
+      "duration_ms": 267789,
+      "name": "Gold Diggers",
+      "url": "https://open.spotify.com/track/1r9Lbgiags0gJAS15Ygmc5"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
+        "name": "Kurosawa",
+        "url": "https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3"
+      },
+      "artists": [
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "duration_ms": 258709,
+      "name": "Kurosawa",
+      "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
         "name": "Bukowski",
         "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/47hpIs8QYlW1H1h6CMUJay"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        }
+      ],
+      "duration_ms": 207898,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
         "name": "Pedigr\u00ed",
         "url": "https://open.spotify.com/album/0nFIAsLOuavv8a9xPY2JK9"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 214000,
       "name": "Wifi",
       "url": "https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/4vqSKeqWuKOJSUjm2NWtB5"
-      },
-      "artists": [
-        {
-          "name": "Serko",
-          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj"
     },
     {
       "added_at": "2023-08-08 14:52:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/47hpIs8QYlW1H1h6CMUJay"
-      },
-      "artists": [
-        {
-          "name": "Delaossa",
-          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
-        }
-      ],
-      "duration_ms": 207898,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
         "name": "Yo No S\u00e9",
         "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
+        "name": "Hasta Cuando",
+        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "duration_ms": 199595,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
         "name": "Luna llena",
         "url": "https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
-        "name": "Hasta Cuando",
-        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/4vqSKeqWuKOJSUjm2NWtB5"
       },
       "artists": [
         {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
         }
       ],
-      "duration_ms": 199595,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
+      "duration_ms": 172866,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj"
     },
     {
       "added_at": "2023-08-08 14:52:41",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-08-08 14:52:41",
       "album": {
-        "name": "La G\u00f3ndola",
-        "url": "https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP"
-      },
-      "artists": [
-        {
-          "name": "Ayax y Prok",
-          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
-        },
-        {
-          "name": "Blasfem",
-          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "La G\u00f3ndola",
-      "url": "https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2"
-    },
-    {
-      "added_at": "2023-08-08 14:52:41",
-      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 296000,
       "name": "Nana",
       "url": "https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM"
+    },
+    {
+      "added_at": "2023-08-08 14:52:41",
+      "album": {
+        "name": "La G\u00f3ndola",
+        "url": "https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "La G\u00f3ndola",
+      "url": "https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2"
     },
     {
       "added_at": "2023-08-08 14:52:41",

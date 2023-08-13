@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 
 > De la cuna pa'l mundo\. Celebrando la cultura y música de Puerto Rico con los sonidos de la Casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,989 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,015 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 15 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 |
 | 16 | [PUNTO 40](https://open.spotify.com/track/4UGqAW9i7NtE5mW9xzm6yk) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:10 |
 | 17 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 |
-| 18 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
-| 19 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
+| 18 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
+| 19 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 |
 | 20 | [Soltera \(Remix\)](https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:26 |
 | 21 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 |
 | 22 | [Noche De Entierro](https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q2IbWQxB4U.md) - [plain]
 | 49 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
 | 50 | [Quien Es Dei V?](https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Es Dei V?](https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC) | 2:42 |
 
-Snapshot ID: `MCxjZDc1M2RmNWYzZmVlN2U2Mzc1YWZkNzdjNTgyNDUzNmJiNGZlZTVi`
+Snapshot ID: `MCxhNjM2NGYyYWNmOTlkYjMzMjIyNmU2ZDU5ODg3MTRkYTkxY2I4Y2Jj`

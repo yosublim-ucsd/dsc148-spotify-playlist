@@ -4,11 +4,11 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-501 songs - 1 day 14 hr 48 min
+503 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-02-10 |  |
+| ['Round Midnight \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:43 | 2022-02-10 | 2023-08-13 |
 | [68th Street](https://open.spotify.com/track/3rbuoKmY8jrMdvXeQEUKuo) | [Ilya Dynov](https://open.spotify.com/artist/5kyy6jzDQlqyCmSHCEO3gj) | [68th Street](https://open.spotify.com/album/4r83pSlC70J9DBA7ZA8DBp) | 5:11 | 2023-03-10 | 2023-03-18 |
 | [A Ballad for Pete Candoli](https://open.spotify.com/track/5fsGPtGbnwTQ3ZuotX0Mhl) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 6:42 | 2022-05-26 |  |
 | [A Blacksmith's Tale](https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [The Wayfarers](https://open.spotify.com/album/41k2ttC9wqYEpzSjJnfGaf) | 3:27 | 2023-03-10 |  |
@@ -77,7 +77,7 @@
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-03-10 |  |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Casa](https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 4:20 | 2022-06-08 |  |
-| [Catania](https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Joey Calderazzo](https://open.spotify.com/album/614JGsEtl6hNxZmsoWttpD) | 8:14 | 2022-02-10 |  |
+| [Catania](https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Joey Calderazzo](https://open.spotify.com/album/614JGsEtl6hNxZmsoWttpD) | 8:14 | 2022-02-10 | 2023-08-13 |
 | [Central Park West](https://open.spotify.com/track/4HMx9XCTgwwbQELIfWN9b5) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 7:26 | 2022-02-10 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-12 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/4Hy5FWDo8kKW3iPga7YmrF) | [Juho Valjakka](https://open.spotify.com/artist/0aKY7KV2w80cRCZfEwwipw) | [Liminal Spaces](https://open.spotify.com/album/2gqbWgPLtXP5tWusQTcI67) | 4:38 | 2023-03-10 |  |
@@ -296,6 +296,7 @@
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-11-12 |  |
 | [Nature Boy](https://open.spotify.com/track/6MNfoIb4EDeXbIS8TroQzw) | [Eldar Djangirov](https://open.spotify.com/artist/7oOc9wIfiBHYBs6PC83vIW) | [Eldar](https://open.spotify.com/album/5Q38zgDyz54fOEe6EmBRp6) | 5:29 | 2022-04-28 | 2022-11-12 |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-11-12 |  |
+| [New sponsor](https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [New sponsor](https://open.spotify.com/album/2Xgmzfb2ZGhDBM0xYfj86c) | 3:18 | 2023-08-10 |  |
 | [Newselves](https://open.spotify.com/track/40V4EWwwYv4a6erWw9r60D) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [World Painter](https://open.spotify.com/album/11QDwaxB2Z5Tmp6sqzQPnC) | 5:55 | 2022-03-25 |  |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-12 |  |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-02-10 |  |
@@ -476,6 +477,7 @@
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-12 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 7:30 | 2022-02-10 |  |
+| [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-10 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-12 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 | 2022-08-18 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-11-12 |  |

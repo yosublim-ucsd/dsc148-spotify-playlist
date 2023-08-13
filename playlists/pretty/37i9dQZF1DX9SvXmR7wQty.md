@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Evelyne Brochu
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,512 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,513 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 26 | [Cités de France](https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 |
 | 27 | [Macabre](https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Macabre](https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us) | 3:28 |
 | 28 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
-| 29 | [Salement](https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Salement](https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk) | 2:43 |
-| 30 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
+| 29 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
+| 30 | [Salement](https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Salement](https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk) | 2:43 |
 | 31 | [BORZ](https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BORZ](https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo) | 2:16 |
 | 32 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 |
 | 33 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 |
 | 50 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 
-Snapshot ID: `MCw2ZTNjNjNjNjRhYTdlY2M5MjFlZDBmYzQ4NGQxMWEwNGNjOWIwZDAx`
+Snapshot ID: `MCw5OTBhMjM0MTc5MTAxNWFjZTViMmM5ZTc1ZWRjNmJiYWE5NTU2YTg3`

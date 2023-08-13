@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 131282,
+  "num_followers": 131380,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQwOTQxYTY3OWM5NWE5ZDMwZDE3NGFkODU2Y2U3NzZhODg1ODNi",
+  "snapshot_id": "MCwyYWQ2M2VjMDZlMjE0MDkwMjE0MTM0YzhjMDQyNDlmMjkzZTU0MjJj",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "A Mirror Dimly",
-        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 200453,
       "name": "I Won't Look Back",
       "url": "https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "A Mirror Dimly",
+        "url": "https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 338333,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Death By Admiration",
         "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 218347,
       "name": "Halos",
       "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 197336,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -815,6 +815,38 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -847,22 +879,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Surviving The Wasteland",
         "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 198500,
       "name": "Surviving The Wasteland",
       "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 194721,
-      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
-      "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
-      },
-      "artists": [
-        {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
-        }
-      ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Farewell to Midnight",
         "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
       "artists": [
         {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
         }
       ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1039,6 +1023,22 @@
       "duration_ms": 168391,
       "name": "Peace That Starts the War",
       "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
       "artists": [
         {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
         }
       ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1175,6 +1159,22 @@
       "duration_ms": 211360,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+      },
+      "artists": [
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+      },
+      "artists": [
+        {
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+        }
+      ],
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "What Are You Waiting For",
         "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
-      },
-      "artists": [
-        {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
-        }
-      ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Futures",
-        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
-      },
-      "artists": [
-        {
-          "name": "Danger Scene",
-          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
-        }
-      ],
-      "duration_ms": 246286,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Pennell",
         "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
       "artists": [
         {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+          "name": "Danger Scene",
+          "url": "https://open.spotify.com/artist/2SuAeywEh267W33dTgLpG3"
         }
       ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+      "duration_ms": 246286,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1403,6 +1387,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Strong Enough to Live",
         "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
@@ -1547,6 +1515,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "The Seventh Seal",
         "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 214728,
       "name": "The Seventh Seal (feat. Ulf Christiansson)",
       "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
     },
     {
       "added_at": "2023-08-04 12:11:34",

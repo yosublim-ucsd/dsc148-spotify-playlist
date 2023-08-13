@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-192 songs - 9 hr 45 min
+193 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,10 +35,11 @@
 | [blocked](https://open.spotify.com/track/2SkipftGTsn9rj44V1Lsg0) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6pZIjP0eETD7I1TlGgwQgt) | 2:23 | 2020-12-07 |  |
 | [blocked](https://open.spotify.com/track/5rhWIr9NmeuwRU3MFC8LBM) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6LangJEfTFsh5h4ECuXtIq) | 2:23 | 2020-12-07 | 2022-07-29 |
 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 | 2020-12-07 |  |
-| [boys lie](https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2vBuUHQmH2Y94cXhrNDfOg) | 2:25 | 2020-12-07 |  |
+| [boys lie](https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2vBuUHQmH2Y94cXhrNDfOg) | 2:25 | 2020-12-07 | 2023-08-13 |
 | [boys lie](https://open.spotify.com/track/1o1yoF3LSJVdYAkT60730Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/5yLjyY1gsZEjEIGLfNSP5i) | 2:25 | 2020-12-07 | 2022-07-29 |
 | [boys lie](https://open.spotify.com/track/3LsgzGDQMbt1VVQeO99IJb) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/1t3y9LahH5pUediQTB1Eht) | 2:25 | 2020-12-07 | 2022-11-19 |
 | [boys lie](https://open.spotify.com/track/3ZYTHmGaFzW55UnXYmXZFD) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/29LcSRoFAKrH7dNE5MGQym) | 2:25 | 2020-12-07 | 2022-10-13 |
+| [boys lie](https://open.spotify.com/track/4kMhGfOuHaAuTnnKW6J7WU) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2fF80RcYbCG6c1hnEMw1d6) | 2:25 | 2020-12-07 |  |
 | [Call My Parents](https://open.spotify.com/track/1BPfuDHIxnB8ndQBiXpm4F) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Call My Parents](https://open.spotify.com/album/329qyXniWjTtkVMlGnXFFp) | 2:22 | 2020-12-07 |  |
 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 | 2020-12-07 |  |
 | [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 | 2020-12-07 |  |

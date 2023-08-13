@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Chacho y Su Vagancia en portada. ",
-  "num_followers": 736811,
+  "num_followers": 736983,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDRkMWU5YzlkNjM3ZjM3NGQzMWY3NDBlMzA2OTQ1MmZmYTlmZjU0",
+  "snapshot_id": "MCwwYmFkNTRjZTlhYmM1ZTg3MDE0OTdjZWJjNGUxYmVjMGI5YWY4YThi",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -387,8 +387,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 225152,
-      "name": "Como Jordan",
-      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
+      "duration_ms": 259402,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -579,8 +579,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 259402,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
+      "duration_ms": 225152,
+      "name": "Como Jordan",
+      "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Melendez",
+          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
         }
       ],
-      "duration_ms": 155125,
-      "name": "Cuando T\u00fa Me Miras",
-      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Tony Melendez",
-          "url": "https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 116455,
       "name": "Seca Tus Lagrimas",
       "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Se Te Va A Caer La Baba",
-        "url": "https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo"
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 223881,
-      "name": "Se Te Va A Caer La Baba",
-      "url": "https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv"
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1231,22 +1231,42 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Tan Solo Morro",
-        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
+        "name": "Dame Amor",
+        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Tan Solo Morro",
-      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+      "duration_ms": 209062,
+      "name": "Dame Amor",
+      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Buenas Rachas",
+        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153655,
+      "name": "Buenas Rachas",
+      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1271,6 +1291,42 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Tan Solo Morro",
+        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Tan Solo Morro",
+      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Se Te Va A Caer La Baba",
+        "url": "https://open.spotify.com/album/1jL1MgfG1nRvwi3iDiDQoo"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 223881,
+      "name": "Se Te Va A Caer La Baba",
+      "url": "https://open.spotify.com/track/6b06oCGEBRYgdqDzvDp9kv"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Don Nadie",
         "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
@@ -1291,38 +1347,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Dame Amor",
-        "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Dame Amor",
-      "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Pal Amor Soy Malo",
-        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Pal Amor Soy Malo",
-      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Vete Ya",
         "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
       },
@@ -1339,6 +1363,22 @@
       "duration_ms": 157336,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1375,22 +1415,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
       },
@@ -1411,30 +1435,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Buenas Rachas",
-        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153655,
-      "name": "Buenas Rachas",
-      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Unas M\u00edas y Otras Prestadas",
-        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Marcando La Diferencia",
         "url": "https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179948,
       "name": "Marcando La Diferencia",
       "url": "https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Unas M\u00edas y Otras Prestadas",
+        "url": "https://open.spotify.com/album/2QxaFVBRBiPeA6K3tBk7tk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 182909,
-      "name": "El Rapido",
-      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Aunque No Te Pueda Ver",
         "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 168000,
       "name": "Aunque No Te Pueda Ver",
       "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "El Rapido",
+      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Las Preferidas, Vol. 2 (En vivo)",
-        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Yo Te Necesito - En vivo",
-      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Ando Triste",
+        "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 160108,
+      "name": "Ando Triste",
+      "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Falta de Qu\u00edmica",
         "url": "https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Ando Triste",
-        "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 160108,
-      "name": "Ando Triste",
-      "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Mi Todo",
         "url": "https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 214987,
       "name": "Todo Es Diferente",
       "url": "https://open.spotify.com/track/7ppXlZ2376a0Ci6fxJB1br"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     }
   ],
   "unique_name": "Sierre\u00f1o 2023",

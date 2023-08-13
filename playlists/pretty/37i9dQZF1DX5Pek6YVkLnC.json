@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228202,
+  "num_followers": 228223,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
+  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tengo Un Draco",
-        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Tengo Un Draco",
-      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 191891,
       "name": "11:11",
       "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tengo Un Draco",
+        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Tengo Un Draco",
+      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
     },
     {
       "added_at": "2023-06-09 20:20:12",

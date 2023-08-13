@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,429 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,456 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 32 | [Nothing from Nothing \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Spotify Singles](https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD) | 1:51 |
 | 33 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
 | 34 | [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:46 |
-| 35 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 4:21 |
-| 36 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 35 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 36 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 4:21 |
 | 37 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 |
 | 38 | [I Don't Wanna Know \- Live from Spotify Studios NYC](https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:35 |
 | 39 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 82 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 |
 | 83 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
 | 84 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 |
-| 85 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 |
-| 86 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
+| 85 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 |
+| 86 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 |
 | 87 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |
 | 88 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 |
 | 89 | [I've Got The World On A String \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 99 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
 | 100 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 
-Snapshot ID: `MCwwYzYwMGUxOTdhMGRlM2MyZWI3YzRiM2Q3MmZiZTVmZjNlMTRlNGRl`
+Snapshot ID: `MCwwNjBiOTQ1ZGRmZTcwODQ2NDJjMjVhNzQ2YjZmN2JiOGI2MTAwNWI2`

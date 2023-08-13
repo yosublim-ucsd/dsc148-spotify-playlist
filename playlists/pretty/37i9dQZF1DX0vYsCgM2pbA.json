@@ -1,18 +1,18 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 123264,
+  "num_followers": 123290,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWVkMmUxOTBiYzNhYmM4MDQ0MDgxMzIzZWJlNzVlOTMzNWI2MGJi",
+  "snapshot_id": "MCwyNDdiYTAwOWQzYThkMDA0MmU5ZjY3MGZhYzc5NWM4Y2VmMzhhYzA2",
   "tracks": [
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
         "name": "Perfect World",
-        "url": "https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji"
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 278880,
       "name": "Perfect World",
-      "url": "https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF"
+      "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
     },
     {
       "added_at": "2023-08-10 09:15:28",
@@ -451,8 +451,8 @@
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-08-10 09:15:28",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+    },
+    {
+      "added_at": "2023-08-10 09:15:28",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-08-10 09:15:28",
-      "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2023-08-10 09:15:28",
@@ -579,8 +579,8 @@
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-08-10 09:15:28",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
-        "name": "Smile (feat. JAM)",
-        "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "JAM",
-          "url": "https://open.spotify.com/artist/6Fk8WNJR6MUqEQXoZSejuq"
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
         }
       ],
-      "duration_ms": 204723,
-      "name": "Smile (feat. JAM)",
-      "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2023-08-10 09:15:28",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2023-08-10 09:15:28",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+        "name": "Smile (feat. JAM)",
+        "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
       },
       "artists": [
         {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "JAM",
+          "url": "https://open.spotify.com/artist/6Fk8WNJR6MUqEQXoZSejuq"
         }
       ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+      "duration_ms": 204723,
+      "name": "Smile (feat. JAM)",
+      "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
     },
     {
       "added_at": "2023-08-10 09:15:28",

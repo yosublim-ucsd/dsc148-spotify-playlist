@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-123 songs - 7 hr 30 min
+124 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 | 2022-07-04 |  |
 | [Never hate you](https://open.spotify.com/track/3tx4KMR9xXVwOAINuoFdzr) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [POETIC](https://open.spotify.com/album/6abgwNSjwS5Y80uD5hR255) | 3:35 | 2022-11-03 |  |
 | [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 | 2022-12-16 |
+| [Nowhere](https://open.spotify.com/track/4kTZxgvVmd7K7aHIWCbC9z) | [JeongAro](https://open.spotify.com/artist/1Y8urbdlVHsSpTN7yc1JqU) | [Nowhere](https://open.spotify.com/album/3koUyscDUfW9sJsrdQZqk6) | 3:26 | 2023-08-05 |  |
 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 | 2022-07-04 |  |
 | [Only we know…](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Only we know…](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 | 2022-11-01 |  |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 |  |
@@ -120,7 +121,7 @@
 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 | 2022-07-04 |  |
 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
-| [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 |  |
+| [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 | 2023-08-13 |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 |  |
 | [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 | 2022-11-03 | 2023-01-04 |
 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 180350,
+  "num_followers": 183451,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWU4Yjg2MzY5ZGM5NGViMzg3NDUyZWM4ODI4NjA1OTc5OWU3YTE0",
+  "snapshot_id": "MCw1MTc5ODQyZjZhYjg4ODZhZGNjZjI4MTg5M2U2ZDQ2ZWNmN2EwNjYw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:14:01",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
+        "name": "You Wish + Trashboi",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
         "name": "The Idol Episode 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 199280,
       "name": "World Class Sinner / I\u2019m A Freak",
       "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
-        "name": "Make It A Double",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2023-08-11 04:14:01",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
-        "name": "Slut Pop",
-        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Treat Me Like A Slut",
-      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
+        "name": "Slut Pop",
+        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Treat Me Like A Slut",
+      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
     },
     {
       "added_at": "2023-08-11 04:14:01",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
-        "name": "Vroom Vroom EP",
-        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193270,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 184634,
       "name": "Thot Shit",
       "url": "https://open.spotify.com/track/7FdmHr87G79PDRGy9SPBkZ"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
       "added_at": "2023-08-11 04:14:01",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
-        "name": "Birds of Prey: The Album",
-        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -1031,6 +1031,26 @@
       "duration_ms": 146854,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2023-08-11 04:14:01",
@@ -1199,6 +1219,22 @@
     {
       "added_at": "2023-08-11 04:14:01",
       "album": {
+        "name": "BLUE LIPS (lady wood phase II)",
+        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 223794,
+      "name": "disco tits",
+      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
         "name": "This Side of Paradise",
         "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
       },
@@ -1211,6 +1247,22 @@
       "duration_ms": 229655,
       "name": "Girls Like Girls",
       "url": "https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf"
+    },
+    {
+      "added_at": "2023-08-11 04:14:01",
+      "album": {
+        "name": "Hot Girl (Bodies Bodies Bodies)",
+        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157078,
+      "name": "Hot Girl (Bodies Bodies Bodies)",
+      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
     },
     {
       "added_at": "2023-08-11 04:14:01",
@@ -1247,54 +1299,6 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
-        "name": "BLUE LIPS (lady wood phase II)",
-        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 223794,
-      "name": "disco tits",
-      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
-        "name": "Hot Girl (Bodies Bodies Bodies)",
-        "url": "https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157078,
-      "name": "Hot Girl (Bodies Bodies Bodies)",
-      "url": "https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud"
-    },
-    {
-      "added_at": "2023-08-11 04:14:01",
-      "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     }
   ],
   "unique_name": "Hot Pink",

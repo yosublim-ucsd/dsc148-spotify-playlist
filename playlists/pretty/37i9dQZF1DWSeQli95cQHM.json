@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9408,
+  "num_followers": 9416,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2JkM2IwODUzZTNjYmI1ZjZhYmM5YjQ5MTAxZDYxODQ0ZDA0ZjQ4",
+  "snapshot_id": "MCw2MDc3OGNlYzgzMmUxMGViNTQwYjIxZTQ4M2RiNGJmZmE0MzcwOTc5",
   "tracks": [
     {
       "added_at": "2023-06-16 03:03:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Chico Buarque Constru\u00e7\u00e3o Revisited",
-        "url": "https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU"
-      },
-      "artists": [
-        {
-          "name": "L_cio",
-          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
-        }
-      ],
-      "duration_ms": 444765,
-      "name": "Constru\u00e7\u00e3o - L_cio & K_Ri Version",
-      "url": "https://open.spotify.com/track/12fcMx64LD2c13beXT3wv0"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Galactic Highways",
         "url": "https://open.spotify.com/album/59XJByKOEnmxePXKvKfTmY"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 357699,
       "name": "Galactic Highways",
       "url": "https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Chico Buarque Constru\u00e7\u00e3o Revisited",
+        "url": "https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU"
+      },
+      "artists": [
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        }
+      ],
+      "duration_ms": 444765,
+      "name": "Constru\u00e7\u00e3o - L_cio & K_Ri Version",
+      "url": "https://open.spotify.com/track/12fcMx64LD2c13beXT3wv0"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Praia de Artista",
-      "url": "https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Energy Sync",
         "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 397107,
       "name": "Energy Sync - Club Mix",
       "url": "https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Praia de Artista",
+      "url": "https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "TRAVESSIA",
-        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
-      },
-      "artists": [
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        }
-      ],
-      "duration_ms": 207517,
-      "name": "SINA",
-      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Me Destr\u00f3i (Stroka Remix)",
         "url": "https://open.spotify.com/album/0UqwQYgvQzQUPIFPAhrIgW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 307200,
       "name": "Me Destr\u00f3i - Stroka Remix",
       "url": "https://open.spotify.com/track/0hBrepTEx9hxqs6xXeNh6R"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "TRAVESSIA",
+        "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
+      },
+      "artists": [
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 207517,
+      "name": "SINA",
+      "url": "https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
         "name": "Corpo",
         "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 303161,
       "name": "Corpo Fechado",
       "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -783,8 +783,8 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Kin Sharuba",
-        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
+        "name": "Bajolo Vol. I",
+        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
       "artists": [
         {
@@ -792,25 +792,9 @@
           "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
         }
       ],
-      "duration_ms": 469695,
-      "name": "Kin Sharuba",
-      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
-    },
-    {
-      "added_at": "2023-06-16 03:03:00",
-      "album": {
-        "name": "Ghetto Hong Kong",
-        "url": "https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5"
-      },
-      "artists": [
-        {
-          "name": "Agrabah",
-          "url": "https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6"
-        }
-      ],
-      "duration_ms": 365082,
-      "name": "Madame Kabukicho",
-      "url": "https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR"
+      "duration_ms": 384480,
+      "name": "Vou Pra Longe (Floatin')",
+      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -827,6 +811,22 @@
       "duration_ms": 329500,
       "name": "Autoconstru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
+    },
+    {
+      "added_at": "2023-06-16 03:03:00",
+      "album": {
+        "name": "Ghetto Hong Kong",
+        "url": "https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5"
+      },
+      "artists": [
+        {
+          "name": "Agrabah",
+          "url": "https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6"
+        }
+      ],
+      "duration_ms": 365082,
+      "name": "Madame Kabukicho",
+      "url": "https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR"
     },
     {
       "added_at": "2023-06-16 03:03:00",
@@ -879,8 +879,8 @@
     {
       "added_at": "2023-06-16 03:03:00",
       "album": {
-        "name": "Bajolo Vol. I",
-        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
+        "name": "Kin Sharuba",
+        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
         }
       ],
-      "duration_ms": 384480,
-      "name": "Vou Pra Longe (Floatin')",
-      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+      "duration_ms": 469695,
+      "name": "Kin Sharuba",
+      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
     }
   ],
   "unique_name": "Front BR",

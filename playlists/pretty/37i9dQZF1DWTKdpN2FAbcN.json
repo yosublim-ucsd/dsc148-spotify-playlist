@@ -1,12 +1,12 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 34209,
+  "num_followers": 35121,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2U1YWRiMjgwNzkxMzVkZjU5NmQxMGU0NzI2MzUxYWQzNTg3OWQw",
+  "snapshot_id": "MCwxMGNjMjNiMTUwZjAwMzc5MTg1MzM3OThmN2Q0MTI5NGIyMzhkODYx",
   "tracks": [
     {
       "added_at": "2023-08-04 04:56:40",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-08-04 04:56:40",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2023-08-04 04:56:40",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2023-08-04 04:56:40",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
       "added_at": "2023-08-04 04:56:40",

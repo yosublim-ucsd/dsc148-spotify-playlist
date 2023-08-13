@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Walker & Royce, Glass Petals & Elohim",
-  "num_followers": 221686,
+  "num_followers": 221737,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzdlZGEzMzg0MjYzNWExOGQ2YTliOWZlNGIxMTRhZGNiMTFiYWJl",
+  "snapshot_id": "MCw2MTc1MGQ3MWY4Y2U3MGI2YWM5NTExOTU0NzgwNzZmNTczNDAyMDNk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Dream Sequence",
+        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "duration_ms": 215111,
+      "name": "Dream Sequence",
+      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 130123,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Dream Sequence",
-        "url": "https://open.spotify.com/album/2M3r10nJAuWXUoUkZAmvqM"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Dream Sequence",
-      "url": "https://open.spotify.com/track/1YrVLt1ET4GzwS3HfOcxWw"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "HYPNOSIS",
-        "url": "https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 158583,
-      "name": "HYPNOSIS",
-      "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 158583,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Collecting Thoughts",
         "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 205738,
       "name": "Collecting Thoughts",
       "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1943,30 +1943,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mindstate",
-        "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 252399,
-      "name": "Mindstate",
-      "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mindstate",
+        "url": "https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 252399,
+      "name": "Mindstate",
+      "url": "https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Throne",
-        "url": "https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "The Throne",
-      "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Fool Me",
         "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
       },
@@ -2091,18 +2075,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Loca People",
-        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+        "name": "The Throne",
+        "url": "https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 158437,
-      "name": "Loca People",
-      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
+      "duration_ms": 195466,
+      "name": "The Throne",
+      "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2123,6 +2107,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Wish He Knew",
         "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
       },
@@ -2135,26 +2135,6 @@
       "duration_ms": 157500,
       "name": "Wish He Knew",
       "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Hypnotic (feat. Dope Earth Alien)",
-        "url": "https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Dope Earth Alien",
-          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
-        }
-      ],
-      "duration_ms": 207568,
-      "name": "Hypnotic (feat. Dope Earth Alien)",
-      "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2175,6 +2155,26 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Hypnotic (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "duration_ms": 207568,
+      "name": "Hypnotic (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
     },
     {
       "added_at": "2023-08-11 04:00:00",

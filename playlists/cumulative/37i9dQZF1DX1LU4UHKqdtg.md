@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: THE BOYZ
 
-692 songs - 1 day 13 hr 49 min
+693 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-01 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
 | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Do It Like That \(Alan Walker Remix\)](https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7) | 2:19 | 2023-08-03 |  |
+| [Do It Like That \(Jax Jones Remix\)](https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Do It Like That \(Jax Jones Remix\)](https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA) | 4:55 | 2023-08-10 |  |
 | [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0) | 2:34 | 2023-07-28 |  |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-06 | 2022-03-16 |
 | [Do It Like This \- English Version](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Do It Like This \(English Version\)](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) | 3:12 | 2022-03-10 | 2022-05-11 |

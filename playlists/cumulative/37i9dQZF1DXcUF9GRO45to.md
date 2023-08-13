@@ -4,13 +4,13 @@
 
 > French scene makes some noise!
 
-274 songs - 17 hr 34 min
+275 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022](https://open.spotify.com/track/2psnj8L3LQG8N4KlRrrXuO) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [2022](https://open.spotify.com/album/4TCcau3EhDdiBdWWL89BFN) | 2:45 | 2023-01-26 | 2023-02-07 |
 | [A Breach To The Cosmos](https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [A Breach To The Cosmos](https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC) | 3:45 | 2023-06-29 | 2023-07-16 |
-| [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 | 2021-12-31 |  |
+| [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 | 2021-12-31 | 2023-08-13 |
 | [A Hooded Witness](https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3) | 4:06 | 2023-07-19 |  |
 | [A Man Oustanding In His Field](https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [We The People Of The Soil](https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR) | 3:53 | 2021-12-15 |  |
 | [Adventure Seeker](https://open.spotify.com/track/4whvO7lA5VMHddWlMfUMzO) | [South Berkeley](https://open.spotify.com/artist/7aDcmRytStIGyAB1FKKoWr) | [Too Slow](https://open.spotify.com/album/70fW6Kjyvp8RpWvwz9dIYv) | 2:51 | 2021-12-15 | 2022-07-21 |
@@ -156,7 +156,7 @@
 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 | 2021-12-15 |  |
 | [Long Before](https://open.spotify.com/track/6DRkAVGF7vumi1GSSKlTSu) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Do Not Return Fire](https://open.spotify.com/album/7uKL2DcETgQKxDlgaWj57q) | 3:49 | 2022-01-03 | 2022-04-21 |
 | [Long Life](https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Long Life](https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF) | 3:02 | 2022-04-17 |  |
-| [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 | 2022-06-30 |  |
+| [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 | 2022-06-30 | 2023-08-13 |
 | [Lust of the Dead](https://open.spotify.com/track/5TE5sZsPuChH5PzVNJ0aBR) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1PtMqNyEosuODf7dGJV2m7) | 5:22 | 2021-12-15 | 2022-07-23 |
 | [Léon](https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/469XU2UjBypsJUKNCARczN) | 4:31 | 2022-11-28 |  |
 | [Melancholic Rain](https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Kids Are Lo\-Fi](https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY) | 2:42 | 2022-06-30 |  |
@@ -186,7 +186,7 @@
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 |  |
 | [Only Weird People Can Fly](https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ) | [Dust On Earth](https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6) | [Only Weird People Can Fly](https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV) | 4:18 | 2023-06-29 | 2023-07-31 |
-| [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 | 2023-05-12 |
+| [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 |  |
 | [Paradis](https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Paradis](https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9) | 2:21 | 2023-06-29 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-06-30 |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |
@@ -206,6 +206,7 @@
 | [R.I.P\. in Peace](https://open.spotify.com/track/238vQOEsppkBCz57hy3mag) | [Jessica93](https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg) | [Guilty Species](https://open.spotify.com/album/0thTKN8gt2QXBxHF7CfAvR) | 4:38 | 2021-12-15 | 2022-07-29 |
 | [Reach](https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Reach](https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9) | 5:12 | 2021-12-15 |  |
 | [REQUIN MAKO](https://open.spotify.com/track/4qTYigArkxHtrICjMTZ8aX) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/34wdBVVO2E8XsnVOPQH5mC) | 2:44 | 2022-04-17 | 2022-07-24 |
+| [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 | 2023-07-23 |  |
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-11-28 | 2023-03-22 |
 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 | 2022-02-01 | 2022-03-25 |
 | [Réveil heureux](https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 5:08 | 2023-06-29 |  |

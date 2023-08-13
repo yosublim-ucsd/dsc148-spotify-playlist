@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 77616,
+  "num_followers": 77615,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw",
+  "snapshot_id": "MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Don't Lose Hope",
         "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203774,
       "name": "Grave",
       "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "One Name (Jesus) [Live]",
-        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 559267,
-      "name": "One Name (Jesus) - Live",
-      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Everything And Nothing Less (Live)",
         "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 326613,
       "name": "God Of Miracles - Live",
       "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "One Name (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 559267,
+      "name": "One Name (Jesus) - Live",
+      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
         }
       ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+      "duration_ms": 260613,
+      "name": "You Love Me Anyway",
+      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 260613,
-      "name": "You Love Me Anyway",
-      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
-        }
-      ],
-      "duration_ms": 225187,
-      "name": "There Is Power",
-      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Nicole C. Mullen",
         "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 294533,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "duration_ms": 225187,
+      "name": "There Is Power",
+      "url": "https://open.spotify.com/track/68x16tb33FQdWyiOaZYteP"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Love Revolution",
         "url": "https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 361413,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2627,6 +2627,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Valley of the Shadow",
+        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 256127,
+      "name": "Glory & Grace",
+      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 205666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     }
   ],
   "unique_name": "Easter",

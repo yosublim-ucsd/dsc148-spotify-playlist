@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6"
       },
@@ -1744,6 +1762,24 @@
       "duration_ms": 187400,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182952,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
     },
     {
       "album": {
@@ -3290,7 +3326,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 181313,
       "name": "I'll Save A Place",
       "url": "https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j"
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 173008,
       "name": "If I Wasn't Me",
       "url": "https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD"

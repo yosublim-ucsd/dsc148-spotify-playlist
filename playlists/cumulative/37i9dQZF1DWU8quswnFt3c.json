@@ -11537,6 +11537,24 @@
     },
     {
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq"
+      },
+      "artists": [
+        {
+          "name": "Charmy Pham",
+          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX"
+    },
+    {
+      "album": {
         "name": "Lane",
         "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
       },
@@ -20070,7 +20088,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 305373,
       "name": "Summer Tune",
       "url": "https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU"

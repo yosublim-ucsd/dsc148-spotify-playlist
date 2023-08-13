@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: V
 
-3,688 songs - 7 day 15 hr 23 min
+3,689 songs - 7 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1051,6 +1051,7 @@
 | [Favourite](https://open.spotify.com/track/1YneBr9KpB5csEc6YxWJV2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Favourite](https://open.spotify.com/album/2VbZvwcFbYqT6u2TPu6ASr) | 2:21 | 2022-02-11 | 2022-02-26 |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-11 |  |
 | [Fck Love](https://open.spotify.com/track/7KlssVnhed74ecry9mB1RW) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Fck Love](https://open.spotify.com/album/4Yb0MEAmnTb6uMxL6cvSK5) | 2:31 | 2022-06-17 | 2022-07-02 |
+| [fckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 |  |
 | [Fckd In The Head](https://open.spotify.com/track/53EMDhqNCRuwbNmR19HtU5) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Fckd In The Head](https://open.spotify.com/album/0G0xGv6lLd8DlcT7mwaeO6) | 2:13 | 2022-07-01 | 2022-07-16 |
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-03-05 |
 | [Fearful](https://open.spotify.com/track/0KDcWe5Bd41CgtaUaRUXEW) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [Fearful](https://open.spotify.com/album/13AvOXQDWRgbfxhQW9wfAY) | 2:42 | 2022-05-13 | 2022-05-20 |
@@ -1166,7 +1167,6 @@
 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 | 2023-02-24 | 2023-03-11 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-17 | 2023-04-01 |
 | [FUCK UP MY MAKE UP](https://open.spotify.com/track/0MVflYwPIchxoyb2WCaRyF) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [FUCK UP MY MAKE UP](https://open.spotify.com/album/6mNc406rR3OORVgsBmUgwc) | 2:06 | 2023-07-07 | 2023-07-22 |
-| [fuckboys](https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [fuckboys](https://open.spotify.com/album/70aJ0Nb1J8GVJWs7luRSjp) | 2:43 | 2023-08-11 |  |
 | [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-14 | 2022-10-29 |
 | [Fumbled the Bag](https://open.spotify.com/track/4hOEcvPoY9WYdvZk5T5O1T) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Fumbled the Bag](https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR) | 3:09 | 2022-09-02 | 2022-09-17 |
 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 | 2023-03-24 | 2023-04-09 |
@@ -2431,7 +2431,8 @@
 | [okay](https://open.spotify.com/track/3DJLO9LSpjGjbb3mVr6rbe) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Kids Table](https://open.spotify.com/album/3HD4WElDaFq88hVyDATf2I) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-23 |
 | [Old Days](https://open.spotify.com/track/1iAQhLRjLRsmaUiN1HStpl) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Old Days](https://open.spotify.com/album/0OoSgeR9HvIZouBDrGG9q0) | 2:44 | 2023-06-09 | 2023-07-01 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2022-06-25 |
 | [Old Movies](https://open.spotify.com/track/3GuZKF9sG9DtI6aIsYCkgK) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Old Movies](https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI) | 2:47 | 2023-02-03 | 2023-02-18 |
 | [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 | 2023-06-03 |

@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 256372,
       "name": "A bientot",
       "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
@@ -12245,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
       },
@@ -16433,6 +16451,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "album": {
         "name": "RAPSTAR",
         "url": "https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV"
       },
@@ -18844,7 +18880,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
@@ -19448,6 +19484,24 @@
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
+    },
+    {
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC"
     },
     {
       "album": {
@@ -21286,7 +21340,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"

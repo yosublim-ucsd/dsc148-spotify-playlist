@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by spill tab.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,132 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,181 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 5 | [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 |
 | 6 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 |
 | 7 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 |
-| 8 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [PIGGY](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
+| 8 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 |
 | 9 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 |
 | 10 | [Blurred Out](https://open.spotify.com/track/4oyBLJ6PTSZ7BZ0ITCi2kG) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Blurred Out](https://open.spotify.com/album/2VK7NkrDsiOyENkDJtmRUv) | 3:02 |
 | 11 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 34 | [Everything \(all at once\)](https://open.spotify.com/track/4G1a2dYMI9PkgLb6MRoFtT) | [Archways](https://open.spotify.com/artist/1wBXSyOwOUX2Vlm3fz37XA) | [Coloured Pills](https://open.spotify.com/album/6PAQidIQCcGE837tJGmE2M) | 5:03 |
 | 35 | [PLPH](https://open.spotify.com/track/3g0CvIGuOKpQiFEJXZXyVs) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [PLPH](https://open.spotify.com/album/4rJ0VnGZUKXhUS8E6tCvkG) | 3:38 |
 | 36 | [Mythologize Me](https://open.spotify.com/track/1VnUj5C0dmpUGRGkHZ8yWr) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Mythologize Me](https://open.spotify.com/album/192kvfi5SsLfpgmwIZ5Iab) | 2:53 |
-| 37 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
+| 37 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 38 | [Candy Apple](https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Candy Apple](https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6) | 3:46 |
 | 39 | [Nothing Stays the Same](https://open.spotify.com/track/1e21RCz12vwZ0yurMrEZ5z) | [Cardinal Bloom](https://open.spotify.com/artist/1kL35cnfsVSfKJ6xLk0K9f) | [Nothing Stays the Same](https://open.spotify.com/album/17Dgn0ra9G3dkNpoy7j6Kh) | 4:59 |
 | 40 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 |
 | 100 | [Imposter Syndrome](https://open.spotify.com/track/41yayaS91LRsTwypCJHrTB) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Imposter Syndrome](https://open.spotify.com/album/2MtZOTkjR68Dfxps7mmMP3) | 3:15 |
 
-Snapshot ID: `MCw3MzVkNzBmYTc1NDg4NjAyNjdlMTA4MjA5ODhjMzc3OTVhMTdkNTE3`
+Snapshot ID: `MCxlOTBlYTQxZGI1Y2IwNGIwZjQzMzJiZWFjMzFmNzBhZjBmNzNlNDUy`

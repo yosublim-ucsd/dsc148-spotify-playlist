@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,761 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,792 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
 | 65 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 |
 | 66 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
-| 67 | [Conexões](https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Conexões](https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB) | 3:33 |
+| 67 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
 | 68 | [Quero\-te a Ti](https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw) | [FdAN](https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3) | [Quero\-te a Ti](https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW) | 2:45 |
-| 69 | [Só olho para ti](https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ) | [KSOLD](https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS) | [Só olho para ti](https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV) | 2:04 |
-| 70 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
+| 69 | [Conexões](https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Conexões](https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB) | 3:33 |
+| 70 | [Só olho para ti](https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ) | [KSOLD](https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS) | [Só olho para ti](https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV) | 2:04 |
 
-Snapshot ID: `MCxkY2JiZjEzMDIwNzI5OTVhNTYyZmE2MTM3ODA1YTdiZThiYTgwYWI4`
+Snapshot ID: `MCw1MjZlNzJhMTc3MzJmZDNhMmU0ZmRhNjZmNjhjY2JiNWU2YzFkY2Ni`

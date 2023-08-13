@@ -4,7 +4,7 @@
 
 > The very best of the alternative rock scene\. Cover: PÆRISH
 
-323 songs - 18 hr 32 min
+324 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Cough Up Cherries](https://open.spotify.com/track/4dsxz4IEl1T3ZmeBoLJ1Ky) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/1ctmJLfcmpgU9RSX5BWgD9) | 2:56 | 2021-10-15 | 2022-07-29 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-03-17 |  |
 | [Curse the Weather](https://open.spotify.com/track/4Avvd1ZV1CX4zLzeMVp8RO) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Curse the Weather](https://open.spotify.com/album/6uJR4KHUajTNHpjpvh4KAe) | 3:43 | 2021-03-31 | 2022-03-16 |
-| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-08 |  |
+| [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 | 2023-08-08 |  |
+| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-08 | 2023-08-13 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-19 |  |
 | [Dead Weight](https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Dead Weight](https://open.spotify.com/album/4uZVQ0ocJQRaP52f2hqP8i) | 3:38 | 2021-11-12 | 2023-01-28 |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-03-01 |  |

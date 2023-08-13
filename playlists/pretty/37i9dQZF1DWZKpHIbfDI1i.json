@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Peso Pluma en portada.",
-  "num_followers": 591286,
+  "num_followers": 591455,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmUwMmY0M2QwZDEyNzc0MTQ3YjEyMzU2NmIxZTRhMGMzYjI0Y2Fm",
+  "snapshot_id": "MCxhZTVjNmUyOTZlZTc1NjAwNjk2MDRjYzgyMTYwMTBiZmJlOTA2ZTcw",
   "tracks": [
     {
       "added_at": "2023-08-11 06:00:00",
@@ -643,26 +643,22 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "DEMBOW B\u00c9LICO",
-        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 126522,
-      "name": "DEMBOW B\u00c9LICO",
-      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -687,22 +683,42 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "CCC",
-        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 126081,
-      "name": "CCC",
-      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mas Altas Que Bajadas",
-      "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Cuerno Mio",
-        "url": "https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 167720,
-      "name": "Cuerno Mio",
-      "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "3 Doritos Despues (En Vivo)",
         "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Cuerno Mio",
+        "url": "https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 167720,
+      "name": "Cuerno Mio",
+      "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-11 06:00:00",
       "album": {
-        "name": "Destapando Botellitas",
-        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 139449,
-      "name": "Destapando Botellitas",
-      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
-    },
-    {
-      "added_at": "2023-08-11 06:00:00",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 186125,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Destapando Botellitas",
+        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 139449,
+      "name": "Destapando Botellitas",
+      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
     },
     {
       "added_at": "2023-08-11 06:00:00",

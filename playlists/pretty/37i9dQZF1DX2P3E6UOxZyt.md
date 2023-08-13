@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 禁藥王 & 栗子<br/>\(Asiaboy & Lizi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,919 likes - 67 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,933 likes - 67 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [先這樣](https://open.spotify.com/track/1tWrJEqeM4SkfNaC7LmdVh) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [先這樣](https://open.spotify.com/album/0JfUpAaGRgt5DdAabPbFG0) | 3:14 |
 | 67 | [就算世界終結](https://open.spotify.com/track/1KOxYSLeEUj4NSrFk2HLsg) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [就算世界終結](https://open.spotify.com/album/61CFT40tVHe5JcCpUjdaGC) | 2:23 |
 
-Snapshot ID: `MCxlNGY4MGQzZDM0YTdlMWVmNDJmYTdkYjAzMzBhYTVlNDQ2NjhhNDRi`
+Snapshot ID: `MCw3MzUyMDc5YzMwMzllMDhmZTYzNzk3ZjY5MTgzYmFjMDEyMzVlNjhj`

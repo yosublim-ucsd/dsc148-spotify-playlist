@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-664 songs - 1 day 16 hr 0 min
+665 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 | 2023-04-21 | 2023-07-18 |
 | [All Of Our Yesterdays](https://open.spotify.com/track/3hPFmyctDusOxzqdpB72EJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [All Of Our Yesterdays](https://open.spotify.com/album/0HMR7TYWFVKQiJau7JdzF3) | 4:03 | 2020-10-05\* | 2022-04-19 |
 | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/track/6phFpARTp2T9rcNR3uRXoe) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/album/0y77caNV2gV2gGjG9cOUfT) | 4:19 | 2021-08-27 | 2022-04-15 |
-| [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 | 2023-08-11 |  |
+| [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 | 2023-08-11 | 2023-08-13 |
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2020-10-16 | 2022-04-17 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-03-07 | 2022-04-19 |
@@ -438,6 +438,7 @@
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/64m76xtJ3QHVrajSkMMzAo) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [EP I.](https://open.spotify.com/album/1vWZ36WuaSJAqQyCwuD3bH) | 4:46 | 2021-03-17 | 2022-04-21 |
 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2021-05-05 | 2022-04-18 |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2020-11-17 | 2022-09-30 |
+| [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-08-11 |  |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-05-03 | 2022-04-14 |
 | [Obsession](https://open.spotify.com/track/0Vr11jCXTQK0tyCQcEjZhq) | [Joshoo](https://open.spotify.com/artist/7BuZYuru2eFUpXMFtkVIdx) | [Obsession](https://open.spotify.com/album/53Gj9IfS2qInEcIrmBK99s) | 3:28 | 2022-10-07 | 2022-10-15 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2022-07-25 |  |

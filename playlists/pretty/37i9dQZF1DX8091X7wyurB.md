@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,887 likes - 80 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,021 likes - 80 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 51 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 52 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 |
 | 53 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw) | 3:45 |
-| 54 | [We Worship You](https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Ruby Steph](https://open.spotify.com/artist/7d96r4QJVhTeZFHnDZDOG2) | [We Worship You](https://open.spotify.com/album/1nQfQaeAcEudQFq4OdvezF) | 6:36 |
-| 55 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 |
+| 54 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 |
+| 55 | [We Worship You](https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Ruby Steph](https://open.spotify.com/artist/7d96r4QJVhTeZFHnDZDOG2) | [We Worship You](https://open.spotify.com/album/1nQfQaeAcEudQFq4OdvezF) | 6:36 |
 | 56 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 |
 | 57 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 58 | [Provider](https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 4:07 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 64 | [Gratitude \- Live At Sound Emporium](https://open.spotify.com/track/2N3LR3xv3CdXLnen2eAXRn) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu) | 7:07 |
 | 65 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 |
 | 66 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 |
-| 67 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
+| 67 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 |
 | 68 | [Ife Wami](https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Ife Wami](https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz) | 2:17 |
-| 69 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 |
+| 69 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
 | 70 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
 | 71 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 |
 | 72 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 |
 | 80 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 |
 
-Snapshot ID: `MCw5Yzg3ZjMxMDM3MDI3Y2Q5ZDI4NWI4MmNmNzg1MDc0ZjE3ODI3ZGQ3`
+Snapshot ID: `MCw1OTEzMzc3MDQyMjA2NWNmODkyNzI0OWY3ODFmNmQyNjBjZTViYjVh`

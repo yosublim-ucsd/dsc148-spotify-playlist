@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-260 songs - 16 hr 24 min
+261 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Cinnamon](https://open.spotify.com/track/2zSEmJVzrXxcCKFXWvlCtz) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 2:50 | 2022-09-23 |  |
 | [Coffee](https://open.spotify.com/track/15FZPfLobYj9kBE80LtxIx) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/6KxHGgfpM8uPotxK5iNEJG) | 2:06 | 2021-12-03 | 2022-07-29 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2022-06-22 |  |
-| [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 | 2021-12-03 |  |
+| [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 | 2021-12-03 | 2023-08-13 |
+| [Coffee Breath](https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG) | 2:43 | 2023-08-08 |  |
 | [Coffee Cups and Cigarettes](https://open.spotify.com/track/5VDPZfalNAXmR2XVT7Ty1n) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Coffee Cups and Cigarettes](https://open.spotify.com/album/5cG58A87PVvfgppW0KqK0Q) | 3:27 | 2023-08-08 |  |
 | [Company Car](https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/1AZnBpcbI5gTWkQlqoIhy3) | 3:02 | 2022-06-22 | 2022-08-16 |
 | [Company Car](https://open.spotify.com/track/5OPrsdGZ8H15gW6oZMzHsB) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Cubicle](https://open.spotify.com/album/2BtiXLXQ6dNgJQDytbATXq) | 3:02 | 2021-12-03 | 2022-07-29 |

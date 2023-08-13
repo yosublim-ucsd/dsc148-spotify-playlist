@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,808 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,883 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 24 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 |
 | 25 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 |
 | 26 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
-| 27 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 |
-| 28 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
+| 27 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
+| 28 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 |
 | 29 | [You Can Get It If You Really Want](https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK) | 2:42 |
 | 30 | [Roots & Chalice](https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Roots & Chalice](https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV) | 4:12 |
 | 31 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 49 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
 | 50 | [Fix It](https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5) | [Clinton Fearon](https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd) | [Fix It](https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p) | 3:02 |
 
-Snapshot ID: `MCwwNzFjYWZhM2EyMDBhZmVhNjBhZmE0YzUzODc4N2Q5YmNkNGFmNGQ4`
+Snapshot ID: `MCwxMWUyODA1ZWMyMGM4NDBhYmMxM2EwM2I3YjAzNTRmY2IyNGEyMzA2`

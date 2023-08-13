@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: White China\. Updates every Wednesday\. Artwork by Isu Kim.
 
-4,757 songs - 10 day 19 hr 37 min
+4,758 songs - 10 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,7 +1017,8 @@
 | [Dark Spell](https://open.spotify.com/track/4UvzAh9etb8zlazNhfv9Po) | [Ainsley Farrell](https://open.spotify.com/artist/3mGoiiSFporYBXogqYjWZ0) | [Dirt](https://open.spotify.com/album/6Sim0FpKkIMuz8TuHO5ta9) | 3:10 | 2023-06-14 | 2023-06-29 |
 | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b) | 3:07 | 2022-03-23 | 2022-03-31 |
 | [Darkeve Duet](https://open.spotify.com/track/2zQGLaMQxHFiNtwu2WWeEl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Darkeve Duet](https://open.spotify.com/album/6WM3Z6CTp6vaLQibDHhvnb) | 3:17 | 2023-06-14 | 2023-06-29 |
-| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-09 |  |
+| [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 | 2023-08-09 |  |
+| [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 | 2023-08-09 | 2023-08-13 |
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-03-23 | 2022-03-31 |
 | [Darlin’](https://open.spotify.com/track/7wgfoPchQkxKD8H6qNRi2x) | [Flour](https://open.spotify.com/artist/5iYAsFJkWN0bcybJDdnstE) | [Darlin’](https://open.spotify.com/album/4zOrvad2xbxqR8iy5dDo1o) | 4:14 | 2023-06-07 | 2023-06-15 |
 | [Dash](https://open.spotify.com/track/44GvMGkbk1ya7cHr3zr7Ih) | [G\. Moore](https://open.spotify.com/artist/3psIP4EUjaw8zj91e5QAnz) | [Dash](https://open.spotify.com/album/6mach9nHSda3x1AXFpNVSK) | 3:00 | 2022-02-09 | 2022-02-17 |

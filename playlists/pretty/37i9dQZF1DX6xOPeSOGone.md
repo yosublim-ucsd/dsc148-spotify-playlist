@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,591,265 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,591,282 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 33 | [You're the Only Woman \- You & I](https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 4:22 |
 | 34 | [Handy Man](https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:16 |
 | 35 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
-| 36 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
-| 37 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 36 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 37 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
 | 38 | [I Wouldn't Want to Be Like You](https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [I Robot \(Expanded Edition\)](https://open.spotify.com/album/44VunLimdsXo2C6figBmwj) | 3:21 |
 | 39 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 40 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 46 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
 | 47 | [Cool Night](https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Cool Night](https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov) | 3:38 |
 | 48 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
-| 49 | [Count on Me](https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Earth](https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g) | 3:14 |
-| 50 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 |
-| 51 | [You Belong to Me](https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 3:52 |
-| 52 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 49 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 |
+| 50 | [Count on Me](https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Earth](https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g) | 3:14 |
+| 51 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 52 | [You Belong to Me](https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 3:52 |
 | 53 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 |
 | 54 | [Heart Of The Night](https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 4:54 |
 | 55 | [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 70 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 71 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
 | 72 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
-| 73 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
-| 74 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
+| 73 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
+| 74 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
 | 75 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
 
-Snapshot ID: `MCw1YWFmOWFiYTEyYTlhZTMzNDc5NmQ5MDY3OGIyOTZjODgwMzg3MjVi`
+Snapshot ID: `MCw2ZWZhZGRmZDdiYjIyNmMxOWIxMmE2N2M3MDBhMjFlYTM3OGM1Yjg1`

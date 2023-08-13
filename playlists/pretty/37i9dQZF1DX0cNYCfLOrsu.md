@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Tina \(Hoodcelebrityy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,065 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,155 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 39 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 40 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 41 | [Watch Dem](https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Watch Dem](https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT) | 2:20 |
-| 42 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
-| 43 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 |
+| 42 | [50 Bag](https://open.spotify.com/track/2mSDdspei0yKfZTfnbHiAp) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [50 Bag](https://open.spotify.com/album/7wT7EfuPP1WFHI5YEwjw2b) | 3:04 |
+| 43 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
 | 44 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 45 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
 | 46 | [One Man / Moving On \- Raw](https://open.spotify.com/track/4zmzJgtsV1oPnp1a7Ryi6L) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [One Man / Moving On](https://open.spotify.com/album/5fSvT6n4ZP4AK401c5xq7b) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
 | 75 | [Where We Come From](https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Where We Come From](https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C) | 4:02 |
 
-Snapshot ID: `MCxhMzVhMDg4OWE4ZGIwYzVjMGNmNDg5OGQ3NzJmMWRiMzNmN2QyM2Iz`
+Snapshot ID: `MCw3ZTI2YWFmYzA3Zjg4MjY3ZDU5MzlmMzY1ZDA2NWRiOWIxZGMyZDQw`

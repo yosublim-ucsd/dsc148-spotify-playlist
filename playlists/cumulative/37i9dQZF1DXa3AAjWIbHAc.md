@@ -4,7 +4,7 @@
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-74 songs - 3 hr 23 min
+75 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Despacito](https://open.spotify.com/track/0BxmVoipSZeTtFDgY0n0Z8) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/1ReDT78IR7ijQgZwtwGO09) | 3:52 | 2020-04-22 | 2022-07-29 |
 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 | 2020-04-22 |  |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2020-04-22 |  |
-| [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 | 2020-04-22 |  |
+| [Festival](https://open.spotify.com/track/5u1Nj9PCsHHrEkx4bTTv9T) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/7MAb0h0jW4yff08JYsIinA) | 3:26 | 2020-04-22 |  |
+| [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 | 2020-04-22 | 2023-08-13 |
 | [Find Your Inner Ghoul](https://open.spotify.com/track/0INyRGOVccrAV4gDN4q4YR) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music: Vampirina \- Ghoul Girls Rock!](https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf) | 1:05 | 2020-04-22 |  |
 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 | 2020-04-22 |  |
 | [Going on a Mission](https://open.spotify.com/track/4aY2hh55axhL2qYYqXNoOM) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 0:38 | 2020-04-22 |  |

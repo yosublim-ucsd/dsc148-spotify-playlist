@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-312 songs - 14 hr 27 min
+313 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ) | 2:30 | 2022-09-08 | 2022-09-23 |
 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Karen](https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 | 2021-12-16 | 2022-11-02 |
 | [Raggarbil](https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:15 | 2022-10-20 |  |
+| [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/track/1Rl4O8fqcMTBN8o2rilFBL) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [DANJAL](https://open.spotify.com/artist/4HUyn4KZwjD66czjxk8SxN) | [RAGGARBILAR \(WARRA WARRA\)](https://open.spotify.com/album/25wtWAZwZCTg3qIIhasZXh) | 2:01 | 2023-08-10 |  |
 | [Ragge](https://open.spotify.com/track/6Zs81zXoJ7SVL9vmwRMV8i) | [Thomassen & Berg](https://open.spotify.com/artist/2h3XAFvVOB0uIWDcucNzv2) | [Ragge](https://open.spotify.com/album/4P1Pf5kUXT5XUSYUqdtKxO) | 2:05 | 2022-01-20 | 2022-07-03 |
 | [Raggen](https://open.spotify.com/track/33C7lhLNX5KKMyzrIi4bEo) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Raggen](https://open.spotify.com/album/0UcMYS1DaPVY48qykyef6p) | 2:28 | 2022-04-14 | 2022-06-24 |
 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 | 2022-09-22 |  |
@@ -304,7 +305,7 @@
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |
 | [Vi tar det igjen neste år](https://open.spotify.com/track/0xwR5vB4PYsfBgWhTSXpXV) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Vi tar det igjen neste år](https://open.spotify.com/album/5TdfrM5ed5gG9sX4k06PoZ) | 3:00 | 2021-12-16 | 2022-10-16 |
-| [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 |  |
+| [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 | 2023-08-13 |
 | [Vill ha dig](https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t) | [Vill ha dig](https://open.spotify.com/album/5xYfkDkUxtuCL6jhUPpnZ7) | 3:13 | 2022-01-06 | 2022-07-25 |
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |
 | [VÄRDELÖS](https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [VÄRDELÖS](https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB) | 2:05 | 2023-08-03 | 2023-08-11 |

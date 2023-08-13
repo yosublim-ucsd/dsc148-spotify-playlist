@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Micha\u00ebl Brun and Joeboy ",
-  "num_followers": 210518,
+  "num_followers": 210646,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ1OTM0OGUxMTIwNDg0NTMyMWFiM2MxN2U0NjlkZjc4ZWMyYjZk",
+  "snapshot_id": "MCw3MGQxNGUxY2EzMmVhNzg3ZTI2YjJmYWM1YmNhNmRkMTYxNjQ5Mzgx",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Gbese",
-        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 162991,
-      "name": "Gbese",
-      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Gbese",
+        "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 162991,
+      "name": "Gbese",
+      "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "All Over You / Mon B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 140246,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "All Over You / Mon B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 140246,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Riddim 5",
+        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Not Worthy (feat. Nonso Amadi)",
         "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 192208,
       "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Riddim 5",
-        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
       "added_at": "2023-08-10 23:00:00",

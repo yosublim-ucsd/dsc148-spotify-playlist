@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2279,
+  "num_followers": 2294,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
+  "snapshot_id": "MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
-      },
-      "artists": [
-        {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
-        }
-      ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176773,
       "name": "Bombero Eh",
       "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+      },
+      "artists": [
+        {
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+        }
+      ],
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 261386,
       "name": "Preparate Reparada (Guembe) [Live]",
       "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "Meliton Tombe",
+      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,18 +571,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
       },
       "artists": [
         {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
         }
       ],
-      "duration_ms": 154240,
-      "name": "Meliton Tombe",
-      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
+      "duration_ms": 257506,
+      "name": "Yerba Bruja",
+      "url": "https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -583,38 +615,6 @@
       "duration_ms": 227000,
       "name": "Una Noche En Borinquen",
       "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Mucho Gusto, Soy de la Isla",
-        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la Cresta",
-          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        }
-      ],
-      "duration_ms": 257506,
-      "name": "Yerba Bruja",
-      "url": "https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -671,74 +671,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
-      },
-      "artists": [
-        {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Candela (Seis Corrido) [Live]",
-      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Org\u00e1nico y Medicinal",
-        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
-      },
-      "artists": [
-        {
-          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
-          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
-        }
-      ],
-      "duration_ms": 300674,
-      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
-      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -767,6 +699,74 @@
       "duration_ms": 239346,
       "name": "Soy Plenero Soy",
       "url": "https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+      },
+      "artists": [
+        {
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Candela (Seis Corrido) [Live]",
+      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Org\u00e1nico y Medicinal",
+        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
+      },
+      "artists": [
+        {
+          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
+          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
+        }
+      ],
+      "duration_ms": 300674,
+      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
+      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
     },
     {
       "added_at": "2023-06-13 22:15:19",

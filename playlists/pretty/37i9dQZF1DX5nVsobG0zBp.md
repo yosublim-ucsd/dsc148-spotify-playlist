@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,389 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,429 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 41 | [La Bella Mafia](https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:00 |
 | 42 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 43 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 |
-| 44 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
-| 45 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 44 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 45 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
 | 46 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 |
 | 47 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 48 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
 | 49 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
-| 50 | [Aguarela](https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 3:17 |
-| 51 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
+| 50 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
+| 51 | [Aguarela](https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 3:17 |
 | 52 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
 | 53 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
 | 54 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 63 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
 | 64 | [FAMA](https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [FAMA](https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI) | 2:29 |
 | 65 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
-| 66 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 67 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
+| 66 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
+| 67 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 68 | [Suprior](https://open.spotify.com/track/1u2KCIJPqtsl9Vz243FQtp) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Suprior](https://open.spotify.com/album/2NVz7NmPPqJuuG7D4W7VNW) | 2:39 |
 | 69 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 | 70 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 75 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 
-Snapshot ID: `MCxmNDRlNjVkYzViMTcwNjhiN2ZjNzIzNWRmZTZiMGFlZWI0MWVkYTFm`
+Snapshot ID: `MCxiZGEzYThkYzk2OGNkZTZlNDZmZTRhMjQ0NTJmNjdjNTgyY2Y0YTEy`

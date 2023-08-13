@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,096 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,187 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 18 | [High End](https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 2:56 |
 | 19 | [Unforgettable](https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Unforgettable](https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm) | 3:32 |
 | 20 | [Hoops](https://open.spotify.com/track/6yAwGkkTU4q4vkgufzOVXH) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
-| 21 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 |
-| 22 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 |
+| 21 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 |
+| 22 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 |
 | 23 | [Peed](https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 4:24 |
 | 24 | [Welcome to My Hood](https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Welcome to My Hood](https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK) | 4:00 |
 | 25 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 28 | [Whiskey](https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:25 |
 | 29 | [Big Scene](https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Con.Fi.Den.Tial](https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD) | 3:27 |
 | 30 | [Track Suit](https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:18 |
-| 31 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 |
-| 32 | [Jatti](https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:59 |
-| 33 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
+| 31 | [Jatti](https://open.spotify.com/track/2fH3WsTNUlnGqcXwuu7aTx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:59 |
+| 32 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
+| 33 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 |
 | 34 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 |
 | 35 | [Muchh](https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Muchh](https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS) | 3:25 |
 | 36 | [Dhan Guru Nanak](https://open.spotify.com/track/2ANLVRKX1yKrYODxZH5EBX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Dhan Guru Nanak](https://open.spotify.com/album/04HkWmXIM1ZorFIs3BucsR) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 49 | [Kharku](https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:37 |
 | 50 | [Strawberry](https://open.spotify.com/track/4EQxlW6xqddgkzeno3I2Xe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:51 |
 
-Snapshot ID: `MCwzYTY5NTZlMWVlZmVkMGRmNmEwNmU0ZjdiMzY4OWNkNDljNTM0M2Nj`
+Snapshot ID: `MCxlNDc2NWEwMjgwZmVmNGI2MmJkZDAzOTA2Mzc5ZjZjZmY2NmJhZjEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: MJ Lenderman
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 127 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,577 likes - 127 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 30 | [Splash](https://open.spotify.com/track/1XZw7J3QerIqF253V4zQgf) | [Charlie Martin](https://open.spotify.com/artist/4FAFa9p2vpYWRZdUpcAKH4) | [Splash](https://open.spotify.com/album/46C8dnY1oEzXsDg7qrlkaE) | 4:20 |
 | 31 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
 | 32 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 |
-| 33 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
+| 33 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 34 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 |
 | 35 | [So Long](https://open.spotify.com/track/3lqyDhYF2LySUAxc1PFlsN) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [So Long](https://open.spotify.com/album/6tAMhO8WV1WPcDglep3DpM) | 3:54 |
 | 36 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 126 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 127 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCxmMTM5NzY2MzU1MDI1NTgyYWY5MGI2MmMwODU3ZTUzNjc3MGYyNzBj`
+Snapshot ID: `MCxiMzMyMGFmNjNkOGM3NmE0MmNjMGRjN2RkNDZlMTI2MTI2MWRmNzY2`

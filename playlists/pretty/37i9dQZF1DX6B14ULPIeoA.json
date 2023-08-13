@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 45315,
+  "num_followers": 45353,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
+  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
   "tracks": [
     {
       "added_at": "2023-02-13 15:38:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "El Banco De La Plaza",
-        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 277258,
-      "name": "El Banco De La Plaza",
-      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Serenata Huasteca",
         "url": "https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "El Banco De La Plaza",
+        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 277258,
+      "name": "El Banco De La Plaza",
+      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+      "duration_ms": 186500,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -547,22 +547,6 @@
       "duration_ms": 130500,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -591,6 +575,22 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -703,26 +703,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -759,6 +751,30 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Cerezo Rosa",
         "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 184000,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Guitarras Mexicanas, Vol. 2",
-        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Duo: Ramos - Monterrubio",
-          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Serenata Campechana",
-      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+        "name": "Guitarras Mexicanas, Vol. 2",
+        "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Duo: Ramos - Monterrubio",
+          "url": "https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+      "duration_ms": 256613,
+      "name": "Serenata Campechana",
+      "url": "https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Presentimiento",
         "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180400,
       "name": "Presentimiento",
       "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Y Todo Para Que",
+        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 152372,
+      "name": "Y Todo Para Que",
+      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 302093,
       "name": "Cucurrucuc\u00fa paloma",
       "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Y Todo Para Que",
-        "url": "https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 152372,
-      "name": "Y Todo Para Que",
-      "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "De que manera te olvido",
+      "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 145125,
       "name": "Me Muero Sin Tus Besos",
       "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "De que manera te olvido",
-      "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 181292,
-      "name": "Se Me Olvido Otra Vez",
-      "url": "https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 249000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+        }
+      ],
+      "duration_ms": 181292,
+      "name": "Se Me Olvido Otra Vez",
+      "url": "https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj"
     },
     {
       "added_at": "2023-02-13 15:38:00",

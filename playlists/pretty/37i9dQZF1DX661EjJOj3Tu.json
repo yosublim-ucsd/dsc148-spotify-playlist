@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 513476,
+  "num_followers": 513578,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmQyODBjZmY1NWUwMDQyZWU0ZTU0YTljODY2YzlhNjQxYzI3Y2Uw",
+  "snapshot_id": "MCxlNWNiZDFiNWQzYTZhMzhkODdhNWVlM2E3NDg3NzY2Yzc2MDAwOGJm",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "How Did You Get In My Dreams?",
+        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "How Did You Get In My Dreams?",
+      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "How Did You Get In My Dreams?",
-        "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "How Did You Get In My Dreams?",
-      "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "E Music",
+        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
+      },
+      "artists": [
+        {
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+        }
+      ],
+      "duration_ms": 341066,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 505323,
       "name": "2/3's Adventure",
       "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "E Music",
-        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
-      },
-      "artists": [
-        {
-          "name": "Pete Escovedo",
-          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
-        }
-      ],
-      "duration_ms": 341066,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 417302,
       "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
       "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Latin Fever",
         "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 314546,
       "name": "Batida diferente",
       "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -935,6 +935,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Trumpet Evolution",
+        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "ONCE: Concierto para Dos",
         "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
       },
@@ -959,22 +991,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Trumpet Evolution",
-        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/75bq0AKsv6CNCI6oVT57bL"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 598869,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/2kSWdfrY0yq0CV9U6DqyyW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5adCpfWaVDZUorqk15ScHj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Going Out Of My Head",
-      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Soul Burst",
         "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 289986,
       "name": "Descarga Vald\u00e9s",
       "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Going Out Of My Head",
+      "url": "https://open.spotify.com/track/3YHzAqT2wt90nVsBLHZ2UH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 353840,
       "name": "Soul Bourgeoisie",
       "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1247,22 +1247,6 @@
       "duration_ms": 320480,
       "name": "Solo Esta Soledad",
       "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
-      },
-      "artists": [
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1303,6 +1287,38 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+      },
+      "artists": [
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1363,18 +1379,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 250080,
+      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
     },
     {
       "added_at": "2023-08-11 04:00:00",

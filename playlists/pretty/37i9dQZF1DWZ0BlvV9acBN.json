@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 123452,
+  "num_followers": 123590,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2IyN2I4NDY4MzEwY2JiMzg4ODU3NWIwMzUxMmI0ZTZkODk3YWMw",
+  "snapshot_id": "MCxmNzY4Y2VhOTRjMDEyNjVhOTYxZDZkNjk2YjVhYTBhMjE3NTFlN2Iz",
   "tracks": [
     {
       "added_at": "2023-08-04 17:53:24",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Baile das M\u00e1scaras",
-        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
         }
       ],
-      "duration_ms": 215754,
-      "name": "Baile das M\u00e1scaras",
-      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
+      "duration_ms": 333250,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
+        "name": "Baile das M\u00e1scaras",
+        "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
       },
       "artists": [
         {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
         }
       ],
-      "duration_ms": 333250,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
+      "duration_ms": 215754,
+      "name": "Baile das M\u00e1scaras",
+      "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -375,42 +375,6 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Bartimeu",
-        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Marcos Miranda",
-          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Bartimeu",
-      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2023-08-04 17:53:24",
-      "album": {
         "name": "O Que Me Espera",
         "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
       },
@@ -431,18 +395,54 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Bartimeu",
+        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Marcos Miranda",
+          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Bartimeu",
+      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "added_at": "2023-08-04 17:53:24",
+      "album": {
+        "name": "Nada Vai Me Parar",
+        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Nada Vai Me Parar",
+      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
     },
     {
       "added_at": "2023-08-04 17:53:24",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-08-04 17:53:24",
       "album": {
-        "name": "Nada Vai Me Parar",
-        "url": "https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv"
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         }
       ],
-      "duration_ms": 229320,
-      "name": "Nada Vai Me Parar",
-      "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2023-08-04 17:53:24",

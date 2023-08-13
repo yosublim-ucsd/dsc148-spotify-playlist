@@ -2,9 +2,9 @@
 
 ### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs?si=92e7441706e64118">Tommy Royale</a>, <a href="https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv?si=d6b20d5fdda349da">Samuel ASH</a>, y <a href="https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp?si=8b8f38368fc44e8c">Alexxander</a>
+> Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ?si=JDSWzJmlTo\-vUzPV3na3NQ">Dariann González</a>
 
-1,132 songs - 3 day 9 hr 9 min
+1,132 songs - 3 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Ira de Dios](https://open.spotify.com/track/5AjYjR6UvizbaXBcYRDrWu) | [Josías Onoto](https://open.spotify.com/artist/0aItvaN8OoSSCwTtDGvIWN) | [Ira de Dios](https://open.spotify.com/album/36POgdTZG9jliGR51WESvQ) | 4:18 | 2023-03-03 | 2023-04-01 |
 | [Ironía](https://open.spotify.com/track/3mTGHZgNiop4UsM4Wf5dOp) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Ironía](https://open.spotify.com/album/77ivq2vF8TE06VqcbRptrc) | 3:42 | 2022-02-25 | 2022-04-07 |
 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 | 2022-07-15 | 2022-09-17 |
-| [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 2:36 | 2023-08-11 |  |
+| [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 | 2023-08-11 |  |
 | [It's Time](https://open.spotify.com/track/00Ljbb0OUgLG5P7RTfEFPJ) | [Emsy](https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq), [Adam J](https://open.spotify.com/artist/5ehJu2PBe9ft4gWgaFzI8C), [Dek PG](https://open.spotify.com/artist/2sMobJtSzF7GvOJz1jsafp) | [It's Time](https://open.spotify.com/album/6dA7bmE5iGLTDrTfCSmEKv) | 4:42 | 2023-03-24 | 2023-04-29 |
 | [Jamás Me Rendiré](https://open.spotify.com/track/1xKaYpefzWujANkWWJvLO2) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Jamás Me Rendiré](https://open.spotify.com/album/6Jy9ykHUGs9A9X6wDaX3bx) | 4:39 | 2023-03-24 | 2023-04-29 |
 | [Jehová](https://open.spotify.com/track/4uBxgE6c71YpmQIHNmYA1L) | [Rosa Karina](https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx) | [Jehová](https://open.spotify.com/album/7svGiRrFOew5cc63koVAs4) | 5:52 | 2023-06-30 |  |

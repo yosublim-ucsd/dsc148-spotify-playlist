@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Tone Stith
 
-1,363 songs - 3 day 0 hr 43 min
+1,364 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,7 +852,8 @@
 | [Oh Boy](https://open.spotify.com/track/2KtsTY9ZqvAEsdDhqyVIlU) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop) | [Frequency](https://open.spotify.com/album/4Fg1QI986Y9be7JHFTf3I1) | 3:42 | 2022-11-04 | 2023-01-06 |
 | [Oh Dear](https://open.spotify.com/track/5BSII2hWfTjJPXts8xcJOl) | [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Oh Dear](https://open.spotify.com/album/7Lv4TIe9prKJMgvbRHJ5QE) | 4:05 | 2023-06-30 |  |
 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 | 2023-05-26 | 2023-07-29 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-04 |  |
 | [Old Thang Back](https://open.spotify.com/track/1jihXYhPvm3hIxwfvdfvRv) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Swayvo Twain](https://open.spotify.com/artist/6CyEvfJ8PILH1PxdfQtaFr) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:28 | 2023-05-19 | 2023-07-08 |
 | [Old Thing Back](https://open.spotify.com/track/4pyzN0WiFgEjlldseOhiA7) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Old Thing Back](https://open.spotify.com/album/0e2CyC0mTovHHEcdhJxT7g) | 1:38 | 2022-12-09 | 2023-01-06 |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-16 | 2023-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: LEOPARD, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,233 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,238 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 33 | [Give Me](https://open.spotify.com/track/4GTHQUI8z2EXUJEWLnBPme) | [RCSE](https://open.spotify.com/artist/2JfaT4Q3Tf0PasGbUgBuRT), [Samon Kawamura](https://open.spotify.com/artist/4rq4prsgvKLOfOU0MIWycc) | [Give Me](https://open.spotify.com/album/3ACgjQmdPKnYpYWeF1YdyH) | 3:12 |
 | 34 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 |
 | 35 | [Sicher nicht](https://open.spotify.com/track/690HBCkezvvPXWjDkOD0Pr) | [Streichelt](https://open.spotify.com/artist/7pMN4vp0od5iZvA59GNQ1R) | [Sicher nicht](https://open.spotify.com/album/1k9ze3n8kBIY40nqVZJ6Uo) | 2:36 |
-| 36 | [The Trap](https://open.spotify.com/track/42x6wBHYjVFcU3a8VJK718) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ) | [The Trap](https://open.spotify.com/album/5k2P49yhcKqYSEYnKd3C7H) | 5:02 |
+| 36 | [The Trap](https://open.spotify.com/track/42x6wBHYjVFcU3a8VJK718) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ), [Laut & Luise](https://open.spotify.com/artist/2AfR24rIhReKAoUrxR8Bea) | [The Trap](https://open.spotify.com/album/5k2P49yhcKqYSEYnKd3C7H) | 5:02 |
 | 37 | [Can I Say It Yet?](https://open.spotify.com/track/4OKExphSevUflj5XEmF7Cc) | [Izzy Díaz](https://open.spotify.com/artist/60Mt10tWnEQbzVpmhFq86O), [Fredrik Leonard](https://open.spotify.com/artist/3q8JznVk7WcASq4RgADnIZ) | [Can I Say It Yet?](https://open.spotify.com/album/7FI2fBnF18a0Aa7dAY21IZ) | 4:10 |
 | 38 | [Osmosis](https://open.spotify.com/track/7GLkdJoduU6tnOtJ1df1Jt) | [HOPE](https://open.spotify.com/artist/1wwdZiPDXIR9nGbd2Fh279) | [Osmosis](https://open.spotify.com/album/4TOsuC3jWqVEfVBcS7akTz) | 3:30 |
 | 39 | [Hide And Seek](https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe) | [Josh Byrd](https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ) | [Hide And Seek](https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Almost](https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Almost](https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr) | 5:43 |
 | 80 | [Wasting Time](https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt) | [Ant Antic](https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh) | [Wasting Time](https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm) | 3:11 |
 
-Snapshot ID: `MCw3MmJiMzk1ZWM1Y2MwYWI3NzM0NzAwZTFjMDRhODdhNDdjNzgyZDYz`
+Snapshot ID: `MCxiODU1ZWYzYmEzMGQ1N2Y3ODBmMDk1YWExNDI5ZmY0N2FhODgxM2Ux`

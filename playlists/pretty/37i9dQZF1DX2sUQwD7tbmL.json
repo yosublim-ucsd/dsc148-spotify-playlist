@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1966191,
+  "num_followers": 1966643,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWRiOTk0MzBlYWYwNjk5NTg0YTg0NWU3OTFkNmZlZjJjNWI5YjJk",
+  "snapshot_id": "MCwyMmMwNzMzMmZmMWJjOTM3OTAyY2EwM2MyMGQ3NDQ1MzZmOGUyYjlj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -216,8 +216,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -708,8 +708,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 207009,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Tell It to the Volcano",
-        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
-      },
-      "artists": [
-        {
-          "name": "Miniature Tigers",
-          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Like or Like Like",
-      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219053,
       "name": "Social Cues",
       "url": "https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Tell It to the Volcano",
+        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
+      },
+      "artists": [
+        {
+          "name": "Miniature Tigers",
+          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Like or Like Like",
+      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 208980,
+      "name": "Temper Temper",
+      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "help herself",
         "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 188571,
       "name": "help herself",
       "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 208980,
-      "name": "Temper Temper",
-      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
-      "added_at": "2023-07-11 13:10:21",
-      "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 226610,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Walk The Moon",
@@ -1191,6 +1175,22 @@
       "duration_ms": 321280,
       "name": "Anna Sun",
       "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+    },
+    {
+      "added_at": "2023-07-11 13:10:21",
+      "album": {
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 226610,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Next Exit",
-        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Next Exit",
-      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 250521,
       "name": "Unknown Song",
       "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "No Time to Explain",
-        "url": "https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS"
-      },
-      "artists": [
-        {
-          "name": "Good Kid",
-          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
-        }
-      ],
-      "duration_ms": 156122,
-      "name": "No Time to Explain",
-      "url": "https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "No Time to Explain",
+        "url": "https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 156122,
+      "name": "No Time to Explain",
+      "url": "https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sweet FA",
         "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
@@ -1615,22 +1631,6 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Pressure To Party",
+      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Tell Me That It\u2019s Over",
         "url": "https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm"
       },
@@ -1719,38 +1735,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Pressure To Party",
-      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 250320,
-      "name": "Dope on a Rope",
-      "url": "https://open.spotify.com/track/76c1AuZodByXM3X2k48wju"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1767,18 +1751,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Spring EP",
-        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Pictures of Girls",
-      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
+      "duration_ms": 250320,
+      "name": "Dope on a Rope",
+      "url": "https://open.spotify.com/track/76c1AuZodByXM3X2k48wju"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1827,6 +1811,22 @@
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Spring EP",
+        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Pictures of Girls",
+      "url": "https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "warm glow",
         "url": "https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 198106,
       "name": "baseball",
       "url": "https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "What Could Be Better",
-        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
-      },
-      "artists": [
-        {
-          "name": "The Happy Fits",
-          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 151837,
       "name": "Wish We Could Be Friends",
       "url": "https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
     },
     {
       "added_at": "2023-05-26 04:00:00",

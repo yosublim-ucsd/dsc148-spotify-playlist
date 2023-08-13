@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 127859,
+  "num_followers": 128071,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzJkM2Q4OWFhZmQxOGNiYjA1YWFiMGIxNzRmMTVlMjMxNmQwZGE2",
+  "snapshot_id": "MCxkMTYyNTFkNTBkYjVmMTFiODQwMzMzMGI0Y2ZmYTc1MzZlMzZjMzI3",
   "tracks": [
     {
       "added_at": "2023-07-23 16:12:52",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 106420,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 222207,
       "name": "Life In A Jar",
       "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 106420,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "I've Been Bored",
+      "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
         "name": "Horse Jumper of Love",
         "url": "https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 182885,
       "name": "sanjake",
       "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "I've Been Bored",
-      "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Planet of Ice",
-        "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "RARE",
         "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217133,
       "name": "Neurotic",
       "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Planet of Ice",
+        "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Keep Telling Myself It's Alright",
         "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229080,
       "name": "The Stone",
       "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Word Gets Around",
-        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Not Up To You",
-      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "12th House Rock",
         "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 203600,
       "name": "Night Tryst",
       "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Word Gets Around",
+        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Not Up To You",
+      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/5aHufmLPJqWTDLNV9Ppj60"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4M7kp5G0wFJOxYr3VPaJT2"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Thank You For Being Here",
-        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/5aHufmLPJqWTDLNV9Ppj60"
       },
       "artists": [
         {
-          "name": "cursetheknife",
-          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
         }
       ],
-      "duration_ms": 313340,
-      "name": "Feeling Real",
-      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4M7kp5G0wFJOxYr3VPaJT2"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2027,6 +2011,22 @@
       "duration_ms": 246306,
       "name": "Backroads",
       "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Thank You For Being Here",
+        "url": "https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C"
+      },
+      "artists": [
+        {
+          "name": "cursetheknife",
+          "url": "https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA"
+        }
+      ],
+      "duration_ms": 313340,
+      "name": "Feeling Real",
+      "url": "https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 203062,
-      "name": "Face Down",
-      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Last Orders",
         "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 238693,
       "name": "Last Orders",
       "url": "https://open.spotify.com/track/13gy7iQVtO6IR96VM8IQTJ"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/66fM2xo6aWI1z0nsmTXeD0"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 203062,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
         "name": "VINYL: THE ESSENTIALS: BEST OF SEASON 1",
         "url": "https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 167466,
       "name": "Where Are You Now?",
       "url": "https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2023-07-23 16:12:52",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-07-23 16:12:52",
       "album": {
-        "name": "Hello Operator",
-        "url": "https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST"
-      },
-      "artists": [
-        {
-          "name": "Hello Operator",
-          "url": "https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu"
-        }
-      ],
-      "duration_ms": 250847,
-      "name": "I Created a Monster",
-      "url": "https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL"
-    },
-    {
-      "added_at": "2023-07-23 16:12:52",
-      "album": {
         "name": "Major / Minor",
         "url": "https://open.spotify.com/album/0xQYyIZThYYrCWcVqRNybH"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 191657,
       "name": "Always",
       "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
+    },
+    {
+      "added_at": "2023-07-23 16:12:52",
+      "album": {
+        "name": "Hello Operator",
+        "url": "https://open.spotify.com/album/0L8eoDqsuGx70gpsCKOvST"
+      },
+      "artists": [
+        {
+          "name": "Hello Operator",
+          "url": "https://open.spotify.com/artist/4BfhKwASniibfHDVLWwQEu"
+        }
+      ],
+      "duration_ms": 250847,
+      "name": "I Created a Monster",
+      "url": "https://open.spotify.com/track/1F8WE9yIpZ2Te7hHoRA4KL"
     },
     {
       "added_at": "2023-07-23 16:12:52",

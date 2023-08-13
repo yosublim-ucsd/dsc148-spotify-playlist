@@ -1,12 +1,12 @@
 {
   "description": "Canciones para sacarle brillo a la pista de baile.",
-  "num_followers": 91892,
+  "num_followers": 91936,
   "original_name": "Sal\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjMzMGM3ZTBlMzc4ODM2ODdhNDY1NDQ1OTkzMjNmOGVhMGQ2NWYx",
+  "snapshot_id": "MCxjZWE3ZDEyNzRmYWIwNWUwMzg3OWU3ZTJhMmNmNzc2ODkzMjcwZjY5",
   "tracks": [
     {
       "added_at": "2023-08-03 16:42:02",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+        "name": "Contraste",
+        "url": "https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "Contraste",
-        "url": "https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
         "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
         "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 264312,
       "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
       "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2023-08-03 16:42:02",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-03 16:42:02",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2023-08-03 16:42:02",
-      "album": {
         "name": "El Hombre Mas Famoso De La Tierra",
         "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 205333,
       "name": "Guallando",
       "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
+    },
+    {
+      "added_at": "2023-08-03 16:42:02",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2023-08-03 16:42:02",

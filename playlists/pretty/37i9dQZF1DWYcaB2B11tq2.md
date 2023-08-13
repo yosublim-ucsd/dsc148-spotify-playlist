@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,479 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,633 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 62 | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF) | 6:49 |
 | 63 | [No Más](https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF) | 3:26 |
 | 64 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
-| 65 | [Incontrolable Amor](https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Incontrolable Amor](https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0) | 5:33 |
+| 65 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
 | 66 | [No Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:46 |
 | 67 | [Mi Roca](https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragmentos del Cielo](https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR) | 3:32 |
-| 68 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
+| 68 | [Incontrolable Amor](https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Incontrolable Amor](https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0) | 5:33 |
 | 69 | [El Cielo Gobierna](https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy) | 4:25 |
 | 70 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 71 | [Cielo](https://open.spotify.com/track/7ziyHwHIJ81y5uaw8la5q6) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Nuevo Comienzo](https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Digno Es El Señor](https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Ha Vencido, Ha Triunfado](https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl) | 6:01 |
 | 75 | [Sobre Mí](https://open.spotify.com/track/5QINbr4C1Qufiqj0WOGF4V) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Sobre Mi](https://open.spotify.com/album/1CXlie7i26wGMJlpUXh2Pv) | 5:45 |
 
-Snapshot ID: `MCwxYjUwYjg2OTk1ZjliZDQ3OTcxNWExMjMyODk5MGExN2VhNzllNWVk`
+Snapshot ID: `MCwxM2U5Y2Q5ZTcwZWE3Yjc4Zjc4MGI3ODUzZjdkYmVjYWEzMDJlNzc5`

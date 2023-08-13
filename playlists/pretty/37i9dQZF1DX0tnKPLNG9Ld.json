@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 68859,
+  "num_followers": 68988,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY1OTJjOTNhZTY1YjEyOGRiOTJiNjg2ZWZjODgxYzAyNTMwMTdj",
+  "snapshot_id": "MCw0OTQxODAzNGMzYzc3MTc5MWEwZWMxYzM3OTg1ZjVmNzM5OWEwNTFh",
   "tracks": [
     {
       "added_at": "2023-08-10 08:34:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-10 08:34:20",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -535,38 +519,6 @@
       "duration_ms": 132160,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2023-08-10 08:34:20",
@@ -587,6 +539,54 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2023-08-10 08:34:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-10 08:34:20",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
         "name": "Mr. Top Hat",
         "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 175386,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-08-10 08:34:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-10 08:34:20",
       "album": {
-        "name": "April In Paris (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 299160,
       "name": "I Love Being Here With You",
       "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2023-08-10 08:34:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-10 08:34:20",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 253056,
-      "name": "Is a Good Man Real?",
-      "url": "https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
         "name": "The Complete Decca Recordings",
         "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 182666,
       "name": "One O'Clock Jump",
       "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 253056,
+      "name": "Is a Good Man Real?",
+      "url": "https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu"
     },
     {
       "added_at": "2023-08-10 08:34:20",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-10 08:34:20",
       "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
-    },
-    {
-      "added_at": "2023-08-10 08:34:20",
-      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 144840,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+    },
+    {
+      "added_at": "2023-08-10 08:34:20",
+      "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-08-10 08:34:20",

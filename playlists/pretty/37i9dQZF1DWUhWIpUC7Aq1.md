@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,491 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,601 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 54 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
 | 55 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 |
 | 56 | [Title and Registration](https://open.spotify.com/track/0COWVvFfJ7sPNI8CIS6TU7) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 3:39 |
-| 57 | [The Start of Something](https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos) | [Voxtrot](https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW) | [Early Music](https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH) | 4:32 |
-| 58 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
+| 57 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
+| 58 | [The Start of Something](https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos) | [Voxtrot](https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW) | [Early Music](https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH) | 4:32 |
 | 59 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
 | 60 | [Atop a Cake](https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:19 |
 | 61 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 1:52 |
 | 62 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
-| 63 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
-| 64 | [Blue Skies](https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 4:07 |
-| 65 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
+| 63 | [Blue Skies](https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 4:07 |
+| 64 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
+| 65 | [Fidelity](https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope \(Special Edition\)](https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a) | 3:46 |
 | 66 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 67 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
 | 68 | [Cut Your Bangs](https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:06 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 89 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
 | 90 | [Nothing to Be Done](https://open.spotify.com/track/4iNVdv8dp78FqTR6Wn8WHf) | [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [Truckload of Trouble](https://open.spotify.com/album/7DwNWxtAIKRuMEbR9TYwRd) | 3:52 |
 | 91 | [Seventeen](https://open.spotify.com/track/2CQZalbSGicedttPGtY06n) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 3:28 |
-| 92 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
-| 93 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
+| 92 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
+| 93 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
 | 94 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
 | 95 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 96 | [Here We Go](https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF) | [Punch\-Drunk Love](https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB) | [Punch\-Drunk Love \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
 | 100 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:50 |
 
-Snapshot ID: `MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi`
+Snapshot ID: `MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw`

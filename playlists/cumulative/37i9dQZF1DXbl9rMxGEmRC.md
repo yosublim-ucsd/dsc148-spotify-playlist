@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-466 songs - 1 day 15 hr 49 min
+467 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 | 2023-04-22 |
 | [Dark Medieval Times](https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times](https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC) | 8:11 | 2022-07-13 | 2022-07-29 |
 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 | 2022-07-13 |  |
+| [Dark Wings of Deception](https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Goliath](https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv) | 4:53 | 2023-08-11 |  |
 | [Datalysium](https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Datalysium](https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG) | 7:01 | 2023-07-21 |  |
 | [Dawn Never Breaks](https://open.spotify.com/track/6ZrXr1vAlFq1zjJanMGddY) | [Destinity](https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6), [Andy Gillion](https://open.spotify.com/artist/5XFD3Ovpy2MkJ1DFGxrH1O) | [Dawn Never Breaks](https://open.spotify.com/album/4QJZuKTCSuq4XmyHbVmmll) | 5:36 | 2021-12-17 | 2022-04-29 |
 | [Day Of Reckoning](https://open.spotify.com/track/60WxTHidnICRt1b4JdoWWC) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Day Of Reckoning](https://open.spotify.com/album/5zWNR6TtpcdMCKzGmj8auM) | 7:33 | 2022-02-11 | 2022-07-26 |
@@ -327,7 +328,7 @@
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 | 2022-07-28 |
 | [Reign Of Fate](https://open.spotify.com/track/3wFqj9dM7GptoByndbI121) | [Miseration](https://open.spotify.com/artist/625deL9i1oococeGlHdSQe) | [Reign Of Fate](https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI) | 6:13 | 2022-04-01 | 2022-07-18 |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
-| [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 |  |
+| [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 | 2023-08-13 |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-05-26 |  |
 | [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 | 2022-07-23 |
 | [Ring](https://open.spotify.com/track/0llyhbLguHtMnlW9wliY6a) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Ring](https://open.spotify.com/album/20rMONOdvEXzXaFscOEtpz) | 4:40 | 2023-06-30 | 2023-07-04 |
@@ -339,8 +340,8 @@
 | [Sacred](https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Slasher \- EP](https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu) | 4:29 | 2023-06-02 |  |
 | [Sadist](https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Sadist](https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM) | 2:58 | 2021-12-17 | 2022-07-28 |
 | [Salomon's Gate](https://open.spotify.com/track/6BcdUH19ScZk69Sj4oXArV) | [Beherit](https://open.spotify.com/artist/3EHztVB0kFpqp0N8MlmD1X) | [Drawing Down the Moon](https://open.spotify.com/album/3tcK4M3vx2yKtPRm9WbDm4) | 3:39 | 2022-07-13 | 2022-07-24 |
-| [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 | 2022-07-13 | 2023-08-12 |
-| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 |  |
+| [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 | 2022-07-13 |  |
+| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 | 2023-08-13 |
 | [Scars In The Landscape Of God](https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Nachthymnen / Orkblut \- The Retaliation](https://open.spotify.com/album/5DlUPLWGhIW5KcsS4zMYMI) | 6:13 | 2022-07-13 | 2022-07-24 |
 | [Scorched Quadrant](https://open.spotify.com/track/2jEtngpITq9GPbxN9aRbGc) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Singularity \(Phase II \- Xenotaph\)](https://open.spotify.com/album/5Rf3QTxZ42Lghe4pgIxc2o) | 5:05 | 2023-06-23 |  |
 | [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 | 2023-06-28 |

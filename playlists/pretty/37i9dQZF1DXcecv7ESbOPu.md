@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,142 likes - 106 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,153 likes - 106 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Low Key Let Go](https://open.spotify.com/track/5YG7KjZCYXydo4IIuBXN9z) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Low Key Let Go](https://open.spotify.com/album/4i2mJnb97pi1t3d8s4ZJbK) | 3:07 |
 | 106 | [Lele](https://open.spotify.com/track/6h995QXDnmYHN6HyUxDtqG) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF) | [Lele](https://open.spotify.com/album/0kNdQR8McQSxxYM3wdK0Ya) | 2:25 |
 
-Snapshot ID: `MCxjYzdmYjU4OGJlNzdjODNjNjMwOThjZjE2MDQ2MmQ3YjIzMTFhODIy`
+Snapshot ID: `MCxhN2YyZWE5MGVkNTFmNDYyYjlmMjQ3ZTA5ODg2YjhjODg2MzM5MTkx`

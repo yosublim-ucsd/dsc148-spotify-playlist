@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 108466,
+  "num_followers": 108950,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjNhNGNjYWJlMGZlZDJhZjUyYjlhNWE0Mjg5YjQ5OThjMjY2Mjdh",
+  "snapshot_id": "MCw2NTViOTBmMWNjZDBkYWUwYzRiNzViMzkzN2Q1Y2M5OGRjNjY4YzU1",
   "tracks": [
     {
       "added_at": "2023-07-19 14:27:54",
@@ -201,6 +201,26 @@
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
+      "added_at": "2023-08-04 16:00:42",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
       "added_at": "2023-07-12 16:22:38",
       "album": {
         "name": "RAVE",
@@ -215,22 +235,6 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2023-07-12 16:22:38",
-      "album": {
-        "name": "MATHEMATICAL DISRESPECT",
-        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 88304,
-      "name": "MATHEMATICAL DISRESPECT",
-      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "added_at": "2023-07-12 16:22:38",
@@ -253,24 +257,20 @@
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
-      "added_at": "2023-08-04 16:00:42",
+      "added_at": "2023-07-12 16:22:38",
       "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         }
       ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "added_at": "2023-07-12 16:22:38",

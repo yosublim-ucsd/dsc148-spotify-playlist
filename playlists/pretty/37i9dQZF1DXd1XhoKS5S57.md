@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,944 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,957 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 37 | [Femme Like U](https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [La Good Life](https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ) | 4:08 |
 | 38 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 39 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 |
-| 40 | [What You Waiting For?](https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:41 |
-| 41 | [Hey Mama](https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:34 |
+| 40 | [Hey Mama](https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:34 |
+| 41 | [What You Waiting For?](https://open.spotify.com/track/7bZsx7Zif6FIhrcZrh0LVm) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:41 |
 | 42 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
 | 43 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
 | 44 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 59 | [Dip It Low](https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE) | 3:21 |
 | 60 | [Flamme \- Radio Edit](https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:37 |
 
-Snapshot ID: `MCw1MzMxMmI1NmM5YWQ4ODk2MWNhODE4NDYxODE3ZTdmN2EwYWFhM2Jk`
+Snapshot ID: `MCwwNTE0MmM2YzUwMzVmMGVmYjk1NTFmOWYwOGE2YmI5ZTU3NmI1ZGNl`

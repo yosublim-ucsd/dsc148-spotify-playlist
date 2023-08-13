@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,689 likes - 102 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,770 likes - 102 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Steamroller Blues \(Live at The Honolulu International Center, Hawaii January 14, 1973\)](https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs) | 3:13 |
+| 1 | [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha From Hawaii Via Satellite \(Deluxe Edition\)](https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD) | 3:13 |
 | 2 | [Knockin' On Heaven's Door \- Live at The Royal Albert Hall](https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Knockin' On Heaven's Door \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7) | 6:11 |
 | 3 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
 | 4 | [Me and My Chauffeur](https://open.spotify.com/track/2yoC8afBO2nOnRu4kf7VoU) | [Candice Ivory](https://open.spotify.com/artist/3LvvxwFohFRBZ3iS3ocKmp), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Me and My Chauffeur](https://open.spotify.com/album/55YWEj0r4ZHaxf4ukmzMkq) | 3:32 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 101 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 102 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCw5ZmRjMDVkZDRhYmIyNmViYjFjZjlkOWJiZjYwYmE2MzQ4NWNkYjI5`
+Snapshot ID: `MCw1NzNmZWRhMzgzNDZkYmZiZWYwNTgxYTcwMWViN2ExN2E5ZDRhYjkx`

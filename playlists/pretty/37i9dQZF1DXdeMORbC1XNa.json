@@ -1,12 +1,12 @@
 {
   "description": "The African & West Indian diaspora united. Cover: J Hus",
-  "num_followers": 295371,
+  "num_followers": 295441,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmNiODE2YTZkOWUwNDE2OWE2OGY2YTNmMzA1NzM0N2YzNjdiNzU2",
+  "snapshot_id": "MCxjNjVmYWM5ZjE0MDRkMDZiYWJiNDkyODI3YTc1MjFmYTAwMjI0Yzcx",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -875,34 +891,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Lap 5",
-        "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
-      },
-      "artists": [
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
         {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 197646,
-      "name": "She's Not Anyone",
-      "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     }
   ],
   "unique_name": "Afro Bashment",

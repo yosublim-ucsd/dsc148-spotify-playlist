@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 620249,
+  "num_followers": 620338,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTAyZjlkN2JhNTQ4NTJhMTcxODM2YTA5ZWRkNDgxMWZhMjE1NGRk",
+  "snapshot_id": "MCw4NzY4NjdmNjkxOWE3NTNhZjQ1MWQ2YzdhNmI0YmMxZWE4ZGI3NTE0",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "I'm Yours",
         "url": "https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238965,
       "name": "Woman Go Wild",
       "url": "https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "By The Horns",
-        "url": "https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE"
-      },
-      "artists": [
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "It's All Okay",
-      "url": "https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 211216,
       "name": "Pain of Love",
       "url": "https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "By The Horns",
+        "url": "https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "It's All Okay",
+      "url": "https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD"
     },
     {
       "added_at": "2023-07-21 04:00:00",

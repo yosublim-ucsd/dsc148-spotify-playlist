@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 880784,
+  "num_followers": 880858,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTVkZTNlODZmMDQ2MjExZjA0ZGI3ZGI4ZWJkZWVkNTI2NGU0MTY4",
+  "snapshot_id": "MCxmZTQ3MTMxY2UyYjA0NDZlZWQxNDc1ZTI2ZmQ0ZWE5YzRjZDBhOTJh",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Steady Light (Live from LO Conference) [Deluxe]",
-        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
-        }
-      ],
-      "duration_ms": 625955,
-      "name": "Open (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "As The Deer",
         "url": "https://open.spotify.com/album/0Yirn4Rly93od1ImzN86mH"
       },
@@ -995,6 +971,22 @@
       "duration_ms": 305493,
       "name": "As The Deer",
       "url": "https://open.spotify.com/track/0O4JOPpHz1JdshdQ8PuGNe"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "One and Only Jesus",
+        "url": "https://open.spotify.com/album/50OzYCE4poMoyteNi845mA"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 235202,
+      "name": "One and Only Jesus",
+      "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1063,22 +1055,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "One and Only Jesus",
-        "url": "https://open.spotify.com/album/50OzYCE4poMoyteNi845mA"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 235202,
-      "name": "One and Only Jesus",
-      "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Praise Opens Prison Doors (Live)",
         "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 323051,
       "name": "Praise Opens Prison Doors - Live",
       "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Steady Light (Live from LO Conference) [Deluxe]",
+        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "duration_ms": 625955,
+      "name": "Open (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "ALL AGES ADMITTED",
-        "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 380964,
-      "name": "Beautiful (Hidden Worlds) - Live",
-      "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Behold Our God (Live at WorshipGod)",
         "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 340533,
       "name": "Behold Our God - Live at WorshipGod",
       "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "ALL AGES ADMITTED",
+        "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 380964,
+      "name": "Beautiful (Hidden Worlds) - Live",
+      "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "All In (Live)",
-        "url": "https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Brett Lee Miller",
-          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
-        }
-      ],
-      "duration_ms": 426052,
-      "name": "All In - Live",
-      "url": "https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "All In (Live)",
+        "url": "https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+        }
+      ],
+      "duration_ms": 426052,
+      "name": "All In - Live",
+      "url": "https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Greater (Live)",
-        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 400897,
-      "name": "Victory Of Jesus - Live",
-      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Heal My Heart (Live)",
         "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 458797,
       "name": "Heal My Heart - Live",
       "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Greater (Live)",
+        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 400897,
+      "name": "Victory Of Jesus - Live",
+      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-08-11 11:00:34",

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-461 songs - 1 day 3 hr 54 min
+462 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [9 years old](https://open.spotify.com/track/2GFlgTjfnTg4VBUpRGGTrx) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [9 years old](https://open.spotify.com/album/0NiaZ19b8CG62gtHOKxehs) | 4:41 | 2023-04-18 | 2023-05-10 |
 | [A Roller Skating Tour](https://open.spotify.com/track/0Wm2IxOesidzdRhxOZdZHa) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [A Roller Skating Tour](https://open.spotify.com/album/6eAjrTTsZ2PY0cQawXNoVs) | 4:35 | 2023-04-18 | 2023-05-24 |
 | [A Roller Skating Tour](https://open.spotify.com/track/46fnr7t24SMiZ1wOdEblMz) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [A Roller Skating Tour](https://open.spotify.com/album/40nhVsHi8moPhSFUL5rGmo) | 4:35 | 2023-04-18 | 2023-04-20 |
+| [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 |  |
 | [After Hours](https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life II](https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4) | 4:28 | 2023-05-16 |  |
 | [After Party](https://open.spotify.com/track/2eq9zlqLn7RqWkZrF85Ox4) | [Shunské G](https://open.spotify.com/artist/7nyrTOgHPowmRqSRPQML1B), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz) | [After Party](https://open.spotify.com/album/6Dlr3gWMOmQXTmjoS0QJFp) | 4:12 | 2023-04-04 | 2023-04-19 |
 | [AGAIN](https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX), [エース橋本](https://open.spotify.com/artist/3xF0OQf5S4WUAEjglxumPX) | [AGAIN](https://open.spotify.com/album/0FJvBBvvWxfHZFbWVnyjTQ) | 3:15 | 2023-05-25 | 2023-06-07 |
@@ -249,7 +250,7 @@
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-18 |  |
 | [New York](https://open.spotify.com/track/5tUvHmtOoOFzglmBlBgC2e) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [New York](https://open.spotify.com/album/5foPuNMZwUFQgkPTUBLgrY) | 6:08 | 2023-05-11 | 2023-06-11 |
 | [NEXT 2 U](https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [NEXT 2 U](https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn) | 2:49 | 2022-10-20 | 2023-01-13 |
-| [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-30 |  |
+| [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 | 2023-05-30 | 2023-08-13 |
 | [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-04 | 2023-04-26 |
 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-10-20 | 2023-07-19 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-25 |  |

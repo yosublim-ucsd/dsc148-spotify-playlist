@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: La Delio Valdez, KePersonajes.
 
-1,353 songs - 3 day 8 hr 8 min
+1,353 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/track/6qM2i722HNgqvpNBwYzKIk) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Inocente \(En Vivo En El Luna Park\)](https://open.spotify.com/album/2HsF8RzCLIH8Mz5dt1mSrf) | 5:37 | 2022-12-23 | 2023-04-09 |
 | [INTRO / CON LA FUERZA DE MI CORAZÓN / EL VIAJE / CÓMO TE HAGO ENTENDER / TE HUBIERAS IDO ANTES \- EN VIVO](https://open.spotify.com/track/5fl0aGsprKd5QHS49DqePX) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 1era Selección \(EN VIVO\)](https://open.spotify.com/album/2kyUrbceqwxz9nLr65nr5m) | 9:14 | 2023-01-13 | 2023-01-21 |
 | [Intro Homenaje al Cuarteto \- La Gaita de la Cenicienta \- En Vivo](https://open.spotify.com/track/1kG62Xjjq58dogEgqswXw6) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Homenaje al Cuarteto](https://open.spotify.com/album/29RuJlDcvFA5ED86ktO9wN) | 2:36 | 2023-06-16 | 2023-06-24 |
-| [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 2:36 | 2023-08-11 |  |
+| [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 | 2023-08-11 |  |
 | [Jamás Podré Olvidar](https://open.spotify.com/track/7fjXrlYpZkwBc7fiQ8jaGE) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Jamás Podré Olvidar](https://open.spotify.com/album/6xia6WF9XWuKUEkHYzB1Is) | 2:13 | 2022-10-28 | 2022-12-10 |
 | [JotaBé](https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [JotaBé](https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS) | 2:47 | 2023-07-28 | 2023-08-12 |
 | [Juan Mecánico](https://open.spotify.com/track/39ajNFfqmnkpgXRfbMEjv3) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbia Popular](https://open.spotify.com/album/59A0m78pbCoSZU46pKJOMl) | 2:42 | 2022-05-27 | 2022-06-18 |

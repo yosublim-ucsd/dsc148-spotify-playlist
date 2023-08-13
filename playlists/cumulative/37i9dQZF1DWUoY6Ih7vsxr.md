@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-179 songs - 10 hr 37 min
+180 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 | 2022-04-19 |  |
 | [Hot](https://open.spotify.com/track/5lZQ16prjeDI8wtuhYYMZD) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:40 | 2022-04-19 | 2022-07-03 |
 | [Hot Summer](https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:45 | 2022-04-19 |  |
-| [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 | 2022-04-19 |  |
+| [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 | 2022-04-19 | 2023-08-13 |
 | [Hush](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:06 | 2022-04-19 | 2023-08-06 |
 | [Hush](https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:06 | 2022-04-19 |  |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2022-04-19 |  |
@@ -185,6 +185,7 @@
 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:52 | 2022-04-19 |  |
 | [여자 대통령](https://open.spotify.com/track/0cFGAeKZriFUSwg1b0CIY7) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [여자 대통령](https://open.spotify.com/album/6u4OXPhdT6eQa9jrNnhfPX) | 3:32 | 2022-04-19 |  |
 | [죽어도 못 보내](https://open.spotify.com/track/6bX31xvB4HeeUOMorR77oV) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Never Let You Go](https://open.spotify.com/album/37Mz6EoieVepZzvLDL87I0) | 3:15 | 2022-04-19 | 2023-08-07 |
+| [죽어도 못 보내](https://open.spotify.com/track/0QqKvFZeDz117QeOJiZqpl) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [잘못했어](https://open.spotify.com/album/1uo769ES4151A4n9tu9uly) | 3:15 | 2022-04-19 |  |
 | [챔피언](https://open.spotify.com/track/2ZlQBBouYjp0h3g3aGhLoh) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [REMAKE & MIX No\. 18](https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa) | 4:26 | 2022-04-19 | 2023-08-08 |
 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 | 2022-04-19 |  |
 

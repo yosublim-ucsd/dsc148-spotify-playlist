@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 362572,
+  "num_followers": 362740,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFkYTc3OGVhMTJmNDdlNGUyYTg5ODgyMjExNmYwYjkyYmY2YTBk",
+  "snapshot_id": "MCw1OTk2ZWE3OGU5ZGUxMjM4Mzg3ZTU4ZmY5ZjU5NDBiMjViZTk5NTkz",
   "tracks": [
     {
       "added_at": "2023-07-13 16:10:14",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-07-13 16:10:14",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "added_at": "2023-07-13 16:10:14",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2023-07-13 16:10:14",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2023-07-13 16:10:14",
@@ -207,22 +223,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2023-07-13 16:10:14",
-      "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2023-07-13 16:10:14",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-07-13 16:10:14",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
-    },
-    {
-      "added_at": "2023-07-13 16:10:14",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 154226,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
+    },
+    {
+      "added_at": "2023-07-13 16:10:14",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
     },
     {
       "added_at": "2023-07-13 16:10:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-13 16:10:14",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
-      "added_at": "2023-07-13 16:10:14",
-      "album": {
         "name": "Hear Me Tonight",
         "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-07-13 16:10:14",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2023-07-13 16:10:14",
+      "album": {
         "name": "Money Sucks, Friends Rule",
         "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
       },
@@ -779,6 +779,30 @@
       "duration_ms": 212773,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    {
+      "added_at": "2023-07-13 16:10:14",
+      "album": {
+        "name": "Party Shaker",
+        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        }
+      ],
+      "duration_ms": 159052,
+      "name": "Party Shaker",
+      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
     },
     {
       "added_at": "2023-07-13 16:10:14",
@@ -807,30 +831,6 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
-    },
-    {
-      "added_at": "2023-07-13 16:10:14",
-      "album": {
-        "name": "Party Shaker",
-        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
-      },
-      "artists": [
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
-        }
-      ],
-      "duration_ms": 159052,
-      "name": "Party Shaker",
-      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
     },
     {
       "added_at": "2023-07-13 16:10:14",

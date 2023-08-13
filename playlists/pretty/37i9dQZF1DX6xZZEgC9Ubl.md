@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,039 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,489 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 29 | [You Broke My Heart Again](https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF) | 1:43 |
 | 30 | [ALL GIRLS ARE THE SAME](https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [ALL GIRLS ARE THE SAME](https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI) | 2:01 |
 | 31 | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHERE DOES YOUR SPIRIT GO?](https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ) | 3:21 |
-| 32 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
-| 33 | [Never Be Alright](https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ) | [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [Never Be Alright](https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0) | 2:48 |
-| 34 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 |
+| 32 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 |
+| 33 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
+| 34 | [Never Be Alright](https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ) | [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [Never Be Alright](https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0) | 2:48 |
 | 35 | [under the weather](https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [under the weather](https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx) | 1:46 |
 | 36 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 37 | [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 47 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 |
 | 48 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 |
 | 49 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
-| 50 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 |
-| 51 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
+| 50 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
+| 51 | [Sad & Alone](https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sad & Alone](https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q) | 2:45 |
 | 52 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
 | 53 | [Save Me, Please](https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX) | 2:07 |
 | 54 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 100 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
 
-Snapshot ID: `MCwzMjRiYzZhMTdhZGY0NWM0OWViZTcwYmI0MTY4YjZjNjc5MmYxNzQz`
+Snapshot ID: `MCwwODVhYWQxN2E1ZWI3OWEzZWM5MTFiNWQyMDg0NjExYmUyNjkwMjQ3`

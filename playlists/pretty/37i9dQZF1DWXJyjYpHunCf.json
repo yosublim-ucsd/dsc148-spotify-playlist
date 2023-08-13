@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 844714,
+  "num_followers": 845045,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGQ4MWU3NmE4OWZlOGZiY2RjODRhNjA2NGFmNDBjZWQxNzhmMDRj",
+  "snapshot_id": "MCwyMDJlMDMyMDNkZTgwNWY2MmY0M2JjZGNmODc3YTRmMjQyZmE5ZDM3",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -264,8 +264,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "How Do We Stay In Love?",
+        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "How Do We Stay In Love?",
+      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "How Do We Stay In Love?",
-        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
       },
       "artists": [
         {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
         }
       ],
-      "duration_ms": 159981,
-      "name": "How Do We Stay In Love?",
-      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Think I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Think I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -1227,22 +1247,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Summer Wind / All Summer (Where You Gonna Be?)",
         "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
       },
@@ -1259,6 +1263,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Think I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        },
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Think I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 178271,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "The Worth Of The Wait",
-        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
-      },
-      "artists": [
-        {
-          "name": "Ivan & Alyosha",
-          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "The Worth Of The Wait",
-      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Those Younger Days",
         "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "The Worth Of The Wait",
+        "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 171800,
+      "name": "The Worth Of The Wait",
+      "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 185663,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Backyard Mafia",
+        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "duration_ms": 215423,
+      "name": "Backyard Mafia",
+      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Backyard Mafia",
-        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Blue",
-          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
-        }
-      ],
-      "duration_ms": 215423,
-      "name": "Backyard Mafia",
-      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 147337,
       "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
       "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
     },
     {
       "added_at": "2023-08-04 04:00:00",

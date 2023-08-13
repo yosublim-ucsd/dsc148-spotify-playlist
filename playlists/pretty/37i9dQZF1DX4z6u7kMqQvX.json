@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 102324,
+  "num_followers": 102329,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI4MDMyYmUwNDRjYzk3OGVmY2RkNmUwZTQ1Y2NmZDY2NjBmMDhm",
+  "snapshot_id": "MCxmNjBmNjk2MWRlMDhmMWI2YjQwZDkxMDZiMjU1Yzc0YTdkNGY2MzYx",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
       "artists": [
         {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2023-08-11 03:00:00",

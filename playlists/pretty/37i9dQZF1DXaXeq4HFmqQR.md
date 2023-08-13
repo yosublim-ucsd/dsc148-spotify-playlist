@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,465 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,464 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 12 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 13 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
 | 14 | [BIG BANG](https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
-| 15 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
-| 16 | [Ya Pasó la Vieja](https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4) | [Rectificar](https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq) | 1:40 |
+| 15 | [Ya Pasó la Vieja](https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4) | [Rectificar](https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq) | 1:40 |
+| 16 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
 | 17 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
 | 18 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
 | 19 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 39 | [Quiero Estar Sola](https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan) | [Quiero Estar Sola](https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra) | 2:54 |
 | 40 | [Canción para acunar](https://open.spotify.com/track/6hlnMvvpi4TBakIkbCJUtX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 2:52 |
 | 41 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 |
-| 42 | [Ritmo](https://open.spotify.com/track/6OnDDDF6rvkDcYlG3ZDLxV) | [Fran Ri](https://open.spotify.com/artist/2XOpsJ8j0Bk6hwQkaLxL5N), [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8) | [Ritmo](https://open.spotify.com/album/2qQh3tdTsOhONQLwHKtzHP) | 3:01 |
-| 43 | [No más me dio](https://open.spotify.com/track/3bms00eq58V702DSRk7spN) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:13 |
+| 42 | [No más me dio](https://open.spotify.com/track/3bms00eq58V702DSRk7spN) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Gracias Por Lo Malo](https://open.spotify.com/album/7yQwWyQY21QDDr3Btezdzf) | 3:13 |
+| 43 | [Ritmo](https://open.spotify.com/track/6OnDDDF6rvkDcYlG3ZDLxV) | [Fran Ri](https://open.spotify.com/artist/2XOpsJ8j0Bk6hwQkaLxL5N), [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8) | [Ritmo](https://open.spotify.com/album/2qQh3tdTsOhONQLwHKtzHP) | 3:01 |
 | 44 | [Y Desaparezco](https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB) | [Valü](https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1) | [Y Desaparezco](https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8) | 3:23 |
 | 45 | [Negra yo soy](https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs) | [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8), [Bibie Clarel](https://open.spotify.com/artist/7gETaFkd7xN3tvmXsqApIW), [Yinesiya](https://open.spotify.com/artist/3bOpEEWctyiWvEQK6PRqNB) | [Negra yo soy](https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4) | 4:06 |
 | 46 | [Están Sacrificando](https://open.spotify.com/track/3U9RFMsbcCuX19x7C4YJnv) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Están Sacrificando](https://open.spotify.com/album/51UToZhC87oVvvwaK1edAX) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1`
+Snapshot ID: `MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm`

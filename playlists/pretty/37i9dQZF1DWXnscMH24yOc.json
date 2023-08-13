@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 439826,
+  "num_followers": 439920,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy",
+  "snapshot_id": "MCxhMGU0NTg0NDMzM2E1YTAwY2I2NGY0NjgwODQ5MzAwMmMwNDRjMjFj",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "California Airport Love",
-        "url": "https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB"
-      },
-      "artists": [
-        {
-          "name": "Amason",
-          "url": "https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "California Airport Love",
+        "url": "https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB"
+      },
+      "artists": [
+        {
+          "name": "Amason",
+          "url": "https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The City Holds My Heart",
-        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 266863,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
       },
@@ -1323,6 +1291,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "The City Holds My Heart",
+        "url": "https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 227064,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 266863,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "No One's Gonna Love You",
-        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 232347,
-      "name": "No One's Gonna Love You",
-      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Love on Top",
         "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228000,
       "name": "Love on Top",
       "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "No One's Gonna Love You",
+        "url": "https://open.spotify.com/album/7dizp1YraSwZHHbLCGKIz4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 232347,
+      "name": "No One's Gonna Love You",
+      "url": "https://open.spotify.com/track/6ZwkeOSGSNHvBfkIacgSX3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Avant Gardener",
-        "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 259749,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
         "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Avant Gardener",
+        "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 259749,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
     },
     {
       "added_at": "2022-03-22 14:40:29",

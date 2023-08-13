@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=b34de8f3be7a4d91\">Hillsong en Espa\u00f1ol</a>",
-  "num_followers": 582415,
+  "num_followers": 582612,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWE4ZWQzNjI1OTdiM2M3N2I4OWYwYTUwNTcyMjQ0M2IwYzIwMTBi",
+  "snapshot_id": "MCw5MTA4ZGEyZWMyOTE0Y2M5MTk4ZGE3N2NlMGQzZTE5NjNlZjUwOTc2",
   "tracks": [
     {
       "added_at": "2023-08-11 10:52:34",
@@ -522,9 +522,13 @@
         {
           "name": "CRYS",
           "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 156505,
+      "duration_ms": 189000,
       "name": "Isla del Encanto",
       "url": "https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx"
     },

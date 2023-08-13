@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1266462,
+  "num_followers": 1266599,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjBlNGNmMzE5YzAzZTY2YWQxNjdhYTgzNGYzNDIyYzc0OWExOGE0",
+  "snapshot_id": "MCwxNWVhZmY5NzE4ZTY5M2VlZDQ5NDM5MTY3NTMwODQ4NDgxOWU4ZGU4",
   "tracks": [
     {
       "added_at": "2023-08-04 12:33:08",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-04 12:33:08",
       "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
-    },
-    {
-      "added_at": "2023-08-04 12:33:08",
-      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2023-08-04 12:33:08",
+      "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2023-08-04 12:33:08",
@@ -655,30 +655,6 @@
     {
       "added_at": "2023-08-04 12:33:08",
       "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Joris Sava",
-          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2023-08-04 12:33:08",
-      "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+    },
+    {
+      "added_at": "2023-08-04 12:33:08",
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Joris Sava",
+          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
     },
     {
       "added_at": "2023-08-04 12:33:08",

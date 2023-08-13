@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 18479,
+  "num_followers": 18510,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTFlOWU5NzFiMmQyNmIxM2IwZjgzYzQ5ZjM3ZTVhYTI5YTZmZWU0",
+  "snapshot_id": "MCxkN2FiMzE4Nzk0MmMzM2YyMDIwNTgyODE2OTk3MzBjZjg4ZDJiY2I2",
   "tracks": [
     {
       "added_at": "2023-08-11 09:00:13",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2023-08-11 09:00:13",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 345920,
       "name": "Fall Out",
       "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
-    },
-    {
-      "added_at": "2023-08-11 09:00:13",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-08-11 09:00:13",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2023-08-11 09:00:13",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
     },
     {
       "added_at": "2023-08-11 09:00:13",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2023-08-11 09:00:13",
+      "album": {
         "name": "In New York [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
@@ -343,6 +359,22 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+    },
+    {
+      "added_at": "2023-08-11 09:00:13",
+      "album": {
         "name": "The Latin Side Of Vince Guaraldi",
         "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
@@ -359,18 +391,18 @@
     {
       "added_at": "2023-08-11 09:00:13",
       "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
         }
       ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+      "duration_ms": 362040,
+      "name": "With A Little Bit Of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
     },
     {
       "added_at": "2023-08-11 09:00:13",
@@ -391,38 +423,6 @@
       "duration_ms": 200253,
       "name": "A Sinner Kissed an Angel",
       "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
-    },
-    {
-      "added_at": "2023-08-11 09:00:13",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2023-08-11 09:00:13",
-      "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 362040,
-      "name": "With A Little Bit Of Luck - Instrumental",
-      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
     },
     {
       "added_at": "2023-08-11 09:00:13",

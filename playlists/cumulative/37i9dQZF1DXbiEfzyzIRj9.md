@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-337 songs - 1 day 0 hr 44 min
+338 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-16 | 2023-05-12 |
 | [Shella Verse](https://open.spotify.com/track/2aoWvGMW6W40WelevwsOUx) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Shella Verse](https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3) | 2:43 | 2023-06-29 |  |
 | [Shot Sonic](https://open.spotify.com/track/5VaJ35OY2rV9VqLXQpKcuv) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Shot Sonic](https://open.spotify.com/album/58hHxZF25yakiuz93mjZsP) | 5:03 | 2023-04-27 | 2023-07-28 |
+| [Shut Down](https://open.spotify.com/track/5kGx9JFcF3kmJpPPOe8sQV) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 3:39 | 2023-08-12 |  |
 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 | 2023-07-27 |  |
 | [SIGNALS](https://open.spotify.com/track/76iMcYR5MuD1OsRCgSC7WM) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [FLOATER](https://open.spotify.com/album/2VeqiT6r5UtSKxxvPn3QPR) | 6:30 | 2023-03-16 | 2023-07-28 |
 | [Silence](https://open.spotify.com/track/6WpcKQpHlmnQvzIaduUOkU) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [Silence](https://open.spotify.com/album/5U4ADX9bIDh1pN4aSQZM4a) | 2:59 | 2023-06-16 |  |

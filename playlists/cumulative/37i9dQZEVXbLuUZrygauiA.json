@@ -12266,7 +12266,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 288156,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
@@ -14772,6 +14772,24 @@
       "duration_ms": 79777,
       "name": "Natanael Cano Bzrp",
       "url": "https://open.spotify.com/track/5AcNdJtMn7QTCNsm6AA17Z"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200612,
+      "name": "Necesito Encontrarte",
+      "url": "https://open.spotify.com/track/4pWSqqoKJZm5nxxzPFd0o6"
     },
     {
       "album": {
@@ -18966,7 +18984,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 164810,
       "name": "Rinc\u00f3n",
       "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
@@ -21980,6 +21998,32 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+    },
+    {
+      "album": {
+        "name": "Reggaeto\u00f1erito",
+        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1rsx0SbkKiSJu2bhJecwmI"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Tendo",
+      "url": "https://open.spotify.com/track/7H3mL8tOH1VjHXuOH0AFOb"
     },
     {
       "album": {

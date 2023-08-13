@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 110491,
+  "num_followers": 110601,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
+  "snapshot_id": "MCxlYWVjNDkyZmMyNWUwOTVmYzQyNmQ5OTczNmI0NzNmNGEwNmUwMDkw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:12",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Early Music",
-        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
-      },
-      "artists": [
-        {
-          "name": "Voxtrot",
-          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "The Start of Something",
-      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "Soviet Kitsch",
         "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 292400,
       "name": "Us",
       "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Early Music",
+        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
+      },
+      "artists": [
+        {
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "The Start of Something",
+      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "The First Days Of Spring",
         "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208973,
       "name": "Tiger Mountain Peasant Song",
       "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
     },
     {
       "added_at": "2023-03-14 21:51:12",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-14 21:51:12",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "What\u2019s Important",
-      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
-    },
-    {
-      "added_at": "2023-03-14 21:51:12",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 271800,
       "name": "The Good That Won't Come Out",
       "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
+    },
+    {
+      "added_at": "2023-03-14 21:51:12",
+      "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     },
     {
       "added_at": "2023-03-14 21:51:12",

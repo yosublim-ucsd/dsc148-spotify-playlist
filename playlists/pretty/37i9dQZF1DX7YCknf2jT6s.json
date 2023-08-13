@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Johnathan Blake",
-  "num_followers": 894753,
+  "num_followers": 894969,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUwZGNlNWJkNjE0ZWU2MzdjNTU4ZGYxMWYyMGU4YzVlOTI5MGVk",
+  "snapshot_id": "MCxlYjE0ZWZkMjE4Y2IwYWZmMTljYzVjMTllMGU5ZmY5NjhiMTliZjg5",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -38,6 +38,10 @@
         {
           "name": "Theo Croker",
           "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
         }
       ],
       "duration_ms": 197500,

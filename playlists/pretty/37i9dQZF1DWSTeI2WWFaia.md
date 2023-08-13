@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,385 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,364 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 27 | [Marble Columns \(feat\. Larry June\)](https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 3:10 |
 | 28 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 | 29 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
-| 30 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
-| 31 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
-| 32 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
+| 30 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
+| 31 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
+| 32 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
 | 33 | [Ambitious](https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:52 |
-| 34 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
-| 35 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |
+| 34 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
+| 35 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
 | 36 | [Slow it Down](https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:30 |
 | 37 | [Guapanese](https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Guapanese](https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU) | 2:24 |
 | 38 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
 | 49 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 
-Snapshot ID: `MCwxNWY5MTEyZDZhOGM3MmJiZDBmYTc3YWZiZTUzOWEyNDA2N2MzNDY5`
+Snapshot ID: `MCw0MzQzNDFjZjlmNWI1MjdlN2ZiOTc0ZjJlZDU3NDNiZjE4ZDQ3MzZi`

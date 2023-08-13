@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 401280,
+  "num_followers": 401612,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWVhY2VlOTE5MTY0NGRkNjBkMjk2YTgxNDIwYjUyNTc1Njk5YmM3",
+  "snapshot_id": "MCwzZTYwYjQyMmFjZTZhOTBmYWJhYzNhMmFjOTVmM2QwN2RjNGJlYTBj",
   "tracks": [
     {
       "added_at": "2023-07-20 16:10:18",
@@ -331,22 +331,6 @@
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
-    },
-    {
-      "added_at": "2023-07-20 16:10:18",
-      "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
       "added_at": "2023-07-20 16:10:18",

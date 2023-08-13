@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 377479,
+  "num_followers": 377633,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjUwYjg2OTk1ZjliZDQ3OTcxNWExMjMyODk5MGExN2VhNzllNWVk",
+  "snapshot_id": "MCwxM2U5Y2Q5ZTcwZWE3Yjc4Zjc4MGI3ODUzZjdkYmVjYWEzMDJlNzc5",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+        "name": "Ama A Dios Y A Tu Vecino",
+        "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+      "duration_ms": 206133,
+      "name": "Ama A Dios Y A Tu Vecino",
+      "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1163,26 +1171,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Ama A Dios Y A Tu Vecino",
-        "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Ama A Dios Y A Tu Vecino",
-      "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",

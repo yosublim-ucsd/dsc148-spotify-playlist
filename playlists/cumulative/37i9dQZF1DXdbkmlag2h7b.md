@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-160 songs - 8 hr 28 min
+161 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [Flow](https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Flow](https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz) | 2:55 | 2021-12-09 |  |
 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 | 2022-07-22 |  |
 | [Forests](https://open.spotify.com/track/5yBoH1p8JoHi9j3STP4W9N) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/5mC5yDM3BqyuLjPpIQb6l6) | 2:20 | 2021-12-09 | 2022-07-29 |
-| [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 | 2021-12-09 |  |
+| [Friends for Life](https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Friends for Life](https://open.spotify.com/album/2HOadp8AnTx64UnV8GVZW0) | 2:16 | 2021-12-09 | 2023-08-13 |
+| [From Another View](https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W) | [Salvation Hildersham](https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN) | [From Another View](https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi) | 2:58 | 2023-08-11 |  |
 | [Frozen Sunlight \- Music Only](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-21 |  |
 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-06-24 |  |
-| [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 | 2021-12-09 |  |
+| [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 | 2021-12-09 | 2023-08-13 |
 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 | 2021-12-09 |  |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-12-09 |  |
 | [Heaven like](https://open.spotify.com/track/7DgGJTm2pA8tLjEp2TIh2B) | [Tiz Lillux](https://open.spotify.com/artist/4JdnWiTAFBgOomzrS67VFm) | [Heaven like](https://open.spotify.com/album/2C339OpzphzqUHIuJ26ZFr) | 4:03 | 2021-12-09 | 2022-10-17 |
@@ -116,7 +117,7 @@
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2021-12-09 |  |
 | [Precious 432 hz](https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 2:40 | 2022-10-12 |  |
 | [Prism](https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Amor Omnia](https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu) | [Prism](https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL) | 2:52 | 2021-12-09 |  |
-| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 | 2023-08-09 |
+| [Purity 432hz](https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Purity 432hz](https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh) | 4:02 | 2021-12-09 |  |
 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 | 2022-11-13 |  |
 | [Raising Life](https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:02 | 2021-12-09 |  |
 | [Renewing](https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ) | [Healing Echoes](https://open.spotify.com/artist/5oIYBXnlagVfSVIg2690cu) | [Renewing](https://open.spotify.com/album/4Dq0JNOmlEOjJNjsCGhqRY) | 3:22 | 2021-12-09 | 2022-07-29 |

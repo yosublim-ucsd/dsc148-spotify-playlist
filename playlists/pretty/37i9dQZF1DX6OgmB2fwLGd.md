@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,790 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390,123 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 36 | [Like I thought](https://open.spotify.com/track/7I5r6GgSOT6EuWfIEMdVmp) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Like I thought](https://open.spotify.com/album/0GAUK3frr51WqLjhlb7O8H) | 2:45 |
 | 37 | [Think about me](https://open.spotify.com/track/1kt6YQqhZaQZCnF0cBkevw) | [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [Think about me](https://open.spotify.com/album/4seC4SwKuKzryYfOdkk1n4) | 2:17 |
 | 38 | [No Gun No Knife](https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [No Gun No Knife](https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu) | 3:32 |
-| 39 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
+| 39 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 40 | [Slizzy Talk](https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Talk](https://open.spotify.com/album/5lnwBxTSlY9xY8Im5yWvIZ) | 2:22 |
 | 41 | [COBRA](https://open.spotify.com/track/3caUeHv3m0bu2W7ATsLSdS) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz), [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [FAST 5](https://open.spotify.com/album/20LECbYxV7cqF5R4nmk4Zg) | 2:30 |
 | 42 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
 | 100 | [WALKED IN](https://open.spotify.com/track/4TtwfNpekE33a0Uo5sIMLF) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [WALKED IN](https://open.spotify.com/album/20yPX27SdWr1hc5aZQAOsn) | 2:22 |
 
-Snapshot ID: `MCxlZDJjNTY2ZDU4N2IyMWYxYjc1ODdlZWY4NzY0M2IyZjc5MWZmYjQz`
+Snapshot ID: `MCwxMWY3MGJhMzI2ZmE3ZWIwZWEzMjRiMzQxMzM3NTgyOWMwZjg2ZDYw`

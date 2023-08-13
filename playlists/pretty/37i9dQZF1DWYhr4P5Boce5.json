@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 197842,
+  "num_followers": 197879,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
+  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 228960,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
-        },
-        {
-          "name": "A.Bishai",
-          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
-        }
-      ],
-      "duration_ms": 179271,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -1127,6 +1107,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "A.Bishai",
+          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
+        }
+      ],
+      "duration_ms": 179271,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Adam & Eve'n",
         "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 179670,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 187134,
       "name": "Pretty Beautiful",
       "url": "https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 179670,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "What A Heart Is Beating For",
+        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 206999,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "What A Heart Is Beating For",
-        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1467,22 +1467,6 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Oh How I Love You",
-        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
       },
       "artists": [
         {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
         }
       ],
-      "duration_ms": 233050,
-      "name": "Oh How I Love You (R&B Version)",
-      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1551,6 +1535,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Oh How I Love You",
+        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 233050,
+      "name": "Oh How I Love You (R&B Version)",
+      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Who Knew It Would Be So Hard to Be Myself",
-        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
       "artists": [
         {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 230808,
-      "name": "Big Ole Love",
-      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     }
   ],
   "unique_name": "Higher Love",

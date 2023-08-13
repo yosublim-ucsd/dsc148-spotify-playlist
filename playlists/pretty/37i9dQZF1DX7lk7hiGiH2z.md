@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,761 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,863 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 38 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 |
 | 39 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 40 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
-| 41 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
-| 42 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
+| 41 | [1,2,3 im Sauseschritt \- Bauernhof Version](https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Sommer auf dem singenden Bauernhof](https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f) | 2:14 |
+| 42 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
 | 43 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
-| 44 | [1,2,3 im Sauseschritt \- Bauernhof Version](https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Sommer auf dem singenden Bauernhof](https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f) | 2:14 |
+| 44 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
 | 45 | [Summ, summ, summ](https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder](https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t) | 2:16 |
 
-Snapshot ID: `MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2`
+Snapshot ID: `MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj`

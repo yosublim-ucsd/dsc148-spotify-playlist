@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,178 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,168 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 54 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 55 | [Hurricane Chaser](https://open.spotify.com/track/1i0RLrkqLcs80cj6BtCdk3) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Should We Go Dance?](https://open.spotify.com/album/0E4h4WNuQeqlXk0JTqvSVN) | 3:23 |
 | 56 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
-| 57 | [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 |
+| 57 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 |
 | 58 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 59 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 |
 | 60 | [Lookin' Out](https://open.spotify.com/track/21xQGFDvSeCi2deid5YtaJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Lookin' Out](https://open.spotify.com/album/6sAuAVVo9Wi7K9eecv4txq) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Pets and Drugs](https://open.spotify.com/track/2OsegEPsE0MtkHtqGmZYcx) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Pets and Drugs](https://open.spotify.com/album/0a19vxCEadBJNSysmQUKjU) | 3:01 |
 | 80 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 |
 
-Snapshot ID: `MCwxMjg4OThlODAzNGI1N2M5NWQ4MzU3M2NlZTc2NDA2NmNkZDk5MjVl`
+Snapshot ID: `MCwyYTgzNDhmMGYyYjU1ZDVlM2FiYjBlZGY2NmFjNjU0MDkyYjY4YzIx`

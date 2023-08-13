@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1712544,
+  "num_followers": 1712896,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzExY2Y2ZWE0M2ZiZDU1ODg3NGNhMDBhMGYxNTAwZGRlNjRiNzAz",
+  "snapshot_id": "MCxiM2E3YTViNjlkMGMyMmYwOTRhOGFjYjI2OWNlNDc3NmM1NWYxMWZl",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 193346,
       "name": "Don't Stop - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 243373,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 241991,
       "name": "Lola - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Jackson Browne (Saturate Before Using)",
-        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Doctor My Eyes",
-      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 235986,
       "name": "Life on Mars? - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Jackson Browne (Saturate Before Using)",
+        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Doctor My Eyes",
+      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+        "name": "Straight Shooter",
+        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+      "duration_ms": 313840,
+      "name": "Feel like Makin' Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1275,18 +1259,34 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Straight Shooter",
-        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Feel like Makin' Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2023-01-18 21:01:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,952 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,950 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 50 | [Next To You](https://open.spotify.com/track/2Ahtup0oSl1OZVl4325JGU) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Next To You](https://open.spotify.com/album/7IJEZ5dBc1Kqo3mDUinEFs) | 3:52 |
 | 51 | [out 4 a breather](https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [out 4 a breather](https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa) | 3:21 |
 | 52 | [NO !](https://open.spotify.com/track/7I9MF93LZ0MFz7n4avNkb3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [NO !](https://open.spotify.com/album/1ndLXbMIeHH3cczAMwgQHT) | 3:44 |
-| 53 | [boys lie](https://open.spotify.com/track/1mV0iuIaNMoZTHFMcFsABS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2vBuUHQmH2Y94cXhrNDfOg) | 2:25 |
+| 53 | [boys lie](https://open.spotify.com/track/4kMhGfOuHaAuTnnKW6J7WU) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2fF80RcYbCG6c1hnEMw1d6) | 2:25 |
 | 54 | [Quantum Physics](https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [If It Comes Down To It](https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw) | 2:38 |
 | 55 | [Sweatshirt](https://open.spotify.com/track/44SMpuP6NAhV6l5OIwE090) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Sweatshirt](https://open.spotify.com/album/2BxTahQtqyiQ89mnX9rtmH) | 3:27 |
 | 56 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MCxiMDVhMGYyMjIzY2IwY2E3ZjhkZjJlYWE1M2M2OTNmYzVkM2Y1OGJk`
+Snapshot ID: `MCxmM2NkNzIzNmQ3MWVhMDc4NWY1MmJiYmE4MmMwOGExZWY5MmE0ZGNi`

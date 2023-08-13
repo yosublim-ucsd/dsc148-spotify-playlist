@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-126 songs - 9 hr 17 min
+127 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [She Loves You](https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4TnvcqbCj5pncCpXtBnNgH) | 4:16 | 2023-01-12 |  |
 | [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 | 2023-01-12 |  |
 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 | 2022-06-24 |  |
-| [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Steamroller Blues \(Live at The Honolulu International Center, Hawaii January 14, 1973\)](https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs) | 3:13 | 2023-06-09 |  |
+| [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha From Hawaii Via Satellite \(Deluxe Edition\)](https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD) | 3:13 | 2023-08-11 |  |
+| [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Steamroller Blues \(Live at The Honolulu International Center, Hawaii January 14, 1973\)](https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs) | 3:13 | 2023-06-09 | 2023-08-13 |
 | [Still Got the Blues](https://open.spotify.com/track/4foKEzs442JODnkwNRro1R) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 5:54 | 2022-07-08 |  |
 | [Still Got The Blues](https://open.spotify.com/track/7nMl2aiwjNz4TIFoAkOrtG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock \(Track By Track\)](https://open.spotify.com/album/0BeaxNPhOKKwwSBF5nMT1J) | 5:54 | 2022-06-24 | 2022-07-29 |
 | [Stones In My Passway](https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Other People's Stuff](https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9) | 3:12 | 2022-06-24 |  |

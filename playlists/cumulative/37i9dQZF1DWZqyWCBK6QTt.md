@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Lennon Stella.
 
-401 songs - 1 day 0 hr 44 min
+402 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2021-09-24 |  |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-03-08 | 2023-05-17 |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-05-03 | 2023-06-09 |
-| [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-09-24 |  |
+| [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-09-24 | 2023-08-13 |
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2021-09-24 | 2022-10-26 |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2021-09-24 |  |
 | [Havana \- Recorded at RAK Studios, London](https://open.spotify.com/track/6kG9AQkHgCaFUh4ckB0g2j) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 2:48 | 2022-03-24 | 2022-04-21 |
@@ -326,6 +326,7 @@
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 | 2021-09-24 | 2022-07-29 |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2022-06-07 |  |
 | [Suburbia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 4:04 | 2022-03-24 | 2022-04-20 |
+| [Sugar Man](https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:21 | 2023-06-01 |  |
 | [Sugar Man \- Spotify Singles](https://open.spotify.com/track/1CQNof97BOKANyheEifHiQ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Spotify Singles](https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV) | 4:21 | 2021-09-24 | 2022-07-29 |
 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY) | 3:34 | 2022-10-03 |  |
 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:34 | 2022-06-07 | 2022-10-13 |

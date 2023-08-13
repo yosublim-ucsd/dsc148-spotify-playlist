@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "BACANA",
+        "url": "https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185596,
+      "name": "BACANA",
+      "url": "https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3"
+    },
+    {
+      "album": {
         "name": "Triste Pero Fresh",
         "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 219053,
       "name": "Nieve De Array\u00e1n",
       "url": "https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN"

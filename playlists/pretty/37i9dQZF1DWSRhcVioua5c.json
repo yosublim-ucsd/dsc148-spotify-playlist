@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 64630,
+  "num_followers": 64674,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGI4MTg0MTg3YTBjOTI1ODcyZGM5ZDE2ZjQzODFlMWRhYjM1NGMw",
+  "snapshot_id": "MCxlODQxMjE1OTVhOGU0MWQwMDgwNDFmNmJhYzJjNzQ2YjcwNTc3Yzlh",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -487,22 +487,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
       },
       "artists": [
         {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 320085,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Si Pudiera",
-        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 173322,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
+      "duration_ms": 320085,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Codigo de Barro",
-        "url": "https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 313080,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226629,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Codigo de Barro",
+        "url": "https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 313080,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Los Del Portezuelo",
         "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 240491,
       "name": "Tal Como Siento",
       "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Devu\u00e9lveme el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 180499,
-      "name": "Devu\u00e9lveme el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 190608,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "El Sueno De Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 241586,
       "name": "Tonada Del Viejo Amor",
       "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-08-11 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Pilitchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,603 likes - 98 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,615 likes - 98 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 97 | [FÉ](https://open.spotify.com/track/4r8jUfYS7lX0pOtt7ijiLY) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Each1](https://open.spotify.com/artist/01YPkmygf2LEgIf21Hfbz2) | [FÉ](https://open.spotify.com/album/5WF5W1x0jEmBRUtJhfIWgv) | 3:44 |
 | 98 | [Muito é Pouco](https://open.spotify.com/track/6WYDt1j3xfETal6E2iIsOW) | [Kendrah](https://open.spotify.com/artist/7HsMQJDqL7Q8Rr4EAL1H7B), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [Liberta](https://open.spotify.com/album/047vf9ePZz5XFVeZgYRtBh) | 3:36 |
 
-Snapshot ID: `MCxhOWNhZWJiZDhlZWEwYTQ5YzVhYjRkZDk5NWI3MDY4YjA3YzM2MGQ3`
+Snapshot ID: `MCw2ZDI2NDllMmRkYWM0OGJiYzY4NjgxNDUyYWI4ODJjZjUyYzE3NGQ5`

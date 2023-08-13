@@ -6150,7 +6150,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7362,7 +7362,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 306833,
       "name": "Dubula",
       "url": "https://open.spotify.com/track/35P4NcObu5fVLjKa0OBX5r"
@@ -9962,7 +9962,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 429034,
       "name": "Gojasi",
       "url": "https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow"
@@ -10430,7 +10430,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 308031,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI"
@@ -11230,7 +11230,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 199512,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
@@ -11256,6 +11256,40 @@
       "duration_ms": 160266,
       "name": "how you did that (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/49W1ZqawgaAwbIY3Hlrp0K"
+    },
+    {
+      "album": {
+        "name": "Howa You (feat. Myztro & Xduppy)",
+        "url": "https://open.spotify.com/album/1Rej0ihnB0XxVKIizFelcL"
+      },
+      "artists": [
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356814,
+      "name": "Howa You (feat. Myztro & Xduppy)",
+      "url": "https://open.spotify.com/track/57T2jbt9nqR6VCeOH72wuG"
     },
     {
       "album": {
@@ -14192,7 +14226,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
@@ -16734,7 +16768,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 273640,
       "name": "Malume (Nta Swi Byela Mani Revisit)",
       "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
@@ -19228,7 +19262,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 334419,
       "name": "Ngizwile",
       "url": "https://open.spotify.com/track/0AtUfScqL8UjpRGI2Mt4BI"
@@ -19634,7 +19668,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -20837,6 +20871,32 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
         "name": "Pele Pele",
         "url": "https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ"
       },
@@ -21460,7 +21520,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -23890,7 +23950,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -26860,7 +26920,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -26996,7 +27056,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 290248,
       "name": "Thando",
       "url": "https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH"
@@ -27036,7 +27096,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -27896,7 +27956,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
@@ -31112,7 +31172,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,596 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,648 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 51 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 |
 | 52 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 | 53 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 |
-| 54 | [Tere Vaaste](https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Zara Hatke Zara Bachke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Yb13Od1beXcshjO6vSskt) | 3:09 |
+| 54 | [Tere Vaaste](https://open.spotify.com/track/20LfqGqyGqjOsw9YA4nOTG) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Zara Hatke Zara Bachke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Z9XfG5fDAU8Nu3GNEDhYK) | 3:09 |
 | 55 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 |
 | 56 | [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 |
 | 57 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 75 | [Popular \(with Playboi Carti & Madonna\) \- Music from the HBO Original Series](https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \(Music from the HBO Original Series\)](https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i) | 3:35 |
 | 76 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 
-Snapshot ID: `MCw2NWMzYTAzNzdhMWFkNzNiYzQ1YzViZjNlNGExNzAxYTViYWZiMzc1`
+Snapshot ID: `MCwwZmUzMTVhZTkwYjlkMWZjZDdlMTY3NzM0MmVhMzYyM2Q3NGJjNzJj`

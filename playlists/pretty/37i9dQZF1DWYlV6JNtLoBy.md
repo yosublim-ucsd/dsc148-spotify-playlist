@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 47 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
 | 48 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 |
 | 49 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
-| 50 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
+| 50 | [Wewe ni mungu](https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Wewe ni mungu](https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP) | 4:22 |
 
-Snapshot ID: `MCxhZDA2MjMyZTZiMjZlMGYxYTMyZWJlNTY2OWYyM2FiNjUxY2VhNTNl`
+Snapshot ID: `MCwxNjI0OWY1NmY3Yzk2NzlhZDc2MjYyMTI1YjhkZTY4ZmY4N2NmOTk0`

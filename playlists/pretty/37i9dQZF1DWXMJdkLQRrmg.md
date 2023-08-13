@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,707 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,811 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 30 | [maybe \(feat\. Bring Me The Horizon\) \- acoustic version](https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 2:54 |
 | 31 | [Backbone](https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 3:52 |
 | 32 | [The Messenger](https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 3:01 |
-| 33 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
-| 34 | [Waves](https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt) | 4:01 |
-| 35 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
+| 33 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
+| 34 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
+| 35 | [Waves](https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt) | 4:01 |
 | 36 | [Against The Wall \- Acoustic Version](https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Against The Wall \(Acoustic Version\)](https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf) | 3:26 |
 | 37 | [Golden Dandelions \- Acoustic](https://open.spotify.com/track/5H7Z2DdWYT9ctLSuKzqkSb) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden Dandelions \(Acoustic\)](https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL) | 3:22 |
 | 38 | [Glycerine \- Acoustic](https://open.spotify.com/track/3ZoAB9gq2RGW5KdHnRvH75) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Zen X Four](https://open.spotify.com/album/1JifpVW1p2sb6tuzifgFmV) | 3:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 45 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
 | 46 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \(Live In New York\)](https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy) | 5:17 |
 | 47 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 |
-| 48 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
-| 49 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
+| 48 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
+| 49 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
 | 50 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 |
 
-Snapshot ID: `MCw1YjBmMjk0ZDgwNDUzMDUxNDRhZDE0ZjcxOWM0MGQ1ZjZmNDU5NDBm`
+Snapshot ID: `MCw2M2I3YTNjYWI3OWE4YjM1YjYxNDFlMzI0ODhlNjk2MWNhZDUzNjY5`

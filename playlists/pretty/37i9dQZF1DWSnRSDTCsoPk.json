@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 586409,
+  "num_followers": 586816,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDgzZTk2NGNmNDg5ZTFjODMxNzM0MDllMjRlNTViNjU1YjUzYzcy",
+  "snapshot_id": "MCxlYzZiZTU0YzQ5MjQzMDRjNDk4ZDU5N2M1YjA2ZjNkNzAyNGRhMDAx",
   "tracks": [
     {
       "added_at": "2023-08-09 05:33:20",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "Lowlife Princess: Noir",
-        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Love Shot",
-      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "KILL THIS LOVE",
         "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -939,18 +939,34 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "HARD - The 8th Album",
-        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 176720,
-      "name": "HARD",
-      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -971,34 +987,18 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Future Perfect (Pass the MIC)",
-      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
@@ -1083,18 +1067,34 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "reality in BLACK",
-        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 195306,
-      "name": "HIP",
-      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Future Perfect (Pass the MIC)",
+      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+      "duration_ms": 195306,
+      "name": "HIP",
+      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1143,6 +1143,22 @@
       "duration_ms": 163280,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 186471,
+      "name": "Devil by the Window",
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1195,38 +1211,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "JIKJIN",
-      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186471,
-      "name": "Devil by the Window",
-      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "BTBT",
         "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 219549,
       "name": "BTBT",
       "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER ONE",
+        "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 184117,
+      "name": "JIKJIN",
+      "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "I Am The Best",
-        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 208730,
-      "name": "I Am The Best",
-      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "STAYDOM",
-        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
       "added_at": "2023-08-09 05:33:20",

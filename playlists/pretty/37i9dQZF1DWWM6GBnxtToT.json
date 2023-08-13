@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 568858,
+  "num_followers": 569014,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODkwNDU5Njc0OGNhZTNkYWRjMTU4NTU1MDZlNDZlNTA0NTk3MmYw",
+  "snapshot_id": "MCwwZDU5M2QwN2ZkNTQ0MGNiYzhjZDIyYWRiYzQ5MDdjZGU0NDRkMTgz",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+        "name": "Around The Sun",
+        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
         }
       ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -739,26 +759,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Around The Sun",
-        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Leoniden",
         "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191169,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Complex Happenings Reduced To A Simple Design",
+        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Complex Happenings Reduced To A Simple Design",
-        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1263,22 +1263,6 @@
       "duration_ms": 225467,
       "name": "Sabada",
       "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1383,22 +1367,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1451,22 +1435,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1479,6 +1447,22 @@
       "duration_ms": 238186,
       "name": "More Than Happiness",
       "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Road",
-        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Take Me Home Boy",
-      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "I Swear It's True",
         "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
       },
@@ -1607,6 +1575,22 @@
       "duration_ms": 235784,
       "name": "I Swear It's True",
       "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Take Me Home Boy",
+      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1687,6 +1671,22 @@
       "duration_ms": 175375,
       "name": "IknowhowIfeel - from Hansa Studios, Berlin",
       "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Saltburn",
+        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
+      },
+      "artists": [
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 186704,
+      "name": "Saltburn",
+      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
     }
   ],
   "unique_name": "Feelgood Indie",

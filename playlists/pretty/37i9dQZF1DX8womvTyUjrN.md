@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Salomón Beda
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,004 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,046 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 18 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 |
 | 19 | [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 |
 | 20 | [nunca me dijeron que los 18](https://open.spotify.com/track/5NUFORQRNwMLpGInKedvrY) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [NIVELES](https://open.spotify.com/album/2gZIvBkigrIvxaRF67Bfll) | 2:17 |
-| 21 | [NUNCA VOY SOLO](https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:50 |
-| 22 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
+| 21 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
+| 22 | [NUNCA VOY SOLO](https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:50 |
 | 23 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 |
 | 24 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
 | 25 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 38 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
 | 39 | [Disculpa Amiga](https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Disculpa Amiga](https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp) | 2:48 |
 | 40 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 |
-| 41 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
-| 42 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
+| 41 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
+| 42 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
 | 43 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 |
-| 44 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 |
-| 45 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
-| 46 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
-| 47 | [Tiempo](https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tiempo](https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft) | 1:31 |
+| 44 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
+| 45 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 |
+| 46 | [Tiempo](https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tiempo](https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft) | 1:31 |
+| 47 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
 | 48 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 |
 | 49 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
-| 50 | [mE vALe maDRE :\)](https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE vALe maDRE :\)](https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP) | 2:30 |
+| 50 | [Soltando A Pedazos](https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Soltando A Pedazos](https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy) | 2:44 |
 
-Snapshot ID: `MCw0MzNhNjU3NDY0NmI2NTJhZTc0NzQxZTMxZGRkMGZiY2I0NGU4NzUw`
+Snapshot ID: `MCxjNGNhMTkyNzFjYmRlMWJjNGRmM2JmNmQ4NDc0OGVmY2NhNWM1MmEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,353 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,490 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 51 | [I Wonder Why](https://open.spotify.com/track/5XOzpTZGe4onY74BFK0ziS) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:05 |
 | 52 | [Heartbreak Hotel](https://open.spotify.com/track/7v1GxlbFevo4kLJGZf8aAZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:09 |
 | 53 | [Roll Over Beethoven \- Remastered 2009](https://open.spotify.com/track/3idqWaBn3mRdsIodCU6uBi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:45 |
-| 54 | [Why Do Fools Fall In Love?](https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Milestones of "The" Legends \- Boy Groups, Vol\. 8](https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd) | 2:18 |
+| 54 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
 | 55 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 |
 | 56 | [Action Packed](https://open.spotify.com/track/6HlW8keWGQo1PE8c4JyXGZ) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Ronnie Dawson Presents Rockin' Bones](https://open.spotify.com/album/1hCRjgooSVFgMKvZMHWa9n) | 2:12 |
 | 57 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 59 | [Long Tall Sally](https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 1:59 |
 | 60 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
 
-Snapshot ID: `MCw4ZDk4ODg3N2I4ZDdkY2I0ZTFiYzUwNDk4MzA3ZTBjNDQzNDY4ODEx`
+Snapshot ID: `MCwxNTFkOGQ5MjQxMjg1ZmEwMjZkZWE0NWViNDhiODcyNjE4Mzc3YzBi`

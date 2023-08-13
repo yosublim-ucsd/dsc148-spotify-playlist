@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: AK4:20.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,997 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,027 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 3 | [Casti](https://open.spotify.com/track/3Iec5nPU3h8A9ExTQaRNeK) | [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Casti](https://open.spotify.com/album/27jHJTSUUVwxPQKYL8ZlM6) | 1:54 |
 | 4 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 |
 | 5 | [Vete](https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vete](https://open.spotify.com/album/3fxzSn0ObgCjLadyR53ohN) | 3:12 |
-| 6 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 |
+| 6 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
 | 7 | [Piensan](https://open.spotify.com/track/1A9PKAFEHMWgXNLpgf7k4J) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:53 |
 | 8 | [Hipócrita](https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:12 |
 | 9 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 14 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 |
 | 15 | [It's a Vibe](https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:40 |
 | 16 | [Tussi](https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Tussi](https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC) | 3:09 |
-| 17 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
+| 17 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 |
 | 18 | [Dime a Ver](https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Dime a Ver](https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm) | 2:44 |
 | 19 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 20 | [Dale Mecha](https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dale Mecha](https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 | 74 | [Freestyle Session \#12](https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Freestyle Session \#12](https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi) | 3:23 |
 | 75 | [Deseos](https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Deseos](https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X) | 3:23 |
 
-Snapshot ID: `MCw4NTk5ODQ5NWI2YWIyNTliYWU5ZmQwM2I0YjVmNmRkNWM5MzMxOTUy`
+Snapshot ID: `MCw2YmUyMjI3ODRjZjFmN2VmMTQzNzExYjlmNjE4MGRiN2RlMTA1ZTRi`

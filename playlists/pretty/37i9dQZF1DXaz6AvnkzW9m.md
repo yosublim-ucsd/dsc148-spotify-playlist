@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Eme MalaFe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,633 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,747 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 39 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 |
 | 40 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 |
 | 41 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
-| 42 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
-| 43 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
+| 42 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 |
+| 43 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
 | 44 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 45 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 46 | [El R](https://open.spotify.com/track/5jtKmeD6iq49e04qF1T4yW) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO) | [El R](https://open.spotify.com/album/2wNUVU8fYpulfUQEVHZcmX) | 6:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 74 | [un loquerón](https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [hecho en México](https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS) | 3:03 |
 | 75 | [VIDA LOK4](https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [VIDA LOK4](https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78) | 3:13 |
 
-Snapshot ID: `MCw3MzU2ZTgxYjg5MGU0ODI3MjcwODMzNmZkNGExMGFlZjIxMmJjNWE4`
+Snapshot ID: `MCw1ODcyMDJkMzBjZGFiMDJkYjVkMGZmZWZmYTAxZjNkYzBmZDFjZDhi`

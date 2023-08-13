@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best easy rock from the 2000s\. Cover: Lifehouse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,944 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,070 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 20 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 21 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 22 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
-| 23 | [Drift Away](https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [No Stranger to Shame](https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9) | 4:15 |
-| 24 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
+| 23 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
+| 24 | [Drift Away](https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [No Stranger to Shame](https://open.spotify.com/album/1qv4N04uuM0EfIjaJZTAj9) | 4:15 |
 | 25 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
 | 26 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
 | 27 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 68 | [All In All](https://open.spotify.com/track/2EU0r8nNJQ4VllOx2ES5sK) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 2:56 |
 | 69 | [Grazed Knees](https://open.spotify.com/track/0RwZ0ZBJ7BOROv4JkewvKK) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 2:54 |
 | 70 | [Your House](https://open.spotify.com/track/2AYVRHuzCRn0eZipEZX4EP) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:46 |
-| 71 | [Fly To Me](https://open.spotify.com/track/3Bf9nv32awaGVdviHbmp8Q) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [The Best Of Keane \(Deluxe Edition\)](https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d) | 5:32 |
-| 72 | [On Fire](https://open.spotify.com/track/1HTNd7iD21O7dyNcE85oku) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 4:42 |
+| 71 | [On Fire](https://open.spotify.com/track/1HTNd7iD21O7dyNcE85oku) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 4:42 |
+| 72 | [Fly To Me](https://open.spotify.com/track/3Bf9nv32awaGVdviHbmp8Q) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [The Best Of Keane \(Deluxe Edition\)](https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d) | 5:32 |
 | 73 | [Breathing](https://open.spotify.com/track/6Oym6t2GFmguqYfCJjQl96) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 4:25 |
 | 74 | [The Story](https://open.spotify.com/track/6xKos15gJxZ9J3Q9qnSUU5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:55 |
 | 75 | [This Is A Call](https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Phenomenon](https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM) | 3:49 |
 | 76 | [Roadside](https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:21 |
 | 77 | [Falling Down \(feat\. Justin Timberlake\)](https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Red Carpet Massacre](https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO) | 5:39 |
-| 78 | [Twenty\-four](https://open.spotify.com/track/2DLmQACFPykftNpEAc4bDa) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 4:53 |
-| 79 | [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 |
-| 80 | [My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 5:47 |
+| 78 | [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 |
+| 79 | [Your Arms Feel Like home](https://open.spotify.com/track/0SanLvXc3eSY7XqfeMlDOS) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:44 |
+| 80 | [Twenty\-four](https://open.spotify.com/track/2DLmQACFPykftNpEAc4bDa) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 4:53 |
 
-Snapshot ID: `MCxhNDJlYTIxY2M0Yzc1YmNjOGQ0N2JjYjNlMTQxNTM1NjlhNWUwNTU0`
+Snapshot ID: `MCw4YmJlZDkzYzlmNDczNTVkOTIzZjE5ZGZlMDBlZmJmMDUzMTYwZDU0`

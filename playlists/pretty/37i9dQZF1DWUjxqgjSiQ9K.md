@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=b34de8f3be7a4d91">Hillsong en Español</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,415 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,612 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 24 | [Coritos Con Flow](https://open.spotify.com/track/5Pj0EMhepLLhfMxrdMoC58) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Coritos Con Flow](https://open.spotify.com/album/5oaSETuSNMaOCrmFZbnvGf) | 4:36 |
 | 25 | [Volando](https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [En Tus Aguas](https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP) | 3:48 |
 | 26 | [CICATRICES](https://open.spotify.com/track/7hr0OyJzcvtkyNxrjlzFUS) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [CICATRICES](https://open.spotify.com/album/4o0231wiUwMNR3movn9RbR) | 3:00 |
-| 27 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 2:36 |
+| 27 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 |
 | 28 | [De Camino](https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [De Camino](https://open.spotify.com/album/5JfAm47YKNf05ICA20n4iD) | 3:04 |
 | 29 | [Enfocao'](https://open.spotify.com/track/0N4DWBGSIZX2roMfhmM9EW) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Enfocao'](https://open.spotify.com/album/3k5CzX9hpWqMiJtER6rXD0) | 4:00 |
 | 30 | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/album/1v9gXaZpngKHdplKNOuc9j) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [SÁNAME](https://open.spotify.com/track/1UZiL3hX8vaaeGQKM8TBlI) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [SÁNAME](https://open.spotify.com/album/4s3FBPFKLVx7orSMIUdsOJ) | 3:41 |
 | 100 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 
-Snapshot ID: `MCxmMWE4ZWQzNjI1OTdiM2M3N2I4OWYwYTUwNTcyMjQ0M2IwYzIwMTBi`
+Snapshot ID: `MCw5MTA4ZGEyZWMyOTE0Y2M5MTk4ZGE3N2NlMGQzZTE5NjNlZjUwOTc2`

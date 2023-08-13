@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 287990,
+  "num_followers": 288176,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFmNWY0NmVhM2RhMzEzMGFmZTBhNGEyYzU1MDcyODRhZDZkYzk0",
+  "snapshot_id": "MCxiZTkyYjU5M2MwMWQ2MjAxYTFjOGQwYzJjOTA2YTk0MTllZjdlNTMw",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
+        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "DRENCH3D",
         "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "You Can't Run",
-        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "You Can't Run",
-      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
-        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
+        "name": "You Can't Run",
+        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
         },
         {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 238760,
-      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
+      "duration_ms": 201142,
+      "name": "You Can't Run",
+      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1063,22 +1063,6 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Plastic",
-        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Cyber Love",
         "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Chose Wrong",
-        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "I Chose Wrong",
-      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORWAVE III",
         "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 164000,
       "name": "Sailor Saturn",
       "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+        "name": "I Chose Wrong",
+        "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
       },
       "artists": [
         {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
+      "duration_ms": 172000,
+      "name": "I Chose Wrong",
+      "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Disco Soul",
-        "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
       "artists": [
         {
-          "name": "Discoholic",
-          "url": "https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW"
-        },
-        {
-          "name": "Mr. Hoosteen",
-          "url": "https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH"
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
         }
       ],
-      "duration_ms": 456393,
-      "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
-      "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+        "name": "Disco Soul",
+        "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
       "artists": [
         {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+          "name": "Discoholic",
+          "url": "https://open.spotify.com/artist/0dhFlSAQyzPQHUx7hel6cW"
+        },
+        {
+          "name": "Mr. Hoosteen",
+          "url": "https://open.spotify.com/artist/7CKVr2XbCTLoGfc0l4wuoH"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+      "duration_ms": 456393,
+      "name": "Disco Soul - Mr. Hoosteen's \"Disco's Revenge\" Mix",
+      "url": "https://open.spotify.com/track/79V22C8lQvcYQMWtZgBzeo"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual World",
-        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
-      },
-      "artists": [
-        {
-          "name": "FIBRE",
-          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Virtual World",
-      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Virtual World",
+        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
+      },
+      "artists": [
+        {
+          "name": "FIBRE",
+          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Virtual World",
+      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Future Funk 2022",
-        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Future Funk 2022",
-      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Future Funk 2022",
+        "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Future Funk 2022",
+      "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
       },
@@ -1635,26 +1635,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Monstruo Japon\u00e9s",
-        "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
+        "name": "Summer 99",
+        "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
       },
       "artists": [
         {
           "name": "Iden Kai",
           "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        },
-        {
-          "name": "Rubimente",
-          "url": "https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4"
-        },
-        {
-          "name": "Schizo Forg",
-          "url": "https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0"
         }
       ],
-      "duration_ms": 250344,
-      "name": "Monstruo Japon\u00e9s",
-      "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
+      "duration_ms": 151265,
+      "name": "Shall We Dance?",
+      "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1675,18 +1667,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "NONPLUSULTRA, Vol. 3",
-        "url": "https://open.spotify.com/album/2jgkMcesIlajgbaVDfaA0H"
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
       "artists": [
         {
-          "name": "Android52",
-          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/2MyhQXOxGt8X0kKUzHV5dw"
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1711,18 +1703,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+        "name": "DUCK GROOVE",
+        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
         }
       ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+      "duration_ms": 142497,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
     }
   ],
   "unique_name": "Future Funk",

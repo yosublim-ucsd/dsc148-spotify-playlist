@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Emotional Oranges
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,413 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,487 likes - 86 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 45 | [almond eyes](https://open.spotify.com/track/0UQqXykR504ftBmPR2XlwM) | [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [almond eyes](https://open.spotify.com/album/0bwBVQwy1TgmqkRt3Wuib0) | 3:32 |
 | 46 | [redlight](https://open.spotify.com/track/4usL9yvJ80iPtLGNgCQWKj) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [redlight](https://open.spotify.com/album/1tTkSbF12n40Ul5ksW24QH) | 3:28 |
 | 47 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 |
-| 48 | [CONTROL](https://open.spotify.com/track/5zgXM2krNdScAvyPQU3b62) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/4JeVm8h649aYksCYUA3j5e) | 2:53 |
+| 48 | [CONTROL](https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/0R24SnsmBloT7MIYPYzWZ0) | 2:53 |
 | 49 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
 | 50 | [lie to me](https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [lovescene:](https://open.spotify.com/album/397oeXs5I2518sMkHL0C5j) | 2:40 |
 | 51 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 85 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
 | 86 | [Venus](https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [Venus](https://open.spotify.com/album/2KusxJLjxuaiIwK47i4IqJ) | 1:55 |
 
-Snapshot ID: `MCxiYmI0NGJhZWZlMTI0N2EzYjI1NDNkZGRhZTBlNGQzMmZiYzkxNWE3`
+Snapshot ID: `MCxkYmQxMTlhMGQ0YzE2NjhjMDVlNGVkZDFkYTMwMjIxYmE2ZDUwY2Jh`

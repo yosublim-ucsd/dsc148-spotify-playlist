@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 679107,
+  "num_followers": 679281,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDI3OGYzODBkZDc2MzcwNTNhZmUzMGI3NmFiYTY3MDg5N2RmYmM5",
+  "snapshot_id": "MCxkZTdiODc2NjI0ODM5ZmUwOGYzYmFkZmRjNWZiYzM4YzY2NWM1YmU2",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "First Place",
         "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 283190,
       "name": "Everything Is Just a Mess",
       "url": "https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Gallows",
-        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -627,6 +627,26 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -667,26 +687,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "The Information",
         "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 199426,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+        "name": "Some Twist",
+        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
+      "duration_ms": 138097,
+      "name": "I Root",
+      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Some Twist",
-        "url": "https://open.spotify.com/album/5BJlXjpFtDVaKC5YouIbOI"
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 138097,
-      "name": "I Root",
-      "url": "https://open.spotify.com/track/7opFLwPI53eORdmxyv7Y3f"
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 242773,
-      "name": "O.P. Jebediah",
-      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Les jolies choses",
         "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "O.P. Jebediah",
+      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Tumblin'",
-      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Tumblin'",
+      "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "You Don't Want Me",
-        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
-      },
-      "artists": [
-        {
-          "name": "Wesley Bright",
-          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
-        },
-        {
-          "name": "Wesley Bright and the Honeytones",
-          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "You Don\u2019t Want Me",
-      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "You Don't Want Me",
+        "url": "https://open.spotify.com/album/7yHaXgmBkt2dWA6LC6pY2e"
+      },
+      "artists": [
+        {
+          "name": "Wesley Bright",
+          "url": "https://open.spotify.com/artist/5sDnPhZdAs4FW1ewepXdFj"
+        },
+        {
+          "name": "Wesley Bright and the Honeytones",
+          "url": "https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "You Don\u2019t Want Me",
+      "url": "https://open.spotify.com/track/6wzlFp6Xi5fo3iKZsBFI6V"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Always Afternoon",
-        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
       "artists": [
         {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        },
-        {
-          "name": "Kathleen",
-          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 183226,
-      "name": "Always Afternoon",
-      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1819,18 +1815,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
+        "name": "Always Afternoon",
+        "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        },
+        {
+          "name": "Kathleen",
+          "url": "https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y"
         }
       ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+      "duration_ms": 183226,
+      "name": "Always Afternoon",
+      "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1895,22 +1879,6 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Boys, B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
-      },
-      "artists": [
-        {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
-        }
-      ],
-      "duration_ms": 156788,
-      "name": "King Prawn The 1st",
-      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1931,6 +1899,38 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Boys, B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+      },
+      "artists": [
+        {
+          "name": "Spang Sisters",
+          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "King Prawn The 1st",
+      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2023-07-25 17:32:56",

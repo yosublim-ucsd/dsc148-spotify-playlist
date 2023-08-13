@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 126410,
+  "num_followers": 126443,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTgyMjY2NDc3MzZmYjgwOTY4NTc3OTU1YWYyNzM1YTI3ZjgzN2Nj",
+  "snapshot_id": "MCwyOWIwZWM4Mzk4NzI0YmFjMGNjZDViMzlhZDllMTk3ZDk0NjM3NzA3",
   "tracks": [
     {
       "added_at": "2023-08-10 15:00:00",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "\u706f\u706b",
-        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "\u706f\u706b",
-      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "Roundabout",
         "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "\u7126\u304c\u308cNight",
-        "url": "https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2"
+        "name": "\u706f\u706b",
+        "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
         }
       ],
-      "duration_ms": 235438,
-      "name": "\u7126\u304c\u308cNight",
-      "url": "https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG"
+      "duration_ms": 219861,
+      "name": "\u706f\u706b",
+      "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -539,22 +523,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 240886,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "\u7126\u304c\u308cNight",
+        "url": "https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 235438,
+      "name": "\u7126\u304c\u308cNight",
+      "url": "https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 240886,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Karakai",
-        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
       "artists": [
         {
-          "name": "Sweet William",
-          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
-        },
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Karakai",
-      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
+      "duration_ms": 244666,
+      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -927,6 +923,26 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
+        "name": "Karakai",
+        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Karakai",
+      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
         "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
         "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 67203,
       "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
       "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
-        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
-      },
-      "artists": [
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 273159,
-      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
-      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "Soil",
-        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
+        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
       },
       "artists": [
         {
-          "name": "naomi paris tokyo",
-          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
         }
       ],
-      "duration_ms": 357073,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+      "duration_ms": 273159,
+      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
+        "name": "Soil",
+        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "duration_ms": 357073,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1051,26 +1051,6 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
-        "name": "white dress",
-        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "white dress",
-      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "white dress",
+        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "white dress",
+      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "added_at": "2023-08-10 15:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
-      },
-      "artists": [
-        {
-          "name": "ERWIT",
-          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
-        }
-      ],
-      "duration_ms": 264938,
-      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
-    },
-    {
-      "added_at": "2023-08-10 15:00:00",
-      "album": {
         "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
@@ -1343,18 +1327,34 @@
     {
       "added_at": "2023-08-10 15:00:00",
       "album": {
-        "name": "oar",
-        "url": "https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
       "artists": [
         {
-          "name": "\u89d2\u9285\u771f\u5b9f",
-          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
         }
       ],
-      "duration_ms": 304933,
-      "name": "6\u6708\u306e\u7a93",
-      "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
+      "duration_ms": 203853,
+      "name": "All My Love - English Ver.",
+      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
+    },
+    {
+      "added_at": "2023-08-10 15:00:00",
+      "album": {
+        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
+      },
+      "artists": [
+        {
+          "name": "ERWIT",
+          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
+        }
+      ],
+      "duration_ms": 264938,
+      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

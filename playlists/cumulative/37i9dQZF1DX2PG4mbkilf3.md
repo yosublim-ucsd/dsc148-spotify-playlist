@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with RAAHiiM.
 
-722 songs - 1 day 13 hr 59 min
+723 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,8 @@
 | [OH!](https://open.spotify.com/track/5QjNvFDIXUP5et1Ffa5gMt) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [OH!](https://open.spotify.com/album/3znMb5hi0ebhlOkunIcVWl) | 3:04 | 2022-11-04 | 2023-04-09 |
 | [OHWEI](https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw) | [Izzy Rose](https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N) | [OHWEI](https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf) | 2:49 | 2022-05-20 | 2023-05-13 |
 | [okokok](https://open.spotify.com/track/0BbbCmi42gfdKbr9mKNRx8) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [okokok](https://open.spotify.com/album/1wEd7Q9jjvty5uybvibgLe) | 2:08 | 2023-02-24 | 2023-04-15 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 |  |
 | [On Me](https://open.spotify.com/track/2hbHVkOLOKd8t9hDtaDYB7) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [On Me](https://open.spotify.com/album/5FLVEOXmhNSu4Fn3tiiVFg) | 3:51 | 2022-04-15 | 2022-05-20 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-18 | 2022-04-29 |
 | [On the Loose](https://open.spotify.com/track/5pzrKZK6GeF7yG9si4fw9E) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Angelina](https://open.spotify.com/artist/0wLwZxokRA4z8mGngLVKUp) | [On the Loose](https://open.spotify.com/album/6mvjCZd2xuAlNneoJKBN3w) | 2:18 | 2022-05-20 | 2022-06-11 |

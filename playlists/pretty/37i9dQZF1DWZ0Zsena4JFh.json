@@ -1,12 +1,12 @@
 {
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. TV Girl en portada.",
-  "num_followers": 117809,
+  "num_followers": 117816,
   "original_name": "Indielandia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDM4MTI3OWNlYTg5NzhkNzZmYTc1NzQ0YTk0NjM2ZmY3ZDgwZDk2",
+  "snapshot_id": "MCw3NWZlOThjYzZhM2ViN2ZhMTM3ZjBlOWNjMmUyMjYyNDE5NWM1NjFm",
   "tracks": [
     {
       "added_at": "2023-08-04 23:42:02",
@@ -64,8 +64,8 @@
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Boy Genius",
+          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
         },
         {
           "name": "Julien Baker",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-04 23:42:02",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 194096,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
-    },
-    {
-      "added_at": "2023-08-04 23:42:02",
-      "album": {
         "name": "Things will be fine (Bratty Remix)",
         "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-08-04 23:42:02",
       "album": {
-        "name": "Eucalyptus",
-        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Eucalyptus",
-      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
+      "duration_ms": 194096,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
     },
     {
       "added_at": "2023-08-04 23:42:02",
@@ -847,6 +831,22 @@
       "duration_ms": 185944,
       "name": "Wonderful Life - Edit",
       "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
+      "added_at": "2023-08-04 23:42:02",
+      "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16"
     },
     {
       "added_at": "2023-08-04 23:42:02",

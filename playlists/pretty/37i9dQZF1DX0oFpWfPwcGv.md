@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,294 likes - 75 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,356 likes - 75 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
 | 75 | [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 |
 
-Snapshot ID: `MCxlYmZiN2I2OWM5YjIzMGZhZDI4MGIzMGVlZWRkZjNkZjUyN2RlZjY3`
+Snapshot ID: `MCw0NGFlMDNiMDgzNGVjYjFkNTZhOThiOTA5MjkyZGUyYmQ1OGQ0OTNl`

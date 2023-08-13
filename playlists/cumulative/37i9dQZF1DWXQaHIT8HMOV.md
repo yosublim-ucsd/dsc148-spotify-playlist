@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz & Caspian Marvin
 
-163 songs - 8 hr 28 min
+164 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 | 2023-04-27 |  |
 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 | 2023-02-03 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 |  |
+| [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 |  |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 |  |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2023-03-20 |
@@ -164,7 +165,7 @@
 | [Udongo \(Save Soil\)](https://open.spotify.com/track/59BPZ3xZSqL70xUngfRXJf) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Reazyla](https://open.spotify.com/artist/7GtTV6RYcXvgp6mQ0ZQfhG) | [Udongo \(Save Soil\)](https://open.spotify.com/album/4TJhR6aU5qMlMoyntJGSiz) | 2:56 | 2022-05-12 | 2022-09-02 |
 | [Vibe Yo \- Remix](https://open.spotify.com/track/13Snix6AbfTC8ProjfSR1X) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3) | [Vibe Yo \(Remix\)](https://open.spotify.com/album/1QInb3GdYbabj7GrkZzdMQ) | 2:58 | 2023-03-18 | 2023-04-01 |
 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 | 2023-07-07 |
-| [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 | 2022-05-19 |  |
+| [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 | 2022-05-19 | 2023-08-13 |
 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 | 2023-04-06 |  |
 | [We Made It](https://open.spotify.com/track/3KXmtXDQsT7QKCL90Pon4G) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [We Made It](https://open.spotify.com/album/69aaJYIIfp9BILNlgVjd2Y) | 3:13 | 2023-04-06 |  |
 | [Where I Go](https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [DJ Victor256](https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX) | [Where I Go](https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L) | 2:55 | 2022-09-30 | 2023-02-01 |

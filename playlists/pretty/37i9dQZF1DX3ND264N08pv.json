@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 51389,
+  "num_followers": 51466,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODY2NjdlMjNmMDNmZTNiZTdiNGU4ZTkwMzMwMTcxZTZiN2M3ZTJi",
+  "snapshot_id": "MCw3YmEyZTI4YWU1YTIxYWZlZjVkNjVmNTY4NjIwYmM1OTdlZTI5Nzc1",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "So Druff (D-Fence Remix)",
         "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 166950,
       "name": "So Druff - D-Fence Remix",
       "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "HIT THA CLUB",
-        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "HIT THA CLUB",
-      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Double D",
         "url": "https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 208000,
       "name": "Double D",
       "url": "https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "HIT THA CLUB",
+        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "HIT THA CLUB",
+      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "The Chop Game",
-        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "The Chop Game",
-      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "READY 4 WAR",
-        "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "XELOR",
-          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
-        }
-      ],
-      "duration_ms": 172729,
-      "name": "READY 4 WAR",
-      "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "READY 4 WAR",
+        "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "XELOR",
+          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+        }
+      ],
+      "duration_ms": 172729,
+      "name": "READY 4 WAR",
+      "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Den Haag Hakk\u00fbh",
         "url": "https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+        "name": "The Bones Collection",
+        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
       },
       "artists": [
         {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
         }
       ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+      "duration_ms": 200666,
+      "name": "Hardcore Style",
+      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "The Bones Collection",
-        "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Hardcore Style",
-      "url": "https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1319,30 +1319,6 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
-      },
-      "artists": [
-        {
-          "name": "Yoshiko",
-          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
-        },
-        {
-          "name": "Antenora",
-          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1367,6 +1343,30 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Antenora",
+          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+      },
+      "artists": [
+        {
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
-      },
-      "artists": [
-        {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
-        },
-        {
-          "name": "EQUAL2",
-          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Demonic Rage",
         "url": "https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 196636,
       "name": "Demonic Rage",
       "url": "https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG"
+      },
+      "artists": [
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        },
+        {
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "LXCPR",
-          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Halleluya - The F*cked Up Remixes",
         "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "duration_ms": 233806,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
     },
     {
       "added_at": "2023-07-27 22:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,339 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,422 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 34 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 |
 | 35 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 |
 | 36 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
-| 37 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
-| 38 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
-| 39 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
-| 40 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
+| 37 | [Spanish Moss](https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Tanglewood](https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl) | 2:38 |
+| 38 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
+| 39 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
+| 40 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 | 41 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 |
 | 42 | [Jungle Juice](https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Jungle Juice](https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM) | 4:34 |
 | 43 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 63 | [I Love You.](https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Love You.](https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9) | 4:06 |
 | 64 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 |
 | 65 | [Feel It \(feat\. Tunji Ige\)](https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Good Times Ahead](https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd) | 3:34 |
-| 66 | [Breath](https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/55wW59sZIugEKDbbATNigk) | 3:21 |
-| 67 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 |
+| 66 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 |
+| 67 | [Breath](https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83) | [Breath](https://open.spotify.com/album/55wW59sZIugEKDbbATNigk) | 3:21 |
 | 68 | [Redo](https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Redo](https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7) | 3:17 |
 | 69 | [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 |
 | 70 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 |
 | 100 | [Blinker](https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:35 |
 
-Snapshot ID: `MCw2Njg0MmNiNDEzOGYwNjA3ZDNlNDlmMTBiYjJjNjg3MDUwNTEzNjcy`
+Snapshot ID: `MCwwMzM0YjcwYWVkZjRjZWJlMGQzZTZjNmY1NGZiMTY2MjZmY2FmOWI0`

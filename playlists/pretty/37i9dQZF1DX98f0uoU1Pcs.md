@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,074 likes - 120 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,158 likes - 120 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 16 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 |
 | 17 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 |
 | 18 | [Love Is Fire](https://open.spotify.com/track/2h2LCucFMULWhAhRAKJdNn) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [Love Is Fire](https://open.spotify.com/album/5KW9VWfXcQ7rI9tAF5Og0h) | 3:03 |
-| 19 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 |
+| 19 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
 | 20 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 | 21 | [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 |
 | 22 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 119 | [Goon](https://open.spotify.com/track/14w7mxmqf2jz2qrzl8DsVs) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Goon](https://open.spotify.com/album/5VliPgxUgHZBjcPWap69wY) | 2:12 |
 | 120 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 
-Snapshot ID: `MCwzMGFjNzRlNzM2MGFlNmQ5ZGYwNzEyODYwNWYzNDEzZThjMThhNjNh`
+Snapshot ID: `MCwyMDJhMTU0YTI1OTgwZWFmZGJiZDQxMDIwZGRiZjcwMTQ4YjY5NWNi`

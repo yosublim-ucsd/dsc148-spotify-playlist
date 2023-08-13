@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,037 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,076 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 11 | [Larga Essa Vida](https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Larga Essa Vida](https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp) | 1:59 |
 | 12 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
 | 13 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
-| 14 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |
-| 15 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
+| 14 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
+| 15 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |
 | 16 | [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 |
 | 17 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 |
 | 18 | [Diz](https://open.spotify.com/track/2FWOsv9w008EapGfigHK9i) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Diz](https://open.spotify.com/album/7Lxz0lRrYciltkKfziu6s0) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Who Cares?](https://open.spotify.com/track/2KgRLOrzPKSy4ur5DPqzt3) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [grenier spinz](https://open.spotify.com/artist/0NScuC0UGxFvZ76OlHPIWJ) | [Who Cares?](https://open.spotify.com/album/5RSm9jbk6T7IiTzJWqsjtn) | 1:54 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCxkZjFiMmQ4NjAwN2E5ZDJhZGQ0ZTc5YWZhZjIwMzU3MGE4MmRmOTJm`
+Snapshot ID: `MCxjMmIyOTQyZWFhZjEyY2E4MWI5OWI3ZDQ4ZTg4NDMyZjM5OTE3Mjc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,849 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,878 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 12 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 |
 | 13 | [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 |
 | 14 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
-| 15 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
-| 16 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
+| 15 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
+| 16 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
 | 17 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 |
 | 18 | [Don't Miss It](https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:59 |
 | 19 | [Would You Believe](https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Friendship](https://open.spotify.com/album/6xmqbQZeI90wR4inGj3snR) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
 | 50 | [Orange](https://open.spotify.com/track/1mjAU4Q0GTX0vD2HhbKV50) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz), [Sinead White](https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 3:08 |
 
-Snapshot ID: `MCxlZGQ1MzljNjhmOTRhNTFmMzE5YWZlM2I0M2U3YTMwNTAxN2Q0NDZm`
+Snapshot ID: `MCxlNDk4OTY1OWEyM2ZiNGI0OTkzM2RmNzUzMDk1OWZkNzQ4ZWNiNzg3`

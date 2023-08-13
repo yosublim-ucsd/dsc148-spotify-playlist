@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,485 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,599 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 72 | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Parte de Mi \(feat\. Lit Killah\)](https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo) | 3:14 |
 | 73 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 |
 | 74 | [Champagne](https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Champagne](https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx) | 3:53 |
-| 75 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
-| 76 | [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu) | 4:14 |
+| 75 | [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu) | 4:14 |
+| 76 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
 | 77 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 78 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
 | 79 | [Good Vibes](https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Good Vibes](https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7) | 3:55 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 96 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 | 97 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 |
 | 98 | [Pálida](https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Pálida](https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI) | 3:34 |
-| 99 | [Vuelva a Ver](https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:09 |
+| 99 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 |
 | 100 | [Debo Cambiar](https://open.spotify.com/track/7wz84z8XkZ11jwqzeddGKs) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar](https://open.spotify.com/album/5cCd3BH6OEAKliZMYQYhbz) | 2:52 |
 
-Snapshot ID: `MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl`
+Snapshot ID: `MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3`

@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-169 songs - 9 hr 49 min
+170 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dust My Broom](https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:36 | 2022-07-08 | 2023-06-08 |
 | [Dust My Broom](https://open.spotify.com/track/4hOMnlrKYJMgjzFJFGs9Ng) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 2:37 | 2022-05-25 | 2022-07-29 |
 | [Dust My Broom](https://open.spotify.com/track/4moD3WaIS55udYYwJVoBrn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/7mEu9N6y4avTpH373ahlxK) | 2:37 | 2022-09-12 | 2022-11-14 |
-| [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 | 2023-06-07 |  |
+| [Dynamite A Tribute to Muddy Waters \- Radio Edit](https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Dynamite A Tribute to Muddy Waters \(Radio Edit\)](https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru) | 2:42 | 2023-06-07 | 2023-08-13 |
 | [Eisenhower Blues \- Single Version](https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:51 | 2022-05-25 | 2023-06-08 |
 | [Eric \(Long Live The King\)](https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX), [The Black Tide](https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk) | [Eric \(Long Live The King\)](https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h) | 3:24 | 2023-06-07 |  |
 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-14 |  |
@@ -107,6 +107,7 @@
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 | 2023-06-08 |
 | [Keep On Rocking](https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl) | [Max Poolman](https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys) | [Roads Go On Forever](https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o) | 3:57 | 2023-06-07 |  |
 | [Last Train To Nowhere](https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Last Train To Nowhere](https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh) | 3:36 | 2023-07-14 |  |
+| [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 |  |
 | [Leaving Trunk](https://open.spotify.com/track/2DsafkxJBnOOsu5fbwnQDp) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 4:48 | 2022-05-25 | 2022-07-29 |
 | [Leaving Trunk](https://open.spotify.com/track/0MY3zpLhxnbMu0E24eSnXc) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Best Of Taj Mahal](https://open.spotify.com/album/1Es9a7G6NkSRPrGUxfmYmr) | 4:49 | 2022-09-12 | 2022-11-13 |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-07-08 | 2023-06-08 |

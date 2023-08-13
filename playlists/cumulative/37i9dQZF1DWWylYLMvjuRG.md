@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWylYLMvjuRG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWylYLMvjuRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWylYLMvjuRG)
 
-### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
+### [Fiesta 2010](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> Los mejores éxitos de fiesta de la década de 2010\. Portada: Flo Rida.
+> The biggest party hits of the 2010s\. Cover: Flo Rida.
 
 407 songs - 1 day 0 hr 4 min
 

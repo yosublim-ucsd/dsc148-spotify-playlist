@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 871295,
+  "num_followers": 871503,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTY0ZTVjODljYjM5YzBlOGEwNDRkOGJmMDBmOTljNDA0Yzg4ODdm",
+  "snapshot_id": "MCw1Y2VjNTNmMWQyYjMyZmZmNDM3ZmZhOWFkNWEyMDVjNjFjMTgzMjgz",
   "tracks": [
     {
       "added_at": "2023-08-04 06:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Mejor Que Yo",
         "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Wazap",
-        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 199828,
-      "name": "Wazap",
-      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Wazap",
+        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 199828,
+      "name": "Wazap",
+      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Quien TV Remix",
-        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 163708,
-      "name": "Quien TV Remix",
-      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1531,22 +1531,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+        "name": "Quien TV Remix",
+        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+      "duration_ms": 163708,
+      "name": "Quien TV Remix",
+      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
       },
@@ -1639,26 +1619,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Tendencia Global",
-        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 234402,
-      "name": "Tendencia Global",
-      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1719,26 +1695,6 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1775,6 +1731,50 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Nos Comemos Vivos",
+      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Tendencia Global",
+        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 234402,
+      "name": "Tendencia Global",
+      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
       },
@@ -1995,18 +2011,26 @@
     {
       "added_at": "2023-08-04 06:00:00",
       "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
+        "name": "Pichaera",
+        "url": "https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
         }
       ],
-      "duration_ms": 185840,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+      "duration_ms": 246510,
+      "name": "Pichaera",
+      "url": "https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -2031,30 +2055,6 @@
       "duration_ms": 212035,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc"
-    },
-    {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Pichaera",
-        "url": "https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 246510,
-      "name": "Pichaera",
-      "url": "https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb"
     },
     {
       "added_at": "2023-08-04 06:00:00",

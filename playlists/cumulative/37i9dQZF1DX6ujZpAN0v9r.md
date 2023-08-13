@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-248 songs - 18 hr 50 min
+249 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 | 2021-06-03 |  |
 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 | 2020-10-29\* |  |
 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 | 2021-04-01 |  |
-| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2020-10-29\* |  |
+| [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 | 2020-10-29\* | 2023-08-13 |
+| [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 | 2021-06-03 |  |
 | [Lovely Times](https://open.spotify.com/track/2qHgQxl7E25hozdKtfk0Kh) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/1OSSnfkFKEZTavvnLf7MrR) | 4:17 | 2021-06-03 |  |
 | [Lovely Times](https://open.spotify.com/track/4YGPKyLmAkUEBNIcEWnAMV) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/54wd1Hh4e1z8tApOoHdM6j) | 4:17 | 2020-10-29\* | 2022-07-29 |
 | [Lovely Times](https://open.spotify.com/track/6sskntaT7RFHNjSu6Y437c) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/0tjeEeo7BpHqdgPujxeu3y) | 4:17 | 2021-06-03 | 2023-04-30 |

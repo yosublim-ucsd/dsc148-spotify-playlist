@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,380 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,521 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 31 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 32 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
 | 33 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
-| 34 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
-| 35 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 |
+| 34 | [Pipopapipo](https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC) | [Dewey Martino](https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX) | [Los Desamores de Dewey Martino](https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg) | 3:36 |
+| 35 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
 | 36 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 |
 | 37 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 38 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
 | 39 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 | 40 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
-| 41 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
-| 42 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
+| 41 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
+| 42 | [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 |
 | 43 | [Sais](https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl) | 8:03 |
-| 44 | [Rewind Life](https://open.spotify.com/track/6Uae44PxUOJn0PdxoECEKd) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 7:00 |
-| 45 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
-| 46 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 |
+| 44 | [solari](https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 3:52 |
+| 45 | [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 |
+| 46 | [Rewind Life](https://open.spotify.com/track/6Uae44PxUOJn0PdxoECEKd) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 7:00 |
 | 47 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 48 | [Spain](https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV), [Steve Sobs](https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0) | [Spain](https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL) | 4:46 |
 | 49 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 50 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
 
-Snapshot ID: `MCxjZDA5NWVjZmQ0M2ExYmJmMzkwMWExMjNlMjliZDc0MmViOTdlZTg1`
+Snapshot ID: `MCwyZGU4NDcyZjg0MDQxMGQyMDJmNDUyM2IzYjcyMjk4NTRkZmNiNjNl`

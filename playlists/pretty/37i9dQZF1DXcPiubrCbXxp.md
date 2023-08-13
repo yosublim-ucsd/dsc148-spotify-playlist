@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 
 > that 50s kinda feeling, cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 900 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 | 49 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 4:41 |
 | 50 | [Hot In The Shade](https://open.spotify.com/track/7v77r6ch1dszdie86DqZuB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Heat](https://open.spotify.com/album/1NRL1bvYepbDkrao0zax15) | 3:53 |
 
-Snapshot ID: `MCw4OGY4NzE3OWUxNDIzMzcxNjk5OWU4N2E2NDYyMDhiMGRhY2NlZWFj`
+Snapshot ID: `MCwwYmYwZDVkMTM5MTg3NmU4Y2JkYzJlY2Q2YzhmMGViNTJlNDk3ZDg2`

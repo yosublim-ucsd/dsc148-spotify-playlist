@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 700136,
+  "num_followers": 700201,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGJiNjQ0ZTFhMGQyZjEwZjczZTVmZTQ5OGYzNzY2YjAyM2VlOTlm",
+  "snapshot_id": "MCxiMDUzMTI4OGQ5OWI0MTAyODY2YmViYTBmMGM3Y2U0NmQzYTcxM2Jk",
   "tracks": [
     {
       "added_at": "2023-08-07 20:08:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "Get Up Kid",
-        "url": "https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 178079,
-      "name": "Get Up Kid",
-      "url": "https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 224640,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
+        "name": "Get Up Kid",
+        "url": "https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 178079,
+      "name": "Get Up Kid",
+      "url": "https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "Diving (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 161120,
       "name": "Van Horn",
       "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
+        "name": "You Are Who You Hang Out With",
+        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Not Joking",
+      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "You Are Who You Hang Out With",
-        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
       "artists": [
         {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Not Joking",
-      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "tryhard",
         "url": "https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 182840,
       "name": "Daphne Blue",
       "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
+        "name": "Moment In The Sun",
+        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Moment In The Sun",
+      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "Moment In The Sun",
-        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun",
-      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "Bank On The Funeral",
         "url": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2023-08-07 20:08:28",
-      "album": {
         "name": "Bright Blues",
         "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188316,
       "name": "Settling",
       "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
+    },
+    {
+      "added_at": "2023-08-07 20:08:28",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
       "added_at": "2023-08-07 20:08:28",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-08-07 20:08:28",
       "album": {
-        "name": "LP3",
-        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+        "name": "Lean Into Life",
+        "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
         }
       ],
-      "duration_ms": 210608,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC"
+      "duration_ms": 236946,
+      "name": "DON'T TELL THE BOYS",
+      "url": "https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn"
     }
   ],
   "unique_name": "It's ALT Good!",

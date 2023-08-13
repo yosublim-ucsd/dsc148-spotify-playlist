@@ -1,12 +1,12 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
-  "num_followers": 322186,
+  "num_followers": 322582,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNlOTJkZjNhYWE0YWU3NTJlYjVkOTIyNGUzNDI0Yzc0NzMyZmI5",
+  "snapshot_id": "MCw4YzgxZGFiY2ZjNmRlOTNhZjFlNzg3YWRjNDVjZDRlMWRlZjQwOTQx",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -284,7 +284,7 @@
           "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 193541,
+      "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
@@ -688,10 +688,6 @@
       },
       "artists": [
         {
-          "name": "Dakos",
-          "url": "https://open.spotify.com/artist/1LTJ5JT28yu5NLoVm1Aupu"
-        },
-        {
           "name": "El Takechi",
           "url": "https://open.spotify.com/artist/0XStgM9weFoz2oiNuv6E2Z"
         },
@@ -700,20 +696,20 @@
           "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
         },
         {
-          "name": "Son Gotten",
-          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+          "name": "Dakos",
+          "url": "https://open.spotify.com/artist/1LTJ5JT28yu5NLoVm1Aupu"
         },
         {
-          "name": "Toly Fu",
-          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
+          "name": "Chuky Indica",
+          "url": "https://open.spotify.com/artist/6iXXaJAOpQWeDVsIRMPSw9"
         },
         {
           "name": "Lil Fresh",
           "url": "https://open.spotify.com/artist/4pTuAL8eEPOeFa7bHQI3NQ"
         },
         {
-          "name": "Chuky Indica",
-          "url": "https://open.spotify.com/artist/6iXXaJAOpQWeDVsIRMPSw9"
+          "name": "Toly Fu",
+          "url": "https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH"
         }
       ],
       "duration_ms": 322731,

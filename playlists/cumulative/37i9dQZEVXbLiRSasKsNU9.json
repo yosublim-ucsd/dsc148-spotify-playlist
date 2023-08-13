@@ -17430,7 +17430,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -18312,7 +18312,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 185960,
       "name": "Manolya",
       "url": "https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3"
@@ -31630,7 +31630,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 192166,
       "name": "T\u00f6vbe",
       "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"
@@ -32918,6 +32918,24 @@
       "duration_ms": 208000,
       "name": "Warrior of the Mind",
       "url": "https://open.spotify.com/track/7gwo88n3Asm5Kg7UTdWeF5"
+    },
+    {
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "date_added": "2023-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "album": {

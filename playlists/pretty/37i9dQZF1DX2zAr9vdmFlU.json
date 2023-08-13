@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 394312,
+  "num_followers": 394472,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTYzMGFlZjhkZWM4YjM4MDA2MjhlOTUwMjZlMzEyNWI2ODhlOGE1",
+  "snapshot_id": "MCw3NDRmM2VjMzAwMWE0ZTI3YjlmZTUwN2E2ZTgxODk0NDljZDBkZWRk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 142151,
       "name": "Zona De Perigo",
       "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bacilos (Re-Issue)",
+        "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 312400,
+      "name": "Tabaco Y Chanel",
+      "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -195,22 +211,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bossa Muffin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6elCvSBFocUcW0mYFspqm9"
-      },
-      "artists": [
-        {
-          "name": "Flavia Coelho",
-          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Sunshine - Acoustic Version",
-      "url": "https://open.spotify.com/track/2Nu7LrhiXlYZn3acB4bWGq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Legados Bachata",
         "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
       },
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+        "name": "Bossa Muffin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6elCvSBFocUcW0mYFspqm9"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
         }
       ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+      "duration_ms": 203920,
+      "name": "Sunshine - Acoustic Version",
+      "url": "https://open.spotify.com/track/2Nu7LrhiXlYZn3acB4bWGq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -259,6 +259,22 @@
       "duration_ms": 221786,
       "name": "El Llamado",
       "url": "https://open.spotify.com/track/4OgxEP5h38KjRYYPdA0grX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -539,6 +555,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -927,22 +963,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bienvenido a mi habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
-      },
-      "artists": [
-        {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Bienvenido a mi habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tr\u00e9bol",
         "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
       },
@@ -955,6 +975,22 @@
       "duration_ms": 159790,
       "name": "Si Te Contara",
       "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Bienvenido a mi habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+      },
+      "artists": [
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Bienvenido a mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1063,26 +1099,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1207,18 +1239,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
       },
       "artists": [
         {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
         }
       ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1235,22 +1267,6 @@
       "duration_ms": 131897,
       "name": "Una Piedra en el Cielo",
       "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Se\u00f1or Coconut / Around the World",
         "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 167497,
       "name": "Around the World (Intro)",
       "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1603,6 +1603,42 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Ay\u00fadame Inspiraci\u00f3n",
+        "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
+      },
+      "artists": [
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 247504,
+      "name": "Ay\u00fadame Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1627,26 +1663,6 @@
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Ay\u00fadame Inspiraci\u00f3n",
-        "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
-      },
-      "artists": [
-        {
-          "name": "Maite Hontel\u00e9",
-          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 247504,
-      "name": "Ay\u00fadame Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1683,6 +1699,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "A MAR",
         "url": "https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne"
       },
@@ -1699,22 +1731,6 @@
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     }
   ],
   "unique_name": "Latin Dinner",

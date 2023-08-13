@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,556 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,621 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 68 | [Sucker M.C.'s \(Krush\-Groove 1\)](https://open.spotify.com/track/3hx5R8nOKu5zvhlfDNSIQC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 3:09 |
 | 69 | [The Show](https://open.spotify.com/track/3umJExJml0XrE3BcGtAoCU) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Doug E\. Fresh](https://open.spotify.com/artist/7xN8vFwslE67EC3DhgB9Ip) | [Dame Dash Presents Paid In Full / Dream Team](https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy) | 4:26 |
 
-Snapshot ID: `MCwxNWRiODliOTFiYThkODY1ZDliN2U4NjUwYTM3YTA0MTA3MTA3NWJj`
+Snapshot ID: `MCw4YTJhZmNmNWJlY2QyNjhjOWJmN2RmYjQyOGQzNzExY2ZhNTM5ZDRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,187 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,193 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 44 | [Peru \- R3HAB Remix](https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Peru \(R3HAB Remix\)](https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4) | 2:29 |
 | 45 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 46 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
-| 47 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
+| 47 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
 | 48 | [Heaven](https://open.spotify.com/track/1k4mn7Rb1DeNxWBs6fmanW) | [Feb](https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa), [KPLR](https://open.spotify.com/artist/7wovvpD23QhAuKTtMzJxbQ), [Nadia Gattas](https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw) | [Heaven](https://open.spotify.com/album/6BN3Lbc5hDErlomk6zgpJh) | 2:20 |
 | 49 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 |
-| 50 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
+| 50 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
 | 51 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 |
 | 52 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 |
 | 53 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Always Be There](https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Always Be There](https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597) | 3:18 |
 | 80 | [Waves of Blue](https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:28 |
 
-Snapshot ID: `MCw3ODEzNmI3YmYzYzZjMDgxNjE5MjA5YWIyMjA4NjFiYjE1NjMzZjRi`
+Snapshot ID: `MCw4YTdlYTZmYmQwZDUzZTI5YmE5NmRlMjFlMGViYjM3OTNkZGM1ODlj`

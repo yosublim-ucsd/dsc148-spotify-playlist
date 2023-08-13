@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,764 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,943 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 50 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 |
 | 51 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 |
 
-Snapshot ID: `MCxlZjRiZTFlODk5MWMxZmI4MTIwYTk0M2FhYWU3YjVkNzZiMDNlMmE2`
+Snapshot ID: `MCxhZDk0MGQwNDc4YTA5MTA0NTAyZjQyMmM0MGEzMDVjMDFhNTY3MmY5`

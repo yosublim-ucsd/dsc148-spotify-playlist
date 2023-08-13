@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,909 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,940 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 74 | [Won't Get Lonely](https://open.spotify.com/track/3DrewWpSP7EsW8mekZQRPZ) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY) | [Collateral](https://open.spotify.com/album/4JwwBO8xhLv6IpP7vxFu1a) | 4:00 |
 | 75 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 |
 
-Snapshot ID: `MCwzYzk2NDhiMTBiNTg3YmNhYjZlNmM0MWRlZmZmZTA1ZjA0NGE0MjRk`
+Snapshot ID: `MCw0MDA1YTQ5ODA1Y2QzZjAwZTFiZGExMjJhYzg3M2UyYjhkNjgwODdm`

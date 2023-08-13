@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 210065,
+  "num_followers": 210219,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjFiOWUyODVkZTU3NzZmNDA3YWMzOTM3YTBlNmQ1Y2E2MzQ5MThi",
+  "snapshot_id": "MCwwNWMwMTZjZDdlNWI3ZDQwMWQ0MzNkZmJiMTk4NTgwNjQ0ODFkOGVk",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
     },
     {
       "added_at": "2023-03-29 17:34:27",

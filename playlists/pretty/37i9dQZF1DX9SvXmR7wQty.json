@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Evelyne Brochu",
-  "num_followers": 37512,
+  "num_followers": 37513,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTNjNjNjNjRhYTdlY2M5MjFlZDBmYzQ4NGQxMWEwNGNjOWIwZDAx",
+  "snapshot_id": "MCw5OTBhMjM0MTc5MTAxNWFjZTViMmM5ZTc1ZWRjNmJiYWE5NTU2YTg3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Salement",
         "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 163034,
       "name": "Salement",
       "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Roly",
-        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 225996,
-      "name": "Roly",
-      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 崎山蒼志
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,799 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,831 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Boyfriend \(What Makes Me Fall In Love\)](https://open.spotify.com/track/4TyU2iswUk7rSbLD909jfr) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [almost seventeen](https://open.spotify.com/album/3jwmnbQp74Yscim9Gwgo9N) | 4:13 |
 | 50 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 |
 
-Snapshot ID: `MCxiOGExYjZmZjRlZjkwMTU1YTUxZTZkZGNmYzBlMDU1NzNjMGNlY2Fm`
+Snapshot ID: `MCwwMmQwOTZiZGRmNWY1ODY4NGFkYWE3MWY5MmQ0OGQ2ZDVjZDRkZjgy`

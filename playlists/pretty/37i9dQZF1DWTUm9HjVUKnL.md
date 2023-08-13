@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,665 likes - 888 songs - 2 day 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,669 likes - 888 songs - 2 day 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 193 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
 | 194 | [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 |
 | 195 | [Lost \- Spotify Singles](https://open.spotify.com/track/4cMDos0OPu2XKWDXivzN0q) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Lost \- Spotify Singles](https://open.spotify.com/album/50BXVC6HAFoAunZzwsvLsR) | 4:00 |
-| 196 | [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 |
+| 196 | [Beach Coma \- Spotify Singles](https://open.spotify.com/track/1Tdi6GOyTx3imu45JCDWNx) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \(Spotify Singles\)](https://open.spotify.com/album/7GDubsnXSeba3b60kt7eQU) | 3:40 |
 | 197 | [Cherry \- Spotify Singles](https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Cherry \- Spotify Singles](https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p) | 3:00 |
 | 198 | [8Track \- Spotify Singles](https://open.spotify.com/track/2qahKp827phhIRizQ5HVPW) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/22A8Pj7NfwUEGvH5QsIFae) | 3:12 |
 | 199 | [LOST YOU \(screwed not chopped\)](https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 4:25 |
@@ -897,4 +897,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 887 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 888 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwzZmRiYTExNDViMTY0YWMwYWVkZjRhOGQ3ZjJkOTgxMzcwY2ZkYmI4`
+Snapshot ID: `MCw0MTI1MGJlOTU3NzgwMTZlZTJiY2JlYWVhMmYxZjY3YzNkMWQ1ODZl`

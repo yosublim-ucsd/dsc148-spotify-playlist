@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-103 songs - 5 hr 46 min
+104 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Run Run Run](https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B) | [Yeah But No](https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J) | [Demons](https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n) | 3:34 | 2023-07-20 |  |
 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 | 2023-07-20 |  |
 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 | 2023-07-20 |  |
+| [Saltburn](https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [Saltburn](https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj) | 3:06 | 2023-07-20 |  |
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2023-07-20 |  |
 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 | 2023-07-20 |  |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2023-07-20 |  |
@@ -110,6 +111,6 @@
 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 | 2023-07-20 |  |
 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 | 2023-07-20 |  |
 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 | 2023-07-20 |  |
-| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-07-20 |  |
+| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-07-20 | 2023-08-13 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

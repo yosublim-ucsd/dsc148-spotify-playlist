@@ -1166,7 +1166,7 @@
     {
       "album": {
         "name": "Darkness",
-        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
       },
       "artists": [
         {
@@ -1177,6 +1177,24 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-13",
       "duration_ms": 228923,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n"

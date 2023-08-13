@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27291,
+  "num_followers": 27369,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTZkZmM3YmJjMjIxMzIwMjI3YTQwMTg2M2EwZTY0NWRkMGUyMWU5",
+  "snapshot_id": "MCw3ZjgwMTJiMWFmYzZlZDA1ZDVhYmQ0YjRiNjlhZDRkNjMxOWE0MGMw",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1330,15 +1330,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 212334,
-      "name": "DRIVE (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/4NKQTbmiBtm1MwqBbQQhpM"
+      "duration_ms": 223641,
+      "name": "Me Like Yuh",
+      "url": "https://open.spotify.com/track/3SWju8HQ6II7QXkWtFSDE1"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1350,11 +1346,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 223641,
-      "name": "Me Like Yuh",
-      "url": "https://open.spotify.com/track/3SWju8HQ6II7QXkWtFSDE1"
+      "duration_ms": 212334,
+      "name": "DRIVE (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/4NKQTbmiBtm1MwqBbQQhpM"
     },
     {
       "added_at": "2023-07-31 16:03:37",

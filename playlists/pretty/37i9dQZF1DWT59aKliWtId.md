@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,934 likes - 114 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,957 likes - 114 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 2 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 |
 | 3 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 4 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
-| 5 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
+| 5 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 6 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 |
 | 7 | [NYE](https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [NYE](https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX) | 3:10 |
 | 8 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 60 | [Float Away](https://open.spotify.com/track/6PIjKxxqT4H23Gv8jMWHUJ) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Float Away](https://open.spotify.com/album/1JmoiKSuudNiXeAqh84oNy) | 3:02 |
 | 61 | [Uncle Mick’s Fireworks Extravaganza](https://open.spotify.com/track/4N0MhaEbiLWJ4PEDIHyF7R) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Uncle Mick’s Fireworks Extravaganza](https://open.spotify.com/album/4URQ56fR8EcSKOYP2cLDh3) | 4:35 |
 | 62 | [Friend For Life \(with Medium Build\)](https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Friend For Life \(with Medium Build\)](https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n) | 3:30 |
-| 63 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/71gtKNqIjM01p7njYpNYpW) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 4:54 |
+| 63 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/2tJkqB1zxa2xDIAEzVDNq7) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Inflorescence](https://open.spotify.com/album/7wcqwO6mYfEcQVJt2CAUu3) | 4:54 |
 | 64 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 |
 | 65 | [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 |
 | 66 | [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 114 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCwwZWZmNzI3ZmZkY2Q3MDYyMzczMTZjYThjZWIwMjc1NjkzZTY5OWI1`
+Snapshot ID: `MCxjYzk0YzhiOWExNzNhNzhmOTExYmFjNWM5MDA5MDIzNTI3MzQzZGEw`

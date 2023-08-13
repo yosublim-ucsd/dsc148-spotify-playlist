@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 161535,
+  "num_followers": 161668,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RiMTMxYmUzM2JiYmQxZWI5OTAyODBhNTYzZmQyNWM5NTc4N2Mx",
+  "snapshot_id": "MCwwNzE4ZDI2Y2YyOGVmZTc2Njg2MjNlZjBlZThiYjZhN2IyODExZmEw",
   "tracks": [
     {
       "added_at": "2023-04-14 01:13:12",
@@ -23,22 +23,6 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
-    },
-    {
-      "added_at": "2023-04-05 03:09:18",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2023-06-02 02:28:19",
@@ -59,6 +43,22 @@
       "duration_ms": 245823,
       "name": "The Universe",
       "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
+    },
+    {
+      "added_at": "2023-04-05 03:09:18",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2023-03-31 19:24:48",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
       "added_at": "2022-08-02 14:49:54",
       "album": {
         "name": "\u00a1Ay!",
@@ -415,6 +399,22 @@
       "duration_ms": 215296,
       "name": "No tiempo",
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2022-07-15 05:42:04",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -523,6 +507,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/343FRF9gbsQRFesy9H2V5M"
     },
     {
-      "added_at": "2023-01-03 01:09:50",
-      "album": {
-        "name": "Time Skiffs",
-        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 470299,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Cosmorama",
@@ -883,6 +867,22 @@
       "duration_ms": 258420,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+    },
+    {
+      "added_at": "2023-01-03 01:09:50",
+      "album": {
+        "name": "Time Skiffs",
+        "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 470299,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
-      "added_at": "2022-02-09 04:04:07",
+      "added_at": "2022-09-29 00:40:57",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+        "name": "Pocket Fantasy",
+        "url": "https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1"
       },
       "artists": [
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
         }
       ],
-      "duration_ms": 228809,
-      "name": "Tintagel",
-      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+      "duration_ms": 159480,
+      "name": "Shining Armor",
+      "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1011,6 +1011,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2022-02-09 04:04:07",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 228809,
+      "name": "Tintagel",
+      "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1103,22 +1119,6 @@
       "duration_ms": 188873,
       "name": "Feedback Loop",
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
-    },
-    {
-      "added_at": "2022-09-29 00:40:57",
-      "album": {
-        "name": "Pocket Fantasy",
-        "url": "https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1"
-      },
-      "artists": [
-        {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Shining Armor",
-      "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1401,38 +1401,6 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
-      "added_at": "2022-08-13 01:40:58",
-      "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1451,6 +1419,38 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2022-08-13 01:40:58",
+      "album": {
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2022-01-11 00:08:03",

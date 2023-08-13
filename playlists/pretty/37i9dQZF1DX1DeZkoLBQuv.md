@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 40 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
 | 41 | [Primeiro Natal \(The First Noel\)](https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 | 42 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
-| 43 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
-| 44 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
+| 43 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
+| 44 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 45 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
 | 46 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
 | 47 | [Vem Chegando o Natal](https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK) | [Noite de Paz \- Canções para Celebrar](https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Vinde Celebremos](https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:22 |
 | 50 | [A História de Cristo](https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz) | [7MUS](https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [\#TBT](https://open.spotify.com/album/53aePMus3r7215h43aChgx) | 3:32 |
 
-Snapshot ID: `MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5`
+Snapshot ID: `MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy`

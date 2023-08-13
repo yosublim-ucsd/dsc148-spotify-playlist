@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,897 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,189 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [YAKUZA TIES](https://open.spotify.com/track/0dIfSEyjNJsdTzJKdBC2co) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 1:56 |
 | 50 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 |
 
-Snapshot ID: `MCwwODI0Njg3OTk1ODEwNzE5ZDJlNDZjNTcyY2Y1NmY5YmViMzE2ZWY2`
+Snapshot ID: `MCwyYjkwNzczZDE2OTQ0NjRlYWU0Y2I5MWZmNjMyYThjYTdhMWYxYzU2`

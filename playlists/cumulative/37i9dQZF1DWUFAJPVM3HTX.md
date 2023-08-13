@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Sean Leon\. Updates every Wednesday.
 
-1,600 songs - 3 day 10 hr 32 min
+1,601 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1007,7 +1007,8 @@
 | [Ocean](https://open.spotify.com/track/6wAlman6LKXAGzsK9fLCyo) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Ocean](https://open.spotify.com/album/0TRp1WRL9C66ZAk6D81dDz) | 3:14 | 2022-10-28 | 2022-12-01 |
 | [Oceans](https://open.spotify.com/track/2uV5lDCkyAL6l47LpIWV6X) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/67bnPOMQ5dS0wfhy9sD7WW) | 2:17 | 2022-09-21 | 2022-10-14 |
 | [Oceans](https://open.spotify.com/track/618wwrGrOAIPP2dISTsc0i) | [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Oceans](https://open.spotify.com/album/6FS5dua45VW0Ej9BmbVuay) | 2:17 | 2022-09-21 | 2022-10-20 |
-| [OF US](https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/13KbkH5IT1BK3UP46s1lVe) | 2:24 | 2023-07-05 |  |
+| [OF US](https://open.spotify.com/track/6MAXtJLtBthqXCSixzh8eL) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US](https://open.spotify.com/album/13KbkH5IT1BK3UP46s1lVe) | 2:24 | 2023-07-05 | 2023-08-13 |
+| [OF US \(Sped Up\)](https://open.spotify.com/track/6ri772tABSzfkNChBEg4R6) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk) | [OF US \(Sped Up\)](https://open.spotify.com/album/5HOwswPJmAqKrozPimZaD3) | 2:24 | 2023-07-05 |  |
 | [Off The Drugs \- acoustic](https://open.spotify.com/track/0Oq6ca7BZOyiXmAm7K2geG) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Off The Drugs \(acoustic\)](https://open.spotify.com/album/0KwUUyOFpY8nM7J16US5Oj) | 2:49 | 2022-09-07 | 2022-10-06 |
 | [Offline](https://open.spotify.com/track/02MtATIEnBgyzvoQqlH5hG) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Offline](https://open.spotify.com/album/0ZWNoe1pGWvequQRiBw7mu) | 3:01 | 2022-02-16 | 2022-04-14 |
 | [Oh Darlin'](https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [When We Were](https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56) | 3:26 | 2023-08-09 |  |

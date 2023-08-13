@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 36885,
+  "num_followers": 37036,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDAzMmI0NmQ4NDIwOTExYTdiZGE2Y2M1ZmE0MWExNmQ5NzE0NjA1",
+  "snapshot_id": "MCwzYWFlNjQ4NWVhOTA4OWNmNGJlY2QwOThlN2I4MDQ5YmFlODYyZTk0",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Be in the moment",
-        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 189125,
-      "name": "Be in the moment",
-      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Balcony Hotel (From 'Miss')",
         "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 176062,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Be in the moment",
+        "url": "https://open.spotify.com/album/4nbi49mVkoZMEVETySmBjO"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 189125,
+      "name": "Be in the moment",
+      "url": "https://open.spotify.com/track/6XBEK00TaLQhjLk2IoFgDr"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -763,22 +763,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
         },
         {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+      "duration_ms": 175090,
+      "name": "Little Orc",
+      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -799,22 +799,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 175090,
-      "name": "Little Orc",
-      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Like Glass",
-        "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
-      },
-      "artists": [
-        {
-          "name": "VOISART",
-          "url": "https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE"
-        }
-      ],
-      "duration_ms": 150792,
-      "name": "Like Glass",
-      "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "CRISALIDE",
         "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 261000,
       "name": "CRISALIDE 6",
       "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Like Glass",
+        "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
+      },
+      "artists": [
+        {
+          "name": "VOISART",
+          "url": "https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE"
+        }
+      ],
+      "duration_ms": 150792,
+      "name": "Like Glass",
+      "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
+      },
+      "artists": [
+        {
+          "name": "Simon Folwar",
+          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
+        }
+      ],
+      "duration_ms": 159594,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "As I Was (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
-      },
-      "artists": [
-        {
-          "name": "Simon Folwar",
-          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
-        }
-      ],
-      "duration_ms": 159594,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
-      },
-      "artists": [
-        {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
-        }
-      ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Everything Has Its Echo",
         "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 289829,
       "name": "Heart Failure",
       "url": "https://open.spotify.com/track/7biIzSlBe8dWzEwHG7dS5k"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Esja",
         "url": "https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 138529,
       "name": "Esja",
       "url": "https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
     },
     {
       "added_at": "2023-08-11 04:01:00",

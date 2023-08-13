@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,603 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,781 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 57 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
 | 58 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |
 | 59 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
-| 60 | [Go Let It Out \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/1sbfciYGPMMqR5dwfT54KQ) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Spotify Singles](https://open.spotify.com/album/1zNkENtarEag1002VNNhT7) | 5:03 |
-| 61 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 60 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 61 | [Go Let It Out \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/1sbfciYGPMMqR5dwfT54KQ) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Spotify Singles](https://open.spotify.com/album/1zNkENtarEag1002VNNhT7) | 5:03 |
 | 62 | [Guerra e Paz \- Acústico Live](https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest Acústico CCBB LIVE EP](https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU) | 3:10 |
 | 63 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 5:07 |
 | 64 | [Bad Guy \- Acoustic](https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Bad Guy \(Acoustic\)](https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
 
-Snapshot ID: `MCwyZGQ1YzQ3NmY2MjRiYjU0OGRkNmEzZGJkNzE4ZTM5YmU3MGQ5ZTQw`
+Snapshot ID: `MCxjZDBmY2NmYzNhMmI0NzM1OGY1OWRmZjlmZGJjMGM2YWQxODgzYTRh`

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Louis The Child",
-  "num_followers": 759780,
+  "num_followers": 759844,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmY2MjgxZDJjMjAyMmYwNTFmMTMyYzU4NWNhNjM1YWQ1YmExYjg4",
+  "snapshot_id": "MCwyYjVmYWY2MWYxOGM5NTkxOWI5YTk5MDJmYzY2NTNhMmI0YzM3Zjc5",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2"
       },
@@ -1111,6 +1091,22 @@
       "duration_ms": 253803,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Daybreak (with Zachary Knowles)",
         "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 140666,
       "name": "Daybreak (with Zachary Knowles)",
       "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Thinkin About",
-        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "Thinkin About",
-      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Heart On Fire",
-        "url": "https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -1663,6 +1643,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Decision",
+        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 262682,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Decision",
-        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         }
       ],
-      "duration_ms": 262682,
-      "name": "Decision",
-      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
+      "duration_ms": 230400,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 169050,
-      "name": "Feelings Plain",
-      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Feeble Games",
         "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 182323,
       "name": "Feeble Games",
       "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 169050,
+      "name": "Feelings Plain",
+      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 184615,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "VOODOO",
-        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 92307,
       "name": "And then it came together",
       "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/2IwOQiCHcma5ic1WTPzz0L"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Loner (Remixes)",
         "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
       },
@@ -2303,6 +2283,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "all you'll get from me is my company",
         "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
@@ -2319,18 +2315,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6bi8u9QUWXCYW8w9IT88D3"
       },
       "artists": [
         {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
+      "duration_ms": 195459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "DOJA",
-        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 157916,
-      "name": "DOJA",
-      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "2hard2letgo",
         "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 226950,
       "name": "2hard2letgo",
       "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "DOJA",
+        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157916,
+      "name": "DOJA",
+      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
     },
     {
       "added_at": "2023-08-11 04:01:00",

@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 36 | [So Good It Hurts](https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Good News](https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR) | 3:20 |
 | 37 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 |
 | 38 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 |
-| 39 | [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 |
+| 39 | [Something Somewhere](https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:34 |
 | 40 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 |
 | 41 | [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 |
 | 42 | [Click Work Drop \- Ineffekt Remix](https://open.spotify.com/track/2CAzwfDMr6Vxi7tOHa4j5X) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Click Work Drop \(Ineffekt Remix\)](https://open.spotify.com/album/5TrmHegiihRyXcd3i8O4ah) | 3:52 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 54 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 |
 | 55 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MCxjMWNhODhjMTQ5YjY1MzUxNWQwNzYwNzJkZTdjYjBiNmVjODliMjIx`
+Snapshot ID: `MCw5MTVmMjczZDBkNTIwYWQ2OGU0MzUwZjk0ZTkyZjE4OWZhMzY1ZjQx`

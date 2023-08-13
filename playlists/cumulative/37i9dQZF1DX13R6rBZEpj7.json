@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
+    },
+    {
+      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -312,6 +330,32 @@
       "duration_ms": 238208,
       "name": "Back",
       "url": "https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp"
+    },
+    {
+      "album": {
+        "name": "Badman Riddim (feat. Sweetie Irie)",
+        "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137910,
+      "name": "Badman Riddim (feat. Sweetie Irie)",
+      "url": "https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t"
     },
     {
       "album": {
@@ -1004,7 +1048,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 215282,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq"
@@ -2862,7 +2906,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-13",
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"

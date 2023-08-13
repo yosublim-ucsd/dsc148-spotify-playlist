@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,415 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,506 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 24 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 |
 | 25 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 | 26 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
-| 27 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 |
+| 27 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 |
 | 28 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 |
 | 29 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
 | 30 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 99 | [Get with U](https://open.spotify.com/track/5xhXYjfrYlkd9BXPyCjn00) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Live Your Truth Shred Some Gnar](https://open.spotify.com/album/5Ae3xDGRamEFOSmzdtPGGv) | 3:57 |
 | 100 | [Hijacked](https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV) | [Pure Chlorine](https://open.spotify.com/artist/0XJHYxkjfwYpuIZO8tM6fl) | [Hijacked](https://open.spotify.com/album/2MkQLN7BsCZxhX11P7perM) | 2:55 |
 
-Snapshot ID: `MCxlNTliM2Q5MzFlYTYxNGQ4MGU4NjU1MjlmMTNkOTYwOGJlOTliNDRi`
+Snapshot ID: `MCw2YzU3YjczMTMzYWQ1MDE0YWRhNDI2YzIwZTljMjY4MzEzNGFjMzA3`

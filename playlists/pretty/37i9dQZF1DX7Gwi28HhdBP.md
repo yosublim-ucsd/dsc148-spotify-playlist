@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z\_KZ6Rny84J54tvSmlA"> عبد الباسط حمودة و <a href="https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C\_VKg"> عمر كمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,983 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,083 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 20 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 |
 | 21 | [مولد الجزيرة \- Dj Totti Remix](https://open.spotify.com/track/6lgsjBFrebUpwSsoOz2Vhl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [حسن عبد الوهاب](https://open.spotify.com/artist/4R6xYAUK0IMM9QQxJZQqmB) | [مولد الجزيرة \(Dj Totti Remix\)](https://open.spotify.com/album/2ZUNeuAsy7SpGMj7pYCmQ4) | 5:25 |
 | 22 | [الدنيا زى المرجيحة](https://open.spotify.com/track/3hpTzud70Ev2P0DRrwq5ei) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/0fjBBiAujhUV5XN0ufBxeP) | 4:56 |
-| 23 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 |
-| 24 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 |
+| 23 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 |
+| 24 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 |
 | 25 | [Ana Mesh Arefny](https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Darbt Maalem](https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy) | 5:41 |
 | 26 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 |
 | 27 | [Aal Doghrey](https://open.spotify.com/track/6WBEzul5kA06o2OR1pXqIt) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Aal Doghrey](https://open.spotify.com/album/41lOl3mkPOQnWVTibhOWFK) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [دوكه](https://open.spotify.com/track/3O01ChQwIuqwZSHSv1aFWQ) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Houda Bodok](https://open.spotify.com/artist/1siovIHkUbtQoPKWw9uWSd) | [دوكه](https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx) | 2:27 |
 | 50 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
 
-Snapshot ID: `MCw4Y2ZiYzJlNDk5YzNlYzgzMWVhMzgzZDRlNzA3ZTQ2ZmE1NzYyYjE5`
+Snapshot ID: `MCwxOWMzODM0ZThhNjBkYjU1NjMwOWIxOGU1NmUyZmEyMDc0NjAwOWU3`

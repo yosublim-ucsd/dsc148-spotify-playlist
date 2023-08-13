@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Emotional Oranges
 
-489 songs - 1 day 2 hr 26 min
+490 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Come My Way](https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Come My Way](https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS) | 2:57 | 2023-06-15 | 2023-06-23 |
 | [Come Over](https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Come Over](https://open.spotify.com/album/3FXybInWSDFkMiHf2RxgcR) | 3:06 | 2023-06-08 | 2023-06-23 |
 | [Connect The Dots](https://open.spotify.com/track/0ahWtlkee1OEm4iBZow6WO) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Connect The Dots](https://open.spotify.com/album/4FcU7hmQWLCxHsKdeBxOMu) | 2:05 | 2023-06-01 |  |
-| [CONTROL](https://open.spotify.com/track/5zgXM2krNdScAvyPQU3b62) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/4JeVm8h649aYksCYUA3j5e) | 2:53 | 2023-04-20 |  |
+| [CONTROL](https://open.spotify.com/track/5zgXM2krNdScAvyPQU3b62) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/4JeVm8h649aYksCYUA3j5e) | 2:53 | 2023-04-20 | 2023-08-13 |
+| [CONTROL](https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/0R24SnsmBloT7MIYPYzWZ0) | 2:53 | 2023-08-10 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-02 | 2022-12-17 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-28 | 2022-09-02 |

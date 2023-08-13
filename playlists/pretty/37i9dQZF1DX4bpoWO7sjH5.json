@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl",
+  "snapshot_id": "MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy",
   "tracks": [
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Venid y Adoremos",
+      "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
         "name": "Es Navidad (O Holy Night)",
         "url": "https://open.spotify.com/album/2nkkkt4JVY1gxY9MgIbCiq"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Venid y Adoremos",
-      "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Mi Mejor Regalo",
         "url": "https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "La Primera Navidad",
-        "url": "https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt"
-      },
-      "artists": [
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "duration_ms": 257624,
-      "name": "La Primera Navidad",
-      "url": "https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidad Con V\u00e1stago",
         "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 228866,
       "name": "Hoy Es Navidad",
       "url": "https://open.spotify.com/track/5GTAhTQ8vZUGVrdsDsIAjv"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "La Primera Navidad",
+        "url": "https://open.spotify.com/album/1wNflbPP9yy7JV8QVmIpnt"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "duration_ms": 257624,
+      "name": "La Primera Navidad",
+      "url": "https://open.spotify.com/track/27osO2mfyzZTawlXzm8o4L"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidad Con V\u00e1stago, Vol. 2",
-        "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Fraire",
-          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "All\u00e1 En Bel\u00e9n - Pista",
-      "url": "https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "El Regalo de Jes\u00f9s",
         "url": "https://open.spotify.com/album/22N1H1kYux0EHW109AfaYv"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 173480,
       "name": "All\u00e1 en el Pesebre",
       "url": "https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Navidad Con V\u00e1stago, Vol. 2",
+        "url": "https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fraire",
+          "url": "https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "All\u00e1 En Bel\u00e9n - Pista",
+      "url": "https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+        "name": "Santa la Noche",
+        "url": "https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Gabriela Cartulano",
+          "url": "https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx"
         }
       ],
-      "duration_ms": 215131,
-      "name": "Navidad Perfecta",
-      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
+      "duration_ms": 236128,
+      "name": "Santa la Noche",
+      "url": "https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 215131,
+      "name": "Navidad Perfecta",
+      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
         "name": "Pa'que Mi Pueblo Cante",
         "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 209600,
       "name": "V\u00edstete",
       "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Santa la Noche",
-        "url": "https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Cartulano",
-          "url": "https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx"
-        }
-      ],
-      "duration_ms": 236128,
-      "name": "Santa la Noche",
-      "url": "https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Noche de paz",
-        "url": "https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku"
-      },
-      "artists": [
-        {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Noche de paz",
-      "url": "https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Pesebre",
         "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 337325,
       "name": "Pesebre",
       "url": "https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Noche de paz",
+        "url": "https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku"
+      },
+      "artists": [
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Noche de paz",
+      "url": "https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0"
     },
     {
       "added_at": "2022-12-10 23:01:18",

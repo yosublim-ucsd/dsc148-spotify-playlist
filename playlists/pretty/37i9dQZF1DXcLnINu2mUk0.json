@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 36761,
+  "num_followers": 36792,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JiZjEzMDIwNzI5OTVhNTYyZmE2MTM3ODA1YTdiZThiYTgwYWI4",
+  "snapshot_id": "MCw1MjZlNzJhMTc3MzJmZDNhMmU0ZmRhNjZmNjhjY2JiNWU2YzFkY2Ni",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1167,54 +1167,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Conex\u00f5es",
-        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
-      },
-      "artists": [
-        {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Conex\u00f5es",
-      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Quero-te a Ti",
-        "url": "https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW"
-      },
-      "artists": [
-        {
-          "name": "FdAN",
-          "url": "https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3"
-        }
-      ],
-      "duration_ms": 165881,
-      "name": "Quero-te a Ti",
-      "url": "https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "S\u00f3 olho para ti",
-        "url": "https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV"
-      },
-      "artists": [
-        {
-          "name": "KSOLD",
-          "url": "https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "S\u00f3 olho para ti",
-      "url": "https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Balan\u00e7o",
         "url": "https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93"
       },
@@ -1235,6 +1187,54 @@
       "duration_ms": 156205,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Quero-te a Ti",
+        "url": "https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW"
+      },
+      "artists": [
+        {
+          "name": "FdAN",
+          "url": "https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3"
+        }
+      ],
+      "duration_ms": 165881,
+      "name": "Quero-te a Ti",
+      "url": "https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Conex\u00f5es",
+        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Conex\u00f5es",
+      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "S\u00f3 olho para ti",
+        "url": "https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV"
+      },
+      "artists": [
+        {
+          "name": "KSOLD",
+          "url": "https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "S\u00f3 olho para ti",
+      "url": "https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ"
     }
   ],
   "unique_name": "Seda",

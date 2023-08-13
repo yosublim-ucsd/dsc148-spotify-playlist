@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,530 likes - 174 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,018,706 likes - 174 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 36 | [Ready For It](https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Ready For It](https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS) | 2:27 |
 | 37 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 |
 | 38 | [Don't Say Love \- R&B Version](https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love \(R&B Version\)](https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS) | 3:00 |
-| 39 | [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 |
+| 39 | [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 |
 | 40 | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Don’t Lie \[Feat\. Malaya\]](https://open.spotify.com/album/1JUxXtOkoLUgwHN7dfb2ML) | 4:21 |
 | 41 | [Affirm Me](https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Affirm Me](https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2) | 3:28 |
 | 42 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 173 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 174 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCxkMTBiNGM4YzAwZDljZTRjNzA2OWMxNWY4NTI3YzFkZTY5ZTYxNWFl`
+Snapshot ID: `MCwzN2E2OTZmNWM1Njc1YTc4YmZmZjZhODI5OGFkZWE3Mjc1M2JlMWQw`

@@ -150,7 +150,7 @@
 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 | 2021-10-05 | 2022-06-01 |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg) | 3:48 | 2022-05-17 |  |
 | [¿A Dónde Vamos A Parar?](https://open.spotify.com/track/2GCb04vjU2QePbEEHUOAC4) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [En Total Plenitud](https://open.spotify.com/album/2IzK6dZXxuS20zoQ1b6Jxu) | 3:48 | 2021-10-05 | 2022-07-29 |
-| [¿Y cómo es él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 | 2022-05-17 |  |
+| [¿Y Cómo Es Él?](https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:08 | 2022-05-17 |  |
 | [¿Y cómo es él?](https://open.spotify.com/track/7rm6kcMbUZNMzkELONGaVY) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Celebridades\- Jose Luis Perales](https://open.spotify.com/album/0s04HfSPWUXc9L6slKaT1Y) | 4:08 | 2021-10-05 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-02-10. Prior content cannot be recovered.

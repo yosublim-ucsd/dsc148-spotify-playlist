@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276456,
+  "num_followers": 276474,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm",
+  "snapshot_id": "MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+      "duration_ms": 174413,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 174413,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Feel Good (feat. Daya) [Acoustic]",
         "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 239772,
       "name": "Feel Good (feat. Daya) - Acoustic",
       "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Sound Advice (Chapter One)",
         "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
       },
@@ -1559,6 +1559,26 @@
       "duration_ms": 193432,
       "name": "There Will Be Angels - Acoustic Version",
       "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1583,26 +1603,6 @@
       "duration_ms": 222275,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Where Did You Go? (Acoustic)",
         "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 202680,
       "name": "Where Did You Go? - Acoustic",
       "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1963,22 +1963,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Synchronize (VIP / Acoustic)",
-        "url": "https://open.spotify.com/album/0AhntYxT3MoNfXO2CMf4fC"
+        "name": "21 Reasons (feat. Ella Henderson) [Acoustic]",
+        "url": "https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ"
       },
       "artists": [
         {
-          "name": "Hellberg",
-          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         },
         {
-          "name": "Aaron Richards",
-          "url": "https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 228095,
-      "name": "Synchronize - Acoustic",
-      "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
+      "duration_ms": 167724,
+      "name": "21 Reasons (feat. Ella Henderson) - Acoustic",
+      "url": "https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP"
     }
   ],
   "unique_name": "mint Acoustic",

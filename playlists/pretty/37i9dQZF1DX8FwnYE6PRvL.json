@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2326070,
+  "num_followers": 2326602,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjE0MTBmMjE4YThkZjkyZTc2Mzc2YjY4NWZhODhkNjAzNDkxZDY3",
+  "snapshot_id": "MCw2Mzc3YjBhYTU4NWQ1MjA4OTlhY2I0ZWUyNWNhYTg4NmRlMWVlZDc5",
   "tracks": [
     {
       "added_at": "2023-07-25 07:56:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Play Deep",
-        "url": "https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Play Deep",
+        "url": "https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 246933,
       "name": "No Sleep Till Brooklyn",
       "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
     },
     {
       "added_at": "2023-07-25 07:56:27",

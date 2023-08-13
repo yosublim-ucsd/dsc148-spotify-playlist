@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,191 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,260 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 | 100 | [Head Over Heels](https://open.spotify.com/track/6Na5SH1jPHninkLsfn8ADB) | [Apollo Bebop](https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG) | [Head Over Heels](https://open.spotify.com/album/3Z8cqJPS7K0QjNhc2f3IWv) | 2:39 |
 
-Snapshot ID: `MCw4Y2Q4MGY2NTJlMzhiM2JjYzYyODMxNDhkOGI4MGEyZDNkMjhjZTdi`
+Snapshot ID: `MCwyN2JlYzNjZDhmZGNjZmNiMDM0MDRjNGFiYWI1Y2JlNDQ4MjgyOGVk`

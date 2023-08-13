@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 298950,
+  "num_followers": 299022,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWVjZGRmMWY0M2M3MDI0ZWUyOGQzMGYyMWUzM2I4OTJiZjE4Mjc5",
+  "snapshot_id": "MCw0MmFmNTM5ZGQ3N2Y2OTFlMTU5ZDA4NGQwMjFjZmNmODc3NmY5Mzdi",
   "tracks": [
     {
       "added_at": "2023-02-21 15:51:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2023-02-21 15:51:11",
-      "album": {
         "name": "Up-Tight",
         "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 174400,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
+    },
+    {
+      "added_at": "2023-02-21 15:51:11",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2023-02-21 15:51:11",

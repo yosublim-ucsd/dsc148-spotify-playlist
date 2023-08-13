@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69840,
+  "num_followers": 69849,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmViNGNlMDUzODcwZDhhZmU0NzI3ZDk3MmU3OWRkMTdmNzI0Mzhj",
+  "snapshot_id": "MCw1Mjg1Yjc5ZWI1Njc0ZGE5NDM1ODMzZGY3YzY3OTExNTUzNGM5ZjVi",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 266835,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 214323,
       "name": "6B (feat. Go Get Music)",
       "url": "https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 266835,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tan Rico",
-        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Clandestino & Yailemm",
-          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 246937,
-      "name": "Tan Rico",
-      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
+      "duration_ms": 162013,
+      "name": "Despu\u00e9s Del Party",
+      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+        "name": "Tan Rico",
+        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Clandestino & Yailemm",
+          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
         }
       ],
-      "duration_ms": 162013,
-      "name": "Despu\u00e9s Del Party",
-      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
+      "duration_ms": 246937,
+      "name": "Tan Rico",
+      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "5 Estrellas",
         "url": "https://open.spotify.com/album/3hPNd8YlE88jGyQ1jIdNrM"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 249130,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/3lN1fgtcVeToWt1H6AEVAM"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
       },
@@ -1451,22 +1435,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tesoro M\u00edo",
-        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
       },
       "artists": [
         {
-          "name": "Yan Collazo",
-          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
         }
       ],
-      "duration_ms": 242932,
-      "name": "Tesoro M\u00edo",
-      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1487,6 +1467,26 @@
       "duration_ms": 245506,
       "name": "La Esquina",
       "url": "https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Tesoro M\u00edo",
+        "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
+      },
+      "artists": [
+        {
+          "name": "Yan Collazo",
+          "url": "https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242932,
+      "name": "Tesoro M\u00edo",
+      "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 174500,
       "name": "Mundo Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     },
     {
       "added_at": "2023-06-09 02:27:24",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Salom\u00f3n Beda",
-  "num_followers": 283004,
+  "num_followers": 283046,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhNjU3NDY0NmI2NTJhZTc0NzQxZTMxZGRkMGZiY2I0NGU4NzUw",
+  "snapshot_id": "MCxjNGNhMTkyNzFjYmRlMWJjNGRmM2JmNmQ4NDc0OGVmY2NhNWM1MmEx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "traici\u00f3n",
+        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "traici\u00f3n",
+      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 170596,
       "name": "NUNCA VOY SOLO",
       "url": "https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "traici\u00f3n",
-        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "traici\u00f3n",
-      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Satus",
         "url": "https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
         "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 154920,
       "name": "Que me quiera",
       "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+      "duration_ms": 91371,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 170389,
       "name": "Nunca Deja de Llover",
       "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 91371,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "mE vALe maDRE :)",
-        "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
+        "name": "Soltando A Pedazos",
+        "url": "https://open.spotify.com/album/5KsQBvqPKCWGC15MCPOaJy"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 150500,
-      "name": "mE vALe maDRE :)",
-      "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
+      "duration_ms": 164673,
+      "name": "Soltando A Pedazos",
+      "url": "https://open.spotify.com/track/54Hpm4MoCvzmlO6yvD2wj0"
     }
   ],
   "unique_name": "el nuevo pop",

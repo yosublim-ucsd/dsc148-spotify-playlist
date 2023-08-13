@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days with Home Is Where.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,611 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,729 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 17 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 |
 | 18 | [Make It Happen](https://open.spotify.com/track/2PtUBYpj5WHsmlzLxTQslG) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Denent](https://open.spotify.com/album/0rIM5fJXyZXGL27qoaqeuu) | 3:07 |
 | 19 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
-| 20 | [Darkness](https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/5C7sRYLBu5MpSsgn2f1MAh) | 3:48 |
+| 20 | [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [Darkness](https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi) | 3:48 |
 | 21 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 |
 | 22 | [Crumbling](https://open.spotify.com/track/2EJgEVwGWA0tvt3xgDUAOh) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Crumbling](https://open.spotify.com/album/5k67HhKmzB4FrsIk7PUkzy) | 3:13 |
 | 23 | [Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [You're Gonna Miss It All](https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA) | 2:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 |
 | 80 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 
-Snapshot ID: `MCwwMzAwNjYwNWJmYWQyMzM2MTVmYWVlZjljMzNhY2QxNDIyNDRmNWU2`
+Snapshot ID: `MCw1MjVhODYzNmYyYjJjN2E1ZDUzODA4ZjBkYjgzYzVkYjUwNTE5MGU5`

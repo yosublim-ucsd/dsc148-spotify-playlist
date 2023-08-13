@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,873 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,882 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 6 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
 | 7 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 | 8 | [Skulled](https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:12 |
-| 9 | [Unknown Summer](https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Infirmary / Unknown Summer](https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE) | 9:40 |
+| 9 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 10 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
-| 11 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
-| 12 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
+| 11 | [Unknown Summer](https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Infirmary / Unknown Summer](https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE) | 9:40 |
+| 12 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
 | 13 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
 | 14 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 | 15 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 20 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
 | 21 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
 | 22 | [Is It Me](https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E) | 4:16 |
-| 23 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
-| 24 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
+| 23 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
+| 24 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 25 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 26 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 27 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 47 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 | 48 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
 | 49 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 |
-| 50 | [In Response](https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [In Response](https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa) | 3:34 |
+| 50 | [Trespasser Unknown](https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Infinite Autonomy](https://open.spotify.com/album/0OAwinaOuk161ygtyfIq9r) | 4:54 |
 
-Snapshot ID: `MCxkNzVhNzE5YWE3NTJlYzhjMDMwMzcyNmE5MzgxZWYzOGM2NzFlNjJk`
+Snapshot ID: `MCw3OWJkODBhZmNmNzc3MGU4ODUxMDY0MjBlZWQ3NDc0ZDM4N2JkMGYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u?si=edb18f0406944953">Jarv Dee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 51 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,967 likes - 51 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 32 | [B&B](https://open.spotify.com/track/7iUFKBqVnOyGIZbaB8LgXu) | [Sly Watts](https://open.spotify.com/artist/2NiK2JRvFIdRNzYyzSuzfd), [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK), [Fourth Eye Tribe](https://open.spotify.com/artist/1KOgBBN0mu5Pnzv6KK6REM) | [B&B](https://open.spotify.com/album/0DWq5liZbozITBAm5VjWMt) | 1:56 |
 | 33 | [EYE 444 EYE](https://open.spotify.com/track/0CyWq4tufuqfLbagJ7b9Mr) | [Connect Zero](https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH) | [EYE 444 EYE](https://open.spotify.com/album/4awntEcDBYbvOwM93LDFcs) | 2:51 |
 | 34 | [RAGEDAY SUIT](https://open.spotify.com/track/6UawIjmrDaypCrZe87BqIy) | [John Thomas](https://open.spotify.com/artist/5sBcu06yga5A7OS8FvnFDi), [thirtysixhunnid](https://open.spotify.com/artist/1if5JSK3PFzQgZb7wyD3Tp) | [RAGEDAY SUIT](https://open.spotify.com/album/3YoGSVT23LKHFbGjslo6H5) | 2:18 |
-| 35 | [Glow \- Jersey Club Remix](https://open.spotify.com/track/3bCBOQm3Rnyan376RoDvgL) | [Chanarah](https://open.spotify.com/artist/72QBdMls5ujyjdhIeISI2w) | [Glow \- Jersey Club Remix](https://open.spotify.com/album/6N1501iAFIlEnXiAxApl3v) | 3:04 |
+| 35 | [Glow \- Jersey Club Remix](https://open.spotify.com/track/3bCBOQm3Rnyan376RoDvgL) | [Chanarah](https://open.spotify.com/artist/72QBdMls5ujyjdhIeISI2w), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Glow \- Jersey Club Remix](https://open.spotify.com/album/6N1501iAFIlEnXiAxApl3v) | 3:04 |
 | 36 | [Pop Shit](https://open.spotify.com/track/20A2cIgO7E2E3gwCC0LJky) | [Keezy Kay](https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK) | [West Coast, Best Coast](https://open.spotify.com/album/5Rvyvv7ZNGO4tVsVlXzLAd) | 2:02 |
 | 37 | [304](https://open.spotify.com/track/2aC9Rx9rAeq7nytRqMsY9h) | [Sin the Slime](https://open.spotify.com/artist/6lqQsGazrr55PUIht4OREF), [BassKids](https://open.spotify.com/artist/39x1DjjNP8ad4zP3h0eW2B) | [304](https://open.spotify.com/album/663ITHxAhw1l3Hlk2RcM9h) | 2:12 |
 | 38 | [SIPPY CUP](https://open.spotify.com/track/7e8pqIu86GYAsnvejl5f7K) | [SWANKS](https://open.spotify.com/artist/67GmF4ktHfVu3vsmOM5cB7) | [SWANKSLIFESTYLE VOL\. 1](https://open.spotify.com/album/4nhx4TtlMtEKjvTE9js6Xb) | 1:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 50 | [Hot Topic](https://open.spotify.com/track/0p0zlykz8UuMoaAdDEbVT2) | [ScooterTheMenace](https://open.spotify.com/artist/4zy9I6HMQfwxA9wzWMLFGT) | [Hot Topic](https://open.spotify.com/album/2sB5H2Xpi3KGjNeTZFu1nJ) | 2:38 |
 | 51 | [CATCH N GRAB](https://open.spotify.com/track/5nhlBWdu3hmxIck79gDNx0) | [Yung JerJer](https://open.spotify.com/artist/3J2Nl3AI153jzpiSzhUAXE), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52) | [CATCH N GRAB](https://open.spotify.com/album/4BXnQCw0zmER3vvNa1BRk1) | 1:39 |
 
-Snapshot ID: `MCw5MTc1ODdlOTQzMTQ3OTQzZGFlNmQ0ZDVmNjcwMzE1ZDUwZjRkYzBi`
+Snapshot ID: `MCwxOGIzNWE4YmZhNDQyYzEzYjg1ZTU3NzdlZTM5YzU5YWFhOTM0ZjEz`

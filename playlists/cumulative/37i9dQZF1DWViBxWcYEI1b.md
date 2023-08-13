@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: James Arthur
 
-785 songs - 1 day 19 hr 37 min
+786 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,8 @@
 | [nothing but the love](https://open.spotify.com/track/2tW9lXMLknjIKFmWtMpf54) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [nothing but the love](https://open.spotify.com/album/7w8r37ZrBm0vZopJe9eJvs) | 3:04 | 2021-12-17 | 2022-01-15 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-17 | 2022-03-12 |
 | [Old Flame](https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Old Flame](https://open.spotify.com/album/7dyZsFX4g5jcHpSnMkKoHZ) | 2:47 | 2021-12-17 | 2022-01-29 |
-| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 |  |
+| [Old Friends](https://open.spotify.com/track/2xtNa5QipVpoe51f8dQ7a7) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0X38etkH1hOgsOXyvfAGQT) | 2:52 | 2023-08-04 | 2023-08-13 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-11 |  |
 | [Olive Branch](https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Olive Branch](https://open.spotify.com/album/1tZ836sL4IkDcXIhvXYs8r) | 3:19 | 2022-03-11 | 2022-03-26 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2021-12-17 | 2022-02-05 |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 | 2022-08-05 | 2022-10-01 |
