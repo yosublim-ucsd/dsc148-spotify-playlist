@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65417,
+  "num_followers": 65415,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2",
+  "snapshot_id": "MCwxNzEwMmExYTQ4Y2NjN2MxY2MwNzQ5ZWY5NzhlMTYyMGE0MjM5Yzlm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
+        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kim",
+          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
+        }
+      ],
+      "duration_ms": 184157,
+      "name": "J'aime la vie - Eurovision 1986",
+      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Diva (English Radio Version)",
         "url": "https://open.spotify.com/album/7sCC935syHEuEcN6nputPm"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 184106,
       "name": "My Star - Original",
       "url": "https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
-        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
-      },
-      "artists": [
-        {
-          "name": "Sandra Kim",
-          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
-        }
-      ],
-      "duration_ms": 184157,
-      "name": "J'aime la vie - Eurovision 1986",
-      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
     },
     {
       "added_at": "2023-05-05 17:20:54",

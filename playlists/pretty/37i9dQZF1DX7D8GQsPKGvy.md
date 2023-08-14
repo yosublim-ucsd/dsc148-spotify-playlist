@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,919 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,581 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Still Falling For You \- Jonas Blue Remix](https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Still Falling For You \(Jonas Blue Remix\)](https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM) | 3:08 |
 | 100 | [First Time \- Gryffin Remix](https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [First Time \(Remixes\)](https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI) | 2:53 |
 
-Snapshot ID: `MCxmNzIwZWQxZDdmNzBhZGMxZmIwZmU3MDBhNGVmYmMwYTMwMGFmOTc4`
+Snapshot ID: `MCwyZmZiZDgzZmFiOWZlNDRhYzZhMmU5MjM3Nzk1MzNmODk3ZGY2MTVi`

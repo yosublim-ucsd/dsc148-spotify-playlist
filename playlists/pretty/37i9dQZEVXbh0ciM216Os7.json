@@ -219,6 +219,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Scream & Shout (Metal Version)",
+        "url": "https://open.spotify.com/album/5F11RYmd0x6EHHJ6SewF5h"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 259859,
+      "name": "Scream & Shout (Metal Version)",
+      "url": "https://open.spotify.com/track/6nhPqiiB5sy8E5hDfpsdeT"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "SUPPOSED TO BE LOVED",
         "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
       },

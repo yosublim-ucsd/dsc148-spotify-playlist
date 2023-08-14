@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 
 > <a href="spotify:artist:4nhvb6x9ZhPiYCzrHDNia9">Daphni</a>'s track IDs\. Updated regularly\. Curated by Daphni\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,070 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,088 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 12 | [Untitled B1](https://open.spotify.com/track/59EmID80R4hu0n7UPyzOT4) | [Grain](https://open.spotify.com/artist/2I8gU6pYwm3ClSnkWa5Bxv) | [Untitled \(G4\)](https://open.spotify.com/album/0kEj3KACvjPGJDg41xYaBP) | 6:19 |
 | 13 | [DOLO 18](https://open.spotify.com/track/3LOYISEFrXxmIRTwgeD2yK) | [Dolo Percussion](https://open.spotify.com/artist/5FqcBM8zqtOBgofGNm2Ij9) | [DOLO 5](https://open.spotify.com/album/3Fxr8l876K9G5PKslxDEy5) | 5:14 |
 | 14 | [Sub 100](https://open.spotify.com/track/1rovlrodNYK4yxleJFfwjq) | [Hodge](https://open.spotify.com/artist/2oLMqtx0PbqCXJDXs5lRvA) | [Sub 100](https://open.spotify.com/album/7difwqSW4SunSEk9n3gVvd) | 5:36 |
-| 15 | [Cold Stones \- James Holden Remix](https://open.spotify.com/track/70WlQKVZ69JRYMmwCLyav7) | [XAM Duo](https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Cold Stones \(James Holden Remix\)](https://open.spotify.com/album/451e5h6dw72kPMmAGzhH7h) | 11:23 |
+| 15 | [Cold Stones \- James Holden Remix](https://open.spotify.com/track/6RogJvoMch6PGjw8Si53vW) | [XAM Duo](https://open.spotify.com/artist/4gkMjhOHSgudaN161imvTQ), [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Cold Stones \(James Holden Remix\)](https://open.spotify.com/album/6cZr8iJCEpGpTiRzWSDwyV) | 11:23 |
 | 16 | [eyes](https://open.spotify.com/track/6ta6XtdfsKqvjmeOEvfnmg) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:45 |
 | 17 | [Fo Yelle](https://open.spotify.com/track/4RkI4CG4UsoqwTHvzNX9ej) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Yinne](https://open.spotify.com/album/20IyNOvavcbkP4uTUWAFIP) | 4:50 |
 | 18 | [Human Race](https://open.spotify.com/track/2DBr4d82hDGMr13smygEBj) | [Human Race](https://open.spotify.com/artist/3xPRqzkCilihoKpF9OzzRn) | [Human Race b/w Grey Boy](https://open.spotify.com/album/2MQtrrmGaJ4ItjcyqidCX3) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQHB0vBt1AG.md) - [plain]
 | 49 | [Fuzzy Logic](https://open.spotify.com/track/4ubDv9q3yVbbGAoz9ZGRoh) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic](https://open.spotify.com/album/68wP91Oeg2JGajy5rOpFze) | 6:29 |
 | 50 | [Don't Know Why I Love You](https://open.spotify.com/track/2AvnRpYc8XlCC3luxrp8NA) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Any Way You Like It](https://open.spotify.com/album/0TZTsaJOuNHsXwC2Ox2K19) | 5:05 |
 
-Snapshot ID: `MCw5OTU5MDMzYzViNjBhOTRmNTRhYWE3NmRiNmNhNmMxODEzODcxYzcz`
+Snapshot ID: `MCxhYWZmNGU4OWEwYzhkZDIwNDkzZTdhMWZmODUzOGFkNzAzZGM0OTNh`

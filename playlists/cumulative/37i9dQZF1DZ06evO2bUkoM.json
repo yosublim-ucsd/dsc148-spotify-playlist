@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 160659,
       "name": "flicker start",
       "url": "https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah"
@@ -266,6 +266,24 @@
       "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
     },
     {
       "album": {

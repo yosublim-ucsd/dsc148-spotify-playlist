@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Sean Leon\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,783 likes - 200 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,849 likes - 200 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [787](https://open.spotify.com/track/2xlspjY2EDUBuPc7qVLY74) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [787](https://open.spotify.com/album/70jmIcCLlaaPqiMZcAsMyG) | 2:49 |
 | 200 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 |
 
-Snapshot ID: `MCwzODA4Y2I1YmY1ZDUyODNlYmRmNzI4NTY3Y2Y2NDllYjdhMDcxNTli`
+Snapshot ID: `MCwwMGQ0M2Y4ZTM2MDdhYjQ0YjI1MTk1MzM1MTJhNWNjZjgxYzY2NmM1`

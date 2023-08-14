@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-400 songs - 21 hr 42 min
+401 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 | 2023-06-14 |  |
 | [abcdefu \(acoustic\) \- Radio Edit](https://open.spotify.com/track/1OTFP5JoD3Bwrg2nm0lZBH) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [abcdefu \(acoustic\)](https://open.spotify.com/album/26nOjYS1K4m5R3kg7n7AXj) | 2:48 | 2022-11-11 | 2022-12-02 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 |  |
-| [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 |  |
+| [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 | 2023-08-14 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1vHAmQNceQbCjx8mqh0gLg) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:47 | 2022-08-31 | 2022-10-14 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1wIf4GoPEDn4BIHlTmyrxi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ain't That Why \(Acoustic\)](https://open.spotify.com/album/4urkIKItqfoz5YKTsdszCV) | 2:47 | 2021-03-11 | 2022-07-23 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/6BLpUsQeShohqV1ubHzWb3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/7yiKHPRucPsuBPJr6Sh20Q) | 2:47 | 2022-09-30 | 2022-12-02 |
@@ -49,6 +49,7 @@
 | [Attention \- Acoustic](https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic + Remixes\)](https://open.spotify.com/album/4y0Z0P5jwoy0e6x9aeG8QP) | 3:26 | 2021-03-11 | 2022-12-02 |
 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 | 2023-08-10 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-08-31 |  |
+| [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 | 2023-08-10 |  |
 | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\) \(acoustic\)](https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU) | 3:11 | 2021-03-11 | 2022-09-01 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-03-11 |  |
 | [Beautiful Scars \- Acoustic](https://open.spotify.com/track/46zaR58Xb71HqoR5CTbQAX) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Beautiful Scars \(Acoustic\)](https://open.spotify.com/album/5w1phdvfMwgxO6frWZVdg2) | 2:38 | 2021-03-11 | 2022-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 
 > Where the local scene started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,876 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 18 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 19 | [Eastbound & Down](https://open.spotify.com/track/4Jl3syKPuB2YFZZhsSeniv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Red, Green Or Inbetween](https://open.spotify.com/album/4gw6oQ9Yk4m6mreJi6oGAV) | 3:28 |
 | 20 | [Crystal Clear](https://open.spotify.com/track/1PLVyYmkSenOqxxYFxHaXw) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [All Our Kings Are Dead](https://open.spotify.com/album/2Tnpi55ueYzTPBSMGXYVN0) | 3:29 |
-| 21 | [Back to the Fuck Yeah](https://open.spotify.com/track/1Z3HppBWvZVtljguSS5v7k) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Pulled Apart by Horses](https://open.spotify.com/album/1lxxfCmmdQeXoXPch8Yf6Y) | 2:40 |
+| 21 | [Back to the Fuck Yeah](https://open.spotify.com/track/4zKHLNVVNq5fhSFwq3w38O) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Pulled Apart By Horses](https://open.spotify.com/album/1KvSkZxy8lhYVXT6wKfyVE) | 2:40 |
 | 22 | [Sssnakepit](https://open.spotify.com/track/0JYefPYO1WKxLGG4gEnDoc) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Flash Flood of Colour \(Redux Version\)](https://open.spotify.com/album/04MBMCMj7OK72h3qGAwsMm) | 3:25 |
 | 23 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 |
 | 24 | [Cheap Shots & Setbacks](https://open.spotify.com/track/1DrcPqNH1gFFwpramua8an) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After](https://open.spotify.com/album/2fxvurudVER6VB5DBxo7S4) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 49 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 |
 | 50 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 |
 
-Snapshot ID: `MCwxOGI5NDIyMmVmM2M5NzgyYTRlNmIwNmE5NzA4NTQxZmI3OGFmYjhl`
+Snapshot ID: `MCwyMjJlMmNjNzlmZWY2MjVmMGNkNGVlNjFjZjdlMWJlNDE4MmU1MDBl`

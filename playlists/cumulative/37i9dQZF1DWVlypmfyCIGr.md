@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-3,983 songs - 10 day 2 hr 26 min
+3,984 songs - 10 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1216,7 +1216,8 @@
 | [Makima](https://open.spotify.com/track/6YzlktSw5OP6LJ8b1g2OP3) | [湧](https://open.spotify.com/artist/2WLQEvRcGXbXKqoEgYV3sK) | [Makima](https://open.spotify.com/album/0pg3xZNK12vdyjMsICTy2I) | 3:24 | 2021-11-10 | 2021-12-01 |
 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 | 2023-05-08 | 2023-05-16 |
 | [Malfunction](https://open.spotify.com/track/1dWGUO81ML2o5z9ntAzMqX) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [Malfunction](https://open.spotify.com/album/7b6ayWuKcSWL46HQ4saGAY) | 4:28 | 2023-05-29 | 2023-06-13 |
-| [manazashi](https://open.spotify.com/track/0djerIJQwjJOmSE31UsQcp) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [manazashi](https://open.spotify.com/album/5TrpUNFCyX4HDsdyW8dlXD) | 5:17 | 2023-08-07 |  |
+| [manazashi](https://open.spotify.com/track/0djerIJQwjJOmSE31UsQcp) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [manazashi](https://open.spotify.com/album/5TrpUNFCyX4HDsdyW8dlXD) | 5:17 | 2023-08-07 | 2023-08-14 |
+| [manazashi](https://open.spotify.com/track/29KHrWPgT5ae8pGKHRDOPh) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 5:17 | 2023-08-07 |  |
 | [MARCH!!](https://open.spotify.com/track/25392xVjREBtDNjimHiqty) | [MaiR](https://open.spotify.com/artist/5180NTpNvdlL8YuthLdGT0) | [MARCH!!](https://open.spotify.com/album/5pc3HtXuZWgnLorxnEJc32) | 3:18 | 2023-03-21 | 2023-04-11 |
 | [Margherita](https://open.spotify.com/track/36NtynpCLQOw30YxJUGJ8b) | [PODS](https://open.spotify.com/artist/7iOFHIWsXEkaM5ftszyGMr) | [Margherita](https://open.spotify.com/album/4yaJGPrIJJy5pARixYXLzT) | 2:17 | 2022-10-17 | 2022-11-01 |
 | [Marginal](https://open.spotify.com/track/01vY44OMQsdE4KhV5wRF9M) | [te'resa](https://open.spotify.com/artist/4VQfi1PjERe7qCFca5xboT) | [Marginal](https://open.spotify.com/album/2ukl8GJporJZuTA7rjcxSu) | 4:07 | 2021-10-09\* | 2021-10-20 |

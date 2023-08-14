@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,456 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,544 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 89 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 90 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
 | 91 | [Velvet Cave](https://open.spotify.com/track/1PFOqZRb36rowETx4faTeu) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 3:26 |
-| 92 | [Garbage](https://open.spotify.com/track/49BjmWGLBxcZaoEddAzv9U) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3PwEtrudVZSXxoGhpU4hLc) | 5:35 |
+| 92 | [Garbage](https://open.spotify.com/track/1ZmChSGzKgGEstfbuZwWon) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3Wn4XGeHWIQeO4XTJFFQoE) | 5:35 |
 | 93 | [The Hot City Symphony, Pt\. 1: Vambo](https://open.spotify.com/track/4gj2I26rXVXPwecklLODp9) | [The Sensational Alex Harvey Band](https://open.spotify.com/artist/7wug9iQ1abMCrKk87LlJce) | [The Impossible Dream \(Remastered 2002\)](https://open.spotify.com/album/04nw8UHJN4CmQX06dtuwHc) | 5:03 |
 | 94 | [Rough Kids](https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv) | 2:26 |
 | 95 | [Shake Some Action](https://open.spotify.com/track/3GqP6bUY1XHVlThBoQQk0z) | [Flamin' Groovies](https://open.spotify.com/artist/3yesh1QeNXucaDFw8ZPKxd) | [Groovies Greatest Grooves](https://open.spotify.com/album/1hSEfZ3n3kCisvO9RDerhg) | 4:33 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxjMWM3YzgyYzU2MTQ1YTVjN2MwOTE5M2MxNzA4YTMwOWY4ZjQ5ZThk`
+Snapshot ID: `MCxhMDZkMDRkNzhhOTEzMDQ0M2I1YzQzN2NmZDZjOWJlY2I4MGRlOTEz`

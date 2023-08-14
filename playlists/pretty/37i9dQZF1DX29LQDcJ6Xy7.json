@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 291408,
+  "num_followers": 291556,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjBlZWViMzgzZDg5ODViMWU5MDEyNWJkYzE5NTIzODQ0M2VhM2Uy",
+  "snapshot_id": "MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Global Warning",
-        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Naitu",
-      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Compliance",
         "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 302950,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Global Warning",
+        "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Naitu",
+      "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Omen X",
-        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
       },
       "artists": [
         {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 206147,
-      "name": "Totuus",
-      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Modern Demon",
-        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
+        "name": "Omen X",
+        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
       "artists": [
         {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
         }
       ],
-      "duration_ms": 285019,
-      "name": "Modern Demon",
-      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
+      "duration_ms": 206147,
+      "name": "Totuus",
+      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
         "name": "PUMPED UP KICKS",
         "url": "https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Confessions of a Knife",
         "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
       "artists": [
         {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
         }
       ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "New Messiah",
-        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "New Messiah",
-      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Rock Ain't Dead",
         "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 229512,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "New Messiah",
+        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "New Messiah",
+      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
       },
       "artists": [
         {
-          "name": "CueStack",
-          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
+          "name": "Prick",
+          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
         }
       ],
-      "duration_ms": 264750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
+      "duration_ms": 255111,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     }
   ],
   "unique_name": "Industrial Metal",

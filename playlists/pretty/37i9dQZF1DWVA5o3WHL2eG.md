@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,398 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,409 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [Fruchtsaft](https://open.spotify.com/track/2gcpea4r4aH9Hm0Ty0kmNt) | [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [Fruchtsaft](https://open.spotify.com/album/6A7s8eHyJsVGR9XlWYjL98) | 2:00 |
 | 9 | [Nirwana](https://open.spotify.com/track/2yp35w3aw4JDode0KFhOux) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Nirwana](https://open.spotify.com/album/1rx2NgQhqPtaPRyyWr64ah) | 2:44 |
 | 10 | [Billie Jean](https://open.spotify.com/track/7xqXXlqIxvgaCpYFBUExZO) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Billie Jean](https://open.spotify.com/album/0s9vaJkquKeuXLfZ0bYC5n) | 2:21 |
-| 11 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
-| 12 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 |
+| 11 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 |
+| 12 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 13 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 |
 | 14 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 |
 | 15 | [Egal was](https://open.spotify.com/track/71z6IWe0V0z5mfLcvxEJFt) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Egal was](https://open.spotify.com/album/51427tNhEqzDNVbtLQJyFZ) | 2:28 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Was Junge was](https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Was Junge was](https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me) | 2:14 |
 | 24 | [Buchstabiere Leonie](https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Buchstabiere Leonie](https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu) | 3:15 |
 | 25 | [Warum so kalt](https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Eine kleine EP about kälte and the heat](https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup) | 3:10 |
-| 26 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
-| 27 | [Immer mehr](https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Immer mehr](https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt) | 2:20 |
+| 26 | [Immer mehr](https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Immer mehr](https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt) | 2:20 |
+| 27 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 28 | [Deine Augen](https://open.spotify.com/track/4pNeGDxR4bMvaY7WiAC4sG) | [Dorentina](https://open.spotify.com/artist/4BMNa7OwCq14ikdVluvUP5) | [Deine Augen](https://open.spotify.com/album/6aieDl6pjIMXiUACuDaYJq) | 2:40 |
 | 29 | [Volare](https://open.spotify.com/track/72SNj994MwjBgaT2NAZefP) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Volare](https://open.spotify.com/album/1vX4QbpYryLXksUKdNZ0N4) | 3:38 |
 | 30 | [Sternzeichen](https://open.spotify.com/track/623c56JxgDCMlrcyMdN6aw) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Sternzeichen](https://open.spotify.com/album/6OIRA92OQYZUrucRduMlwH) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
 | 50 | [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 |
 
-Snapshot ID: `MCw0YWMzM2RkYTIwNWYyNzgzNjQzNGE5NzcyZTMxZjlhM2NhOGNmNGYz`
+Snapshot ID: `MCwzNWM1Yzc5ZDM1NTA2N2FjY2FlZTI4NjEyYWNlOTIzMTA2YmY3M2Qx`

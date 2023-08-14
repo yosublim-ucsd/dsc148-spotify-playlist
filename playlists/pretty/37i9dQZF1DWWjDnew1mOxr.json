@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Miles Kane",
-  "num_followers": 113372,
+  "num_followers": 113386,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWRhODUxNDRmYmU5MjUxZjQwZDBmY2I2YzQ4NGI1MWJjNjUwZTI5",
+  "snapshot_id": "MCxjMTgyOTY1MjI4OWFjMWMwZGZhYjZlYjk4OTcyYTA4ZGM0NjQzNzhm",
   "tracks": [
     {
       "added_at": "2023-08-04 12:37:44",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
     },
     {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Weekend In Paradise",
+      "url": "https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6"
+    },
+    {
       "added_at": "2023-08-04 12:37:44",
       "album": {
         "name": "People Like Me & You",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
-      },
-      "artists": [
-        {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Weekend In Paradise",
-      "url": "https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Third Time Lucky",
         "url": "https://open.spotify.com/album/4UVmRemGmqnJspiJAT2c8q"
       },
@@ -729,6 +729,38 @@
       "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
     },
     {
+      "added_at": "2023-08-04 12:37:44",
+      "album": {
+        "name": "Wor Flags",
+        "url": "https://open.spotify.com/album/6uLXBuJe88sWg7sW1Hsnlm"
+      },
+      "artists": [
+        {
+          "name": "Andrew Cushin",
+          "url": "https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Wor Flags",
+      "url": "https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+    },
+    {
       "added_at": "2023-07-28 14:01:17",
       "album": {
         "name": "What a Shame",
@@ -763,22 +795,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Blisters",
         "url": "https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP"
       },
@@ -791,38 +807,6 @@
       "duration_ms": 179776,
       "name": "Blisters",
       "url": "https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
-        "name": "Right Time",
-        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 240214,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
-    },
-    {
-      "added_at": "2023-08-04 12:37:44",
-      "album": {
-        "name": "Wor Flags",
-        "url": "https://open.spotify.com/album/6uLXBuJe88sWg7sW1Hsnlm"
-      },
-      "artists": [
-        {
-          "name": "Andrew Cushin",
-          "url": "https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Wor Flags",
-      "url": "https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
         "name": "Remember All The Girls",
         "url": "https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 222956,
       "name": "Remember All The Girls",
       "url": "https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 292436,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Deepest Blue",
-        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 218751,
-      "name": "Lazy Brain",
-      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Just Move",
         "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
       },
       "artists": [
         {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
         }
       ],
-      "duration_ms": 292436,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
+      "duration_ms": 218751,
+      "name": "Lazy Brain",
+      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Lovers Come and Lovers Go",
-        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
+        "name": "Skirts & Salads",
+        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
       },
       "artists": [
         {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
         }
       ],
-      "duration_ms": 159586,
-      "name": "Lovers Come and Lovers Go",
-      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
+      "duration_ms": 144896,
+      "name": "Skirts & Salads",
+      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Skirts & Salads",
-        "url": "https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go"
+        "name": "Lovers Come and Lovers Go",
+        "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
       },
       "artists": [
         {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
         }
       ],
-      "duration_ms": 144896,
-      "name": "Skirts & Salads",
-      "url": "https://open.spotify.com/track/1hU13my44YNmIVuNor31Te"
+      "duration_ms": 159586,
+      "name": "Lovers Come and Lovers Go",
+      "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "THE WALL",
-        "url": "https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 211701,
-      "name": "CHEMICALS",
-      "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 188744,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "THE WALL",
+        "url": "https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 211701,
+      "name": "CHEMICALS",
+      "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Isn't",
-        "url": "https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 227145,
-      "name": "Isn't",
-      "url": "https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Panic Prevention",
         "url": "https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 259813,
       "name": "Sheila",
       "url": "https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Isn't",
+        "url": "https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 227145,
+      "name": "Isn't",
+      "url": "https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 227307,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
         "name": "The Enemy",
         "url": "https://open.spotify.com/album/4t250HKL2vikczwZILscU5"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 212964,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe"
-      },
-      "artists": [
-        {
-          "name": "Spyres",
-          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
-        }
-      ],
-      "duration_ms": 227307,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "World Full Of Worry",
-        "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
-      },
-      "artists": [
-        {
-          "name": "Peaness",
-          "url": "https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl"
-        }
-      ],
-      "duration_ms": 233074,
-      "name": "Kaizen",
-      "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Diet Punk",
         "url": "https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 184900,
       "name": "Diet Punk",
       "url": "https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "World Full Of Worry",
+        "url": "https://open.spotify.com/album/0PHGvVPQqVpEr8e6GsuOjl"
+      },
+      "artists": [
+        {
+          "name": "Peaness",
+          "url": "https://open.spotify.com/artist/0bHVjNgsMH7b4XxmWhR7Tl"
+        }
+      ],
+      "duration_ms": 233074,
+      "name": "Kaizen",
+      "url": "https://open.spotify.com/track/3uFjKZi6ksKM8AyUBxIeXo"
     },
     {
       "added_at": "2023-07-28 14:01:17",

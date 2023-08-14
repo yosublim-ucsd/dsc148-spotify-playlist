@@ -10800,7 +10800,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 108000,
       "name": "Chirping Birds",
       "url": "https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3"
@@ -25316,6 +25316,28 @@
       "duration_ms": 155451,
       "name": "Heart-Shaped Pebbles",
       "url": "https://open.spotify.com/track/3ryO1dH3Wuf9m3tIFLyNgr"
+    },
+    {
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/0iKxPeApQRniuXHgqnGxDW"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni"
+        },
+        {
+          "name": "Osive",
+          "url": "https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/5z6ZoCZpvPaOxyJ8mNSegl"
     },
     {
       "album": {
@@ -59567,6 +59589,28 @@
     },
     {
       "album": {
+        "name": "Summer Wave",
+        "url": "https://open.spotify.com/album/4SpmxzAOnFam7KjGBNcs5u"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Summer Wave",
+      "url": "https://open.spotify.com/track/1GoJDaOcQcoTADjOTUOtF9"
+    },
+    {
+      "album": {
         "name": "Summersault",
         "url": "https://open.spotify.com/album/7DW6xa5Ltheh8d6jouzLy5"
       },
@@ -62348,7 +62392,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 139431,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/4ArGyAyIhnFDcwWDg7jiHi"

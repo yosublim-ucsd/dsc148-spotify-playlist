@@ -3576,6 +3576,24 @@
     {
       "album": {
         "name": "Charlie Brown",
+        "url": "https://open.spotify.com/album/3vLHtJNQIxQJCQqcFE2d78"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/16WnxfT3YRRQP6CA10CFcm"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown",
         "url": "https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0"
       },
       "artists": [
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 169893,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO"

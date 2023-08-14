@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,504 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,587 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [P'TRÁS](https://open.spotify.com/track/3qcTW13B4fnaD9GkyiuMDN) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [P'TRÁS](https://open.spotify.com/album/4MaBicD3TZQZmQWqjZGH52) | 2:00 |
 | 75 | [Bon Appétit](https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Olho de Tigre](https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb) | 2:45 |
 
-Snapshot ID: `MCxkN2NkYWNjYjA1MDQzNjhmZjE2MTgwNTgxMTNiNjI3NzlhMTllNGU3`
+Snapshot ID: `MCxjY2I0ZjUxZjBhNjc4NmE4MWIxNmYwZjg3NWQxMWI3MTA4N2JmY2Y2`

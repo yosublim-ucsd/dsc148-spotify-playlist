@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-536 songs - 1 day 11 hr 26 min
+537 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-14 | 2023-07-22 |
 | [Say You Love Me \- Live at the Fabulous Forum, Inglewood, CA, 08/29/77](https://open.spotify.com/track/2qtq98xBZgRhlxhoXvtK8w) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Love Me \(Live at the Fabulous Forum, Inglewood, CA 08/29/77\)](https://open.spotify.com/album/0arJxQRndKeinh99B0h1IL) | 4:29 | 2023-08-11 |  |
 | [SCIENTISTS & ENGINEERS \(feat\. Future & Eryn Allen Kane\)](https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:13 | 2023-06-16 | 2023-07-13 |
+| [Scream & Shout \(Metal Version\)](https://open.spotify.com/track/6nhPqiiB5sy8E5hDfpsdeT) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Scream & Shout \(Metal Version\)](https://open.spotify.com/album/5F11RYmd0x6EHHJ6SewF5h) | 4:19 | 2023-08-11 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-07 | 2023-04-15 |
 | [See You in Hell](https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [See You in Hell](https://open.spotify.com/album/1MLlHkKFeF8NBi7PXuCf3x) | 3:03 | 2023-05-26 | 2023-06-03 |
 | [Sevink](https://open.spotify.com/track/1mhJkIAXpaR1x7JcE2d2vL) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 1:23 | 2023-04-07 | 2023-04-15 |

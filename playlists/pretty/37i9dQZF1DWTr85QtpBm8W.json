@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 11693,
+  "num_followers": 11771,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWExNjMxMzk5MWE4ZDc3MjZhOTczN2MwZWYzNGZiYWM3YmZmYWY4",
+  "snapshot_id": "MCxiNzE1MjhmZjgwOTY4ZmQ2NmY3NDMyMWI0Mjk2ZWUyMGZjNzVhOTY0",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+        "name": "Riceboy Sleeps (2019 Remaster)",
+        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
         }
       ],
-      "duration_ms": 140840,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
+      "duration_ms": 315386,
+      "name": "All The Big Trees - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Riceboy Sleeps (2019 Remaster)",
-        "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
         }
       ],
-      "duration_ms": 315386,
-      "name": "All The Big Trees - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+      "duration_ms": 140840,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7wVgBj00m1I8W8AVYi9F8n"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Ba Ba Ti Ki Di Do",
-        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ba Ba",
-      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered 2022)",
         "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 74246,
       "name": "Anfangtastisch - Remastered 2022",
       "url": "https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Ba Ba Ti Ki Di Do",
+        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ba Ba",
+      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1279,6 +1279,22 @@
       "duration_ms": 231240,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Streichelfisch (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe - Remastered 2022",
+      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe - Remastered 2022",
-      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Variations: A Movement In Chrome Primitive",
         "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
@@ -1423,6 +1423,38 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Imperial",
+        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Into Stressa",
+      "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1447,38 +1479,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Imperial",
-        "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Into Stressa",
-      "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Betrayed in the Octagon",
         "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "As Good As Gone",
-        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
-      },
-      "artists": [
-        {
-          "name": "Nudge",
-          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
-        }
-      ],
-      "duration_ms": 45986,
-      "name": "Verdantique",
-      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Chessa",
         "url": "https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 418880,
       "name": "chessa",
       "url": "https://open.spotify.com/track/4pMa9p52gN1IcHtCltDbs3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "As Good As Gone",
+        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
+      },
+      "artists": [
+        {
+          "name": "Nudge",
+          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
+        }
+      ],
+      "duration_ms": 45986,
+      "name": "Verdantique",
+      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
     },
     {
       "added_at": "2023-08-04 12:53:28",

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5674,
+  "num_followers": 5683,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Blooming Period",
-        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
-      },
-      "artists": [
-        {
-          "name": "Block B",
-          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
-        }
-      ],
-      "duration_ms": 206467,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.9",
         "url": "https://open.spotify.com/album/3Hk0MVAZnoM4z71yOwQ8gh"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 271540,
       "name": "\ub0b4 \ubaa9\uc18c\ub9ac \ub4e4\ub9ac\ub2c8",
       "url": "https://open.spotify.com/track/6chlsBLGbBbBd4u21iqbIR"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Blooming Period",
+        "url": "https://open.spotify.com/album/0j200gVJhL56SoTrYXytx3"
+      },
+      "artists": [
+        {
+          "name": "Block B",
+          "url": "https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u"
+        }
+      ],
+      "duration_ms": 206467,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/68ABnHNR4y2COQa4eaM6PS"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Shouldn't Have\u2026",
+        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 212761,
+      "name": "Shouldn't Have\u2026",
+      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 264223,
       "name": "If You Were Me",
       "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Shouldn't Have\u2026",
-        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 212761,
-      "name": "Shouldn't Have\u2026",
-      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
-      },
-      "artists": [
-        {
-          "name": "CherryB",
-          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
-        }
-      ],
-      "duration_ms": 249438,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "RE:PLAYLIST Vol.3",
         "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 264921,
       "name": "Love Me Once Again",
       "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
+      },
+      "artists": [
+        {
+          "name": "CherryB",
+          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
+        }
+      ],
+      "duration_ms": 249438,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "One-sided love",
-        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
-      },
-      "artists": [
-        {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "One-sided love",
-      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Fit Me",
         "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 250495,
       "name": "I Ain't Over",
       "url": "https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "One-sided love",
+        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "One-sided love",
+      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
     },
     {
       "added_at": "2023-05-02 09:09:27",

@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-170 songs - 9 hr 52 min
+171 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 | 2022-05-25 | 2023-06-08 |
 | [Crawfish Fiesta \- Remastered](https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:13 | 2022-05-25 | 2023-06-08 |
 | [Crime](https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:30 | 2023-06-07 |  |
+| [Daylight I Will Find](https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Daylight I Will Find](https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV) | 4:37 | 2023-08-11 |  |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 2:50 | 2023-07-21 |  |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 2:50 | 2023-06-16 | 2023-07-30 |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2) | 2:50 | 2023-06-07 | 2023-06-25 |
@@ -126,7 +127,7 @@
 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 | 2022-07-08 | 2023-06-08 |
 | [Porcelain God](https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb) | [Ingrid and the Ministers](https://open.spotify.com/artist/7s0yVj46UXMWsJLk8lKr4A) | [Porcelain God](https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd) | 4:21 | 2023-06-07 |  |
 | [Potato Chips](https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Groove Juice: The Norman Granz Recordings + More](https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc) | 3:05 | 2022-05-25 | 2023-06-08 |
-| [Rag Doll](https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT) | [Jenny Teator](https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b) | [Rag Doll](https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6) | 2:49 | 2023-06-07 |  |
+| [Rag Doll](https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT) | [Jenny Teator](https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b) | [Rag Doll](https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6) | 2:49 | 2023-06-07 | 2023-08-14 |
 | [Ramble No More](https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Ramble No More](https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC) | 2:55 | 2023-06-07 |  |
 | [Red Beans \- Remastered](https://open.spotify.com/track/47kPRfB3tVR0LWiY2QTSog) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 4:10 | 2022-05-25 | 2023-06-08 |
 | [Ridin'](https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:23 | 2023-03-27 | 2023-06-08 |

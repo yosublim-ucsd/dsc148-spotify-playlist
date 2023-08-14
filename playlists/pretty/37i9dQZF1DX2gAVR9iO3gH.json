@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3, featuring Bizarrap & Rauw Alejandro.",
-  "num_followers": 53367,
+  "num_followers": 53383,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY3ZmFhYjQ2NjE0YmU5MjRmYmI1ZmNkZjc0NDY1ZTY4N2ZhMGQy",
+  "snapshot_id": "MCxlNGZmMDg5NWM2OWM3NGE2NTI0OTE0NDI4ZDZiZTZmMmE4ZTliYWUz",
   "tracks": [
     {
       "added_at": "2023-06-30 20:27:56",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "LE DOY 20 MIL",
-        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
+        "name": "LOS POBRES Y LOS RICOS",
+        "url": "https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe"
       },
       "artists": [
         {
@@ -724,13 +724,17 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 182793,
-      "name": "LE DOY 20 MIL",
-      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -815,8 +819,8 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "LOS POBRES Y LOS RICOS",
-        "url": "https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe"
+        "name": "LE DOY 20 MIL",
+        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
       },
       "artists": [
         {
@@ -824,17 +828,13 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 199304,
-      "name": "LOS POBRES Y LOS RICOS",
-      "url": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz"
+      "duration_ms": 182793,
+      "name": "LE DOY 20 MIL",
+      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
         "name": "La Que Quiero Yo",
         "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
         "name": "La Triple M",
         "url": "https://open.spotify.com/album/4Mw8E2g1o54rGBTFeOd5lA"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 201120,
       "name": "La Triple M",
       "url": "https://open.spotify.com/track/6QX6tanKOhwMpPtu1p0zAL"
-    },
-    {
-      "added_at": "2023-06-30 20:27:56",
-      "album": {
-        "name": "Vete Lejos",
-        "url": "https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y"
-      },
-      "artists": [
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 221176,
-      "name": "Vete Lejos - Prod. by Dj Cham",
-      "url": "https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -975,6 +959,22 @@
       "duration_ms": 179884,
       "name": "La Popola",
       "url": "https://open.spotify.com/track/54Jjni92Qtv6OOgdMYA7Q1"
+    },
+    {
+      "added_at": "2023-06-30 20:27:56",
+      "album": {
+        "name": "Vete Lejos",
+        "url": "https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y"
+      },
+      "artists": [
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 221176,
+      "name": "Vete Lejos - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9"
     },
     {
       "added_at": "2023-06-30 20:27:56",

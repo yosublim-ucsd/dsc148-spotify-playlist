@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0d8W1CF5vivAV6Fps5ELPZ">PRINCIPE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,175 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,178 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Niente di buono](https://open.spotify.com/track/7x0WydvvB78YLKpkjWMqVw) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Niente di buono](https://open.spotify.com/album/3UGUKhhMOvG1Bu70SZulcH) | 2:44 |
 | 55 | [Catania](https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Catania](https://open.spotify.com/album/2A6056JqZgERDnkuAfLCLh) | 3:11 |
 
-Snapshot ID: `MCw0NmViOWEzMzk5ZTIyOWNlZmM3YjM5NmJhMjZiOWI4NGUwMmY2YjVh`
+Snapshot ID: `MCxkZGMxN2I3MTY0Zjg1ZjEzMTlhZmNjZTlmNWZlZjZlMmEwNGIzNzEz`

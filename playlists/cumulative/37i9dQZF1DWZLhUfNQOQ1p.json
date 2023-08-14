@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 405866,
       "name": "A Tune For Jack",
       "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
@@ -4586,6 +4586,24 @@
       "duration_ms": 346500,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/7xDQyTnrkVycrr64PtDY1A"
+    },
+    {
+      "album": {
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "album": {

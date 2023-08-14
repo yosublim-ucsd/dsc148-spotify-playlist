@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 193170,
       "name": "Col\u00e3s",
       "url": "https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j"
@@ -12038,6 +12038,28 @@
       "duration_ms": 177728,
       "name": "Onde Anda",
       "url": "https://open.spotify.com/track/3q3EBdrTrlF4PmJQTZ17ie"
+    },
+    {
+      "album": {
+        "name": "Onde Anda",
+        "url": "https://open.spotify.com/album/2BLhHO8nvFd0rzzCEiJxd0"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "Onde Anda",
+      "url": "https://open.spotify.com/track/6pjwF61Itkaucau73UsfhK"
     },
     {
       "album": {

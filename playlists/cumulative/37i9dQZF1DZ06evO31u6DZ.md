@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/6N4aWCy7FKUMoTGQAGNP1V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 4:05 | 2023-05-09 | 2023-06-04 |
-| [Bastard Son \- Re\-Imagined](https://open.spotify.com/track/2VTe3W1ZefaQdndjT8S7D2) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From the Depths of Dreams](https://open.spotify.com/album/6CjpSH4cfBIAYdA74RM1rQ) | 4:00 | 2023-07-29 |  |
+| [Bastard Son \- Re\-Imagined](https://open.spotify.com/track/2VTe3W1ZefaQdndjT8S7D2) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From the Depths of Dreams](https://open.spotify.com/album/6CjpSH4cfBIAYdA74RM1rQ) | 4:00 | 2023-07-29 | 2023-08-14 |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 4:53 | 2022-10-25 |  |
 | [Bite to Break Skin](https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:31 | 2022-10-25 |  |
 | [Bloody Romance](https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 3:50 | 2022-10-25 |  |

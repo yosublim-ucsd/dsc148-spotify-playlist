@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 100945,
+  "num_followers": 101063,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
+  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Electronic Body Music",
+        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
+      },
+      "artists": [
+        {
+          "name": "Thomas P. Heckmann",
+          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
+        }
+      ],
+      "duration_ms": 444631,
+      "name": "Himmel & Hoelle",
+      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Substance Abuse",
         "url": "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Electronic Body Music",
-        "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
-      },
-      "artists": [
-        {
-          "name": "Thomas P. Heckmann",
-          "url": "https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m"
-        }
-      ],
-      "duration_ms": 444631,
-      "name": "Himmel & Hoelle",
-      "url": "https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Sector II: Acid",
-        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
-      },
-      "artists": [
-        {
-          "name": "MATRiXXMAN",
-          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
-        }
-      ],
-      "duration_ms": 465312,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "What Time Is Love",
         "url": "https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 375013,
       "name": "What Time Is Love / Time Of Love",
       "url": "https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Sector II: Acid",
+        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
+      },
+      "artists": [
+        {
+          "name": "MATRiXXMAN",
+          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
+        }
+      ],
+      "duration_ms": 465312,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",

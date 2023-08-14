@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=GA1\_LOtxQ6OfApyVMoNiZA">Folabi Nuel</a>
 
-338 songs - 20 hr 30 min
+339 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [Sai Gobe](https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Sai Gobe](https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO) | 2:55 | 2023-05-26 | 2023-07-14 |
 | [Say That I Love You](https://open.spotify.com/track/7zIey2GWC3a7dpRN9oVz70) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 2:00 | 2023-06-16 |  |
 | [See Through](https://open.spotify.com/track/2sfe0Khk1sfs2oErNb3j1n) | [Kiara June](https://open.spotify.com/artist/2S4vQOSLKWXr8m9DC1LISx), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [See Through](https://open.spotify.com/album/1FMC6QVrilzxAK4KDiqcdd) | 3:18 | 2023-03-10 | 2023-05-13 |
-| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 |  |
+| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 | 2023-08-14 |
+| [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-05-12 |  |
 | [Shambala](https://open.spotify.com/track/1xBdv3TshuzaYAwgxKRdP0) | [Dami Maverick](https://open.spotify.com/artist/6FIUDnNzGgE2mXUccDeCQh), [Kaytez Kanu](https://open.spotify.com/artist/71MHEN2IhGu83J66Fle4vD), [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn) | [Shambala](https://open.spotify.com/album/416S4BiBdjC3TcVBT0sT12) | 2:32 | 2023-02-02 | 2023-04-28 |
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2023-02-02 | 2023-03-25 |
 | [Show Me](https://open.spotify.com/track/31yBW2Xp3GmUsZ2Ae1xpv1) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Show Me](https://open.spotify.com/album/0KLXJRTfekaxpXRzNTPYJa) | 2:27 | 2023-08-04 | 2023-08-12 |

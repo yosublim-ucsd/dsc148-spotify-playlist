@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Anyma
 
-202 songs - 16 hr 48 min
+203 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 | 2022-07-29 | 2023-04-05 |
 | [Sugar](https://open.spotify.com/track/3WVYDLSVgs1mnUsGeI0ezM) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Sugar](https://open.spotify.com/album/6aKsy0z4QRDDcAgoWp7Nvx) | 5:16 | 2022-07-01 |  |
 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 | 2022-04-15 | 2022-10-14 |
-| [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-08-10 |  |
+| [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-08-10 |  |
+| [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-08-10 | 2023-08-14 |
 | [Take Me Higher](https://open.spotify.com/track/7r8Q5lPGmMyYccWfUlyGDl) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Fatigue](https://open.spotify.com/album/1YBhDndtypbg5SBwDcqXZ2) | 7:01 | 2022-04-15 | 2023-05-13 |
 | [The Age Of Ent](https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [A Recurring Nature](https://open.spotify.com/album/06MbkEoh9pOQW2oxDwCGiX) | 6:08 | 2022-04-15 | 2022-05-07 |
 | [The Future](https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Future](https://open.spotify.com/album/0HycV4qIkxuf5THTCTjA7p) | 7:08 | 2022-04-15 | 2022-08-06 |

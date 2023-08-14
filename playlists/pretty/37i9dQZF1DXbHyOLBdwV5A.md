@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,046 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,140 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 61 | [Não Pare](https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Kayo Santos](https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Não Pare](https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm) | 2:54 |
 | 62 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 63 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
-| 64 | [Recomeço](https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Recomeço](https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL) | 3:32 |
-| 65 | [Resposta](https://open.spotify.com/track/35KNTeAmlD23sUPxeIrmB0) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Carlinhosdj](https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre), [Alice Santos](https://open.spotify.com/artist/4IxckByaG1ZIx3F4rHZ7up) | [Resposta](https://open.spotify.com/album/0KydLeQzuB2oGwxkQ4ZcvT) | 3:21 |
+| 64 | [Resposta](https://open.spotify.com/track/35KNTeAmlD23sUPxeIrmB0) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Carlinhosdj](https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre), [Alice Santos](https://open.spotify.com/artist/4IxckByaG1ZIx3F4rHZ7up) | [Resposta](https://open.spotify.com/album/0KydLeQzuB2oGwxkQ4ZcvT) | 3:21 |
+| 65 | [Recomeço](https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Recomeço](https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL) | 3:32 |
 | 66 | [Hora de Adorar](https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Albery](https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Hora de Adorar](https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9) | 3:10 |
 | 67 | [Me Faz Viver](https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Me Faz Viver](https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS) | 2:31 |
 | 68 | [Furioso Oceano \(Remix\)](https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano \(Remix\)](https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 75 | [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8) | 3:24 |
 
-Snapshot ID: `MCw2MTMyZWEyNDE0OWNlYzNkYWVmOTQ4ZDJmODFlMmM4MzU2N2FiNmVl`
+Snapshot ID: `MCw1YjhjOWVmMGQ5Mzk5NTI4ZWM1NjI3OWViN2Q0NmMzODU0OWI1YTc5`

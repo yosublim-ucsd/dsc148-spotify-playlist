@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,670 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688,074 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Judas \- Sped Up](https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG) | [Judas \(Sped Up\)](https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt) | 3:26 |
 | 100 | [Out thë way \- sped up version](https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD) | [Yeat sped up](https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS) | [Out thë way \(sped up version\)](https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn) | 2:05 |
 
-Snapshot ID: `MCw1OWVjZTNjNjExNDdhOGEzODc5NDM3YTk1YjU2YmFjNzJjOTg4MzQ5`
+Snapshot ID: `MCwyNTAyNDk3Yjk4NWE5ZTIzZjRmMTRlZGVlOWM0NjFhNGY0N2MyOWU3`

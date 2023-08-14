@@ -5956,6 +5956,28 @@
     {
       "album": {
         "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0Nj1yrg9caXF6wqF8E4sog"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        },
+        {
+          "name": "Solme",
+          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233983,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0NkMsSLnIF4UowF4rLhMHg"
+    },
+    {
+      "album": {
+        "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
       "artists": [
@@ -5988,28 +6010,6 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt"
-    },
-    {
-      "album": {
-        "name": "Para Siempre (feat. Solme)",
-        "url": "https://open.spotify.com/album/0Nj1yrg9caXF6wqF8E4sog"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        },
-        {
-          "name": "Solme",
-          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
-        }
-      ],
-      "date_added": "2023-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233983,
-      "name": "Para Siempre (feat. Solme)",
-      "url": "https://open.spotify.com/track/0NkMsSLnIF4UowF4rLhMHg"
     },
     {
       "album": {

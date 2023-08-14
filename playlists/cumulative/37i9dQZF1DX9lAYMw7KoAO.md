@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=S\-TAs2uXSRq79Y2n65rDkg">Moses Bliss</a>
 
-311 songs - 1 day 5 hr 4 min
+312 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Safe](https://open.spotify.com/track/1ScbmW9J1EfayZtUmKmCuo) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Safe](https://open.spotify.com/album/5JOTQcvZc9nTl4JwCgwV94) | 2:10 | 2023-03-31 | 2023-06-23 |
 | [Safety](https://open.spotify.com/track/1cuv2HnzLqREWgu6KhXI8Q) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sarah Nathalié](https://open.spotify.com/artist/6oPvIaLoZ8pgWDwb9RXReI) | [Safety](https://open.spotify.com/album/2WvtehaIYsdeiBF1X9zYde) | 3:17 | 2021-11-26 | 2023-04-21 |
 | [Salvation](https://open.spotify.com/track/3VW4VwWa2E6CSU50wyhXwi) | [HIGHER POWER ENT.](https://open.spotify.com/artist/0Hnz2BulnR2pFAEb4dB1s8), [Lizzykin](https://open.spotify.com/artist/29FE48UwUcTDUx9TgxCv3j) | [Salvation](https://open.spotify.com/album/469iszAyVcBgkoTwTNXDiF) | 3:25 | 2023-06-16 | 2023-06-23 |
-| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 |  |
+| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 | 2023-08-14 |
+| [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-05-12 |  |
 | [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-05-15 | 2022-05-13 |
 | [Shamboko](https://open.spotify.com/track/5AX3iYiyDNmqgzvrRX5SiL) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm) | [Shamboko](https://open.spotify.com/album/2Xl6Sy6Diy0ERV334x4WI1) | 3:04 | 2023-04-14 | 2023-06-09 |
 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 | 2023-06-23 | 2023-06-30 |

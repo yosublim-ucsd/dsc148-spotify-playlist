@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,474 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,499 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 80 | [Spectrum \- Acoustic Version](https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Spectrum EP](https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU) | 1:50 |
 | 81 | [Real Life \- Acoustic](https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life \(Acoustic\)](https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ) | 3:42 |
 | 82 | [Surrender \- Acoustic](https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:19 |
-| 83 | [Radio \- Acoustic](https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio \(Acoustic\)](https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T) | 2:18 |
-| 84 | [Here Tonight \- Acoustic Version](https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Jay Cosmic](https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx), [Collin McLoughlin](https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE) | [Here Tonight \(Acoustic Version\)](https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju) | 2:47 |
+| 83 | [Here Tonight \- Acoustic Version](https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Jay Cosmic](https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx), [Collin McLoughlin](https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE) | [Here Tonight \(Acoustic Version\)](https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju) | 2:47 |
+| 84 | [Radio \- Acoustic](https://open.spotify.com/track/2uKhQnXkSC1Twp0sdFKty3) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio \(Acoustic\)](https://open.spotify.com/album/10Hl762MrDumKQuu8zyN9T) | 2:18 |
 | 85 | [Long Time Coming](https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 2:19 |
 | 86 | [Kids in Love \(feat\. The Night Game\) \- Acoustic Version](https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Kids in Love \(Remixes\)](https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI) | 4:05 |
 | 87 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:14 |
 | 100 | [21 Reasons \(feat\. Ella Henderson\) \- Acoustic](https://open.spotify.com/track/0oubikePN5zgE3sFGLLWkP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\) \[Acoustic\]](https://open.spotify.com/album/0lfTLJlqbgLRaJcYT5zwGJ) | 2:47 |
 
-Snapshot ID: `MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj`
+Snapshot ID: `MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm`

@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 627845,
+  "num_followers": 627814,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
+  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -503,6 +503,30 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -531,26 +555,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -587,22 +603,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Ya T\u00fa Me Conoces",
+        "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Ya T\u00fa Me Conoces",
+      "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Silent Sun",
         "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 171245,
       "name": "Silent Sun",
       "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Ya T\u00fa Me Conoces",
-        "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Ya T\u00fa Me Conoces",
-      "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 201707,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
-      },
-      "artists": [
-        {
-          "name": "FTampa",
-          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
     },
     {
       "added_at": "2023-02-17 03:00:00",

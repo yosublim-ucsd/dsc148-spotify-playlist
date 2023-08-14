@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: citimall, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,777 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,800 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 30 | [By My Side](https://open.spotify.com/track/3IctWeaZl67pwnfR6QnD9d) | [MISSHTY](https://open.spotify.com/artist/3H0tH0Fu0SH40a2MgYh9EM) | [By My Side](https://open.spotify.com/album/33CtJnuv0iU1wnWmrVRbJn) | 4:07 |
 | 31 | [Zindagi](https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU) | [Seerat Ain Alam](https://open.spotify.com/artist/5LCz4RWPuDoFys0vddNiXJ) | [Zindagi](https://open.spotify.com/album/4eeME2G3nfmjYLvgHRoUCU) | 2:32 |
 | 32 | [Lapata](https://open.spotify.com/track/2qpAjsUKXaTTfIdfdhbjqb) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL) | [Lapata](https://open.spotify.com/album/3pNsNqKPlpd8GFNHCCCq9M) | 4:18 |
-| 33 | [Behta Jaa Raha \(feat\. Glitchfolks\)](https://open.spotify.com/track/3Dm2jnec9ayGNJYq6uOIja) | [Futurex](https://open.spotify.com/artist/2C5t4qjFeLsyYUp1vgpAfu), [Saadat](https://open.spotify.com/artist/3pFUmC4hWGoYIKastLRYVc), [Glitchfolks](https://open.spotify.com/artist/3RIPdDR0pe5TiwUrGrb1Vg) | [Behta Jaa Raha \(feat\. Glitchfolks\)](https://open.spotify.com/album/0tnZQ8rLJ5f5iqUhnpeSWv) | 4:20 |
+| 33 | [Behta Jaa Raha](https://open.spotify.com/track/3Dm2jnec9ayGNJYq6uOIja) | [Futurex](https://open.spotify.com/artist/2C5t4qjFeLsyYUp1vgpAfu), [Saadat](https://open.spotify.com/artist/3pFUmC4hWGoYIKastLRYVc), [Glitchfolks](https://open.spotify.com/artist/3RIPdDR0pe5TiwUrGrb1Vg) | [Behta Jaa Raha](https://open.spotify.com/album/0tnZQ8rLJ5f5iqUhnpeSWv) | 4:20 |
 | 34 | [Dost](https://open.spotify.com/track/59a2sxaBI3We2OQ0r5I8lR) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Dost](https://open.spotify.com/album/4XE7BpE1WiMrw5oNEQmAWa) | 3:32 |
 | 35 | [You Didn't Have To Go](https://open.spotify.com/track/35zEyVTKGiO5JtMwyA6oAk) | [TARRA](https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx) | [EASY LOVE \(Side B\)](https://open.spotify.com/album/5TTvYRlq9CzOe7pmemqNwM) | 2:57 |
 | 36 | [dunning cougar](https://open.spotify.com/track/6bmkwCTzX1FaNv3tnZJ0qz) | [papiere](https://open.spotify.com/artist/6LWeq7qd9muNewabK9itfs) | [dunning cougar](https://open.spotify.com/album/4bnihXv3KrNOiHf6PSCNAm) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Din Dhal Jaayenge](https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Din Dhal Jaayenge](https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx) | 3:26 |
 | 100 | [Khud Se Mohabbat](https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khud Se Mohabbat](https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O) | 3:23 |
 
-Snapshot ID: `MCxmNmJjNjE2N2RkMmEzYmQ5Nzc5OWI2ZTJmODJlZmY2ZDdjZjNmY2U4`
+Snapshot ID: `MCwxNTdlYWI3MWJjYWVlMDNmNzg5YTA2ZGUwMmViY2IyOGMwNDFjYzhm`

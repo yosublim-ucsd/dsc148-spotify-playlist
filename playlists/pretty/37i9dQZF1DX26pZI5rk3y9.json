@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6063,
+  "num_followers": 6076,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTI1YTE2MzFmN2I4MTQwMGI5ZjhkZTEyYmQ1NGZlOGExYzhhNWEx",
+  "snapshot_id": "MCxkOTIwM2MxODIxNjZkNGZhYjJmODBmZmYxZWE4Y2MzODFmOTIzN2Zi",
   "tracks": [
     {
       "added_at": "2023-08-11 00:01:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "What Goes Around (Comes Around)",
-        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 216845,
-      "name": "What Goes Around (Comes Around)",
-      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 383533,
       "name": "Shake Our Way Out [Feat. Billy F Gibbons]",
       "url": "https://open.spotify.com/track/5BPpLbUMdBM2GsK64TEoGD"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
         }
       ],
-      "duration_ms": 203338,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
       },
       "artists": [
         {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
-      },
-      "artists": [
-        {
-          "name": "The Dust Coda",
-          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
-        }
-      ],
-      "duration_ms": 274612,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Rockabye Motel",
         "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 322743,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
+      },
+      "artists": [
+        {
+          "name": "The Dust Coda",
+          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
+        }
+      ],
+      "duration_ms": 274612,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "A Good Thing",
-        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
-      },
-      "artists": [
-        {
-          "name": "Handsome Jack",
-          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "A Good Thing",
-      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "A Good Thing",
+        "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
+      },
+      "artists": [
+        {
+          "name": "Handsome Jack",
+          "url": "https://open.spotify.com/artist/3LnEknwFnnuoiVxCatyMtr"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Good Love Goes Bad",
         "url": "https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Take My Rider",
         "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 312640,
       "name": "Take My Rider",
       "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+      },
+      "artists": [
+        {
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Daylight I Will Find",
+        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 277655,
+      "name": "Daylight I Will Find",
+      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Old Road",
         "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 170854,
       "name": "Ten Beer Job",
       "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Rag Doll",
-        "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Teator",
-          "url": "https://open.spotify.com/artist/5a5Zt3QQWGCfs5nrVxPf7b"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "Rag Doll",
-      "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
     }
   ],
   "unique_name": "Blues BBQ",

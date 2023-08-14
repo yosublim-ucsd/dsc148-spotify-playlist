@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,297 likes - 89 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,529 likes - 89 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 |
 | 2 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
-| 3 | [Laura \- Argy & Omnya Remix](https://open.spotify.com/track/52SOce5eNcoP9g0CWrd4TJ) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [Laura \(Argy & Omnya Remix\)](https://open.spotify.com/album/11tOdJ1wGuc73FGjt6Wode) | 5:47 |
+| 3 | [Laura \- Argy & Omnya Remix](https://open.spotify.com/track/52SOce5eNcoP9g0CWrd4TJ) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Laura \(Argy & Omnya Remix\)](https://open.spotify.com/album/11tOdJ1wGuc73FGjt6Wode) | 5:47 |
 | 4 | [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 |
 | 5 | [Don't Care Anymore](https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq) | [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Don't Care Anymore](https://open.spotify.com/album/0mTspKDmWINKfM2gPqMmF1) | 6:56 |
 | 6 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Turn Your Sights Inward](https://open.spotify.com/track/7m9d8kbTRfglC24VEKEUlG) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Turn Your Sights Inward](https://open.spotify.com/album/7ruQ505VClGpTxJPZbQRb9) | 6:35 |
 | 89 | [Infinity Club](https://open.spotify.com/track/6oZX7Mc5QHTfjz0QgDZOqQ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:08 |
 
-Snapshot ID: `MCxhZTViZTc2NTE3ODI0ZTBkNjE2NTIyYjExMTRkNzA4NDYyNmU3NzZh`
+Snapshot ID: `MCwwMTExMWE0ZmMyNDEyZjg4Y2NjZDY1YzU5ZTI3YmQzZWEyY2ZmNDM5`

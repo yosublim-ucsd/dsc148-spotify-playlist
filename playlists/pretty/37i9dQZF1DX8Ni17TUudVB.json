@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 138652,
+  "num_followers": 138667,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
+  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
   "tracks": [
     {
       "added_at": "2023-07-28 19:09:17",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
-        "name": "Bum Bum",
-        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "AGEN WIDA",
-        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "AGEN WIDA",
-      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "In Your Eyes (feat. Alida) [KREAM Remix]",
         "url": "https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 203240,
       "name": "In Your Eyes (feat. Alida) - KREAM Remix",
       "url": "https://open.spotify.com/track/45vQQXKfA4edHqKV5roP3M"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "AGEN WIDA",
+        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "AGEN WIDA",
+      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Check This Out",
-        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
-      },
-      "artists": [
-        {
-          "name": "Toby Green",
-          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "Check This Out",
-      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
+      },
+      "artists": [
+        {
+          "name": "Toby Green",
+          "url": "https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 150160,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "Morenito",
         "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 190819,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 150160,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
     },
     {
       "added_at": "2023-07-28 19:09:17",

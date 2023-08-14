@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 76266,
+  "num_followers": 76282,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTE4NTdhMzYxZTk4MTE0Yzk4NWQ2Y2RiZTM2MDhhOGNmMWI5ZDQ5",
+  "snapshot_id": "MCw3OTY2ZGQ3NzNkOWZkMzMyY2U3ZGU5NDA3Njk2MzE3MmQ2ZjM1NTQ2",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Aston",
+        "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
+      },
+      "artists": [
+        {
+          "name": "ASTON",
+          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Middle Fingers",
+      "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Aston",
-        "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
-      },
-      "artists": [
-        {
-          "name": "ASTON",
-          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Middle Fingers",
-      "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
     },
     {
       "added_at": "2022-11-15 00:54:21",

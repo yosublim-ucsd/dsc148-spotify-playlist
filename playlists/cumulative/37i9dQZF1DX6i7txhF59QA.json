@@ -12966,7 +12966,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 195653,
       "name": "Wild bee",
       "url": "https://open.spotify.com/track/3cgVvdEtEiUWj9pOuFOyWX"
@@ -14870,6 +14870,24 @@
       "duration_ms": 251529,
       "name": "\uc18c\ub140",
       "url": "https://open.spotify.com/track/1q1d3MrGo2Jv8ItTmb55Wh"
+    },
+    {
+      "album": {
+        "name": "Super Five - All Eyes on Me",
+        "url": "https://open.spotify.com/album/48DWqOQe4lg5UnZdSOiBHN"
+      },
+      "artists": [
+        {
+          "name": "Super Five",
+          "url": "https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226426,
+      "name": "\uc2dc\uc120\uace0\uc815",
+      "url": "https://open.spotify.com/track/3o4MhvxzXyoPl1XaXNdrkq"
     },
     {
       "album": {

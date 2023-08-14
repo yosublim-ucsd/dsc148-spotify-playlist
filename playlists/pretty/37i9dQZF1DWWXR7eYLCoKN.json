@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 124218,
+  "num_followers": 124351,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew",
+  "snapshot_id": "MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Samba a Dois",
+        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+      },
+      "artists": [
+        {
+          "name": "Samb\u00f4",
+          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+        }
+      ],
+      "duration_ms": 156031,
+      "name": "Samba a Dois",
+      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Sarav\u00e1, Paz e Bem",
-        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
-      },
-      "artists": [
-        {
-          "name": "Elisa Fernandes",
-          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
-        }
-      ],
-      "duration_ms": 223799,
-      "name": "Aprendi a Ser Feliz",
-      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sambas\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
       "artists": [
         {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
         }
       ],
-      "duration_ms": 156031,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
-        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nervos de A\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
         "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nervos de A\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 206442,
       "name": "LONGE LONGE DE MIM",
       "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119253,
-      "name": "E Luxo S\u00f3",
-      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119253,
+      "name": "E Luxo S\u00f3",
+      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba Social Clube",
-        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 171805,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Samba Social Clube",
+        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 268026,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Le\u00e3o Alado Sem Juba",
-        "url": "https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC"
-      },
-      "artists": [
-        {
-          "name": "Bruno Capinan",
-          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
-        }
-      ],
-      "duration_ms": 157329,
-      "name": "\u00daltimo Carnaval",
-      "url": "https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
         "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 249933,
       "name": "Samba Jazz, de Raiz",
       "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Le\u00e3o Alado Sem Juba",
+        "url": "https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC"
+      },
+      "artists": [
+        {
+          "name": "Bruno Capinan",
+          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
+        }
+      ],
+      "duration_ms": 157329,
+      "name": "\u00daltimo Carnaval",
+      "url": "https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "E o Mundo N\u00e3o Se Acabou",
-        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
-      },
-      "artists": [
-        {
-          "name": "Mimi Wankenne",
-          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
-        }
-      ],
-      "duration_ms": 124880,
-      "name": "E o Mundo N\u00e3o Se Acabou",
-      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Tudo Est\u00e1 Dito",
         "url": "https://open.spotify.com/album/0BEAmLlAloIAJs6CvbzV53"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+        "name": "E o Mundo N\u00e3o Se Acabou",
+        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
       },
       "artists": [
         {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+          "name": "Mimi Wankenne",
+          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
         }
       ],
-      "duration_ms": 219426,
-      "name": "Conto De Areia",
-      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
+      "duration_ms": 124880,
+      "name": "E o Mundo N\u00e3o Se Acabou",
+      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 203680,
       "name": "Macieira",
       "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Conto De Areia",
+      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Bis",
-        "url": "https://open.spotify.com/album/2Awa8CKAgEIDldae3BeqmP"
+        "name": "At\u00e9 Depois do Fim",
+        "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
       },
       "artists": [
         {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+          "name": "Cleverson Luiz",
+          "url": "https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd"
         }
       ],
-      "duration_ms": 237906,
-      "name": "T\u00f4 Voltando",
-      "url": "https://open.spotify.com/track/5uC78PdEHcsrwCYRL8qhCO"
+      "duration_ms": 210000,
+      "name": "At\u00e9 Depois do Fim",
+      "url": "https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "At\u00e9 Depois do Fim",
-        "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
+        "name": "Bis",
+        "url": "https://open.spotify.com/album/2Awa8CKAgEIDldae3BeqmP"
       },
       "artists": [
         {
-          "name": "Cleverson Luiz",
-          "url": "https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd"
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
         }
       ],
-      "duration_ms": 210000,
-      "name": "At\u00e9 Depois do Fim",
-      "url": "https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo"
+      "duration_ms": 237906,
+      "name": "T\u00f4 Voltando",
+      "url": "https://open.spotify.com/track/5uC78PdEHcsrwCYRL8qhCO"
     },
     {
       "added_at": "2023-08-04 03:01:00",

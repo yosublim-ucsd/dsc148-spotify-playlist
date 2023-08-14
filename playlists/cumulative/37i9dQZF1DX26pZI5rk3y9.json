@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Daylight I Will Find",
+        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277655,
+      "name": "Daylight I Will Find",
+      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody (Pain)",
         "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 169841,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"

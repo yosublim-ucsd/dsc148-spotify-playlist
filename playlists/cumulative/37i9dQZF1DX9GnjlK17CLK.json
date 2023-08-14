@@ -814,7 +814,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 207000,
       "name": "Nine Below Zero",
       "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
@@ -1056,6 +1056,24 @@
       "duration_ms": 178973,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "album": {
+        "name": "Aloha From Hawaii Via Satellite (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193309,
+      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
+      "url": "https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75"
     },
     {
       "album": {

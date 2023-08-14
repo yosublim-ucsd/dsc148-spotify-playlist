@@ -4329,6 +4329,32 @@
     },
     {
       "album": {
+        "name": "STR4TASFEAR Remixes",
+        "url": "https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/00Z0S72Fd8PwVcbXW6ZpKY"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313669,
+      "name": "Lazy Days - Wallace Remix",
+      "url": "https://open.spotify.com/track/35WdWgyZaE5vjnafQfcgAs"
+    },
+    {
+      "album": {
         "name": "Lazy Days (Wallace Remix)",
         "url": "https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy"
       },
@@ -4348,7 +4374,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 313669,
       "name": "Lazy Days - Wallace Remix",
       "url": "https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4"

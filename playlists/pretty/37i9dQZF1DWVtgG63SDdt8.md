@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=0d7c4b79d47f4409">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,008 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,163 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Never Letting Go](https://open.spotify.com/track/0nwqekQQmUtaylcihI4GDV) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Never Letting Go](https://open.spotify.com/album/5ikF0kV4fCj8ZgMCSGzkFD) | 3:38 |
 | 99 | [Worship](https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Worship](https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q) | 3:02 |
 
-Snapshot ID: `MCxjNWQ3MDA3ODA3YTY0NGU4MGI3YjM5OWY5MTBlZDc2M2IxMmM4YzE1`
+Snapshot ID: `MCwwODM0YTJhODk4OTZhYmI5OGYxMDU4YTk0YmMzMzkwYmU4OGIwMmFm`

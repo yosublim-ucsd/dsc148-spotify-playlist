@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 63568,
+  "num_followers": 63601,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc2OGJiNjU1OWNiZDI2YzMwMzFiNDA0NWU5MDA2YzVlM2JlOGEz",
+  "snapshot_id": "MCxhZWRjZTk4NGNlMzA2MjU3MTU2ZDdhYWFlMjdlYzMxOTRjYTczMjJh",
   "tracks": [
     {
       "added_at": "2023-08-03 08:29:31",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Kahaani",
-        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
-      },
-      "artists": [
-        {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
-        },
-        {
-          "name": "Anirban Chowdhury",
-          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Kahaani",
-      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
         "name": "In Other Words",
         "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 294855,
       "name": "Coming Home (feat. Akanksha Grover)",
       "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Anirban Chowdhury",
+          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -995,18 +995,22 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Justaju: The Essence of Love",
-        "url": "https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45"
+        "name": "Night Song",
+        "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
       },
       "artists": [
         {
-          "name": "Raahein Gharana",
-          "url": "https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR"
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
         }
       ],
-      "duration_ms": 302704,
-      "name": "Justaju: The Essence of Love",
-      "url": "https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV"
+      "duration_ms": 331293,
+      "name": "My Heart, My Life",
+      "url": "https://open.spotify.com/track/0Nq8jxV0GkB2IxrO19hbzU"
     }
   ],
   "unique_name": "Fusion Finds",

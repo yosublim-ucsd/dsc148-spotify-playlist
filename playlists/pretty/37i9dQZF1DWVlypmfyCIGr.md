@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,732 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,745 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 30 | [真剣恋愛交際中](https://open.spotify.com/track/2FOgm9Ka4s9HE41xMgVuyI) | [すみはね](https://open.spotify.com/artist/2YPJV3Cwy9o5DzRSCLnfjc) | [真剣恋愛交際中](https://open.spotify.com/album/3tkxMUIEZbN7VAEKIARBOE) | 3:36 |
 | 31 | [紙ヒコーキと晴れのちコーヒー](https://open.spotify.com/track/1V7lXAkQF5jkyUO6D6jcjp) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [紙ヒコーキと晴れのちコーヒー](https://open.spotify.com/album/5Q4xAsDOvaKBXUEZbehcx3) | 2:53 |
 | 32 | [テレパスガール](https://open.spotify.com/track/7v0u9VJlMeTwLjGYpeBHIu) | [セカンドワルツ](https://open.spotify.com/artist/3EwIeAC7Ergi030mp8Uh1p) | [テレパスガール](https://open.spotify.com/album/54RZlZDYdW8wKypcjU02oV) | 3:00 |
-| 33 | [manazashi](https://open.spotify.com/track/0djerIJQwjJOmSE31UsQcp) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [manazashi](https://open.spotify.com/album/5TrpUNFCyX4HDsdyW8dlXD) | 5:17 |
+| 33 | [manazashi](https://open.spotify.com/track/29KHrWPgT5ae8pGKHRDOPh) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 5:17 |
 | 34 | [Daylight](https://open.spotify.com/track/0SD9R51F659mAONdqR54DA) | [THE ACOUSTICS](https://open.spotify.com/artist/610Oz3f0ZKdpCWhf08j4s6) | [Daylight](https://open.spotify.com/album/3GxxPn2rLhNSN9wrAtfWLN) | 3:37 |
 | 35 | [ジンテーゼ](https://open.spotify.com/track/1AEHv4RWn9Jg11tVbMeuwA) | [CYNHN](https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg) | [ジンテーゼ](https://open.spotify.com/album/6UwSf8RavYIdnvfUGGXqPm) | 3:34 |
 | 36 | [NOW](https://open.spotify.com/track/6CMURl11WvgSlrhrxFOPBY) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [NOW](https://open.spotify.com/album/6soyUZ31NzGBHKh2Fd3Sek) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Sunday Drivers](https://open.spotify.com/track/01HOfBu05LHoLe42bDtlTM) | [HAREHIRAKU](https://open.spotify.com/artist/42BMzy3fpquFEH4qNzezxa) | [Sunday Drivers](https://open.spotify.com/album/37N8fU786KaPBYMrPUc7bo) | 4:51 |
 | 80 | [aishiteitanoni](https://open.spotify.com/track/153wXxKGamu1F74JMiPDKq) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/5YM5eXloTIsoQlOlCy2Y6w) | 3:39 |
 
-Snapshot ID: `MCwzNjNlZDgyNWM1N2YzZTczMjZjOTc4NGZhYjRlMDQwOWNjYWYwZTNh`
+Snapshot ID: `MCw4YWIzZTQ5YzVkYWM5N2ZjMjQ4ZTJlMGU3MWYwODliYzg2ODczMjU3`

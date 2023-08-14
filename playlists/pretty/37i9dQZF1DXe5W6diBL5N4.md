@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: THE BOYZ\(더 보이즈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,246 likes - 162 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,564 likes - 162 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 8 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 9 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 |
 | 10 | [Rainbow](https://open.spotify.com/track/3TiRsUuQKPBwqq8Ly0NnC2) | [Dancing Queens On the Road](https://open.spotify.com/artist/3Ly5uxWBftvFLsWMtR3UER) | [Dancing Queens On the Road \(Original Soundtrack\)](https://open.spotify.com/album/7t7m1WuhV8h3hy7xXmr2El) | 3:08 |
-| 11 | [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 |
+| 11 | [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/2ynlAd8SCLw1JH8oiRrXqE), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 |
 | 12 | [Number One \(feat\. Skinny Brown\)](https://open.spotify.com/track/5MiakoiNuTS9Z3fBgU5jLP) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Final Fantasy](https://open.spotify.com/album/2mVdiLyG6CZkSz8pAPwO1e) | 3:25 |
 | 13 | [Diving \(Feat\. Nochang\)](https://open.spotify.com/track/4pG9XOyy4aJd5J08Wab3CE) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO) | [Diving](https://open.spotify.com/album/2lONskv5bwiRn8mGCuC6WQ) | 2:38 |
 | 14 | [Flower freestyle](https://open.spotify.com/track/6VdjYiQrSRFOtbG71XTVIq) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Flower freestyle](https://open.spotify.com/album/7MqzDN8stAuEZj7dcYsj5o) | 1:34 |

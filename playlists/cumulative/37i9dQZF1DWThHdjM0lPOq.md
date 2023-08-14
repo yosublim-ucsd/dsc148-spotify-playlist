@@ -4,7 +4,7 @@
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-105 songs - 5 hr 42 min
+106 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Spirit](https://open.spotify.com/track/4dL3q3lZXkhDY81OxwUYLP) | [Patrick Walker\-Stiggs](https://open.spotify.com/artist/3xmMXkcixRYDZpSKT8oLPf) | [Spirit](https://open.spotify.com/album/0q6ktAdOw7unXV5YD939tj) | 3:22 | 2023-03-17 |  |
 | [Take My Breath Away](https://open.spotify.com/track/6InDP0YMBCID5ZXx0Jl9oM) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Take My Breath Away](https://open.spotify.com/album/4qq2DFr5mu5gjIkbnAXbAM) | 3:22 | 2023-05-12 |  |
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-03-17 |  |
-| [The Eternal Vow \(From "Crouching Tiger, Hidden Dragon"\)](https://open.spotify.com/track/4ye3Ec1Z6NsgHCv6ySAmbY) | [Jane Chee](https://open.spotify.com/artist/1mdvd9RX7YfxXYanzzesjk) | [Come Back to Me: Piano Arrangements of Great Film Music](https://open.spotify.com/album/7gI46qkXDtsbkW2D22bIau) | 2:16 | 2023-05-12 |  |
+| [The Eternal Vow \(From "Crouching Tiger, Hidden Dragon"\)](https://open.spotify.com/track/4ye3Ec1Z6NsgHCv6ySAmbY) | [Jane Chee](https://open.spotify.com/artist/1mdvd9RX7YfxXYanzzesjk) | [Come Back to Me: Piano Arrangements of Great Film Music](https://open.spotify.com/album/7gI46qkXDtsbkW2D22bIau) | 2:16 | 2023-05-12 | 2023-08-14 |
+| [The Eternal Vow \(From "Crouching Tiger, Hidden Dragon"\)](https://open.spotify.com/track/3CUYoHmbTmKqxLJxpOkzCY) | [Tan Dun](https://open.spotify.com/artist/1GhO4jjafkz7yzMcGjGizT), [Jane Chee](https://open.spotify.com/artist/1mdvd9RX7YfxXYanzzesjk) | [Come Back to Me: Piano Arrangements of Great Film Music](https://open.spotify.com/album/1tLu5JUpXeQGqq2yq1POOE) | 2:16 | 2023-08-10 |  |
 | [The John Dunbar Theme \(From "Dances with Wolves"\) \[Piano Version\]](https://open.spotify.com/track/7fNz7EFivHZG2ZZNShH2hZ) | [Noud van Harskamp](https://open.spotify.com/artist/2NNhP3CqXQLGIlVbFKfSqo) | [The John Dunbar Theme \(From "Dances with Wolves"\) \[Piano Version\]](https://open.spotify.com/album/1Xz64JD2dIhCAcQheHuTaK) | 2:17 | 2023-03-22 |  |
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2023-03-17 |  |
 | [The Notebook \(From "The Notebook"\)](https://open.spotify.com/track/3IojPkE2hrBvtqhIS6ZIkZ) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Instrumental Piano: Classic Movie Songs](https://open.spotify.com/album/01qE09llktP7RP5p9alAoX) | 3:15 | 2023-03-22 | 2023-06-09 |

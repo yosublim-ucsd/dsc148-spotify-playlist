@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,604 songs - 5 day 18 hr 11 min
+3,606 songs - 5 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Chilly Night](https://open.spotify.com/track/6P37KIXwqglon8XbGEZrS8) | [Seeweed](https://open.spotify.com/artist/3vY6SsmX9WFNkLJPqfYGvv) | [In the Twilight](https://open.spotify.com/album/1TAAqHGtb2WxUtZPmvNcvb) | 3:10 | 2020-03-31 | 2020-06-05 |
 | [Chime](https://open.spotify.com/track/3np8jFrLxrWPOYW3mv1Thk) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/21WyYkF4blA4UzeFhssGwD) | 1:49 | 2022-09-22 | 2022-10-22 |
 | [Chimera](https://open.spotify.com/track/3nRJAi4a3tghGk13KemWUF) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Chimera](https://open.spotify.com/album/5CIbtSlJjUMo4XfIypmeLm) | 2:12 | 2020-06-12 | 2020-08-30 |
-| [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-10 |  |
+| [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-10 | 2023-08-14 |
 | [Chirps](https://open.spotify.com/track/6CnuhgK2L3JX19GlCl019Q) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Chirps](https://open.spotify.com/album/2lhTWmrIIDDUJ96T83kXMt) | 1:58 | 2021-03-02 | 2021-07-09 |
 | [Chiyo](https://open.spotify.com/track/1kd6vdfLCJFEqjEPRXEggo) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph) | [Kyūta EP \#1](https://open.spotify.com/album/5gf7IxCPfDUxA8GUQjD3d3) | 2:42 | 2020-09-25 | 2021-04-30 |
 | [Chocolata](https://open.spotify.com/track/2h3lDwbjavbLGIOi8fyGVo) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Chocolata / Dark Hole Funk](https://open.spotify.com/album/5nCzqAC8iMj6KyhWI8giGD) | 1:49 | 2021-02-26 | 2021-03-19 |
@@ -1271,6 +1271,7 @@
 | [Heart](https://open.spotify.com/track/4TnzGkofw59rP0jqvV1TVE) | [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Heart](https://open.spotify.com/album/4tzIEU3ver1nohtVaIGX6H) | 2:44 | 2022-01-06 | 2022-02-11 |
 | [Heart of Ways](https://open.spotify.com/track/7lkWFp7uZnQ4bfuXu0Wotm) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Heart of Ways](https://open.spotify.com/album/6sxX9yX8H4DaW0RnUjpKvl) | 2:14 | 2022-08-18 | 2023-03-03 |
 | [Heart\-Shaped Pebbles](https://open.spotify.com/track/3ryO1dH3Wuf9m3tIFLyNgr) | [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs), [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Heart\-Shaped Pebbles](https://open.spotify.com/album/6cy4Ttwv8pNzggifsB2YD0) | 2:35 | 2020-11-21 | 2021-01-04 |
+| [Hearts](https://open.spotify.com/track/5z6ZoCZpvPaOxyJ8mNSegl) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Hearts](https://open.spotify.com/album/0iKxPeApQRniuXHgqnGxDW) | 2:00 | 2023-08-10 |  |
 | [Heartstrings](https://open.spotify.com/track/3eMTL5AoiqWjf2SHXHS72r) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Heartstrings](https://open.spotify.com/album/4he2nqPQcnZt9M7eq7B4Rb) | 2:59 | 2021-10-22 | 2021-12-03 |
 | [Heat Wave](https://open.spotify.com/track/6U9DTUc1C5aPuSrhIm2cBM) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Heat Wave](https://open.spotify.com/album/1htEu6Zmx7ns1lrRqh649n) | 2:01 | 2020-08-07 | 2021-01-04 |
 | [Heesy](https://open.spotify.com/track/445V0ErBO4Wx1k1QKWsnNi) | [Carl Aqua](https://open.spotify.com/artist/1QLXln25GndxujJYyrm9h2) | [Space Cocoon](https://open.spotify.com/album/5gCwArXfcmbLKKJe2x0xYd) | 2:35 | 2019-05-26\* | 2019-06-28 |
@@ -2967,6 +2968,7 @@
 | [Summer to Fall](https://open.spotify.com/track/6t7ss17wCZZCe55nDZAk7a) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Summer to Fall](https://open.spotify.com/album/6HekWJdnjdCjlVTdgq33bM) | 2:20 | 2021-10-18 | 2021-12-03 |
 | [Summer Vibes](https://open.spotify.com/track/7sWiHeHo8opH0bOC8irUrQ) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Summer Vibes](https://open.spotify.com/album/4zJS8uzb0xdxOKG3YfKnmN) | 1:36 | 2023-07-13 |  |
 | [Summer Vibes](https://open.spotify.com/track/04TNcpo5y2OmPMBsSfDSeI) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Summer Vibes](https://open.spotify.com/album/2CIxAgoGGjsUPxw0UvdbAO) | 2:38 | 2020-07-25 | 2020-10-19 |
+| [Summer Wave](https://open.spotify.com/track/1GoJDaOcQcoTADjOTUOtF9) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Summer Wave](https://open.spotify.com/album/4SpmxzAOnFam7KjGBNcs5u) | 2:27 | 2023-08-10 |  |
 | [Summersault](https://open.spotify.com/track/1JGTjjT79bXjSw6pnMxBCA) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Summersault](https://open.spotify.com/album/7DW6xa5Ltheh8d6jouzLy5) | 2:05 | 2021-06-11 | 2021-10-22 |
 | [Summertime](https://open.spotify.com/track/7gFNyaWsTdXUTVggeZTSi2) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Summertime](https://open.spotify.com/album/2RKfqbzH3ptAuA0BYhE7Hy) | 1:52 | 2023-08-03 |  |
 | [Sun Dance](https://open.spotify.com/track/4LeczIuZZz0JNLiCKc8pyj) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Sun Dance](https://open.spotify.com/album/7BSZRRulANXwNBwuEQH5SI) | 3:05 | 2022-01-27 | 2022-03-11 |
@@ -3106,7 +3108,7 @@
 | [Tendrils](https://open.spotify.com/track/1Q4rAo79TKUd69AzlZ37T3) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Tendrils](https://open.spotify.com/album/1u7LBEU3hKebYwcfab0bHr) | 2:05 | 2022-11-17 |  |
 | [Tendrils](https://open.spotify.com/track/1yNl31fThzZVdYNzhttMSv) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Tendrils](https://open.spotify.com/album/7a3jFzbmt2wS8YP0C7Zdnk) | 2:05 | 2022-09-08 | 2022-11-21 |
 | [Tenkodo](https://open.spotify.com/track/4f9IkeqLuVZ5JO1rAwPVsA) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Tenkodo](https://open.spotify.com/album/6CnqMRpV1fwpZ11AnxctcF) | 2:37 | 2022-08-04 |  |
-| [Tequila](https://open.spotify.com/track/4ArGyAyIhnFDcwWDg7jiHi) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Tequila](https://open.spotify.com/album/45BvNipNL12H1hthifwTA0) | 2:19 | 2023-05-04 |  |
+| [Tequila](https://open.spotify.com/track/4ArGyAyIhnFDcwWDg7jiHi) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Tequila](https://open.spotify.com/album/45BvNipNL12H1hthifwTA0) | 2:19 | 2023-05-04 | 2023-08-14 |
 | [Tequila at midnight](https://open.spotify.com/track/6LybfPtenqFNvld1swgrKU) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Bar counter](https://open.spotify.com/album/6iwVxTLfB1mu2pSHt34STB) | 1:52 | 2021-08-13 | 2022-07-15 |
 | [Tequila Sunrise](https://open.spotify.com/track/5jS2VBynvsmlw1T7eJE6UI) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Tequila Sunrise](https://open.spotify.com/album/6o0k1gVG5kor4c0U3dTLvU) | 2:15 | 2022-12-15 | 2023-02-10 |
 | [Teriyaki Gloss](https://open.spotify.com/track/4LO42qpncq6ibopA50XGf3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Teriyaki Gloss](https://open.spotify.com/album/7MaEKJ3QnQMYYGithkdTxR) | 2:03 | 2021-11-30 | 2021-12-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0nmj2KyjW1.md) - [plain]
 
 > Escucha lo mejor de la superstar argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,481 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,914 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

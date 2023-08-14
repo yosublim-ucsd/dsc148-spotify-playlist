@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 212649,
       "name": "Don't Talk to Me Like I'm Tiffany",
       "url": "https://open.spotify.com/track/1QXkca3GgoCzzcYUy7OG2P"
@@ -1110,6 +1110,24 @@
       "duration_ms": 364560,
       "name": "Known Unknowns (Live)",
       "url": "https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg"
+    },
+    {
+      "album": {
+        "name": "Lazy Poker Blues",
+        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
     },
     {
       "album": {

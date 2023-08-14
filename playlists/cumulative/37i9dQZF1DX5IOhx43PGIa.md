@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Mitski.
 
-530 songs - 1 day 3 hr 19 min
+531 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [DREAM DEALER](https://open.spotify.com/track/2EeucxxTMsvbbqLxCyehfH) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:54 | 2023-05-05 |  |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-05-12 |  |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-05-27 | 2022-09-19 |
+| [Easily](https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Easily](https://open.spotify.com/album/2M8WcUUESGhKwiDeradUxW) | 3:13 | 2023-08-11 |  |
 | [Easy](https://open.spotify.com/track/1MLLW9uH8i7MVPCPZFWwrj) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Easy](https://open.spotify.com/album/3xpvsUs6cAeZu8pVDtanTX) | 2:26 | 2023-07-07 | 2023-08-09 |
 | [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-11 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-05-27 | 2022-11-12 |
@@ -163,7 +164,7 @@
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-02-07 | 2023-08-12 |
 | [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 | 2022-09-23 | 2022-10-08 |
 | [Foreign Language](https://open.spotify.com/track/2T4XwrLVpnSFIxC503DDnO) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 1:57 | 2022-05-27 | 2022-07-25 |
-| [Forget Each Other](https://open.spotify.com/track/6KLnOGcXfhQOlUWxJIOPct) | [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2) | [Forget Each Other](https://open.spotify.com/album/74vGSE4UFoe7s1tlLoSMfO) | 2:29 | 2023-08-11 |  |
+| [Forget Each Other](https://open.spotify.com/track/6KLnOGcXfhQOlUWxJIOPct) | [Kevin Chung](https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2) | [Forget Each Other](https://open.spotify.com/album/74vGSE4UFoe7s1tlLoSMfO) | 2:29 | 2023-08-11 | 2023-08-14 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/6x74a97yVVRskQeOm787SG) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1) | 1:49 | 2023-06-16 | 2023-07-01 |
 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-05-27 | 2023-06-10 |
 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 | 2022-05-27 | 2023-08-12 |

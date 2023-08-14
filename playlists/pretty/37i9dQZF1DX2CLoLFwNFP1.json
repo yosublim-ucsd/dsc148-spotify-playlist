@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27369,
+  "num_followers": 27422,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjgwMTJiMWFmYzZlZDA1ZDVhYmQ0YjRiNjlhZDRkNjMxOWE0MGMw",
+  "snapshot_id": "MCw2NTZkZmM3YmJjMjIxMzIwMjI3YTQwMTg2M2EwZTY0NWRkMGUyMWU5",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219993,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219993,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -1667,6 +1667,34 @@
       "duration_ms": 252367,
       "name": "AQUAMAN",
       "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Honey C",
+          "url": "https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L"
+        }
+      ],
+      "duration_ms": 258109,
+      "name": "MOMMAE - Remix",
+      "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1711,34 +1739,6 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Honey C",
-          "url": "https://open.spotify.com/artist/7C4fslVznRj1BAu6A0iQ5L"
-        }
-      ],
-      "duration_ms": 258109,
-      "name": "MOMMAE - Remix",
-      "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
     },
     {
       "added_at": "2023-07-31 16:03:37",

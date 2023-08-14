@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by spill tab.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,181 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,229 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 |
 | 100 | [Imposter Syndrome](https://open.spotify.com/track/41yayaS91LRsTwypCJHrTB) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Imposter Syndrome](https://open.spotify.com/album/2MtZOTkjR68Dfxps7mmMP3) | 3:15 |
 
-Snapshot ID: `MCxlOTBlYTQxZGI1Y2IwNGIwZjQzMzJiZWFjMzFmNzBhZjBmNzNlNDUy`
+Snapshot ID: `MCw3MzVkNzBmYTc1NDg4NjAyNjdlMTA4MjA5ODhjMzc3OTVhMTdkNTE3`

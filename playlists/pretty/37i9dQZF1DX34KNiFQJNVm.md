@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado, Ferrugem, Ana Castela e Simone Mendes, MC Kevin o Chris e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,534 likes - 95 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,903,920 likes - 95 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 8 | [Marrento](https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Marrento](https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D) | 2:09 |
 | 9 | [Certas Coisas](https://open.spotify.com/track/6P5sBz1n7ZURQ2Ghjrlq6m) | [Bruninho & Davi](https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Certas Coisas](https://open.spotify.com/album/6PkIzBBAGD4tJjC7g5qoAb) | 2:58 |
 | 10 | [Faz Completo, Chefe](https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB) | [Faz Completo, Chefe](https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL) | 2:07 |
-| 11 | [Chá de Vida](https://open.spotify.com/track/3XyaK9KYY1XEW6MGDxYcBn) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Chá de Vida](https://open.spotify.com/album/59HH9iho68EhHX7I1DlgC1) | 3:51 |
+| 11 | [Chá de Vida](https://open.spotify.com/track/3XyaK9KYY1XEW6MGDxYcBn) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Chá de Vida](https://open.spotify.com/album/59HH9iho68EhHX7I1DlgC1) | 3:51 |
 | 12 | [Maluca De Tudo](https://open.spotify.com/track/7vIk9K4J67L5zKeyxuegj4) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Maluca De Tudo](https://open.spotify.com/album/2jvF6MpxOkW7wRGPXDRR8n) | 2:22 |
 | 13 | [11 Horas](https://open.spotify.com/track/3W4z8vPO5hGrqCfDvxpF0Y) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Jorgin](https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF) | [11 Horas](https://open.spotify.com/album/753hQJXSA05N2yhumxY9Ao) | 3:27 |
 | 14 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 94 | [A Carta](https://open.spotify.com/track/2uEiHyIUOfKV9jViH3GCHF) | [Ferri](https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR) | [A Carta](https://open.spotify.com/album/36SUf11Op7n4bcgueh2O4R) | 3:19 |
 | 95 | [Movimento Solar](https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Movimento Solar](https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K) | 3:21 |
 
-Snapshot ID: `MCwxZjgxM2U3MDAwZTJkYjMxOGUwZDlhYmM3ZmRiODI2Mzg4NzYxNjJi`
+Snapshot ID: `MCwxMDM5MzZjNDdhZGY3NmM3YjdiMGY0ZTdjYzY4Yjg4MWFlNWNhN2E0`

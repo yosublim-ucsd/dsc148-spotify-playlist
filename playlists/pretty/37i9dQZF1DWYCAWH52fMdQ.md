@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCAWH52fMdQ.md) - [plain]
 
 > Get Ready! Show Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,039 likes - 47 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,069 likes - 47 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCAWH52fMdQ.md) - [plain]
 | 46 | [GOrGeOuS](https://open.spotify.com/track/5hs5J3f6lH9v286otiDBeS) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:21 |
 | 47 | [LiAr](https://open.spotify.com/track/1vOvHNRKQs8sriDTok0TC5) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:57 |
 
-Snapshot ID: `MCwwZDRmMTI4YjA0ZmZjY2UxZmMwMDlhMzQzZmY2MWI0YmRiYzQyY2Qz`
+Snapshot ID: `MCw0YjEyZTQyNjRiZTNhYzI0OTg0MTk2ZGUyNjVlMjRkYTg2ZDhmYzNh`

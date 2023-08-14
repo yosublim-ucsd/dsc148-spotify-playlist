@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 
 > Classic instrumental Soul to play during your working hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 84 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,343 likes - 84 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 | 83 | [All I Need to Make It \- Instrumental](https://open.spotify.com/track/5zoWomyUQYqypunAUBqVUl) | [Capsoul Group](https://open.spotify.com/artist/0dIJ4apsKXMcUtXt27eSmG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy) | 3:06 |
 | 84 | [South Philly](https://open.spotify.com/track/2A9J6PEXvBAnrZvqUyROim) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 4:27 |
 
-Snapshot ID: `MCxhYmViZTBlNmY5YzIxYjQ3ZGJmZDcyYWViZDM2YTUyOWJhNmI4NzU2`
+Snapshot ID: `MCwxMTJmZTJiODg3YTAxYWNmZDlkMjNkY2MwZGRkNDc0NmNhYmY0ZTRl`

@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop Cover: Olivia Rodrigo
+> next gen pop Cover: Jenna Raine
 
 1,615 songs - 3 day 6 hr 27 min
 

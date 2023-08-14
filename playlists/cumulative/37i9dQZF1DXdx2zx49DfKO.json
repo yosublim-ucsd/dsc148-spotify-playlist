@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
@@ -638,6 +638,32 @@
       "duration_ms": 171028,
       "name": "HELLDRIFT 2",
       "url": "https://open.spotify.com/track/5VENuZ5ybCQpujo3E0ej31"
+    },
+    {
+      "album": {
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/6fzvl3BYrE1oPmJaP8sdnj"
+      },
+      "artists": [
+        {
+          "name": "paydak",
+          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
+        },
+        {
+          "name": "W-NZG",
+          "url": "https://open.spotify.com/artist/2sCBnTo6ZpK8E35WwJRQ6w"
+        },
+        {
+          "name": "Lythx",
+          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/3Rgdf4iYQbg5FuTKeypE1w"
     },
     {
       "album": {

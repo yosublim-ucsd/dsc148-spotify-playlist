@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover:  Cover:  <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca?si=7fe08d8aa51e4821">A$AP Rocky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,092 likes - 71 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 71 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 70 | [LOST FOREVER \(feat\. Westside Gunn\)](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 |
 | 71 | [Bustdown JerseyDrill Avalanche](https://open.spotify.com/track/2F9THPeGUa3U6IhZLgsAdI) | [PatekRemixes](https://open.spotify.com/artist/3DtgcJKZUIpKlehmI0UgkV), [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [Lil Bro](https://open.spotify.com/artist/3STknxZC62USH50MMlLxve) | [GYATTT](https://open.spotify.com/album/2jt244KyJ68SOuiOaS8chg) | 2:04 |
 
-Snapshot ID: `MCw0OTNkNzFjMzRlZTFiYzdiN2FlMjIzZTdlM2IyNzhlZTYxYTA4MTY1`
+Snapshot ID: `MCwwYmU3Zjg3NWMxODA2NTkzMGM2YWU0NWVjOTU4YzY2YzY0MGY1MDhi`

@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 107761,
+  "num_followers": 107891,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2RhZTQ5NzhhMmNhYjgzODllNGY1NDVmNWMzZjZjYzkxMmU2YmI3",
+  "snapshot_id": "MCwyMDQ1N2Q0YzBmODU5ZWRmNDFkMTljY2JhNTQxMDUzYTYwNjcxY2Yw",
   "tracks": [
     {
       "added_at": "2023-08-10 16:46:04",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
+        "name": "Aloha From Hawaii Via Satellite (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 193309,
+      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
+      "url": "https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Chicago Blues Legend",
         "url": "https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 199253,
       "name": "All for Business",
       "url": "https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Shake Your Moneymaker",
-      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     },
     {
       "added_at": "2023-08-10 16:46:04",
@@ -995,18 +979,34 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Nine Below Zero",
-      "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
+      "duration_ms": 171946,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Shake Your Moneymaker",
+      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
     }
   ],
   "unique_name": "Electric Blues Classics",

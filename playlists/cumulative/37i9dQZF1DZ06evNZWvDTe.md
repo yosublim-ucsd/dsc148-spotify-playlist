@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-140 songs - 8 hr 30 min
+141 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,10 +124,11 @@
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-20 |  |
 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 | 2022-04-28 |  |
 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 | 2022-04-18 |  |
+| [Stir It Up](https://open.spotify.com/track/7h35uAmKtfoUwTiUhHkmjs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:41 | 2023-08-13 |  |
 | [Stir It Up](https://open.spotify.com/track/5A6mHdKHowaitCRTSEHriS) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/6MNUKupGTXg7Znmqx0BGB0) | 3:41 | 2023-01-21 | 2023-04-09 |
 | [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1NM9OsPbiAuxw8slkPB5QO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Stir It Up](https://open.spotify.com/album/28XO1MdjPr59qd5qrHd2oW) | 3:41 | 2023-04-08 | 2023-07-04 |
 | [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/1VuWH3adr8WqmrwHHwTD0e) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Three Little Birds \(Feat\. Teni and Oxlade\)](https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU) | 3:41 | 2023-07-03 | 2023-08-09 |
-| [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/62qeCsCyU0nh6WmYKGS5lT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Them Belly Full \(But We Hungry\) \(Feat\. Rema & Skip Marley\)](https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R) | 3:41 | 2023-08-08 |  |
+| [Stir It Up \(Feat\. Sarkodie\)](https://open.spotify.com/track/62qeCsCyU0nh6WmYKGS5lT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Them Belly Full \(But We Hungry\) \(Feat\. Rema & Skip Marley\)](https://open.spotify.com/album/4PrIjUOhymWHG83mEzDj1R) | 3:41 | 2023-08-08 | 2023-08-14 |
 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:13 | 2021-12-28 |  |
 | [Sub Zero](https://open.spotify.com/track/55z37b4GACx19xCvJezn9x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sub Zero](https://open.spotify.com/album/5djGPnowlb7n7u63XrblWp) | 3:02 | 2022-01-04 | 2022-11-25 |
 | [Take My Love \(feat\. Tekno\)](https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 2:54 | 2022-01-12 | 2022-09-29 |

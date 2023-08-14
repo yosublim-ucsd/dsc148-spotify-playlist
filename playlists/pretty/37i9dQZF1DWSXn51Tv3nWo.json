@@ -1,12 +1,12 @@
 {
   "description": "Let your hair down and dance along to music from the Trolls movies!",
-  "num_followers": 61187,
+  "num_followers": 61378,
   "original_name": "Trolls Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTkzNTZmNjM4NDBkNGM0OTE3ODBlNDcwYjI1ZDgyMDRjM2QyNmRh",
+  "snapshot_id": "MCw1YjhlZDFhYTI0NjAyZGY1OWE1ZThiNDA2Yjk1ZjFmZjRmNDRmNDg2",
   "tracks": [
     {
       "added_at": "2021-11-26 09:00:00",
@@ -268,20 +268,16 @@
       },
       "artists": [
         {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
           "name": "James Corden",
           "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
         },
         {
           "name": "Kenan Thompson",
@@ -292,12 +288,16 @@
           "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         },
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
       "duration_ms": 205306,
-      "name": "Trolls Wanna Have Good Times (feat. Icona Pop)",
+      "name": "Trolls Wanna Have Good Times",
       "url": "https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8"
     },
     {

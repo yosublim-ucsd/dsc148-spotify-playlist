@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-257 songs - 14 hr 4 min
+258 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Final Solution](https://open.spotify.com/track/1qWYoeFX94VUG398y2eTDX) | [Pere Ubu](https://open.spotify.com/artist/3V4FPipSnuYjtHnnAw9cZd) | [The Shape of Things](https://open.spotify.com/album/3nNkWuLky62WON0Pnc8fu9) | 6:41 | 2015-07-23 |  |
 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 | 2019-06-19 |  |
 | [Garbage](https://open.spotify.com/track/1miavS2ke1xQGzQFzpPTWR) | [Deviants](https://open.spotify.com/artist/48MDKGpIuYksF8e6ZflECs) | [Ptooff!](https://open.spotify.com/album/1qUsQIh6eGihs7IIyA49qK) | 5:35 | 2015-07-23 | 2022-11-13 |
+| [Garbage](https://open.spotify.com/track/1ZmChSGzKgGEstfbuZwWon) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3Wn4XGeHWIQeO4XTJFFQoE) | 5:35 | 2015-07-23 |  |
 | [Garbage](https://open.spotify.com/track/2F4xuLgJ5QNKrKqzDbFY6k) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/51w2m2WttlPC4KH3fQsJQv) | 5:35 | 2015-07-23 | 2022-07-29 |
-| [Garbage](https://open.spotify.com/track/49BjmWGLBxcZaoEddAzv9U) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3PwEtrudVZSXxoGhpU4hLc) | 5:35 | 2015-07-23 |  |
+| [Garbage](https://open.spotify.com/track/49BjmWGLBxcZaoEddAzv9U) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptooff!](https://open.spotify.com/album/3PwEtrudVZSXxoGhpU4hLc) | 5:35 | 2015-07-23 | 2023-08-14 |
 | [Get Yourself Home](https://open.spotify.com/track/3wjJ0IA1UELQ2V5BzM6r2K) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things](https://open.spotify.com/album/5M8hjDxt9JRpcuJAtOzrga) | 2:16 | 2015-07-23 | 2022-07-29 |
 | [Get Yourself Home \- Remastered](https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:15 | 2015-07-23 |  |
 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 | 2019-06-19 |  |

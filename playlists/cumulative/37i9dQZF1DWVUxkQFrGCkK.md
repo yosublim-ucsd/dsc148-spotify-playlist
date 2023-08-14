@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-243 songs - 18 hr 56 min
+244 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [How Long Have You Been Away?](https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 3:28 | 2023-04-13 |  |
 | [I Had a Dream About You](https://open.spotify.com/track/66XQI03EPMRiFHtqmdVluM) | [Bungalow](https://open.spotify.com/artist/6G9mC3mgZJoMoYTUrN7KWU) | [I Had a Dream About You](https://open.spotify.com/album/4L3RGKAPwn15qALiDVcOS0) | 2:37 | 2023-06-29 | 2023-08-02 |
 | [i just wanna be here \(MÒZÂMBÎQÚE Remix\)](https://open.spotify.com/track/1llQmVTyLJ9f0o1Q1h0Wxj) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF), [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [i just wanna be here \(MÒZÂMBÎQÚE Remix\)](https://open.spotify.com/album/1nlI8ACkPhvXAS7t61wJZn) | 3:51 | 2023-05-11 |  |
-| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 |  |
+| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 | 2023-08-14 |
+| [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-10 |  |
 | [Idris](https://open.spotify.com/track/4QpJkTKAoUAyPAhOvWJo4c) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 001](https://open.spotify.com/album/0E8Qok1GefELqqpBAm0gfx) | 4:58 | 2023-06-29 |  |
 | [In Alto Mare \(Tourdefrance Edit\) \- Mixed](https://open.spotify.com/track/3xfweF34oydDPvCvi2omCI) | [tourdefrance](https://open.spotify.com/artist/4Vjb3OJHilpgTWYYNXeJTw) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 4:42 | 2023-06-29 |  |
 | [In2u](https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [In2u](https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud) | 3:21 | 2023-05-18 | 2023-08-02 |

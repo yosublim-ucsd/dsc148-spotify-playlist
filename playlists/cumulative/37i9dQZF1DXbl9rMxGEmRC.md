@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-467 songs - 1 day 15 hr 54 min
+468 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Spores of Gnosis](https://open.spotify.com/track/6mINTISPFFdQgHufJ4zzCu) | [Nordjevel](https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r) | [Spores of Gnosis](https://open.spotify.com/album/08i20ClwOx3a6RCbGGTk0L) | 6:12 | 2022-06-10 | 2022-07-26 |
 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 |  |
 | [Stone That Burns](https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti) | [Anima Hereticae](https://open.spotify.com/artist/539bg8trpgvFICGqp2VIUd) | [Ov Behest](https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt) | 7:04 | 2021-12-17 | 2022-05-14 |
+| [Storm Of Strings](https://open.spotify.com/track/29LSO2zCxA4Ma8aa6FCdd9) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Storm Of Strings](https://open.spotify.com/album/0zTO0FleKsxtLMjt0nUm39) | 2:55 | 2023-08-11 |  |
 | [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 | 2023-04-28 | 2023-06-04 |
 | [Strepitus Mundi](https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Strepitus Mundi](https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF) | 8:04 | 2022-04-08 | 2022-07-23 |
 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 | 2023-08-11 |  |
@@ -400,7 +401,7 @@
 | [The Fifth Illusion](https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam](https://open.spotify.com/album/3o5Gb5maaKt6DZQQwk3Dal) | 5:34 | 2022-07-13 | 2022-08-27 |
 | [The Fifth Illusion](https://open.spotify.com/track/1DLxHchZ0ZEKZTGXpcTcth) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam \(2006 Remastered\)](https://open.spotify.com/album/3fczhcYfPlYtdBSUw8SvRr) | 5:34 | 2022-07-13 | 2022-07-25 |
 | [The Head of the Snake](https://open.spotify.com/track/4WX5bprRQGTlZaxEcBICqZ) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [Head of the Snake](https://open.spotify.com/album/1OhiUVjIVR8dr5Itzpfyzv) | 4:05 | 2021-12-17 | 2022-04-09 |
-| [The Hell I Create](https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [The Hell I Create](https://open.spotify.com/album/0K8S2JBCHkAn9xO7fY5h7y) | 5:52 | 2023-07-07 |  |
+| [The Hell I Create](https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [The Hell I Create](https://open.spotify.com/album/0K8S2JBCHkAn9xO7fY5h7y) | 5:52 | 2023-07-07 | 2023-08-14 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-11 | 2022-08-30 |
 | [The Intertwined](https://open.spotify.com/track/1uUB0yPKZolbq3ryoLDOlY) | [Skepticism](https://open.spotify.com/artist/2mZuhQebSc9U63QjaADtzF) | [Companion](https://open.spotify.com/album/4kQyk8NpLezupFyYnK9q8n) | 8:19 | 2021-12-17 | 2022-05-14 |
 | [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 | 2021-12-17 | 2022-01-08 |

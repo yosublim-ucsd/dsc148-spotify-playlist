@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 52401,
+  "num_followers": 52545,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGM3NTE0NGViOTVhNDFjNzZiMjMxOTNiZmYxMGE4M2IxOGRjZDZh",
+  "snapshot_id": "MCxkZjVhYjgwYzA2NzZkYjgwODY2OWNlMTJjNTAzMGVhYjcxYjc1MTJj",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+        "name": "Kyoto (Glitch Gum Remix)",
+        "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
       },
       "artists": [
         {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+      "duration_ms": 159813,
+      "name": "Kyoto (Glitch Gum Remix)",
+      "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Kyoto (Glitch Gum Remix)",
-        "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
         }
       ],
-      "duration_ms": 159813,
-      "name": "Kyoto (Glitch Gum Remix)",
-      "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2023-04-27 17:13:18",

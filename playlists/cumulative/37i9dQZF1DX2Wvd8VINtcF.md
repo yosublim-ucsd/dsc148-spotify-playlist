@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Se salute live på Höjden By Spotify på Way Out West!
 
-761 songs - 1 day 18 hr 17 min
+763 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 | 2023-04-13 | 2023-05-05 |
 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 | 2023-05-04 | 2023-06-09 |
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 | 2023-04-07 |
-| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-11 |  |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 | 2023-08-14 |
 | [Bad Enough \(feat\. Talie\)](https://open.spotify.com/track/0nk166os6HWD30xQcMbXj3) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Talie](https://open.spotify.com/artist/2YiFKLErr8Xi3Agiio8sSZ) | [Bad Enough](https://open.spotify.com/album/5JFjuOEq7OszjOOQ8AYQsK) | 4:02 | 2023-08-03 |  |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-08-03 | 2023-08-08 |
 | [Bad Person \[Y.O.G.A\. cow★tech Dub\]](https://open.spotify.com/track/1SkYBARXcT67drpu86Aql4) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y) | [Bad Person \[Y.O.G.A\. cow★tech Dub\]](https://open.spotify.com/album/1QwUGqrC3CXRvZwH3OjEfm) | 4:58 | 2022-11-10 | 2022-12-02 |
@@ -341,7 +342,8 @@
 | [I'm in Love](https://open.spotify.com/track/2k2AJgV5PAA4pIl9jdJxqz) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO) | [I'm in Love](https://open.spotify.com/album/6YseWN0WpEHAOTqVzJfzLo) | 3:16 | 2022-10-28 | 2022-11-04 |
 | [I'm So High \(feat\. Tamera & Toddla T\)](https://open.spotify.com/track/1KFfz8hnfidxkvFjyUqvGn) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I'm So High \(feat\. Tamera & Toddla T\)](https://open.spotify.com/album/3rxqyNSZpqCfVhyPIESXRN) | 3:38 | 2023-04-06 | 2023-05-05 |
 | [I'm The One](https://open.spotify.com/track/4QZ4TuOBORzBr7dPuTaXkX) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [I'm The One](https://open.spotify.com/album/3vBSsA8nIL5aJYLxiXiZzD) | 3:20 | 2022-12-15 | 2023-03-10 |
-| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 |  |
+| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 | 2023-08-14 |
+| [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-11 |  |
 | [if i go](https://open.spotify.com/track/3bH3M25c5Ps27dgS6IoPh4) | [Princess Tapioca](https://open.spotify.com/artist/23Y7BwBDQg8QOiFFZIuWQF) | [if i go](https://open.spotify.com/album/05nTk0IIOx0fXSidI4B2LQ) | 2:47 | 2023-04-13 | 2023-04-28 |
 | [Ignorancy](https://open.spotify.com/track/3CSgGrcAGMr0sfhNRQkhJk) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Ignorancy](https://open.spotify.com/album/298tGtqtQzOnCenZd2I0uY) | 2:56 | 2022-11-03 | 2022-11-25 |
 | [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 | 2023-08-03 |  |

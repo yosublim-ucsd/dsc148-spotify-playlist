@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 181714,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT"
@@ -7416,6 +7416,24 @@
       "duration_ms": 178993,
       "name": "Tekno",
       "url": "https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS"
     },
     {
       "album": {

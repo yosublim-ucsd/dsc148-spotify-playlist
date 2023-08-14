@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Hot Chip
 
-418 songs - 1 day 5 hr 16 min
+420 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Are You Alive? \- Edit](https://open.spotify.com/track/3wAzKpN1NSsvTlNN69Zm7x) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Are You Alive?](https://open.spotify.com/album/1KGbqzfRRBbk5H6xlvjZj7) | 3:30 | 2023-02-02 | 2023-02-17 |
 | [Arms Of Who \- Rework](https://open.spotify.com/track/352SDhyp43IeiCzauKXTyu) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms Of Who \(Rework\)](https://open.spotify.com/album/1j9vo0lvIR7yvLEO2lrdD0) | 2:41 | 2023-03-17 | 2023-07-01 |
 | [Avlium](https://open.spotify.com/track/3eeeh7W0KLmfPwa37IKL3Q) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui) | [In The Shadows](https://open.spotify.com/album/0nM2K0f7dtBjgkufELqfhC) | 8:21 | 2022-12-30 | 2023-01-02 |
-| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-10 |  |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 | 2023-08-14 |
 | [Back To Life](https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Back To Life](https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz) | 4:13 | 2023-06-30 |  |
 | [Bad](https://open.spotify.com/track/7vIpp7o0OPjbLHPb7TNAHY) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Bad](https://open.spotify.com/album/6bvi36j9nKaLJz7DzeU4xi) | 2:11 | 2023-04-27 | 2023-06-09 |
 | [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-01 | 2023-06-03 |
@@ -185,7 +186,8 @@
 | [I Forget](https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [I Forget](https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj) | 4:08 | 2023-08-03 |  |
 | [I Know, I Know](https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I Know, I Know](https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz) | 2:33 | 2023-01-12 | 2023-03-25 |
 | [I Promise](https://open.spotify.com/track/1f1cI1rxKrMCLr5pD8rjX3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [I Promise](https://open.spotify.com/album/7FQdnurXHFf1XJHtFwBpXm) | 2:54 | 2023-05-18 | 2023-06-09 |
-| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 |  |
+| [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 | 2023-06-22 | 2023-08-14 |
+| [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-08-10 |  |
 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 | 2023-06-01 | 2023-07-01 |
 | [If I Begged You For Your Love](https://open.spotify.com/track/6JCK0shst0vWKxHp49jAoL) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [it’ll all be oki](https://open.spotify.com/album/6nuURRl7btR9pyVG7hEqvF) | 3:29 | 2023-04-20 | 2023-06-02 |
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-23 | 2023-05-12 |

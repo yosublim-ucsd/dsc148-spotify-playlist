@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-228 songs - 16 hr 48 min
+229 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [It's Too Late](https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Song For You](https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil) | 4:41 | 2022-01-03 |  |
 | [I’m All Ears](https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Little Things](https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ) | 4:59 | 2022-12-22 |  |
 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 | 2021-12-27 | 2023-07-27 |
+| [JJ's Strut \- Radio Single](https://open.spotify.com/track/0HLGHHZPQzR6SHWVqQwojD) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut](https://open.spotify.com/album/2zMSYS1M5VfeQnxAht3rtD) | 4:11 | 2023-08-08 |  |
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2022-07-18 |  |
 | [Just Between us](https://open.spotify.com/track/0RfOHjujKeLVlUuUwfXxJ8) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [The Very Best Of Smooth Jazz Guitar](https://open.spotify.com/album/0gc1Dw2arZYdTZdZbnfLsw) | 5:11 | 2022-04-11 | 2022-04-20 |
 | [Just Between Us](https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [All About Love](https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd) | 4:49 | 2022-04-11 |  |
@@ -141,7 +142,7 @@
 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 | 2021-12-27 | 2022-07-29 |
 | [Listen to This](https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:13 | 2021-12-27 |  |
 | [Long Road](https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Global Kiss](https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp) | 4:21 | 2022-01-17 |  |
-| [Love Crazy](https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV) | 3:54 | 2023-05-30 |  |
+| [Love Crazy](https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV) | 3:54 | 2023-05-30 | 2023-08-14 |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-12-27 | 2022-07-28 |
 | [Low and Slow](https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ) | 4:08 | 2021-12-27 | 2022-07-26 |
 | [Low And Slow](https://open.spotify.com/track/7pRfQ35Qo8a9mZ8TfbTjVA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:08 | 2022-07-18 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-812 songs - 1 day 23 hr 20 min
+813 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,7 +661,7 @@
 | [Sài Gòn Đau Lòng Quá](https://open.spotify.com/track/6TD5xfffOnYHliuF1wzL6U) | [Hứa Kim Tuyền, Hoàng Duyên](https://open.spotify.com/artist/5e73DfA1EQcTsyrC6fx0W7) | [Sài Gòn Đau Lòng Quá](https://open.spotify.com/album/2Fql2aXWQCc8w9b5AWbAAk) | 5:08 | 2021-03-31 | 2021-09-19 |
 | [Sài Gòn Đâu Có Lạnh \(feat\. Lewiuy\)](https://open.spotify.com/track/5106KTen3ogiqKTYXnPbsW) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lewiuy](https://open.spotify.com/artist/5bUuUOVP84CXkHbFfIw8jL) | [Sài Gòn Đâu Có Lạnh \(feat\. Lewiuy\)](https://open.spotify.com/album/2PG4oSIAQulx8aUj2tpHGu) | 2:45 | 2021-11-07 | 2021-11-21 |
 | [Sự Mập Mờ](https://open.spotify.com/track/1QKaj0g8pammcGn0JU8nnd) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Sự Mập Mờ](https://open.spotify.com/album/2qlrsRTlCm6bPyqncUndHh) | 3:49 | 2023-07-11 | 2023-07-23 |
-| [Take It Easy \(feat\. Liu Grace\)](https://open.spotify.com/track/7len778YJVqS6VHtUZ9SrG) | [RAP VIỆT](https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Rap Việt Mùa 3 \(2023\) \- Tập 11](https://open.spotify.com/album/4VpRy3EeRPA3hWnLp4E2wp) | 2:44 | 2023-08-07 |  |
+| [Take It Easy \(feat\. Liu Grace\)](https://open.spotify.com/track/7len778YJVqS6VHtUZ9SrG) | [RAP VIỆT](https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [Rap Việt Mùa 3 \(2023\) \- Tập 11](https://open.spotify.com/album/4VpRy3EeRPA3hWnLp4E2wp) | 2:44 | 2023-08-07 | 2023-08-14 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 |  |
@@ -721,6 +721,7 @@
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-03-21 | 2022-06-12 |
 | [Tình Là Gì Đây Em Ơi](https://open.spotify.com/track/2e0b6AaC1Abz5mFyCS3fXY) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Tình Là Gì Đây Em Ơi](https://open.spotify.com/album/5o4f6jAduyU4a8up1cibeX) | 4:10 | 2021-12-14 | 2021-12-24 |
 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2023-02-24 | 2023-06-26 |
+| [tình yêu có nghĩa là gì?](https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [tình yêu có nghĩa là gì?](https://open.spotify.com/album/0ptE7cwks2pwpcsP8ioEUL) | 2:13 | 2023-08-13 |  |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2021-03-27\* | 2021-04-10 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2021-04-10 | 2023-05-01 |
 | [Tại Vì Sao](https://open.spotify.com/track/3440g8awr2l0E5Yy2X5Epk) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:22 | 2023-03-04 |  |

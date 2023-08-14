@@ -1942,6 +1942,28 @@
     {
       "album": {
         "name": "Woman Of Steel",
+        "url": "https://open.spotify.com/album/4ZXoplCIksnmgPXcJBYtQ7"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186271,
+      "name": "Shekere",
+      "url": "https://open.spotify.com/track/1unD6HbKuU0NIPDzEkYDbM"
+    },
+    {
+      "album": {
+        "name": "Woman Of Steel",
         "url": "https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4"
       },
       "artists": [
@@ -1956,7 +1978,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 186311,
       "name": "Shekere",
       "url": "https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW"
@@ -2358,7 +2380,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-14",
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"

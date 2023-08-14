@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6518\)
+## Playlists \(6519\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1800,7 +1800,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fiesta](/playlists/pretty/37i9dQZF1DX9vJ2U3sN7xj.md)
 - [Fiesta & Karaoke](/playlists/pretty/37i9dQZF1DX0qVgUFKIZBO.md)
 - [Fiesta 2000era](/playlists/pretty/37i9dQZF1DWXbrtitCHmmo.md)
-- [Fiesta 2010](/playlists/pretty/37i9dQZF1DWWylYLMvjuRG.md)
 - [Fiesta 90era](/playlists/pretty/37i9dQZF1DWW7hJS3Xj96I.md)
 - [Fiesta Indie](/playlists/pretty/37i9dQZF1DWSXAHZTiX76o.md)
 - [Fiesta Pop](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
@@ -3536,6 +3535,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Party Hard](/playlists/pretty/37i9dQZF1DWV67mFOgnpbl.md)
 - [Party Hits](/playlists/pretty/37i9dQZF1DXa2PvUpywmrr.md)
 - [Party Hits 2000s](/playlists/pretty/37i9dQZF1DX7e8TjkFNKWH.md)
+- [Party Hits 2010s](/playlists/pretty/37i9dQZF1DWWylYLMvjuRG.md)
 - [Party Jazz](/playlists/pretty/37i9dQZF1DXcrFx9OjqPuj.md)
 - [Party Starters](/playlists/pretty/37i9dQZF1DXaave677EKyk.md)
 - [Partyhymnen](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md)
@@ -5856,6 +5856,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Umami](/playlists/pretty/37i9dQZF1DWVUxkQFrGCkK.md)
 - [Una Carica di Espresso!](/playlists/pretty/37i9dQZF1DWVTAn6Oz7Zf1.md)
 - [Una de Traileros](/playlists/pretty/37i9dQZF1DX3LJg0ziYmU4.md)
+- [Uncle Waffles' track IDs](/playlists/pretty/37i9dQZF1DWXN0bYSgIbPk.md)
 - [Under the Covers](/playlists/pretty/37i9dQZF1DX9xJGcbAX1KJ.md)
 - [Unshaming](/playlists/pretty/37i9dQZF1DWWGquR9lelQD.md)
 - [Unsolicited Advice](/playlists/pretty/37i9dQZF1DX8NZFqAdV1lo.md)

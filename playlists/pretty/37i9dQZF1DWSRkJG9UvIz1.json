@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 129844,
+  "num_followers": 129962,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODg3NWRkN2YzODA1YjBkMWMzZjcyYTA0OTgwNGNiNzRjNjVkMmM1",
+  "snapshot_id": "MCwwY2E5ODg4NWRiOGJlZmU5MjZhYzdkMGE3ODFiMzU5MTg3MGJlOTc2",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sujeito Homem 2",
-        "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
-      },
-      "artists": [
-        {
-          "name": "Rappin' Hood",
-          "url": "https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 435141,
-      "name": "Rap du Bom Parte II - M\u00fas. Incid.: Odara",
-      "url": "https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 294049,
       "name": "Mantra (feat. Emicida)",
       "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Sujeito Homem 2",
+        "url": "https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD"
+      },
+      "artists": [
+        {
+          "name": "Rappin' Hood",
+          "url": "https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 435141,
+      "name": "Rap du Bom Parte II - M\u00fas. Incid.: Odara",
+      "url": "https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Maris",
-        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
-      },
-      "artists": [
-        {
-          "name": "JORGE",
-          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Maris",
-      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Maris",
+        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
+      },
+      "artists": [
+        {
+          "name": "JORGE",
+          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Maris",
+      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
     },
     {
       "added_at": "2023-06-23 03:00:00",

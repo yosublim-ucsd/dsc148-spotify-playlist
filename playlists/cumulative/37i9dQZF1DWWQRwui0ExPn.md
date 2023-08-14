@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,840 songs - 9 day 5 hr 28 min
+5,841 songs - 9 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,7 @@
 | [Coconut Spark](https://open.spotify.com/track/38GvOCh3zrLOJPJXPJNBPO) | [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov), [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [Island EP](https://open.spotify.com/album/34e1zmPILYBAy18etHDj4L) | 1:49 | 2021-08-22 | 2022-03-11 |
 | [Coda](https://open.spotify.com/track/12JdWwiV78PX7kk4szt9Kw) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Coda](https://open.spotify.com/album/5zfhrLtyrhVrQ3eE2E9gTF) | 2:30 | 2021-05-29 | 2022-01-14 |
 | [Codeine and Klonopin](https://open.spotify.com/track/5CrBa1Tijp07bdS51mxP9q) | [Houch](https://open.spotify.com/artist/0jjB4e12tyakyer4E2BQQQ) | [Codeine and Klonopin](https://open.spotify.com/album/6ohhsLCW5DbkbmoiHEEvCv) | 1:36 | 2019-09-08 | 2021-04-20 |
-| [Coffe grounds](https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:04 | 2023-05-03 |  |
+| [Coffe grounds](https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:04 | 2023-05-03 | 2023-08-14 |
 | [Coffee After Midnight](https://open.spotify.com/track/1a1jmPAOreXCUwMP7lQmvm) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Coffee After Midnight](https://open.spotify.com/album/0ruKXGArdRQ5NpsOty7T7p) | 1:33 | 2022-09-23 | 2022-11-20 |
 | [Coffee After Midnight](https://open.spotify.com/track/54rXR1bURHKOPSGfOEjxcU) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Coffee After Midnight](https://open.spotify.com/album/1WB7NcgyQ6x9HB3bks1Lff) | 1:33 | 2022-11-18 | 2023-01-07 |
 | [Coffee and Cigarettes](https://open.spotify.com/track/22mkGKfOluJSqU8I4Gmgg2) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Coffee and Cigarettes](https://open.spotify.com/album/29PGiwkzkK9DMkzP6P4f4m) | 2:25 | 2020-11-13 | 2021-03-06 |
@@ -1472,7 +1472,7 @@
 | [Dusk](https://open.spotify.com/track/3JrAC5rdyvLUJq5XMbZ3Zp) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dusk \| Promises](https://open.spotify.com/album/1FLI0D0LmF17hBC2VXbSx3) | 2:26 | 2022-06-03 | 2022-09-30 |
 | [Dusk](https://open.spotify.com/track/0Qpz1xMQHPosxi02PjkWV6) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dusk](https://open.spotify.com/album/2g1nSJCrqwwWkGobR3UE45) | 2:09 | 2019-11-29 | 2021-07-29 |
 | [Dust](https://open.spotify.com/track/4m1FwVSBYIYTPC7aBX51Q5) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY) | [Dust & Dewdrops](https://open.spotify.com/album/7Fmi3qtArVd1mnWHCunMAd) | 1:39 | 2022-09-09 | 2022-12-09 |
-| [Dust & Sparkles](https://open.spotify.com/track/4Luprz2j3NKRjiEcajDK6E) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Dust & Sparkles](https://open.spotify.com/album/4XY5ByryG4cSTaXpXzwqQb) | 1:58 | 2022-12-02 | 2023-07-26 |
+| [Dust & Sparkles](https://open.spotify.com/track/4Luprz2j3NKRjiEcajDK6E) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Dust & Sparkles](https://open.spotify.com/album/4XY5ByryG4cSTaXpXzwqQb) | 1:58 | 2022-12-02 |  |
 | [Dust Off](https://open.spotify.com/track/7wrnd72doJ1pKj24WEhVMF) | [Moqita](https://open.spotify.com/artist/2ezmheGjqcQYkczSc2v2pU) | [Dust Off](https://open.spotify.com/album/0ELZquT1AevBvIBuljukKD) | 4:19 | 2022-09-02 | 2022-12-03 |
 | [Dust Off](https://open.spotify.com/track/4tBYkfHXgFCiMkFLViWNGh) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Dust Off](https://open.spotify.com/album/32Grdmzfsw78UhSwK5zFgB) | 1:47 | 2022-08-12 | 2022-11-18 |
 | [Dusty Donuts](https://open.spotify.com/track/6iRgcGnxISRX7aGayWUyUG) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Dusty Donuts/Two Lovers at Teatime](https://open.spotify.com/album/6o0iraY2SZheUxifaifwkR) | 1:53 | 2022-09-23 | 2023-01-13 |
@@ -1644,6 +1644,7 @@
 | [F o r e s t](https://open.spotify.com/track/2vz1rP3JhYLP3nsPtTOd8x) | [Flippin' Beats](https://open.spotify.com/artist/6F3wYLUR85zKuw1ARGi4Qq) | [Forest](https://open.spotify.com/album/1a73YVj1nP1wUQpmQjt8Xt) | 1:25 | 2021-07-04 | 2022-03-12 |
 | [Faca](https://open.spotify.com/track/7MTItAc254gZCqeiN1y9yG) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Faca](https://open.spotify.com/album/4WpPT7IE1ZfJrOf54ia5bt) | 2:15 | 2021-08-22 | 2022-03-21 |
 | [Faces](https://open.spotify.com/track/5n16dEoZ1OwdpqOIK13m1X) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Faces](https://open.spotify.com/album/67qmIPe1qBlLUS4jSvm4nC) | 2:13 | 2019-05-26\* | 2020-06-03 |
+| [Facetime](https://open.spotify.com/track/4vUF4dSTvzOWIZu6Qrtf9D) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [Facetime](https://open.spotify.com/album/3oCisMWFsg0Yh7PaafmIjJ) | 2:05 | 2023-08-10 |  |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2021-11-05 | 2022-05-27 |
 | [Fade To Dawn](https://open.spotify.com/track/1yXAd2cV8iuryyrrfe7I73) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Fade To Dawn](https://open.spotify.com/album/4hUYjD0WL1t4KGjw4Z6WCh) | 2:25 | 2022-07-01 | 2022-10-28 |
 | [Faded](https://open.spotify.com/track/5P48DPidY9hIBJlDI4k418) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Faded](https://open.spotify.com/album/0adsF7LfoVtSzG2Ky1dhdi) | 2:27 | 2022-12-16 |  |
@@ -2904,7 +2905,7 @@
 | [Living Check](https://open.spotify.com/track/0oCcxaQsRKkD95HCmkqCRh) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Living Check](https://open.spotify.com/album/04vK6RMa3xrVDSuzlxrg6j) | 2:47 | 2023-03-08 |  |
 | [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 | 2021-03-06 | 2022-01-12 |
 | [Lluvia](https://open.spotify.com/track/0Q6ZxMbRcYCjYPtgw53lbF) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG) | [Lluvia](https://open.spotify.com/album/2CndP93iZffMhDmSRkn3qt) | 2:05 | 2022-10-14 | 2022-12-16 |
-| [Lluvia Azul](https://open.spotify.com/track/2CnpibBCEGKHiANk5wImnr) | [The Kozy Kabin](https://open.spotify.com/artist/3ALy4uNz5JoMRSuAjRMpsy), [Luis Wijaya](https://open.spotify.com/artist/00IJC5cYMdgJBc4yQbFY7K) | [Lluvia Azul](https://open.spotify.com/album/3URldlHbsN70lZCMIxMV40) | 2:48 | 2023-01-13 |  |
+| [Lluvia Azul](https://open.spotify.com/track/2CnpibBCEGKHiANk5wImnr) | [The Kozy Kabin](https://open.spotify.com/artist/3ALy4uNz5JoMRSuAjRMpsy), [Luis Wijaya](https://open.spotify.com/artist/00IJC5cYMdgJBc4yQbFY7K) | [Lluvia Azul](https://open.spotify.com/album/3URldlHbsN70lZCMIxMV40) | 2:48 | 2023-01-13 | 2023-08-14 |
 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 | 2022-12-16 |  |
 | [Lo\-Fi Carnival](https://open.spotify.com/track/5GGVLyvFwH5iTjtGNxUjDY) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Lo\-Fi Carnival](https://open.spotify.com/album/507aumPxaPEW4zRCWwnCeo) | 3:28 | 2022-07-22 | 2022-12-03 |
 | [Lo\-Fi Grinder](https://open.spotify.com/track/1gChm0wIt5EzsegHaw11iL) | [Singexi](https://open.spotify.com/artist/7b4BfFC1VqROXvH7FZRhVZ) | [Lo\-Fi Grinder](https://open.spotify.com/album/79h5OSgFz8ZN92qKTYe61s) | 1:52 | 2022-04-15 | 2022-10-14 |

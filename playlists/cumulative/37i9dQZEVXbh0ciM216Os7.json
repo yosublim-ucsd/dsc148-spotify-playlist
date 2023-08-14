@@ -8257,6 +8257,24 @@
     },
     {
       "album": {
+        "name": "Scream & Shout (Metal Version)",
+        "url": "https://open.spotify.com/album/5F11RYmd0x6EHHJ6SewF5h"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259859,
+      "name": "Scream & Shout (Metal Version)",
+      "url": "https://open.spotify.com/track/6nhPqiiB5sy8E5hDfpsdeT"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },

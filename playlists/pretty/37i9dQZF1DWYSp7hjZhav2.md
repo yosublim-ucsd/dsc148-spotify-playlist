@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,926 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,021 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 |
+| 1 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 |
 | 2 | [The Return](https://open.spotify.com/track/7LBiCJ7XAOBvH9He1lmFmT) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return/Of Me](https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL) | 8:08 |
-| 3 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 |
+| 3 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:05 |
 | 4 | [Exhumed](https://open.spotify.com/track/7gyw3YWBwbxqicO8gMLDEw) | [Carlo Maria](https://open.spotify.com/artist/3dE8C2U7e2v1XRIrQCyUHV) | [INVERNO](https://open.spotify.com/album/3u8ANhMcfac0MV5GUOjh6R) | 5:02 |
 | 5 | [Desire](https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Desire](https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq) | 3:19 |
 | 6 | [A Matter of Time \- Frank Wiedemann Remix](https://open.spotify.com/track/43Y9cFRKAa3KQr5GFdfUdD) | [Alex Banks](https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE), [Elizabeth Bernholz](https://open.spotify.com/artist/4uhZ0DUrKO4UMF2VcUxUaG), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [A Matter of Time](https://open.spotify.com/album/6P2UQTCD1wWTql6mRWx1rO) | 7:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 |
 | 85 | [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 |
 
-Snapshot ID: `MCxiMmIwMDA5ZTg5NzQ1Y2RkMGM2Y2Q0NDMzMzExNjg2ZTBiM2M0YTNl`
+Snapshot ID: `MCxlYjllMzBlMWIyYWFkZDFmYmUwMWQzMTM4MWQ3NjU5NzAyOWIwMzUw`

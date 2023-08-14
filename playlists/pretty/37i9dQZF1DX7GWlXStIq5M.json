@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove",
-  "num_followers": 363794,
+  "num_followers": 364020,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQ3NWFjYzdiYjNiN2YxMTg3Yzg1MTNmMjM0Y2MzZDY1MzgzNzFl",
+  "snapshot_id": "MCxiNDAxMTdkM2FhYWFhOTYyNTRmOTAyYWJiYjIwN2IzYTY0YTFkY2Y0",
   "tracks": [
     {
       "added_at": "2023-08-11 03:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Macetar",
-        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "Macetar",
-      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 204235,
       "name": "Fiu Fiu",
       "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
+        "name": "Macetar",
+        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "Macetar",
+      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "ANESTESIA",
-        "url": "https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 142658,
-      "name": "ANESTESIA",
-      "url": "https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
         "name": "Coisas Simples",
         "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 157772,
       "name": "Coisas Simples",
       "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
+        "name": "ANESTESIA",
+        "url": "https://open.spotify.com/album/2jHqfa5pVSOI0giNVlDB0c"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 142658,
+      "name": "ANESTESIA",
+      "url": "https://open.spotify.com/track/1soqtHYm1K8oChNDEmpZrP"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
         "name": "Calcinha",
         "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 178041,
       "name": "Calcinha",
       "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
+        "name": "T\u00e1 Perigoso",
+        "url": "https://open.spotify.com/album/017pC3mwq2WijMtZvS56C6"
+      },
+      "artists": [
+        {
+          "name": "Vicky Luz",
+          "url": "https://open.spotify.com/artist/3HBipplYt0v6iziX9hzTEa"
+        }
+      ],
+      "duration_ms": 126076,
+      "name": "T\u00e1 Perigoso",
+      "url": "https://open.spotify.com/track/3IvaepXOLl9K7sMgIBIRuo"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
         "name": "INTERESSANTE",
         "url": "https://open.spotify.com/album/6ui7pzTTnJ4zhnf7faJxMB"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 136806,
       "name": "INTERESSANTE",
       "url": "https://open.spotify.com/track/7LfB0vUbSF4O592hVxKVKl"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
-        "name": "T\u00e1 Perigoso",
-        "url": "https://open.spotify.com/album/017pC3mwq2WijMtZvS56C6"
-      },
-      "artists": [
-        {
-          "name": "Vicky Luz",
-          "url": "https://open.spotify.com/artist/3HBipplYt0v6iziX9hzTEa"
-        }
-      ],
-      "duration_ms": 126076,
-      "name": "T\u00e1 Perigoso",
-      "url": "https://open.spotify.com/track/3IvaepXOLl9K7sMgIBIRuo"
     },
     {
       "added_at": "2023-08-11 03:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-08-11 03:01:00",
       "album": {
+        "name": "MEU 1\u00ba APARTAMENTO",
+        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "MEU 1\u00ba APARTAMENTO",
+      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
+    },
+    {
+      "added_at": "2023-08-11 03:01:00",
+      "album": {
         "name": "Escala de D\u00f3",
         "url": "https://open.spotify.com/album/4oI2poa1RjCuob6xPxE665"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 203586,
       "name": "Escala de D\u00f3",
       "url": "https://open.spotify.com/track/4yM4uFB0hm2nWL6DzaWphz"
-    },
-    {
-      "added_at": "2023-08-11 03:01:00",
-      "album": {
-        "name": "MEU 1\u00ba APARTAMENTO",
-        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "MEU 1\u00ba APARTAMENTO",
-      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
     },
     {
       "added_at": "2023-08-11 03:01:00",

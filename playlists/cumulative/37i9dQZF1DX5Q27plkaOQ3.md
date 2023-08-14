@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-389 songs - 22 hr 13 min
+390 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [ELIMINATE](https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [ELIMINATE](https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo) | 2:12 | 2021-12-17 | 2022-07-25 |
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2023-01-06 |  |
 | [Encrypted](https://open.spotify.com/track/0AP5MX9obbI3ExcNqK13t8) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Encrypted](https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j) | 3:58 | 2022-07-01 | 2022-09-02 |
-| [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 |  |
+| [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 | 2023-08-14 |
 | [Escape \(feat\. Hayla\) \- Subtronics Remix](https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Subtronics Remix\]](https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc) | 3:45 | 2022-06-24 | 2022-11-17 |
 | [Escape \- Subtronics Remix](https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Escape \(Subtronics Remix\)](https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c) | 3:45 | 2022-11-11 |  |
 | [Event Horizon](https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [INVCT](https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK) | [Event Horizon](https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX) | 2:52 | 2023-04-28 |  |
@@ -357,6 +357,7 @@
 | [Teardrop](https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Teardrop](https://open.spotify.com/album/3CNLbkYxHTAHaryZmy8oCo) | 4:25 | 2022-09-09 |  |
 | [Technicolour Psychic Vision](https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Technicolour Psychic Vision](https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ) | 2:54 | 2022-11-18 |  |
 | [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 | 2022-11-19 |
+| [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-11 |  |
 | [The Blood \(VIP\)](https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [The Blood \(VIP\)](https://open.spotify.com/album/1EOCEm6RPojx6UVxfHoqk4) | 4:36 | 2022-11-18 |  |
 | [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 | 2023-07-15 |
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |

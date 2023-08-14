@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 26281,
+  "num_followers": 26295,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDIwNmZiMTI0OGNmNWQ0YTBmMDg5YmQxZWFkNmEzZTkwOTAxZTE3",
+  "snapshot_id": "MCwyOTUzODcwYzQ4NDY2NmNjMjNiNDE4OGFjZjMxNzlhMTIzMjYxMGQ3",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
-      },
-      "artists": [
-        {
-          "name": "TAKE",
-          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
-        }
-      ],
-      "duration_ms": 269731,
-      "name": "Butterfly Grave (2015)",
-      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/07gANgRTKm7Zlw2xwvTXzt"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 249000,
       "name": "\ud574\ubc14\ub77c\uae30 (\uadf8\ub140\uc5d0\uac8c..)",
       "url": "https://open.spotify.com/track/7zARJQchG2thlF1o1Px9J6"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
+      },
+      "artists": [
+        {
+          "name": "TAKE",
+          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
+        }
+      ],
+      "duration_ms": 269731,
+      "name": "Butterfly Grave (2015)",
+      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
     },
     {
       "added_at": "2022-06-13 13:22:46",

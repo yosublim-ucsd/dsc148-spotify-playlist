@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,995 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,118 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 33 | [狐と書生](https://open.spotify.com/track/5FFVfW9YeKECbTd3D5vhc8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [赤狐書生 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2FNZ5VQ1qbxZbc8TjfZvhN) | 3:16 |
 | 34 | [天空の城ラピュタ](https://open.spotify.com/track/4LwucQallV2W12OqJoLMBl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [WORLD DREAMS](https://open.spotify.com/album/5xIlbLoLnwYrlPj7FsYqo5) | 6:30 |
 | 35 | [il porco rosso](https://open.spotify.com/track/3CO5ts5kDH6KLX4OJPB40P) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Orchestra Città di Ferrara](https://open.spotify.com/artist/1RvgYjzuKbLKaNI5UAyc4P) | [NOSTALGIA \~PIANO STORIES III\~](https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr) | 4:52 |
-| 36 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/5Cpu7flGktb3B0LI8OhTwP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Another Piano Stories \~The End of the World\~](https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y) | 2:48 |
+| 36 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/5Cpu7flGktb3B0LI8OhTwP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Another Piano Stories ～The End of the World～](https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y) | 2:48 |
 | 37 | [Departures](https://open.spotify.com/track/6kActPvKfzYPA425u5PW5x) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [メロディフォニー](https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1) | 8:18 |
 | 38 | [「もののけ姫」組曲 \- Live](https://open.spotify.com/track/1QvJdMm7R2Xp5T0eagZOUU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [真夏の夜の悪夢 \(Live\)](https://open.spotify.com/album/61qcmMGMLgDCh2oGUqJJHc) | 8:31 |
 | 39 | [Labyrinth of Eden](https://open.spotify.com/track/0JOD85cRNVI7qbLz8NBaQP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ENCORE](https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ) | 3:33 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 45 | [Les Aventuriers](https://open.spotify.com/track/4lv9gt6KoDIZDiU2cM9M58) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Pan Strings](https://open.spotify.com/artist/2FRsJ3vZp5ElXXF8NAiMOr) | [PIANO STORIES II \~The Wind of Life\~](https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi) | 4:33 |
 | 46 | [Nocturne](https://open.spotify.com/track/5KtrhKfLd0Wf1h6yF04VqX) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [NOSTALGIA \~PIANO STORIES III\~](https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr) | 4:12 |
 | 47 | [Fragile Dream](https://open.spotify.com/track/03Sj5KoXtZQWdY9PPMLNe4) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:35 |
-| 48 | [Departures: Theme of Departures](https://open.spotify.com/track/6Xqk4JL8Xt5knqisCoSWXz) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Another Piano Stories \~The End of the World\~](https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y) | 3:29 |
+| 48 | [Departures: Theme of Departures](https://open.spotify.com/track/6Xqk4JL8Xt5knqisCoSWXz) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Another Piano Stories ～The End of the World～](https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y) | 3:29 |
 | 49 | [World Dreams](https://open.spotify.com/track/2uT63HrwAiIVmRx6gkZ6op) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [W.D.O\. BEST](https://open.spotify.com/album/2VyoOeOqbzLO1JRhJHwm3N) | 4:52 |
 | 50 | [The End of the World for Vocalists and Orchestra: II\. Grace of the St\. Paul \- Live at JOE HISAISHI & WORLD DREAM ORCHESTRA 2015](https://open.spotify.com/track/41aWoKdlIsIvGK6xSyporJ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [The End of the World](https://open.spotify.com/album/3fjsOIWZVmmSwVaiQpW2Bi) | 8:56 |
 | 51 | [FOR YOU \- 『水の旅人\-侍 Kids』より](https://open.spotify.com/track/1bho2IWBI9PP2csaUiHGH1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [WORKS・I](https://open.spotify.com/album/6HmZwqLsuQm2cuPVXDpDid) | 4:15 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 62 | [Birthday](https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:13 |
 | 63 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 |
 
-Snapshot ID: `MCxjMjVkOWViNzNhYjhhMDk2MThlNGEzMmE4YjNjZWQyZjNiMDE5YzMw`
+Snapshot ID: `MCwyODI3MjUzYzViNGYyZTExM2UzM2E5NmQ0ZmRiZDVkMzNhODVhZDc2`

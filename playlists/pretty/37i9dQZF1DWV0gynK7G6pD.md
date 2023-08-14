@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Plínio Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,998 likes - 66 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,034 likes - 66 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 65 | [Serenata "Venere e Amore": Sinfonia](https://open.spotify.com/track/4tFzix7f2gxWB472Ta25wW) | [Alessandro Scarlatti](https://open.spotify.com/artist/5HGksnSVY91s4g1SOHHACw), [Dorothee Oberlinger](https://open.spotify.com/artist/4tNu4aa5uCnB7nNN81jpYl), [Ensemble 1700](https://open.spotify.com/artist/0RHGEJLDX2uHfCHqdhf1qD) | [Serenata "Venere e Amore": Sinfonia](https://open.spotify.com/album/4yuBULeHbDbp5sqCaoMYLx) | 4:15 |
 | 66 | [7 Lyric Pieces, Op\. 71: No\. 3, Puck](https://open.spotify.com/track/0FqIcELQ6WQXNIHgqtuQMe) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Oliver Schnyder](https://open.spotify.com/artist/2ET6W1XDgwXDuzwu17Sxko) | [7 Lyric Pieces, Op\. 71: No\. 3, Puck](https://open.spotify.com/album/2rxBOAHwstJfBsN80RhuUu) | 1:02 |
 
-Snapshot ID: `MCw3YTA4NzA2YjQ3MjA2NDRjYmRkMWEzMTNlODkyNTBjMzIwNDNhZWZh`
+Snapshot ID: `MCw3NWUxYTgzZmQyNjkwZjNmNTVhNGQ3YzZhY2E5MDE3YmRmMWE0Mzdh`

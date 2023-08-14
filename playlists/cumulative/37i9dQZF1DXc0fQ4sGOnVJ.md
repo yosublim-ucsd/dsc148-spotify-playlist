@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-158 songs - 9 hr 4 min
+159 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [It Ain't Over Yet](https://open.spotify.com/track/1I3jpw3JLC1reCHuUHjNLT) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Mud Digger 8](https://open.spotify.com/album/2weteiUe1r6MNppMZmDwqk) | 2:50 | 2021-05-21 | 2022-08-21 |
 | [Jack In My Coke](https://open.spotify.com/track/4poAPSYXyl4aAJFbtLxAT0) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Kickin' Up Mud: The Hits](https://open.spotify.com/album/1pb03iQj1bISSfoABG0a9E) | 3:52 | 2022-10-14 | 2022-11-14 |
 | [Jack In My Coke](https://open.spotify.com/track/149jFcOq3geYOKnwF9DQT7) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/0N5anKkS2ywpioukIuU5YC) | 3:52 | 2023-05-19 | 2023-08-10 |
+| [Jack in My Coke](https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949) | 3:52 | 2023-05-19 |  |
 | [Jack In My Coke](https://open.spotify.com/track/6Kf1VcLce0JzSNvngjhi4q) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/4dQZO3ENU8TkhieFWFlDoL) | 3:52 | 2022-07-22 | 2023-05-19 |
 | [Jack in My Coke \(feat\. Montgomery Gentry\)](https://open.spotify.com/track/3fkuueBznTgIz9Qx6C2Vp8) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Jack in My Coke \(feat\. Montgomery Gentry\)](https://open.spotify.com/album/6k0hsOodPPxHni9Hwdvka7) | 3:52 | 2021-05-21 | 2022-07-29 |
 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 | 2021-05-21 |  |
@@ -108,7 +109,7 @@
 | [Ready To Go](https://open.spotify.com/track/3RJwIKKr7JW5VnvF5DTAiF) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Ready To Go](https://open.spotify.com/album/74sorV00iU5plRn8nQ27e5) | 3:10 | 2023-04-28 |  |
 | [Ready To Go](https://open.spotify.com/track/3S5Y7dgTwR6AFgRM5UQaGk) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Ready To Go](https://open.spotify.com/album/6z7Nn8aGTbb3Yek7Alrkbj) | 3:10 | 2022-10-14 | 2023-05-19 |
 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 | 2021-05-21 |  |
-| [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 | 2021-11-05 |  |
+| [Redneck for Life](https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Redneck for Life](https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML) | 2:52 | 2021-11-05 | 2023-08-14 |
 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 | 2022-03-18 |  |
 | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/track/6llkjVv0O5lSXD56Ns7R6b) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI) | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/album/3QUpdmU4KAaXYviYcy0Du6) | 2:57 | 2021-05-21 | 2023-05-24 |
 | [Remember My Name](https://open.spotify.com/track/7eE8qUTi5in1pkshmphRec) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [Remember My Name](https://open.spotify.com/album/1cZnPFq1ExNM8hYynZXP2H) | 3:04 | 2021-08-06 | 2023-05-27 |

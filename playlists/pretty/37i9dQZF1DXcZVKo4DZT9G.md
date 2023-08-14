@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,833 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,903 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 29 | [Cry Baby](https://open.spotify.com/track/2xYjRSPVcNyF40XIqQKB4e) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [perfect seamo](https://open.spotify.com/album/245SebGanlsvp4qhnXgJY0) | 5:16 |
 | 30 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
-Snapshot ID: `MCwyZTQ3YTk2NjU4OTcxYTUxNzIwZWNlZmJhNDkxZjllNDQ4NTA5ZTc4`
+Snapshot ID: `MCxiODQyM2FjMTYwMGZhNWNjZjZjMmIwMjU5NTYxNWE3N2YzOGI2M2I3`

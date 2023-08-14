@@ -1,15 +1,15 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 10210,
+  "num_followers": 10224,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxOTU5ODEsMDAwMDAwMDA0ZjhkYjYwYmYxNTlhMWVlM2Q5Y2ZiZDdmMWFlYmZmMg==",
+  "snapshot_id": "MjgxOTg4MTcsMDAwMDAwMDBmYzM2ZDI1ZDMxYTZkNzE5MzE2OTViMjcxNTE4NGRlNw==",
   "tracks": [
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
       },
       "artists": [
         {
@@ -52,60 +52,12 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+      "duration_ms": 268586,
+      "name": "See You When I Git There",
+      "url": "https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Natural Man / Classic Lou",
-        "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "A Natural Man",
-      "url": "https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 134426,
-      "name": "Love Is A Hurtin' Thing",
-      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Groovy People",
-      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
@@ -121,7 +73,55 @@
       "url": "https://open.spotify.com/track/7lemF5PY2O8aGkhHUyz2Bp"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Natural Man / Classic Lou",
+        "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "A Natural Man",
+      "url": "https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 134426,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Groovy People",
+      "url": "https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
@@ -141,39 +141,7 @@
       "url": "https://open.spotify.com/track/529bZN7XbpbDog5xQqC3wA"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
@@ -189,7 +157,39 @@
       "url": "https://open.spotify.com/track/3lgZGL0dlI7ZLp3xlWWd0K"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "One Life to Live",
+      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
@@ -209,10 +209,10 @@
       "url": "https://open.spotify.com/track/6GQJ5QhnjnkxwKOjSJzHnC"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
         {
@@ -220,12 +220,12 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 233146,
-      "name": "One Life to Live",
-      "url": "https://open.spotify.com/track/7K5oM0YifHysADifGna69g"
+      "duration_ms": 240640,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
@@ -241,39 +241,7 @@
       "url": "https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 325853,
-      "name": "Let Me Be Good to You",
-      "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
@@ -289,7 +257,39 @@
       "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 325853,
+      "name": "Let Me Be Good to You",
+      "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Blue Note Plays Bossa Nova",
         "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "There Will Be Love",
-      "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
@@ -353,7 +337,23 @@
       "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "There Will Be Love",
+      "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Unmistakably Lou",
         "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Nobody But Lou",
         "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/1TKnomDQTCtUQEKdGwaE5S"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Portrait Of The Blues",
         "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Lou Rawls (Unplugged) Philadelphia - Chicago - Detroit [Live]",
         "url": "https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi"
@@ -469,23 +469,7 @@
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
-        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "Lifetime Monologue - Remastered",
-      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Legendary Lou Rawls",
         "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
@@ -501,7 +485,23 @@
       "url": "https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
+        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 111586,
+      "name": "Lifetime Monologue - Remastered",
+      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
@@ -549,7 +549,27 @@
       "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Stormy Monday (Original Album - Digitally Remastered)",
+        "url": "https://open.spotify.com/album/1jW4WcvIKURSkpAZ0wFH8T"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "They Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "The Best Of Lou Rawls - The Capitol Jazz & Blues Sessions",
         "url": "https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp"
@@ -565,23 +585,7 @@
       "url": "https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "I Can't Make It Alone: The Axelrod Years",
-        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
@@ -597,7 +601,23 @@
       "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "I Can't Make It Alone: The Axelrod Years",
+        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Unmistakably Lou",
         "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/4sy7qMHNQCBGJGLjwmnPt7"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
@@ -669,7 +689,27 @@
       "url": "https://open.spotify.com/track/67jdi6oftdZ6Fb6MzzkA5n"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann Ltd.",
+          "url": "https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Blues Is A Woman",
+      "url": "https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Anthology-Lou Rawls",
         "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
@@ -701,23 +741,7 @@
       "url": "https://open.spotify.com/track/0MuK8gUKHaj9PdlOxgvygy"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
@@ -733,7 +757,7 @@
       "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/2h0PMVMul2UYYkef8i0OHZ"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
@@ -765,7 +789,23 @@
       "url": "https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+    },
+    {
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Legendary Lou Rawls",
         "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
@@ -785,27 +825,7 @@
       "url": "https://open.spotify.com/track/7ykrjb0F8haiGHwXobEY1q"
     },
     {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 357040,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
+      "added_at": "2023-08-13 12:17:48",
       "album": {
         "name": "Lou Rawls And Strings",
         "url": "https://open.spotify.com/album/1T75XVkrO7ppPS6PdleIuK"
@@ -819,22 +839,6 @@
       "duration_ms": 173333,
       "name": "Three O'Clock In The Morning",
       "url": "https://open.spotify.com/track/3WEb8n860JzyMxnRASarOI"
-    },
-    {
-      "added_at": "2023-08-11 13:01:48",
-      "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/67kL3Ynn7m3sl8gkharjQb"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "After The Lights Go Down Low",
-      "url": "https://open.spotify.com/track/0wUvmSed5xOamtUlTvdIHC"
     }
   ],
   "unique_name": "This Is Lou Rawls",

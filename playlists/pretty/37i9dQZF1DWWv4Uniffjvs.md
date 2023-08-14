@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,844 likes - 62 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,935 likes - 62 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 61 | [Off the Chain](https://open.spotify.com/track/5IIYhNj3ZjZY5PiPm2gait) | [Esteban Desigual](https://open.spotify.com/artist/0mJAZF7hzZLGRIi0BcIzXT) | [Mais qui est donk Esteban Desigual ?](https://open.spotify.com/album/5zOL958MZpjOe0EkuTODq8) | 6:30 |
 | 62 | [Chaser](https://open.spotify.com/track/23amdGss9M8IsqPYVOSjgk) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Chaser](https://open.spotify.com/album/6miF1egb56mZUr17xeNJI3) | 5:55 |
 
-Snapshot ID: `MCxiM2I3ZTk1NGYyNjNhODEwZTk2ZmU5YWFhYzkzOTYyNGEzYWUyMDJm`
+Snapshot ID: `MCwzZTM3YTk3YzI5NzIyMzVkZGMzYTdmODY3Yzg4ZGJjMDU1NTZmNDc3`

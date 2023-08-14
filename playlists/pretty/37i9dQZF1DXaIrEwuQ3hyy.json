@@ -1,12 +1,12 @@
 {
   "description": "Klingt nach Sonne und Meer, egal wo du bist.",
-  "num_followers": 1000168,
+  "num_followers": 1000472,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Q5MGQ3ZTViZDU5YzljNjU5YTFmNWRhOTRmNzlmNDdkNzNjZTI2",
+  "snapshot_id": "MCw2YjcyNzQ2NjZhZTczNTc0MjAyMzhlMGU0MGNlZjliODViMWZiYjI5",
   "tracks": [
     {
       "added_at": "2023-07-26 13:31:18",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "low down",
-        "url": "https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "Dan Fable",
-          "url": "https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq"
-        }
-      ],
-      "duration_ms": 182923,
-      "name": "low down",
-      "url": "https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03"
-    },
-    {
-      "added_at": "2023-07-26 13:31:18",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": "2023-07-26 13:31:18",
+      "album": {
+        "name": "low down",
+        "url": "https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "Dan Fable",
+          "url": "https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq"
+        }
+      ],
+      "duration_ms": 182923,
+      "name": "low down",
+      "url": "https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -791,26 +791,18 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+        "name": "Get It Done",
+        "url": "https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Sharktank",
+          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
         }
       ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+      "duration_ms": 204144,
+      "name": "Washed Up",
+      "url": "https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -831,18 +823,26 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Get It Done",
-        "url": "https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM"
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
       "artists": [
         {
-          "name": "Sharktank",
-          "url": "https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 204144,
-      "name": "Washed Up",
-      "url": "https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9"
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-07-26 13:31:18",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2023-07-26 13:31:18",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "palmtreedays_1644.wav",
-        "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
+        "name": "Am Ende des Tages",
+        "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
         }
       ],
-      "duration_ms": 248093,
-      "name": "palmtreedays_1644.wav",
-      "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
+      "duration_ms": 195000,
+      "name": "Bisschen wach",
+      "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
     },
     {
       "added_at": "2023-07-26 13:31:18",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2023-07-26 13:31:18",
       "album": {
-        "name": "Am Ende des Tages",
-        "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
+        "name": "palmtreedays_1644.wav",
+        "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
       },
       "artists": [
         {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
-        },
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Bisschen wach",
-      "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
+      "duration_ms": 248093,
+      "name": "palmtreedays_1644.wav",
+      "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
     },
     {
       "added_at": "2023-07-26 13:31:18",

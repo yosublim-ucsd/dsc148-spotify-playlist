@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 170006,
+  "num_followers": 170055,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRhYWE4M2Q5MjAyZDliZjA1MDllOTQ3ZmU2MTg5OGE2YzY0Mjdj",
+  "snapshot_id": "MCw2MWQ5M2Q3NzZhZmM0OTExOGVjZmQ4Y2NjNTNkYWUxMjM1ZWJmOWY4",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -327,8 +327,8 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -423,8 +423,8 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -551,30 +551,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
-        "url": "https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P"
-      },
-      "artists": [
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        },
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 222047,
-      "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
-      "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "This Is Elodie",
         "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 243333,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
+        "url": "https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P"
+      },
+      "artists": [
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 222047,
+      "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
+      "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "San Siro Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 243453,
       "name": "Meraviglioso - Live",
       "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Samuele Bersani",
+        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
+      },
+      "artists": [
+        {
+          "name": "Samuele Bersani",
+          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Giudizi universali",
+      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Soundtrack '96 - 06 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Samuele Bersani",
-        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
-      },
-      "artists": [
-        {
-          "name": "Samuele Bersani",
-          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Giudizi universali",
-      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
     },
     {
       "added_at": "2023-02-20 09:56:57",

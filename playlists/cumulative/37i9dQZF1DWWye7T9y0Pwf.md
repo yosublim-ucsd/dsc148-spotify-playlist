@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5Uy8Skuxzxf38jMDTndKIU">Populous</a>'s favorite tracks\. Updated regularly\. Curated by Populous\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-422 songs - 1 day 5 hr 58 min
+423 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Knockin' On Heaven's Door 2 \(feat\. EMMANUELLE\)](https://open.spotify.com/track/1tf1LPCLyLFeZTg4OEjt3p) | [Pablo Suzuki スズキ](https://open.spotify.com/artist/1jTLoAuKfeNHUOJSsP00Wn), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Knockin' On Heaven's Door 2 \(feat\. EMMANUELLE\)](https://open.spotify.com/album/2iGqYDiKE31XD94TA40U4Y) | 2:55 | 2022-12-01 | 2022-12-20 |
 | [La Mujer Dormida](https://open.spotify.com/track/2MTe2I1QXBjzENkgtMYEFZ) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Malagüera](https://open.spotify.com/artist/5YXZvDM2mB1EgnmIqFlGGD) | [La Mujer Dormida](https://open.spotify.com/album/3moNvtoOQnVkbHJ3Gmw3xc) | 3:33 | 2023-01-10 | 2023-02-16 |
 | [LA TIERRA](https://open.spotify.com/track/3iJpX8quuenCgK0SxEbjvL) | [SOSI POSI](https://open.spotify.com/artist/7cP5C4mXhZE75ubOdiqEtD) | [SOSI POSI](https://open.spotify.com/album/4mgo7mZkxydrxI9pu2bGil) | 4:22 | 2023-03-22 | 2023-06-15 |
-| [Lazy Days \- Wallace Remix](https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lazy Days \(Wallace Remix\)](https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy) | 5:13 | 2023-08-03 |  |
+| [Lazy Days \- Wallace Remix](https://open.spotify.com/track/35WdWgyZaE5vjnafQfcgAs) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/00Z0S72Fd8PwVcbXW6ZpKY) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 5:13 | 2023-08-03 |  |
+| [Lazy Days \- Wallace Remix](https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lazy Days \(Wallace Remix\)](https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy) | 5:13 | 2023-08-03 | 2023-08-14 |
 | [Lean Beef Patty](https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Lean Beef Patty](https://open.spotify.com/album/5ee7NlaQZi5TYOXRghp04b) | 1:47 | 2023-03-22 | 2023-06-15 |
 | [Left Right](https://open.spotify.com/track/2btk5GEqRr2Wwyk4pPEAte) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [TKD](https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV) | [Left Right](https://open.spotify.com/album/2r6yJRCza2Tas0jTCEjyht) | 1:59 | 2022-10-03 | 2022-11-09 |
 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 | 2023-06-14 | 2023-07-04 |
