@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,061 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,075 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Cho Em Quá Giang](https://open.spotify.com/track/3R42syCEXXWYvAWd9ynQew) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Xander Quỳnh](https://open.spotify.com/artist/5RbdA5BHJeiJFt4JSKyTFY), [Nghia](https://open.spotify.com/artist/6dyqPCphvUITLI3JSkW2TH) | [Cho Em Quá Giang](https://open.spotify.com/album/66sCiGGV5DPl3sQR9Tdf3b) | 3:37 |
 | 100 | [Một Đóa Hồng](https://open.spotify.com/track/1HKq8VXzFKFkp0Zd8P6bPg) | [Lưu Hiền Trinh](https://open.spotify.com/artist/29hovPFGCgeyNPRMjfVhzP) | [Một Đóa Hồng](https://open.spotify.com/album/0HAmNecrIuTDLWlVTyndsP) | 3:21 |
 
-Snapshot ID: `MCw4MTU5NzM3NTkxMzZjZDVlMTk2YzRhZWUwNjJjMmEyNzRkMTlkZWI4`
+Snapshot ID: `MCxjMzg3Yzk4OWQ4ODMwZmQ1MDhjYjgyODgyNzk2ZWUzZTVmNjBmZjY0`

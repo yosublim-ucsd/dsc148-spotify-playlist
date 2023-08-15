@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jetter\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,590 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,595 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 73 | [Impyerno](https://open.spotify.com/track/7Lj832i7rzbNrKLf5pTdlu) | [Oni Demi](https://open.spotify.com/artist/63vNlIoiYygF2uvL5PyahJ) | [Impyerno](https://open.spotify.com/album/5cvrwRqjja21MYKWsLehNi) | 5:04 |
 | 74 | [Pito](https://open.spotify.com/track/2tRjPcG5oCKvLWWVXxOMwC) | [Pot Sembrano](https://open.spotify.com/artist/0Unzb7F5a32lt7jZlaLyul) | [Pito](https://open.spotify.com/album/6N5ojKpGD0Q3EvYc9Qhr7I) | 3:56 |
 
-Snapshot ID: `MCw5YWEyMGFlZDYxNDNiMjVhOTU2YTkwYjk1MmY3ODMwMDgzYjA1YWJj`
+Snapshot ID: `MCwyYTU1YzJkZWEwNDNkODRmNGRlN2ZiZDBhOWU4ZDQxNjQ1NTNhYmNm`

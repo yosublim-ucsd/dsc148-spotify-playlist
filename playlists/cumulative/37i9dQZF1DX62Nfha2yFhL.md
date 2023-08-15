@@ -4,7 +4,7 @@
 
 > every day soul with a funky groove for a laid back day.
 
-146 songs - 8 hr 31 min
+147 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 | 2023-02-10 |  |
 | [Intentions](https://open.spotify.com/track/4eI6gfUfYEK7bU6wxPcVIB) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Big Sleepover](https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q) | 3:43 | 2022-02-18 | 2022-11-12 |
 | [Intentions](https://open.spotify.com/track/4K9cCtDfk9pr6EGFzl0ec8) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Intentions](https://open.spotify.com/album/3Ltqe8yE6rI8XuIxjGZ0In) | 3:43 | 2021-10-22 | 2022-07-29 |
-| [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 | 2022-07-22 |  |
+| [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 | 2022-07-22 | 2023-08-15 |
+| [It Never Rains \- In SoCal](https://open.spotify.com/track/4eNMY2zIzPuJWzEWxGCpLl) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/3HktqNsXBuCenI3v9yjo8c) | 4:16 | 2022-07-22 |  |
 | [King James](https://open.spotify.com/track/0TtSoFrbLGjmpIgY4KgBeq) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [King James](https://open.spotify.com/album/4oLEB2ABMfxqC6mchADZp7) | 3:17 | 2021-10-22 | 2022-07-29 |
 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 | 2022-02-18 |  |
 | [Last Love](https://open.spotify.com/track/15hQDO74LAH1lXyqUDVNc4) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Last Love](https://open.spotify.com/album/6R6X46dtWsfUxWXoh2amTF) | 2:33 | 2021-10-22 |  |

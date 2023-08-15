@@ -7034,7 +7034,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Gemelo",
       "url": "https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0"
@@ -8400,7 +8400,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -12753,6 +12753,32 @@
     },
     {
       "album": {
+        "name": "No Estamos En Gente",
+        "url": "https://open.spotify.com/album/7LpadGFmTyUefNKCEjBGhn"
+      },
+      "artists": [
+        {
+          "name": "Hache Theraccoon",
+          "url": "https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw"
+        },
+        {
+          "name": "Cozmek Jabon",
+          "url": "https://open.spotify.com/artist/6yPK2L5kvTxaDipfDlGHfK"
+        },
+        {
+          "name": "Di Fame",
+          "url": "https://open.spotify.com/artist/34jzzrvqEXprPZjR3CJB7q"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183007,
+      "name": "No Estamos En Gente",
+      "url": "https://open.spotify.com/track/3OrG4F2sjNS37unSSNKaVY"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -12968,6 +12994,24 @@
       "duration_ms": 169614,
       "name": "No Spang",
       "url": "https://open.spotify.com/track/1HXTpsTUycGVExkP0O05Ie"
+    },
+    {
+      "album": {
+        "name": "No Te Creo",
+        "url": "https://open.spotify.com/album/7dlyZBRiCDwJgUmhWesB00"
+      },
+      "artists": [
+        {
+          "name": "R.K.M.",
+          "url": "https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "No Te Creo",
+      "url": "https://open.spotify.com/track/7sJOGOO2laiHYAwFdZ1wgJ"
     },
     {
       "album": {
@@ -14446,7 +14490,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 139440,
       "name": "PILE VAINA",
       "url": "https://open.spotify.com/track/1YDHVT5ySsLdlkWuabNNms"
@@ -15374,7 +15418,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -15564,7 +15608,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 124137,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
@@ -20024,7 +20068,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"

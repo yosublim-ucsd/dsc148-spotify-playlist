@@ -722,6 +722,28 @@
     {
       "album": {
         "name": "Pyaar Prema Kaadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46lQIQOAUOOKiOZFYFPJHh"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240169,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/0zDmCKN7OlRmNmeiiJAyOR"
+    },
+    {
+      "album": {
+        "name": "Pyaar Prema Kaadhal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4byzDhvVyWc8kakTvxfejQ"
       },
       "artists": [
@@ -758,7 +780,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 240169,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP"

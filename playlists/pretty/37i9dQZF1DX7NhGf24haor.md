@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Sefa
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,668 likes - 103 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,788 likes - 103 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 102 | [Reflections](https://open.spotify.com/track/4yuqtzwV5flMo1HkXOMSu1) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Reflections](https://open.spotify.com/album/1lYXabkqizoZa0Ke8EbaH1) | 3:02 |
 | 103 | [We Will Not Survive](https://open.spotify.com/track/50HCFXshG5t7h425CJkFFa) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [We Will Not Survive](https://open.spotify.com/album/2KfhWaZovhHKdJuY5AfYmO) | 3:35 |
 
-Snapshot ID: `MCxmOGRjZWYyMzI4MzNlMjdhNjk3ZDgzNTAwNTlmMzZjMjAzMzQ1YjI1`
+Snapshot ID: `MCwyNGRmZDE1YTk1YzM3NTg0MWFhMmJkNjYwZGYwNWU3ODRjZTk3MmJl`

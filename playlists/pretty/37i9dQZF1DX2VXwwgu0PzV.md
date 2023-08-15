@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=GA1\_LOtxQ6OfApyVMoNiZA">Folabi Nuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,158 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,241 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 69 | [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 |
 | 70 | [Hosanna Mukole](https://open.spotify.com/track/593i9CXpQQi4hUaB7ubpBA) | [Omo Ebira Beatz](https://open.spotify.com/artist/61XMQEHMW5CaTIntkMVf9U) | [Hosanna Mukole](https://open.spotify.com/album/2Z6n8masZtu2yY2TBQPa8v) | 2:09 |
 
-Snapshot ID: `MCxhMDRmMWE1ZmMzZjM2NTYzYzQ4NTMzOWJmODRmODFhMTM1OTBjNGY3`
+Snapshot ID: `MCw1M2IwYmM2MjRiOGI0NzUwOTJjZTlkMjgyZjA0ZjhmNzU4ZDg3NmRm`

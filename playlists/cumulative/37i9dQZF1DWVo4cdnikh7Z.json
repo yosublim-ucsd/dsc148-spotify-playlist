@@ -647,32 +647,6 @@
     },
     {
       "album": {
-        "name": "Adiyae (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/2oCdQD2ATgodmpYChR6vto"
-        },
-        {
-          "name": "Padmaja Sreenivasan",
-          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
-        }
-      ],
-      "date_added": "2023-08-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211510,
-      "name": "Adiyae",
-      "url": "https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm"
-    },
-    {
-      "album": {
         "name": "Adiyae Adiyae (From \"Nandhivarman\") - Single",
         "url": "https://open.spotify.com/album/4zNA1MZoBvWulVG9xklJef"
       },
@@ -4594,7 +4568,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 230189,
       "name": "French Kuthu",
       "url": "https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj"
@@ -4690,7 +4664,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 150761,
       "name": "Goinda Goinda",
       "url": "https://open.spotify.com/track/1xDX4EC5qG3uSj1FVdnkq9"
@@ -4782,6 +4756,28 @@
       "duration_ms": 169000,
       "name": "Grill Chicken",
       "url": "https://open.spotify.com/track/5qNbTuvltLwCrwtUr32g9o"
+    },
+    {
+      "album": {
+        "name": "Hayyoda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200142,
+      "name": "Hayyoda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R"
     },
     {
       "album": {
@@ -5156,7 +5152,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 166956,
       "name": "I'm So Prabalam",
       "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
@@ -8437,6 +8433,36 @@
     },
     {
       "album": {
+        "name": "Love Panna Podhume (From \"Locker\")",
+        "url": "https://open.spotify.com/album/4wTSMytRRR2F9VhZkDNKRP"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "M.M.Monissha",
+          "url": "https://open.spotify.com/artist/6n20A1n2i0woFveIrKJHKT"
+        },
+        {
+          "name": "Vykunth Srinivasan",
+          "url": "https://open.spotify.com/artist/6YuYtbKvKJVuXOSHJYYr4D"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Love Panna Podhume (From \"Locker\")",
+      "url": "https://open.spotify.com/track/6W5Pq0XotZWFO56CPPgqRt"
+    },
+    {
+      "album": {
         "name": "Lovela Vizhundha (From \"Rayar Parambarai\")",
         "url": "https://open.spotify.com/album/1qjz42bGXiOwuKZxNgStAr"
       },
@@ -10294,7 +10320,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 269096,
-      "name": "Muttaa Cutie",
+      "name": "Mutta Cutie",
       "url": "https://open.spotify.com/track/7fmAdHvPU2Lkt7TN68zsoU"
     },
     {
@@ -10472,7 +10498,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 235800,
       "name": "Naamadhan Raja - From \"Lucky Man\"",
       "url": "https://open.spotify.com/track/0MiHiYzNAU6fkYdJoAXrlt"
@@ -17204,6 +17230,32 @@
       "duration_ms": 199206,
       "name": "Ulla Valikkuthu (From \"Vinveli Devathai\")",
       "url": "https://open.spotify.com/track/0SlWYr72hYnXYusNDbOn9w"
+    },
+    {
+      "album": {
+        "name": "Adiyae (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211510,
+      "name": "Ullukulla Theekaadu",
+      "url": "https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm"
     },
     {
       "album": {

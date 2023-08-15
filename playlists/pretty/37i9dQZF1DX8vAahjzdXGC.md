@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,321 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,364 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [Last Bite](https://open.spotify.com/track/0b6OaKlmNGqPH1LElAFOAx) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Sleepless Mentality](https://open.spotify.com/album/4QuBFVJDDVkYweqV4SIUue) | 2:48 |
 | 97 | [maraschino](https://open.spotify.com/track/5DSB71uDcChPUK9EjFHWvZ) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [spice village](https://open.spotify.com/album/3VWqYKSHeAYT8bm7X6lbcl) | 2:41 |
 
-Snapshot ID: `MCwyMWZkMGIzOWM5MDFiY2NhNjJjMjU2ZGQ1MDZlMGU1MzE4N2JlMzU2`
+Snapshot ID: `MCw2NjZiZmQ0YWVjZWVhZjhmMDNlYjgwY2UwNTJiZDAxYTMxNmVkMGQ2`

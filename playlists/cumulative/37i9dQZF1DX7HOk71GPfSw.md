@@ -4,7 +4,7 @@
 
 > Cover: A\. G\. Cook
 
-1,805 songs - 3 day 10 hr 4 min
+1,806 songs - 3 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,6 +752,7 @@
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [homesick](https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [homesick](https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj) | 2:07 | 2023-01-06 | 2023-07-22 |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2021-03-14 | 2022-07-16 |
+| [Hometown Hero](https://open.spotify.com/track/0y4yDgUYYRZFrFxF66wOVq) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Rodeo Star](https://open.spotify.com/album/55MAGWwfOt8b8Qfxd6pa8m) | 2:55 | 2023-08-14 |  |
 | [Honest](https://open.spotify.com/track/0yKBeWzLv3gnPDPTHojTNF) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Honest](https://open.spotify.com/album/5BcYD4JghzAgbZJ4N74OFL) | 2:15 | 2021-10-26 | 2022-02-24 |
 | [honest \(Himera Remix\)](https://open.spotify.com/track/2A3pkp45DvDE55Psv8pCK4) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [honest \(Himera Remix\)](https://open.spotify.com/album/1V8Y88xZCGPSaSlppnTqGP) | 4:35 | 2022-06-17 | 2022-07-23 |
 | [honest \(Jane Remover Remix\)](https://open.spotify.com/track/6jc2E1F6HoowXqvdwCoUOa) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU), [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [honest \(Jane Remover Remix\)](https://open.spotify.com/album/2bxrQuBr4LBuoXGyaEBVc1) | 3:05 | 2022-07-22 | 2022-08-06 |

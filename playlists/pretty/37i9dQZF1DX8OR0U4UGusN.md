@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,112 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,163 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 75 | [Can U Meet Me There](https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s) | [Issadora Ava](https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl) | [Can U Meet Me There](https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u) | 3:32 |
 | 76 | [Looks](https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:53 |
 | 77 | [Too Late \(To Call\)](https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Too Late \(To Call\)](https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz) | 3:41 |
-| 78 | [benny!](https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:25 |
-| 79 | [keep in touch](https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF) | [Nxtime](https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [keep in touch](https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK) | 3:29 |
+| 78 | [keep in touch](https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF) | [Nxtime](https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [keep in touch](https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK) | 3:29 |
+| 79 | [benny!](https://open.spotify.com/track/6hDJWLmPebVbFrDC9hw1Ry) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:25 |
 | 80 | [My Demise](https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [My Demise](https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot) | 2:16 |
 | 81 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 82 | [BITTER](https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [BITTER](https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw) | 4:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 96 | [bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb) | [Fantasy Camp](https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j) | [long way home](https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG) | 3:06 |
 | 97 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
 | 98 | [Magic City](https://open.spotify.com/track/3YJS5rTnXPsQgzZyIyC3Xw) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [Magic City](https://open.spotify.com/album/1HTYkylMaJEJzTeDCGfjt8) | 2:24 |
-| 99 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
-| 100 | [14GRAMS](https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [14GRAMS](https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5) | 3:02 |
+| 99 | [Feels Like Yesterday](https://open.spotify.com/track/2UnhQgwBpyZlOtcvhDlx1Y) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Feels Like Yesterday](https://open.spotify.com/album/027AHWfrY6McSuGQc4knI2) | 2:56 |
+| 100 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
 
-Snapshot ID: `MCxhZDFjMGFiNzI0YWVhOWNkMzYzMDdlMWIyYzY2ZDA2MWIzYWExYmU1`
+Snapshot ID: `MCw2YTE3NmU0YWExOTczZDU3OGM0N2EyMjNkMTE3MjJjZjM4MzhkMjc4`

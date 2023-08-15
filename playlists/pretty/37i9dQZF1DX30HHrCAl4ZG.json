@@ -1,12 +1,12 @@
 {
   "description": "All new indie rock. Featuring new music by spill tab.",
-  "num_followers": 848229,
+  "num_followers": 848239,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzVkNzBmYTc1NDg4NjAyNjdlMTA4MjA5ODhjMzc3OTVhMTdkNTE3",
+  "snapshot_id": "MCw1Y2YxN2ZhZTE0MjY4Mjg5NmU3YTJkNWM5NzIxNjA3NzcyMmVlYTMw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -107,6 +107,22 @@
       "duration_ms": 197962,
       "name": "Did I Mention I\u2019m Sorry",
       "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
+    },
+    {
+      "added_at": "2023-08-14 14:10:50",
+      "album": {
+        "name": "Greg Abbott's Maxi Pad",
+        "url": "https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D"
+      },
+      "artists": [
+        {
+          "name": "Farmer's Wife",
+          "url": "https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Greg Abbott's Maxi Pad",
+      "url": "https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -604,8 +620,8 @@
       },
       "artists": [
         {
-          "name": "Boy Genius",
-          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
         },
         {
           "name": "Julien Baker",
@@ -975,8 +991,8 @@
     {
       "added_at": "2023-07-28 14:33:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD"
       },
       "artists": [
         {
@@ -986,7 +1002,7 @@
       ],
       "duration_ms": 213647,
       "name": "Circles",
-      "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
+      "url": "https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 224373,
       "name": "No Stranger",
       "url": "https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj"
-    },
-    {
-      "added_at": "2023-06-09 17:23:24",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML"
-      },
-      "artists": [
-        {
-          "name": "Telescreens",
-          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ"
     },
     {
       "added_at": "2023-06-30 04:01:00",

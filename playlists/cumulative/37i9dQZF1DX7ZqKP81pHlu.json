@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 220540,
       "name": "Achfa",
       "url": "https://open.spotify.com/track/0Q7rY5KgKlvmBjvYYMpEFM"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 237333,
       "name": "Bent Sultan",
       "url": "https://open.spotify.com/track/5XvzmPFcVRlfdlCw3KK2Jb"
@@ -580,10 +580,36 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 179083,
       "name": "Bondia",
       "url": "https://open.spotify.com/track/5fu9Sc4DNuvQMWo5BxmgKH"
+    },
+    {
+      "album": {
+        "name": "C'est carr\u00e9 le S",
+        "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "C'est carr\u00e9 le S",
+      "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
     },
     {
       "album": {
@@ -631,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
         "name": "Chayef Ch'hal",
         "url": "https://open.spotify.com/album/78AH3bGTSnqg3TXCdKGvv3"
       },
@@ -646,6 +694,24 @@
       "duration_ms": 199196,
       "name": "Chayef Ch'hal",
       "url": "https://open.spotify.com/track/4OtsNadXnYK0NDgmlZSCs8"
+    },
+    {
+      "album": {
+        "name": "Classico",
+        "url": "https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V"
+      },
+      "artists": [
+        {
+          "name": "Cheb Bilal",
+          "url": "https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Classico",
+      "url": "https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx"
     },
     {
       "album": {
@@ -798,7 +864,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 282087,
       "name": "Djaya Djaya",
       "url": "https://open.spotify.com/track/7vvO018dZNQLvOLn6UyjdV"
@@ -926,7 +992,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 250146,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/0OMWSq7rLnzzZk8xto8BR8"
@@ -1229,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Galbi Khasah Molah",
+        "url": "https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT"
+      },
+      "artists": [
+        {
+          "name": "Cheba Warda",
+          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266900,
+      "name": "Galbi Khasah Molah",
+      "url": "https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s"
+    },
+    {
+      "album": {
         "name": "GHAZALI",
         "url": "https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC"
       },
@@ -1284,6 +1368,28 @@
       "duration_ms": 196595,
       "name": "GHAZALI",
       "url": "https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA"
+    },
+    {
+      "album": {
+        "name": "Ghir Enti",
+        "url": "https://open.spotify.com/album/2Z2BC5qzu48N2roU7SC8Wc"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        },
+        {
+          "name": "Yasmine Ammari",
+          "url": "https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Ghir Enti",
+      "url": "https://open.spotify.com/track/1ZboOiAPI8yQ3wYOnOzxg7"
     },
     {
       "album": {
@@ -1426,6 +1532,24 @@
       "duration_ms": 238110,
       "name": "H\u00e9r\u00e9ditaire",
       "url": "https://open.spotify.com/track/6T76ooly64vILBrarOWqFY"
+    },
+    {
+      "album": {
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/7AIkWWjVVsrVk9vATMuFVo"
+      },
+      "artists": [
+        {
+          "name": "Mouh Milano",
+          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230209,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD"
     },
     {
       "album": {
@@ -1725,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Ma3lich Ya 9albi",
+        "url": "https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn"
+      },
+      "artists": [
+        {
+          "name": "Cheb Adoula",
+          "url": "https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch"
+        },
+        {
+          "name": "Cheb Djalil",
+          "url": "https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94552,
+      "name": "Ma3lich Ya 9albi",
+      "url": "https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe"
+    },
+    {
+      "album": {
         "name": "Ma3lich ya 9albi",
         "url": "https://open.spotify.com/album/1pFjyyY15J1iChq4xAMJYW"
       },
@@ -1962,7 +2108,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 260209,
       "name": "Mazalni",
       "url": "https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp"
@@ -2093,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Ndamt 3Lik",
+        "url": "https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51"
+      },
+      "artists": [
+        {
+          "name": "Cheb Momo",
+          "url": "https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363154,
+      "name": "Ndamt 3Lik",
+      "url": "https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d"
+    },
+    {
+      "album": {
         "name": "Nebghiha Fort",
         "url": "https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU"
       },
@@ -2108,6 +2272,28 @@
       "duration_ms": 184032,
       "name": "Nebghiha Fort",
       "url": "https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD"
+    },
+    {
+      "album": {
+        "name": "Newton",
+        "url": "https://open.spotify.com/album/0eSEWoVZAfEDCMy1YG2JFQ"
+      },
+      "artists": [
+        {
+          "name": "Du Nord au Sud",
+          "url": "https://open.spotify.com/artist/5OQnHEOqzAEJyDWwmrpGr4"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Newton",
+      "url": "https://open.spotify.com/track/4VfoPNqtRWrNUMhuCNnsjX"
     },
     {
       "album": {
@@ -2246,7 +2432,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 177163,
       "name": "nrml",
       "url": "https://open.spotify.com/track/3KXqOio8jnBKwYSoft0zmn"
@@ -2330,7 +2516,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 181289,
       "name": "Oublie-moi",
       "url": "https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F"
@@ -2439,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Sahr Lyali",
+        "url": "https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw"
+      },
+      "artists": [
+        {
+          "name": "Bousmaha Mohamed",
+          "url": "https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q"
+        },
+        {
+          "name": "Amine La Colombe",
+          "url": "https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296685,
+      "name": "Sahr Lyali",
+      "url": "https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY"
+    },
+    {
+      "album": {
         "name": "Saint-Valentin",
         "url": "https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL"
       },
@@ -2454,6 +2662,28 @@
       "duration_ms": 181812,
       "name": "Saint-Valentin",
       "url": "https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN"
+    },
+    {
+      "album": {
+        "name": "Saiyan",
+        "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189829,
+      "name": "Saiyan",
+      "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
     },
     {
       "album": {
@@ -2566,7 +2796,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 188307,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/0SAznyiLIYzAQthw8n7o3t"
@@ -2726,7 +2956,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 163227,
       "name": "Wahrani",
       "url": "https://open.spotify.com/track/5gTsNTIQ17LSYHvkqXHwwO"
@@ -2828,6 +3058,24 @@
       "duration_ms": 194733,
       "name": "Ya lbahri",
       "url": "https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV"
+    },
+    {
+      "album": {
+        "name": "Ya Men 3ach",
+        "url": "https://open.spotify.com/album/3yJFWGqu2gS8JUEeJmLGyK"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207688,
+      "name": "Ya Men 3ach",
+      "url": "https://open.spotify.com/track/7HkC5x6gmkpZMsIbFeDTue"
     },
     {
       "album": {
@@ -3041,6 +3289,28 @@
     },
     {
       "album": {
+        "name": "\u062e\u0627\u0646\u0648 \u0627\u0644\u0627\u0645\u0627\u0646\u0629",
+        "url": "https://open.spotify.com/album/25Q5U0yO0Rxti9G6SO50l7"
+      },
+      "artists": [
+        {
+          "name": "Cheb Djalil",
+          "url": "https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ"
+        },
+        {
+          "name": "Tipo Belabbes",
+          "url": "https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "\u062e\u0627\u0646\u0648 \u0627\u0644\u0627\u0645\u0627\u0646\u0629",
+      "url": "https://open.spotify.com/track/5dljMPVyN4wzDiIa20IMzd"
+    },
+    {
+      "album": {
         "name": "\u0631\u0627\u0646\u064a \u0645\u062a\u0648\u062d\u0634\u0647\u0627",
         "url": "https://open.spotify.com/album/2SOLAAC856WVMRVBI8RGzD"
       },
@@ -3056,6 +3326,24 @@
       "duration_ms": 278000,
       "name": "\u0631\u0627\u0646\u064a \u0645\u062a\u0648\u062d\u0634\u0647\u0627",
       "url": "https://open.spotify.com/track/5eKSdvnmJ37bmmx6Fc0roG"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0645\u064a \u0635\u0627\u0644\u062d",
+        "url": "https://open.spotify.com/album/5bAfcA4BaWRBTU8kTqYBKv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Sghir",
+          "url": "https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264999,
+      "name": "\u0639\u0645\u064a \u0635\u0627\u0644\u062d",
+      "url": "https://open.spotify.com/track/2WS40EKnfgsLAO7iTtDkCi"
     },
     {
       "album": {

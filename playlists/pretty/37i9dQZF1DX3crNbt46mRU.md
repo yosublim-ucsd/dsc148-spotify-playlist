@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,681 likes - 108 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,680 likes - 108 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 108 | [1000 Mal](https://open.spotify.com/track/4n72i90zbKWVs8BSpEDCmO) | [Loco Candy](https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd) | [Treibsand](https://open.spotify.com/album/1yQfXbCPrKTHbYHp3amK6p) | 3:00 |
 
-Snapshot ID: `MCw1OTZiZGY5YzBmZTNkYmIwNTFjZGM2Yzg5NGVmOTYyY2ZlMzg1N2I0`
+Snapshot ID: `MCwwZGY0OWE2MGQxNzg5ZDIyMzU2MzFlNDY5YWU5YTMzMGRlMGJhYjcx`

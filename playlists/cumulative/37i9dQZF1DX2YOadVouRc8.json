@@ -3576,7 +3576,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
@@ -4712,6 +4712,24 @@
       "duration_ms": 152971,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv"
+    },
+    {
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132039,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
     },
     {
       "album": {

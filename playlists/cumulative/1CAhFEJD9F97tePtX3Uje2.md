@@ -4,7 +4,7 @@
 
 > 
 
-222 songs - 13 hr 15 min
+223 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Lunar Orbit](https://open.spotify.com/track/4JDXpjzsSmJCcnPpJbe6z0) | [Five Suns](https://open.spotify.com/artist/58bIS29PlIe7RhCSoHJnnq) | [Lunar Orbit](https://open.spotify.com/album/3YfE4KU7el3068i2J8rlyM) | 3:25 | 2019-11-07 |  |
 | [Mental Loop](https://open.spotify.com/track/7EovzLbZJ3mHcJ3239ytln) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:47 | 2021-07-04 |  |
 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-19 |  |
+| [Millennium](https://open.spotify.com/track/05MM2yRLitXXawfcjG2Fgc) | [SLEEP SPIRIT](https://open.spotify.com/artist/3lDVrf2eFWSBZm4EQrFsN3) | [Millennium](https://open.spotify.com/album/2ei19Xmi2aoOsGmoqltmbE) | 2:56 | 2023-08-14 |  |
 | [MISFORTUNE](https://open.spotify.com/track/2v3XiXADdx9wcmoLqzkyX7) | [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub), [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru) | [MISFORTUNE](https://open.spotify.com/album/0PIqngcqaFZ08s8SK2EuBW) | 2:59 | 2018-11-27 |  |
 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 | 2023-02-20 |  |
 | [Moon](https://open.spotify.com/track/5TIifxIVxDkXMsGaQsxjvB) | [nanebo](https://open.spotify.com/artist/0GItY0oa4LLOi7LBZ6f345) | [Moon](https://open.spotify.com/album/6e9D6OZsVXVgcQYJQaXcyh) | 2:44 | 2022-08-06 |  |

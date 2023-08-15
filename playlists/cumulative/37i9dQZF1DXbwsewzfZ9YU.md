@@ -2,7 +2,7 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> open the pit \- ft\. artists from <b>The Tribes Of Da Moon Festival</b>, taking place Aug 19\-20 at the iconic Bowery Ballroom in NYC\. More info <a href="https://linktr.ee/darksideofdamoon ">HERE</a>.
+> open the pit \- ft\. artists from The Tribes Of Da Moon Festival, taking place Aug 19\-20 at the iconic Bowery Ballroom in NYC\. More info <a href="https://linktr.ee/darksideofdamoon ">HERE</a>.
 
 145 songs - 6 hr 6 min
 

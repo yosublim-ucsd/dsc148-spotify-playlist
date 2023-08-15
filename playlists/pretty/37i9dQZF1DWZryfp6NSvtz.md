@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Hives
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,510 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,660 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 64 | [Chemicals](https://open.spotify.com/track/3cCyVW5cIxc6DoZPvK8nWe) | [Nevrlands](https://open.spotify.com/artist/1DNIohNOTsWcoNmp5sx3yx) | [Chemicals](https://open.spotify.com/album/0AxaNm78afsotACJJEtItX) | 3:17 |
 | 65 | [MEGAPHONE MOUTH](https://open.spotify.com/track/2G4PCGT78ZOVFZlpy4E6XM) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [MEGAPHONE MOUTH](https://open.spotify.com/album/1zKC4TgOWV32itGtbX8xDQ) | 2:06 |
 
-Snapshot ID: `MCxlOGY3YzI2NmI0OGVjNGJhYzFkNjdmZTI2Yzk4ZWUwYzczYWRjN2Nl`
+Snapshot ID: `MCxmZWMxYzM1MTdlNDJhMjI5NmRkM2YyNWM4NTdiYjAxMGIzZGQ0NGYw`

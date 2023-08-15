@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fredo \(pictured\), Olivia Rodrigo, Fred Again.\. and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,450 likes - 139 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,430 likes - 139 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 138 | [Lidocaine](https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Lidocaine](https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A) | 2:31 |
 | 139 | [Golden Highs](https://open.spotify.com/track/0jJZZit9EZdmbuG8lHPV4u) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Golden Highs](https://open.spotify.com/album/2qxq7n2YzyVwRBskiPFYn4) | 3:51 |
 
-Snapshot ID: `MCw0NTAxYmNiOWE3MjhjMjU5MTE4YWFjNWVjMGZmNjdiODhkNTUzNjI3`
+Snapshot ID: `MCw0ZDViNjcwYjc0ZDY4ZDJiNTEzZmM2NDI1OTViOGI1MWM0ODNiMWY5`

@@ -29428,7 +29428,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 184000,
       "name": "\u30b7\u30e5\u30ac\u30fc\u30b3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/5IBzIt35sNPfEpqKash4G9"
@@ -29866,6 +29866,24 @@
       "duration_ms": 229642,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
       "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ca\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/3Lc1YBq6bx1Cu2SgLIho0N"
+      },
+      "artists": [
+        {
+          "name": "Tamio Okuda",
+          "url": "https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229507,
+      "name": "\u30cf\u30ca\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/0K8ckD0WIk7AzgEkXDPoVC"
     },
     {
       "album": {

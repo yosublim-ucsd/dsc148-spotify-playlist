@@ -18391,6 +18391,24 @@
     },
     {
       "album": {
+        "name": "Pros and Cons",
+        "url": "https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164243,
+      "name": "Pros and Cons",
+      "url": "https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp"
+    },
+    {
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -26087,7 +26105,7 @@
     },
     {
       "album": {
-        "name": "Who Am I (feat. Twigg Martin)",
+        "name": "Who Am I",
         "url": "https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE"
       },
       "artists": [
@@ -26104,7 +26122,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122803,
-      "name": "Who Am I (feat. Twigg Martin)",
+      "name": "Who Am I",
       "url": "https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jessica Mauboy + Jason Derulo
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,465 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,496 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 89 | [Second Chance](https://open.spotify.com/track/3bVRFaa9FrYW53CdoiEA2h) | [The Screaming Jets](https://open.spotify.com/artist/3vgQA38yGGMvn4DHjsVre5) | [Second Chance](https://open.spotify.com/album/0zthdGXSPrODtS0EDVhIU5) | 4:14 |
 | 90 | [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 |
 
-Snapshot ID: `MCwzYTUyYzgyNjMxZjA2Yjg1MDY0MDRjYzBhNzkwM2FhYTk2NTMwYjQ5`
+Snapshot ID: `MCxiZjJjN2ExYTg3ZTljMjlkNjkwOTZhYTJmNTQ0Zjc3MTkxNzU4YzMy`

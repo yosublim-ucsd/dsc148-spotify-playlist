@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-186 songs - 11 hr 18 min
+187 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-07-08 |  |
 | [Help Me](https://open.spotify.com/track/0reXR4LnjbkmgJu5gNcF6t) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/3zDQRzZI2ZbCTGU7pYABj5) | 3:11 | 2022-05-25 | 2022-07-15 |
+| [Help Me](https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz) | [Sudsy Mcgee](https://open.spotify.com/artist/6oDhTADY9Px7WgDwXskAF1) | [Help Me](https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B) | 4:09 | 2023-08-10 |  |
 | [High Fever Blues](https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH) | [The Jujubes](https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN) | [Raging Moon](https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy) | 5:39 | 2023-01-20 | 2023-05-09 |
 | [Homecookin' Mama](https://open.spotify.com/track/5UYCzsjfLS29GfWlccU0yQ) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Homecookin' Mama](https://open.spotify.com/album/6kw3VuKvowP7pjnfBSwWkD) | 3:00 | 2023-01-20 | 2023-04-12 |
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
@@ -142,7 +143,7 @@
 | [Pay Day](https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 4:21 | 2022-05-27 |  |
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-05-25 | 2022-07-29 |
 | [Pray For Rain](https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Pray For Rain](https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz) | 3:13 | 2023-05-26 |  |
-| [Praying for Daylight](https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt) | [Angela Perley](https://open.spotify.com/artist/2U3xMvB5tzEWXO6lM6HMfg) | [Turn Me Loose](https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0) | 2:56 | 2023-07-14 |  |
+| [Praying for Daylight](https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt) | [Angela Perley](https://open.spotify.com/artist/2U3xMvB5tzEWXO6lM6HMfg) | [Turn Me Loose](https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0) | 2:56 | 2023-07-14 | 2023-08-15 |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2022-05-25 |  |
 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 | 2022-05-25 |  |
 | [Railroad Bill](https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:25 | 2023-01-20 | 2023-01-22 |

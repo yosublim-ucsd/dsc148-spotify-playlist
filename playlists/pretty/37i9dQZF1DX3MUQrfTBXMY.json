@@ -1,12 +1,12 @@
 {
   "description": "Headbangers of Bangladesh. Cover - Aftermath",
-  "num_followers": 32496,
+  "num_followers": 32550,
   "original_name": "Bangla Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNlNDJmMDNlM2FmZTdiOTFlOGE3MDdmYzM2MmE5OThlZDg1OGE2",
+  "snapshot_id": "MCxhMzYwZGY3NTJjZTliMDViNDUwNWYwMWE1ZDg4YjczNmRmNjYwYTNj",
   "tracks": [
     {
       "added_at": "2023-08-07 20:33:42",
@@ -43,50 +43,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7"
+        "name": "Punorjonmo",
+        "url": "https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn"
       },
       "artists": [
         {
-          "name": "Shironamhin",
-          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
+          "name": "Chondropith",
+          "url": "https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9"
         }
       ],
-      "duration_ms": 341023,
-      "name": "Ei Obelay",
-      "url": "https://open.spotify.com/track/5ibdXIQq154EYy4IbSZEKx"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Mayabee",
-        "url": "https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH"
-      },
-      "artists": [
-        {
-          "name": "Blue Touch",
-          "url": "https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc"
-        }
-      ],
-      "duration_ms": 242020,
-      "name": "Mayabee",
-      "url": "https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Chinnho",
-        "url": "https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM"
-      },
-      "artists": [
-        {
-          "name": "Encore",
-          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
-        }
-      ],
-      "duration_ms": 263079,
-      "name": "Srotoshinni",
-      "url": "https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY"
+      "duration_ms": 473271,
+      "name": "Punorjonmo",
+      "url": "https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -107,34 +75,50 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Punorjonmo",
-        "url": "https://open.spotify.com/album/0mIPFSHREKf2yXhgXPrImn"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7"
       },
       "artists": [
         {
-          "name": "Chondropith",
-          "url": "https://open.spotify.com/artist/25E9e3odwVN7nGzUuMRKW9"
+          "name": "Shironamhin",
+          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
         }
       ],
-      "duration_ms": 473271,
-      "name": "Punorjonmo",
-      "url": "https://open.spotify.com/track/25Hmu4UVzgiiv298sHjERP"
+      "duration_ms": 341023,
+      "name": "Ei Obelay",
+      "url": "https://open.spotify.com/track/5ibdXIQq154EYy4IbSZEKx"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "GhorGari",
-        "url": "https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9"
+        "name": "Chinnho",
+        "url": "https://open.spotify.com/album/2aLOCDq7vGHIO7OyDwQSuM"
       },
       "artists": [
         {
-          "name": "HIGHWAY",
-          "url": "https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg"
+          "name": "Encore",
+          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
         }
       ],
-      "duration_ms": 382066,
-      "name": "GhorGari",
-      "url": "https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI"
+      "duration_ms": 263079,
+      "name": "Srotoshinni",
+      "url": "https://open.spotify.com/track/0fLJBwZIGP33RP4nLyqKrY"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Mayabee",
+        "url": "https://open.spotify.com/album/5jK5GGn8Z76n8PZRTclzoH"
+      },
+      "artists": [
+        {
+          "name": "Blue Touch",
+          "url": "https://open.spotify.com/artist/0aL6Av2TQ6oCEi6ctrectc"
+        }
+      ],
+      "duration_ms": 242020,
+      "name": "Mayabee",
+      "url": "https://open.spotify.com/track/0sNM2ixLSvQyt1UvIyzej5"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -155,18 +139,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Bhaar",
-        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
+        "name": "GhorGari",
+        "url": "https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9"
       },
       "artists": [
         {
-          "name": "AvoidRafa",
-          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
+          "name": "HIGHWAY",
+          "url": "https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg"
         }
       ],
-      "duration_ms": 243691,
-      "name": "Ami Akash Pathabo",
-      "url": "https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ"
+      "duration_ms": 382066,
+      "name": "GhorGari",
+      "url": "https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -187,18 +171,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Obosheshey",
-        "url": "https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR"
+        "name": "Bhaar",
+        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
       },
       "artists": [
         {
-          "name": "Level Five",
-          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
+          "name": "AvoidRafa",
+          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
         }
       ],
-      "duration_ms": 323295,
-      "name": "60's Love",
-      "url": "https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA"
+      "duration_ms": 243691,
+      "name": "Ami Akash Pathabo",
+      "url": "https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -219,6 +203,38 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
+        "name": "Obosheshey",
+        "url": "https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR"
+      },
+      "artists": [
+        {
+          "name": "Level Five",
+          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
+        }
+      ],
+      "duration_ms": 323295,
+      "name": "60's Love",
+      "url": "https://open.spotify.com/track/3h78AziF7cEXfm50J2TNcA"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Porinita",
+        "url": "https://open.spotify.com/album/27MXNp9QGpVfaH06YTM7mJ"
+      },
+      "artists": [
+        {
+          "name": "Conclusion",
+          "url": "https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp"
+        }
+      ],
+      "duration_ms": 252750,
+      "name": "Porinita",
+      "url": "https://open.spotify.com/track/5fQBQdZwNcW1FKTuCXQWjU"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
         "name": "Bondhu",
         "url": "https://open.spotify.com/album/0JM0r6T23O3dQOxxZsbhZh"
       },
@@ -235,34 +251,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Obosthan",
-        "url": "https://open.spotify.com/album/3G19EnZhjQSyEGW1q5OQUq"
+        "name": "Amar Dehokhan (Official)",
+        "url": "https://open.spotify.com/album/0hvuNELjDIOjZvzooplf4C"
       },
       "artists": [
         {
-          "name": "HIGHWAY",
-          "url": "https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg"
+          "name": "Odd Signature",
+          "url": "https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Obosthan",
-      "url": "https://open.spotify.com/track/7Ka7NGOzmU1cnAyzma5Ens"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Koto dur | \u0995\u09a4 \u09a6\u09c2\u09b0",
-        "url": "https://open.spotify.com/album/4qV9YJUR55HFq0Yi8BuGaQ"
-      },
-      "artists": [
-        {
-          "name": "ADVERB BAND",
-          "url": "https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR"
-        }
-      ],
-      "duration_ms": 344443,
-      "name": "Koto dur | \u0995\u09a4 \u09a6\u09c2\u09b0",
-      "url": "https://open.spotify.com/track/2CLhH8TCdA8SFWGj1RvoB6"
+      "duration_ms": 430106,
+      "name": "Amar Dehokhan (Official)",
+      "url": "https://open.spotify.com/track/78EbJAZcUdahv84ZF2FyS1"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
+        "name": "Obosthan",
+        "url": "https://open.spotify.com/album/3G19EnZhjQSyEGW1q5OQUq"
+      },
+      "artists": [
+        {
+          "name": "HIGHWAY",
+          "url": "https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Obosthan",
+      "url": "https://open.spotify.com/track/7Ka7NGOzmU1cnAyzma5Ens"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
         "name": "Gorbo Bangladesh",
         "url": "https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO"
       },
@@ -303,8 +319,56 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Amar Dehokhan (Official)",
-        "url": "https://open.spotify.com/album/0hvuNELjDIOjZvzooplf4C"
+        "name": "Indraloy",
+        "url": "https://open.spotify.com/album/6HONfCDzDp54ebDcmea0fM"
+      },
+      "artists": [
+        {
+          "name": "Karnival",
+          "url": "https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl"
+        }
+      ],
+      "duration_ms": 234120,
+      "name": "Amar Shotto",
+      "url": "https://open.spotify.com/track/35Uzp2ni2zVTRYE2qeNMH9"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Ei Brishti Bheja Raate",
+        "url": "https://open.spotify.com/album/5udSAW80w1dapro72dnnFX"
+      },
+      "artists": [
+        {
+          "name": "George Lincoln D'Costa",
+          "url": "https://open.spotify.com/artist/20DQNJ7sBu2VqMnuDYXFOp"
+        }
+      ],
+      "duration_ms": 346920,
+      "name": "Ei Brishti Bheja Raate",
+      "url": "https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Shey Amare",
+        "url": "https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s"
+      },
+      "artists": [
+        {
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
+        }
+      ],
+      "duration_ms": 362254,
+      "name": "Shey Amare",
+      "url": "https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Dusshopno",
+        "url": "https://open.spotify.com/album/0AXTTesB1lQbgc4LfiJWum"
       },
       "artists": [
         {
@@ -312,9 +376,217 @@
           "url": "https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC"
         }
       ],
-      "duration_ms": 430106,
-      "name": "Amar Dehokhan (Official)",
-      "url": "https://open.spotify.com/track/78EbJAZcUdahv84ZF2FyS1"
+      "duration_ms": 306782,
+      "name": "Dusshopno",
+      "url": "https://open.spotify.com/track/6T4yBITRdTX6OsedSy5bwy"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Prottasha",
+        "url": "https://open.spotify.com/album/2zBBrsAOTZRmYIOcPTBG41"
+      },
+      "artists": [
+        {
+          "name": "Miles",
+          "url": "https://open.spotify.com/artist/6Q3N4VeQYqEzVDcYEfe5hh"
+        }
+      ],
+      "duration_ms": 293302,
+      "name": "Phiriye Dao",
+      "url": "https://open.spotify.com/track/5ajjsZ8TgVPiwN4ySTtAZz"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Na Pawar Golpo",
+        "url": "https://open.spotify.com/album/6q6vxChMMbZYeEHhiNNsXg"
+      },
+      "artists": [
+        {
+          "name": "Encore",
+          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
+        }
+      ],
+      "duration_ms": 301500,
+      "name": "Na Pawar Golpo",
+      "url": "https://open.spotify.com/track/1vz2SrkLov7vyaZEtZBJLK"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Tumi",
+        "url": "https://open.spotify.com/album/0KAkp5p9mfSCIqRfIduRcl"
+      },
+      "artists": [
+        {
+          "name": "Level Five",
+          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
+        }
+      ],
+      "duration_ms": 236408,
+      "name": "Tumi",
+      "url": "https://open.spotify.com/track/7iSWYBp3QGl3eQyv8l40hs"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "E Hawa",
+        "url": "https://open.spotify.com/album/1jqS7KAgEGIgcxViPCxnoM"
+      },
+      "artists": [
+        {
+          "name": "Meghdol",
+          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
+        }
+      ],
+      "duration_ms": 354330,
+      "name": "E Hawa",
+      "url": "https://open.spotify.com/track/5VIyjOoXddMARgRTtKVqXc"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Megh",
+        "url": "https://open.spotify.com/album/4zt0PYPzduetlLoKP6BCUF"
+      },
+      "artists": [
+        {
+          "name": "Stone Bangladesh",
+          "url": "https://open.spotify.com/artist/7Gl718NLA7dsFZ8bWvQELQ"
+        }
+      ],
+      "duration_ms": 302500,
+      "name": "Megh",
+      "url": "https://open.spotify.com/track/4GqfTI88KHKxUBTPUvIh9y"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Koto dur | \u0995\u09a4 \u09a6\u09c2\u09b0",
+        "url": "https://open.spotify.com/album/4qV9YJUR55HFq0Yi8BuGaQ"
+      },
+      "artists": [
+        {
+          "name": "ADVERB BAND",
+          "url": "https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR"
+        }
+      ],
+      "duration_ms": 344443,
+      "name": "Koto dur | \u0995\u09a4 \u09a6\u09c2\u09b0",
+      "url": "https://open.spotify.com/track/2CLhH8TCdA8SFWGj1RvoB6"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Tor Premete Ondho Holam",
+        "url": "https://open.spotify.com/album/5fU9HjoFqcKUESUn6ZBQfj"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/43DXfWPwwLghg7FIAfGmM8"
+        }
+      ],
+      "duration_ms": 312308,
+      "name": "Tor Premete Ondho Holam",
+      "url": "https://open.spotify.com/track/2NfzCLsMZ21npvmG43sxo5"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Aushomapto II",
+        "url": "https://open.spotify.com/album/2qL0SdDlqkQMyc8F2aP07w"
+      },
+      "artists": [
+        {
+          "name": "Aurthohin",
+          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
+        }
+      ],
+      "duration_ms": 305861,
+      "name": "Anmone 2",
+      "url": "https://open.spotify.com/track/4bDg8Sj2q5Y8R5uJEZGkXm"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Mixed Album Super Hit Vol. 1",
+        "url": "https://open.spotify.com/album/4PDa4Od5d6I6W8DZpDaPIW"
+      },
+      "artists": [
+        {
+          "name": "Ayub Bachchu",
+          "url": "https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF"
+        }
+      ],
+      "duration_ms": 353674,
+      "name": "Meye",
+      "url": "https://open.spotify.com/track/0mncMDi5ID5KTbeeBPBvzI"
+    },
+    {
+      "added_at": "2023-08-14 13:29:09",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/2ccWwV3F8ExvbQ258jCaj8"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "duration_ms": 404869,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/0pNFYOj2eRAvIBX5cFrmHc"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Avash",
+        "url": "https://open.spotify.com/album/1jKCQ198KBaclhaXMQEXiq"
+      },
+      "artists": [
+        {
+          "name": "Avash",
+          "url": "https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd"
+        }
+      ],
+      "duration_ms": 254911,
+      "name": "Avash",
+      "url": "https://open.spotify.com/track/3OBSXEoKdsC0lT6RZuozYY"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Bhaar",
+        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
+      },
+      "artists": [
+        {
+          "name": "AvoidRafa",
+          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cholo Arekbar Uri",
+      "url": "https://open.spotify.com/track/6BnrcE0vfX8ZcjpcXxRaoo"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Notun Srot",
+        "url": "https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy"
+      },
+      "artists": [
+        {
+          "name": "Shunno",
+          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Bedona",
+      "url": "https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -339,262 +611,6 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Na Pawar Golpo",
-        "url": "https://open.spotify.com/album/6q6vxChMMbZYeEHhiNNsXg"
-      },
-      "artists": [
-        {
-          "name": "Encore",
-          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
-        }
-      ],
-      "duration_ms": 301500,
-      "name": "Na Pawar Golpo",
-      "url": "https://open.spotify.com/track/1vz2SrkLov7vyaZEtZBJLK"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Mixed Album Super Hit Vol. 1",
-        "url": "https://open.spotify.com/album/4PDa4Od5d6I6W8DZpDaPIW"
-      },
-      "artists": [
-        {
-          "name": "Ayub Bachchu",
-          "url": "https://open.spotify.com/artist/7fP06sphQmnvvioXOWZMCF"
-        }
-      ],
-      "duration_ms": 353674,
-      "name": "Meye",
-      "url": "https://open.spotify.com/track/0mncMDi5ID5KTbeeBPBvzI"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "E Hawa",
-        "url": "https://open.spotify.com/album/1jqS7KAgEGIgcxViPCxnoM"
-      },
-      "artists": [
-        {
-          "name": "Meghdol",
-          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
-        }
-      ],
-      "duration_ms": 354330,
-      "name": "E Hawa",
-      "url": "https://open.spotify.com/track/5VIyjOoXddMARgRTtKVqXc"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Tor Premete Ondho Holam",
-        "url": "https://open.spotify.com/album/5fU9HjoFqcKUESUn6ZBQfj"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/43DXfWPwwLghg7FIAfGmM8"
-        }
-      ],
-      "duration_ms": 312308,
-      "name": "Tor Premete Ondho Holam",
-      "url": "https://open.spotify.com/track/2NfzCLsMZ21npvmG43sxo5"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Dusshopno",
-        "url": "https://open.spotify.com/album/0AXTTesB1lQbgc4LfiJWum"
-      },
-      "artists": [
-        {
-          "name": "Odd Signature",
-          "url": "https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC"
-        }
-      ],
-      "duration_ms": 306782,
-      "name": "Dusshopno",
-      "url": "https://open.spotify.com/track/6T4yBITRdTX6OsedSy5bwy"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "PURBAPOR",
-        "url": "https://open.spotify.com/album/3FczU5hSZZ5QBCq4TqqFAN"
-      },
-      "artists": [
-        {
-          "name": "ADVERB BAND",
-          "url": "https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "PURBAPOR",
-      "url": "https://open.spotify.com/track/2JccX3rLZQi4f2IE9c7b7o"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Notun Srot",
-        "url": "https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy"
-      },
-      "artists": [
-        {
-          "name": "Shunno",
-          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Bedona",
-      "url": "https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Tumi",
-        "url": "https://open.spotify.com/album/0KAkp5p9mfSCIqRfIduRcl"
-      },
-      "artists": [
-        {
-          "name": "Level Five",
-          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
-        }
-      ],
-      "duration_ms": 236408,
-      "name": "Tumi",
-      "url": "https://open.spotify.com/track/7iSWYBp3QGl3eQyv8l40hs"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Aushomapto II",
-        "url": "https://open.spotify.com/album/2qL0SdDlqkQMyc8F2aP07w"
-      },
-      "artists": [
-        {
-          "name": "Aurthohin",
-          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
-        }
-      ],
-      "duration_ms": 305861,
-      "name": "Anmone 2",
-      "url": "https://open.spotify.com/track/4bDg8Sj2q5Y8R5uJEZGkXm"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Ei Brishti Bheja Raate",
-        "url": "https://open.spotify.com/album/5udSAW80w1dapro72dnnFX"
-      },
-      "artists": [
-        {
-          "name": "George Lincoln D'Costa",
-          "url": "https://open.spotify.com/artist/20DQNJ7sBu2VqMnuDYXFOp"
-        }
-      ],
-      "duration_ms": 346920,
-      "name": "Ei Brishti Bheja Raate",
-      "url": "https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Porinita",
-        "url": "https://open.spotify.com/album/27MXNp9QGpVfaH06YTM7mJ"
-      },
-      "artists": [
-        {
-          "name": "Conclusion",
-          "url": "https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp"
-        }
-      ],
-      "duration_ms": 252750,
-      "name": "Porinita",
-      "url": "https://open.spotify.com/track/5fQBQdZwNcW1FKTuCXQWjU"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Shey Amare",
-        "url": "https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s"
-      },
-      "artists": [
-        {
-          "name": "Ashes",
-          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
-        }
-      ],
-      "duration_ms": 362254,
-      "name": "Shey Amare",
-      "url": "https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Prottasha",
-        "url": "https://open.spotify.com/album/2zBBrsAOTZRmYIOcPTBG41"
-      },
-      "artists": [
-        {
-          "name": "Miles",
-          "url": "https://open.spotify.com/artist/6Q3N4VeQYqEzVDcYEfe5hh"
-        }
-      ],
-      "duration_ms": 293302,
-      "name": "Phiriye Dao",
-      "url": "https://open.spotify.com/track/5ajjsZ8TgVPiwN4ySTtAZz"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Indraloy",
-        "url": "https://open.spotify.com/album/6HONfCDzDp54ebDcmea0fM"
-      },
-      "artists": [
-        {
-          "name": "Karnival",
-          "url": "https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl"
-        }
-      ],
-      "duration_ms": 234120,
-      "name": "Amar Shotto",
-      "url": "https://open.spotify.com/track/35Uzp2ni2zVTRYE2qeNMH9"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Avash",
-        "url": "https://open.spotify.com/album/1jKCQ198KBaclhaXMQEXiq"
-      },
-      "artists": [
-        {
-          "name": "Avash",
-          "url": "https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd"
-        }
-      ],
-      "duration_ms": 254911,
-      "name": "Avash",
-      "url": "https://open.spotify.com/track/3OBSXEoKdsC0lT6RZuozYY"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Megh",
-        "url": "https://open.spotify.com/album/4zt0PYPzduetlLoKP6BCUF"
-      },
-      "artists": [
-        {
-          "name": "Stone Bangladesh",
-          "url": "https://open.spotify.com/artist/7Gl718NLA7dsFZ8bWvQELQ"
-        }
-      ],
-      "duration_ms": 302500,
-      "name": "Megh",
-      "url": "https://open.spotify.com/track/4GqfTI88KHKxUBTPUvIh9y"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
         "name": "Best of James",
         "url": "https://open.spotify.com/album/1sKH2wZXCbi7TSArR9rSdc"
       },
@@ -607,54 +623,6 @@
       "duration_ms": 333229,
       "name": "Taray Taray",
       "url": "https://open.spotify.com/track/3Ty0K7mafgndKVXhYrDb1x"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Bhaar",
-        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
-      },
-      "artists": [
-        {
-          "name": "AvoidRafa",
-          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cholo Arekbar Uri",
-      "url": "https://open.spotify.com/track/6BnrcE0vfX8ZcjpcXxRaoo"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Shotto",
-        "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
-      },
-      "artists": [
-        {
-          "name": "Warfaze",
-          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
-        }
-      ],
-      "duration_ms": 397570,
-      "name": "Rupkotha",
-      "url": "https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Behula",
-        "url": "https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG"
-      },
-      "artists": [
-        {
-          "name": "Shunno",
-          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
-        }
-      ],
-      "duration_ms": 232977,
-      "name": "Behula",
-      "url": "https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -675,6 +643,22 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
+        "name": "Shotto",
+        "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "duration_ms": 397570,
+      "name": "Rupkotha",
+      "url": "https://open.spotify.com/track/1RESTN39VEH6lAq8H1D2Ud"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
         "name": "Provu",
         "url": "https://open.spotify.com/album/65CBawaHaqasNGO8BBMbm8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 286190,
       "name": "Provu",
       "url": "https://open.spotify.com/track/4IJ1xoz8M9omBst9dd9IKH"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Behula",
+        "url": "https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG"
+      },
+      "artists": [
+        {
+          "name": "Shunno",
+          "url": "https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk"
+        }
+      ],
+      "duration_ms": 232977,
+      "name": "Behula",
+      "url": "https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -737,20 +737,52 @@
       "url": "https://open.spotify.com/track/6NUIyfilS2SAUK5yvWx1DG"
     },
     {
-      "added_at": "2023-08-07 20:33:42",
+      "added_at": "2023-08-14 13:29:09",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/4kGNmloxvXSTwc3fkmL1Qb"
+        "name": "Ami Bodle Jabo",
+        "url": "https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B"
       },
       "artists": [
         {
-          "name": "Subconscious",
-          "url": "https://open.spotify.com/artist/7naDXHAHLyVnJPC545dpbB"
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
         }
       ],
-      "duration_ms": 273586,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/38vKlNkIGf226qscAwKiBY"
+      "duration_ms": 320342,
+      "name": "Ami Bodle Jabo",
+      "url": "https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY"
+    },
+    {
+      "added_at": "2023-08-14 13:29:09",
+      "album": {
+        "name": "Rongmistree",
+        "url": "https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k"
+      },
+      "artists": [
+        {
+          "name": "Shohojia",
+          "url": "https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx"
+        }
+      ],
+      "duration_ms": 291013,
+      "name": "Opekkha",
+      "url": "https://open.spotify.com/track/6hZ1FgzgOngc4DkFZAG041"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "PURBAPOR",
+        "url": "https://open.spotify.com/album/3FczU5hSZZ5QBCq4TqqFAN"
+      },
+      "artists": [
+        {
+          "name": "ADVERB BAND",
+          "url": "https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "PURBAPOR",
+      "url": "https://open.spotify.com/track/2JccX3rLZQi4f2IE9c7b7o"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -787,22 +819,6 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Masranga",
-        "url": "https://open.spotify.com/album/7knKeANWWtsYflQieVtyMh"
-      },
-      "artists": [
-        {
-          "name": "Shohojia",
-          "url": "https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx"
-        }
-      ],
-      "duration_ms": 265129,
-      "name": "Masranga",
-      "url": "https://open.spotify.com/track/2WheD9I12IlaPFgidqcf57"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
         "name": "Haay Bhalobashi",
         "url": "https://open.spotify.com/album/5aMs2oQT8D5n4K8RsIu7Rr"
       },
@@ -819,66 +835,38 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Ekhanei Shesh Noy",
-        "url": "https://open.spotify.com/album/0j8MWNlMj6wbZnJRj5zAQY"
+        "name": "JED",
+        "url": "https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ"
       },
       "artists": [
         {
-          "name": "Poraho",
-          "url": "https://open.spotify.com/artist/5yfndcCCDvuAFcd0OZBlpD"
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp"
         }
       ],
-      "duration_ms": 292560,
-      "name": "Naam Chara Gaan",
-      "url": "https://open.spotify.com/track/1Rv7TY3zBoqxcjGkQUm5KL"
+      "duration_ms": 269008,
+      "name": "Matir Roud (Bonus Track)",
+      "url": "https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj"
     },
     {
-      "added_at": "2023-08-07 20:33:42",
+      "added_at": "2023-08-14 13:29:09",
       "album": {
-        "name": "Nirob Durvikkho",
-        "url": "https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc"
+        "name": "Bhober Pagol",
+        "url": "https://open.spotify.com/album/7k16lPrTnyK6Vj5I1lZghn"
       },
       "artists": [
         {
-          "name": "Bay of Bengal",
-          "url": "https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6"
-        }
-      ],
-      "duration_ms": 256050,
-      "name": "Opare",
-      "url": "https://open.spotify.com/track/4fKZKmUXJTL3e3qzq6LFGe"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Pothchola",
-        "url": "https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA"
-      },
-      "artists": [
+          "name": "Nigar Sumi",
+          "url": "https://open.spotify.com/artist/5v4ceNWjpPcck7V5tPbOn1"
+        },
         {
-          "name": "Warfaze",
-          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+          "name": "Jalali Set",
+          "url": "https://open.spotify.com/artist/1DUbMaHb0Qi0LutuodIxnN"
         }
       ],
-      "duration_ms": 439745,
-      "name": "Obak Bhalobasha",
-      "url": "https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Shohorbondi",
-        "url": "https://open.spotify.com/album/2fUpZhtCCo3xVhLpMsdROa"
-      },
-      "artists": [
-        {
-          "name": "Meghdol",
-          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
-        }
-      ],
-      "duration_ms": 263267,
-      "name": "Roder Fota",
-      "url": "https://open.spotify.com/track/1H06JdgsvqCI7dQTTQxIOF"
+      "duration_ms": 316000,
+      "name": "Bhober Pagol",
+      "url": "https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -899,50 +887,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "JED",
-        "url": "https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ"
+        "name": "Nirob Durvikkho",
+        "url": "https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc"
       },
       "artists": [
         {
-          "name": "Aftermath",
-          "url": "https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp"
+          "name": "Bay of Bengal",
+          "url": "https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6"
         }
       ],
-      "duration_ms": 269008,
-      "name": "Matir Roud (Bonus Track)",
-      "url": "https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Tritio Jatra",
-        "url": "https://open.spotify.com/album/2srbMkNd2F8FbQLjGCOcmo"
-      },
-      "artists": [
-        {
-          "name": "Nemesis",
-          "url": "https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF"
-        }
-      ],
-      "duration_ms": 253888,
-      "name": "Kobe",
-      "url": "https://open.spotify.com/track/3VlLajFwBm2D3mqWheyeOT"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Notun Khaame Purono Chithi",
-        "url": "https://open.spotify.com/album/61ddVojd4Jh119rekRgp7z"
-      },
-      "artists": [
-        {
-          "name": "Indalo",
-          "url": "https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47"
-        }
-      ],
-      "duration_ms": 376677,
-      "name": "1996",
-      "url": "https://open.spotify.com/track/13jmbPV8jLenzP0lz2o6Di"
+      "duration_ms": 256050,
+      "name": "Opare",
+      "url": "https://open.spotify.com/track/4fKZKmUXJTL3e3qzq6LFGe"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -961,148 +917,20 @@
       "url": "https://open.spotify.com/track/3GH0XQTz3y2EztDLkC2Hnl"
     },
     {
-      "added_at": "2023-08-07 20:33:42",
+      "added_at": "2023-08-14 13:29:09",
       "album": {
-        "name": "Jadur Shohor",
-        "url": "https://open.spotify.com/album/75Drx1ZBQersYmvIrnTv8T"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu"
       },
       "artists": [
         {
-          "name": "Chirkutt",
-          "url": "https://open.spotify.com/artist/41WsEPie1aa8KCnCfMqS02"
+          "name": "Conclusion",
+          "url": "https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp"
         }
       ],
-      "duration_ms": 376488,
-      "name": "Jadur Shohor",
-      "url": "https://open.spotify.com/track/1x2Rx5lJw6RwHzYGsROHNk"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Rockoholic 3",
-        "url": "https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp"
-      },
-      "artists": [
-        {
-          "name": "Ashes",
-          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
-        }
-      ],
-      "duration_ms": 303677,
-      "name": "Tamakpata",
-      "url": "https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Onnosomoy",
-        "url": "https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E"
-      },
-      "artists": [
-        {
-          "name": "Artcell",
-          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
-        }
-      ],
-      "duration_ms": 421953,
-      "name": "Poth Chola",
-      "url": "https://open.spotify.com/track/3vXCKgUpHrv5dfXM53w28W"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Bhaar",
-        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
-      },
-      "artists": [
-        {
-          "name": "AvoidRafa",
-          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
-        }
-      ],
-      "duration_ms": 357564,
-      "name": "Koshto",
-      "url": "https://open.spotify.com/track/43lugOc2K5cCzaoacUu0TO"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Bondho Janala",
-        "url": "https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC"
-      },
-      "artists": [
-        {
-          "name": "Shironamhin",
-          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
-        }
-      ],
-      "duration_ms": 243530,
-      "name": "Bondho Janala",
-      "url": "https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Bujhe Na Bujhe",
-        "url": "https://open.spotify.com/album/2HycxvT9WPAV2xuKdnbcc9"
-      },
-      "artists": [
-        {
-          "name": "AvoidRafa",
-          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
-        }
-      ],
-      "duration_ms": 271698,
-      "name": "Bujhe Na Bujhe",
-      "url": "https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Montobbo Nishproyojon",
-        "url": "https://open.spotify.com/album/1zUU2VDyuRFqyQEryaKnPi"
-      },
-      "artists": [
-        {
-          "name": "Arbovirus",
-          "url": "https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle"
-        }
-      ],
-      "duration_ms": 351038,
-      "name": "Hariye Jao",
-      "url": "https://open.spotify.com/track/6yMqALZcV8hTlcM3ahWizp"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Morron Iccha",
-        "url": "https://open.spotify.com/album/3Fbx30pRAjxhfTRWpz6Rbt"
-      },
-      "artists": [
-        {
-          "name": "Popeye Bangladesh",
-          "url": "https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF"
-        }
-      ],
-      "duration_ms": 280513,
-      "name": "Morron Iccha",
-      "url": "https://open.spotify.com/track/7qDBGtbzTU480J25m6Y30m"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Neelanjana",
-        "url": "https://open.spotify.com/album/0IO21cidAdKjoGgc6BBmYl"
-      },
-      "artists": [
-        {
-          "name": "Encore",
-          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
-        }
-      ],
-      "duration_ms": 360545,
-      "name": "Neelanjana",
-      "url": "https://open.spotify.com/track/1lIPZOelxV3RAIXAu9Rxkb"
+      "duration_ms": 297807,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1123,18 +951,18 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Aushomapto 1",
-        "url": "https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS"
+        "name": "Rockoholic 3",
+        "url": "https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp"
       },
       "artists": [
         {
-          "name": "Aurthohin",
-          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
         }
       ],
-      "duration_ms": 245388,
-      "name": "Chaite Paro 2",
-      "url": "https://open.spotify.com/track/2VpwAV3gsadE2zV2JpkoWI"
+      "duration_ms": 303677,
+      "name": "Tamakpata",
+      "url": "https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1155,18 +983,162 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Chena Jogot",
-        "url": "https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP"
+        "name": "Aushomapto 1",
+        "url": "https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS"
       },
       "artists": [
         {
-          "name": "Vibe",
-          "url": "https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j"
+          "name": "Aurthohin",
+          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
         }
       ],
-      "duration_ms": 283376,
-      "name": "Odhora",
-      "url": "https://open.spotify.com/track/6VAXwno04nsvHT65KbuxQu"
+      "duration_ms": 299258,
+      "name": "Aushomapto",
+      "url": "https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Bujhe Na Bujhe",
+        "url": "https://open.spotify.com/album/2HycxvT9WPAV2xuKdnbcc9"
+      },
+      "artists": [
+        {
+          "name": "AvoidRafa",
+          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
+        }
+      ],
+      "duration_ms": 271698,
+      "name": "Bujhe Na Bujhe",
+      "url": "https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Neelanjana",
+        "url": "https://open.spotify.com/album/0IO21cidAdKjoGgc6BBmYl"
+      },
+      "artists": [
+        {
+          "name": "Encore",
+          "url": "https://open.spotify.com/artist/3HFhu4Eq2qOPEnISUen3M7"
+        }
+      ],
+      "duration_ms": 360545,
+      "name": "Neelanjana",
+      "url": "https://open.spotify.com/track/1lIPZOelxV3RAIXAu9Rxkb"
+    },
+    {
+      "added_at": "2023-08-14 13:29:09",
+      "album": {
+        "name": "Hyena Express",
+        "url": "https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq"
+      },
+      "artists": [
+        {
+          "name": "Shonar Bangla Circus",
+          "url": "https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh"
+        }
+      ],
+      "duration_ms": 337250,
+      "name": "Ondho Deyal",
+      "url": "https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Notun Khaame Purono Chithi",
+        "url": "https://open.spotify.com/album/61ddVojd4Jh119rekRgp7z"
+      },
+      "artists": [
+        {
+          "name": "Indalo",
+          "url": "https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47"
+        }
+      ],
+      "duration_ms": 376677,
+      "name": "1996",
+      "url": "https://open.spotify.com/track/13jmbPV8jLenzP0lz2o6Di"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Tritio Jatra",
+        "url": "https://open.spotify.com/album/2srbMkNd2F8FbQLjGCOcmo"
+      },
+      "artists": [
+        {
+          "name": "Nemesis",
+          "url": "https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF"
+        }
+      ],
+      "duration_ms": 253888,
+      "name": "Kobe",
+      "url": "https://open.spotify.com/track/3VlLajFwBm2D3mqWheyeOT"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Pothchola",
+        "url": "https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "duration_ms": 439745,
+      "name": "Obak Bhalobasha",
+      "url": "https://open.spotify.com/track/2aj4w2bivH9PfIcjToMfYb"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Bhaar",
+        "url": "https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8"
+      },
+      "artists": [
+        {
+          "name": "AvoidRafa",
+          "url": "https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB"
+        }
+      ],
+      "duration_ms": 357564,
+      "name": "Koshto",
+      "url": "https://open.spotify.com/track/43lugOc2K5cCzaoacUu0TO"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Onnosomoy",
+        "url": "https://open.spotify.com/album/7s9Ssc1V7AgSdAlVpHl12E"
+      },
+      "artists": [
+        {
+          "name": "Artcell",
+          "url": "https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt"
+        }
+      ],
+      "duration_ms": 421953,
+      "name": "Poth Chola",
+      "url": "https://open.spotify.com/track/3vXCKgUpHrv5dfXM53w28W"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Ekhanei Shesh Noy",
+        "url": "https://open.spotify.com/album/0j8MWNlMj6wbZnJRj5zAQY"
+      },
+      "artists": [
+        {
+          "name": "Poraho",
+          "url": "https://open.spotify.com/artist/5yfndcCCDvuAFcd0OZBlpD"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Naam Chara Gaan",
+      "url": "https://open.spotify.com/track/1Rv7TY3zBoqxcjGkQUm5KL"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1187,50 +1159,34 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Khoye Jawa Chaad",
-        "url": "https://open.spotify.com/album/0FwGhAmAhssWTEzv9P0VYX"
+        "name": "Morron Iccha",
+        "url": "https://open.spotify.com/album/3Fbx30pRAjxhfTRWpz6Rbt"
       },
       "artists": [
         {
-          "name": "Level Five",
-          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
+          "name": "Popeye Bangladesh",
+          "url": "https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF"
         }
       ],
-      "duration_ms": 253600,
-      "name": "Khoye Jawa Chaad",
-      "url": "https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O"
+      "duration_ms": 280513,
+      "name": "Morron Iccha",
+      "url": "https://open.spotify.com/track/7qDBGtbzTU480J25m6Y30m"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Hyena Express",
-        "url": "https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq"
+        "name": "Bondho Janala",
+        "url": "https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC"
       },
       "artists": [
         {
-          "name": "Shonar Bangla Circus",
-          "url": "https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh"
+          "name": "Shironamhin",
+          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
         }
       ],
-      "duration_ms": 403766,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Aushomapto 1",
-        "url": "https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS"
-      },
-      "artists": [
-        {
-          "name": "Aurthohin",
-          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
-        }
-      ],
-      "duration_ms": 299258,
-      "name": "Aushomapto",
-      "url": "https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse"
+      "duration_ms": 243530,
+      "name": "Bondho Janala",
+      "url": "https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1251,98 +1207,50 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "ONUBHUTI",
-        "url": "https://open.spotify.com/album/5Gs4vwvB68JbP2TbBtsigY"
+        "name": "Ja Ichche Ta",
+        "url": "https://open.spotify.com/album/59UftcMPrvkk10tbNsxyvB"
       },
       "artists": [
         {
-          "name": "Arbovirus",
-          "url": "https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle"
+          "name": "Popeye Bangladesh",
+          "url": "https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF"
         }
       ],
-      "duration_ms": 239999,
-      "name": "ONUBHUTI",
-      "url": "https://open.spotify.com/track/6gOYHUPMviZ9kNdIkNgKjq"
+      "duration_ms": 286720,
+      "name": "Neshar Bojha",
+      "url": "https://open.spotify.com/track/1stU529KMabUofF9CFm2rn"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7"
+        "name": "Hyena Express",
+        "url": "https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq"
       },
       "artists": [
         {
-          "name": "Shironamhin",
-          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
+          "name": "Shonar Bangla Circus",
+          "url": "https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh"
         }
       ],
-      "duration_ms": 284407,
-      "name": "Jadukar",
-      "url": "https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7"
+      "duration_ms": 403766,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Chaya",
-        "url": "https://open.spotify.com/album/5EScbquDVasUzkl1d9g9Tf"
+        "name": "Khoye Jawa Chaad",
+        "url": "https://open.spotify.com/album/0FwGhAmAhssWTEzv9P0VYX"
       },
       "artists": [
         {
-          "name": "Blue Touch",
-          "url": "https://open.spotify.com/artist/4TnqmC3bilRdMRqHHWyeIx"
+          "name": "Level Five",
+          "url": "https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8"
         }
       ],
-      "duration_ms": 267164,
-      "name": "Chaya",
-      "url": "https://open.spotify.com/track/61qJ33QyEu5E4Hb6t2szWM"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Ishshoronio",
-        "url": "https://open.spotify.com/album/1CAv5DdqyzFcYOvDpoaeu1"
-      },
-      "artists": [
-        {
-          "name": "Icons",
-          "url": "https://open.spotify.com/artist/3tEw3hDETkxsewEVCd93Os"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "Oporanho",
-      "url": "https://open.spotify.com/track/44QWuAwI92irD0HNDRyheR"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Shudhu Tomake",
-        "url": "https://open.spotify.com/album/1f8TWNspvXbEx3KL7268eh"
-      },
-      "artists": [
-        {
-          "name": "FRANKLIN",
-          "url": "https://open.spotify.com/artist/73G8ACEQ6SOnQBTLEHBbBV"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Shudhu Tomake",
-      "url": "https://open.spotify.com/track/3RWGr29hPAiagbNClOMnhI"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Amar Prithibi",
-        "url": "https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd"
-        }
-      ],
-      "duration_ms": 251843,
-      "name": "Amar Prithibi",
-      "url": "https://open.spotify.com/track/74hm14zpKp0b792FvVJ71t"
+      "duration_ms": 253600,
+      "name": "Khoye Jawa Chaad",
+      "url": "https://open.spotify.com/track/7drgfsb1o3LPQQc5tHZW8O"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1356,73 +1264,57 @@
           "url": "https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j"
         }
       ],
-      "duration_ms": 356284,
-      "name": "Bidhatari Ronge Aka",
-      "url": "https://open.spotify.com/track/5YZzMC94AZskpqq8qufQFS"
+      "duration_ms": 283376,
+      "name": "Odhora",
+      "url": "https://open.spotify.com/track/6VAXwno04nsvHT65KbuxQu"
+    },
+    {
+      "added_at": "2023-08-14 13:29:09",
+      "album": {
+        "name": "Nijer Jonno",
+        "url": "https://open.spotify.com/album/5Xp88wo4dgjG93eESETcR8"
+      },
+      "artists": [
+        {
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
+        }
+      ],
+      "duration_ms": 301371,
+      "name": "Nijer Jonno",
+      "url": "https://open.spotify.com/track/27ubltBJaoOJCBKDQoR3l0"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Tobu Mon",
-        "url": "https://open.spotify.com/album/61KE2NaWCri9DXK1ojQpJL"
+        "name": "Montobbo Nishproyojon",
+        "url": "https://open.spotify.com/album/1zUU2VDyuRFqyQEryaKnPi"
       },
       "artists": [
         {
-          "name": "Meghdol",
-          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
+          "name": "Arbovirus",
+          "url": "https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle"
         }
       ],
-      "duration_ms": 223473,
-      "name": "Tobu Mon",
-      "url": "https://open.spotify.com/track/5FPA6G5VxN014UrBKm0BJd"
+      "duration_ms": 351038,
+      "name": "Hariye Jao",
+      "url": "https://open.spotify.com/track/6yMqALZcV8hTlcM3ahWizp"
     },
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Chaap",
-        "url": "https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g"
+        "name": "Aushomapto 1",
+        "url": "https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS"
       },
       "artists": [
         {
-          "name": "Arekta Rock Band",
-          "url": "https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT"
+          "name": "Aurthohin",
+          "url": "https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A"
         }
       ],
-      "duration_ms": 276571,
-      "name": "Chaap",
-      "url": "https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Mohomukti",
-        "url": "https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv"
-      },
-      "artists": [
-        {
-          "name": "Karnival",
-          "url": "https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl"
-        }
-      ],
-      "duration_ms": 330398,
-      "name": "Sheishob Din Raatri",
-      "url": "https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Shotto",
-        "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
-      },
-      "artists": [
-        {
-          "name": "Warfaze",
-          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
-        }
-      ],
-      "duration_ms": 290109,
-      "name": "Na",
-      "url": "https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg"
+      "duration_ms": 245388,
+      "name": "Chaite Paro 2",
+      "url": "https://open.spotify.com/track/2VpwAV3gsadE2zV2JpkoWI"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1447,18 +1339,146 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
-        "name": "Camera",
-        "url": "https://open.spotify.com/album/5oVZ0QlCiGNiHkn2O6qtch"
+        "name": "Ishshoronio",
+        "url": "https://open.spotify.com/album/1CAv5DdqyzFcYOvDpoaeu1"
       },
       "artists": [
         {
-          "name": "Avash",
-          "url": "https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd"
+          "name": "Icons",
+          "url": "https://open.spotify.com/artist/3tEw3hDETkxsewEVCd93Os"
         }
       ],
-      "duration_ms": 245983,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/5mb6nSUu3ozmmHJLPDpD7w"
+      "duration_ms": 249846,
+      "name": "Oporanho",
+      "url": "https://open.spotify.com/track/44QWuAwI92irD0HNDRyheR"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7"
+      },
+      "artists": [
+        {
+          "name": "Shironamhin",
+          "url": "https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg"
+        }
+      ],
+      "duration_ms": 284407,
+      "name": "Jadukar",
+      "url": "https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Amar Prithibi",
+        "url": "https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd"
+        }
+      ],
+      "duration_ms": 251843,
+      "name": "Amar Prithibi",
+      "url": "https://open.spotify.com/track/74hm14zpKp0b792FvVJ71t"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Chaap",
+        "url": "https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g"
+      },
+      "artists": [
+        {
+          "name": "Arekta Rock Band",
+          "url": "https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT"
+        }
+      ],
+      "duration_ms": 276571,
+      "name": "Chaap",
+      "url": "https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Shudhu Tomake",
+        "url": "https://open.spotify.com/album/1f8TWNspvXbEx3KL7268eh"
+      },
+      "artists": [
+        {
+          "name": "FRANKLIN",
+          "url": "https://open.spotify.com/artist/73G8ACEQ6SOnQBTLEHBbBV"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Shudhu Tomake",
+      "url": "https://open.spotify.com/track/3RWGr29hPAiagbNClOMnhI"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "ONUBHUTI",
+        "url": "https://open.spotify.com/album/5Gs4vwvB68JbP2TbBtsigY"
+      },
+      "artists": [
+        {
+          "name": "Arbovirus",
+          "url": "https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "ONUBHUTI",
+      "url": "https://open.spotify.com/track/6gOYHUPMviZ9kNdIkNgKjq"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Chena Jogot",
+        "url": "https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP"
+      },
+      "artists": [
+        {
+          "name": "Vibe",
+          "url": "https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j"
+        }
+      ],
+      "duration_ms": 356284,
+      "name": "Bidhatari Ronge Aka",
+      "url": "https://open.spotify.com/track/5YZzMC94AZskpqq8qufQFS"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Shotto",
+        "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "duration_ms": 290109,
+      "name": "Na",
+      "url": "https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
+        "name": "Chaya",
+        "url": "https://open.spotify.com/album/5EScbquDVasUzkl1d9g9Tf"
+      },
+      "artists": [
+        {
+          "name": "Blue Touch",
+          "url": "https://open.spotify.com/artist/4TnqmC3bilRdMRqHHWyeIx"
+        }
+      ],
+      "duration_ms": 267164,
+      "name": "Chaya",
+      "url": "https://open.spotify.com/track/61qJ33QyEu5E4Hb6t2szWM"
     },
     {
       "added_at": "2023-08-07 20:33:42",
@@ -1479,6 +1499,22 @@
     {
       "added_at": "2023-08-07 20:33:42",
       "album": {
+        "name": "Jadur Shohor",
+        "url": "https://open.spotify.com/album/75Drx1ZBQersYmvIrnTv8T"
+      },
+      "artists": [
+        {
+          "name": "Chirkutt",
+          "url": "https://open.spotify.com/artist/41WsEPie1aa8KCnCfMqS02"
+        }
+      ],
+      "duration_ms": 376488,
+      "name": "Jadur Shohor",
+      "url": "https://open.spotify.com/track/1x2Rx5lJw6RwHzYGsROHNk"
+    },
+    {
+      "added_at": "2023-08-07 20:33:42",
+      "album": {
         "name": "Mugdho Shomoye",
         "url": "https://open.spotify.com/album/5Nk7Se0QrJIThpWom77V9Z"
       },
@@ -1491,38 +1527,6 @@
       "duration_ms": 353657,
       "name": "Rupkotha",
       "url": "https://open.spotify.com/track/3ywoWdGNt4WbQDo6DTMsOO"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Oshohay",
-        "url": "https://open.spotify.com/album/4dg0rruUNCarEoAF59s9Dt"
-      },
-      "artists": [
-        {
-          "name": "Noble Man",
-          "url": "https://open.spotify.com/artist/3AsC2cKcBmoayjRPDMSMTO"
-        }
-      ],
-      "duration_ms": 268997,
-      "name": "Oshohay",
-      "url": "https://open.spotify.com/track/28EuVI2lZ9lPQvxqkTocQ5"
-    },
-    {
-      "added_at": "2023-08-07 20:33:42",
-      "album": {
-        "name": "Ja Ichche Ta",
-        "url": "https://open.spotify.com/album/59UftcMPrvkk10tbNsxyvB"
-      },
-      "artists": [
-        {
-          "name": "Popeye Bangladesh",
-          "url": "https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF"
-        }
-      ],
-      "duration_ms": 286720,
-      "name": "Neshar Bojha",
-      "url": "https://open.spotify.com/track/1stU529KMabUofF9CFm2rn"
     },
     {
       "added_at": "2023-08-07 20:33:42",

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-483 songs - 1 day 4 hr 37 min
+484 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Algo Hay Que Hacer](https://open.spotify.com/track/6eo2fBWQrDJ05F02mEnxDi) | [Malditos Vecinos](https://open.spotify.com/artist/4DrNcaxBidf9OtpQr8oCB9) | [Algo Hay Que Hacer](https://open.spotify.com/album/0WjEtiNB42rPV0eJuVAaEt) | 2:36 | 2022-07-01 | 2022-07-10 |
 | [Alright](https://open.spotify.com/track/4CPQQFfIbkeZCYBrayDe8U) | [El Perrodiablo](https://open.spotify.com/artist/76X8p2EEoEJmDhgzLExcbZ) | [Epílogo](https://open.spotify.com/album/7zEA6AWDyBwtAgFbVswjgt) | 4:09 | 2022-07-15 | 2022-07-21 |
 | [Amor Express](https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Amor Express](https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT) | 3:34 | 2023-06-16 |  |
-| [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 |  |
+| [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 | 2023-08-15 |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-07-28 |  |
@@ -381,6 +381,7 @@
 | [Que Todo Ocurra](https://open.spotify.com/track/0d5gK1GjaBD9OIzX6nGiAX) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7) | [Sistema](https://open.spotify.com/album/56td7MvmbqeaXN3LXmtxhi) | 3:35 | 2022-07-15 | 2022-07-26 |
 | [Qué Decir?](https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h) | [L E O](https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2) | [Soy un Extraño](https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi) | 2:34 | 2022-07-01 | 2023-08-03 |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-07-01 | 2022-07-27 |
+| [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 |  |
 | [Qué Tarde Que Es](https://open.spotify.com/track/7pkAQv1OfeZutSFCCZgNpN) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Melodía y Drama](https://open.spotify.com/album/3yjeOGRuuuFhIBtd1E1cA2) | 4:01 | 2022-07-01 | 2022-07-26 |
 | [Ramona](https://open.spotify.com/track/6Ua8Ce78UqIR2CoGZG1GR9) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Chupalapija](https://open.spotify.com/album/7kOKGjiQQuqeDmaBIr86sA) | 1:57 | 2022-06-03 | 2023-03-03 |
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2022-06-03 |  |

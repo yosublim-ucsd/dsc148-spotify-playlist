@@ -4,7 +4,7 @@
 
 > music to get fly to
 
-424 songs - 22 hr 26 min
+425 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-08-05 | 2022-07-12 |
 | [stay away \- xs edition](https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [xs](https://open.spotify.com/artist/0iw8ww6m2qNzlwZa30iDNT) | [stay away \(xs edition\)](https://open.spotify.com/album/5rKtStwZIclcxCkqoyDlBA) | 3:49 | 2022-11-15 | 2023-04-01 |
 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 | 2022-09-13 | 2023-03-21 |
-| [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2021-08-05 |  |
+| [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2021-08-05 | 2023-08-15 |
 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 | 2022-12-16 | 2022-12-19 |
 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2021-08-05 | 2022-05-28 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-01-11 | 2022-04-16 |
@@ -404,6 +404,7 @@
 | [Two Hands](https://open.spotify.com/track/0C5McvJzSpZy2H1q7VsUAi) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Two Hands](https://open.spotify.com/album/4XhdPESJcdzcIHRqkyqJiw) | 2:03 | 2022-09-13 | 2022-10-08 |
 | [U KNOW ME](https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [U KNOW ME](https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2) | 2:54 | 2022-07-29 |  |
 | [Uber EveryWhere \(OG House Mix\)](https://open.spotify.com/track/6kH9bJTKlGXLjRIOSuKYX4) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Uber EveryWhere \(OG House Mix\)](https://open.spotify.com/album/15B1A33OhleteUOHoPnYeE) | 3:14 | 2021-10-15 | 2023-07-29 |
+| [UDANCE?](https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD) | [BELOVED SUN](https://open.spotify.com/artist/5ejUXQs8sLvPSsoHGT0ni5), [Sol Galeano](https://open.spotify.com/artist/5dwUkFojGBdjXyxS5hm6zi) | [CRYING AROUND AND IN COLOR](https://open.spotify.com/album/47qEHOZkmbSDXiN1oVa6UN) | 1:07 | 2023-08-14 |  |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2023-03-03 |  |
 | [Ur\_Room](https://open.spotify.com/track/2pACOpgaJOULkKFatoEbAR) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 2:24 | 2022-10-07 | 2022-12-17 |
 | [Vans](https://open.spotify.com/track/5pdUVaAfEOGSdc4GAuQgEp) | [The Pack](https://open.spotify.com/artist/5M6GE2n46o0qBIyGXtzdQz) | [Vans \(Main Version\)](https://open.spotify.com/album/6C9esmNqsyo6pgXxKYDKL0) | 4:15 | 2022-04-15 | 2022-05-04 |

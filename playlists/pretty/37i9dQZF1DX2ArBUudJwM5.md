@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,397 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,470 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 71 | [Oración Del Remanso](https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Confesion del Viento](https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe) | 4:28 |
 | 72 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
 | 73 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
-| 74 | [SUELTO](https://open.spotify.com/track/1wGRgZ53XqiTNmwJCYiudy) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [SUELTO](https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN) | 2:37 |
-| 75 | [SIT DOWN](https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [SIT DOWN](https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH) | 2:45 |
+| 74 | [SIT DOWN](https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [SIT DOWN](https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH) | 2:45 |
+| 75 | [SUELTO](https://open.spotify.com/track/1wGRgZ53XqiTNmwJCYiudy) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [SUELTO](https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN) | 2:37 |
 | 76 | [Una Copa](https://open.spotify.com/track/1GSTIl2aoajD9UCQqW0SDX) | [Albere](https://open.spotify.com/artist/2rwEitOiYr07CmFI1GCHLf), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Una Copa](https://open.spotify.com/album/1fT8eNTmfMdwv08d60IknK) | 2:21 |
 | 77 | [Estoy Tocando Fondo](https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:54 |
 | 78 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 82 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
 | 83 | [La Luna y la Miel](https://open.spotify.com/track/6uWXPuM88EaoYAImM5hmwo) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [La Luna y la Miel](https://open.spotify.com/album/1fkwPvQLORS4FKvgQZrxyF) | 3:09 |
 | 84 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
-| 85 | [Ella](https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Ella](https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r) | 3:42 |
+| 85 | [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 |
 | 86 | [Fuego](https://open.spotify.com/track/464DSYjNhBCD15Xh0B41rK) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 3:37 |
-| 87 | [Luz](https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temporal](https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS) | 4:54 |
+| 87 | [Ella](https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ) | [ERNES](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Ella](https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r) | 3:42 |
 | 88 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 |
-| 89 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 |
-| 90 | [Tormento](https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE) | [La Bella Indiferencia](https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW) | 2:17 |
-| 91 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr) | 3:52 |
-| 92 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
+| 89 | [Tormento](https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl) | [Mariana Mazú](https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE) | [La Bella Indiferencia](https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW) | 2:17 |
+| 90 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 |
+| 91 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
+| 92 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr) | 3:52 |
 | 93 | [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 |
 | 94 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 95 | [Bombón](https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX) | [Rosal](https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O) | [Educación Sentimental](https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi) | 2:48 |
 | 96 | [SED](https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [SED](https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx) | 2:54 |
 | 97 | [Días para Celebrar](https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 2:20 |
 | 98 | [Gusto de Vos](https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj) | [Vane Butera](https://open.spotify.com/artist/6jzYBjh67umefK49gTrsmY) | [Adonde No Me Llaman](https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB) | 4:16 |
-| 99 | [Maldito Piano](https://open.spotify.com/track/4iO9EnfZv4GS4MtWaFTSAb) | [Blacanblus](https://open.spotify.com/artist/0hXFJVIeduP8fbaEmVKlDn) | [Cuatro Mujeres y un Maldito Piano](https://open.spotify.com/album/4mj4N0LMfhv8EJ69Rm4VkM) | 3:07 |
-| 100 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
+| 99 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
+| 100 | [Maldito Piano](https://open.spotify.com/track/4iO9EnfZv4GS4MtWaFTSAb) | [Blacanblus](https://open.spotify.com/artist/0hXFJVIeduP8fbaEmVKlDn) | [Cuatro Mujeres y un Maldito Piano](https://open.spotify.com/album/4mj4N0LMfhv8EJ69Rm4VkM) | 3:07 |
 
-Snapshot ID: `MCw2ZGJhNTdjZTA3ODRmN2Y2ZTczOWQ1OTkwMWZiNmVlYmQzNzhlYTFi`
+Snapshot ID: `MCw1MGE4YjllNTI2YTVlODQyYWI4YTg2MzJlZjIwNTc3MWQ5YWIxYWRm`

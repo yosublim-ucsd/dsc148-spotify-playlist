@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,111 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,161 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Darlin’](https://open.spotify.com/track/7wgfoPchQkxKD8H6qNRi2x) | [Flour](https://open.spotify.com/artist/5iYAsFJkWN0bcybJDdnstE) | [Darlin’](https://open.spotify.com/album/4zOrvad2xbxqR8iy5dDo1o) | 4:14 |
 | 100 | [Found the Time](https://open.spotify.com/track/61RESMbaaexcSU0hIes4Q3) | [Laith](https://open.spotify.com/artist/7I69Hf2YCyrMgIszyfyhXH) | [Lightning](https://open.spotify.com/album/6KyB6lDdoq97OmiQkPmXH3) | 3:44 |
 
-Snapshot ID: `MCxmODMyZDk4NDc0NjM3ZmVkZmQyYjc0NTFjM2I5Y2E1NTRlOWEwYzVj`
+Snapshot ID: `MCw5ZDViNzcwNmY2OTYwNTkwZThmYzZkOGFkYTc2ZjRlZmQwZjkzMjRm`

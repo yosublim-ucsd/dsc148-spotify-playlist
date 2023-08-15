@@ -4,7 +4,7 @@
 
 > Spotify's first ever all\-women soccer playlist\. Built by your favorite players.
 
-127 songs - 7 hr 32 min
+128 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Spirit Lead Me](https://open.spotify.com/track/3eHy8sntu2RZjB5bL8PnRr) | [Anahit](https://open.spotify.com/artist/335d0sfpalR7KKb55SyoP7) | [Spirit Lead Me](https://open.spotify.com/album/7Ahu5muioyx6F6vz9BXDKG) | 3:06 | 2023-07-12 |  |
 | [Starships](https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:30 | 2023-07-12 |  |
 | [Starting Now](https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Starting Now](https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt) | 3:25 | 2023-07-12 |  |
+| [Strawberry Kisses](https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv) | [Nikki Webster](https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA) | [Follow Your Heart](https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp) | 3:30 | 2023-08-14 |  |
 | [Suzanne](https://open.spotify.com/track/3MBZ0BaWosUjsn40TeYYk5) | [Bermuda Triangle](https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE) | [Suzanne](https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou) | 2:57 | 2023-07-12 |  |
 | [Sway](https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Drive](https://open.spotify.com/album/6RKelNVLEA7UeWnJJaKcGo) | 4:22 | 2023-07-12 |  |
 | [Só Depois do Carnaval](https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Só Depois do Carnaval](https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E) | 2:46 | 2023-07-12 |  |

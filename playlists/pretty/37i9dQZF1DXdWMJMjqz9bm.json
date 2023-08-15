@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 201820,
+  "num_followers": 201905,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhmYjU3M2NiOWZhOTFhNTc4ZmYyMzc3MWVmNzMwN2FhOWNiZTM5",
+  "snapshot_id": "MCw3MzkzMDViNjk0NmZhYjljMjY2MjdmNDc1ODYyMTEyZmM0ZWE2OGM3",
   "tracks": [
     {
       "added_at": "2023-07-21 06:46:00",
@@ -43,6 +43,22 @@
       "duration_ms": 166363,
       "name": "HATED US",
       "url": "https://open.spotify.com/track/07mp614wVP17UQqEJ4577F"
+    },
+    {
+      "added_at": "2023-08-14 15:38:20",
+      "album": {
+        "name": "ball don't lie",
+        "url": "https://open.spotify.com/album/3EC1lYeCx5BSOTRZU0JTOu"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "ball don't lie",
+      "url": "https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1699,22 +1715,6 @@
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "stupid i miss u",
-        "url": "https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "stupid i miss u",
-      "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
     }
   ],
   "unique_name": "Varsity Bars",

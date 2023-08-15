@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado, Ferrugem, Ana Castela e Simone Mendes, MC Kevin o Chris e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,903,920 likes - 95 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,224 likes - 95 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 94 | [A Carta](https://open.spotify.com/track/2uEiHyIUOfKV9jViH3GCHF) | [Ferri](https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR) | [A Carta](https://open.spotify.com/album/36SUf11Op7n4bcgueh2O4R) | 3:19 |
 | 95 | [Movimento Solar](https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Movimento Solar](https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K) | 3:21 |
 
-Snapshot ID: `MCwxMDM5MzZjNDdhZGY3NmM3YjdiMGY0ZTdjYzY4Yjg4MWFlNWNhN2E0`
+Snapshot ID: `MCwxZjgxM2U3MDAwZTJkYjMxOGUwZDlhYmM3ZmRiODI2Mzg4NzYxNjJi`

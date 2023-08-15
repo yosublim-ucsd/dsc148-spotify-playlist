@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 112717,
       "name": "A burnished stone",
       "url": "https://open.spotify.com/track/0F8SuamdgugyK1UWMM2clz"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 117610,
       "name": "A Part Of Us",
       "url": "https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 119234,
       "name": "Aquiver",
       "url": "https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 117472,
       "name": "Bienveillant",
       "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 118500,
       "name": "Briefly",
       "url": "https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 119000,
       "name": "Cavtat",
       "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 177874,
       "name": "cold embrace",
       "url": "https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 141333,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT"
@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+    },
+    {
+      "album": {
         "name": "Innocent Pleasure",
         "url": "https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5"
       },
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 182831,
       "name": "Je Suis Paix",
       "url": "https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 166019,
       "name": "Keepsakes",
       "url": "https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 117510,
       "name": "Laetitia",
       "url": "https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE"
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 180460,
       "name": "Late Spring",
       "url": "https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI"
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 145313,
       "name": "Love Will Set Us Free",
       "url": "https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 180720,
       "name": "Manus in Mano",
       "url": "https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr"
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 114000,
       "name": "Matin",
       "url": "https://open.spotify.com/track/1TWlhhICPR0UpyIJhxPiEx"
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 116206,
       "name": "Me Time",
       "url": "https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 111492,
       "name": "Meraviglia",
       "url": "https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE"
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 114644,
       "name": "Mornings",
       "url": "https://open.spotify.com/track/1iWqz6adg6vBQDBub0xHLc"
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 118270,
       "name": "My Absence",
       "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 114232,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
@@ -4840,7 +4858,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 119120,
       "name": "Nowesind",
       "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 119008,
       "name": "N\u00e1dhern\u00fd de\u0148",
       "url": "https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7"
@@ -4894,7 +4912,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 176627,
       "name": "O Soave Fanciulla",
       "url": "https://open.spotify.com/track/5HQp593kflHm8LV12MepjR"
@@ -4984,7 +5002,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 158591,
       "name": "Om \u00e4n bara f\u00f6r en stund",
       "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
@@ -5006,6 +5024,24 @@
       "duration_ms": 125183,
       "name": "Ombre",
       "url": "https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I"
+    },
+    {
+      "album": {
+        "name": "On The Fields",
+        "url": "https://open.spotify.com/album/22VO3JfHEwEo31pja34U9Q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Porter",
+          "url": "https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "On The Fields",
+      "url": "https://open.spotify.com/track/3VDtQne6yzambbjKODbcxW"
     },
     {
       "album": {
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 150127,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu"
@@ -5254,7 +5290,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 177020,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/0giYe8sQbW7LaO2UqMcG7k"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 199287,
       "name": "Piha",
       "url": "https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy"
@@ -5586,6 +5622,24 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "album": {
+        "name": "Quiet Night",
+        "url": "https://open.spotify.com/album/4ymiis43Mn78FYNVHlqI8P"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145918,
+      "name": "Quiet Night",
+      "url": "https://open.spotify.com/track/7HtkSveAKjKlzZ2w2pgCwK"
     },
     {
       "album": {
@@ -6381,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "snowy moons",
+        "url": "https://open.spotify.com/album/4y0R9pkqPiroVU0rvdnkom"
+      },
+      "artists": [
+        {
+          "name": "one master key",
+          "url": "https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146374,
+      "name": "snowy moons",
+      "url": "https://open.spotify.com/track/6lIFz8EFovWUWhVQame9Bw"
+    },
+    {
+      "album": {
         "name": "So Ro Lilleman",
         "url": "https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY"
       },
@@ -6428,7 +6500,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 174000,
       "name": "Solfeggio",
       "url": "https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs"
@@ -6608,7 +6680,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 184220,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
@@ -6954,7 +7026,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 251687,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2DJQoV3oQqlWAwWUK3f5Xk"
@@ -7030,7 +7102,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 114400,
       "name": "Sweet Redolence",
       "url": "https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf"
@@ -7246,7 +7318,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 114972,
       "name": "The Goodbyes We Never Said",
       "url": "https://open.spotify.com/track/1EFoFLPtWaKdBeDTdce8nQ"
@@ -7660,7 +7732,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 237159,
       "name": "True Self",
       "url": "https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL"
@@ -7894,7 +7966,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 110259,
       "name": "Unfinished Letter",
       "url": "https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l"
@@ -7966,7 +8038,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 187588,
       "name": "Verba Aymara",
       "url": "https://open.spotify.com/track/2P9eiPf0MsHHCkf3FKNqEs"
@@ -7984,7 +8056,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 195997,
       "name": "Verses",
       "url": "https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY"
@@ -8002,7 +8074,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 175066,
       "name": "vertra\u0308umt",
       "url": "https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB"
@@ -8074,7 +8146,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 112046,
       "name": "Viva Valeriana",
       "url": "https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi"
@@ -8312,7 +8384,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 112802,
       "name": "Whatever Will Be",
       "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"
@@ -8460,7 +8532,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 162624,
       "name": "Wish Your Way",
       "url": "https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ"

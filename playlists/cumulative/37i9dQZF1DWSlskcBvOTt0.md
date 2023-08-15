@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-476 songs - 1 day 22 hr 58 min
+477 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-13 | 2022-07-29 |
-| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 |  |
+| [Desert Walk](https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Desert Walk](https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F) | 3:32 | 2023-03-03 | 2023-08-15 |
 | [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-24 |  |
 | [Disappear](https://open.spotify.com/track/1kEdYirmW9IZ4R4QFaPvpE) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Disappear](https://open.spotify.com/album/0mcqQhXPSSk8yudA1fiklh) | 3:55 | 2022-06-10 |  |
 | [Disappear \- Andrea Oliva Remix](https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Disappear \(Andrea Oliva Remix\)](https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7) | 3:32 | 2023-03-10 |  |
@@ -259,6 +259,7 @@
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
 | [Makatao](https://open.spotify.com/track/0AYHqchYq7j81YuJBwwbAP) | [Sans Souci](https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ) | [Makatao](https://open.spotify.com/album/0Htb5bRGIDhTronNBsN2HP) | 2:58 | 2022-06-10 | 2022-07-28 |
 | [Malinconia](https://open.spotify.com/track/6qWRTYenPg1etnwvh36TGt) | [Savaaq](https://open.spotify.com/artist/24kT1IKWsxhptyAglCIbG3) | [Vuoto D’Amore](https://open.spotify.com/album/1mNe1Ae6fLC7SzjTIJFOn4) | 5:55 | 2021-05-26 | 2022-07-27 |
+| [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 | 2023-08-11 |  |
 | [Man O To \- Original Mix](https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Man O To](https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6) | 9:40 | 2021-12-13 | 2023-03-11 |
 | [Manginot](https://open.spotify.com/track/2EZSBL4CawxiV3NKXDEZfO) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Manginot EP](https://open.spotify.com/album/7eZGD22knvBMAOgFMP86TO) | 7:58 | 2021-04-21 | 2022-06-28 |
 | [Mantra](https://open.spotify.com/track/6RoewzonORYsuQGYuCXW27) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mantra](https://open.spotify.com/album/6vnISnsKqacZiW8HTPh2US) | 7:45 | 2021-04-21 | 2022-04-21 |

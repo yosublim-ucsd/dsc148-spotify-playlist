@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u611b\u7f8e (Aimi)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u9ebb\u5009\u3082\u3082",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -258,10 +258,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 211890,
       "name": "Alter Echo",
       "url": "https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S"
+    },
+    {
+      "album": {
+        "name": "Alter Echo",
+        "url": "https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "Alter Echo",
+      "url": "https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5"
     },
     {
       "album": {
@@ -600,7 +618,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 164300,
       "name": "Circle",
       "url": "https://open.spotify.com/track/6Z3G3xiByrrUUpKKXPrYEn"
@@ -755,6 +773,24 @@
     },
     {
       "album": {
+        "name": "TV Animation \"Sugar Apple Fairy Tale\" 2nd Season Ending Theme Song \"door\" (Special Edition)",
+        "url": "https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J"
+      },
+      "artists": [
+        {
+          "name": "Nao Toyama",
+          "url": "https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "door",
+      "url": "https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP"
+    },
+    {
+      "album": {
         "name": "eclatante",
         "url": "https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x"
       },
@@ -881,6 +917,28 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4BjpfJfqPRKZEsxR4lcqAG"
+      },
+      "artists": [
+        {
+          "name": "hachiouji takao(CV:Kimura Ryohei)",
+          "url": "https://open.spotify.com/artist/5l85XOcEb09vGSjmpVRuDF"
+        },
+        {
+          "name": "saikou miito(CV:Yamashita Daiki)",
+          "url": "https://open.spotify.com/artist/2VgRjkSSnnf0Vgs7vIhfgG"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217489,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6AgXQ3XMQo7KLhBstUbCLy"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30c3\u30d5\u30eb -Bright 3 Waves-",
         "url": "https://open.spotify.com/album/6jpr8lf8u9QH2NDp22ksIw"
       },
@@ -1000,7 +1058,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 220093,
       "name": "Follow You\uff01",
       "url": "https://open.spotify.com/track/12yFftAMBHezdtLeEC9CRD"
@@ -1746,7 +1804,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 227683,
       "name": "MAGICAL DESTROYER",
       "url": "https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG"
@@ -3189,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "\u306f\u3058\u3081\u3061\u307e\u3063\u305f\u3093\u3060",
+        "url": "https://open.spotify.com/album/73jV7F1HM6uUPlNtmlTi7f"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba",
+          "url": "https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283111,
+      "name": "\u306f\u3058\u3081\u3061\u307e\u3063\u305f\u3093\u3060",
+      "url": "https://open.spotify.com/track/08rwyzt6FhIMuHQMQrLE88"
+    },
+    {
+      "album": {
         "name": "\u307f\u3061\u304f\u3055",
         "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
       },
@@ -3492,6 +3568,24 @@
       "duration_ms": 236453,
       "name": "\u30b7\u30e5\u30ac\u30fc\u30fb\u30b7\u30e5\u30ac\u30fc\u30fb\u30b9\u30d1\u30a4\u30b9",
       "url": "https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e5\u30ef\u30ef\uff01",
+        "url": "https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8"
+      },
+      "artists": [
+        {
+          "name": "Momo Asakura",
+          "url": "https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "\u30b7\u30e5\u30ef\u30ef\uff01",
+      "url": "https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1"
     },
     {
       "album": {
@@ -3924,7 +4018,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 237813,
       "name": "\u5143\u751f\u5f92",
       "url": "https://open.spotify.com/track/5EC2eub889hm884w6jAU3u"

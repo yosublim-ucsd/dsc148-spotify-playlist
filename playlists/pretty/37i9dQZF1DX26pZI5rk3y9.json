@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6076,
+  "num_followers": 6083,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTIwM2MxODIxNjZkNGZhYjJmODBmZmYxZWE4Y2MzODFmOTIzN2Zi",
+  "snapshot_id": "MCw5YTI1YTE2MzFmN2I4MTQwMGI5ZjhkZTEyYmQ1NGZlOGExYzhhNWEx",
   "tracks": [
     {
       "added_at": "2023-08-11 00:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Sho Been Worse",
         "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "What Goes Around (Comes Around)",
-        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 216845,
-      "name": "What Goes Around (Comes Around)",
-      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Devil Claims His Prize",
         "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
       },
@@ -211,38 +195,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "FLorida Man",
-        "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 219454,
-      "name": "FLorida Man",
-      "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "I Want To Shout About It",
         "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },
@@ -255,6 +207,38 @@
       "duration_ms": 252493,
       "name": "I Want To Shout About It",
       "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "FLorida Man",
+        "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 219454,
+      "name": "FLorida Man",
+      "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -279,18 +263,34 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Lazy Poker Blues",
+        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Sneakin' Around",
+        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "Sneakin\u2019 Around",
+      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Vibes EP",
         "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Lazy Poker Blues",
-        "url": "https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh"
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
         }
       ],
-      "duration_ms": 197186,
-      "name": "Lazy Poker Blues",
-      "url": "https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7"
+      "duration_ms": 202536,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -403,22 +419,6 @@
       "duration_ms": 203338,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/0RfKd24loJM7TM9rv5GdQk"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+        "name": "Guadalupe Plata 2023",
+        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Guadalupe Plata",
+          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+      "duration_ms": 135609,
+      "name": "Al Infierno que Vayas",
+      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -567,22 +583,6 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Guadalupe Plata 2023",
-        "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 135609,
-      "name": "Al Infierno que Vayas",
-      "url": "https://open.spotify.com/track/1AlzFYo6oJBYMvu65LAh25"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
-      },
-      "artists": [
-        {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Crime",
-      "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Still Truckin",
-        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
-      },
-      "artists": [
-        {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
-        }
-      ],
-      "duration_ms": 310056,
-      "name": "Still Truckin",
-      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/2s0hTPeFcMimcRZ51uBfKE"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 255209,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Still Truckin",
+        "url": "https://open.spotify.com/album/2XiBPrUsv0DXZKPbiQVUms"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 310056,
+      "name": "Still Truckin",
+      "url": "https://open.spotify.com/track/3gaibZyINf67LeyXmckAvK"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Crime",
+      "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Roads Go On Forever",
-        "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
+        "name": "Daylight I Will Find",
+        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
       },
       "artists": [
         {
-          "name": "Max Poolman",
-          "url": "https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Keep On Rocking",
-      "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+      "duration_ms": 277655,
+      "name": "Daylight I Will Find",
+      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Roads Go On Forever",
+        "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
+      },
+      "artists": [
+        {
+          "name": "Max Poolman",
+          "url": "https://open.spotify.com/artist/5VGuMO5Cj2dyuSiU4gWQys"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Keep On Rocking",
+      "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 261665,
       "name": "Porcelain God",
       "url": "https://open.spotify.com/track/1IdVFssKRonucYtUT2cTgb"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Daylight I Will Find",
-        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 277655,
-      "name": "Daylight I Will Find",
-      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
     },
     {
       "added_at": "2023-08-11 00:01:00",

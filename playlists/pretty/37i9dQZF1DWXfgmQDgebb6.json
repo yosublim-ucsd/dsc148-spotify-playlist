@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmU4M2Q1YTU1ZjcyM2E1NmZhYjBkN2Q2MjVmZjRhODFhZDgwOGJk",
+  "snapshot_id": "MCxmNzE0NTMwN2MzNmVlNjZjMzQ3YTgxMjhjZDRjZjMyNzhhMjAzOGJm",
   "tracks": [
     {
       "added_at": "2023-07-31 15:36:02",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
+        "name": "Prologue : Love",
+        "url": "https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 214918,
       "name": "Lustre",
       "url": "https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
-        "name": "Prologue : Love",
-        "url": "https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p"
-      },
-      "artists": [
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "I LOVE YOU",
-        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
       "artists": [
         {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
         }
       ],
-      "duration_ms": 98000,
-      "name": "I LOVE YOU",
-      "url": "https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc"
+      "duration_ms": 245280,
+      "name": "Evergray",
+      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+        "name": "I LOVE YOU",
+        "url": "https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT"
       },
       "artists": [
         {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Evergray",
-      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
+      "duration_ms": 98000,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "balaclava",
-        "url": "https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "time",
-      "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
         "name": "WORK HARD PLAY HARD",
         "url": "https://open.spotify.com/album/6Efi04Cj81zpJVsPxpWDul"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 213000,
       "name": "WORK HARD PLAY HARD",
       "url": "https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
+        "name": "balaclava",
+        "url": "https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "stuck in my head",
-      "url": "https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
         "name": "Ideology",
         "url": "https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175347,
       "name": "Ideology",
       "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "stuck in my head",
+      "url": "https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E"
     },
     {
       "added_at": "2023-07-31 15:36:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-31 15:36:02",
       "album": {
-        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
-      },
-      "artists": [
-        {
-          "name": "Lang Lee",
-          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
-    },
-    {
-      "added_at": "2023-07-31 15:36:02",
-      "album": {
         "name": "insatiable <3",
         "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 146413,
       "name": "always get lonely",
       "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
+    },
+    {
+      "added_at": "2023-07-31 15:36:02",
+      "album": {
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
     }
   ],
   "unique_name": "Hipster K' Pack",

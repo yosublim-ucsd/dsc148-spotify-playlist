@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 27573,
+  "num_followers": 27583,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGY4YjVjNmU2ZDBmNjRmNjI1ZDIxNmY2ZTdkMDRjYTY3ZmQ2MzBk",
+  "snapshot_id": "MCw3ODM0MGZhNTJjNWJmZGVhZmE0MTk0Nzg5MDMzZjE4NWU2OTQwNTgx",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Av\u00e9'w",
+        "url": "https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf"
+      },
+      "artists": [
+        {
+          "name": "Daan Junior",
+          "url": "https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs"
+        }
+      ],
+      "duration_ms": 335026,
+      "name": "Av\u00e9'w",
+      "url": "https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "#Esolf",
         "url": "https://open.spotify.com/album/7EDHii05sIu37py58x4F76"
       },
@@ -59,18 +75,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Av\u00e9'w",
-        "url": "https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf"
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
       },
       "artists": [
         {
-          "name": "Daan Junior",
-          "url": "https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs"
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
         }
       ],
-      "duration_ms": 335026,
-      "name": "Av\u00e9'w",
-      "url": "https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01"
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -91,22 +107,6 @@
       "duration_ms": 303079,
       "name": "Kanpe devanm",
       "url": "https://open.spotify.com/track/5ZfBDA0XCxmxwClnn4BaCZ"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "F\u00e8'l Vini Avan",
-        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
-      },
-      "artists": [
-        {
-          "name": "Klass",
-          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Pitit deyo",
-      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Nan Building Nan",
-        "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
-      },
-      "artists": [
-        {
-          "name": "System Band",
-          "url": "https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU"
-        }
-      ],
-      "duration_ms": 323268,
-      "name": "Pa Leve Main Ou Sou Li",
-      "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
         "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 271712,
       "name": "Cheri Benyen M'",
       "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Nan Building Nan",
+        "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
+      },
+      "artists": [
+        {
+          "name": "System Band",
+          "url": "https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU"
+        }
+      ],
+      "duration_ms": 323268,
+      "name": "Pa Leve Main Ou Sou Li",
+      "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
-      },
-      "artists": [
-        {
-          "name": "X-tassy",
-          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
-        }
-      ],
-      "duration_ms": 264341,
-      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
-      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Mete'm alez",
         "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 293035,
       "name": "Wet the hell map vini - Zouk",
       "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
     },
     {
       "added_at": "2020-06-03 18:17:45",

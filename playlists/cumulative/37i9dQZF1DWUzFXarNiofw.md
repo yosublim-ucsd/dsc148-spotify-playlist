@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Tone Stith
 
-1,364 songs - 3 day 0 hr 46 min
+1,365 songs - 3 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 | 2023-07-28 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-07-23 |
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-05-26 | 2023-08-05 |
+| [Pros and Cons](https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Pros and Cons](https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p) | 2:44 | 2023-08-11 |  |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-24 | 2022-07-30 |
 | [PUSHING BUTTONS](https://open.spotify.com/track/1kz6btgXpNRIYYGxHcSjHq) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [PUSHING BUTTONS](https://open.spotify.com/album/4VrcREGPUFiJxOjyJqaYGT) | 2:52 | 2023-06-16 |  |
 | [Pussy Power](https://open.spotify.com/track/1fZl8reZrPtBxwHNeedJA4) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [3 Words, 8 Letters](https://open.spotify.com/album/3cwHtC44GniubdYWBVmHm0) | 3:09 | 2023-06-09 | 2023-07-01 |
@@ -1329,7 +1330,7 @@
 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 | 2023-01-27 | 2023-03-18 |
 | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [White Lies \(feat\. Kwengface\)](https://open.spotify.com/album/5SP4C1eYeOVwLxqK2sxkW7) | 3:08 | 2023-02-10 | 2023-04-09 |
 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 | 2023-03-10 | 2023-06-03 |
-| [Who Am I \(feat\. Twigg Martin\)](https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ), [Twigg Martin](https://open.spotify.com/artist/5F2DtKXZAnKgl5e3BSiI5M) | [Who Am I \(feat\. Twigg Martin\)](https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE) | 2:02 | 2023-06-30 |  |
+| [Who Am I](https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ), [Twigg Martin](https://open.spotify.com/artist/5F2DtKXZAnKgl5e3BSiI5M) | [Who Am I](https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE) | 2:02 | 2023-06-30 |  |
 | [Who Are You](https://open.spotify.com/track/3841O6AhDYs7YHxo5fb5VM) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Moon in Pisces](https://open.spotify.com/album/2dqSwIbWxvfCk3QEwXheuV) | 2:59 | 2022-08-26 | 2022-09-24 |
 | [WHO DO U LUV](https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr) | 4:08 | 2023-07-07 | 2023-08-05 |
 | [Who Do You Belong To?](https://open.spotify.com/track/70w5BUc4XnSrxLgvk6txMz) | [Sammie](https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg) | [L.A.W.](https://open.spotify.com/album/1VEbVPToSS9kcNwRikwOsv) | 2:24 | 2023-08-11 |  |

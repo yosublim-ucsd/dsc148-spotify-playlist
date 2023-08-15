@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp"
+      },
+      "artists": [
+        {
+          "name": "Nikki Webster",
+          "url": "https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210100,
+      "name": "Strawberry Kisses",
+      "url": "https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv"
+    },
+    {
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/5N8jCZO1JZpiEMl1AyBZou"
       },

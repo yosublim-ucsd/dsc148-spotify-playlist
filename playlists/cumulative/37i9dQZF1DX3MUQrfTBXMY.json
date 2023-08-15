@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 320342,
       "name": "Ami Bodle Jabo",
       "url": "https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 316000,
       "name": "Bhober Pagol",
       "url": "https://open.spotify.com/track/4El1blqsazEurG6gpvyUtF"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 273586,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/38vKlNkIGf226qscAwKiBY"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 245983,
       "name": "Camera",
       "url": "https://open.spotify.com/track/5mb6nSUu3ozmmHJLPDpD7w"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 265129,
       "name": "Masranga",
       "url": "https://open.spotify.com/track/2WheD9I12IlaPFgidqcf57"
@@ -2496,6 +2496,24 @@
       "duration_ms": 269008,
       "name": "Matir Roud (Bonus Track)",
       "url": "https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj"
+    },
+    {
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/2ccWwV3F8ExvbQ258jCaj8"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404869,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/0pNFYOj2eRAvIBX5cFrmHc"
     },
     {
       "album": {
@@ -2859,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Nijer Jonno",
+        "url": "https://open.spotify.com/album/5Xp88wo4dgjG93eESETcR8"
+      },
+      "artists": [
+        {
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301371,
+      "name": "Nijer Jonno",
+      "url": "https://open.spotify.com/track/27ubltBJaoOJCBKDQoR3l0"
+    },
+    {
+      "album": {
         "name": "Nijer Jonno Gan",
         "url": "https://open.spotify.com/album/78jmJKiaCKhaUvpOxqYXgx"
       },
@@ -3108,7 +3144,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 297807,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs"
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 337250,
       "name": "Ondho Deyal",
       "url": "https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju"
@@ -3318,7 +3354,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 291013,
       "name": "Opekkha",
       "url": "https://open.spotify.com/track/6hZ1FgzgOngc4DkFZAG041"
@@ -3408,7 +3444,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 268997,
       "name": "Oshohay",
       "url": "https://open.spotify.com/track/28EuVI2lZ9lPQvxqkTocQ5"
@@ -3906,7 +3942,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 263267,
       "name": "Roder Fota",
       "url": "https://open.spotify.com/track/1H06JdgsvqCI7dQTTQxIOF"
@@ -4112,7 +4148,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 330398,
       "name": "Sheishob Din Raatri",
       "url": "https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb"
@@ -4592,7 +4628,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 223473,
       "name": "Tobu Mon",
       "url": "https://open.spotify.com/track/5FPA6G5VxN014UrBKm0BJd"

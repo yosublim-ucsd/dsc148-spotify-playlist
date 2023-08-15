@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-340 songs - 1 day 0 hr 57 min
+341 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [DEEP IN VOGUE \- feat\. Sophie Ellis\-Bextor](https://open.spotify.com/track/3RtT4bWTzrgAldm9ksoOME) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [DEEP IN VOGUE \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/0FdtnL6SUuctP8bq8WNYhI) | 4:12 | 2023-03-16 | 2023-05-05 |
 | [Dehors\(Adjust\)](https://open.spotify.com/track/0Yy0VRavJRp5SyypxzPfqV) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [DEPOT \(vol.1\)](https://open.spotify.com/album/42tLTAB1hydObvvKaWuOBN) | 5:32 | 2023-03-16 | 2023-05-12 |
 | [Domenico](https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Domenico](https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne) | 4:58 | 2023-03-16 | 2023-06-30 |
-| [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-06-09 |  |
+| [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-12 |  |
+| [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-06-09 | 2023-08-15 |
 | [Don't Break My Heart](https://open.spotify.com/track/4FlUR0F8qDcCJoppxn4UFZ) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Break My Heart](https://open.spotify.com/album/00aSM0hWFLEe2wFZ3LiPxn) | 3:47 | 2023-03-16 | 2023-03-31 |
 | [Don't Drop Dead](https://open.spotify.com/track/1NGtbDlXvF4wtzJk5mwrvI) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Don't Drop Dead](https://open.spotify.com/album/79o2wihQ10jYJ1POc2z8Mq) | 4:11 | 2023-05-11 | 2023-06-12 |
 | [Don't Drop Dead](https://open.spotify.com/track/1O72TP7NaHxageyDGhE4Cw) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Midva](https://open.spotify.com/artist/3TwSL2bcc3d1HZGZY4NwqI) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 4:11 | 2023-06-09 | 2023-08-12 |

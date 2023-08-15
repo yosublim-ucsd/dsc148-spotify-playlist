@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> 100 Live @ WOW'23\. HIPHOP 50!
+> HIPHOP 50!
 
 1,160 songs - 2 day 3 hr 19 min
 

@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-142 songs - 8 hr 56 min
+143 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2021-11-25 | 2022-03-25 |
 | [Up!](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up!](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 | 2022-04-01 | 2022-12-01 |
 | [Wag Kang Umalis](https://open.spotify.com/track/5khydlMrB3SAr4pHDDNSs6) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [Wag Kang Umalis](https://open.spotify.com/album/3nGMv7k9vSWD0dqUKbOngY) | 3:36 | 2021-11-25 | 2022-03-25 |
+| [Walang Hanggan](https://open.spotify.com/track/14wNLmi7KXtJ39lUFPfnk3) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Walang Hanggan](https://open.spotify.com/album/5wCenV67j6kZHQy3x94YLu) | 3:35 | 2023-08-14 |  |
 | [Warrior Princess](https://open.spotify.com/track/3mmrQQp1rzp7AH0xFVSKZH) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Warrior Princess](https://open.spotify.com/album/4vUSeIXxXuohMw215OSW0D) | 2:48 | 2021-11-25 | 2022-03-25 |
 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 | 2021-11-25 | 2023-04-14 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2021-11-25 | 2022-03-25 |

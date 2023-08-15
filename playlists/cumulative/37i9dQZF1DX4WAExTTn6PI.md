@@ -4,11 +4,12 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Gabe Lee
 
-184 songs - 11 hr 14 min
+185 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [75\-71](https://open.spotify.com/track/1Kpl4t6FsojBlqRctw58DD) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:44 | 2023-06-30 |  |
+| [Aint Gotta Dollar](https://open.spotify.com/track/2USW8uFqLToqFKSVXDOEN8) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Aint Gotta Dollar](https://open.spotify.com/album/6e9ii4qzptMYO7BdbybG2p) | 2:04 | 2023-08-14 |  |
 | [All I Ever Do](https://open.spotify.com/track/4RnQ88qJ1p0PfkwIz35MlU) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [All I Ever Do](https://open.spotify.com/album/0UWG5NcstilTTvd3AD7QeM) | 3:03 | 2022-01-28 | 2023-04-01 |
 | [All I Got](https://open.spotify.com/track/5w8T8vBAJCLFOUQ8jfVtYF) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [All I Got](https://open.spotify.com/album/3m1TVcg4p3VwpRuyt02VSM) | 3:23 | 2022-01-28 | 2022-07-29 |
 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 | 2022-01-28 |  |

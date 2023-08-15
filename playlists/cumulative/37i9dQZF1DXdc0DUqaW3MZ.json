@@ -706,7 +706,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 196150,
       "name": "Black Qualls - Single Version",
       "url": "https://open.spotify.com/track/2dh4Ff65vPJmRkc4Xw2K4w"
@@ -3006,6 +3006,24 @@
       "duration_ms": 201991,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
     },
     {
       "album": {

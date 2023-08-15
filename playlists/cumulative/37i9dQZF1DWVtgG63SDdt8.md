@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=0d7c4b79d47f4409">Jervis Campbell</a>
 
-4,180 songs - 11 day 16 hr 4 min
+4,181 songs - 11 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [But the Cross \(feat\. Tasha Layton\)](https://open.spotify.com/track/3Au5RZgQcfzijctKojvvJ7) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [But the Cross](https://open.spotify.com/album/3z7k02z98IxDKXSMaPKqXO) | 3:18 | 2023-07-14 | 2023-07-29 |
 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-06-17 | 2022-07-02 |
 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 | 2022-07-15 | 2022-07-30 |
-| [By Faith \- Live](https://open.spotify.com/track/17TAw1mGGuiSwld6OXyURb) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [By Faith \(Live\)](https://open.spotify.com/album/2rJUQDnyOVu0wyTzh8VtCO) | 6:07 | 2023-08-04 |  |
+| [By Faith \- Live](https://open.spotify.com/track/17TAw1mGGuiSwld6OXyURb) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [By Faith \(Live\)](https://open.spotify.com/album/2rJUQDnyOVu0wyTzh8VtCO) | 6:07 | 2023-08-04 | 2023-08-15 |
+| [By Faith \- Live](https://open.spotify.com/track/6RG5p88ZxurzshUsVv26i2) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 6:07 | 2023-08-11 |  |
 | [By the River](https://open.spotify.com/track/52ivV2XnZz3M9JufTsInV1) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [By the River](https://open.spotify.com/album/4R63Gff88BFdSCdpsAbMK7) | 2:51 | 2023-01-27 | 2023-02-04 |
 | [By The Savior's Power](https://open.spotify.com/track/0wWx4fDS3Dap2dtIuD6NvA) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb) | [By The Savior's Power](https://open.spotify.com/album/78TSJcqgv1xIt3Kk7oIPxX) | 4:34 | 2023-06-16 | 2023-07-01 |
 | [By The Stripes](https://open.spotify.com/track/3pQt0GGWzl1c0GDFVHdJnz) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [By The Stripes](https://open.spotify.com/album/5Opmhi4fmCNVpIm7lO5E6o) | 4:26 | 2022-06-10 | 2022-06-26 |

@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-175 songs - 12 hr 45 min
+176 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abba](https://open.spotify.com/track/4LdNy84s0Q7xjaEWbU1JAs) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [On the Shores](https://open.spotify.com/album/5wI9V5pyCGvu75B2PzlU1o) | 4:04 | 2020-08-31 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 | 2020-08-31 | 2023-07-29 |
 | [All for You](https://open.spotify.com/track/30OQNZvkK8BbSYnZcSrcdZ) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth the Wait](https://open.spotify.com/album/0WnF52PyHmyJQqyCJdhsqh) | 3:55 | 2020-08-31 | 2022-07-29 |
-| [All For You](https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth The Wait](https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h) | 3:55 | 2020-08-31 |  |
+| [All For You](https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Worth The Wait](https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h) | 3:55 | 2020-08-31 | 2023-08-15 |
 | [All Glory](https://open.spotify.com/track/7DFJzZsxf9bYATNTLmD4fp) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [All Glory](https://open.spotify.com/album/3tPnHlQIq5gqZ27K1hMTLS) | 5:49 | 2020-08-31 | 2022-06-30 |
 | [Another In The Fire \- Acoustic](https://open.spotify.com/track/77yuZSTyvX71hl5ip4SRfd) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:37 | 2020-08-31 |  |
 | [Ashes to Skies](https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ashes to Skies](https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX) | 4:34 | 2020-08-31 |  |
@@ -40,6 +40,7 @@
 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 | 2020-08-31 |  |
 | [Deeper Water](https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT) | [Ry Cox](https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap) | [Love Unending](https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb) | 4:30 | 2020-08-31 |  |
 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Do It Again \- EP](https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE) | 4:32 | 2020-08-31 |  |
+| [Don't Give Up](https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Don't Give Up](https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u) | 5:17 | 2023-07-28 |  |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-07-28 |  |
 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 | 2020-08-31 |  |
 | [Footprints \- Acoustic](https://open.spotify.com/track/6HoK4mYxRsiNKf8eO1bMWd) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/5z8CdQ3QbVZo9xqlZ3Dcd1) | 4:07 | 2020-08-31 | 2022-10-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Maaveeran",
+  "description": "Check out the Latest Romance Tracks.\nCover : Jawan",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -829,6 +829,28 @@
     },
     {
       "album": {
+        "name": "Hayyoda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200142,
+      "name": "Hayyoda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R"
+    },
+    {
+      "album": {
         "name": "Hey Sita Hey Rama [From \"Sita Ramam (Tamil)\"]",
         "url": "https://open.spotify.com/album/7anEyzZSsFWAowL1XkyRs6"
       },
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 172653,
       "name": "Kukunnu",
       "url": "https://open.spotify.com/track/57eEC8OndWnuQxct2juUnW"
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 224991,
       "name": "Vaadi Vaadi - From \"Think Originals\"",
       "url": "https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky"

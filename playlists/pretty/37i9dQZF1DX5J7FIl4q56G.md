@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Caskets
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,003 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,180 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Thrown Into the Void](https://open.spotify.com/track/40tIjowa35w6sPAHP2sCUn) | [Plaguestorm](https://open.spotify.com/artist/2OQNswVxFEDdKzAOveCqjg) | [Thrown Into The Void](https://open.spotify.com/album/1VpQUz7BPmuQk9wX9jYDfu) | 3:56 |
 | 50 | [Uniform](https://open.spotify.com/track/4weEZfLQRLafr8v7IT7fsN) | [Beurre](https://open.spotify.com/artist/0LljVeNDyTJoH9peuKNWjg) | [Oxt to Anyone](https://open.spotify.com/album/4WuHamV6YAKA3xUNpwkINO) | 1:31 |
 
-Snapshot ID: `MCxlMGE0YjkxNzc3NzY1NDEyNWQyYTQwZTlmOTdjNTNmYmUxMzc4NzNm`
+Snapshot ID: `MCwyYzMwNDdmMWU0ZTE5ZmUwZGRiNjU3YjRiMjY0YjczYTRkYWFiMTE3`

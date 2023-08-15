@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 14984,
+  "num_followers": 15094,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2",
+  "snapshot_id": "MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj",
   "tracks": [
     {
       "added_at": "2023-08-04 09:26:45",
@@ -195,6 +195,50 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 171350,
+      "name": "Der Gorilla mit der Sonnenbrille",
+      "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Boom Schakkalakka",
+        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Boom Schakkalakka",
+      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "Bibi und Tina: VOLL VERHEXT! (Der Original-Soundtrack zum Kinofilm)",
         "url": "https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP"
       },
@@ -223,82 +267,6 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Boom Schakkalakka",
-        "url": "https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        },
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Boom Schakkalakka",
-      "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 171350,
-      "name": "Der Gorilla mit der Sonnenbrille",
-      "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Das Album - Rock'n'Rarrr Music",
-        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
-      },
-      "artists": [
-        {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Kaugummi ist mega!",
-      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "N\u00f6 mit \u00d6",
-        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
-      },
-      "artists": [
-        {
-          "name": "Giraffenaffen Gang",
-          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Dschungelparty",
-      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
         "name": "Rolfs Liederkalender / Die Jahresuhr",
         "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
       },
@@ -315,22 +283,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Giraffenaffen 2",
-        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
+        "name": "Das Album - Rock'n'Rarrr Music",
+        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
       },
       "artists": [
         {
-          "name": "Jupiter Jones",
-          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
         }
       ],
-      "duration_ms": 187946,
-      "name": "Probiers mal mit Gem\u00fctlichkeit",
-      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
+      "duration_ms": 252426,
+      "name": "Kaugummi ist mega!",
+      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -359,6 +323,42 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "N\u00f6 mit \u00d6",
+        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
+      },
+      "artists": [
+        {
+          "name": "Giraffenaffen Gang",
+          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Dschungelparty",
+      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Giraffenaffen 2",
+        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Jones",
+          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 187946,
+      "name": "Probiers mal mit Gem\u00fctlichkeit",
+      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 95173,
       "name": "Bl\u00fcht ein Bl\u00fcmlein",
       "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Oh Yeah!",
+        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "Party im Zoo",
+      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Oh Yeah!",
-        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "Party im Zoo",
-      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
         "name": "Das Gelbe vom Schwamm",
         "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
       },
@@ -423,30 +423,6 @@
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -503,6 +479,30 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 114258,
+      "name": "Plitsch, plitsch, platsch",
+      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "Giraffenaffen",
         "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
@@ -519,38 +519,6 @@
       "duration_ms": 215400,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Sommertag",
-        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "Sommertag",
-      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -615,6 +583,38 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Sommertag",
+        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 128444,
+      "name": "Sommertag",
+      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "Sing mit mir Kinderlieder 4",
         "url": "https://open.spotify.com/album/5SgiKSIJZIr6nhEoYNEIIY"
       },
@@ -659,30 +659,6 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 130180,
-      "name": "Dickie, der dicke Delfin",
-      "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
         "name": "Sommerkinder",
         "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
@@ -719,50 +695,26 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
-        "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
-      },
-      "artists": [
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
         {
-          "name": "Die Lollipops",
-          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Urlaub unter Freunden",
-      "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+      "duration_ms": 130180,
+      "name": "Dickie, der dicke Delfin",
+      "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -783,6 +735,78 @@
       "duration_ms": 225000,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
+        "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
+      },
+      "artists": [
+        {
+          "name": "Die Lollipops",
+          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Urlaub unter Freunden",
+      "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "Auf einem Baum ein Kuckuck sa\u00df",
+      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -811,22 +835,6 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -843,26 +851,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2023-08-04 09:26:45",

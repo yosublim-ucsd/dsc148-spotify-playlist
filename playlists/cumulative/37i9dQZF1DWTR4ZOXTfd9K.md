@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-140 songs - 14 hr 34 min
+141 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,9 @@
 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 | 2021-12-02 |  |
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2021-12-02 | 2022-10-07 |
 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 | 2022-10-06 |  |
+| [Passage](https://open.spotify.com/track/02DGEpoMzjyhDmJmyYtIla) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 9:38 | 2023-08-09 |  |
 | [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 | 2023-08-01 | 2023-08-10 |
-| [Passage](https://open.spotify.com/track/1RcgSMUt7FW5dZeqpXvaWp) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 9:38 | 2023-08-09 |  |
+| [Passage](https://open.spotify.com/track/1RcgSMUt7FW5dZeqpXvaWp) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 9:38 | 2023-08-09 | 2023-08-15 |
 | [Peace](https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 5:15 | 2021-12-02 |  |
 | [Queen Of The South](https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 4:20 | 2021-12-02 |  |
 | [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 | 2022-10-06 | 2023-08-02 |

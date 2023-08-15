@@ -3557,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Nuageuse",
+        "url": "https://open.spotify.com/album/52DQEHqOhfkuQtFf68hDsf"
+      },
+      "artists": [
+        {
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Nuageuse",
+      "url": "https://open.spotify.com/track/15Jr8uCKADkpUIHC2nTaqG"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2NEzXX5tsoegZc6qFPXGrT"
       },

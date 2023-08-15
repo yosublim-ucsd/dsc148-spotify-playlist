@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yussef Dayes
 
-452 songs - 1 day 8 hr 31 min
+453 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Green Grass](https://open.spotify.com/track/5XHLHL747QGGemajjt2fIu) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Green Grass](https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o) | 3:45 | 2023-07-21 |  |
 | [Grief](https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Maxwell Owin](https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Grief](https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H) | 4:17 | 2023-05-05 | 2023-07-16 |
 | [Halcyon Senegalensis](https://open.spotify.com/track/1sn8VvS6SaXeLtddwNyYhz) | [Type Face](https://open.spotify.com/artist/07HIYTYKnxErGY6d27LtNp) | [Halcyon Senegalensis](https://open.spotify.com/album/6dHbh6HcUVvlCenKsba9Fm) | 2:45 | 2022-07-14 | 2022-07-28 |
-| [Hate To Ride Alone \- Slim.'s Remix](https://open.spotify.com/track/1AjQYOpLwhNPr3EOQ9dBAJ) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Hate To Ride Alone \(Slim.'s Remix\)](https://open.spotify.com/album/2SbTRdDx7G44ZViLhOlcIa) | 2:28 | 2023-08-03 |  |
+| [Hate To Ride Alone \- Slim.'s Remix](https://open.spotify.com/track/1AjQYOpLwhNPr3EOQ9dBAJ) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Hate To Ride Alone \(Slim.'s Remix\)](https://open.spotify.com/album/2SbTRdDx7G44ZViLhOlcIa) | 2:28 | 2023-08-03 | 2023-08-15 |
 | [Headstew](https://open.spotify.com/track/5IHZOZwnVgqMnFqw8K6pF4) | [Space Ghetto](https://open.spotify.com/artist/0bbw65s9B3DUieVNpBtcoG) | [Headstew](https://open.spotify.com/album/5AQyeygaG0MMPS0aZ90VmM) | 5:44 | 2021-12-17 | 2022-07-22 |
 | [HEAR ME](https://open.spotify.com/track/2v4DyAgIiGslu9EPPhiltW) | [ELWD](https://open.spotify.com/artist/3UIr0NbZyET0Dt7ErPmPGd) | [DANDELION](https://open.spotify.com/album/4tx2t5A7s34CUvBqD9XGnt) | 1:46 | 2022-01-07 | 2022-05-10 |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
@@ -389,6 +389,7 @@
 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 | 2022-07-28 | 2022-11-04 |
 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 | 2022-07-28 | 2022-09-10 |
 | [Tell Me](https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6xwlnoaYeGHD7WqEHyeVMz) | 3:20 | 2021-12-17 | 2022-07-28 |
+| [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-11 |  |
 | [The Afternoon of Human Life](https://open.spotify.com/track/06Zwd53J0LySW31tdYEuz6) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Afternoon of Human Life](https://open.spotify.com/album/1IfyoBGbOEf7Nl3glUaah2) | 7:03 | 2021-12-17 | 2022-07-25 |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-07-28 | 2023-04-16 |
 | [The Duke](https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw) | [The Duke](https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu) | 1:50 | 2023-01-06 |  |

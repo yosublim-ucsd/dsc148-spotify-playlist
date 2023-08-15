@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: BADASSMUTHA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,056 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,055 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [No Style](https://open.spotify.com/track/016A8HgFir02qVhhoHsF3f) | [DJ SUNROOF](https://open.spotify.com/artist/1acpKqmtHJ8cR7SY7lWZ2h) | [No Style](https://open.spotify.com/album/1gps89GiBTAKcFfRaiWFVI) | 3:20 |
 | 100 | [SSX](https://open.spotify.com/track/6KiDSY2zT06fZaITlCJ32w) | [The Bluebottles](https://open.spotify.com/artist/0Z2i6BPbxy76Fofb2xHoTe) | [SSX](https://open.spotify.com/album/7utnoqDSvdwcspHQSrD3bt) | 3:53 |
 
-Snapshot ID: `MCw2NTdiYWIzNDU0ODdkY2YwNTEwNTM3YzY2NzM0MTU0NDI1OTc2MWM4`
+Snapshot ID: `MCxmODU5MmEzMmRiNTMzOGQ2NTg4YzczZjZmYjljN2YxMzc5ZWFmZGFl`

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,223 songs - 2 day 22 hr 37 min
+1,224 songs - 2 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bass Go Boom](https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Bass Go Boom](https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG) | 2:58 | 2023-03-24 | 2023-06-24 |
 | [Bass Into the Future](https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Bass Into the Future](https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H) | 2:41 | 2023-08-11 |  |
 | [Be Good](https://open.spotify.com/track/7vaPvdlnM8kBtibPGjRwxp) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Be Good](https://open.spotify.com/album/1BxTavE4Mq4RYV9NafcpWx) | 3:18 | 2022-02-18 | 2022-04-23 |
+| [Be With You Tonight](https://open.spotify.com/track/4J3UQnSs1gWUfhh0u8o2bi) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Be With You Tonight](https://open.spotify.com/album/6S8E2IvaHwp1wrHPGVacPK) | 2:55 | 2023-08-11 |  |
 | [Beat Go Bump](https://open.spotify.com/track/51RhTPvrVNx7DmGscgNJuc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Mike & Me](https://open.spotify.com/artist/0V0VNxLAmU4j1caUNW477Z) | [Beat Go Bump](https://open.spotify.com/album/3O8BU5I0ieW8HvsIJTKD2H) | 2:54 | 2023-06-09 |  |
 | [Beautiful \- James Hype Remix](https://open.spotify.com/track/53Vaa3bArj0iBOyCb9Ta4Z) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Beautiful \(James Hype Remix\)](https://open.spotify.com/album/3YZlrtEA2PTwDNGAo84dLl) | 3:04 | 2022-04-29 | 2022-06-11 |
 | [Beggin For More](https://open.spotify.com/track/3SPdGT7bxHTi0c8hUJEeZT) | [Fran Valdivieso](https://open.spotify.com/artist/4guxJfujrQB0QSyCuH3f5o), [Wrong Department](https://open.spotify.com/artist/0e3STjK3glU43XkbMMz17D) | [Beggin For More](https://open.spotify.com/album/52yKPsGADBiTYBt41DzSlT) | 2:53 | 2022-08-19 | 2022-10-01 |
@@ -128,7 +129,7 @@
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-05 | 2022-11-29 |
 | [Boots 'N' Cats](https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc), [MVRT](https://open.spotify.com/artist/4o6dSaEQPjuz9CgVomOekK) | [Boots 'N' Cats](https://open.spotify.com/album/21ad01B7nsTGlFcWyFBAwX) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [Booty Call](https://open.spotify.com/track/5ewAgjDoLSaRIkRNKSrulv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Booty Call](https://open.spotify.com/album/5i6flFpD41g9ne7XBItO1n) | 2:40 | 2021-11-26 | 2022-01-06 |
-| [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 |  |
+| [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 | 2023-08-15 |
 | [Bounce Back \- Radio Edit](https://open.spotify.com/track/618yUf41DzP0qLVH4b76PR) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bounce Back](https://open.spotify.com/album/3FVsYixksaFuLlWxRrKF9C) | 4:40 | 2021-11-26 | 2022-01-06 |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-05-13 | 2022-07-09 |
 | [Boyz N Da Club](https://open.spotify.com/track/6UnIzJce5oPkbZNLtOrQpR) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club](https://open.spotify.com/album/6KasM8IauF480u29Vmfww8) | 6:17 | 2021-11-26 | 2022-01-06 |

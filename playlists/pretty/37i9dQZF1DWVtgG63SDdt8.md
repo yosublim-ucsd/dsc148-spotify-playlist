@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=0d7c4b79d47f4409">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,163 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,291 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 76 | [Every Worship Song Ever](https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship Medleys](https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M) | 3:38 |
 | 77 | [Who Else \- Live](https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s) | [Who Else \(Live\)](https://open.spotify.com/album/3CqhQB1z0nVAmVHlqFSClB) | 4:50 |
 | 78 | [Presence](https://open.spotify.com/track/2hDuQ4ottXOthqDd3GtYn3) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Presence](https://open.spotify.com/album/6LCS3ZjvahueX23HgteLv3) | 5:05 |
-| 79 | [By Faith \- Live](https://open.spotify.com/track/17TAw1mGGuiSwld6OXyURb) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [By Faith \(Live\)](https://open.spotify.com/album/2rJUQDnyOVu0wyTzh8VtCO) | 6:07 |
+| 79 | [By Faith \- Live](https://open.spotify.com/track/6RG5p88ZxurzshUsVv26i2) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 6:07 |
 | 80 | [Lord Let Your Glory Fall On Us \- Live](https://open.spotify.com/track/0mrgeJ8cGbkuWwc1OhCZD4) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Lord Let Your Glory Fall On Us \(Live\)](https://open.spotify.com/album/4pqs4M6GcBY4Yub57kN3YN) | 7:03 |
 | 81 | [Come](https://open.spotify.com/track/6jYAxG16o4jRmfiLr2X11T) | [Render Music](https://open.spotify.com/artist/3gDRMHBnLhEmUiID3acmy2), [Diamone](https://open.spotify.com/artist/4EmeC8wiEpiOFr0yaO6GoW) | [Come](https://open.spotify.com/album/03cF1nunQMH2eXHJjYxgPZ) | 4:56 |
 | 82 | [Lost Are Found \- Live](https://open.spotify.com/track/0MXhQSEwnvSxw2Yk6y6Ytn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Bobby Walker](https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE) | [Lost Are Found \(Live\)](https://open.spotify.com/album/78AviZzQVWkUtGO14XS8ek) | 10:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Never Letting Go](https://open.spotify.com/track/0nwqekQQmUtaylcihI4GDV) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Never Letting Go](https://open.spotify.com/album/5ikF0kV4fCj8ZgMCSGzkFD) | 3:38 |
 | 99 | [Worship](https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Worship](https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q) | 3:02 |
 
-Snapshot ID: `MCwwODM0YTJhODk4OTZhYmI5OGYxMDU4YTk0YmMzMzkwYmU4OGIwMmFm`
+Snapshot ID: `MCxjNWQ3MDA3ODA3YTY0NGU4MGI3YjM5OWY5MTBlZDc2M2IxMmM4YzE1`

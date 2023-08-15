@@ -1,29 +1,13 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 415151,
+  "num_followers": 415343,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTg0NjEwNzA3OGUxMzI5ZTFjMGE4NzYyMzI3NzAxNGQ4YmRmYjE3",
+  "snapshot_id": "MCxlZmZjMDVlM2JhYWJmOWExYWJlMDdlNzNmOTRkZTAyMGJkOTNmMjBk",
   "tracks": [
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "ELECTRIC",
-        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
-      },
-      "artists": [
-        {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
-    },
     {
       "added_at": "2023-07-28 14:33:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 184840,
       "name": "Beautiful (2023 Edit)",
       "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "ELECTRIC",
+        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "every minute",
@@ -133,22 +149,6 @@
       "url": "https://open.spotify.com/track/3lQUZQQeLhQWeos7DbfB5B"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Estrogen",
-        "url": "https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE"
-      },
-      "artists": [
-        {
-          "name": "Knife Girl",
-          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
-        }
-      ],
-      "duration_ms": 218285,
-      "name": "Estrogen",
-      "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
-    },
-    {
       "added_at": "2023-08-05 11:58:21",
       "album": {
         "name": "halo",
@@ -163,6 +163,22 @@
       "duration_ms": 183783,
       "name": "halo",
       "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Estrogen",
+        "url": "https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE"
+      },
+      "artists": [
+        {
+          "name": "Knife Girl",
+          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+        }
+      ],
+      "duration_ms": 218285,
+      "name": "Estrogen",
+      "url": "https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -187,22 +203,6 @@
       "duration_ms": 191162,
       "name": "remedy",
       "url": "https://open.spotify.com/track/4EIqHD0JXTORIeImuvvDI4"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -255,6 +255,22 @@
       "duration_ms": 156521,
       "name": "buffalo '66",
       "url": "https://open.spotify.com/track/4QgiWkurJSR5fJDn7MYhN9"
+    },
+    {
+      "added_at": "2023-08-14 17:42:04",
+      "album": {
+        "name": "Rodeo Star",
+        "url": "https://open.spotify.com/album/55MAGWwfOt8b8Qfxd6pa8m"
+      },
+      "artists": [
+        {
+          "name": "Cowgirl Clue",
+          "url": "https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4"
+        }
+      ],
+      "duration_ms": 175624,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/0y4yDgUYYRZFrFxF66wOVq"
     },
     {
       "added_at": "2023-07-21 04:00:00",

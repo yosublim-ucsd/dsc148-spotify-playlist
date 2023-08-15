@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: To The Grave
 
-491 songs - 1 day 7 hr 52 min
+492 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 | 2021-12-31 | 2022-04-07 |
 | [The Bleeding Machine](https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI), [Elysia](https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS) | [The Bleeding Machine](https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo) | 3:43 | 2023-07-21 |  |
 | [The Blvck Sun \|](https://open.spotify.com/track/43GeseGjfyB4RWH4Dhhv4E) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [The Blvck Sun \|](https://open.spotify.com/album/2ohfUODwY6bkItYtk41nP0) | 4:49 | 2021-12-17 | 2022-07-29 |
+| [The Blvck Sun\|](https://open.spotify.com/track/15FQR8bLc1RnS5tocQRnL5) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [The Blvck Sun \|\| the Blood Moon](https://open.spotify.com/album/2IFyHzwVS0KBoplhLh5Bq9) | 4:49 | 2023-07-21 |  |
 | [The Breeding Process](https://open.spotify.com/track/54GYWKXmCV1J8uvZxBVBh3) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Breeding Process](https://open.spotify.com/album/52haFSvKpbWHTpqn1vxJZW) | 5:01 | 2021-12-17 | 2022-04-07 |
 | [The Butcher](https://open.spotify.com/track/3WCGIWQbdYCj5bdFai2Ybs) | [Sever the King](https://open.spotify.com/artist/7glvEG8KLnlUQVDEo8v4rs) | [The Butcher](https://open.spotify.com/album/70OOddXUV5T3yefa1yW1wn) | 5:07 | 2021-12-17 | 2022-04-06 |
 | [The Cycle Of Violence : Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-05-06 |  |
@@ -440,7 +441,7 @@
 | [The Servant](https://open.spotify.com/track/1RPmmTSJhDfMg1V6qTHA0u) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Servant](https://open.spotify.com/album/00csdb1K13QsTHTImL15em) | 3:39 | 2022-10-03 | 2022-10-22 |
 | [The Shadowy Descent of Gaia](https://open.spotify.com/track/0MCP9JP5ikBXncq8zlhkCK) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [The Shadowy Descent of Gaia](https://open.spotify.com/album/4Ifi7nuaAuagUnBj7yY4rG) | 4:42 | 2021-12-17 | 2022-07-28 |
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2021-12-17 | 2022-07-28 |
-| [The Soil](https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:29 | 2022-07-08 |  |
+| [The Soil](https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:29 | 2022-07-08 | 2023-08-15 |
 | [The Tyrannt's Covenant](https://open.spotify.com/track/4HX43R8UeIPjEPpTzKQb3P) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [The Tyrannt's Covenant](https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP) | 3:21 | 2021-12-17 | 2022-07-27 |
 | [The Vice](https://open.spotify.com/track/7vFKWWgZP8UXReQlJ8QR5u) | [Relapse](https://open.spotify.com/artist/6FIDsLHMUgxEaL3mWChbXo) | [The Vice](https://open.spotify.com/album/23Jqc70i8Xz4wVDBVdYVa5) | 3:06 | 2021-12-17 | 2022-04-05 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2021-12-17 | 2022-07-28 |

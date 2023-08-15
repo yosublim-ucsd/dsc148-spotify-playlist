@@ -1,13 +1,61 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: PaulWetz",
-  "num_followers": 389299,
+  "num_followers": 389460,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMThmN2ZmYmQ4Nzc3OTlkMGI2ZWU0OGM4MzJlM2IzNzdmNGIyY2Ux",
+  "snapshot_id": "MCwyZTRmYTgyNTk5NjMyZjY4OWVkYjUwY2RkNGE2OTcxZmQ4MGEyNDQz",
   "tracks": [
+    {
+      "added_at": "2023-08-10 22:02:29",
+      "album": {
+        "name": "Paris Paris",
+        "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "duration_ms": 176276,
+      "name": "Paris Paris",
+      "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
+    },
+    {
+      "added_at": "2023-08-10 22:02:29",
+      "album": {
+        "name": "rosa rugosa",
+        "url": "https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08"
+      },
+      "artists": [
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 136880,
+      "name": "rosa rugosa",
+      "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
+    },
     {
       "added_at": "2023-08-10 22:02:29",
       "album": {
@@ -47,70 +95,6 @@
     {
       "added_at": "2023-08-10 22:02:29",
       "album": {
-        "name": "rosa rugosa",
-        "url": "https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08"
-      },
-      "artists": [
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 136880,
-      "name": "rosa rugosa",
-      "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
-    },
-    {
-      "added_at": "2023-08-10 22:02:29",
-      "album": {
-        "name": "Paris Paris",
-        "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
-      },
-      "artists": [
-        {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        }
-      ],
-      "duration_ms": 176276,
-      "name": "Paris Paris",
-      "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
-    },
-    {
-      "added_at": "2023-08-10 22:02:29",
-      "album": {
-        "name": "Raue Z\u00e4rtlichkeit",
-        "url": "https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0"
-      },
-      "artists": [
-        {
-          "name": "TYM",
-          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
-        }
-      ],
-      "duration_ms": 135933,
-      "name": "Raue Z\u00e4rtlichkeit",
-      "url": "https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ"
-    },
-    {
-      "added_at": "2023-08-10 22:02:29",
-      "album": {
         "name": "Egoist",
         "url": "https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 198448,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H"
+    },
+    {
+      "added_at": "2023-08-10 22:02:29",
+      "album": {
+        "name": "Sekundenschlaf",
+        "url": "https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "duration_ms": 153782,
+      "name": "Sekundenschlaf",
+      "url": "https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2"
     },
     {
       "added_at": "2023-08-10 22:02:29",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-08-10 22:02:29",
       "album": {
-        "name": "Sekundenschlaf",
-        "url": "https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR"
+        "name": "Raue Z\u00e4rtlichkeit",
+        "url": "https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0"
       },
       "artists": [
         {
-          "name": "Lena&Linus",
-          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
         }
       ],
-      "duration_ms": 153782,
-      "name": "Sekundenschlaf",
-      "url": "https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2"
+      "duration_ms": 135933,
+      "name": "Raue Z\u00e4rtlichkeit",
+      "url": "https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ"
     },
     {
       "added_at": "2023-08-10 22:02:29",

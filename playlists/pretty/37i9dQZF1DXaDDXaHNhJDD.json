@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: Thallumala",
-  "num_followers": 65884,
+  "num_followers": 65969,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWUyMjg4MWI4OGI4NWRiYWJkNWMwNWU5ZTdhNDJjYmQ2MzM1MmYx",
+  "snapshot_id": "MCxhODk4ZGE0ODMxYjZiMGRlYjU1YmYyZTE1ZWFmMzQ2YWZiNjFmMGE1",
   "tracks": [
     {
       "added_at": "2022-08-18 06:40:38",
@@ -484,9 +484,13 @@
       "added_at": "2022-05-17 06:14:03",
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
+        "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
       },
       "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
         {
           "name": "Sooraj Santhosh",
           "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
@@ -496,9 +500,9 @@
           "url": "https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x"
         }
       ],
-      "duration_ms": 234929,
-      "name": "Uyiril Thodum",
-      "url": "https://open.spotify.com/track/3bbzeZcfsK0ac7rdN2s7WX"
+      "duration_ms": 236013,
+      "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
+      "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
     },
     {
       "added_at": "2022-10-25 06:42:51",
@@ -656,21 +660,21 @@
       "added_at": "2023-07-31 07:45:07",
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
+        "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
       },
       "artists": [
         {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
           "name": "Sushin Shyam",
           "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
         }
       ],
-      "duration_ms": 221370,
-      "name": "Cherathukal",
-      "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
+      "duration_ms": 224016,
+      "name": "Cherathukal (From \"Kumbalangi Nights\")",
+      "url": "https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd"
     },
     {
       "added_at": "2023-02-02 06:22:04",

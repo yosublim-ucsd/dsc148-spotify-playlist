@@ -93,6 +93,50 @@
     },
     {
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/6mERiL88oGJ4CxnBc9hYef"
+      },
+      "artists": [
+        {
+          "name": "DIHAATI",
+          "url": "https://open.spotify.com/artist/7EJKPx2uSd6xqtTDlpRb2b"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/0kcYojab9VeXwVDSNhsDxO"
+        },
+        {
+          "name": "Prince Muzic",
+          "url": "https://open.spotify.com/artist/7G8l57G7HQMlQvIFKJNGmx"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/4Nw9nfxHby5docS7aRMpfY"
+    },
+    {
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/00a9Oe7Hayv4refjmwmaBg"
+      },
+      "artists": [
+        {
+          "name": "Dikshit Parasher",
+          "url": "https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "Ace",
+      "url": "https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V"
+    },
+    {
+      "album": {
         "name": "Ace",
         "url": "https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6"
       },
@@ -988,7 +1032,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 204004,
       "name": "Khot",
       "url": "https://open.spotify.com/track/2w5m9SgekwHPwZRHRBakfr"
@@ -1282,7 +1326,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 209266,
       "name": "No Darling",
       "url": "https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj"
@@ -1424,7 +1468,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 193354,
       "name": "Ragini Ride",
       "url": "https://open.spotify.com/track/1nS24s2gahbYc4nHLQBT9L"
@@ -1794,6 +1838,28 @@
       "duration_ms": 157229,
       "name": "System (Ab Machega Huddang)",
       "url": "https://open.spotify.com/track/3iAuW1BXHj7fdj9wIBp6BL"
+    },
+    {
+      "album": {
+        "name": "System Tedda Se",
+        "url": "https://open.spotify.com/album/5W5SiIoPxx179PpUCb1397"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/3fwwgvrvHs7iyymKzwJ59R"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129998,
+      "name": "System Tedda Se",
+      "url": "https://open.spotify.com/track/5yZ77HXLAx330lFs3gUF5k"
     },
     {
       "album": {

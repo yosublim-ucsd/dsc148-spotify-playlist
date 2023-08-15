@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ?si=JDSWzJmlTo\-vUzPV3na3NQ">Dariann González</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,566 likes - 99 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,642 likes - 99 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Buen Hermano](https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Buen Hermano](https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k) | 2:56 |
 | 99 | [Confuso](https://open.spotify.com/track/3YH5hCLxzAdem21I4xFhN8) | [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jennifer Hurtado](https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Confuso](https://open.spotify.com/album/7a53VfXvE7ezrt9T43XtS2) | 3:55 |
 
-Snapshot ID: `MCxkOWVjYjY0YWFhZjM4YmNkNDVmYmI2ZTdiZjE0OGQ1Y2M0OGU1ODU4`
+Snapshot ID: `MCw4NTg5NjIyZDAyN2IxM2I2ZmMwNzI5ODYwZGM3OGI3ZTk4YjIwN2Mz`

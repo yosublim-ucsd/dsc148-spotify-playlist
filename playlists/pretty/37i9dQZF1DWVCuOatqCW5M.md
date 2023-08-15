@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shekhar Ravjiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,795 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,844 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Gone Girl](https://open.spotify.com/track/7lJebwVBaywjSis2ahqtnn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Gone Girl](https://open.spotify.com/album/3Jul3ZMlbJJ5McOngWTbTU) | 2:47 |
 | 4 | [Mujhse Mil](https://open.spotify.com/track/4bax6ViJCiba9nkgw16Prp) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Mujhse Mil](https://open.spotify.com/album/3zY5E3HEugNTdKUUCnWLPS) | 3:29 |
 | 5 | [Baarish Hai Jaanam](https://open.spotify.com/track/1tjLVFbLmugF3qCe2aHaRM) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Baarish Hai Jaanam](https://open.spotify.com/album/6NJD7Ghdg2a5CQxXGGQUZj) | 3:58 |
-| 6 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
+| 6 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 |
 | 7 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 |
 | 8 | [Tu hi Manzil](https://open.spotify.com/track/0ixXycJADwhKdiuSrjlLpC) | [Rajashri Bag](https://open.spotify.com/artist/1iWUlNI4eXap92fTnFrEnI), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tu hi Manzil](https://open.spotify.com/album/6oiJ0JjpBXp3cqeQAuKW9B) | 4:13 |
 | 9 | [Saahiba](https://open.spotify.com/track/6Tv6s5RuvMZ2cR18jYi7xy) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tu Meri Baarish Hai](https://open.spotify.com/track/3cnukucAHNoRJccqDWwWWI) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Tu Meri Baarish Hai](https://open.spotify.com/album/1nscZSDwGkyfSKe4wrFvdd) | 4:28 |
 | 50 | [Mere Sanam Ke Khwaab](https://open.spotify.com/track/11XpKGPvaWClvMtRzuumZk) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Mere Sanam Ke Khwaab](https://open.spotify.com/album/2XoOzgwVUgujp5pgdZo707) | 3:54 |
 
-Snapshot ID: `MCwwNzlmNjE0YzUxNDRmYmU0N2ZlNDM4MzE4MzE1YmExMDFkODE4OTcy`
+Snapshot ID: `MCxmNTU2NjA4NzEyODA0OTkzMzhhMzE3NWE5MjFhOWJiMTZmMjFjY2U4`

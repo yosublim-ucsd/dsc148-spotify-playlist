@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Autostrad
 
-166 songs - 10 hr 15 min
+167 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 | 2021-12-23 |  |
 | [Samurai](https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Samurai](https://open.spotify.com/album/17r6jfsKAlkpqUPuMOHClZ) | 2:55 | 2021-12-23 | 2023-04-24 |
 | [Sauce El Macarona](https://open.spotify.com/track/19qywf58lzuI3ttwDnlQWE) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Sauce El Macarona](https://open.spotify.com/album/0lowrBWlswPVUYCgL9pxad) | 3:26 | 2021-12-23 | 2022-01-07 |
+| [Sawt El Madini](https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Sawt El Madini](https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp) | 3:09 | 2023-08-14 |  |
 | [Seebik](https://open.spotify.com/track/5Uq25HvWT8keNea3ohgfRU) | [Zaid Kreshan](https://open.spotify.com/artist/2KdGoV3A2KHybSREzAdY4O), [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Seebik](https://open.spotify.com/album/4UxP0SoY9Yk1gwRJ2e4LO5) | 2:58 | 2023-06-23 |  |
 | [Setta Sabahan](https://open.spotify.com/track/0zSPZ1QQFL6jvsCSqBiIJz) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:34 | 2021-12-23 | 2022-02-18 |
 | [Shakhsi El Da'em](https://open.spotify.com/track/2dOzN3zYW2rqVAXQC7oQ1d) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Tho3ban](https://open.spotify.com/album/62MsaGCeJAjmyIMT6A4mRl) | 4:56 | 2023-04-23 |  |

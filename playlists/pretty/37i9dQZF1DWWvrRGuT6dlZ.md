@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Sun Cell\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,149 likes - 140 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,151 likes - 140 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 139 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 |
 | 140 | [Waiting All Day](https://open.spotify.com/track/5hFydN9mm1cqvumco2tPM5) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Waiting All Day](https://open.spotify.com/album/07kkKQVNjKhpxegBaVsP7x) | 3:36 |
 
-Snapshot ID: `MCw4YzY1NmNmNjNhYmI5NDczZTBlMzFlOTVjYTg0ZGUwMzM5YWY5YzUy`
+Snapshot ID: `MCwzZWU0YTkxMzZmODFmZTEwN2VkOTk4ZTcyN2RiODk1ODZlZjNhMWMz`

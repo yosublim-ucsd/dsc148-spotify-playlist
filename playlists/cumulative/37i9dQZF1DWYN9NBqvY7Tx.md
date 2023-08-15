@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-397 songs - 21 hr 21 min
+398 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 | 2022-05-06 | 2023-06-10 |
 | [Flow](https://open.spotify.com/track/2F14jGKSIvL10dEYhimqVY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [C.D](https://open.spotify.com/artist/709rmeAswe9n36FbeXXOFk) | [Flow](https://open.spotify.com/album/4V1hkAAIZRNP9CVj4hJkZW) | 3:12 | 2022-06-10 | 2022-07-11 |
 | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/album/0F7ftNMhjvUDyDpWklGStR) | 3:14 | 2022-05-06 | 2023-07-19 |
-| [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 | 2022-05-06 |  |
+| [Followers](https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX) | [Followers](https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3) | 2:57 | 2022-05-06 | 2023-08-15 |
 | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/track/0HTTYoAKHZOOybFJH24lbv) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Forget You \(feat\. Gabry Ponte\) \[LUM!X VIP MIX\]](https://open.spotify.com/album/6TPq02HEuoWtmchqv4Ox77) | 2:49 | 2023-03-31 | 2023-07-19 |
 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-07-18 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-07-14 | 2023-03-25 |
@@ -196,6 +196,7 @@
 | [Let Me In](https://open.spotify.com/track/5HSRz2SISlCFnP63QqBvYj) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Let Me In](https://open.spotify.com/album/33mgM1ZKJQ9dYL3nfgrVpl) | 3:48 | 2022-05-06 | 2022-07-16 |
 | [Let You Go](https://open.spotify.com/track/1P2lKWIXQjsydsShxSl0dr) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Rickie Nolls](https://open.spotify.com/artist/4kbFvZah1kAfBm1kM66Nj6) | [Let You Go](https://open.spotify.com/album/1Ajde0Sni36QISUllancTT) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Letting Go](https://open.spotify.com/track/6XYJSifomaDXaXbbh91kvQ) | [Audioscribe](https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [Letting Go](https://open.spotify.com/album/0U2XAIRREIOaIE3rcInr4N) | 4:56 | 2022-05-13 | 2022-07-28 |
+| [Levitate](https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Soul Edge](https://open.spotify.com/artist/56WvcWLyO6ri4rhr21HMpa) | [Levitate](https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a) | 3:22 | 2023-08-11 |  |
 | [Liar \(with OST\)](https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [OST](https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB) | [Liar \(with OST\)](https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn) | 4:56 | 2022-05-06 | 2022-07-29 |
 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 | 2023-07-18 |  |
 | [Lights](https://open.spotify.com/track/3UbrK7fK22T1dillpCXOrt) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Lights](https://open.spotify.com/album/7MY8dLwQWPCBvv0cel3IFu) | 3:02 | 2022-05-06 | 2022-07-24 |

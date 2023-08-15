@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  Bob Marley, Skip Marley and Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,340 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,407 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 99 | [Notoriously Fast \- Kai Whiston Remix](https://open.spotify.com/track/26xvHwasf7kNG3WpP6a7qq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P), [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl) | [Notoriously Fast \(Kai Whiston Remix\)](https://open.spotify.com/album/2Uvqh83pMI4Giwf2Y7Uzsp) | 3:08 |
 | 100 | [So Far Gone](https://open.spotify.com/track/5AMAUUp1MlbrdaT2DzsiUh) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [So Far Gone](https://open.spotify.com/album/4MlglNRZbdCP4sHjH5PQ8L) | 3:07 |
 
-Snapshot ID: `MCw5ODEyODUyZTA5NjZhMjgxMjNiNmMwNzBhYmM5NWZhZDAxYjE4NmJj`
+Snapshot ID: `MCwwOWNmZjY4MTBiNDU1YjlhMTRlMTYwNmVmOWI0ODhhNmM5M2JhMTQ0`

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-561 songs - 1 day 1 hr 44 min
+562 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Back Then](https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Back Then](https://open.spotify.com/album/5UFqhj2GruuvXFF8PKr8u4) | 2:22 | 2022-03-25 | 2022-06-11 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-11-16 |  |
 | [Bad Radio](https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4) | 3:05 | 2022-11-11 | 2023-01-14 |
+| [ball don't lie](https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [ball don't lie](https://open.spotify.com/album/3EC1lYeCx5BSOTRZU0JTOu) | 3:09 | 2023-08-14 |  |
 | [bananas](https://open.spotify.com/track/2ATv3xkGSMTOaHobqa8hFn) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [bananas](https://open.spotify.com/album/68CuxaV12xyp4861YjzAkx) | 2:45 | 2021-11-16 | 2022-02-19 |
 | [BAND$](https://open.spotify.com/track/2sWoPLbQ4qCZ56D5yCX5W3) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [BAND$](https://open.spotify.com/album/42ToFwAOyBEIE9dtll54d1) | 1:48 | 2022-02-04 | 2022-03-26 |
 | [barcelona](https://open.spotify.com/track/6hLMs5N7rRkIaCRfgYEB9B) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [barcelona](https://open.spotify.com/album/2JuEOpkytQC2KsRz1cVREB) | 1:42 | 2022-10-14 | 2023-01-14 |
@@ -472,7 +473,7 @@
 | [Strawberry Blonde](https://open.spotify.com/track/49C9gniR8HDECH8CCButxN) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Strawberry Blonde](https://open.spotify.com/album/6ZrqHQ8gOT6ubIRkmochSw) | 3:00 | 2022-04-08 | 2022-08-13 |
 | [Strawberry Skies](https://open.spotify.com/track/7xyPdtIfDcCGgB8tkVskLr) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 2:45 | 2021-12-03 | 2022-02-26 |
 | [strings attached](https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [strings attached](https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo) | 2:04 | 2023-06-09 |  |
-| [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 |  |
+| [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2023-08-15 |
 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 | 2023-07-07 |  |
 | [summer&cigarettes](https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [summer&cigarettes](https://open.spotify.com/album/4vCGpIf0GvirxT9kdtmaH6) | 1:54 | 2022-04-04 | 2022-10-08 |
 | [Summertime 1, 2](https://open.spotify.com/track/61Oj3QP3xwxd1zs4EiHTAV) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:10 | 2021-12-16 | 2022-02-26 |

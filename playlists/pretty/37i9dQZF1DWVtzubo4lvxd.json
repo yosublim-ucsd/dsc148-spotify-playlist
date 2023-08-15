@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 110731,
+  "num_followers": 110745,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZThlOTRhMzQxOTRhZjRkOTQ3OThhOTNlZmRiNDViMzI5NmYyYzQ3",
+  "snapshot_id": "MCxhNTQ1YTYzYzc4ZWFhYjE3ZWViNzg1MTA3MDVkMDlhZTE5ODI3MTFj",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Luv(sic) Hexalogy",
+        "url": "https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Luv (sic)",
+      "url": "https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "summer nights.",
         "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
       },
@@ -135,18 +151,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Luv(sic) Hexalogy",
-        "url": "https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM"
+        "name": "unexpected",
+        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
       "artists": [
         {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
         }
       ],
-      "duration_ms": 286320,
-      "name": "Luv (sic)",
-      "url": "https://open.spotify.com/track/6SNGzhVrisdq63Ndz58ovT"
+      "duration_ms": 86571,
+      "name": "viola",
+      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -187,22 +203,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 96405,
-      "name": "i love being with you",
-      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
       },
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Playtime",
         "url": "https://open.spotify.com/album/6CzAUWwXyMbD437lg1E7jL"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 220689,
       "name": "Soulful",
       "url": "https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "unexpected",
-        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 86571,
-      "name": "viola",
-      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 84023,
-      "name": "crush on you",
-      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "rainy evening",
         "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 109948,
       "name": "nagashi",
       "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 84023,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 77501,
-      "name": "6 out of 600",
-      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Spiritual State",
         "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 138812,
       "name": "time's arrow",
       "url": "https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 77501,
+      "name": "6 out of 600",
+      "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "v i d r i o",
-        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
       },
       "artists": [
         {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
         }
       ],
-      "duration_ms": 110409,
-      "name": "P a z",
-      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
+      "duration_ms": 128372,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+        "name": "Beat Batch #2",
+        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
       },
       "artists": [
         {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
         }
       ],
-      "duration_ms": 128372,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+      "duration_ms": 77844,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Beat Batch #2",
-        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
-      },
-      "artists": [
-        {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
-        }
-      ],
-      "duration_ms": 77844,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "oldies",
         "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 78719,
       "name": "train ride home",
       "url": "https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "v i d r i o",
+        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
+      },
+      "artists": [
+        {
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+        }
+      ],
+      "duration_ms": 110409,
+      "name": "P a z",
+      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Kids' Menu",
-        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
       },
       "artists": [
         {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
+          "name": "Caleb Belkin",
+          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
         }
       ],
-      "duration_ms": 148014,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
+      "duration_ms": 118554,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -731,34 +731,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+        "name": "Kids' Menu",
+        "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
       "artists": [
         {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
-      },
-      "artists": [
-        {
-          "name": "Caleb Belkin",
-          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
-        }
-      ],
-      "duration_ms": 118554,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
+      "duration_ms": 148014,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/703hSWNgehWT0F16awNLr1"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -779,6 +763,22 @@
       "duration_ms": 166153,
       "name": "Away with the Fairies",
       "url": "https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Shinigami",
-        "url": "https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW"
-      },
-      "artists": [
-        {
-          "name": "SINY",
-          "url": "https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT"
-        }
-      ],
-      "duration_ms": 160456,
-      "name": "ORANGE",
-      "url": "https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Setsuna",
         "url": "https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 133333,
       "name": "Lost Samurai",
       "url": "https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Shinigami",
+        "url": "https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW"
+      },
+      "artists": [
+        {
+          "name": "SINY",
+          "url": "https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT"
+        }
+      ],
+      "duration_ms": 160456,
+      "name": "ORANGE",
+      "url": "https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp"
     },
     {
       "added_at": "2022-04-15 12:09:52",

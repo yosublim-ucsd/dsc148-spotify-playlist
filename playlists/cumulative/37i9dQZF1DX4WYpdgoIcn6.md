@@ -2,7 +2,7 @@
 
 ### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Kick back to the best new and recent chill hits.
+> Disfruta de los mejores éxitos relajantes más recientes.
 
 903 songs - 2 day 1 hr 3 min
 
@@ -171,7 +171,7 @@
 | [Complicated](https://open.spotify.com/track/1BMfojwi8eKlVtGOEfJw17) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Highs & Lows](https://open.spotify.com/album/1zRDJG59O3rIVk0hmx0onM) | 3:06 | 2019-05-25\* | 2019-12-06 |
 | [Confidant](https://open.spotify.com/track/05rg3mS0oYnjjasNBxRXGv) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Confidant](https://open.spotify.com/album/7B8mo234xmaZO81T37LlcB) | 3:02 | 2020-06-12 | 2020-08-14 |
 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 | 2019-06-22 | 2019-08-27 |
-| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [Boy Genius](https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-17 |  |
+| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-17 |  |
 | [Cool Again](https://open.spotify.com/track/7tDqtZnEQcgAE92mEMtgnF) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again](https://open.spotify.com/album/0gWTwy5h4m4G851BIQKg37) | 3:11 | 2019-05-25\* | 2019-10-04 |
 | [Cool Down](https://open.spotify.com/track/38MQubhL6HMC7kE7yXxsL6) | [Seth Haapu](https://open.spotify.com/artist/0WUoSsELzH0ES0LTxgzT3q), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Cool Down](https://open.spotify.com/album/0jr8flxE9DS6zvgJhMdOdh) | 2:37 | 2020-01-03 | 2020-01-04 |
 | [Counting the Days](https://open.spotify.com/track/1umJyGPzSaIzgh0Na4lE1E) | [Will Taylor James](https://open.spotify.com/artist/0jXJzQAosMAO8Z3ySt7YN4), [Will Heggadon](https://open.spotify.com/artist/2Y0sh9cqZb8lhfWsIsByAO) | [Counting the Days](https://open.spotify.com/album/4G2cGmcgy7TDwkDxDji6IA) | 4:34 | 2019-06-01 | 2020-02-14 |

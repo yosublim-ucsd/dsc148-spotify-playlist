@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-829 songs - 1 day 13 hr 38 min
+830 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Hold Me \(feat\. Mishaal\)](https://open.spotify.com/track/6qsVVFBn0CuPrEgx9u4QzK) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:40 | 2020-12-13\* | 2021-02-20 |
 | [hold somebody \(feat\. powfu & sarcastic sounds\)](https://open.spotify.com/track/2nM7VjLc9rkb9c0WzoiwOA) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [hold somebody \(feat\. powfu & sarcastic sounds\)](https://open.spotify.com/album/0wjO08hm5mW4FRMfdlnkcK) | 2:43 | 2021-01-16 | 2022-06-12 |
 | [Holding On](https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/7CIDA4a6EIj1k88sln1tKl) | 2:06 | 2020-12-13\* | 2022-04-23 |
+| [Holding On](https://open.spotify.com/track/4yePx3vjQVM5gPmbYBEnSc) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Holding On](https://open.spotify.com/album/2lubPCgx6xQH6n9x4qVzFk) | 3:11 | 2023-08-04 |  |
 | [Hollywood](https://open.spotify.com/track/6feMlyAvbHdATEoY7Y3aXk) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Hollywood](https://open.spotify.com/album/7s17WGsNLykas9aE8F8FFH) | 2:45 | 2022-07-01 | 2022-07-23 |
 | [Holographic](https://open.spotify.com/track/5hXz8mmUh5Sz2pyecHRFEf) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Holographic](https://open.spotify.com/album/4p8JCzCQbFcou9iavDEOmO) | 2:49 | 2021-02-02 | 2021-02-27 |
 | [Holy Smokes](https://open.spotify.com/track/3EpF150nXMSNjiH0bbmXIL) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Holy Smokes \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0TysZSXUKnqnQMeY40eaqg) | 3:01 | 2021-07-17 | 2021-08-03 |
@@ -753,7 +754,7 @@
 | [Turbulence](https://open.spotify.com/track/1LZ4N16PaRnOg7odVvBG34) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Turbulence](https://open.spotify.com/album/1RBEZ22dLFRuWwuluBlasY) | 1:50 | 2021-04-24 | 2022-03-11 |
 | [Turtles](https://open.spotify.com/track/7eTffKKcpFt0dqQrRJi5N3) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Turtles](https://open.spotify.com/album/4wnzpZHwAYu3jeMOnkn8ke) | 1:52 | 2022-06-24 | 2022-06-30 |
 | [two hearts](https://open.spotify.com/track/4lndF6hGEM6eHptQoag03q) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [David Shawty](https://open.spotify.com/artist/3GMjQTpjFSvbTtJsYmQAWC) | [two hearts](https://open.spotify.com/album/7fzRddtb1VTEZK70h1ycRZ) | 2:50 | 2021-04-10 | 2021-05-15 |
-| [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 |  |
+| [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 | 2023-02-17 | 2023-08-15 |
 | [Uncomparable](https://open.spotify.com/track/5XBN5qnsOSsdNKTj6kJ5cP) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/2cB3EH9yQll7xyMA4X6NDM) | 1:45 | 2021-03-31 | 2021-07-01 |
 | [under the weather](https://open.spotify.com/track/3PYFSGwWNZWnQpiuGke2J9) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [under the weather](https://open.spotify.com/album/5EMWV3wcySNCCLpSvNWUyx) | 1:46 | 2023-05-24 |  |
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-29 | 2022-04-17 |

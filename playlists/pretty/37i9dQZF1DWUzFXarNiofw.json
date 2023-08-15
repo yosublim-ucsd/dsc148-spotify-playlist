@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Tone Stith",
-  "num_followers": 1018834,
+  "num_followers": 1018981,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTBiNGM4YzAwZDljZTRjNzA2OWMxNWY4NTI3YzFkZTY5ZTYxNWFl",
+  "snapshot_id": "MCwzN2E2OTZmNWM1Njc1YTc4YmZmZjZhODI5OGFkZWE3Mjc1M2JlMWQw",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -195,6 +195,22 @@
       "duration_ms": 166173,
       "name": "Like A Habit",
       "url": "https://open.spotify.com/track/0BDWvfsgwlAlFoyJPWFyrL"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Pros and Cons",
+        "url": "https://open.spotify.com/album/7kUdJRYvPttmaMJ1lKCA9p"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 164243,
+      "name": "Pros and Cons",
+      "url": "https://open.spotify.com/track/2szn1ATpTPRsCswbQ24XWp"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2695,7 +2711,7 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Who Am I (feat. Twigg Martin)",
+        "name": "Who Am I",
         "url": "https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE"
       },
       "artists": [
@@ -2709,7 +2725,7 @@
         }
       ],
       "duration_ms": 122803,
-      "name": "Who Am I (feat. Twigg Martin)",
+      "name": "Who Am I",
       "url": "https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF"
     },
     {

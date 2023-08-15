@@ -1,36 +1,28 @@
 {
   "description": "Holdin' it down for the westside. Cover: Zoe Osama",
-  "num_followers": 722885,
+  "num_followers": 722951,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzQ3YjE4NTEzOWM5OTEwNTNlOGJkNWFiNGMzZDcyN2M4ZDU2ZjIw",
+  "snapshot_id": "MCwyMjEyNzE2MjdiYzE0NWFmNzRlMjdlODkxMTkyMjhhOGIxMTM0MzI5",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
-        "url": "https://open.spotify.com/album/7nk9fTOenAxs9V6UrIqnGq"
+        "name": "7 Figures Later",
+        "url": "https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn"
       },
       "artists": [
         {
-          "name": "T-Jxint",
-          "url": "https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw"
-        },
-        {
-          "name": "Vinny West",
-          "url": "https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA"
-        },
-        {
-          "name": "Lil Vada",
-          "url": "https://open.spotify.com/artist/3ajnXtVJQPnzRO6jXfsADU"
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
         }
       ],
-      "duration_ms": 177994,
-      "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
-      "url": "https://open.spotify.com/track/42f8QNetlBUqFkKP9uyRqO"
+      "duration_ms": 162285,
+      "name": "Hobby",
+      "url": "https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -55,18 +47,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "7 Figures Later",
-        "url": "https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn"
+        "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
+        "url": "https://open.spotify.com/album/7nk9fTOenAxs9V6UrIqnGq"
       },
       "artists": [
         {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+          "name": "T-Jxint",
+          "url": "https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw"
+        },
+        {
+          "name": "Vinny West",
+          "url": "https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA"
+        },
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/3ajnXtVJQPnzRO6jXfsADU"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Hobby",
-      "url": "https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ"
+      "duration_ms": 177994,
+      "name": "My Skeleethe (Remix) [feat. Vinny West & Lil Vada]",
+      "url": "https://open.spotify.com/track/42f8QNetlBUqFkKP9uyRqO"
     },
     {
       "added_at": "2023-08-11 04:00:00",

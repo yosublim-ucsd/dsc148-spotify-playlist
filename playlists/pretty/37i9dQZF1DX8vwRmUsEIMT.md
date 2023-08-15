@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Fred Again.\. + Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,189 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,206 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [What Do You Do?](https://open.spotify.com/track/2ZkYZj1DhaCbudwQf7eP3k) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [What Do You Do?](https://open.spotify.com/album/4QpZ6gFWGrDuPwByOcL6eU) | 3:10 |
 | 80 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 
-Snapshot ID: `MCwwZTQwOGQyYzc3MDM1MzliZWM0NWY3NzE4N2UwZDY3ZDQxZTQxMTAy`
+Snapshot ID: `MCxhMWU0MmY2NzNmNjI5NGU2ZmU3OTRiZWRkNmI4NDg4NGM3MWZiOGIw`

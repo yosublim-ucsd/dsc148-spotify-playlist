@@ -4,7 +4,7 @@
 
 > 
 
-239 songs - 11 hr 31 min
+240 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Jag går upp och håller käften](https://open.spotify.com/track/6gVKoclWw9yiY1qTp26OKj) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Samlade](https://open.spotify.com/album/126LSgX6MasCdTcVcFOnFI) | 3:28 | 2021-12-14 | 2022-07-26 |
 | [Jag lämnar festen](https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:54 | 2021-12-14 |  |
 | [Jag lämnar festen](https://open.spotify.com/track/665zznOCQhnpmpoax6rRQk) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Jag lämnar festen](https://open.spotify.com/album/5MpVwCWkEYuat0Dx4erqJy) | 2:54 | 2021-12-14 | 2022-07-27 |
-| [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 | 2021-12-14 |  |
+| [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 | 2021-12-14 | 2023-08-15 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 | 2023-05-04 |  |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 | 2021-12-14 | 2023-04-30 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 2:32 | 2021-12-14 | 2022-07-29 |
@@ -114,7 +114,7 @@
 | [Kaos](https://open.spotify.com/track/7C5vwqLlWULrV4aaigbHKX) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/08RgYPSeJy5g9JBInnyLei) | 2:16 | 2021-12-14 | 2022-11-14 |
 | [Kollektivt självmord](https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT) | [Civil Olydnad](https://open.spotify.com/artist/1Ec2RuosR3mXrq6Q6egvUK) | [Kollektivt självmord](https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L) | 1:43 | 2021-12-14 | 2022-07-27 |
 | [Kom och dansa lite](https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/2IeV0YcZsxVQ4VLnjL1h44) | 3:00 | 2021-12-14 | 2022-07-25 |
-| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 | 2023-08-11 |
+| [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 |  |
 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 | 2023-03-30 |  |
 | [Kroatiska Antirassedagen](https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:40 | 2021-12-14 | 2022-07-07 |
 | [Kungar Och Knektar](https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:23 | 2021-12-14 | 2022-07-23 |
@@ -149,7 +149,7 @@
 | [Mina fåglar](https://open.spotify.com/track/6CHiFgpue84paf8mdhHHgP) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Tomat](https://open.spotify.com/album/7lMGMC2nQXYecUMqQy0bHf) | 3:17 | 2021-12-14 | 2022-07-25 |
 | [Mina polare](https://open.spotify.com/track/4duuMoNTupPnonWGY8B7q0) | [Dom Oönskade](https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL) | [Mina Polare](https://open.spotify.com/album/6PcMYFEyLjOXSKE4YMEKp8) | 2:49 | 2021-12-14 | 2022-07-26 |
 | [MITT SISTA ANDETAG](https://open.spotify.com/track/0PKB26Q6ebljq3ru3MwVch) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2YJjLxn9lI8Y9ShRvVzoWu) | 2:47 | 2021-12-14 | 2022-07-26 |
-| [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 | 2021-12-14 |  |
+| [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 | 2021-12-14 | 2023-08-15 |
 | [Modets Klappträn](https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ) | [Total Apati](https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4) | [Att Ni Inte Ser...](https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1) | 2:51 | 2021-12-14 | 2022-07-29 |
 | [Morgonrock](https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Morgonrock](https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG) | 1:42 | 2021-12-14 | 2022-07-24 |
 | [Motström](https://open.spotify.com/track/55r75mRCCSue44qYZRQGrB) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Motström](https://open.spotify.com/album/2OsxqLjzimMYUCRlud0uPl) | 2:59 | 2021-12-14 | 2022-07-28 |
@@ -233,6 +233,7 @@
 | [Vem Vågar Tro](https://open.spotify.com/track/5VAz683ouGZsuROud0rl44) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 3:03 | 2021-12-14 | 2022-07-17 |
 | [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 | 2022-07-29 |
 | [Vill inte va med](https://open.spotify.com/track/4bcj3IBZ3qOGOuhq3zZX6p) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 2:49 | 2021-12-14 |  |
+| [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 | 2023-08-03 |  |
 | [Vilse på öppet hav](https://open.spotify.com/track/4PERjfb1QptY3TKUfaMoCw) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [Vilse på öppet hav](https://open.spotify.com/album/0iSIR7gLR3biV3QX6ZKV8m) | 2:45 | 2021-12-14 | 2022-07-28 |
 | [Vinstbegär](https://open.spotify.com/track/5Jfl5Rjm3zvH5OEx7oCEdG) | [Exploatör](https://open.spotify.com/artist/2MDlApvFsHUhh2Ncdm12aK) | [Exploatör](https://open.spotify.com/album/3G9E5jptA8zRFv0C9AnmIK) | 1:26 | 2021-12-14 | 2022-01-20 |
 | [Vrid upp](https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN) | [Dom Oönskade](https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL) | [Vrid upp](https://open.spotify.com/album/6Qkie0AOAvHmyS6gP7a3Ly) | 2:36 | 2021-12-14 | 2022-07-25 |

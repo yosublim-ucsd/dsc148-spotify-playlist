@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,885 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,951 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Skeleethe \(Remix\) \[feat\. Vinny West & Lil Vada\]](https://open.spotify.com/track/42f8QNetlBUqFkKP9uyRqO) | [T\-Jxint](https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw), [Vinny West](https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA), [Lil Vada](https://open.spotify.com/artist/3ajnXtVJQPnzRO6jXfsADU) | [My Skeleethe \(Remix\) \[feat\. Vinny West & Lil Vada\]](https://open.spotify.com/album/7nk9fTOenAxs9V6UrIqnGq) | 2:57 |
+| 1 | [Hobby](https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [7 Figures Later](https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn) | 2:42 |
 | 2 | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BUTTERFLY COUPE feat\. Tyga](https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4) | 2:44 |
-| 3 | [Hobby](https://open.spotify.com/track/2CoecjHauRD4qpFeeaxzgJ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [7 Figures Later](https://open.spotify.com/album/4UPLpDv0gIwzLnvVKLoGKn) | 2:42 |
+| 3 | [My Skeleethe \(Remix\) \[feat\. Vinny West & Lil Vada\]](https://open.spotify.com/track/42f8QNetlBUqFkKP9uyRqO) | [T\-Jxint](https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw), [Vinny West](https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA), [Lil Vada](https://open.spotify.com/artist/3ajnXtVJQPnzRO6jXfsADU) | [My Skeleethe \(Remix\) \[feat\. Vinny West & Lil Vada\]](https://open.spotify.com/album/7nk9fTOenAxs9V6UrIqnGq) | 2:57 |
 | 4 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 5 | [Family First! \(Ft\. Kalan.FrFr, SiR & Zacari\)](https://open.spotify.com/track/4IvbICOBK3KjMlf1rbfuU7) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Porches](https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy) | 3:22 |
 | 6 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 | 75 | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Face No Book \(feat\. Blueface\)](https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g) | 3:03 |
 
-Snapshot ID: `MCxhNzQ3YjE4NTEzOWM5OTEwNTNlOGJkNWFiNGMzZDcyN2M4ZDU2ZjIw`
+Snapshot ID: `MCwyMjEyNzE2MjdiYzE0NWFmNzRlMjdlODkxMTkyMjhhOGIxMTM0MzI5`

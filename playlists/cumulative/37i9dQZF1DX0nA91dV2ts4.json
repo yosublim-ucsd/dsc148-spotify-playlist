@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Chalmaar (From Devi)",
+        "url": "https://open.spotify.com/album/6pKgYR6Beqjlc3cxxVArDF"
+      },
+      "artists": [
+        {
+          "name": "Sajid-Wajid",
+          "url": "https://open.spotify.com/artist/3qdu3XhzSzkRhbwdFKnSuw"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "date_added": "2021-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259069,
+      "name": "Chalmaar",
+      "url": "https://open.spotify.com/track/36ZHaZcuMJafQbLKshj28u"
+    },
+    {
+      "album": {
         "name": "Devi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Bevj1r3bLcCJkFKRyAodq"
       },
@@ -722,24 +744,6 @@
       "duration_ms": 259069,
       "name": "Chalmaar",
       "url": "https://open.spotify.com/track/5dnUb7ZJX4JNNyFbGzqO6h"
-    },
-    {
-      "album": {
-        "name": "Chalmaar (From Devi) - Single",
-        "url": "https://open.spotify.com/album/6pKgYR6Beqjlc3cxxVArDF"
-      },
-      "artists": [
-        {
-          "name": "Sajid-Wajid,Benny Dayal",
-          "url": "https://open.spotify.com/artist/0T1FGnAEZ4wC0gsqLoHW02"
-        }
-      ],
-      "date_added": "2021-06-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 259069,
-      "name": "Chalmaar",
-      "url": "https://open.spotify.com/track/36ZHaZcuMJafQbLKshj28u"
     },
     {
       "album": {

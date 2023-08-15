@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
+  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -411,30 +411,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "A Can\u00e7\u00e3o de Natal",
-        "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
-      },
-      "artists": [
-        {
-          "name": "Prisma Brasil",
-          "url": "https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW"
-        },
-        {
-          "name": "Coral Jovem do Unasp - HT",
-          "url": "https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj"
-        },
-        {
-          "name": "Coral Canto Livre",
-          "url": "https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F"
-        }
-      ],
-      "duration_ms": 345735,
-      "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
-      "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 168158,
       "name": "\u00c9 Natal",
       "url": "https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "A Can\u00e7\u00e3o de Natal",
+        "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
+      },
+      "artists": [
+        {
+          "name": "Prisma Brasil",
+          "url": "https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW"
+        },
+        {
+          "name": "Coral Jovem do Unasp - HT",
+          "url": "https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj"
+        },
+        {
+          "name": "Coral Canto Livre",
+          "url": "https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F"
+        }
+      ],
+      "duration_ms": 345735,
+      "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
+      "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -879,18 +879,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+        "name": "Noite de Paz",
+        "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jeanne Mascarenhas",
+          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Vinde Celebremos",
-      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
+      "duration_ms": 241222,
+      "name": "Noite de Paz",
+      "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
     }
   ],
   "unique_name": "Louvores de Natal",

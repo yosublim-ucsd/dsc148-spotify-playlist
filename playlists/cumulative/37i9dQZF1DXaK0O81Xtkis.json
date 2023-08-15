@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 173240,
       "name": "Greenlight",
       "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
@@ -6204,6 +6204,24 @@
       "duration_ms": 163738,
       "name": "Infinitely Falling",
       "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
+    },
+    {
+      "album": {
+        "name": "Internet Boy",
+        "url": "https://open.spotify.com/album/4i9NHE0Z6lfnQMzuY4gOA4"
+      },
+      "artists": [
+        {
+          "name": "Bradley Kim",
+          "url": "https://open.spotify.com/artist/3nJiC4ijSQZ1HHJB0gqJWM"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "Internet Boy",
+      "url": "https://open.spotify.com/track/4CIWbTFSV1WX8WjnkgHBY2"
     },
     {
       "album": {

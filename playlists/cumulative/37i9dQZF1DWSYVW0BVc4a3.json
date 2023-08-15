@@ -5323,6 +5323,36 @@
     },
     {
       "album": {
+        "name": "Just Keep Walking (Mark Knight & James Hurr Remix)",
+        "url": "https://open.spotify.com/album/69xHzYmE7Ta54xanMigl2Y"
+      },
+      "artists": [
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        },
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Just Keep Walking - Mark Knight & James Hurr Remix",
+      "url": "https://open.spotify.com/track/7DuvvY1Vefu3nkenjSsDAH"
+    },
+    {
+      "album": {
         "name": "Songs You Might Remember from Some Parties",
         "url": "https://open.spotify.com/album/3gImC2DVTldtWuok5FXWfJ"
       },
@@ -8892,7 +8922,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"

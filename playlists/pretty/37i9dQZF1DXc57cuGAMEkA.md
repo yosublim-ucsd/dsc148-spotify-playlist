@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, Tove Lo, indigo la End, Eve,ちゃんみな and more! cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,117 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Upside Down](https://open.spotify.com/track/3RuHXDuw425QiaPla1AvUQ) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Home Remedy](https://open.spotify.com/album/1SAihBGrmc2YvxzlrpdDjk) | 3:40 |
 | 75 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
 
-Snapshot ID: `MCwyMmE3NmIzN2MwY2Y1ZjBjZDg5NmYwOWMyMmYzNjAyM2ZmOTFlYjUy`
+Snapshot ID: `MCxjMjY4YjVhZmJjNDhlYzBjZTQzZGE5NWVlNjM1ZDY4MTQwNWIwNGYy`

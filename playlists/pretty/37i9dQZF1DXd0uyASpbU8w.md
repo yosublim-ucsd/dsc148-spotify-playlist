@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=ZpNwfnpCT6mgpoW8jf83CQ">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,800 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,838 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [Why Not](https://open.spotify.com/track/2XWnVSt3gC2WmmwqBdshEk) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Why Not](https://open.spotify.com/album/6vXEB4wAfVaU6dyYJYItzK) | 3:10 |
 | 51 | [Athandwe](https://open.spotify.com/track/7rh3ywQNjfYGw5FAQUcjwn) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5), [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY) | [Athandwe](https://open.spotify.com/album/2RFLhOgFmgFgDvIPjBGBRF) | 3:00 |
 
-Snapshot ID: `MCxkOWExYThmNjgzZWVlZWE1YzNkNTZhZDM0ZmEzYmZkY2JlNGI4MjNk`
+Snapshot ID: `MCxhZGFlZjQ3NjExNjljMWFlNWU0MTU0MjY0NGNhYzgzYWJhZWZiNWUz`

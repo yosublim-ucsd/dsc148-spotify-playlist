@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,236 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,396 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 63 | [Dummie](https://open.spotify.com/track/32tpfWuh5YfKHb0891Yv20) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Dummie](https://open.spotify.com/album/691lEojq4ZOS8J6lfZYpzl) | 1:44 |
 | 64 | [Back Out \(feat\. Mello Buckzz\)](https://open.spotify.com/track/2RACJkPEwQP3pp6OSotqwT) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Back Out \(feat\. Mello Buckzz\)](https://open.spotify.com/album/3HztLLSGRS1ixggz1hxPK9) | 3:43 |
 | 65 | [No Gun No Knife](https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [No Gun No Knife](https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu) | 3:32 |
-| 66 | [Like This](https://open.spotify.com/track/1OnbAnxKWfoaN6PUKnAb4k) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Like This](https://open.spotify.com/album/5C5ppCQzmnD3FR5YoQAdo9) | 1:55 |
+| 66 | [Like This](https://open.spotify.com/track/1OnbAnxKWfoaN6PUKnAb4k) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Like This](https://open.spotify.com/album/5C5ppCQzmnD3FR5YoQAdo9) | 1:55 |
 | 67 | [Send a Blitz](https://open.spotify.com/track/5g9fY0Y3u6fz1gXkzh8MEm) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Send a Blitz](https://open.spotify.com/album/5B8cRQj7W21bAg4cBJiljs) | 2:27 |
 | 68 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 |
 | 69 | [On My Own](https://open.spotify.com/track/6Dgox7jnx9vMRQlyfcXBPK) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [On My Own](https://open.spotify.com/album/639gMjOufhPpas54rznoPg) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Say Less \(feat\. Lil Durk & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 2:54 |
 | 100 | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/track/1GyoJBAjrIkVkPdcl7yCn3) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hate It or Love It \(with DaBaby\)](https://open.spotify.com/album/5ikRefLmkwyGl5UEVyQTCX) | 2:16 |
 
-Snapshot ID: `MCxiNmFkOTY3NDkyNzM3NjRlNmYwMGNkOTQzYzMxNGM1YjgyOTlhNDFh`
+Snapshot ID: `MCwwOGJiMzE2YTQzMWE0NjNmN2I0NTQ5NjIxNmJhMzQwMTcxNzUxNzU1`

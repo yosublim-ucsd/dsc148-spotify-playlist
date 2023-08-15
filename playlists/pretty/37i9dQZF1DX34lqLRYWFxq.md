@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: NOBRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,461 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,464 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Cruel](https://open.spotify.com/track/6ilStGJwy7nzQe2HqKjeik) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Cruel](https://open.spotify.com/album/3QGmQeSXDZn2DvmEcmDVgP) | 3:13 |
 | 100 | [Never Gonna Give This Up](https://open.spotify.com/track/5DWvhtU8RcwNfVmj8e4e1Z) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Never Gonna Give This Up](https://open.spotify.com/album/70fUpHWzQzmUniveu6CZGC) | 2:58 |
 
-Snapshot ID: `MCwyMWY2NDdiZTI0MjI0NDY2OGYzOGM2ZGQ2MzFiOTgxNzk4Y2I5OWQx`
+Snapshot ID: `MCw1YTg4YTc1ZWMyMTEwYWU3M2VlMzczOTNhN2E1OWMyY2MwZjFhN2Zi`

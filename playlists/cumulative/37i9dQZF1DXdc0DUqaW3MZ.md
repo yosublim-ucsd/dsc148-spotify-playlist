@@ -4,7 +4,7 @@
 
 > 
 
-318 songs - 19 hr 10 min
+319 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Better](https://open.spotify.com/track/4Dech6e9lHfdgdedB6jPXc) | [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [Better](https://open.spotify.com/album/6UV3susRNbv5yFRg62tpEe) | 3:58 | 2021-12-07 | 2022-05-18 |
 | [Better Than Before](https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj), [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Better Than Before](https://open.spotify.com/album/56N5nzjCtuMgNtsDc0494u) | 3:51 | 2021-12-07 | 2022-07-29 |
 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 | 2022-01-14 |  |
-| [Black Qualls \- Single Version](https://open.spotify.com/track/2dh4Ff65vPJmRkc4Xw2K4w) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Black Qualls \(Single Version\)](https://open.spotify.com/album/2DW7xZRqOhta0mMUKAWs3V) | 3:16 | 2022-04-11 |  |
+| [Black Qualls \- Single Version](https://open.spotify.com/track/2dh4Ff65vPJmRkc4Xw2K4w) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Black Qualls \(Single Version\)](https://open.spotify.com/album/2DW7xZRqOhta0mMUKAWs3V) | 3:16 | 2022-04-11 | 2023-08-15 |
 | [Blessa \(Instrumental\)](https://open.spotify.com/track/6D6HuWcYLPzlseIYMMWFJj) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Causers of This \(Instrumentals\)](https://open.spotify.com/album/290ghiRHbiFBPKj7I2lyyZ) | 2:33 | 2021-12-07 | 2022-07-19 |
 | [Blind Spot](https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6) | [404 Guild](https://open.spotify.com/artist/3mgH0hO1O28tYKhsucv0PG) | [Blind Spot](https://open.spotify.com/album/51uCOdwePGPzgZod5rLejM) | 5:26 | 2021-12-07 | 2022-07-20 |
 | [Blossoming](https://open.spotify.com/track/14KUweApw0Plx1eDyGvmHz) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Getting Late](https://open.spotify.com/album/5E2d2k56eIryNPIK9Emndj) | 5:03 | 2021-12-07 | 2022-04-18 |
@@ -156,6 +156,7 @@
 | [Idle \(feat\. Ghostly Kisses\)](https://open.spotify.com/track/4mXdlglKsmZ8kpakb84mLn) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Half Light](https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn) | 3:45 | 2021-12-07 | 2022-04-15 |
 | [Impulses](https://open.spotify.com/track/2yZSoKLhnSH9UlAIhYggRv) | [SZWÉ](https://open.spotify.com/artist/3Q4H7YLUlh0OtPEMhxNyMO) | [Impulses](https://open.spotify.com/album/1M4qAPEpSr5a1ycy21N4ym) | 2:49 | 2022-04-11 | 2022-04-21 |
 | [In the Meantime](https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [In the Meantime](https://open.spotify.com/album/6UiJR8RTY4lTGtZWTZSVRo) | 3:21 | 2021-12-07 | 2023-01-12 |
+| [Intentions](https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [Intentions](https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw) | 3:32 | 2022-06-20 |  |
 | [Intentions](https://open.spotify.com/track/01jCh5EvDFilHHk5x76dWq) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S), [Szou](https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0) | [Intentions](https://open.spotify.com/album/0NkOFbV9PVnoOc2jXj2DgE) | 3:32 | 2022-04-11 | 2022-04-18 |
 | [Intentions](https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S), [Szou](https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0) | [Intentions](https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd) | 3:32 | 2022-06-20 | 2023-08-11 |
 | [Ironhand](https://open.spotify.com/track/2hqE4HD07qtroucSMEPgmZ) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/6XjkpRegoBsPzuJnyZDZ5W) | 3:11 | 2022-04-11 | 2022-04-16 |

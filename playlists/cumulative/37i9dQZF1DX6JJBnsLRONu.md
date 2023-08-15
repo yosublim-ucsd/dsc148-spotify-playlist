@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-91 songs - 6 hr 15 min
+92 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [The Fire This Time](https://open.spotify.com/track/5BIip1tjBoYcc4oE6zAvVM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Still, Here](https://open.spotify.com/album/4VbsBmQarXq8y249LaqdGU) | 3:38 | 2022-09-30 |  |
 | [The Forgotten Edge](https://open.spotify.com/track/5ErCjGniLLcIWPXw2v9zFV) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/6KmxT68b5ApWxOHWKOwfeu) | 2:18 | 2022-02-10 | 2022-07-29 |
 | [The Forgotten Edge](https://open.spotify.com/track/6bcrgRF256yQ4gYd3dZXJN) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo) | 2:18 | 2022-04-22 |  |
-| [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 | 2022-02-10 |  |
+| [The Going Through](https://open.spotify.com/track/0xoVQLIYau3PAkjFSpGCr0) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/3T1sNCuwG8pqgj3NuNvphA) | 4:37 | 2023-07-11 |  |
+| [The Going Through](https://open.spotify.com/track/4zAdKEsF0LHCSVeWaAm0I1) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py), [Luke Schneider](https://open.spotify.com/artist/0lT5edBQPui5NiGQLLG2Gb) | [Understand](https://open.spotify.com/album/7kPbydEQtj9F6TW6NEwSdI) | 4:37 | 2022-02-10 | 2023-08-15 |
 | [The Good, The Bad And The Ugly \- 2004 Remaster](https://open.spotify.com/track/1JSIWsJfxOji0FrxFcxdCK) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 2:42 | 2022-02-10 |  |
 | [The Last Rockabilly](https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [The Last Rockabilly](https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22) | 4:22 | 2023-03-10 |  |
 | [The Nighthawks Are Out](https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Long Cool World](https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o) | 5:16 | 2023-04-07 |  |

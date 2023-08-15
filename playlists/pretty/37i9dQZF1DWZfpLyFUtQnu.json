@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 57988,
+  "num_followers": 58075,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGVlNzA1NjA0M2YwZTM5M2FlZjUyZTFmZGU2NzIxOWZhMzgxZjBm",
+  "snapshot_id": "MCxhMmNiOWFjMzBmYzA5ZmM0MWIxZWNmZGMxMjY1ZjI5MTAwNjdkMjA0",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 313184,
-      "name": "Corps",
-      "url": "https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 313184,
+      "name": "Corps",
+      "url": "https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "\u00c0 la faveur de l'automne",
         "url": "https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
       "artists": [
         {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -551,38 +551,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Sublime & Silence",
-      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Sublime & Silence",
+      "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -767,42 +767,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "En amont",
-        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Immortels",
-      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        },
-        {
-          "name": "Claire Keim",
-          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Je ne veux qu'elle",
-      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "The Songs (Acoustic)",
         "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
       },
@@ -815,6 +779,22 @@
       "duration_ms": 231835,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "En amont",
+        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
+      },
+      "artists": [
+        {
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Immortels",
+      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -863,6 +843,26 @@
       "duration_ms": 290226,
       "name": "Sur un pr\u00e9lude de Bach",
       "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Claire Keim",
+          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Je ne veux qu'elle",
+      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
     },
     {
       "added_at": "2023-04-04 13:10:14",

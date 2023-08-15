@@ -1,12 +1,12 @@
 {
   "description": "The <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels. Cover: White China. Updates every Wednesday. Artwork by Isu Kim. ",
-  "num_followers": 1160064,
+  "num_followers": 1160106,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGNkNjEyYjYxZmViYmQ2YzIxNzM4MzhmZTEzMzMzOGNlNWRkM2Yx",
+  "snapshot_id": "MCxmMGJmMDU5ZDU2NzQxNDM4N2JiYmQ2N2I2MDYwYTg3ZWQzYjM2MjFk",
   "tracks": [
     {
       "added_at": "2023-08-09 15:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
+        "name": "scorpion.",
+        "url": "https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "scorpion.",
+      "url": "https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
         "name": "The Way It Goes",
         "url": "https://open.spotify.com/album/0s2jyi0ysemS6ZbJ6W7Dp5"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "scorpion.",
-        "url": "https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om"
+        "name": "american spirit",
+        "url": "https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
         }
       ],
-      "duration_ms": 163593,
-      "name": "scorpion.",
-      "url": "https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND"
+      "duration_ms": 201680,
+      "name": "american spirit",
+      "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -299,18 +315,18 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "american spirit",
-        "url": "https://open.spotify.com/album/5p0NWVJpiKCZZODMicFyfA"
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
       },
       "artists": [
         {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
         }
       ],
-      "duration_ms": 201680,
-      "name": "american spirit",
-      "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
+      "duration_ms": 187157,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -345,22 +361,6 @@
       "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
-      },
-      "artists": [
-        {
-          "name": "HOME",
-          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
-        }
-      ],
-      "duration_ms": 187157,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
-    },
-    {
       "added_at": "2023-08-10 14:17:43",
       "album": {
         "name": "Make Your Move",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/0B1eQLFEKR25dQ6Ot1A8zA"
-      },
-      "artists": [
-        {
-          "name": "Monday",
-          "url": "https://open.spotify.com/artist/6IU3rw9IqxQpToMrg59Jio"
-        }
-      ],
-      "duration_ms": 176817,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/3IZX6KX7yL1EbQo0KxoTPT"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/0B1eQLFEKR25dQ6Ot1A8zA"
+      },
+      "artists": [
+        {
+          "name": "Monday",
+          "url": "https://open.spotify.com/artist/6IU3rw9IqxQpToMrg59Jio"
+        }
+      ],
+      "duration_ms": 176817,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/3IZX6KX7yL1EbQo0KxoTPT"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/5VDrRxafQlpZy7Ew4HvVME"
     },
     {
+      "added_at": "2023-08-10 14:17:43",
+      "album": {
+        "name": "Affirm Me",
+        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Affirm Me",
+      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
+    },
+    {
       "added_at": "2023-08-09 15:00:00",
       "album": {
         "name": "All I Need",
@@ -519,22 +535,6 @@
       "duration_ms": 171354,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0ALoQRB70pKZ7uQJn73ayj"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Little Dog",
-        "url": "https://open.spotify.com/album/75dxH0hbPYMwwIpnSMwYMW"
-      },
-      "artists": [
-        {
-          "name": "Will Hearn",
-          "url": "https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Little Dog",
-      "url": "https://open.spotify.com/track/4WVKxgiblnEj1V6w7zKkCX"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc"
     },
     {
-      "added_at": "2023-08-10 14:17:43",
+      "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Affirm Me",
-        "url": "https://open.spotify.com/album/63T7MVZ5c7tS9ZDNB1H6i2"
+        "name": "Little Dog",
+        "url": "https://open.spotify.com/album/75dxH0hbPYMwwIpnSMwYMW"
       },
       "artists": [
         {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Will Hearn",
+          "url": "https://open.spotify.com/artist/4jR4yABF1QXCxXDXYNKcVQ"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Affirm Me",
-      "url": "https://open.spotify.com/track/0BxOS9BMSKeRjxhraqlARz"
+      "duration_ms": 216750,
+      "name": "Little Dog",
+      "url": "https://open.spotify.com/track/4WVKxgiblnEj1V6w7zKkCX"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "south beach",
-        "url": "https://open.spotify.com/album/1UL3SNFZPqfYZQX8Pm6SPu"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
       },
       "artists": [
         {
-          "name": "Justend",
-          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
-        },
-        {
-          "name": "Joe Aste",
-          "url": "https://open.spotify.com/artist/2Q9smGKHVW5FyCzt1VcGpP"
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
         }
       ],
-      "duration_ms": 230000,
-      "name": "south beach",
-      "url": "https://open.spotify.com/track/4TpGiw5MAPXvzEcmHCLBGS"
+      "duration_ms": 228923,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2LkvQxadwdqE4kBp5V4bGW"
+        "name": "south beach",
+        "url": "https://open.spotify.com/album/1UL3SNFZPqfYZQX8Pm6SPu"
       },
       "artists": [
         {
-          "name": "Lowheart",
-          "url": "https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c"
+          "name": "Justend",
+          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
+        },
+        {
+          "name": "Joe Aste",
+          "url": "https://open.spotify.com/artist/2Q9smGKHVW5FyCzt1VcGpP"
         }
       ],
-      "duration_ms": 198769,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/3TYJk9Miepm4GQMlVAP69J"
+      "duration_ms": 230000,
+      "name": "south beach",
+      "url": "https://open.spotify.com/track/4TpGiw5MAPXvzEcmHCLBGS"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -699,6 +699,70 @@
       "duration_ms": 228484,
       "name": "Raining Tomorrow",
       "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2LkvQxadwdqE4kBp5V4bGW"
+      },
+      "artists": [
+        {
+          "name": "Lowheart",
+          "url": "https://open.spotify.com/artist/6z9ujG6FHp0LnqmcXk586c"
+        }
+      ],
+      "duration_ms": 198769,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3TYJk9Miepm4GQMlVAP69J"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7kPy7AqlrdEYuaXS0MlDR0"
+      },
+      "artists": [
+        {
+          "name": "Lee Sugar",
+          "url": "https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ"
+        }
+      ],
+      "duration_ms": 158454,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0ZxPVxOXYm6YprU833nSsR"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Thundercurls",
+        "url": "https://open.spotify.com/album/6Xbw2qrPE3o5UAmH6fdHco"
+      },
+      "artists": [
+        {
+          "name": "Grande Mahogany",
+          "url": "https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Thundercurls",
+      "url": "https://open.spotify.com/track/22kr7jc4vGmQhxegTxidpN"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -739,18 +803,18 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Thundercurls",
-        "url": "https://open.spotify.com/album/6Xbw2qrPE3o5UAmH6fdHco"
+        "name": "Me And You, Anywhere",
+        "url": "https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz"
       },
       "artists": [
         {
-          "name": "Grande Mahogany",
-          "url": "https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q"
+          "name": "Deadharrie",
+          "url": "https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Thundercurls",
-      "url": "https://open.spotify.com/track/22kr7jc4vGmQhxegTxidpN"
+      "duration_ms": 202900,
+      "name": "Me And You, Anywhere",
+      "url": "https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -771,22 +835,6 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Me And You, Anywhere",
-        "url": "https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz"
-      },
-      "artists": [
-        {
-          "name": "Deadharrie",
-          "url": "https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Me And You, Anywhere",
-      "url": "https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV"
       },
@@ -799,38 +847,6 @@
       "duration_ms": 196269,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/7kPy7AqlrdEYuaXS0MlDR0"
-      },
-      "artists": [
-        {
-          "name": "Lee Sugar",
-          "url": "https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ"
-        }
-      ],
-      "duration_ms": 158454,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0ZxPVxOXYm6YprU833nSsR"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Paseo En Carro A La Costa",
-        "url": "https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo"
-      },
-      "artists": [
-        {
-          "name": "raquel",
-          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "paseo en carro a la costa",
-      "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -851,34 +867,34 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Cozy",
-        "url": "https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY"
+        "name": "Paseo En Carro A La Costa",
+        "url": "https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo"
       },
       "artists": [
         {
-          "name": "Operelly",
-          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+          "name": "raquel",
+          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Cozy",
-      "url": "https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0"
+      "duration_ms": 258586,
+      "name": "paseo en carro a la costa",
+      "url": "https://open.spotify.com/track/31R22n6xtllkynO6SVWayS"
     },
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/10A9IeCajx3PHPxETjf0gx"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "benison",
+          "url": "https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO"
         }
       ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
+      "duration_ms": 160832,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6X0J32oreaRkLb3FU9aUjz"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -899,38 +915,18 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Limit",
-        "url": "https://open.spotify.com/album/36z227Nye8ncY8O22fA5lc"
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
       },
       "artists": [
         {
-          "name": "Seina",
-          "url": "https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic"
-        },
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 270967,
-      "name": "Limit",
-      "url": "https://open.spotify.com/track/5pSMiWiNHzftxYS4LWzjm0"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/10A9IeCajx3PHPxETjf0gx"
-      },
-      "artists": [
-        {
-          "name": "benison",
-          "url": "https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO"
-        }
-      ],
-      "duration_ms": 160832,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6X0J32oreaRkLb3FU9aUjz"
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -955,98 +951,22 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Sobre La Loquera",
-        "url": "https://open.spotify.com/album/5cfDeRhggaNBaCXkRXoNPa"
+        "name": "Limit",
+        "url": "https://open.spotify.com/album/36z227Nye8ncY8O22fA5lc"
       },
       "artists": [
         {
-          "name": "El Krack Mx",
-          "url": "https://open.spotify.com/artist/5ti1sFtNy3wjVTwNFNxH2i"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "Sobre La Loquera",
-      "url": "https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/11PorcKZMGQjUai8BEljAi"
-      },
-      "artists": [
+          "name": "Seina",
+          "url": "https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic"
+        },
         {
-          "name": "SWEET SPINE",
-          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
         }
       ],
-      "duration_ms": 228923,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "The Holiday",
-        "url": "https://open.spotify.com/album/1njeQMMZBblx6rKKkyuI6l"
-      },
-      "artists": [
-        {
-          "name": "After Ours",
-          "url": "https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7"
-        }
-      ],
-      "duration_ms": 181391,
-      "name": "The Holiday",
-      "url": "https://open.spotify.com/track/2MHc9vvKR51g8kh8pX5Lm9"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Aqua Stars",
-        "url": "https://open.spotify.com/album/6VZObR7olr2Lr67Q6iJ6YI"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 425567,
-      "name": "Aqua Stars",
-      "url": "https://open.spotify.com/track/5wwe7RrU67xsa6Ykd5Sy80"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "entrelasal",
-        "url": "https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn"
-      },
-      "artists": [
-        {
-          "name": "nopornada",
-          "url": "https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "entrelasal",
-      "url": "https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "Se Acaba",
-        "url": "https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Se Acaba",
-      "url": "https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT"
+      "duration_ms": 270967,
+      "name": "Limit",
+      "url": "https://open.spotify.com/track/5pSMiWiNHzftxYS4LWzjm0"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -1067,18 +987,82 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "batshit",
-        "url": "https://open.spotify.com/album/7lVakZq3UPhycvTnSngCGW"
+        "name": "Sobre La Loquera",
+        "url": "https://open.spotify.com/album/5cfDeRhggaNBaCXkRXoNPa"
       },
       "artists": [
         {
-          "name": "Chesle",
-          "url": "https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2"
+          "name": "El Krack Mx",
+          "url": "https://open.spotify.com/artist/5ti1sFtNy3wjVTwNFNxH2i"
         }
       ],
-      "duration_ms": 156387,
-      "name": "charlie!",
-      "url": "https://open.spotify.com/track/6OYjw8vIOwFBGfXFUBEiJM"
+      "duration_ms": 131320,
+      "name": "Sobre La Loquera",
+      "url": "https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Aqua Stars",
+        "url": "https://open.spotify.com/album/6VZObR7olr2Lr67Q6iJ6YI"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 425567,
+      "name": "Aqua Stars",
+      "url": "https://open.spotify.com/track/5wwe7RrU67xsa6Ykd5Sy80"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "The Holiday",
+        "url": "https://open.spotify.com/album/1njeQMMZBblx6rKKkyuI6l"
+      },
+      "artists": [
+        {
+          "name": "After Ours",
+          "url": "https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7"
+        }
+      ],
+      "duration_ms": 181391,
+      "name": "The Holiday",
+      "url": "https://open.spotify.com/track/2MHc9vvKR51g8kh8pX5Lm9"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2ea4lMGCvPUPIYXMhxgKXg"
+      },
+      "artists": [
+        {
+          "name": "Ginger Taylor",
+          "url": "https://open.spotify.com/artist/5JcE9KsiwTxPmxLsfqKfT5"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/6vfECc8xeDQIJbZPywBtBW"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "entrelasal",
+        "url": "https://open.spotify.com/album/52T9eBIbCfTXuNGm9sLiOn"
+      },
+      "artists": [
+        {
+          "name": "nopornada",
+          "url": "https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "entrelasal",
+      "url": "https://open.spotify.com/track/05Gft7dGw92o6MfhnDU6VB"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2ea4lMGCvPUPIYXMhxgKXg"
+        "name": "Se Acaba",
+        "url": "https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt"
       },
       "artists": [
         {
-          "name": "Ginger Taylor",
-          "url": "https://open.spotify.com/artist/5JcE9KsiwTxPmxLsfqKfT5"
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
         }
       ],
-      "duration_ms": 212618,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/6vfECc8xeDQIJbZPywBtBW"
+      "duration_ms": 153000,
+      "name": "Se Acaba",
+      "url": "https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "batshit",
+        "url": "https://open.spotify.com/album/7lVakZq3UPhycvTnSngCGW"
+      },
+      "artists": [
+        {
+          "name": "Chesle",
+          "url": "https://open.spotify.com/artist/1OEchET7khtY1YZZ7UFJO2"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "charlie!",
+      "url": "https://open.spotify.com/track/6OYjw8vIOwFBGfXFUBEiJM"
     },
     {
       "added_at": "2023-08-10 14:17:43",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-09 15:00:00",
       "album": {
-        "name": "Trust Me When I Lie",
-        "url": "https://open.spotify.com/album/1L0JNUvXNjaRiSZGxGBn8Z"
-      },
-      "artists": [
-        {
-          "name": "Luca Malina",
-          "url": "https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Trust Me When I Lie",
-      "url": "https://open.spotify.com/track/669pBel16P5pZJxM20T7OA"
-    },
-    {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
         "name": "overjoyed",
         "url": "https://open.spotify.com/album/1Rr5rHo4HXwAdotlrHLsWC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 156106,
       "name": "overjoyed",
       "url": "https://open.spotify.com/track/5DQBnzPjtpKjnIw7gHGqfC"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "Trust Me When I Lie",
+        "url": "https://open.spotify.com/album/1L0JNUvXNjaRiSZGxGBn8Z"
+      },
+      "artists": [
+        {
+          "name": "Luca Malina",
+          "url": "https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Trust Me When I Lie",
+      "url": "https://open.spotify.com/track/669pBel16P5pZJxM20T7OA"
     },
     {
       "added_at": "2023-08-09 15:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A"
     },
     {
-      "added_at": "2023-08-09 15:00:00",
-      "album": {
-        "name": "All The In Betweens",
-        "url": "https://open.spotify.com/album/01vwGveV6htbvcN1jB4q1G"
-      },
-      "artists": [
-        {
-          "name": "Syd Franklin",
-          "url": "https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7"
-        }
-      ],
-      "duration_ms": 194652,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4nHFCC9UOQ8BMsOzEGetZe"
-    },
-    {
       "added_at": "2023-08-10 14:17:43",
       "album": {
         "name": "When We Were",
@@ -1263,6 +1247,22 @@
       "duration_ms": 206225,
       "name": "Oh Darlin'",
       "url": "https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1"
+    },
+    {
+      "added_at": "2023-08-09 15:00:00",
+      "album": {
+        "name": "All The In Betweens",
+        "url": "https://open.spotify.com/album/01vwGveV6htbvcN1jB4q1G"
+      },
+      "artists": [
+        {
+          "name": "Syd Franklin",
+          "url": "https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7"
+        }
+      ],
+      "duration_ms": 194652,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4nHFCC9UOQ8BMsOzEGetZe"
     },
     {
       "added_at": "2023-08-09 15:00:00",

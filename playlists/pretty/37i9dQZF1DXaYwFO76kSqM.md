@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYwFO76kSqM.md) - [plain]
 
 > Catch King's favorite South Asian tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 35 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 35 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYwFO76kSqM.md) - [plain]
 | 34 | [Mangan Aiyaan](https://open.spotify.com/track/1A27G1hOLRBA0nKvakRZHI) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mangan Aiyaan](https://open.spotify.com/album/3mgsIaswVoF08xKiZuiLgn) | 3:53 |
 | 35 | [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 |
 
-Snapshot ID: `MCwwMTQ0NzEyOGU2Y2U0NmQxOGE5NTdjNzE2NmViMTU3MmQ3YThhZWNk`
+Snapshot ID: `MCxmN2IzZDdkODRhNDc0NTNkNGU2ZDhjNmQyN2U1MjVjN2ZjNDY1YzZi`

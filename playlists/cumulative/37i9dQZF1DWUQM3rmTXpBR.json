@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Sawt El Madini",
+        "url": "https://open.spotify.com/album/2G1qgmAYD4wfPLOU9qTrFp"
+      },
+      "artists": [
+        {
+          "name": "Adonis",
+          "url": "https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv"
+        },
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189914,
+      "name": "Sawt El Madini",
+      "url": "https://open.spotify.com/track/70Urq3p5yK8I75TtTMg945"
+    },
+    {
+      "album": {
         "name": "Seebik",
         "url": "https://open.spotify.com/album/4UxP0SoY9Yk1gwRJ2e4LO5"
       },

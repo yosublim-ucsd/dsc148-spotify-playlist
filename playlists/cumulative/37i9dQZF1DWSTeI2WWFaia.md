@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-505 songs - 1 day 2 hr 55 min
+506 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV) | 4:31 | 2022-06-17 | 2022-07-29 |
 | [Dropout Boogie](https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Dropout Boogie](https://open.spotify.com/album/4ilCXDgIrmipXEBBBjMOiK) | 3:09 | 2021-09-03 | 2022-07-27 |
 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 | 2023-07-21 |  |
-| [Easy](https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:21 | 2023-05-12 |  |
+| [Dump On Em](https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Dump On Em](https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5) | 3:36 | 2023-08-11 |  |
+| [Easy](https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:21 | 2023-05-12 | 2023-08-15 |
 | [EAT](https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat](https://open.spotify.com/artist/6gj5OjJoEBMu1IbsM7S2ya) | [EAT](https://open.spotify.com/album/6hySO8WKFbGCobsuZi0C76) | 3:28 | 2021-09-03 | 2022-04-26 |
 | [Eggs](https://open.spotify.com/track/7b1S5gTtqudbiXfKLuAbEp) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [Eggs](https://open.spotify.com/album/4zL2Ief0TatagtD5UHSi5V) | 3:16 | 2021-09-03 | 2022-07-20 |
 | [Ego Check](https://open.spotify.com/track/14y5Ue6VsYiJS4vhNJ2bKu) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Ego Check](https://open.spotify.com/album/00jlxkdE1FvkvEMqQvAXZ3) | 3:39 | 2021-09-03 | 2022-07-20 |

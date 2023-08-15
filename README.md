@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6519\)
+## Playlists \(6520\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -6246,7 +6246,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [feels like latin funk](/playlists/pretty/37i9dQZF1DWTTiDL22vZpS.md)
 - [floating](/playlists/pretty/37i9dQZF1DXdEZt3tTR001.md)
 - [foodora dinner playlist](/playlists/pretty/4lgseztVwmKQ8MNETPVIny.md)
-- [free refills](/playlists/pretty/37i9dQZF1DX3Tjn540kLxZ.md)
 - [girl dinner](/playlists/pretty/37i9dQZF1DXaN3n8Umehd8.md)
 - [gloomcore](/playlists/pretty/37i9dQZF1DXbENHm2OgowX.md)
 - [golden hour](/playlists/pretty/37i9dQZF1DWUE76cNNotSg.md)
@@ -6330,6 +6329,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [misfits 2.0](/playlists/pretty/37i9dQZF1DXciq74vrQmM8.md)
 - [mood.](/playlists/pretty/37i9dQZF1DWYtDSKIiDhua.md)
 - [mosaic](/playlists/pretty/37i9dQZF1DXd9vfK9DV3I6.md)
+- [movements.](/playlists/pretty/37i9dQZF1DX0KSY3FHBnf5.md)
 - [murga](/playlists/pretty/5htE97xLVu4akvNcmhLien.md)
 - [my life is a movie](/playlists/pretty/37i9dQZF1DX4OzrY981I1W.md)
 - [más pegao que poster en la calle](/playlists/pretty/37i9dQZF1DX9YKAGFxiVFe.md)
@@ -6343,6 +6343,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [noventeras](/playlists/pretty/37i9dQZF1DX3FbSX4ewlys.md)
 - [oiii](/playlists/pretty/37i9dQZF1DXcSVNtcbJ15L.md)
 - [omw](/playlists/pretty/37i9dQZF1DX8OR0U4UGusN.md)
+- [patchwork](/playlists/pretty/37i9dQZF1DX3Tjn540kLxZ.md)
 - [perdón](/playlists/pretty/37i9dQZF1DWSEjz7TrmLMY.md)
 - [phonk](/playlists/pretty/37i9dQZF1DWWY64wDtewQt.md)
 - [planet rave](/playlists/pretty/37i9dQZF1DWW1XLSH8Oafp.md)

@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "ball don't lie",
+        "url": "https://open.spotify.com/album/3EC1lYeCx5BSOTRZU0JTOu"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "ball don't lie",
+      "url": "https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz"
+    },
+    {
+      "album": {
         "name": "bananas",
         "url": "https://open.spotify.com/album/68CuxaV12xyp4861YjzAkx"
       },
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 140826,
       "name": "stupid i miss u",
       "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"

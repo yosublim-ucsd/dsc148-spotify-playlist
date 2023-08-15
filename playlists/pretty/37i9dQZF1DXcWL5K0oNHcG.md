@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Shunaji Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,007 likes - 74 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,051 likes - 74 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 73 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 |
 | 74 | [Nash](https://open.spotify.com/track/3v4frMlLHje5Vy9ZDOXBRy) | [Sawtooth](https://open.spotify.com/artist/0o65VjgHzvH72b5Bdhv1B8) | [Nash](https://open.spotify.com/album/2ud074dc1vr342FCevGj3B) | 2:22 |
 
-Snapshot ID: `MCxjYWFkYTkxMDEwOWY1NmY0ZTFmOGYyNmNlZWU0MzJmM2JiMDUyNDIy`
+Snapshot ID: `MCw2MzM1ZTM3NjY5ZDAwNmNlNzgxZjU4MjE3MjZjY2M5ZTEwZGY1ZTU2`

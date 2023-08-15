@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" /Aqours\u306e\u300c\u307f\u3093\u306a\u3067\u53f6\u3048\u308b\u7269\u8a9e\u300d\u3092\u5f69\u3063\u3066\u304d\u305f\u540d\u66f2\u306e\u6570\u3005\u304c\u3053\u3053\u306b\u3002\u25b6\ufe0e\u300cLove Live\uff01\u300d<a href=\"spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF\">Here</a> \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 53093,
+  "num_followers": 53088,
   "original_name": "Love Live! Sunshine!! -\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTViN2U4N2Y0MzI4MzdiMjcyNWFkMzM4MTQ3MDdmMzU4ZWYwZmUw",
+  "snapshot_id": "MCxiZTkxZDc1YTZkZDQ5NTM0YTRjNzdiY2JjYWM4M2ZjMjkwY2EyMzA1",
   "tracks": [
     {
       "added_at": "2023-06-13 16:31:39",
@@ -91,6 +91,26 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "BANZAI! digital trippers (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 200799,
+      "name": "KA-GA-YA-KI-RA-RI-RA (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "Awaken the power",
         "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
       },
@@ -103,6 +123,22 @@
       "duration_ms": 296786,
       "name": "Awaken the power",
       "url": "https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
+        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "SELF CONTROL!! - \u7b2c8\u8a71\u633f\u5165\u6b4c(\u30d5\u30eb\u30b5\u30a4\u30ba)",
+      "url": "https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -127,42 +163,6 @@
       "duration_ms": 193224,
       "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044! - \u308f\u3044\u308f\u3044\u308f\u3044",
       "url": "https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "BANZAI! digital trippers (feat. \u521d\u97f3\u30df\u30af)",
-        "url": "https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1"
-      },
-      "artists": [
-        {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 200799,
-      "name": "KA-GA-YA-KI-RA-RI-RA (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
-        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Snow",
-          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "SELF CONTROL!! - \u7b2c8\u8a71\u633f\u5165\u6b4c(\u30d5\u30eb\u30b5\u30a4\u30ba)",
-      "url": "https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
-        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
-        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
-          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "\u3082\u3063\u3068\u306d!",
-      "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
         "name": "Strawberry Trapper",
         "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 236053,
       "name": "Strawberry Trapper",
       "url": "https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
+          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "\u3082\u3063\u3068\u306d!",
+      "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
-        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+        "name": "Believe again/Brightest Melody/Over The Next Rainbow",
+        "url": "https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ"
       },
       "artists": [
         {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+          "name": "Saint Aqours Snow",
+          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
         }
       ],
-      "duration_ms": 227120,
-      "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-      "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
+      "duration_ms": 299026,
+      "name": "Over The Next Rainbow",
+      "url": "https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -339,34 +339,18 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
-        "name": "Believe again/Brightest Melody/Over The Next Rainbow",
-        "url": "https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ"
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
       "artists": [
         {
-          "name": "Saint Aqours Snow",
-          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Over The Next Rainbow",
-      "url": "https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
-        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
-      },
-      "artists": [
-        {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
-        }
-      ],
-      "duration_ms": 275173,
-      "name": "Daydream Warrior",
-      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
+      "duration_ms": 227120,
+      "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+      "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "duration_ms": 275173,
+      "name": "Daydream Warrior",
+      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
         "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 296840,
       "name": "Misty Frosty Love",
       "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "Awaken the power",
+        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "DROPOUT!?",
+      "url": "https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -471,6 +487,22 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
+        "url": "https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
+      "url": "https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
         "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
       },
@@ -491,54 +523,6 @@
       "duration_ms": 256986,
       "name": "G\u7dda\u4e0a\u306e\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ~New winding road~",
-        "url": "https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948) from Aqours",
-          "url": "https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Shiny Racers",
-      "url": "https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
-        "url": "https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U"
-      },
-      "artists": [
-        {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
-      "url": "https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "Awaken the power",
-        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
-      },
-      "artists": [
-        {
-          "name": "Saint Snow",
-          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "DROPOUT!?",
-      "url": "https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -571,6 +555,38 @@
       "duration_ms": 239733,
       "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
       "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ~New winding road~",
+        "url": "https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948) from Aqours",
+          "url": "https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Shiny Racers",
+      "url": "https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "Dazzling White Town",
+        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "Lonely Snow Planet",
+      "url": "https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -615,6 +631,22 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "duration_ms": 310426,
+      "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
         "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
       },
@@ -627,22 +659,6 @@
       "duration_ms": 310293,
       "name": "PURE PHRASE",
       "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
-        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
-          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
-        }
-      ],
-      "duration_ms": 288293,
-      "name": "\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?",
-      "url": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
-        "name": "Dazzling White Town",
-        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
       },
       "artists": [
         {
-          "name": "Saint Snow",
-          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
+          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
         }
       ],
-      "duration_ms": 255960,
-      "name": "Lonely Snow Planet",
-      "url": "https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab"
+      "duration_ms": 288293,
+      "name": "\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?",
+      "url": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -719,58 +735,6 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
-        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
-        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        },
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        },
-        {
-          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
-          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
-        },
-        {
-          "name": "\u6d25\u5cf6\u5584\u5b50 (CV.\u5c0f\u6797\u611b\u9999)",
-          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
-        },
-        {
-          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
-          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
-        },
-        {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
-          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
-        }
-      ],
-      "duration_ms": 334440,
-      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
-      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf"
-      },
-      "artists": [
-        {
-          "name": "CYaRon!",
-          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
-        }
-      ],
-      "duration_ms": 310426,
-      "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
         "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
         "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
       },
@@ -807,6 +771,42 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
+        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "\u6d25\u5cf6\u5584\u5b50 (CV.\u5c0f\u6797\u611b\u9999)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "duration_ms": 334440,
+      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
         "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
       },
@@ -827,46 +827,6 @@
       "duration_ms": 256813,
       "name": "Waku-Waku-Week!",
       "url": "https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        },
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        },
-        {
-          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
-          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
-      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
-    },
-    {
-      "added_at": "2023-06-13 16:31:39",
-      "album": {
-        "name": "GALAXY HidE and SeeK",
-        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "INNOCENT BIRD",
-      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
     },
     {
       "added_at": "2023-06-13 16:31:39",
@@ -903,6 +863,22 @@
     {
       "added_at": "2023-06-13 16:31:39",
       "album": {
+        "name": "GALAXY HidE and SeeK",
+        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "INNOCENT BIRD",
+      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
         "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
         "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
       },
@@ -915,6 +891,22 @@
       "duration_ms": 295360,
       "name": "RED GEM WINK",
       "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
+    },
+    {
+      "added_at": "2023-06-13 16:31:39",
+      "album": {
+        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
+        "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
+          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
+        }
+      ],
+      "duration_ms": 234746,
+      "name": "Never giving up!",
+      "url": "https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92"
     },
     {
       "added_at": "2023-06-13 16:31:39",

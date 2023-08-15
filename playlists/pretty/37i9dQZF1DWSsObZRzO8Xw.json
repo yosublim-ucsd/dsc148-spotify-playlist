@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 140072,
+  "num_followers": 140312,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjgxZTY1N2I4ZGZhMjJiOTg5NzA0MWMyYmQyYjFiNGQ3OTI5MzM3",
+  "snapshot_id": "MCxmOTc3YWQ1YjRmNmM0N2UwYzUyY2UzM2ZjYjFjNThlZTQzY2I2Y2M0",
   "tracks": [
     {
       "added_at": "2023-08-10 12:38:45",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
+      },
+      "artists": [
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
         "name": "Ten Billion People",
         "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "Here comes a new challenger!",
         "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
-      },
-      "artists": [
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "Chevalier Bulltoe",
-      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "Spring Island",
         "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 269173,
       "name": "The Detail",
       "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
+      },
+      "artists": [
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "duration_ms": 212016,
+      "name": "Chevalier Bulltoe",
+      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "Ghost City",
         "url": "https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 225514,
       "name": "Delaylay",
       "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
-      },
-      "artists": [
-        {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Medium Bastard",
-        "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
-      },
-      "artists": [
-        {
-          "name": "You Slut!",
-          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Fiftzeen",
-      "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "The View From This Tower",
         "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174280,
       "name": "Cut Self Not",
       "url": "https://open.spotify.com/track/1aT2dSJgcxRs4q0sfB188o"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Medium Bastard",
+        "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
+      },
+      "artists": [
+        {
+          "name": "You Slut!",
+          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Fiftzeen",
+      "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Morbid Curiosity",
-        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
-      },
-      "artists": [
-        {
-          "name": "Thingy",
-          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
-        }
-      ],
-      "duration_ms": 126789,
-      "name": "Not To Follow",
-      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 233625,
       "name": "Harvester",
       "url": "https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Morbid Curiosity",
+        "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
+      },
+      "artists": [
+        {
+          "name": "Thingy",
+          "url": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
+        }
+      ],
+      "duration_ms": 126789,
+      "name": "Not To Follow",
+      "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Installation",
-        "url": "https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "LITE",
-          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Echolocation",
-      "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
+      "duration_ms": 173106,
+      "name": "Los Bajos Fondos",
+      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "A Forest of Polarity",
-        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
+        "name": "Installation",
+        "url": "https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO"
       },
       "artists": [
         {
-          "name": "Rooftops",
-          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
+          "name": "LITE",
+          "url": "https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Raft Easily",
-      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
+      "duration_ms": 234813,
+      "name": "Echolocation",
+      "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
+        "name": "A Forest of Polarity",
+        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
+      },
+      "artists": [
+        {
+          "name": "Rooftops",
+          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Raft Easily",
+      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
         "name": "ARUKAS",
         "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 341613,
       "name": "ARUKAS",
       "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Los Bajos Fondos",
-      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
         "name": "Route One or Die",
         "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 298760,
       "name": "Cramm",
       "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+      },
+      "artists": [
+        {
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
+        "name": "Stegosauro",
+        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
+      },
+      "artists": [
+        {
+          "name": "Stegosauro",
+          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Jap'n Cazz",
+      "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+    },
+    {
+      "added_at": "2023-08-10 12:38:45",
+      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 226173,
       "name": "Crucemos los Puentes...",
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
-      },
-      "artists": [
-        {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Stegosauro",
-        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
       "artists": [
         {
-          "name": "Stegosauro",
-          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Jap'n Cazz",
-      "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Propulsor",
-        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
+        "name": "Alexander Supertramp",
+        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
       },
       "artists": [
         {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+          "name": "Bangladesh",
+          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
         }
       ],
-      "duration_ms": 381360,
-      "name": "Una Historia para Acabar Con Todas las Historias",
-      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+      "duration_ms": 277300,
+      "name": "Alexander Supertramp",
+      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
     },
     {
       "added_at": "2023-08-10 12:38:45",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-08-10 12:38:45",
       "album": {
-        "name": "Alexander Supertramp",
-        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
+        "name": "Propulsor",
+        "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
       },
       "artists": [
         {
-          "name": "Bangladesh",
-          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
         }
       ],
-      "duration_ms": 277300,
-      "name": "Alexander Supertramp",
-      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+      "duration_ms": 381360,
+      "name": "Una Historia para Acabar Con Todas las Historias",
+      "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
     },
     {
       "added_at": "2023-08-10 12:38:45",

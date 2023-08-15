@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,576 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,739 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [INEVITABLE](https://open.spotify.com/track/2qtSizmBpVyaOZMypRdxZv) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [INEVITABLE](https://open.spotify.com/album/193XRG7LBnajqsiNXqpjtN) | 3:13 |
 | 80 | [anything u want](https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY) | 2:26 |
 
-Snapshot ID: `MCw1ZDYzZGY4NGE3MjY0OWE2ODA2MTE1NjBlOTNiN2YzOTY3Y2I4YmQy`
+Snapshot ID: `MCw1Yjc4OGY3ZjZlNjg3ZDJhYjYyY2ZjMmI5NzYzNjAwZTZhNGU5OTQ3`

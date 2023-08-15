@@ -620,8 +620,8 @@
       },
       "artists": [
         {
-          "name": "Boy Genius",
-          "url": "https://open.spotify.com/artist/4I5DxNJP2fNxCZHp0ENJUh"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
         },
         {
           "name": "Julien Baker",
@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Lucky (Jason's First Draft)",
+        "url": "https://open.spotify.com/album/5jZJPl8660caI1l3w2NaQD"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "Lucky (Jason's First Draft)",
+      "url": "https://open.spotify.com/track/2zhuP2JZpqyTEwzTERNdHc"
+    },
+    {
+      "album": {
         "name": "Luna Moth",
         "url": "https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8"
       },
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-15",
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"

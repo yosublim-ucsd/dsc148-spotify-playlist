@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,941 likes - 105 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,953 likes - 105 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 104 | [highstreet 4:44](https://open.spotify.com/track/3mtrXXbyYUHZTuh6UZAKiF) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [alter ego](https://open.spotify.com/album/4jaRABr4vZW4IEp13hP6l9) | 3:05 |
 | 105 | [good guys](https://open.spotify.com/track/4GTuuIJCWdhk5HFCAzCifT) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [good guys](https://open.spotify.com/album/33YxugTwUhRBiGfRbNbXgs) | 3:33 |
 
-Snapshot ID: `MCxjYzQ5NjUyYWJmZWE1ZTRmZTk4MzM5ZDNjNjYwMGViMjMwZDA4YjVm`
+Snapshot ID: `MCwxZTMzMjMzZGM1YWZhYmFhMTU1YzE4OWQ4ZWJhMzNmODhlNDNkZGFm`

@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 7842,
+  "num_followers": 7851,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjI4NTEyZDYwNDliNWE1NTJiNTYxOGFkMmFmYmUyZTk2MDRkZTgz",
+  "snapshot_id": "MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "todo lo que pasa",
         "url": "https://open.spotify.com/album/3efcjft7NVnRr20mD5JveU"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Vigilantes del Espejo",
         "url": "https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 128487,
       "name": "Vigilantes del Espejo",
       "url": "https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 123835,
-      "name": "no estamos bien",
-      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -671,6 +655,22 @@
       "duration_ms": 297530,
       "name": "Rester",
       "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 123835,
+      "name": "no estamos bien",
+      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 167327,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "DESTRUYA!",
         "url": "https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 204608,
       "name": "Soy Vertical",
       "url": "https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 167327,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Art Collective",
-        "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
-      },
-      "artists": [
-        {
-          "name": "Rosk",
-          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
-        }
-      ],
-      "duration_ms": 172923,
-      "name": "Art Collective",
-      "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 225587,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Art Collective",
+        "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
+      },
+      "artists": [
+        {
+          "name": "Rosk",
+          "url": "https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN"
+        }
+      ],
+      "duration_ms": 172923,
+      "name": "Art Collective",
+      "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 367861,
       "name": "Frente al Mar",
       "url": "https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "La Era De Acuario",
-        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
-      },
-      "artists": [
-        {
-          "name": "La Era de Acuario",
-          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Om Ganesh",
-      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Contradicktion",
         "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 125250,
       "name": "Contradicktion",
       "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "La Era De Acuario",
+        "url": "https://open.spotify.com/album/2ISRlVYslwgJ1f3SO5Lwnb"
+      },
+      "artists": [
+        {
+          "name": "La Era de Acuario",
+          "url": "https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Om Ganesh",
+      "url": "https://open.spotify.com/track/0DzC2HDlOm8HZiDSZ4J7iU"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "HIPOCONDR\u00cdA",
-        "url": "https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0"
-      },
-      "artists": [
-        {
-          "name": "Pinpilinpussies",
-          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
-        }
-      ],
-      "duration_ms": 295745,
-      "name": "Bellaco",
-      "url": "https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Corrida al Arco",
         "url": "https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 253456,
       "name": "Corrida al Arco",
       "url": "https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "HIPOCONDR\u00cdA",
+        "url": "https://open.spotify.com/album/1ZdhaaSnC5nWorkAg3Vuh0"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "duration_ms": 295745,
+      "name": "Bellaco",
+      "url": "https://open.spotify.com/track/3sVv6VG97Fxnfo93seAm8X"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH"
+        "name": "Esp\u00e9cimen Surf",
+        "url": "https://open.spotify.com/album/2MPyMDuNJvpjYXbtaW9PUT"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        },
-        {
-          "name": "Kate Clover",
-          "url": "https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5"
+          "name": "The Centellas",
+          "url": "https://open.spotify.com/artist/3JMSuFrEG6bMGn2gbyyIMD"
         }
       ],
-      "duration_ms": 186431,
-      "name": "Baby Don't You Love Me - Bonus Track",
-      "url": "https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL"
+      "duration_ms": 149572,
+      "name": "Prisma Lunar",
+      "url": "https://open.spotify.com/track/3XquW4OssRBZXDG5kbN6re"
     }
   ],
   "unique_name": "Ruidosas",

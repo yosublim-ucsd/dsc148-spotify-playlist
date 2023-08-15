@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10188,
+  "num_followers": 10195,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFhODFiOTUxOWQ2M2JjNGJjZWI3ZGIzNzdmNTI1M2EwMDQ5Mzk2",
+  "snapshot_id": "MCw1NDM3ODYwM2I1NTY0ODk5ZGZhMWVmMTc3MjhiNDY0NTFmNGE2ODcz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 243449,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Whatcha Gon' Do",
-      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
-    },
-    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "Shout Into The Noise",
@@ -519,22 +503,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Times Have Changed",
-        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
-          "name": "Ronnie Baker Brooks",
-          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
-        },
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 239386,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
+      "duration_ms": 207720,
+      "name": "Whatcha Gon' Do",
+      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -555,6 +535,26 @@
       "duration_ms": 223560,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Times Have Changed",
+        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        },
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        }
+      ],
+      "duration_ms": 239386,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Girls With Guitars",
         "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 163733,
       "name": "Satisfy My Soul",
       "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Son Of A Bluesman",
+        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 281013,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+    },
+    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Spider in My Stew",
@@ -779,22 +795,6 @@
       "duration_ms": 249234,
       "name": "Big Mama's Soul Food",
       "url": "https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -847,18 +847,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Show Of Strength",
-        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
       },
       "artists": [
         {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
         }
       ],
-      "duration_ms": 360146,
-      "name": "Little Juke Joint",
-      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     }
   ],
   "unique_name": "Blues Party",
