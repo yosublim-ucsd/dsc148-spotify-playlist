@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,521 likes - 101 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,594 likes - 101 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 54 | [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 |
 | 55 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 |
 | 56 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 |
-| 57 | [Make Me Understand](https://open.spotify.com/track/7n7WlVZMM9FDP7s8RO0DK8) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC) | [Make Me Understand](https://open.spotify.com/album/3R46sa21sfv0JjrTNmT1fF) | 3:38 |
+| 57 | [Make Me Understand](https://open.spotify.com/track/7n7WlVZMM9FDP7s8RO0DK8) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Make Me Understand](https://open.spotify.com/album/3R46sa21sfv0JjrTNmT1fF) | 3:38 |
 | 58 | [What's Real](https://open.spotify.com/track/4EB2JnJrW1dymIM0tPlrRG) | [mpeg](https://open.spotify.com/artist/3GOuLN3xgruArNleu9oPDo) | [Gears](https://open.spotify.com/album/4WKd5U6EjhTR3nB0Oz8GfP) | 5:43 |
 | 59 | [Otomatik](https://open.spotify.com/track/7LmmFiboQrJn3GmngNLKTl) | [Adrien Calvet](https://open.spotify.com/artist/4u29f7PSq3kGpA1LINRIRg) | [Otomatik](https://open.spotify.com/album/2PlcYkMIuCbCyuydlIfPVW) | 6:36 |
 | 60 | [Air Beneath](https://open.spotify.com/track/1ZOBuhQqbpKBBYAoquPpaa) | [Dylan Forbes](https://open.spotify.com/artist/2Xuub4Skf1kEJZrNo1iML2) | [BODYHI04](https://open.spotify.com/album/1IywtUfkzFrRES8l0Ss293) | 6:59 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 100 | [Variation](https://open.spotify.com/track/3IROMs4R8cMjdzUmxL5oPi) | [Asida Aya](https://open.spotify.com/artist/3lusHS0CkZEZ8fg7LtdVWo) | [Variation EP](https://open.spotify.com/album/7jNXo2etC3SFnhuwqAhXVE) | 5:58 |
 | 101 | [Come Back To Earth](https://open.spotify.com/track/7H0J2Leg2omZxZFwqkdAML) | [Cosmilk](https://open.spotify.com/artist/2AGrE0gZoxBlRmtwvzLqUP) | [Motion Of Time](https://open.spotify.com/album/1Tk2ZXT28f569UXIPmVG6d) | 5:32 |
 
-Snapshot ID: `MCwyNTQzOGI0Njg0MDBkNjRiOGUwM2M4ZGZiNmE3MzRlYWZmZWZmMjMz`
+Snapshot ID: `MCwyMTI3ZDViZTkxNGZlZjRjMjI3OTU0OTkyMDUyNDk2MzAyNTA4NTM1`

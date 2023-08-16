@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 
 > Check out our Kollywood Machos!<br/>Cover : Suriya
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,552 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,759 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 |
-| 2 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 |
+| 2 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 |
 | 3 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 |
 | 4 | [Toofan \(From "Kgf Chapter 2"\)](https://open.spotify.com/track/5HAs7T9bKrS2VYrxkG5Ohi) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Govind Prasad](https://open.spotify.com/artist/2XzJ8aeBoI3YXBnaYVgDUh), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs), [Mohan Krishna](https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Puneeth Rudranag](https://open.spotify.com/artist/6oLN9TELPauBfctYeWPtYP), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD) | [Toofan \(From "Kgf Chapter 2"\)](https://open.spotify.com/album/1uxRF8H4CGkXjaYhHbj9n2) | 3:34 |
 | 5 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHCSWjSx6A.md) - [plain]
 | 49 | [Rangola](https://open.spotify.com/track/6wVOOB9VyG0udgj4xhYWhq) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Ghajini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gtR7jv2x4VpKEKWeqVqqh) | 4:26 |
 | 50 | [Singam Singam](https://open.spotify.com/track/11ZwdRgBn43d5H8iUn0NKj) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Megha](https://open.spotify.com/artist/4C93poAbsEf1Fvl3c30XKM) | [Singam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ohjDk7P8EaMERRY82Z9l5) | 4:21 |
 
-Snapshot ID: `MCw4MWU5YjE4YTcwNDI4OGE3MDZlYjkyYWMyNDUzZmYzMWUzNjhmMDgw`
+Snapshot ID: `MCw1NTFhYjA4NGNjYjVjOGJmZDZiYWZiNzVmYTZkYzA1ZjUyOTViY2I4`

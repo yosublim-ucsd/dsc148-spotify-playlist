@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A blend of new songs and new artists in the soul space. Cover: Masego",
+  "description": "A blend of new songs and new artists in the soul space. Cover: Kymara",
   "name": "Next Wave Soul",
   "tracks": [
     {
@@ -423,6 +423,32 @@
     },
     {
       "album": {
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/5B285ZvlrjVrlBQs3qnhGv"
       },
@@ -602,7 +628,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 262963,
       "name": "Being Loved",
       "url": "https://open.spotify.com/track/4EWkR7tGveHyQXHHu1Gfqb"
@@ -624,6 +650,24 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "album": {
+        "name": "Road To Remedy",
+        "url": "https://open.spotify.com/album/4FqV6jM43RFIGiqg8B7K2p"
+      },
+      "artists": [
+        {
+          "name": "JU-LIA",
+          "url": "https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295530,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/6hlgZtPYIwRxnjaLj0JvtB"
     },
     {
       "album": {
@@ -1413,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196792,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+    },
+    {
+      "album": {
         "name": "Dangerous Thing",
         "url": "https://open.spotify.com/album/1OajkNiDeH1jVZV6lOYwOI"
       },
@@ -1682,6 +1744,24 @@
       "duration_ms": 221538,
       "name": "Falling Off You",
       "url": "https://open.spotify.com/track/4WaYPUUyqFvENamtOiLMY5"
+    },
+    {
+      "album": {
+        "name": "Far Gone",
+        "url": "https://open.spotify.com/album/5FG9AV9EsFIgnCf72nWgrN"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Far Gone",
+      "url": "https://open.spotify.com/track/0jcsjGyK5JkUf35SbpSf23"
     },
     {
       "album": {
@@ -2262,6 +2342,24 @@
       "duration_ms": 89442,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/3Fy2uMZm0H6WbWhkXGjbmJ"
+    },
+    {
+      "album": {
+        "name": "HANGING WITH YOU",
+        "url": "https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230649,
+      "name": "HANGING WITH YOU",
+      "url": "https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN"
     },
     {
       "album": {
@@ -2930,7 +3028,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 280903,
       "name": "JGS",
       "url": "https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv"
@@ -3080,6 +3178,28 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7B76OJ0ExVlSkDh1xelvRl"
+    },
+    {
+      "album": {
+        "name": "knowuright",
+        "url": "https://open.spotify.com/album/6aPaNsrofeWIQPN3jzVJTy"
+      },
+      "artists": [
+        {
+          "name": "The Guest Room",
+          "url": "https://open.spotify.com/artist/5ajljiYpIfLbXcflHlmpQk"
+        },
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240426,
+      "name": "knowuright",
+      "url": "https://open.spotify.com/track/3g13RoXa4peUuajNa5CFlD"
     },
     {
       "album": {
@@ -4378,7 +4498,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK"
@@ -4698,7 +4818,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
@@ -5180,7 +5300,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 255094,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
@@ -5434,7 +5554,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 272211,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s"

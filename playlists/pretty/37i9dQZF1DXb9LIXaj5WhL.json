@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2343448,
+  "num_followers": 2343734,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGNlZGI5MjQyZWRhYjE1NWEwNjY3ZGQ1YWIzM2JhNzI4ZGYwZTBj",
+  "snapshot_id": "MCw0NGQ2MjFkYTBlNWI5OTc0ODg1YzA4MTA0ODJlOGM2Zjc0MmM4MmQ1",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "How's It Going to Be",
-      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 270400,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "How's It Going to Be",
+      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "...Somewhere More Familiar",
-        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
-      },
-      "artists": [
-        {
-          "name": "Sister Hazel",
-          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "A Boy Named Goo",
         "url": "https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 270000,
       "name": "Name",
       "url": "https://open.spotify.com/track/1G8jae4jD8mwkXdodqHsBM"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "...Somewhere More Familiar",
+        "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
+      },
+      "artists": [
+        {
+          "name": "Sister Hazel",
+          "url": "https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 278880,
-      "name": "Last Day of Our Acquaintance",
-      "url": "https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 221866,
       "name": "Change",
       "url": "https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 278880,
+      "name": "Last Day of Our Acquaintance",
+      "url": "https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Pieces Of You",
         "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239293,
       "name": "Who Will Save Your Soul",
       "url": "https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/23NPGXlSaIqWzvxIRhM2oG"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Pieces Of You",
         "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "Magnolia (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "A Tribute Album",
         "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 261120,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1115,22 +1131,6 @@
       "duration_ms": 264200,
       "name": "Sunny Came Home",
       "url": "https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": "2020-11-18 19:14:53",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 262626,
-      "name": "Motorcycle Drive By",
-      "url": "https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg"
+      "duration_ms": 202533,
+      "name": "Pitseleh",
+      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
     }
   ],
   "unique_name": "90s Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,736 likes - 89 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,732 likes - 89 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 88 | [High Miles](https://open.spotify.com/track/5fE2UEQS19b9tn6r7fTRS3) | [The Grand East](https://open.spotify.com/artist/6N9hiQC4ZZwe6mAuMfvUO7) | [High Miles](https://open.spotify.com/album/4Opz5JRMIOrVdvvOpRy3cC) | 4:12 |
 | 89 | [Prignalia](https://open.spotify.com/track/5bsmk3tNBBU4Vlf2RQ2eGS) | [Colin Benders](https://open.spotify.com/artist/0InPKJ21u1TMt0hzF1Y4wz) | [Prignalia](https://open.spotify.com/album/6uzIVHnRuwNbcF6xj7VjcT) | 9:56 |
 
-Snapshot ID: `MCwyZjM0ZGQwMGJlYWY5NjIyZWY1YzE5N2E4YjBmMmViOGUwZTVkNTI2`
+Snapshot ID: `MCxiNThmNjhmMTJhYzBiZGI5Nzc5MDcwNzExODZmOWE5Y2I4ODFhMzU3`

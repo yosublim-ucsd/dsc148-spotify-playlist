@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Hostel Hudugaru Bekagiddare
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,045 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,082 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Nayaka Jananayaka \(From "Prabhutva"\)](https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx), [Chethan Kumar P](https://open.spotify.com/artist/4c8Dd0WuhxeSQInZGtaY0T) | [Nayaka Jananayaka \(From "Prabhutva"\)](https://open.spotify.com/album/6dyCn9uxHm7wx7yRwwQstG) | 5:12 |
 | 75 | [Enanu Kelade Ninage](https://open.spotify.com/track/2D8JyMvnepQqyOlZHAz2UK) | [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Darbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bFOt6X1pMTdaeWXJFd7eQ) | 4:16 |
 
-Snapshot ID: `MCxmMDhlNGU2NzAxNWViNTAzM2YzOGMwNjRmY2RlNjMwNTFhNjU2YzRm`
+Snapshot ID: `MCwxOTZhZjJjNTVmNWI0ZjMzMTMwMGMyYzU3OGZiOTU5ODQxYzA4MWUy`

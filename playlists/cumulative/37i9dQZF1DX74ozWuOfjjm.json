@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Back To Your Heart",
+        "url": "https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195730,
+      "name": "Back To Your Heart",
+      "url": "https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W"
+    },
+    {
+      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa"
       },
@@ -1370,6 +1388,24 @@
       "duration_ms": 170793,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/0ZoUXwjbV6eetZmiEWEf3T"
+    },
+    {
+      "album": {
+        "name": "Convenience Store",
+        "url": "https://open.spotify.com/album/02yJHdQcilQ1PpwrsduAvJ"
+      },
+      "artists": [
+        {
+          "name": "Heleina Zara",
+          "url": "https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195651,
+      "name": "Convenience Store",
+      "url": "https://open.spotify.com/track/0k9xVhqFXZNXEJqUa6EIlD"
     },
     {
       "album": {
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 161646,
       "name": "Fuck My Money",
       "url": "https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt"
@@ -2740,6 +2776,42 @@
       "duration_ms": 166981,
       "name": "Green Honda",
       "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
+    },
+    {
+      "album": {
+        "name": "Hands Of Addiction",
+        "url": "https://open.spotify.com/album/34sufI3Lc99RQMYdXQ07Vl"
+      },
+      "artists": [
+        {
+          "name": "Jada Weazel",
+          "url": "https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Hands Of Addiction",
+      "url": "https://open.spotify.com/track/34Cx2wVzQzhsBfZtS3CCqo"
+    },
+    {
+      "album": {
+        "name": "Happiness Is An 8 Ball",
+        "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "Happiness Is An 8 Ball",
+      "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
     },
     {
       "album": {
@@ -3666,7 +3738,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 204056,
       "name": "If You Wanna Love Me",
       "url": "https://open.spotify.com/track/3jzpeb2htfvSp2Qssmky0B"
@@ -5881,6 +5953,28 @@
     },
     {
       "album": {
+        "name": "Ring Ring (feat. Gold Fang)",
+        "url": "https://open.spotify.com/album/42lgJRGdcLHuOK60aOl6ay"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        },
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147085,
+      "name": "Ring Ring (feat. Gold Fang)",
+      "url": "https://open.spotify.com/track/09DmxKwN6I1JZyLJIo8Rgv"
+    },
+    {
+      "album": {
         "name": "Ring-a-Ling",
         "url": "https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n"
       },
@@ -6757,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp"
+      },
+      "artists": [
+        {
+          "name": "Nikki Webster",
+          "url": "https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210100,
+      "name": "Strawberry Kisses",
+      "url": "https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv"
+    },
+    {
+      "album": {
         "name": "Superpowers",
         "url": "https://open.spotify.com/album/3xEi8FsDVINHZL1LEZ4X8x"
       },
@@ -7121,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316833,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK"
+    },
+    {
+      "album": {
         "name": "The Limit",
         "url": "https://open.spotify.com/album/54oWSvqgcKAlSsP0DPN6aN"
       },
@@ -7244,6 +7374,24 @@
       "duration_ms": 187274,
       "name": "This Enchanted - Edit",
       "url": "https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6"
+    },
+    {
+      "album": {
+        "name": "This Generation Sucks",
+        "url": "https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178634,
+      "name": "This Generation Sucks",
+      "url": "https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j"
     },
     {
       "album": {
@@ -7661,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164240,
+      "name": "Wasting Away",
+      "url": "https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer"
+    },
+    {
+      "album": {
         "name": "Way I Go",
         "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
       },
@@ -8008,6 +8174,24 @@
       "duration_ms": 151526,
       "name": "WWYD",
       "url": "https://open.spotify.com/track/4jcWazyJx5dcgFSrP6aOAM"
+    },
+    {
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "album": {

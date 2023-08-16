@@ -1,12 +1,12 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 103551,
+  "num_followers": 103560,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWY4NDI1MDNhMmE1OTBjOTgzMDU3MGFjMTg3NWExNWZhOTk5OTBj",
+  "snapshot_id": "MCw0ZmFjODcxYjY0YzA5MjgxNzQ5YmYwYjhlY2FhMTc1M2UzYzRkZjRj",
   "tracks": [
     {
       "added_at": "2023-05-24 15:32:46",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-05-24 15:32:46",
       "album": {
-        "name": "Wish I Was Better",
-        "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Wish I Was Better",
-      "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
-    },
-    {
-      "added_at": "2023-05-24 15:32:46",
-      "album": {
         "name": "lie to me",
         "url": "https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 177440,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf"
+    },
+    {
+      "added_at": "2023-05-24 15:32:46",
+      "album": {
+        "name": "Wish I Was Better",
+        "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Wish I Was Better",
+      "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
     },
     {
       "added_at": "2023-05-24 15:32:46",

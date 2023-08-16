@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Johnny Hooker
 
-392 songs - 19 hr 28 min
+393 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Ser Eu](https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Ser Eu](https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M) | 2:41 | 2023-06-16 |  |
 | [Ser feliz é se encontrar](https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg) | [Julia Gama](https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T) | [Ser feliz é se encontrar](https://open.spotify.com/album/0bRVFFwxcXgs84fFWYCi30) | 3:00 | 2022-05-13 | 2022-12-03 |
 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 | 2023-03-11 | 2023-08-05 |
-| [Sincero](https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV) | [Fê Costa](https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1), [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Sincero](https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl) | 2:49 | 2023-07-28 |  |
+| [Sincero](https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV) | [Fê Costa](https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1), [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Sincero](https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl) | 2:49 | 2023-07-28 | 2023-08-16 |
 | [Sobre mim \(talvez\) sobre você \- Acústico](https://open.spotify.com/track/7ue4EOA2MHousF3b3RxDFE) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Sobre mim \(talvez\) sobre você](https://open.spotify.com/album/6l5JLJLY1tTGwzNUYu77IZ) | 2:46 | 2022-05-13 | 2022-06-15 |
 | [Solar](https://open.spotify.com/track/227o8XANiHlNdAQC4UTpJK) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Solar](https://open.spotify.com/album/05ZhiHl1TZIpishuIxN8HK) | 2:50 | 2022-06-03 | 2022-07-02 |
 | [Somos Instantes](https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Somos Instantes](https://open.spotify.com/album/50cLjaea6W3hkVgK9nFDuB) | 3:45 | 2022-05-13 | 2023-01-21 |
@@ -381,6 +381,7 @@
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2022-12-02 | 2023-06-24 |
 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 | 2023-02-10 | 2023-03-07 |
 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 | 2022-06-14 | 2022-08-06 |
+| [Viciado em Você](https://open.spotify.com/track/6ICvI9uVJefqGANLOSwrTt) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Viciado em Você](https://open.spotify.com/album/6lPVem3TX0KU7zpcCXFSmG) | 2:36 | 2023-08-15 |  |
 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 | 2023-03-10 |  |
 | [vida leve \- ralk remix](https://open.spotify.com/track/5S62lSdko2EO2agKz5HJZT) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC) | [vida leve \(ralk remix\)](https://open.spotify.com/album/0m97vhqbom6EQvYatU77Yy) | 2:18 | 2023-08-11 |  |
 | [Vida Livre](https://open.spotify.com/track/7uzqTJLFkKJd8724zmcmV5) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Aetd+](https://open.spotify.com/album/60UPKT3azkcUp2wc4WxKIz) | 3:27 | 2022-05-13 | 2022-06-04 |

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-631 songs - 1 day 17 hr 33 min
+632 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [You & Me](https://open.spotify.com/track/6j04uewYlGesO1udV72rv8) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [You & Me](https://open.spotify.com/album/7bFmphJq8vUgm4hWONZX85) | 3:23 | 2022-06-21 | 2022-07-12 |
 | [You're my perfect mirror](https://open.spotify.com/track/19292wQKsyLO6SrT1IGlWi) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [You're my perfect mirror](https://open.spotify.com/album/1whMo4kK8sjP2qIjQX04jJ) | 5:05 | 2022-06-03 | 2022-07-07 |
 | [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-03 | 2022-07-26 |
-| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-07-28 |  |
+| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-07-28 | 2023-08-16 |
 | [あなたがくれたヒカリ](https://open.spotify.com/track/3NQD8vGjo6YSSzxSBz9uGg) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [あなたがくれたヒカリ](https://open.spotify.com/album/42OKISLKJmxfBmTlg1U9x0) | 4:33 | 2022-06-14 | 2022-07-22 |
 | [ありがとうはこっちの言葉](https://open.spotify.com/track/4eN3aVT6RhsL0ZLwjDbAak) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [ありがとうはこっちの言葉](https://open.spotify.com/album/7Md2XT2lxVfuLkYyhaxoFA) | 5:08 | 2022-07-05 | 2022-07-13 |
 | [ありふれたいつか](https://open.spotify.com/track/3jSTlGCb4uIaIwVQsqgsOk) | [Chima](https://open.spotify.com/artist/4i1UhzFZ5BK4tDuShC4Uwk) | [nest](https://open.spotify.com/album/6nO3n0SO1IUra2Y68bCFHX) | 3:56 | 2022-06-03 | 2022-07-27 |
@@ -594,6 +594,7 @@
 | [結証](https://open.spotify.com/track/3KIHXNKBeQCxDtgcyGYaB6) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [結証](https://open.spotify.com/album/51QJaCmcPgLU5tGeMJQu45) | 3:54 | 2022-06-24 | 2022-07-04 |
 | [絶体絶命](https://open.spotify.com/track/0ydesnVxTEIpdQodT40d7t) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [絶体絶命](https://open.spotify.com/album/7EBkm3EbabO02jAqtqFwQg) | 2:28 | 2022-07-14 | 2022-07-27 |
 | [絶体絶命](https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [絶体絶命](https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O) | 4:22 | 2022-06-03 | 2022-07-29 |
+| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-08-16 |  |
 | [群青](https://open.spotify.com/track/2koJs3zAYIhhgLNCRYkVwG) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [群青](https://open.spotify.com/album/068uag1kyceU1s1jNn0GR5) | 4:08 | 2022-06-24 | 2022-07-25 |
 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2022-06-03 | 2022-10-19 |
 | [航海の唄](https://open.spotify.com/track/3mmVyzaXFaRvZCJc79r0yB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [航海の唄](https://open.spotify.com/album/3PMvvXopoCVdQcQXUu9iAw) | 4:44 | 2022-06-14 | 2022-07-29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,184 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,261 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ak do Freddy Krueger](https://open.spotify.com/track/1wkEiN7312E1KM5BnKvk4D) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:16 |
 | 2 | [Futuro & Momento](https://open.spotify.com/track/50BMRoWfCLCLGUserYgRSy) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Futuro & Momento](https://open.spotify.com/album/3EwDwEAiDKPNL0Wqkteube) | 2:06 |
 | 3 | [Celine](https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:42 |
-| 4 | [Luneta](https://open.spotify.com/track/38DklR0Ox5vjQVPZhiZKRT) | [CandyBoiNarco](https://open.spotify.com/artist/5rFhngLLknG7fm5OUEO2Ze), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0) | [Luneta](https://open.spotify.com/album/5jP8Off0dqBiVuBvodrIvv) | 2:35 |
+| 4 | [Luneta](https://open.spotify.com/track/38DklR0Ox5vjQVPZhiZKRT) | [CandyBoiNarco](https://open.spotify.com/artist/5rFhngLLknG7fm5OUEO2Ze), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Luneta](https://open.spotify.com/album/5jP8Off0dqBiVuBvodrIvv) | 2:35 |
 | 5 | [Passado](https://open.spotify.com/track/6eEsuSoPL6LJ9JGxj7tlDE) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Nathan Villa](https://open.spotify.com/artist/5S4r1R1YRPkkKlw5JjdCRN) | [Passado](https://open.spotify.com/album/1veQTatuwJHMC8hWSVKMCt) | 2:59 |
 | 6 | [Kenner](https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj) | [Jovem Sam](https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [shots!](https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49) | [OCF](https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL) | 2:12 |
 | 7 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxlNGU2ZDVjN2Q3NzFhMGFhMjQ1ODFlNWI4NGVjN2U0NjZiMmJjNjg3`
+Snapshot ID: `MCwxYTM1ZDEyOGEwMGJjMmQ5MjlkYjU0ZDM2Nzk5Mzg5NjIxODkwMjM3`

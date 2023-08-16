@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-741 songs - 1 day 15 hr 11 min
+742 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
 | [ABYSS](https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [ABYSS](https://open.spotify.com/album/5SO5qSja0Nm03HJcnJWzBq) | 2:08 | 2022-03-10 | 2022-05-08 |
 | [Afterlife](https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c) | [Siqu](https://open.spotify.com/artist/29naRiyir00pkFnYm5H2X2) | [Afterlife](https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx) | 2:38 | 2022-03-10 | 2022-06-24 |
-| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 |  |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 | 2023-08-16 |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
 | [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 | 2023-01-16 |
 | [Aldrig Nu](https://open.spotify.com/track/3qoMs4kUASB2z2wTyO8hJf) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Aldrig Nu](https://open.spotify.com/album/5RO32hFSccBxgZkxHxOwuo) | 3:50 | 2021-12-16 | 2022-03-11 |
@@ -309,6 +309,7 @@
 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-12-16 | 2022-03-06 |
 | [I Feel It In The Wind](https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind](https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7) | 3:33 | 2022-09-15 |  |
 | [I Got You](https://open.spotify.com/track/0HAEfZVIMenQUqCiATalMF) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Zach Alwin](https://open.spotify.com/artist/3IhZL4dHVP35Hve25QBxU8) | [I Got You](https://open.spotify.com/album/2TGMynyNRUyr0SkFRTMEug) | 3:24 | 2022-03-10 | 2022-04-19 |
+| [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
 | [I Lost](https://open.spotify.com/track/5j3KH3ZJUzAIrXnF4s90JS) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [I Lost](https://open.spotify.com/album/5lGBBVEh15bNp0FptPimbS) | 2:51 | 2021-12-16 | 2022-01-07 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |

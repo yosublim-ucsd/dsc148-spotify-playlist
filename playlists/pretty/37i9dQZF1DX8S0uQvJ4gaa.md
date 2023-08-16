@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,550 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135,284 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
 | 100 | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/album/1HhVL2289IZNqKseUGaybE) | 3:44 |
 
-Snapshot ID: `MCxkMzFkYjU3MjliMTExODZhMDA2MzY5OTBiZWJhZTBiNGJlMzA3OTFm`
+Snapshot ID: `MCxkNzdkZDkwZDVjYzI5M2MyZjI1NjFjNWUzOGJjZjU3YjJlMTlmOWQx`

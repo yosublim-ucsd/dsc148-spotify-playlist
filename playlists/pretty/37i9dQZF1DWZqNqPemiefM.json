@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 57679,
+  "num_followers": 57774,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDFjN2QxNDllYWU5ZWE2ZDg2ZWQ3ZDk3MDI3NTZjMjQzZWZjY2Ez",
+  "snapshot_id": "MCxmOTcxOTMzOTU1ZTgxZTI1ZDYyYTJkZDM5NzU1MGFiOGRiOGJiYTk4",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z"
+        "name": "In The Dark Woods",
+        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 217642,
-      "name": "Arne",
-      "url": "https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo"
+      "duration_ms": 316000,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "In The Dark Woods",
-        "url": "https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 316000,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7"
+      "duration_ms": 217642,
+      "name": "Arne",
+      "url": "https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Saunter",
-        "url": "https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 509280,
-      "name": "Images Of Broken Light",
-      "url": "https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
         "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 227973,
       "name": "Energy Flow (Ki No Nagare)",
       "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "Saunter",
+        "url": "https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 509280,
+      "name": "Images Of Broken Light",
+      "url": "https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u"
     },
     {
       "added_at": "2023-07-25 15:00:00",

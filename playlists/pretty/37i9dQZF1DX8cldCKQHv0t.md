@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cldCKQHv0t.md) - [plain]
 
 > The stellar duo <a href="spotify:artist:586uxXMyD5ObPuzjtrzO1Q">Sofi Tukker</a> brings us an exciting DJ Mix loaded with summer hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,088 likes - 14 songs - 54 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,101 likes - 14 songs - 54 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cldCKQHv0t.md) - [plain]
 | 13 | [Original Sin \- Mixed](https://open.spotify.com/track/19JsROayQbypzGMYjsQsEa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin \(Mixed\)](https://open.spotify.com/album/3I1IZ9uAwcaqI97OV9Tajm) | 3:51 |
 | 14 | [Purple Hat \- Mixed](https://open.spotify.com/track/1BXZYPNYdjjRkXTHupbArw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat \(Mixed\)](https://open.spotify.com/album/4K1iTzgfGcoY4YYsDpdoBM) | 2:59 |
 
-Snapshot ID: `MCw1ODk1MjNjZDViZDVhYzc3MDE0ZDkwOGQ0OGU3MzE3ZjMwZGQ2NDdh`
+Snapshot ID: `MCxkN2RiMzc3OTdjZTBmNjkzZWI5MmNlYjcxYzY4NTA1ZGExYjEwNjZh`

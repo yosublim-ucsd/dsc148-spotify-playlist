@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 87573,
+  "num_followers": 87589,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYyZGZiMzAzNDMxOThjNjgxMTA5NWQyZTM5MmNiNTUyOGE5ZmEw",
+  "snapshot_id": "MCxiZDc3MzU0NzY1NmQ3MDJmNzMxMDRhNmIwN2ZjNjQ2MzhhYmU3NmE3",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Broken Hearted Crook",
+        "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
+      },
+      "artists": [
+        {
+          "name": "yknowdavibez",
+          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Broken Hearted Crook",
+      "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "My Girl (Gemini)",
         "url": "https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Broken Hearted Crook",
-        "url": "https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH"
-      },
-      "artists": [
-        {
-          "name": "yknowdavibez",
-          "url": "https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Broken Hearted Crook",
-      "url": "https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Day and Night (Prodbyjak)",
-        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "Day and Night (Prodbyjak)",
-      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Day and Night (Prodbyjak)",
+        "url": "https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Day and Night (Prodbyjak)",
+      "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Suicycle",
-        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
-      },
-      "artists": [
-        {
-          "name": "Mic Righteous",
-          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
-        }
-      ],
-      "duration_ms": 392013,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 169714,
       "name": "More",
       "url": "https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Suicycle",
+        "url": "https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy"
+      },
+      "artists": [
+        {
+          "name": "Mic Righteous",
+          "url": "https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe"
+        }
+      ],
+      "duration_ms": 392013,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Hearts Get Numb",
         "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
       },
       "artists": [
         {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+      "duration_ms": 167172,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
     },
     {
       "added_at": "2023-08-01 17:14:44",

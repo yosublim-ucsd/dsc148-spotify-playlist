@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-377 songs - 19 hr 0 min
+378 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-10 | 2022-06-11 |
 | [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-10 | 2022-09-24 |
-| [Hometown Hurricane](https://open.spotify.com/track/4bIgyKFroq4NOtHnAVcWCt) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Hometown Hurricane](https://open.spotify.com/album/5CwgpAwkUHJ4Yc1qiO4v6I) | 2:26 | 2023-04-21 |  |
+| [Hometown Hurricane](https://open.spotify.com/track/5gm7WhYs8V8Krt1jnvHz90) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/4XSyagJgyYxldHHZSL5z74) | 2:25 | 2023-08-11 |  |
+| [Hometown Hurricane](https://open.spotify.com/track/4bIgyKFroq4NOtHnAVcWCt) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Hometown Hurricane](https://open.spotify.com/album/5CwgpAwkUHJ4Yc1qiO4v6I) | 2:26 | 2023-04-21 | 2023-08-16 |
 | [Hometown Tonight](https://open.spotify.com/track/5Jqhy024ozWzluqSjWvTaS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Hometown Tonight](https://open.spotify.com/album/4WK2AD04WjBAS4Cip5yZ9N) | 2:48 | 2021-12-10 | 2023-01-04 |
 | [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 | 2023-05-04 |
 | [How Do You Love](https://open.spotify.com/track/6deDpxfbapjMLgHoaNuAx6) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [How Do You Love](https://open.spotify.com/album/3s8fBzIbBGrRhlR2dOk4bq) | 3:30 | 2021-12-10 | 2023-01-21 |

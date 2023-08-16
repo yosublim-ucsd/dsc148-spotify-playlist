@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-395 songs - 23 hr 26 min
+396 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Laços](https://open.spotify.com/track/1WrHBBRPokbuJSon8AGlA9) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Laços](https://open.spotify.com/album/51sijugqSA8tgMswbFjupX) | 4:00 | 2021-12-24 | 2022-07-29 |
 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 | 2021-12-24 |  |
 | [Leve](https://open.spotify.com/track/4LXK7G0cOwsvLlMlAnffOQ) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Leve](https://open.spotify.com/album/1HBwe0wq47mUt8omFSJ09I) | 3:28 | 2021-12-24 | 2022-07-20 |
-| [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 | 2022-03-25 |  |
+| [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 | 2022-03-25 | 2023-08-16 |
 | [Lilases](https://open.spotify.com/track/2X0JqbvlC5GnBka9EolWih) | [Liah Soares](https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Lilases](https://open.spotify.com/album/3JgTK9uf1vpCIyL49AWvhk) | 3:11 | 2022-06-03 | 2022-07-20 |
 | [Lobo Mau](https://open.spotify.com/track/1IGjDyGq1EejKdNgezFieD) | [Deskshop](https://open.spotify.com/artist/7yh2gVpuL1CLC6ex8mGcUG) | [Lobo Mau](https://open.spotify.com/album/3RTctCYAorOAqKHvpEKQDG) | 3:45 | 2022-03-25 | 2022-04-21 |
 | [Long Time Ago](https://open.spotify.com/track/32gKFQEgYo4i476VMaHbmt) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/0ILuH8CKejQmPzDM0VYexZ) | 3:02 | 2022-03-25 | 2022-04-17 |
@@ -286,6 +286,7 @@
 | [Pássaros a Voar](https://open.spotify.com/track/4gqmeOswvOrXrDkKRslx1X) | [Ana Rafaela](https://open.spotify.com/artist/7dyTdzLmMI3GXV53f6SY1e) | [Pássaros a Voar](https://open.spotify.com/album/4ReG6Dn2IDo0zHDtas5nlC) | 3:05 | 2021-12-24 | 2022-07-20 |
 | [Pétala](https://open.spotify.com/track/5mS74m0qb0iENWCso3y3ho) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Pétala](https://open.spotify.com/album/6kjE6V3Qiy3H0OhF3sHPjV) | 3:42 | 2021-12-24 | 2022-06-30 |
 | [Qualquer Lugar](https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Qualquer Lugar](https://open.spotify.com/album/6bib8zqBX9MRfSPZSoixba) | 3:21 | 2021-12-24 | 2022-07-23 |
+| [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 | 2023-08-04 |  |
 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 | 2021-12-24 | 2023-08-13 |
 | [Quando Fui Seu Par](https://open.spotify.com/track/7zp5QUrEGqQXDAwwFsk7Ku) | [Jaffar Bambirra](https://open.spotify.com/artist/7fKgOWFmEK3tIokXoTaXV5) | [Quando Fui Seu Par](https://open.spotify.com/album/2J9evPzR34lbRhlBjFrl0w) | 3:11 | 2021-12-24 | 2022-07-29 |
 | [Quando Te Vi](https://open.spotify.com/track/57ocRCXQmiP9wzsNIQ2Uim) | [Gabriel Buarque](https://open.spotify.com/artist/5uRcjq7VhlToC1IhErKl9C) | [Quando Te Vi](https://open.spotify.com/album/2tr2Ddl1KT2bU47ML8QKcy) | 3:32 | 2021-12-24 | 2022-04-19 |

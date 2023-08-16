@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-76 songs - 4 hr 27 min
+77 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [AdラLib](https://open.spotify.com/track/4AwCgFvlH58SmKbNWFKsWY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 3:23 | 2022-03-25 |  |
 | [Again](https://open.spotify.com/track/7aCic4CXOZ3jbk4aLEtv8v) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:41 | 2022-03-25 |  |
 | [Angel's Egg: Prelude](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 | 2022-03-25 |  |
+| [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 |  |
 | [BEASTARS \-pf solo\-](https://open.spotify.com/track/1WKXs9BlXdmN9qsBw2Cgcn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:49 | 2022-03-25 |  |
 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/1ewtLkn4AAI61aZspvt85s) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 3:32 | 2022-03-25 |  |
 | [best years in our lives](https://open.spotify.com/track/5xjtf6JDEk7e6NbUyBJvSO) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 3:08 | 2022-03-25 |  |

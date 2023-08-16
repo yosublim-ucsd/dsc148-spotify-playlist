@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12462,
+  "num_followers": 12467,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm",
+  "snapshot_id": "MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "La Ni\u00f1a Rayo",
         "url": "https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 286912,
       "name": "Si me dejas",
       "url": "https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Hay un fuego",
-        "url": "https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V"
-      },
-      "artists": [
-        {
-          "name": "Natis\u00fa",
-          "url": "https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov"
-        }
-      ],
-      "duration_ms": 236899,
-      "name": "Amores",
-      "url": "https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Primera Mujer",
         "url": "https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 217150,
       "name": "Para que m\u00e1s",
       "url": "https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Hay un fuego",
+        "url": "https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V"
+      },
+      "artists": [
+        {
+          "name": "Natis\u00fa",
+          "url": "https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov"
+        }
+      ],
+      "duration_ms": 236899,
+      "name": "Amores",
+      "url": "https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy"
     },
     {
       "added_at": "2023-08-02 04:00:00",

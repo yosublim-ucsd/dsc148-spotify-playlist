@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 34375,
+  "num_followers": 34468,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDYxMjY2NmEyNzEwYjc0ZDBkZDY1NTNmYTkyODY4NWNjOTc2NzY2",
+  "snapshot_id": "MCw4MDRiN2UwZjhmNDU1ZWIyYTRhNGMzZDNhMzZiZjJiOWFlNmMwZDdm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "No.1 (Jubil\u00e4ums Edition)",
+        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
+      },
+      "artists": [
+        {
+          "name": "Silent Circle",
+          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
+        }
+      ],
+      "duration_ms": 217669,
+      "name": "Touch in the Night - Radio Version",
+      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Sa\u00fade",
         "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "No.1 (Jubil\u00e4ums Edition)",
-        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
+        "name": "Together Onetime",
+        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
       },
       "artists": [
         {
-          "name": "Silent Circle",
-          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
         }
       ],
-      "duration_ms": 217669,
-      "name": "Touch in the Night - Radio Version",
-      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
+      "duration_ms": 419014,
+      "name": "Together Onetime",
+      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -151,22 +167,6 @@
       "duration_ms": 166125,
       "name": "Disco Dangerous",
       "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Together Onetime",
-        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
-      },
-      "artists": [
-        {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
-        }
-      ],
-      "duration_ms": 419014,
-      "name": "Together Onetime",
-      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
-      },
-      "artists": [
-        {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
-        }
-      ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Mars 500",
         "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+      },
+      "artists": [
+        {
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+        }
+      ],
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Walking Away",
         "url": "https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 181426,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Sting Like A Bee",
+        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
+      },
+      "artists": [
+        {
+          "name": "Bumblebee Unlimited",
+          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
+        }
+      ],
+      "duration_ms": 589706,
+      "name": "Lady Bug - Disco Mix",
+      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -763,22 +779,6 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Sting Like A Bee",
-        "url": "https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI"
-      },
-      "artists": [
-        {
-          "name": "Bumblebee Unlimited",
-          "url": "https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58"
-        }
-      ],
-      "duration_ms": 589706,
-      "name": "Lady Bug - Disco Mix",
-      "url": "https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB"
     },
     {
       "added_at": "2023-07-28 04:01:00",

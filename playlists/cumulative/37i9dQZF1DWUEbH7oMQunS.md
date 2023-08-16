@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-142 songs - 9 hr 55 min
+143 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Dawn](https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:31 | 2018-02-14 |  |
 | [Dirty And Left Out](https://open.spotify.com/track/1SLJG1GJq87z1OKOn8YYNX) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:42 | 2018-02-14 | 2023-07-29 |
 | [Dreams](https://open.spotify.com/track/1LbPuFrhTY3mwrIvOGGWRn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Dreams](https://open.spotify.com/album/6d9lh8EoMSl1jmucqyoerC) | 4:48 | 2018-07-07 | 2023-07-29 |
-| [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 | 2023-07-28 |  |
+| [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 | 2023-07-28 | 2023-08-16 |
 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 | 2023-07-28 |  |
 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 | 2018-02-14 |  |
 | [Faith Fall \- pensive piano](https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:18 | 2023-07-28 |  |
@@ -111,6 +111,7 @@
 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 | 2023-07-28 |  |
 | [Saturn \(Instrumental\)](https://open.spotify.com/track/3ruBQU9YbaCP3DchyKNK4V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: Space \(Deluxe\)](https://open.spotify.com/album/4D4rqEvVjxiQfN4iTUCiQH) | 4:49 | 2018-02-14 |  |
 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 | 2018-02-14 |  |
+| [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 | 2023-07-28 |  |
 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 | 2023-07-28 |  |
 | [Spoken](https://open.spotify.com/track/3M0i0Pxv9iYUdj6siKwiyv) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/6K5RqO1b7s6iQhF0FOhrJk) | 5:27 | 2018-02-14 | 2022-07-29 |
 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 | 2018-02-14 |  |

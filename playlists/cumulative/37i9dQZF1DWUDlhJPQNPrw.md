@@ -4,7 +4,7 @@
 
 > things will get better soon\. for now, just listen and dream.
 
-144 songs - 6 hr 20 min
+145 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Boundless](https://open.spotify.com/track/1nZVRKDnMNRgwO7bkOJvz4) | [Marcello Liverani](https://open.spotify.com/artist/4p6pMpsoAUTY1yk6kiMMSt) | [Boundless](https://open.spotify.com/album/5IqzIiht8aJeEDPy4qKrPJ) | 2:20 | 2023-07-19 |  |
 | [Breath \(Grá II\)](https://open.spotify.com/track/5v6ulqOooaywlNs3RgpVRd) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Breath \(Grá II\)](https://open.spotify.com/album/3G77IE3Sk30ZmOj8redRiH) | 2:53 | 2023-07-19 |  |
 | [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2023-07-19 |  |
+| [Cherish](https://open.spotify.com/track/0fKUbbChNmpKgOIPH6fKId) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Cherish](https://open.spotify.com/album/18xK72qsIHG7VvgdnIkEuf) | 3:32 | 2023-08-15 |  |
 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2023-07-19 |  |
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-07-19 |  |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2023-07-19 |  |

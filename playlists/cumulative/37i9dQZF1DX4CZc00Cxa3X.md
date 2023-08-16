@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-304 songs - 1 day 0 hr 4 min
+305 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [hajimari](https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [5:00 a.m.](https://open.spotify.com/album/4wFBDp13YkDNFbUwluDWZ4) | 3:08 | 2023-01-06 |  |
 | [Haunt](https://open.spotify.com/track/1h1xFDqICYyOmAkAnzGpnD) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Odyssey / Sonne](https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp) | 4:54 | 2023-05-19 | 2023-06-06 |
 | [Haze](https://open.spotify.com/track/6UJ0KvITqhY27liXdg9lrh) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Haze](https://open.spotify.com/album/5WM84Dwbzex3zgFjqjR9Iu) | 2:08 | 2022-08-19 |  |
+| [Hew](https://open.spotify.com/track/2lGiO5sbzFpTGJEhSSQQBh) | [Flaer](https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di) | [Preludes](https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj) | 2:47 | 2023-08-11 |  |
 | [Humility](https://open.spotify.com/track/1LHJKPnFzQTxmN2jPLzJ7G) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Lunar Tides EP](https://open.spotify.com/album/4Ghh5Y3pvazUgGRjKtjBx4) | 4:28 | 2023-06-30 | 2023-07-14 |
 | [I Hold Dearly \(For Miles\)](https://open.spotify.com/track/215BxshjyTy3SRuaeb4KBE) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Natsukashii](https://open.spotify.com/album/10gqYl87tFtJOpp3wkJfEc) | 5:17 | 2022-03-17 | 2023-01-07 |
 | [I Know We Promised](https://open.spotify.com/track/5KUYsVRILcXhs2C5mwe8O5) | [ANQUETIL](https://open.spotify.com/artist/3yfN35BfrYCb1nRojr9k2O) | [I Know We Promised](https://open.spotify.com/album/1utZ4FvOpJto27aOpa7EBo) | 3:02 | 2022-03-17 | 2022-07-29 |
@@ -257,7 +258,7 @@
 | [Swan Song](https://open.spotify.com/track/1WwQftXuQb5qaSQtvXabL3) | [Eyolf](https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8), [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Swan Song](https://open.spotify.com/album/1e1iZUHplnFCBXtYmJ0VpE) | 3:07 | 2022-03-17 | 2023-01-07 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2023-05-19 | 2023-06-06 |
 | [Swim Twice](https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:18 | 2023-01-06 |  |
-| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 |  |
+| [Sycamore Screen](https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Ornaments of Decay](https://open.spotify.com/album/4gMDSEK0JiYAeSq9hmK0ir) | 6:40 | 2023-03-16 | 2023-08-16 |
 | [TAN / 潭](https://open.spotify.com/track/0Bj6OvrKGn2Ifcv3ztKFIn) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 1:57 | 2022-03-30 | 2022-09-13 |
 | [Tanto](https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 3:36 | 2022-03-17 | 2023-03-18 |
 | [Tape Loop \#7](https://open.spotify.com/track/5xmrerXtEqiIoxp3yOOMHY) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Hum](https://open.spotify.com/album/5tyCImNcNj877Flhbt9HgF) | 4:40 | 2023-06-09 |  |

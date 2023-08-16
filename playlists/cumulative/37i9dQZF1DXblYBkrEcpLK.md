@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-460 songs - 1 day 7 hr 17 min
+462 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Full moon…!](https://open.spotify.com/track/2ZQaCiKPUz3gKtmhj3A57l) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.3\)](https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew) | 3:38 | 2023-07-04 | 2023-07-06 |
 | [FULL MOON…!](https://open.spotify.com/track/7K1tMixfZFxdUh8wjj8aha) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:38 | 2023-07-04 | 2023-07-26 |
 | [Futurism](https://open.spotify.com/track/4qA2NaMNYTyMdJ8ZscECVf) | [Minako Kotobuki](https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP) | [シャッフル \-Precious 4 Stars\-](https://open.spotify.com/album/1Tok6e8q3GraJP63lgmTSe) | 4:43 | 2022-06-14 | 2022-07-06 |
-| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-14 |  |
+| [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-14 | 2023-08-16 |
 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 | 2022-06-12 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/4O0WiQ8T3Kxv0Tq6xxTDKj) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 2:56 | 2022-06-21 | 2022-07-27 |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2022-06-09 | 2022-07-26 |
@@ -116,13 +116,14 @@
 | [Just do it](https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:24 | 2023-04-13 | 2023-06-09 |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
-| [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 |  |
+| [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 | 2023-08-16 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-20 | 2022-11-12 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Koko de Iki wo Shite](https://open.spotify.com/album/37eKnOf4wa5owxHtsBZIho) | 3:36 | 2022-10-03 | 2022-11-13 |
 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 | 2023-04-11 | 2023-06-30 |
 | [Labyrinth](https://open.spotify.com/track/4gfrsAiT2SFaPqMovxjTWM) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v) | [Labyrinth](https://open.spotify.com/album/7zRMS627gQSee5r8S9PZtU) | 3:59 | 2022-06-14 | 2022-07-10 |
 | [Lapis](https://open.spotify.com/track/2dLePVS1r2mw2L0uE0k8zD) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Lapis](https://open.spotify.com/album/2GL9ZK5r1hgBBrTn2evF1r) | 3:59 | 2022-06-09 | 2022-07-23 |
 | [Leap of faith](https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [Leap of faith](https://open.spotify.com/album/3W2pY2vDliZZtnlWvuJtwn) | 5:45 | 2022-06-21 | 2022-07-27 |
+| [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 | 2023-08-15 |  |
 | [Light a fire](https://open.spotify.com/track/2wBHkB3R5IOhGO3CPZt5pO) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:29 | 2022-06-14 | 2022-07-28 |
 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 | 2022-07-28 | 2022-12-24 |
 | [Longing for!](https://open.spotify.com/track/4xU2SAeIHKtVsx996WnSsy) | [新田恵海](https://open.spotify.com/artist/379SB9OTZ8TnUfCYsTxF9y) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 4:07 | 2022-07-19 | 2022-07-24 |
@@ -308,6 +309,7 @@
 | [サマーグラビテイション](https://open.spotify.com/track/7GhXteapKbecIMb7UMN1Wc) | [夜道 雪](https://open.spotify.com/artist/6oMGPWkY4vObBb7w3LDWYO) | [サマーグラビテイション](https://open.spotify.com/album/1LS9eF8n7L6vqzN7eqvPfA) | 4:36 | 2022-07-19 | 2022-07-28 |
 | [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-12 | 2022-07-27 |
 | [シュワシュワ](https://open.spotify.com/track/2NouNL5vO1emjt0OQWqUi6) | [Three Loop](https://open.spotify.com/artist/3wT5dW0Vqo2dYd0jCwIA20) | [TVアニメ「スローループ」エンディングテーマ シュワシュワ](https://open.spotify.com/album/28Cb4Rt0SGnbNjIoGXRswY) | 4:24 | 2022-06-12 | 2022-07-27 |
+| [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-15 |  |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-11 | 2023-06-14 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-09 | 2022-07-29 |
 | [スターリア](https://open.spotify.com/track/2QlpNoq4QmRwZvDEnD4J5M) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/4aUsTPDouQEWVY6SDkTeCY) | 5:03 | 2022-06-24 | 2022-07-28 |

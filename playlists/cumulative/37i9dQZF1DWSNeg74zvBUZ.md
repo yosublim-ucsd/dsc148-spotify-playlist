@@ -87,7 +87,7 @@
 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 | 2022-07-15 |  |
 | [La Tierra de la Culebra](https://open.spotify.com/track/3oV2LIPGCNA2HlygO7oivy) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [La Tierra de la Culebra](https://open.spotify.com/album/0x0QHB165KbmxHTJFdj8GB) | 2:04 | 2021-09-10 | 2022-07-27 |
 | [Le jardin](https://open.spotify.com/track/3Ns59TJVP7nnhlQqfMOAkc) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7HZ7EZCstniARXO3CcAMxt) | 4:28 | 2021-09-10 | 2022-07-29 |
-| [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2021-09-10 | 2023-08-02 |
+| [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 | 2021-09-10 |  |
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2021-09-10 | 2023-04-15 |
 | [Limerence](https://open.spotify.com/track/7KWhn1J1ALqw2grLMgZoy7) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/3fHY1FPrS7L6ecZtBcEaj0) | 5:29 | 2021-09-10 | 2022-04-18 |
 | [Lost in Buenos Aires](https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [The Sound of Living Things](https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe) | 4:25 | 2022-03-30 | 2022-07-29 |
@@ -156,7 +156,7 @@
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-09-10 |  |
 | [Yearning](https://open.spotify.com/track/3Ov9hd59cYEYlgsv1zRjAk) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey…](https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW) | 3:47 | 2022-03-30 | 2022-07-25 |
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2021-09-10 | 2023-02-03 |
-| [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-09-10 |  |
+| [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-09-10 | 2023-08-16 |
 | [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 | 2021-09-10 | 2023-04-15 |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

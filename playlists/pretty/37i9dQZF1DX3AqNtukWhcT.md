@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,245 likes - 136 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,331 likes - 136 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 135 | [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 |
 | 136 | [Aves Aristophanis](https://open.spotify.com/track/0hf4OAdQiOvMlMcRsYoHqK) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Tibetan Singing Bowls II](https://open.spotify.com/album/20BvJWKj5DK3lnnqvOcNUU) | 4:06 |
 
-Snapshot ID: `MCxmZTgzMzUyMTg4NGJkMjkyZjExOTA1NDcxYWU1ZGJmM2I4NjA4NjUw`
+Snapshot ID: `MCwxZjgzMzk2ZjEyY2NmZTM4MzA0NmY5MzMyNTRlZjBjN2E5ZGI0ZWEy`

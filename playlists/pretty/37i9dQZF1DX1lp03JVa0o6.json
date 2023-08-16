@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: Fisher, Kita Alexander",
-  "num_followers": 406795,
+  "num_followers": 406850,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzJhZGI2ZWRkNzFkYmRjMzY5YzY5MTEzNTQ3NzI1MjNkYWFiNzc3",
+  "snapshot_id": "MCxmNWUzMTMwYTU0YzZiZWZlOTEzYTVhNzI1ODljOGRkNWM1MTkzMDgx",
   "tracks": [
     {
       "added_at": "2023-08-10 17:50:48",
@@ -272,12 +272,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        },
-        {
           "name": "Em Beihold",
           "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
       "duration_ms": 155076,
@@ -439,7 +439,7 @@
     {
       "added_at": "2023-08-10 17:50:48",
       "album": {
-        "name": "Something To Hold On To",
+        "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
       "artists": [

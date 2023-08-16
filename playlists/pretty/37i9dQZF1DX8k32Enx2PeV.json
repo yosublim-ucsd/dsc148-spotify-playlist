@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 7019,
+  "num_followers": 7029,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZiNGY5YTJkMGQ3ZTg5NmU0MmY5MjA3NWM0NGI0ZGNiNGQ1ZTkw",
+  "snapshot_id": "MCwyOTk4NGMwMjdiOWYzYzY1ZGZhYmU1YjE2NWU0N2Y2OGJkMzgyNjJh",
   "tracks": [
     {
       "added_at": "2023-08-10 19:16:14",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
         "name": "Juguito de Ma\u00f1ana",
         "url": "https://open.spotify.com/album/6yaOzsyu8grB2xp9m6lkeW"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 222857,
       "name": "Juguito de Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1f6Eb2c12zolucM1UuvZal"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2023-08-10 19:16:14",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
         "name": "Ma Vie",
         "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Emocional",
         "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-10 19:16:14",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
-    },
-    {
-      "added_at": "2023-08-10 19:16:14",
-      "album": {
         "name": "Mudanza",
         "url": "https://open.spotify.com/album/2hIMvD6GSJJskCPeeZZhOt"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 212178,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/6QrEijuCigH5qAWOwlse6C"
+    },
+    {
+      "added_at": "2023-08-10 19:16:14",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-08-10 19:16:14",

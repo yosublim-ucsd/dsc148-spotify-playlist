@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,441 likes - 80 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 79 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 80 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 
-Snapshot ID: `MCxjMDhhN2FiZTQxYzYwM2Q5YzU0NjBhNzE2YmQ5MGM0YjVhMmM0MjQ0`
+Snapshot ID: `MCw3MmJhNTFiNzcxNWMwMjc1M2MyM2Y4OTg5OWU0MmFkN2I1ZTk5NTIx`

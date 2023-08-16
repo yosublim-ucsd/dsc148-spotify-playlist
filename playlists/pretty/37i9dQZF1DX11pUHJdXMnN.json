@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 60255,
+  "num_followers": 60285,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy",
+  "snapshot_id": "MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Mexico (Punctual Remix)",
         "url": "https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 512431,
       "name": "Mexico (Punctual Remix)",
       "url": "https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Unleashed Tapes Vol. 1",
-        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
-      },
-      "artists": [
-        {
-          "name": "Delphi",
-          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
-        }
-      ],
-      "duration_ms": 385361,
-      "name": "Blue Tuesday",
-      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Forgive Me",
         "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 339391,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Unleashed Tapes Vol. 1",
+        "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
+      },
+      "artists": [
+        {
+          "name": "Delphi",
+          "url": "https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe"
+        }
+      ],
+      "duration_ms": 385361,
+      "name": "Blue Tuesday",
+      "url": "https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -739,26 +739,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Inglorious Express EP",
-        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
-      },
-      "artists": [
-        {
-          "name": "Biesmans",
-          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
-        },
-        {
-          "name": "Vandesande",
-          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
-        }
-      ],
-      "duration_ms": 400259,
-      "name": "Prisoner Of Love",
-      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 444514,
       "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
       "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Inglorious Express EP",
+        "url": "https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        },
+        {
+          "name": "Vandesande",
+          "url": "https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm"
+        }
+      ],
+      "duration_ms": 400259,
+      "name": "Prisoner Of Love",
+      "url": "https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka"
     },
     {
       "added_at": "2021-08-27 15:45:01",

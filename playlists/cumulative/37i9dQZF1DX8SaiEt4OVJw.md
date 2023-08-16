@@ -2,7 +2,7 @@
 
 ### [Locker Room ](https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw)
 
-> Get a load of what's on rotation off court at the Giants of Africa festival
+> A selection of beats hand\-picked by 250 African ballers to get them hyped for each game at the GOA Festival.
 
 228 songs - 13 hr 29 min
 

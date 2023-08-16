@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,928 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 52 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 |
 | 53 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 |
 | 54 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 |
-| 55 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
-| 56 | [Sacrifice](https://open.spotify.com/track/0Yrl0j2sFiTYY5wgUl28Iz) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Sacrifice \(feat\. Max P\)](https://open.spotify.com/album/0BDzrXxO9aJ0lO3d5PtMZa) | 2:56 |
+| 55 | [Sacrifice](https://open.spotify.com/track/0Yrl0j2sFiTYY5wgUl28Iz) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Sacrifice \(feat\. Max P\)](https://open.spotify.com/album/0BDzrXxO9aJ0lO3d5PtMZa) | 2:56 |
+| 56 | [Deep In My Soul](https://open.spotify.com/track/7nziCzPuyKub9Ra5o5OSEy) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Deep In My Soul](https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL) | 4:01 |
 | 57 | [Firestone](https://open.spotify.com/track/5rlO2Wr2jifgjiBbPy25Su) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Firestone](https://open.spotify.com/album/2GHFB4DuUJ68WuI5hD2HvX) | 4:01 |
-| 58 | [Bassline Rampage](https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Rampage](https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG) | 3:02 |
-| 59 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
-| 60 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 |
+| 58 | [Edge of The Unknown](https://open.spotify.com/track/3Dbzy04cQSEcYNBvVISq0J) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [Edge Of The Unknown](https://open.spotify.com/album/13mS26sOAVYfngzLevsf82) | 4:18 |
+| 59 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 |
+| 60 | [Bassline Rampage](https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Rampage](https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG) | 3:02 |
 | 61 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 |
 | 62 | [The Raven Of The Night](https://open.spotify.com/track/4SdCxGUYg3XRezP1VBrKAn) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [The Raven Of The Night](https://open.spotify.com/album/48NY92V1K9NtzgfH3jbOAu) | 4:22 |
 | 63 | [Mind Of A Psycho](https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Mind Of A Psycho](https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l) | 2:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 |
 | 80 | [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 |
 
-Snapshot ID: `MCwxMDhjZmZmMTc0ZTlkZWI4MmQ1MGUyM2MwNTMxNmViZDA2NWU1ZjRm`
+Snapshot ID: `MCwyYzIwMzhiYWJkMjE4NDM4NjY5NGI1ZmU0ZWRlYTJiNmM5ZGQxZTRi`

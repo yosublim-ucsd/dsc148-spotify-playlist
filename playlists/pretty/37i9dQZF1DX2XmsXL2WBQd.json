@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 361756,
+  "num_followers": 363132,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTcyODAzNjViZjRkN2Q1MzJkZmMzNGMwNTA0M2RhZTM3ZTYzNjE4",
+  "snapshot_id": "MCwzYTkyYWE1NWQ1YTJiODEyZTIzY2Y3MGJlNDhmNGI4OWJjMjdkZDE3",
   "tracks": [
     {
       "added_at": "2023-08-14 04:00:00",
@@ -171,7 +171,7 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "N.W.A. Greatest Hits",
+        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
       },
       "artists": [
@@ -183,6 +183,38 @@
       "duration_ms": 261399,
       "name": "Express Yourself - Remix",
       "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -207,38 +239,6 @@
       "duration_ms": 431800,
       "name": "The Message (feat. Melle Mel & Duke Bootee)",
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Hip Hop Be Bop",
-        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
       "artists": [
         {
-          "name": "Man Parrish",
-          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
         }
       ],
-      "duration_ms": 336173,
-      "name": "Hip Hop Be Bop (Original Version)",
-      "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
+      "duration_ms": 431506,
+      "name": "The Adventures of Grandmaster Flash on the Wheel of Steel",
+      "url": "https://open.spotify.com/track/2wfAWoybEH26oAQJAS31OL"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

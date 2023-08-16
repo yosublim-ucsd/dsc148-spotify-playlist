@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "A Day In June",
+        "url": "https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd"
+      },
+      "artists": [
+        {
+          "name": "Half Giant",
+          "url": "https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120080,
+      "name": "A Day In June",
+      "url": "https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus"
+    },
+    {
+      "album": {
         "name": "a joyful life",
         "url": "https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 89902,
       "name": "Abstractions",
       "url": "https://open.spotify.com/track/7lvOQc9v9ybktcebHIaIFs"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 117546,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/77x7n1Qvcit2rxRrWIJFqg"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 109565,
       "name": "Casa luminosa",
       "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 115286,
       "name": "Closed to shadow",
       "url": "https://open.spotify.com/track/5EsZoxHaxhT4IxsYsa0l9T"
@@ -1402,10 +1420,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 115426,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS"
+    },
+    {
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF"
     },
     {
       "album": {
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 119436,
       "name": "Floating with the tide",
       "url": "https://open.spotify.com/track/1GJsvAFYG341M9F98JiLQz"
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 118250,
       "name": "Flying",
       "url": "https://open.spotify.com/track/77EW76b4eVgOQfwviDehVH"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 112383,
       "name": "F\u00e5r\u00f6",
       "url": "https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9"
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 104788,
       "name": "Kungsholmen",
       "url": "https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq"
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 115374,
       "name": "Laiski",
       "url": "https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p"
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 117549,
       "name": "Les mots",
       "url": "https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv"
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 101590,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C"
@@ -2590,7 +2626,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 87520,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/0nWuxLLVxkGJ9n8IxhMDr7"
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 107585,
       "name": "Maybe One Day",
       "url": "https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI"
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 112692,
       "name": "Morning Frost",
       "url": "https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj"
@@ -2842,7 +2878,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 119905,
       "name": "M\u00fasica De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/7mzc35QkCyOX2vvFaO0CEY"
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 117857,
       "name": "Nascondiglio",
       "url": "https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO"
@@ -2939,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Nightwalk",
+        "url": "https://open.spotify.com/album/6KGw2zORWawBHERxGGjVMG"
+      },
+      "artists": [
+        {
+          "name": "Charly Martin",
+          "url": "https://open.spotify.com/artist/0hO3nAl0tbOlhLN99WasSE"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201588,
+      "name": "Nightwalk",
+      "url": "https://open.spotify.com/track/38eJFgnWP7EfqIsuvNj90w"
+    },
+    {
+      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -2968,7 +3022,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 119578,
       "name": "Nothingness Began Slowly",
       "url": "https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2"
@@ -3130,7 +3184,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
@@ -3224,6 +3278,24 @@
       "duration_ms": 161750,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/4AehexHi0PKsVVaWGmgdVJ"
+    },
+    {
+      "album": {
+        "name": "Persante (Upright Reframings)",
+        "url": "https://open.spotify.com/album/1omkkDbnJ9ZjLv8eUChy9V"
+      },
+      "artists": [
+        {
+          "name": "Clemens Christian Poetzsch",
+          "url": "https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134263,
+      "name": "Persante - Upright Reframings",
+      "url": "https://open.spotify.com/track/3XYRWuuhTJjuZliSwjOrpg"
     },
     {
       "album": {
@@ -3436,7 +3508,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 119541,
       "name": "Reconciliation",
       "url": "https://open.spotify.com/track/2LHIoiVLEAbMktLPry7cdd"
@@ -3750,7 +3822,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 92000,
       "name": "Seraphic",
       "url": "https://open.spotify.com/track/1zIZWC0MW1PXp9lZRbZSZE"
@@ -4074,7 +4146,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 115970,
       "name": "Star Canopy",
       "url": "https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy"
@@ -4280,6 +4352,24 @@
       "duration_ms": 146250,
       "name": "That's why I stay",
       "url": "https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9"
+    },
+    {
+      "album": {
+        "name": "The Destination",
+        "url": "https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH"
+      },
+      "artists": [
+        {
+          "name": "Keane Wang",
+          "url": "https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122343,
+      "name": "The Destination",
+      "url": "https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs"
     },
     {
       "album": {
@@ -4795,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Yoko",
+        "url": "https://open.spotify.com/album/14Lm9SOzppoTzqLOT3IPCk"
+      },
+      "artists": [
+        {
+          "name": "Julian Klaas",
+          "url": "https://open.spotify.com/artist/4jy6NdHQgxTCEY2OykrMMa"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/5F0DA0Op4ameBmS2OzEeOc"
+    },
+    {
+      "album": {
         "name": "Your Own Kind",
         "url": "https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH"
       },
@@ -4806,7 +4914,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 114228,
       "name": "Your Own Kind",
       "url": "https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn"

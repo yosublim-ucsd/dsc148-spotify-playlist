@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-791 songs - 1 day 19 hr 3 min
+794 songs - 1 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Awaken](https://open.spotify.com/track/66T8oiDaaIF9xXjpMgJBzr) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d) | [Awaken](https://open.spotify.com/album/7t3hqNLxx8TFqxUuCUM3eP) | 2:49 | 2022-04-21 | 2022-09-15 |
 | [Awakening](https://open.spotify.com/track/1euOgxwbvrRgCgdyNIrLjI) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 4:10 | 2022-08-12 | 2023-02-22 |
 | [Baby Loop](https://open.spotify.com/track/135xiI6VPiNp5cSkdkjJsD) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Baby Loop](https://open.spotify.com/album/1Dxffwj3FKX17EkZVoEwmg) | 2:34 | 2022-01-14 | 2022-02-17 |
+| [Babydoll](https://open.spotify.com/track/11WCycEq5nCEZH4Lf3ecUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Babydoll](https://open.spotify.com/album/7KOXayuBqvnpJItRBF12vR) | 2:05 | 2023-08-16 |  |
 | [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-02 |  |
 | [Back To U](https://open.spotify.com/track/19m23w2ANVhtB7rApM6pbN) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Back To U](https://open.spotify.com/album/0hKOffv9vWtya3CkEXrVhO) | 3:34 | 2022-01-14 | 2023-04-09 |
 | [bad guy](https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ) | [bad guy](https://open.spotify.com/album/3Au2Jv6CGEyc9FLVT7moz9) | 2:18 | 2022-01-14 | 2022-02-10 |
@@ -389,6 +390,7 @@
 | [King of Nothing](https://open.spotify.com/track/7fVVCpaJh3H8IQ3BSzs93K) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:53 | 2022-02-16 | 2022-03-19 |
 | [Kingdom](https://open.spotify.com/track/11DBes9epIJZpSHCJToG9i) | [2 Souls](https://open.spotify.com/artist/3wVoeDQF4S4yrdYHnqzZp4) | [Kingdom](https://open.spotify.com/album/14HaOFeATQqvBN0FJygUx1) | 2:18 | 2022-09-01 | 2022-10-08 |
 | [Know Me](https://open.spotify.com/track/5MJyKvSj8v6hrFohLg5YcB) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Alone In My Dreams](https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg) | 2:49 | 2023-04-08 | 2023-05-13 |
+| [La Di Die](https://open.spotify.com/track/3mXPAPMOkXrU2IVbwmcu2q) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [La Di Die](https://open.spotify.com/album/08EaQmn3LzARYlSisgkx5E) | 2:00 | 2023-08-16 |  |
 | [La Guitarra](https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Tyraz](https://open.spotify.com/artist/6nRbicEmpaqL0wjlbJBPAf) | [La Guitarra](https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L) | 2:49 | 2022-09-23 | 2023-02-22 |
 | [La Roja](https://open.spotify.com/track/5Z4AwksmCkLy1lXvImsrD6) | [Bermejo](https://open.spotify.com/artist/77EeJ27sPERKmROTxvllYo) | [La Roja](https://open.spotify.com/album/2Sb7mfJqe90ThixT2XXTpm) | 2:22 | 2022-03-04 | 2022-04-02 |
 | [last breath](https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ) | [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [last breath](https://open.spotify.com/album/2lVM7gDVXcG2l5LOB1hyob) | 2:44 | 2022-01-17 | 2022-02-10 |
@@ -736,6 +738,7 @@
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-23 | 2022-06-04 |
 | [Ur Perfect I Hate It](https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Ur Perfect I Hate It](https://open.spotify.com/album/1AqvU3yo33qFbsJt9BSWcU) | 2:21 | 2023-02-21 |  |
 | [Useless](https://open.spotify.com/track/6hm2FJTdvkLis7O2HAwGJT) | [h3nlla](https://open.spotify.com/artist/0YWF99D1OENerVdcdzPZuQ) | [Useless](https://open.spotify.com/album/0RxGwv5L7REj4SPoKAVLcb) | 2:08 | 2022-01-14 | 2022-01-29 |
+| [Vai aJogar na Gym \- Slowed + Reverb Launch13 Remix](https://open.spotify.com/track/7A5FSHE0R9BqBX29YUCY2I) | [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Vai aJogar na Gym \(Slowed + Reverb Launch13 Remix\)](https://open.spotify.com/album/6IXKXtQruvYG0euCCwQnDQ) | 2:36 | 2023-08-15 |  |
 | [Vans \- King Kavalier Remix](https://open.spotify.com/track/2PsA5RgMKiWCubVCJRxHvY) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [King Kavalier](https://open.spotify.com/artist/2WHVbKysnJdhkB4VBWxC3v) | [Fear \(The Remixes\)](https://open.spotify.com/album/4mf2DXx8ap2fliFDyYKleT) | 2:45 | 2022-01-14 | 2022-09-15 |
 | [Vans \- King Kavalier Remix](https://open.spotify.com/track/2hOI8ROmKpjTIOQk1E4fmr) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [King Kavalier](https://open.spotify.com/artist/2WHVbKysnJdhkB4VBWxC3v) | [Fear \(The Remixes\)](https://open.spotify.com/album/3Ca3vlf4i4CcZJDxVoNzbj) | 2:45 | 2023-02-21 |  |
 | [Venom](https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Venom](https://open.spotify.com/album/1lgRPhvyHG092PPPN6b9V1) | 3:18 | 2022-12-14 | 2023-01-28 |

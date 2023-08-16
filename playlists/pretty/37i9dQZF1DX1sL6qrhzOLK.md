@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 23 | [Heart of Despair](https://open.spotify.com/track/7was9DGKU6THHCRIA5pEbZ) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 8:47 |
 | 24 | [Curated by HWANG Min Wang\(Gwang Gwang, Goeng Goeng\)](https://open.spotify.com/track/4ZAKnmQb0o0YI41cLE25pu) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:34 |
 | 25 | [대취타](https://open.spotify.com/track/3wmAhONcZ7OgIPmWWQjtDj) | [National Gugak Center Orchestra](https://open.spotify.com/artist/5Ytac7cpMxPPmazd2yiUYu) | [The Living Korean Classical Music Collection 1](https://open.spotify.com/album/4KJXhgAUB8nAuSg6znrfU5) | 5:31 |
-| 26 | [Light](https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 5:32 |
-| 27 | [Late Summer](https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 4:40 |
+| 26 | [Light](https://open.spotify.com/track/3vmhYKR2p23IoEfVrQg0iL) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv) | 5:32 |
+| 27 | [Late Summer](https://open.spotify.com/track/0ienAKret1Pd5rqqQUJS6j) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv) | 4:40 |
 | 28 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
 | 29 | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [삶과 잠과 언니와 나 PRIDE](https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi) | 3:56 |
 | 30 | [Curated by Do Body By Body](https://open.spotify.com/track/6OkBqZbSvm8BkcZYL3L4m6) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:24 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sL6qrhzOLK.md) - [plain]
 | 35 | [The Strong Heavy Vehicles \- Korean Version](https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo's Sing Along Show 1 \(Korean Version\)](https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B) | 2:30 |
 | 36 | [Tannhäuser: Overture](https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Orchestral Favourites](https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu) | 14:13 |
 
-Snapshot ID: `MCxjMzEyNzhiMGFhN2MzNTM2MjMzZmNmYjNmOWY0ZWYyMDYyNjU3M2Fj`
+Snapshot ID: `MCxhNGNhM2RjZjJmZjhiYjBjZGYzZjU1NDQyNzBhNGFkY2M5ZDM3OWE4`

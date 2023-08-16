@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 291700,
+  "num_followers": 291905,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjBlZWViMzgzZDg5ODViMWU5MDEyNWJkYzE5NTIzODQ0M2VhM2Uy",
+  "snapshot_id": "MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Compliance",
-        "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "Compliance",
-      "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Compliance",
+        "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 302950,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Modern Demon",
-        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
+        "name": "Omen X",
+        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
       },
       "artists": [
         {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
         }
       ],
-      "duration_ms": 285019,
-      "name": "Modern Demon",
-      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
+      "duration_ms": 206147,
+      "name": "Totuus",
+      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Omen X",
-        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
       },
       "artists": [
         {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 206147,
-      "name": "Totuus",
-      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -927,22 +927,6 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1023,6 +1007,22 @@
       "duration_ms": 216840,
       "name": "The Thing I Hate",
       "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
-      },
-      "artists": [
-        {
-          "name": "Code Orange",
-          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Helheim (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Termination Bliss",
-        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
       "artists": [
         {
-          "name": "Deathstars",
-          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
         }
       ],
-      "duration_ms": 246160,
-      "name": "Blitzkrieg",
-      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1287,6 +1271,22 @@
       "duration_ms": 262133,
       "name": "To The Hilt",
       "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Termination Bliss",
+        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
+      },
+      "artists": [
+        {
+          "name": "Deathstars",
+          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
+        }
+      ],
+      "duration_ms": 246160,
+      "name": "Blitzkrieg",
+      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 380885,
-      "name": "My Disintegration",
-      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 243400,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 380885,
+      "name": "My Disintegration",
+      "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1503,34 +1503,18 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+        "name": "Prey & Obey",
+        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
       "artists": [
         {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+          "name": "PIG",
+          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
         }
       ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
+      "duration_ms": 286974,
+      "name": "Prey & Obey",
+      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1551,18 +1535,34 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Prey & Obey",
-        "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
       },
       "artists": [
         {
-          "name": "PIG",
-          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
         }
       ],
-      "duration_ms": 286974,
-      "name": "Prey & Obey",
-      "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1583,6 +1583,22 @@
       "duration_ms": 230400,
       "name": "Dirty Freddy - Remix",
       "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
+      },
+      "artists": [
+        {
+          "name": "Prick",
+          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1615,22 +1631,6 @@
       "duration_ms": 187422,
       "name": "Justice Way",
       "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
-      },
-      "artists": [
-        {
-          "name": "Prick",
-          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     }
   ],
   "unique_name": "Industrial Metal",

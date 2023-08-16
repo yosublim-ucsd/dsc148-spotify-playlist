@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 202221,
       "name": "Laced Up",
       "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
@@ -10856,7 +10856,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
@@ -14952,6 +14952,24 @@
       "duration_ms": 180666,
       "name": "Stop Me From Falling (feat. Gente De Zona)",
       "url": "https://open.spotify.com/track/1ZcVZytwi9VPmpPxjoGJRK"
+    },
+    {
+      "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp"
+      },
+      "artists": [
+        {
+          "name": "Nikki Webster",
+          "url": "https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210100,
+      "name": "Strawberry Kisses",
+      "url": "https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv"
     },
     {
       "album": {

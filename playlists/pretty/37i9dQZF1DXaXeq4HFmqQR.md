@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,462 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,467 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
 | 18 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
 | 19 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
-| 20 | [Si me dejas](https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Franz Mesko](https://open.spotify.com/artist/6tfDJJX5alHOFNYcxzHL66) | [La Niña Rayo](https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL) | 4:46 |
-| 21 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
+| 20 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
+| 21 | [Si me dejas](https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Franz Mesko](https://open.spotify.com/artist/6tfDJJX5alHOFNYcxzHL66) | [La Niña Rayo](https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL) | 4:46 |
 | 22 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
 | 23 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
 | 24 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [Y Desaparezco](https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB) | [Valü](https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1) | [Y Desaparezco](https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8) | 3:23 |
 | 45 | [Negra yo soy](https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs) | [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8), [Bibie Clarel](https://open.spotify.com/artist/7gETaFkd7xN3tvmXsqApIW), [Yinesiya](https://open.spotify.com/artist/3bOpEEWctyiWvEQK6PRqNB) | [Negra yo soy](https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4) | 4:06 |
 | 46 | [Están Sacrificando](https://open.spotify.com/track/3U9RFMsbcCuX19x7C4YJnv) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Están Sacrificando](https://open.spotify.com/album/51UToZhC87oVvvwaK1edAX) | 3:08 |
-| 47 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
-| 48 | [Para que más](https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 3:37 |
+| 47 | [Para que más](https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 3:37 |
+| 48 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCw1MTQwZjEwMTE3YzkyNzBjZjY5YzY0MmIzOTEwZTczYjNkYzdhMWZm`
+Snapshot ID: `MCxkNGYzN2I2NzYwYTAyNDU4ZWRiYzEyNDllMWI1OTQwMDk5M2FlZDA1`

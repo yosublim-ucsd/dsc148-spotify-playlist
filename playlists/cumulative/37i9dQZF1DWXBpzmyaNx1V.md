@@ -4,7 +4,7 @@
 
 > Un paseo por la ciudad pintada de violeta.
 
-61 songs - 3 hr 52 min
+62 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Cherry](https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:16 | 2022-03-13 |  |
 | [Corcovado](https://open.spotify.com/track/0kSrEKOaCDnmrCb9Y5jJbI) | [Andrés Volkov](https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw) | [Corcovado](https://open.spotify.com/album/3jgcqUrpue41VM7LRLvfDO) | 2:51 | 2022-03-13 |  |
 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 | 2022-03-13 |  |
-| [Don't Know What's Normal](https://open.spotify.com/track/1vlQTu7N48uwUrJpgjkplL) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/5PA8t4jlj50xFU3i726YA1) | 4:30 | 2022-03-13 |  |
+| [Don't Know What's Normal](https://open.spotify.com/track/6nF10SdhHFoplBPcynWYcI) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/7bJwcCp26OhNiDLkNQ8vRR) | 4:29 | 2022-03-13 |  |
+| [Don't Know What's Normal](https://open.spotify.com/track/1vlQTu7N48uwUrJpgjkplL) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/5PA8t4jlj50xFU3i726YA1) | 4:30 | 2022-03-13 | 2023-08-16 |
 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 | 2022-03-13 |  |
 | [El Invento \- Sofia Kourtesis Remix](https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Local Valley \(Deluxe\)](https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o) | 4:24 | 2022-03-13 |  |
 | [Elegy for Love](https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Melodi](https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9) | 3:37 | 2022-03-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Olivia Rodrigo, DJ Khaled, Alexander Stewart and AP Dhillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,361 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,375 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 92 | [Mythologize Me](https://open.spotify.com/track/1VnUj5C0dmpUGRGkHZ8yWr) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Mythologize Me](https://open.spotify.com/album/192kvfi5SsLfpgmwIZ5Iab) | 2:53 |
 | 93 | [i'm only here for the beat](https://open.spotify.com/track/5gDsgk7rFViTjF5flKMZuI) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [i'm only here for the beat](https://open.spotify.com/album/6yKh818iw8w7buxdyRfDbV) | 2:25 |
 | 94 | [Runaway](https://open.spotify.com/track/0agVesxTRMBILK1I1LosM1) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Runaway](https://open.spotify.com/album/5cTmXTvq9gPQlF4kSnam24) | 2:18 |
-| 95 | [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 |
+| 95 | [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 |
 | 96 | [When I Hate Myself](https://open.spotify.com/track/4UHp0zxbh8ft26PSigDO0f) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [When I Hate Myself](https://open.spotify.com/album/2128hWtqbtGzK9HzKEGUAC) | 2:56 |
 | 97 | [Facts](https://open.spotify.com/track/2wdXG86Ikdyau12PPOgvAb) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [King Benz](https://open.spotify.com/artist/7rt1yOeiqSCRRPJwmxHRK4) | [Facts](https://open.spotify.com/album/6eIYvJJYTQxcJZzCYz5z6K) | 3:30 |
 | 98 | [Marionettes](https://open.spotify.com/track/0kcUGNxAsq95ON6Pp6nafS) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 5\)](https://open.spotify.com/album/3QvpYOLSIUHL3IbGmYmkB6) | 2:03 |
 | 99 | [11 Août](https://open.spotify.com/track/1FaJnFsFOwu0sSGhbZ9mEI) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [11 Août](https://open.spotify.com/album/1lBY7Yb5DI11kXBiBPED08) | 3:47 |
 | 100 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCwyYjk3NjRjZjJkZTRkYjU2YmFhZGRjMGVhMWEwNTI2ZTlkZTIxOWQ3`
+Snapshot ID: `MCwzYWQxYjk3NmExZTA5NjBlYWMwYjczY2VlYzJjMzE4ZGU4NjZkY2E0`

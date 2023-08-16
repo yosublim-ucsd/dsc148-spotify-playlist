@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-191 songs - 12 hr 17 min
+193 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,9 @@
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-05-27 | 2022-06-21 |
 | [Trước Khi Em Tồn Tại](https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 3:14 | 2023-06-22 | 2023-07-22 |
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 |  |
+| [tình wá akk](https://open.spotify.com/track/4ZVb8ZUjzUJOTP1RNqUC9y) | [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [tình wá akk](https://open.spotify.com/album/1pSn6o6Y52dz6zQyMjohfZ) | 3:00 | 2023-08-15 |  |
 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 | 2022-12-14 |  |
+| [tình yêu có nghĩa là gì?](https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [tình yêu có nghĩa là gì?](https://open.spotify.com/album/0ptE7cwks2pwpcsP8ioEUL) | 2:13 | 2023-08-15 |  |
 | [Tình Yêu Đến Sau](https://open.spotify.com/track/1ISenZ6rcvWJHsBlW5kymp) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tình Yêu Đến Sau](https://open.spotify.com/album/4UStQJDzvaNbNdAzxZ1k9A) | 4:31 | 2022-11-26 | 2023-02-13 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/4JPJhbWVL1yWTU8DpYP2Vc) | [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/0gmt66kHSJzBQI4qpQmkci) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv) | [nân](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc) | [Tình Đắng Như Ly Cà Phê](https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI) | 3:35 | 2022-07-27 | 2022-10-14 |

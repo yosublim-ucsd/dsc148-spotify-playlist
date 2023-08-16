@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 6083,
+  "num_followers": 6088,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTI1YTE2MzFmN2I4MTQwMGI5ZjhkZTEyYmQ1NGZlOGExYzhhNWEx",
+  "snapshot_id": "MCxkOTIwM2MxODIxNjZkNGZhYjJmODBmZmYxZWE4Y2MzODFmOTIzN2Zi",
   "tracks": [
     {
       "added_at": "2023-08-11 00:01:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 383533,
       "name": "Shake Our Way Out [Feat. Billy F Gibbons]",
       "url": "https://open.spotify.com/track/5BPpLbUMdBM2GsK64TEoGD"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
-        "name": "Devil Claims His Prize",
-        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 162176,
-      "name": "Devil Claims His Prize",
-      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Ugly Brain",
-        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Ross",
-          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
-        }
-      ],
-      "duration_ms": 276283,
-      "name": "Ugly Brain - Single Version",
-      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Ugly Brain",
+        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Ross",
+          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
+        }
+      ],
+      "duration_ms": 276283,
+      "name": "Ugly Brain - Single Version",
+      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Buffalo Road",
+        "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
+      },
+      "artists": [
+        {
+          "name": "Gabe Carter",
+          "url": "https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Buffalo Road",
+      "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Exorcist",
         "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Buffalo Road",
-        "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
+        "name": "Old Road",
+        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
       },
       "artists": [
         {
-          "name": "Gabe Carter",
-          "url": "https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd"
+          "name": "Keegan McInroe",
+          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
         }
       ],
-      "duration_ms": 178893,
-      "name": "Buffalo Road",
-      "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+      "duration_ms": 311320,
+      "name": "Old Road",
+      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Can Opener",
-      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Chrysomallousa",
         "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 219954,
       "name": "Chrysomallousa",
       "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Can Opener",
+      "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
     },
     {
       "added_at": "2023-08-11 00:01:00",
@@ -855,6 +871,22 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
+        "name": "Daylight I Will Find",
+        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 277655,
+      "name": "Daylight I Will Find",
+      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
         "name": "Take My Rider",
         "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
       },
@@ -935,22 +967,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Daylight I Will Find",
-        "url": "https://open.spotify.com/album/6Iv7Fz1oSlDV7DoWZKfhbV"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 277655,
-      "name": "Daylight I Will Find",
-      "url": "https://open.spotify.com/track/35GkdK0Z7dYhF9CO57z6dw"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "Old Road",
-        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
-      },
-      "artists": [
-        {
-          "name": "Keegan McInroe",
-          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "Old Road",
-      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-11 00:01:00",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
-      },
-      "artists": [
-        {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
-        }
-      ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
-    },
-    {
-      "added_at": "2023-08-11 00:01:00",
-      "album": {
         "name": "Bound To Get The Blues",
         "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 300548,
       "name": "Got To Get Out",
       "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+    },
+    {
+      "added_at": "2023-08-11 00:01:00",
+      "album": {
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+      },
+      "artists": [
+        {
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+        }
+      ],
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
     },
     {
       "added_at": "2023-08-11 00:01:00",

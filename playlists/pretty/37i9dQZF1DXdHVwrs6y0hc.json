@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 60842,
+  "num_followers": 60931,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0",
+  "snapshot_id": "MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -791,8 +791,8 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
+        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
+        "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
       },
       "artists": [
         {
@@ -800,13 +800,21 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+          "name": "Philip Masure",
+          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
+        },
+        {
+          "name": "Patrick Michiels",
+          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
+        },
+        {
+          "name": "Kieran Fahy",
+          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
         }
       ],
-      "duration_ms": 205350,
-      "name": "The Tailor by Trade",
-      "url": "https://open.spotify.com/track/1cUjrjR8WCq3NOlAcZdVUH"
+      "duration_ms": 165893,
+      "name": "The Whole Chicken in the Soup - The Crooked Road",
+      "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
     },
     {
       "added_at": "2021-04-26 15:38:07",

@@ -393,6 +393,36 @@
     },
     {
       "album": {
+        "name": "Brickwall",
+        "url": "https://open.spotify.com/album/0xraxFTU7Mf4dGpEbhNp4z"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "hirihiri",
+          "url": "https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1"
+        },
+        {
+          "name": "Yaca",
+          "url": "https://open.spotify.com/artist/7LcTkagQnqGgZrXvMsnbT6"
+        },
+        {
+          "name": "\u5927\u795e \u7e8f (CV: \u5409\u7530\u51dc\u97f3)",
+          "url": "https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Brickwall",
+      "url": "https://open.spotify.com/track/0yxtiMujz3tRB64yuyaBUl"
+    },
+    {
+      "album": {
         "name": "DEN-CHAN COLLECTION (vol.3)",
         "url": "https://open.spotify.com/album/2QnhtFId96y6DELldDoKSi"
       },

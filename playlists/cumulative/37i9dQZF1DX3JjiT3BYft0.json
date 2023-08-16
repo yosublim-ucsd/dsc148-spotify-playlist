@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 235766,
       "name": "Proud of oneself",
       "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
@@ -6286,6 +6286,28 @@
       "duration_ms": 213746,
       "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
       "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! FILM LIVE 2nd Stage\u300dSpecial Songs",
+        "url": "https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "\u7af6\u5bb4Red\u00d7Violet",
+      "url": "https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 15094,
+  "num_followers": 15209,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj",
+  "snapshot_id": "MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2",
   "tracks": [
     {
       "added_at": "2023-08-04 09:26:45",
@@ -771,18 +771,26 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+        "name": "Sommer auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        },
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        },
+        {
+          "name": "Sarah Schiffer",
+          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
         }
       ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+      "duration_ms": 134520,
+      "name": "1,2,3 im Sauseschritt - Bauernhof Version",
+      "url": "https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -811,26 +819,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Sommer auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f"
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
       },
       "artists": [
         {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        },
-        {
-          "name": "Detlev J\u00f6cker",
-          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
-        },
-        {
-          "name": "Sarah Schiffer",
-          "url": "https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 134520,
-      "name": "1,2,3 im Sauseschritt - Bauernhof Version",
-      "url": "https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV"
+      "duration_ms": 140186,
+      "name": "Auf einem Baum ein Kuckuck sa\u00df",
+      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -883,26 +883,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Sing mit mir Kinderlieder",
-        "url": "https://open.spotify.com/album/4gDvWioaiyrWrSmAWxLf6t"
+        "name": "Unter meinem Bett. Best Of",
+        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
       "artists": [
         {
-          "name": "Kalle Klang",
-          "url": "https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM"
-        },
-        {
-          "name": "Die Floht\u00f6ne",
-          "url": "https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm"
-        },
-        {
-          "name": "Sing Kinderlieder",
-          "url": "https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n"
+          "name": "Laing",
+          "url": "https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC"
         }
       ],
-      "duration_ms": 136705,
-      "name": "Summ, summ, summ",
-      "url": "https://open.spotify.com/track/0DLD4cVr5pGVY5dTzfo8QE"
+      "duration_ms": 191400,
+      "name": "M\u00fccken nerven Leute",
+      "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

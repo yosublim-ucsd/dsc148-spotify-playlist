@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 29489,
+  "num_followers": 29515,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWVkMDU5NTc5ZmU3MGEzMWY5Zjc4NmNlNGYwYTQ3ZDMyMTM5ZmYy",
+  "snapshot_id": "MCwyZjFlZGNiMmViZDA3NjQwMmFjYjNkNTg1ZDdkOWIwNGEwMmQ2ZTA4",
   "tracks": [
     {
       "added_at": "2023-08-11 09:01:52",
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 133466,
-      "name": "It's Bad For Me",
-      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
     },
     {
       "added_at": "2023-08-11 09:01:52",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
     },
     {
       "added_at": "2023-08-11 09:01:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-08-11 09:01:52",
       "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2023-08-11 09:01:52",
+      "album": {
         "name": "Cool Heat",
         "url": "https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 119426,
       "name": "Ace In The Hole",
       "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
-    },
-    {
-      "added_at": "2023-08-11 09:01:52",
-      "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2023-08-11 09:01:52",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-11 09:01:52",
       "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+    },
+    {
+      "added_at": "2023-08-11 09:01:52",
+      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 127360,
       "name": "Who Wants To Be A Millionaire",
       "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
-    },
-    {
-      "added_at": "2023-08-11 09:01:52",
-      "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2023-08-11 09:01:52",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-11 09:01:52",
       "album": {
-        "name": "Whatever Julie Wants",
-        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 151213,
-      "name": "Always True To You (In My Fashion)",
-      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
-    },
-    {
-      "added_at": "2023-08-11 09:01:52",
-      "album": {
         "name": "The Astaire Story",
         "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 164133,
       "name": "I Concentrate On You",
       "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
+    },
+    {
+      "added_at": "2023-08-11 09:01:52",
+      "album": {
+        "name": "Whatever Julie Wants",
+        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
     },
     {
       "added_at": "2023-08-11 09:01:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-11 09:01:52",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Ours",
-      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
-    },
-    {
-      "added_at": "2023-08-11 09:01:52",
-      "album": {
         "name": "Night and Day With Cole Porter",
         "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 131173,
       "name": "Where Oh Where",
       "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+    },
+    {
+      "added_at": "2023-08-11 09:01:52",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX"
     },
     {
       "added_at": "2023-08-11 09:01:52",

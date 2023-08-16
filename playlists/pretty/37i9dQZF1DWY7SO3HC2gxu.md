@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,479 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,487 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 39 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 |
 | 40 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l) | 8:12 |
 | 41 | [Kamweretho](https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [Kamweretho](https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i) | 6:22 |
-| 42 | [Heart & Home](https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [Lucien](https://open.spotify.com/artist/50I2vUIS8XNDtJW8IWfNWl) | [Heart & Home](https://open.spotify.com/album/2uBR87y9vpt85gUgtOXLh0) | 2:30 |
+| 42 | [Heart & Home](https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu) | [Lauwz](https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb), [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Heart & Home](https://open.spotify.com/album/2uBR87y9vpt85gUgtOXLh0) | 2:30 |
 | 43 | [Pray To God](https://open.spotify.com/track/0FyxV8ikLg4L824IbC9U1a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Pray To God](https://open.spotify.com/album/62ie0Jhk5Q652kHONqxEcN) | 3:02 |
 | 44 | [Chills](https://open.spotify.com/track/2AYPYrXvtLkOzElD28svfr) | [Tokyonite](https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb) | [Chills](https://open.spotify.com/album/7sae1ej4tsPEHBBj80JWEh) | 2:52 |
 | 45 | [Fire](https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Fire](https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 59 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
 | 60 | [Mzuzi Park](https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk) | 8:13 |
 
-Snapshot ID: `MCxhMWQ4NTc0Nzk5MTM0MGUxY2QwY2JiMTIxY2FhZTExYWQ5ZmNiNDBm`
+Snapshot ID: `MCwxYzg3MjZjY2Q3ODZjMzQ3MWE4MzgyYmFlMzQwMzM3ZjBjOGE2OWJk`

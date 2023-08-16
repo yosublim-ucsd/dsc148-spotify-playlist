@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Emotional Oranges
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,595 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,656 likes - 86 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 53 | [Heart On Fire](https://open.spotify.com/track/2SSSBEGv9P3fBVdw5CfvlQ) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Heart On Fire](https://open.spotify.com/album/39xaejdB8NXYqM3w4rGY3K) | 2:51 |
 | 54 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 |
 | 55 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 |
-| 56 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
+| 56 | [Feathers](https://open.spotify.com/track/0songFawjueXwCUJuyztrp) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/6GqPpaE8is0mHms5v3uF1S) | 3:55 |
 | 57 | [Treasure](https://open.spotify.com/track/3dx3nDvoEOJNBDPp3a9qX2) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [Treasure](https://open.spotify.com/album/4KyKNlMN009fmiilJm43yZ) | 3:43 |
 | 58 | [Maybe?](https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Maybe?](https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt) | 2:54 |
 | 59 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 85 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
 | 86 | [Venus](https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG) | [Venus](https://open.spotify.com/album/2KusxJLjxuaiIwK47i4IqJ) | 1:55 |
 
-Snapshot ID: `MCxkYmQxMTlhMGQ0YzE2NjhjMDVlNGVkZDFkYTMwMjIxYmE2ZDUwY2Jh`
+Snapshot ID: `MCxiYmI0NGJhZWZlMTI0N2EzYjI1NDNkZGRhZTBlNGQzMmZiYzkxNWE3`

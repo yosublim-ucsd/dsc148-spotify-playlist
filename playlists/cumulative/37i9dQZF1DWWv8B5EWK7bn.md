@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-324 songs - 23 hr 17 min
+326 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 | 2021-10-06 |  |
 | [All Through The Day](https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [All Through The Day](https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS) | 3:02 | 2022-10-05 |  |
 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 | 2023-01-04 |  |
-| [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-03-31 |  |
+| [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-03-31 | 2023-08-16 |
 | [Aplomb](https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR) | [Mt\. Mountain](https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4) | [Centre](https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7) | 4:40 | 2021-10-06 |  |
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 | 2022-08-19 |  |
@@ -28,6 +28,7 @@
 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 |  |
 | [Ba Sing Se](https://open.spotify.com/track/48cnlcfe8AjLDYfUj5w41R) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Ba Sing Se](https://open.spotify.com/album/5ipx9NCdjrY02yzzqkjQaK) | 4:06 | 2022-04-26 | 2022-08-13 |
 | [BabyBack](https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd) | [Cousin Kula](https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd) | [Double Dinners](https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ) | 5:09 | 2022-01-13 | 2022-09-07 |
+| [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 | 2023-08-15 |  |
 | [Behind The Sun](https://open.spotify.com/track/42jFhmPXMdBuEESMBjpFlu) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/74awnhwIvK6XAFL3q68iuG) | 3:29 | 2021-10-06 | 2023-01-21 |
 | [Behind The Sun](https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D) | [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Behind The Sun](https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ) | 3:29 | 2021-10-06 |  |
 | [Bella Kali](https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Bella Kali](https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd) | 3:34 | 2022-06-08 | 2022-09-16 |
@@ -238,7 +239,7 @@
 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 | 2021-10-06 | 2022-09-30 |
 | [Say What You Will](https://open.spotify.com/track/5vUZMotVhkVcizIP0qrgr8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Say What You Will](https://open.spotify.com/album/2SCoCvaMwKuORfPTK7B33O) | 4:40 | 2023-01-20 | 2023-03-25 |
 | [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-04-14 | 2023-06-12 |
-| [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 |  |
+| [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-04-14 | 2023-08-16 |
 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 | 2022-08-31 | 2023-01-04 |
 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-10-06 |  |
 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2023-08-10 |  |
@@ -277,6 +278,7 @@
 | [Sunken Lupine](https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3) | [Damiana](https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx) | [Vines](https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8) | 6:46 | 2021-10-15 |  |
 | [Sunset Dreams](https://open.spotify.com/track/03W4UGst7Ugynx4OLJGlwn) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/120nAPsuLm0jxpTnlmbHEr) | 4:27 | 2021-10-06 | 2022-09-21 |
 | [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2022-01-11 | 2022-06-30 |
+| [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 | 2023-08-15 |  |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2023-01-20 | 2023-06-08 |
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-13 |  |
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-08-14 |

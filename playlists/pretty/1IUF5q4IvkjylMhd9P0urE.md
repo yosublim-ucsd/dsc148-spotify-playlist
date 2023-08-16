@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,163 likes - 69 songs - 4 hr 9 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,164 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 13 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
 | 14 | [Cornerstone](https://open.spotify.com/track/6NWvDFXmxgBs4q6ewekTBp) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [DIN](https://open.spotify.com/album/7vMMp3n6xYQwBgOEkbpJwF) | 3:56 |
 | 15 | [All Good](https://open.spotify.com/track/4xs7ie83CLCdkdGJwPG0J0) | [Aliese](https://open.spotify.com/artist/4o1rTdNnDFQAyTrpsI4cAB) | [All Good](https://open.spotify.com/album/4YQ31lCyIyjNX1s6iCLMxH) | 3:46 |
-| 16 | [A4L](https://open.spotify.com/track/0PbHkyIOYowdw2JEQi4gki) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [mother, i'm not here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 3:40 |
+| 16 | [A4L](https://open.spotify.com/track/0PbHkyIOYowdw2JEQi4gki) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Mother, I'm Not Here](https://open.spotify.com/album/2ddfx92XO61BAgXdhgCgoj) | 3:40 |
 | 17 | [Safe 2](https://open.spotify.com/track/4dUf28uwPHLhbGCllaMD4D) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:31 |
 | 18 | [Golden Key](https://open.spotify.com/track/3a3UhgUrxTYUo1GikxrLZC) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Golden Key](https://open.spotify.com/album/6OuVSUfvlbbUbbMR3ojZhO) | 4:05 |
 | 19 | [Sliver feat\. Novelist \- Edit](https://open.spotify.com/track/2AycgxJKvOkg0jwZNTlrMz) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Sliver](https://open.spotify.com/album/1WT6fYk6TT7lyvR8Fl0qyL) | 3:40 |

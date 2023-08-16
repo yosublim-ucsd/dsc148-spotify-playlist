@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: BADASSMUTHA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,055 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,123 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 52 | [If I Could Make You Dance](https://open.spotify.com/track/12zSCRafXi1AfdJaQ7SuMc) | [Civic Video](https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY) | [If I Could Make You Dance](https://open.spotify.com/album/7r1VAiVkd863UyANlSS6hp) | 2:59 |
 | 53 | [Back to Normal](https://open.spotify.com/track/7gWuzadyx7QU2eOf6bmZ6E) | [Harry Cleverdon](https://open.spotify.com/artist/28fC9QdxJdW0SHet0oKbHk) | [Back to Normal](https://open.spotify.com/album/46kcQpYKmGCZZaLtNRJOEF) | 3:46 |
 | 54 | [Stay In Touch](https://open.spotify.com/track/7JzVhFPpF3oyPZYQoa0f4B) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Stay In Touch](https://open.spotify.com/album/1DDXqASljRWNnDqB25ronG) | 2:55 |
-| 55 | [Make Me Understand](https://open.spotify.com/track/7n7WlVZMM9FDP7s8RO0DK8) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC) | [Make Me Understand](https://open.spotify.com/album/3R46sa21sfv0JjrTNmT1fF) | 3:38 |
+| 55 | [Make Me Understand](https://open.spotify.com/track/7n7WlVZMM9FDP7s8RO0DK8) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Make Me Understand](https://open.spotify.com/album/3R46sa21sfv0JjrTNmT1fF) | 3:38 |
 | 56 | [Without Your Touch](https://open.spotify.com/track/2hjS6BsjfjXCyyPkNRugys) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Without Your Touch](https://open.spotify.com/album/7BNKZ4pmX9jChiADi3bdor) | 3:18 |
 | 57 | [DOOFENSHMIRTZ](https://open.spotify.com/track/4b5B39LSjxA8N4dnuxeKiI) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Tawanda](https://open.spotify.com/artist/1ynh2pGQAk8Y5odVMGbKnn), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [DOOFENSHMIRTZ](https://open.spotify.com/album/5u1jaLPQomx8TGH1RiN0zm) | 2:56 |
 | 58 | [Sick](https://open.spotify.com/track/7LnGqbsLdHKV49tSOLiQ9z) | [Baby Lane](https://open.spotify.com/artist/5pg4mI2k1dzw5UGi8Bd2cA) | [Sick](https://open.spotify.com/album/12f0SxhgxdzXVZSGxwoX0a) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [No Style](https://open.spotify.com/track/016A8HgFir02qVhhoHsF3f) | [DJ SUNROOF](https://open.spotify.com/artist/1acpKqmtHJ8cR7SY7lWZ2h) | [No Style](https://open.spotify.com/album/1gps89GiBTAKcFfRaiWFVI) | 3:20 |
 | 100 | [SSX](https://open.spotify.com/track/6KiDSY2zT06fZaITlCJ32w) | [The Bluebottles](https://open.spotify.com/artist/0Z2i6BPbxy76Fofb2xHoTe) | [SSX](https://open.spotify.com/album/7utnoqDSvdwcspHQSrD3bt) | 3:53 |
 
-Snapshot ID: `MCxmODU5MmEzMmRiNTMzOGQ2NTg4YzczZjZmYjljN2YxMzc5ZWFmZGFl`
+Snapshot ID: `MCw2NTdiYWIzNDU0ODdkY2YwNTEwNTM3YzY2NzM0MTU0NDI1OTc2MWM4`

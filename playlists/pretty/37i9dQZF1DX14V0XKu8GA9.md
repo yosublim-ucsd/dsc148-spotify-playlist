@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,501 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,523 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 15 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
 | 16 | [BAG CHASER](https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [BAG CHASER](https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC) | 2:49 |
 | 17 | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Joe Peshi](https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1) | 3:07 |
-| 18 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
-| 19 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 18 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 19 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
 | 20 | [Villain](https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Villain](https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC) | 2:45 |
 | 21 | [All I Need](https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [All I Need](https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi) | 2:36 |
 | 22 | [MONEY](https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Angle](https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01) | 1:23 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 30 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 
-Snapshot ID: `MCw3MWM1YzIyY2UwY2UzOWJiNDJmYjhkODAxZjQ3YzY0NjA1ZmZkMWNj`
+Snapshot ID: `MCxiNjI5MGM3ZTQxYjMxNDk1OWM4YmIxNTJkYjE0Yjg5OGNiMTI3Mzkw`

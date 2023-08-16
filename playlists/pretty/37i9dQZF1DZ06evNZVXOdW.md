@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,385 likes - 29 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,390 likes - 29 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 28 | [Kand](https://open.spotify.com/track/76Ijr5E3UvOtzjaNcc3AXx) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Kand](https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9) | 9:11 |
 | 29 | [Ovid's Metamorphoses](https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 15:11 |
 
-Snapshot ID: `MjgyMDAyNjYsMDAwMDAwMDA1NjY2MjcyOTA1OTk1OTZiZDAwNTM4NzE2YjBlMjE3NQ==`
+Snapshot ID: `MjgyMDE5ODUsMDAwMDAwMDAzY2JjYjQ3MGM3NzlkNWUyOWRlZmRhMzI1ZDdjZDRjZg==`

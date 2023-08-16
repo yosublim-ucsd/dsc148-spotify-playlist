@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-258 songs - 14 hr 12 min
+259 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Come With Me](https://open.spotify.com/track/6MM83CZc1Vj1VaP410sL6S) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Come With Me](https://open.spotify.com/album/6gBMd18G54Yx50Kl1LLsKI) | 3:42 | 2021-08-05 | 2022-11-25 |
 | [Come With Me \(feat\. MIA GLADSTONE\)](https://open.spotify.com/track/64ee1rkkZRgrtUUeMqueNN) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Come With Me \(feat\. MIA GLADSTONE\)](https://open.spotify.com/album/5O3pFuHUPq21BEUyIegTSL) | 3:42 | 2022-10-06 | 2023-01-27 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2021-08-05 |  |
+| [Creaming Soda](https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:38 | 2023-08-09 |  |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2021-08-05 | 2023-01-27 |
 | [Crush](https://open.spotify.com/track/3GldXbSFOqFbLVsluOkm4M) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Crush](https://open.spotify.com/album/1YfQe8ZDLXXlwBWQp9RzO6) | 3:43 | 2022-02-11 | 2022-04-21 |
 | [CYANIDE](https://open.spotify.com/track/3uouaAVXpQR3X8RYkJyitQ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:14 | 2022-12-15 | 2023-06-10 |
@@ -211,7 +212,7 @@
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2023-03-20 |  |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2022-07-25 | 2022-08-18 |
 | [slumber](https://open.spotify.com/track/3Z6LBHVcNXuAEpXrKwUEAS) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [slumber](https://open.spotify.com/album/4Q4b9Ti4hXcyItDQC9KKR8) | 2:53 | 2022-05-03 | 2022-07-29 |
-| [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 | 2023-03-20 |  |
+| [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 | 2023-03-20 | 2023-08-16 |
 | [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 | 2022-05-03 | 2023-01-27 |
 | [Sneak Away With Me](https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Sneak Away With Me](https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28) | 5:06 | 2021-12-14 | 2022-07-27 |
 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 | 2021-12-14 | 2022-08-18 |

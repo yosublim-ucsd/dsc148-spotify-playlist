@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,199 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,329 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 |
 | 100 | [GUMDROP](https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [GUMDROP](https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY) | 1:09 |
 
-Snapshot ID: `MCxmYTZmNzM5N2ViNmRmZGVjYzE0ZTNlODE2MDk1NmMyMmMyZjQ1NmNj`
+Snapshot ID: `MCw3YzU2ZDllNzdkYzJjNGE3MDg4YjgxMTZlNjUyOTMxZGJhYTRlNmVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 麻倉もも
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,547 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Tik\[Q\]et](https://open.spotify.com/track/4BabXgt8ceIsrw1hcUfh6Q) | [Qlover from kyoukaimetro](https://open.spotify.com/artist/2c22U1mf0vjLodPTziMVlS), [Rinne\(CV:UchidaMaaya\)](https://open.spotify.com/artist/4mmt3eA64eeVnNiFFbEzEi), [セツナ\(CV: konoco\)](https://open.spotify.com/artist/0JzERxkdRvSrybjJEa0ObQ), [Itsuka\(CV:Akina\)](https://open.spotify.com/artist/7aPJTYWIwk2nc7qolTEsgt) | [Tik\[Q\]et](https://open.spotify.com/album/2wkQRFuZQseN3hguuPhN7b) | 2:34 |
 | 50 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 |
 
-Snapshot ID: `MCw0NTJmMjFiNzRjM2JiMGYyNDM4OTJjOGJiYzA1MTE1MjEwYTY5YWZh`
+Snapshot ID: `MCw3NDIzZTI5NjE4Nzg0NjI3NDY1MWU0M2VkZmI4MzM3M2JmNTVlODI3`

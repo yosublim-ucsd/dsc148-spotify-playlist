@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz & Caspian Marvin",
-  "num_followers": 1720,
+  "num_followers": 1719,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWI2ZjZmZmEzMzhkZjQyMjVmNDkxNjczYTBmYzJlNmFhMGFkOTVm",
+  "snapshot_id": "MCwwYTk5MWYzODE5ZDkyODc3NjRmYTNkZGUxOTcwMGJjZDY0ZTcyZjcx",
   "tracks": [
     {
       "added_at": "2023-08-11 09:42:04",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
       },
       "artists": [
         {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
         }
       ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -479,6 +479,30 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Nick Souza",
+          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
+        }
+      ],
+      "duration_ms": 190144,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
         "name": "Bwereere",
         "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
@@ -491,6 +515,22 @@
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -523,46 +563,6 @@
       "duration_ms": 212903,
       "name": "Omwana",
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
-      },
-      "artists": [
-        {
-          "name": "Chxf Barry",
-          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "Nick Souza",
-          "url": "https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt"
-        }
-      ],
-      "duration_ms": 190144,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -603,26 +603,6 @@
       "duration_ms": 172016,
       "name": "Bega Bega",
       "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
-        "name": "Singa",
-        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Singa",
-      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -675,6 +655,26 @@
       "duration_ms": 179762,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
+        "name": "Singa",
+        "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Singa",
+      "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
+        "name": "Coroba",
+        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
+      },
+      "artists": [
+        {
+          "name": "Sl Fiq",
+          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Koroba",
+      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
-        "name": "Coroba",
-        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
-      },
-      "artists": [
-        {
-          "name": "Sl Fiq",
-          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
-        }
-      ],
-      "duration_ms": 167678,
-      "name": "Koroba",
-      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 137333,
       "name": "Mama I Made It",
       "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
+        "name": "Fertilizer",
+        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -823,26 +843,6 @@
       "duration_ms": 173196,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
-        "name": "Fertilizer",
-        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
     },
     {
       "added_at": "2023-08-11 09:42:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
-    },
-    {
-      "added_at": "2023-08-11 09:42:04",
-      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -919,18 +903,38 @@
     {
       "added_at": "2023-08-11 09:42:04",
       "album": {
-        "name": "Wangi",
-        "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wangi",
-      "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+    },
+    {
+      "added_at": "2023-08-11 09:42:04",
+      "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE"
+      },
+      "artists": [
+        {
+          "name": "Kivumbi King",
+          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
     }
   ],
   "unique_name": "Made In Uganda",

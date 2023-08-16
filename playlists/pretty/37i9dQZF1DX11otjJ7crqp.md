@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,538 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,792 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [\(Don't Quit Your\) Daydream](https://open.spotify.com/track/5yzsibZ4IDv0wNfY1Ho9Cc) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [\(Don't Quit Your\) Daydream](https://open.spotify.com/album/3rNF0eHQy0hHbAlDNwwZ12) | 2:51 |
 | 100 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 |
 
-Snapshot ID: `MCxjZjljNGY4MmI5ZGE5ODhiZDQ1MzNmNmQyYjFlNWMzYjkyOWIyNDAw`
+Snapshot ID: `MCxlOTY2OTY2OGNiYTBjZDE5NGUwZGQwODU0MWY0ZjZlY2Q5YTg2OTc0`

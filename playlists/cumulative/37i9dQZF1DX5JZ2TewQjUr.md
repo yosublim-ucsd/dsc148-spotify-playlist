@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Anna hisbbuR & Luna Is A Bep
 
-642 songs - 1 day 12 hr 22 min
+643 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
 | [Josh Groove](https://open.spotify.com/track/6a1YjzaPhDWqdAp4KUPkXt) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Bella World](https://open.spotify.com/artist/3XUDJGDts81L0k83qK4Zft) | [Josh Groove](https://open.spotify.com/album/5kCtNE3X8U3OFFHgujnmK9) | 3:46 | 2023-01-19 | 2023-05-26 |
 | [june \(february’s not long ahead\)](https://open.spotify.com/track/1MKkSOM3kebfkMT6lKLwZc) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [june \(february’s not long ahead\)](https://open.spotify.com/album/0xB5mmnFwgW0J5irnKzFqT) | 1:39 | 2022-11-24 | 2023-02-03 |
-| [kix \- freestyle](https://open.spotify.com/track/6FyYc5GDvi9xFkRigFJ6Wd) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix \(freestyle\)](https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP) | 1:30 | 2023-07-20 |  |
+| [kix \- freestyle](https://open.spotify.com/track/6FyYc5GDvi9xFkRigFJ6Wd) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix \(freestyle\)](https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP) | 1:30 | 2023-07-20 | 2023-08-16 |
+| [kix freestyle](https://open.spotify.com/track/2rP3qGaeSmZ4UEio41Oz2l) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix freestyle](https://open.spotify.com/album/7BbkF2Ipp4z3XUb5HRRQTf) | 1:30 | 2023-08-10 |  |
 | [Kowloon Cowboy Theme](https://open.spotify.com/track/6HmJ7v6gGkiZ8RFyfBmxEx) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Kowloon Cowboy Theme](https://open.spotify.com/album/4Op3cpQTauXzROMdyhQNqH) | 3:12 | 2023-03-02 | 2023-07-14 |
 | [Kowloon 九龍](https://open.spotify.com/track/0XLcxPWoiIPPmcU1kEpDc0) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f) | [Kowloon 九龍](https://open.spotify.com/album/0Et4ZqBmHGbwRnRvJH6JEd) | 6:40 | 2022-07-28 | 2022-09-09 |
 | [L.over Remix](https://open.spotify.com/track/5WTAyEu3w3YIjHN2q8eb61) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [L.over Remix](https://open.spotify.com/album/6gBgfP26HuP5JE2SjFZ0uc) | 3:18 | 2022-05-26 | 2022-07-29 |

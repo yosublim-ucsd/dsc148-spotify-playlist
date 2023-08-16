@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-259 songs - 10 hr 34 min
+264 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gratitude](https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [Gratitude](https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF) | 1:54 | 2023-03-01 |  |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-14 |  |
 | [Green Meadow](https://open.spotify.com/track/3utSs25tLqIPeLegK7MRiT) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Green Meadow](https://open.spotify.com/album/77BGGPqjJJEI6g9wF8gy0o) | 2:51 | 2021-12-14 | 2023-01-28 |
+| [Gullviva](https://open.spotify.com/track/55bj8Rq2M6IG9Pj2qPcZjb) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Gullviva](https://open.spotify.com/album/3MbUackTQWioRis2NbNg1W) | 2:37 | 2023-08-15 |  |
 | [Hand Woven Clouds](https://open.spotify.com/track/0sGGKnrBxiogubR7KDrxpC) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Hand Woven Clouds](https://open.spotify.com/album/3391Xd2lX5OKi5V2kCITvY) | 2:36 | 2022-09-13 |  |
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-17 |  |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-03 |  |
@@ -94,6 +95,7 @@
 | [in the rain](https://open.spotify.com/track/74H039CiAcy8fahVUYOETr) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [in the rain](https://open.spotify.com/album/4yZ1MJawVr3p6sGxU5enCP) | 2:14 | 2022-09-13 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-14 | 2023-06-21 |
 | [Infinity clouds](https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Infinity clouds](https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g) | 2:30 | 2022-12-06 |  |
+| [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
 | [Inner Peace](https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F) | [Lianne Steeman](https://open.spotify.com/artist/3U7x7KLCqxl4vE0QC3oQl2) | [Inner Peace](https://open.spotify.com/album/3VwdiiuImq5VJ6mMhlUWBg) | 2:36 | 2022-07-20 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-14 |  |
 | [Introspective](https://open.spotify.com/track/7d1CXUTMlMxmBWz3Mwsdvk) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [Introspective](https://open.spotify.com/album/2Mq0dTijsXUQmTB0A5tPp8) | 2:11 | 2023-05-03 |  |
@@ -111,6 +113,7 @@
 | [Las Torres](https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU) | [Rafael Zoko](https://open.spotify.com/artist/4CdJuIDunYuaxiRa0PUulq) | [Las Torres](https://open.spotify.com/album/070fTp4tPS3XzSckZra1ZK) | 3:00 | 2022-03-03 |  |
 | [Le Bonheur](https://open.spotify.com/track/3J8dqKlO2trb3uRGhcx3ok) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Le Bonheur](https://open.spotify.com/album/16jsGf5M8TZ2NeqSa09c8P) | 2:59 | 2021-12-14 |  |
 | [Le coeur du ciel](https://open.spotify.com/track/5LeWHNHdXsCo5TUKpzL3Na) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Le coeur du ciel](https://open.spotify.com/album/2jAFSLRQe0O6aACZyD7Gn7) | 2:08 | 2023-06-20 |  |
+| [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 | 2023-08-15 |  |
 | [Le Pont De L'amour](https://open.spotify.com/track/0UhArwSZP4TGYxPfj7XF4y) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Le Pont De L'amour](https://open.spotify.com/album/3b3PShJsSRVsqmPXBSPQgh) | 2:48 | 2021-12-14 | 2022-07-21 |
 | [Learning](https://open.spotify.com/track/7ndJq3FTs0QIzag0nYw7BX) | [Gareth Riley](https://open.spotify.com/artist/4MV0ijpQhdnte0lJh2tilX) | [Learning](https://open.spotify.com/album/04uA73Nx9vnxlpZJfktKNp) | 2:02 | 2021-12-14 | 2022-04-29 |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2021-12-14 |  |
@@ -120,6 +123,7 @@
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-03-08 |  |
 | [Little Bird](https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:50 | 2022-12-21 |  |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2021-12-14 |  |
+| [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 | 2023-08-15 |  |
 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/1ZRW6bbpJ7Z4AyvBVgXzLZ) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-03 |  |
 | [Lucie](https://open.spotify.com/track/5ccHob3neg5ciFjZpwSLif) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Lights, Slow Places](https://open.spotify.com/album/0Qf0Gkf8HW6LRdfmEy7jVR) | 2:17 | 2021-12-14 |  |
 | [Mandeville](https://open.spotify.com/track/7Kuj7xMyWDEqfHE4itPF98) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Mandeville](https://open.spotify.com/album/2xH1bh09wrjyn7BioGdmff) | 2:56 | 2022-10-26 |  |
@@ -135,6 +139,7 @@
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-03-03 |  |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-14 |  |
 | [New Dimensions](https://open.spotify.com/track/0nwGO2cdc5wvV0mBGELwRf) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Shades Of Life](https://open.spotify.com/album/4ZGXqVaijxKPNbKbnlbq2m) | 1:20 | 2022-12-21 |  |
+| [Night Bird, Night Song](https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Night Bird, Night Song](https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve) | 2:10 | 2023-08-15 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-14 |  |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-03 |  |
 | [Nuove stelle](https://open.spotify.com/track/4XhwwAHtDNnv8sHJk1O69p) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Nuove stelle](https://open.spotify.com/album/4EYOSBo5Ih0iYWbDbLKLos) | 1:40 | 2023-02-15 |  |

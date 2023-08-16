@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=gwz0e1ZRSK\-Xp\_kajrYT\-A">Loufi</a> & <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=t37Hl\_ASTdWeFOa2L0Uebw">Francois van Coke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,975 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,984 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [BEAUTIFUL LIES](https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [BEAUTIFUL LIES](https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml) | 3:52 |
 | 50 | [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 |
 
-Snapshot ID: `MCw0MzQwMzM2ODY0YWM4ZjUyZjZiNjJlODZhNGE3Y2Y0MDZiMjhjZTEy`
+Snapshot ID: `MCw4YWQ3Yzk0OTExMjVkMDVmMmI1OWE3MGUyMjFlYTE2NWY1ODBkYjlk`

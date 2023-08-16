@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 69538,
+  "num_followers": 69594,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTVhYTU4MzNmNjcwNWU0NGVmNGI4YzZlZDQ5OThlMjQzYTAwY2Zm",
+  "snapshot_id": "MCwxM2FkMjAxNTJmYWU2ZGI1MmFiNDViOGE3YzllZDA1YzViNTI0ZTZj",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 314773,
-      "name": "Privilegio",
-      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 145426,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 314773,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 137826,
       "name": "En El Balcon Aquel",
       "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2023-07-28 05:01:00",

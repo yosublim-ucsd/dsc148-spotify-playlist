@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-464 songs - 1 day 1 hr 40 min
+465 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Fair Play](https://open.spotify.com/track/1bklPkNKKoy2pcw7s5GQsT) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Chrysalis](https://open.spotify.com/album/7oTitPtEOTbcfza5F95RJQ) | 4:49 | 2022-06-30 | 2023-04-29 |
 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 | 2023-05-05 |  |
 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 | 2023-07-14 |  |
+| [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 | 2023-08-11 |  |
 | [Faux](https://open.spotify.com/track/2sL4GhaC3lSbQYLWxAJIj5) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 2:37 | 2021-12-15 | 2022-04-21 |
 | [fflow](https://open.spotify.com/track/0gmfwhIDSOHn75sZUoxq4W) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [fflow](https://open.spotify.com/album/26AAB2lwtFMYsEndndWTzv) | 3:35 | 2022-03-03 | 2022-04-08 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-04-28 |  |
@@ -198,7 +199,7 @@
 | [I'm a Rock](https://open.spotify.com/track/4hpmG15B0IJcB88PgrHu1U) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/3AYbVMgPfYy8JcnTkHzktt) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [I'm Thru](https://open.spotify.com/track/25AA0A6Qvq9leS9zyeWbln) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [I'm Thru](https://open.spotify.com/album/2R1NiiIPRBp4Jou2BGS0Mu) | 3:11 | 2021-12-15 | 2022-11-09 |
 | [I'm Thru](https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Cover art by Hasworld](https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB) | [I'm Thru](https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP) | 3:11 | 2022-11-09 | 2023-03-11 |
-| [I've Been Waiting](https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I've Been Waiting](https://open.spotify.com/album/6cREBSkIEgQ8fxi2NbpfF0) | 3:07 | 2023-03-03 |  |
+| [I've Been Waiting](https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I've Been Waiting](https://open.spotify.com/album/6cREBSkIEgQ8fxi2NbpfF0) | 3:07 | 2023-03-03 | 2023-08-16 |
 | [IDWL](https://open.spotify.com/track/4FxIGIFx8t2KfuTInsFN0T) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [IDWL](https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP) | 3:40 | 2021-12-15 | 2022-07-29 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-11 | 2022-04-08 |
 | [In Search of Balance](https://open.spotify.com/track/7jC7FwxsaNkQC8pO358NuY) | [Reginald Omas Mamode IV](https://open.spotify.com/artist/7fwMK3Ri8BjvsBajiUt8dS) | [Where We Going?](https://open.spotify.com/album/4huFOBTh7Q7nY6KuAJSL3V) | 3:08 | 2021-12-15 | 2022-04-21 |

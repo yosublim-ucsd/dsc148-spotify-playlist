@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,555 likes - 141 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,845 likes - 141 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 38 | [K\[no\]w Better](https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:47 |
 | 39 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 40 | [Hate Me More](https://open.spotify.com/track/3eR9esizpZyvy4NBAiViZ6) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More](https://open.spotify.com/album/75zEUdUGdIoRQDU5MXnzcj) | 2:40 |
-| 41 | [Hometown Hurricane](https://open.spotify.com/track/4bIgyKFroq4NOtHnAVcWCt) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Hometown Hurricane](https://open.spotify.com/album/5CwgpAwkUHJ4Yc1qiO4v6I) | 2:26 |
+| 41 | [Hometown Hurricane](https://open.spotify.com/track/5gm7WhYs8V8Krt1jnvHz90) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/4XSyagJgyYxldHHZSL5z74) | 2:25 |
 | 42 | [Gave It Up](https://open.spotify.com/track/2RJowhbRcHVqobHqGsoa5N) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt), [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Gave It Up](https://open.spotify.com/album/52uUMdmL7s6iFCvGLU4aSr) | 3:23 |
 | 43 | [Where There’s Smoke](https://open.spotify.com/track/6qGS1Co26eZamo8HvcRkt5) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Where There’s Smoke](https://open.spotify.com/album/6IejL7qAaA6R1ysk9APTN3) | 2:42 |
 | 44 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 140 | [Wild Man](https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Wild Man](https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ) | 2:48 |
 | 141 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 
-Snapshot ID: `MCwzMjBjNWE2ZGY0ZjBkNDg4MmY5NzQ4NDM0MmNmOWYyMzFlZDBkYzhj`
+Snapshot ID: `MCxlMTkxZWI0OGViOGVlZDA4MWY4MGNlNTQwZTI3NGY3Mzc5MjM0ZGE5`

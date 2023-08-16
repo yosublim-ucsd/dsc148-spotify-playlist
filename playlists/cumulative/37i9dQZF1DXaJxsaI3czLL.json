@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 304933,
       "name": "6\u6708\u306e\u7a93",
       "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 203853,
       "name": "All My Love - English Ver.",
       "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
@@ -330,6 +330,28 @@
       "duration_ms": 298292,
       "name": "Binetsu (Autumn)",
       "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
+    },
+    {
+      "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2mI6ZbZAPtlUMF5vqo0knl"
+      },
+      "artists": [
+        {
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
+        },
+        {
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262186,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/1BRZiTic3RjfNpLzlXT5sq"
     },
     {
       "album": {
@@ -724,6 +746,24 @@
       "duration_ms": 222220,
       "name": "Furui Chizu (Old Map)",
       "url": "https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM"
+    },
+    {
+      "album": {
+        "name": "Saiaku Saiai",
+        "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358666,
+      "name": "Gekijyou",
+      "url": "https://open.spotify.com/track/6JgoiW5cZae1GUEktXaJLq"
     },
     {
       "album": {
@@ -1278,7 +1318,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -1390,7 +1430,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 138555,
       "name": "Lily",
       "url": "https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn"
@@ -1774,7 +1814,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 132960,
       "name": "Natsumoyo no Neko",
       "url": "https://open.spotify.com/track/2jtPfFJBSkpMPKeLOyalbp"
@@ -2204,7 +2244,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
@@ -4595,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u5c51\u305f\u3061",
+        "url": "https://open.spotify.com/album/5dGmv1ySk8MBfoYIBHciMH"
+      },
+      "artists": [
+        {
+          "name": "Yasuyuki Horigome",
+          "url": "https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333280,
+      "name": "\u6d99\u306f\u661f\u5c51\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/2nYHBQmM8Wp3d6UB4Bbe5l"
+    },
+    {
+      "album": {
         "name": "SHINJITERU",
         "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
       },
@@ -4936,7 +4994,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

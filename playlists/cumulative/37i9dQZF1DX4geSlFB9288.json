@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/3Zwvw2rSj6tbyr0cvQ54TE"
+      },
+      "artists": [
+        {
+          "name": "Derivakat",
+          "url": "https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C"
+        },
+        {
+          "name": "Netrum",
+          "url": "https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184854,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/4PIeScplhiEtwFywwRR5d9"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -6684,7 +6706,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 146880,
       "name": "thankful",
       "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"

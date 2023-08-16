@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,032 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,065 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 |
 | 75 | [Put Me Through Hello](https://open.spotify.com/track/5SU9CoBuiLkPwGe633fxdL) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Unlearn](https://open.spotify.com/album/6xxVuTd7JuGPvDUr6Anf8t) | 3:15 |
 
-Snapshot ID: `MCxmMjQ4MzdhNzc1N2JlMjQyODhmZGY1OTk3NWE5NWQxYjgzMWFhOTAw`
+Snapshot ID: `MCwwMjViNjA2MDZiN2M5OTAwYWI3YWM3YTc5YTliNmFmMDEzZWNlYzg4`

@@ -3147,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "New View",
+        "url": "https://open.spotify.com/album/4SLW1wlhfhuYnikmMFhumC"
+      },
+      "artists": [
+        {
+          "name": "Saux",
+          "url": "https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "New View",
+      "url": "https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL"
+    },
+    {
+      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV"
       },

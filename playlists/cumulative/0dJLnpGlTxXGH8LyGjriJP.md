@@ -4,7 +4,7 @@
 
 > 
 
-642 songs - 1 day 8 hr 14 min
+643 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [KRZY TRAIN \(feat\. Travis Scott\)](https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:54 | 2023-01-20 |  |
 | [Kung Fu](https://open.spotify.com/track/1eEYbTvRWPEozV0ttNO0NC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Kung Fu](https://open.spotify.com/album/2EIrVowJlZncpA9aKjohb9) | 3:19 | 2022-12-23 |  |
 | [LABELS CALLIN'](https://open.spotify.com/track/19s7W71y7IZDAn6X2mnCqr) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [DLOG](https://open.spotify.com/album/4tnNsvUsbJAoI9FESgvkOJ) | 2:38 | 2022-11-20 |  |
+| [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 | 2023-08-15 |  |
 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/4bgfOF85wLRLtVtDeuwlNH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 2:59 | 2022-12-09 |  |
 | [Legacy \(feat\. Travis Scott & 21 Savage\)](https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:04 | 2022-12-23 |  |
 | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu) | 2:36 | 2022-12-23 |  |

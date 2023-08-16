@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 160707,
+  "num_followers": 161030,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTVjZmFlNzdkYzIyMjllNzJhZWU2NzUxM2NmM2Q1ODI3Y2U4OTNm",
+  "snapshot_id": "MCxmNzViNDhlYTMxYTdmZmVkNDRhMDE0YmVhOTU3ODc0ZDViZjI1YzM3",
   "tracks": [
     {
       "added_at": "2023-07-31 15:39:56",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-07-31 15:39:56",
       "album": {
-        "name": "Yellow Flower",
-        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
+        "name": "4 Walls - The 4th Album",
+        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 211236,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
+      "duration_ms": 207477,
+      "name": "4 Walls",
+      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
     },
     {
       "added_at": "2023-07-31 15:39:56",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-07-31 15:39:56",
       "album": {
-        "name": "4 Walls - The 4th Album",
-        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
+        "name": "Yellow Flower",
+        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 207477,
-      "name": "4 Walls",
-      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+      "duration_ms": 211236,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
     },
     {
       "added_at": "2023-07-31 15:39:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-07-31 15:39:56",
       "album": {
-        "name": "WIND AND WISH",
-        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Wind And Wish",
-      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-07-31 15:39:56",
-      "album": {
         "name": "LALALAY",
         "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 174880,
       "name": "LALALAY",
       "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
+    },
+    {
+      "added_at": "2023-07-31 15:39:56",
+      "album": {
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
     },
     {
       "added_at": "2023-07-31 15:39:56",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-07-31 15:39:56",
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
-    },
-    {
-      "added_at": "2023-07-31 15:39:56",
-      "album": {
         "name": "BLUE MOON",
         "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 168986,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8"
+    },
+    {
+      "added_at": "2023-07-31 15:39:56",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     },
     {
       "added_at": "2023-07-31 15:39:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,409 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,532 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
 | 50 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
 
-Snapshot ID: `MCwxM2RhNDc1MDlhM2JjNzE1OWMzMzU4OGVhY2JmNWNlMjdjMzYwNTIz`
+Snapshot ID: `MCw5NTg5ZDEwMjQwYjI1YjI1MzQ2NjIxNGYyZDA0MmIyODdjODIzNGFi`

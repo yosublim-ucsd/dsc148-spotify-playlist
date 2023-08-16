@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. \u2728 Cover: Alvaro Diaz & RaiNao",
-  "num_followers": 764631,
+  "num_followers": 764606,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBmODdkYTZiM2MyZTZkM2U0YzFlODMyOWZjNDdiOTRmNTliNzI0",
+  "snapshot_id": "MCw0M2IzYTNjNTRlNmZiMGYxMGQ5MzM1NGQ3Y2U4NzQwYWE1OWJjZWU4",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 165909,
       "name": "Siempre tengo sue\u00f1o",
       "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 259186,
       "name": "cuando me pides m\u00e1s",
       "url": "https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Rojo Rub\u00ed (Rompiendo La Cadera)",
-        "url": "https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Rojo Rub\u00ed (Rompiendo La Cadera)",
+        "url": "https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "No Way I Wake Up (Without You)",
-        "url": "https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c"
+        "name": "\u00bfPara d\u00f3nde vamos?",
+        "url": "https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL"
       },
       "artists": [
         {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
         },
         {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ"
+          "name": "Andrik",
+          "url": "https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp"
         }
       ],
-      "duration_ms": 195451,
-      "name": "No Way I Wake Up (Without You)",
-      "url": "https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1"
+      "duration_ms": 214000,
+      "name": "\u00bfPara d\u00f3nde vamos?",
+      "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "\u00bfPara d\u00f3nde vamos?",
-        "url": "https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL"
+        "name": "No Way I Wake Up (Without You)",
+        "url": "https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c"
       },
       "artists": [
         {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
         },
         {
-          "name": "Andrik",
-          "url": "https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp"
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "\u00bfPara d\u00f3nde vamos?",
-      "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
+      "duration_ms": 195451,
+      "name": "No Way I Wake Up (Without You)",
+      "url": "https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1"
     }
   ],
   "unique_name": "Mixto",

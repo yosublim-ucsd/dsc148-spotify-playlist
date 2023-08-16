@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 64402,
+  "num_followers": 64434,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGQ3Y2NiZmUwM2RhMjdiNzcwMWNiNzY1YWQ1YzNkOTA2YjMwNDE3",
+  "snapshot_id": "MCw2MDc1OTM4YWYxYzdjZjg0YmUxYTM3MzA0N2E4NDVmMWVkODYzNmYz",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
         }
       ],
-      "duration_ms": 256625,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
+      "duration_ms": 279474,
+      "name": "Ya No Creo en Ti",
+      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -612,25 +612,9 @@
           "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
         }
       ],
-      "duration_ms": 279474,
-      "name": "Ya No Creo en Ti",
-      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "!Ultramerengue!",
-        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
-      },
-      "artists": [
-        {
-          "name": "Francisco Ulloa",
-          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Canto de Hacha",
-      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
+      "duration_ms": 256625,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -651,6 +635,22 @@
       "duration_ms": 267493,
       "name": "La Torera",
       "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "!Ultramerengue!",
+        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
+      },
+      "artists": [
+        {
+          "name": "Francisco Ulloa",
+          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Canto de Hacha",
+      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 2",
-        "url": "https://open.spotify.com/album/3VPf3UdypqpvsZRNQTOc9C"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
-        }
-      ],
-      "duration_ms": 333693,
-      "name": "La cuestion",
-      "url": "https://open.spotify.com/track/1QRceT6AZos2f9gbhl9cy3"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "60 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "El Consejo a Las Mujeres",
-        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
+        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 2",
+        "url": "https://open.spotify.com/album/3VPf3UdypqpvsZRNQTOc9C"
       },
       "artists": [
         {
-          "name": "Blas Duran & Los Peluches",
-          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Consejo a las Mujeres",
-      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
+      "duration_ms": 333693,
+      "name": "La cuestion",
+      "url": "https://open.spotify.com/track/1QRceT6AZos2f9gbhl9cy3"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -815,6 +799,22 @@
       "duration_ms": 305773,
       "name": "Tipico Caliente",
       "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "El Consejo a Las Mujeres",
+        "url": "https://open.spotify.com/album/6NaONUmS8MxCbzCD6fqyd7"
+      },
+      "artists": [
+        {
+          "name": "Blas Duran & Los Peluches",
+          "url": "https://open.spotify.com/artist/6jFSCQZgMqVX3kxScYXyvG"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Consejo a las Mujeres",
+      "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
     },
     {
       "added_at": "2019-09-09 17:49:24",

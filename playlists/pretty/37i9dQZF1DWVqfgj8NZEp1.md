@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,486,763 likes - 132 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,486,949 likes - 132 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 77 | [Soultrane](https://open.spotify.com/track/6Flb140dcVJ0VyZeCAmakB) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:29 |
 | 78 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 |
 | 79 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 |
-| 80 | [Spartacus](https://open.spotify.com/track/2VYOP02BB6lZOfm1aF4S6T) | [Gary Peacock Trio](https://open.spotify.com/artist/3x3wpBVXR29ssNgLtE6SCs) | [Tangents](https://open.spotify.com/album/4of33qsJ6rIANjenkbHill) | 5:10 |
-| 81 | [The Peacocks \- Single Edit](https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb) | [John Engels](https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [The Peacocks](https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd) | 3:09 |
-| 82 | [Polka Dots and Moonbeams](https://open.spotify.com/track/283h1iiG7BVoKvTVAr5bSc) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:29 |
-| 83 | [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 |
-| 84 | [Little Girl Blue](https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 1](https://open.spotify.com/album/3uF0eDO6FcdBSJcR4wdwms) | 7:17 |
-| 85 | [Silk Threads](https://open.spotify.com/track/06saP1KfOa0j93jO8XnCUT) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:34 |
-| 86 | [The Silence of Your Heart](https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E) | [Tempo Di Chet](https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL) | 4:21 |
+| 80 | [The Peacocks \- Single Edit](https://open.spotify.com/track/6axejDXkOwDHgp7HMwWNXb) | [John Engels](https://open.spotify.com/artist/1TM3URtJJzkpQkF4Oxn0ce), [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Joris Teepe](https://open.spotify.com/artist/6O2Rqtez6yYTnUjW7804Nz) | [The Peacocks](https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd) | 3:09 |
+| 81 | [Polka Dots and Moonbeams](https://open.spotify.com/track/283h1iiG7BVoKvTVAr5bSc) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:29 |
+| 82 | [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 |
+| 83 | [Little Girl Blue](https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 1](https://open.spotify.com/album/3uF0eDO6FcdBSJcR4wdwms) | 7:17 |
+| 84 | [Silk Threads](https://open.spotify.com/track/06saP1KfOa0j93jO8XnCUT) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:34 |
+| 85 | [The Silence of Your Heart](https://open.spotify.com/track/4oU07qd2sv9NxW61Op66Jh) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E) | [Tempo Di Chet](https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL) | 4:21 |
+| 86 | [Spartacus](https://open.spotify.com/track/2VYOP02BB6lZOfm1aF4S6T) | [Gary Peacock Trio](https://open.spotify.com/artist/3x3wpBVXR29ssNgLtE6SCs) | [Tangents](https://open.spotify.com/album/4of33qsJ6rIANjenkbHill) | 5:10 |
 | 87 | [My Ideal](https://open.spotify.com/track/2LfXUjO4fzzG4Zp0CkATQs) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 3:39 |
 | 88 | [Body and Soul](https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Konarski & Standards](https://open.spotify.com/album/2dj69o8yltikLhY0a0afam) | 6:11 |
 | 89 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 131 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 132 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MCw1MmI0ZmI2NDVkYTg1MjMzZWUyOWFmYmU1ZDI0MDQ4ZWIxNDdjN2Fl`
+Snapshot ID: `MCxmOWRkYmI5NjkzMjQwYjc1MDdmNmE1MTI3Zjg4Mzg4NjkzNDY2YTJj`

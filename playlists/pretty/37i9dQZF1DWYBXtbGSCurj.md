@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Budah
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,331 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,406 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 10 | [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 |
 | 11 | [Memória](https://open.spotify.com/track/2C8WT7zLMLEvHV3QzuXwXy) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Memória](https://open.spotify.com/album/5bSs0TxVHidQunHZr6D3TD) | 2:15 |
 | 12 | [Vizão de Cria 3](https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vizão de Cria 3](https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l) | 5:24 |
-| 13 | [Pilhas e Pilhas](https://open.spotify.com/track/66kSrVLfGr7dCO3bTxSYWp) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Pilhas e Pilhas](https://open.spotify.com/album/4kty4VLJ2vScVgGjIEVnfW) | 2:00 |
+| 13 | [Pilhas e Pilhas](https://open.spotify.com/track/66kSrVLfGr7dCO3bTxSYWp) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Pilhas e Pilhas](https://open.spotify.com/album/4kty4VLJ2vScVgGjIEVnfW) | 2:00 |
 | 14 | [Hoje Tem Baile](https://open.spotify.com/track/0MSaltm7kJNJ08cJLV4HJp) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Hoje Tem Baile](https://open.spotify.com/album/318Zwi6JnkpzPwhaKzvW2z) | 3:58 |
 | 15 | [Última Coisa](https://open.spotify.com/track/7LNOsASVhU3pO6WlmNjt26) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Neconbeat](https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu) | [O Mais Novo Romântico](https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj) | 2:50 |
 | 16 | [Alma](https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Alma](https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9) | 3:36 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 74 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 
-Snapshot ID: `MCxiZjM2NDBiNjE2MzU5YmYyYjc5NTI3ZmVhOGIwYzQxNDg4NDI1ZjNi`
+Snapshot ID: `MCxhNWJjM2U3YjgwYWM4YmE1OTZkN2RkNmNjMDU3MTdjNjhhNDFjOTA5`

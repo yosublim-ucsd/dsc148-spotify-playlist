@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: JEON SOMI",
-  "num_followers": 132301,
+  "num_followers": 132372,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2QyODM5MTg3MjY1ODBkNDFhYTI5ZjFlOTZhOWEyZmYyYTc5ZDBl",
+  "snapshot_id": "MCxhYjAwY2U5YjJiYjRmY2U5ZjBmYzU5OGMwYTE1NDUxMDViMjZlOWI1",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -736,12 +736,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        },
-        {
           "name": "Em Beihold",
           "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
       "duration_ms": 155076,

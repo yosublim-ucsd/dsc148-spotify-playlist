@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,917 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,968 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Stones](https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt) | [Shame Gang](https://open.spotify.com/artist/3lERpk1kWnCnrau3vcC8MA), [Sonny Miles](https://open.spotify.com/artist/5H9W2VTCkxdGYTgkTbZM6J) | [Better Late Than Never](https://open.spotify.com/album/03G2w5Yq1wbXkRslJutzYB) | 3:45 |
 | 75 | [Didn't They Know](https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI) | [A7 Celeb](https://open.spotify.com/artist/7nJcO36kKeP8wjrpJLLBd7), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Didn't They Know](https://open.spotify.com/album/1y9FfvkOU2YHOJ5TdVMNsT) | 3:56 |
 
-Snapshot ID: `MCxlZTIxMjllZTQ1YzdhMmQ1M2Y5ZjIzNjgyMzkwMmE2NDEzNGJlNWM0`
+Snapshot ID: `MCxmNjE3OThjZGU0NzIwOTQ5MDA4MTQ3NjdkMDEwNDdlNDI5ZWRhZmUx`

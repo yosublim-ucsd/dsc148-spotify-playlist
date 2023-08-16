@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Herencia de Patrones, Gera MX & Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,205 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,362 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 81 | [LA Dank](https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [LA Dank](https://open.spotify.com/album/0TRaJBVbMxyxbI5TkDvX88) | 2:27 |
 | 82 | [En La Lumbre \- En Vivo](https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [En La Lumbre \(En Vivo\)](https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM) | 2:42 |
 | 83 | [Pateando El Bote](https://open.spotify.com/track/6t3PjoEUPfZGzw1yHQCwTr) | [Jose Gomez](https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Pateando El Bote](https://open.spotify.com/album/3WpZ9itqu22gESDv2KXXVR) | 2:57 |
-| 84 | [El Mero Mero](https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [El Mero Mero](https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd) | 3:10 |
+| 84 | [Ya Soy Otro](https://open.spotify.com/track/3OMEb3fQw9jFvAQzOpWV5t) | [Blood G](https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ya Soy Otro](https://open.spotify.com/album/0WCPf1QaFBcigzFUJ9iWuB) | 3:16 |
 | 85 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
-| 86 | [Ya Soy Otro](https://open.spotify.com/track/3OMEb3fQw9jFvAQzOpWV5t) | [Blood G](https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ya Soy Otro](https://open.spotify.com/album/0WCPf1QaFBcigzFUJ9iWuB) | 3:16 |
+| 86 | [El Mero Mero](https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [El Mero Mero](https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd) | 3:10 |
 | 87 | [La Reina Del Condado](https://open.spotify.com/track/0UzgGknQoXDbSmwAfsvqDN) | [Jose Gomez](https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB) | [La Reina Del Condado](https://open.spotify.com/album/1GAYzF6ub76uaNaW8srhAI) | 2:29 |
 | 88 | [CARNAL](https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:54 |
 | 89 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 95 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 |
 | 96 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 
-Snapshot ID: `MCwyZDQ3OGMyMDU0OGU5YTYyMjYzZWFiNjczNWY1M2Y4ZmNiNzljM2Qy`
+Snapshot ID: `MCw4NGMxM2Q2Y2IwODNiNmFhYjcxNWQ1ZDI2NmI0Nzg3NzA4YzU2ZGU3`

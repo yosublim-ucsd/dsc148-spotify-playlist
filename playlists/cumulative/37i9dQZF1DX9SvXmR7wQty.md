@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Evelyne Brochu
 
-1,979 songs - 4 day 9 hr 43 min
+1,980 songs - 4 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
-| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 | 2023-08-16 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -567,7 +567,7 @@
 | [Equilibre](https://open.spotify.com/track/6Pbpxnggnmnqf6ZLt9jQOa) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Ali](https://open.spotify.com/artist/3mGNF0avcgm8aDyN2GexLC) | [NAUTILUS](https://open.spotify.com/album/5WdmtTa8KU8Rq8ZPGD5XXH) | 3:40 | 2022-03-25 | 2022-04-09 |
 | [Es\-tu prête](https://open.spotify.com/track/76CfecqLieILwUiABOrGQv) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/5Smc7egcDfbXo06o1nqFXz) | 3:07 | 2022-02-04 | 2022-02-12 |
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-03-10 | 2023-03-25 |
-| [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 | 2023-08-11 |  |
+| [Espoir](https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Souvenirs](https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi) | 2:54 | 2023-08-11 |  |
 | [Esprit libre](https://open.spotify.com/track/0cJKxZzWTN36amL9JpcJfg) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Esprit libre](https://open.spotify.com/album/0cZqzT4qVvLp1GinzEe6Bh) | 3:16 | 2023-01-13 | 2023-01-28 |
 | [Esprit méfiant](https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8) | [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Esprit méfiant](https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo) | 2:39 | 2022-05-13 | 2022-05-28 |
 | [Et si ?](https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Et si ?](https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f) | 3:01 | 2023-06-23 | 2023-07-26 |
@@ -1751,6 +1751,7 @@
 | [Tes mots couverture](https://open.spotify.com/track/5raETuowQmDMYsQCjRyrbP) | [Charles Robert](https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h) | [Tes mots couverture](https://open.spotify.com/album/6o93nVkzc6wEpa6QtemMDW) | 3:00 | 2022-10-14 | 2022-10-22 |
 | [Tesla](https://open.spotify.com/track/7otxwfnQNK7AVjZDUJ57oz) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Tesla](https://open.spotify.com/album/6EPkFhN9Ra53xHlXyLI1tU) | 2:34 | 2022-10-07 | 2022-10-22 |
 | [Tesla](https://open.spotify.com/track/5bqzsDmsMuu3zNMHdq2Kie) | [Valmont](https://open.spotify.com/artist/5X9jWrjU2FVZG26e6LjJTn), [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tesla](https://open.spotify.com/album/5R9FCr5wLHP9nKushVGfOY) | 2:48 | 2021-12-31 | 2022-01-22 |
+| [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 | 2023-08-11 |  |
 | [thank u no welcome](https://open.spotify.com/track/0JsDe196oE4rKFWxOxVzeN) | [Blaiso](https://open.spotify.com/artist/0fXNEQVmLbQsocasjVJKO9) | [S E N T I M E N T A L](https://open.spotify.com/album/1up0l3gddQwDtqGmmWAukl) | 2:17 | 2022-03-04 | 2022-03-12 |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-18 | 2022-12-10 |
 | [Therapie Du Binks](https://open.spotify.com/track/338K3TO2gH7UMy26utR9L3) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Therapie Du Binks](https://open.spotify.com/album/5CBVRsESIMa0Ln4wgLebvQ) | 3:01 | 2022-10-14 | 2022-10-22 |

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-484 songs - 1 day 4 hr 40 min
+485 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Autorretrato en Blanco \- Versión Lofi](https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Autorretrato en Blanco \- Versión Lofi](https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY) | 3:52 | 2022-10-28 | 2023-08-07 |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 |  |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-06-03 | 2023-02-05 |
+| [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 |  |
 | [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 |  |
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
 | [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 | 2023-07-06 |
@@ -118,7 +119,7 @@
 | [Dominó](https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:33 | 2023-04-21 | 2023-05-01 |
 | [Dos Extraños](https://open.spotify.com/track/17yXvD0RNnQ9HY9Fqi16KW) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquin Vitola](https://open.spotify.com/artist/6AVOBzrRdAIHk63HPUsrWF) | [El Elogio de la Sombra](https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Dos Extraños](https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [El Elogio de la Sombra](https://open.spotify.com/album/13S2Q6iGiVAyCXP28hTTZ1) | 2:52 | 2022-07-15 | 2022-10-31 |
-| [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 | 2022-07-15 |  |
+| [Egnaro](https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV) | [Los Valses](https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47) | [Egnaro](https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ) | 3:07 | 2022-07-15 | 2023-08-16 |
 | [El Acto](https://open.spotify.com/track/6WQrjWaTSok6YUxysG9WUQ) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [El Acto](https://open.spotify.com/album/4d1dGEGCKCc2WcREKHU5Wx) | 3:44 | 2022-07-15 | 2023-06-24 |
 | [El Año Pasado](https://open.spotify.com/track/6ZI3xXHtM4zHcUjLw890uT) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Año Pasado](https://open.spotify.com/album/6Slw89lUaL9yjwRLahp8yF) | 3:30 | 2022-07-01 | 2022-07-28 |
 | [El Beso](https://open.spotify.com/track/638RCwvucTFj33BeWrHXVF) | [De Trueno](https://open.spotify.com/artist/6QPxvCeqJ4kJ12x5VAtscJ) | [El Beso](https://open.spotify.com/album/3GGkEkURaOYMY6njqqG5Rv) | 3:29 | 2022-07-01 | 2022-08-23 |

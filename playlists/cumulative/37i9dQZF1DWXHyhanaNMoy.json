@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 154282,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/14t79dNM4I9oyIX69BtWLe"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 167573,
       "name": "Djo",
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
@@ -4244,7 +4244,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 120309,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/6ZQ8Fh1qXoOYW6FwXrZ7bP"
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 142975,
       "name": "Mulala",
       "url": "https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH"
@@ -10626,7 +10626,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 127726,
       "name": "Pussy Fit",
       "url": "https://open.spotify.com/track/6Bks4z7g1KpbGsTKkT2AAY"
@@ -11350,7 +11350,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 180734,
       "name": "SHOW LEVEL",
       "url": "https://open.spotify.com/track/70zjxnzPf4kwqVUhWsr5N9"
@@ -11456,7 +11456,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 97906,
       "name": "Slapen Jij",
       "url": "https://open.spotify.com/track/3qOeRiVgIAMQMI8QU1JOfk"
@@ -12476,7 +12476,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
@@ -12618,7 +12618,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 160008,
       "name": "Toeng Toeng",
       "url": "https://open.spotify.com/track/1xwarEzNGWgd7JjEEIwbQF"
@@ -12798,6 +12798,24 @@
       "duration_ms": 180000,
       "name": "Tricks",
       "url": "https://open.spotify.com/track/2xgL1NT5nk0zw6chUtWH9x"
+    },
+    {
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "album": {
@@ -13204,6 +13222,24 @@
       "duration_ms": 381341,
       "name": "Velletjes - Latin Remix",
       "url": "https://open.spotify.com/track/1ZOSXQJ8lZzFCTnh7RlVzv"
+    },
+    {
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
     },
     {
       "album": {

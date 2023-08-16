@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8583,
+  "num_followers": 8581,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY0OGVlNGU0MTEzNGM0YjJkNmZjYjFkN2VkMWQ4ZDM2ZjdlOWZm",
+  "snapshot_id": "MCwzODllNWFmMThjZmIxZDNjM2U3NzRlZGIwMzBhYWIxZDFlNDQ0ZmJl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
-      },
-      "artists": [
-        {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
-        }
-      ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "You Look so Good",
         "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 170728,
       "name": "You Look so Good",
       "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
+      },
+      "artists": [
+        {
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+        }
+      ],
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "K I'm Mortal",
         "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220253,
       "name": "K I'm Mortal",
       "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2023-06-30 23:59:00",

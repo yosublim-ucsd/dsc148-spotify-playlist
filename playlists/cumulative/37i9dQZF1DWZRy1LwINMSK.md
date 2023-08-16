@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-170 songs - 9 hr 13 min
+171 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Mbappe](https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO) | [Poison Kid](https://open.spotify.com/artist/5gdLCbByMUjFLhbOj8NC14) | [Mbappe](https://open.spotify.com/album/4RE6vtGPolcMBrocUcdcoK) | 2:15 | 2022-03-11 | 2022-05-28 |
 | [Me Quieren Ver Mal](https://open.spotify.com/track/2w0oJX9IAyLmpf07d2KmF3) | [5 Estrellas](https://open.spotify.com/artist/28fYQygn5mudpIdMRBpJgO), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [BlackRoy](https://open.spotify.com/artist/7dHiLDmaaoJ7XwEqWCcIah), [Claps](https://open.spotify.com/artist/4LvpFsMRq1A6yGVD7D2X6c) | [Me Quieren Ver Mal](https://open.spotify.com/album/31sabNmRapJ0J6HZNCIucU) | 5:18 | 2022-01-20 | 2023-07-08 |
 | [Me Quiero Lanzar \- Remix](https://open.spotify.com/track/1z7dwR3FaSPhbSuIwSuTXX) | [Nacion Triizy](https://open.spotify.com/artist/1CyD1Oj8R2nR5f27cV1q1J), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [Chocolate Blanco](https://open.spotify.com/artist/4ARN4DVH7hoHQvie0zptff), [Fusok](https://open.spotify.com/artist/7eCRGFriuw87zy6evjErXh) | [Me Quiero Lanzar \(Remix\)](https://open.spotify.com/album/06kzh1Vgvy6pWUDdJZd9ol) | 4:34 | 2022-01-20 | 2023-07-01 |
-| [Mi Bruja](https://open.spotify.com/track/0IsCKyajDh4QkLWqmRJdOJ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/70HhZWcReCkPA1UQQkBkM7) | 2:37 | 2023-06-30 |  |
+| [Mi Bruja](https://open.spotify.com/track/0IsCKyajDh4QkLWqmRJdOJ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/70HhZWcReCkPA1UQQkBkM7) | 2:37 | 2023-06-30 | 2023-08-16 |
+| [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 | 2023-08-11 |  |
 | [Mi Familia](https://open.spotify.com/track/2PSLe2JZ3UqlOUuhqeGdUB) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Mi Familia](https://open.spotify.com/album/2dAw9EtjsBYHnexfxDRvSe) | 4:16 | 2022-01-20 | 2022-05-28 |
 | [Mi Lace](https://open.spotify.com/track/6QPD87QFre59LPBDQeSIla) | [Foreign](https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Mi Lace](https://open.spotify.com/album/49bQ8Si9elpBerx5ZUqa5R) | 2:57 | 2022-04-29 | 2022-05-28 |
 | [Mi Trap](https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Mi Trap](https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ) | 3:52 | 2022-01-20 |  |

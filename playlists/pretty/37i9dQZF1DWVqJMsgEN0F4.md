@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Paramore along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,072 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,209 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 65 | [NYE](https://open.spotify.com/track/187xDDU8WnqZVXm3oQVYPc) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:10 |
 | 66 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 
-Snapshot ID: `MCw2NDg5ODc1YWI0NzZjYzU1MzVjNzg4ODM4MzE2MjlmZTQ0NDZkMWM5`
+Snapshot ID: `MCw4NzMzNDE1ZDVlYzczNGFmYTEyNTZmYzVjMGEwMDA1ODcxNDliMTYy`

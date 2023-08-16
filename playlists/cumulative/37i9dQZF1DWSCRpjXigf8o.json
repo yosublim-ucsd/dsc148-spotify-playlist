@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 212052,
       "name": "A Strange Kind Of Beautiful",
       "url": "https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 259713,
       "name": "BETTY",
       "url": "https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 246735,
       "name": "Fire On Fire - From \"Watership Down\"",
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/0HTFMinf7xWQtmfP7abwVD"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329437,
+      "name": "I'm Still",
+      "url": "https://open.spotify.com/track/24zGCRo8XIpi5Qdi987i2K"
+    },
+    {
+      "album": {
         "name": "All Of This Is Chance",
         "url": "https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 211149,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 201186,
       "name": "Koikogare",
       "url": "https://open.spotify.com/track/03hPAKNaAJ8RdY5G8zS0Ex"
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
@@ -4535,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "So You Are Tired",
+        "url": "https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 205008,
       "name": "Sunny And Warm",
       "url": "https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l"
@@ -5468,7 +5504,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 216864,
       "name": "Walked Through Hell",
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
@@ -5956,7 +5992,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 264938,
       "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
       "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
@@ -6490,7 +6526,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 227900,
       "name": "\u76ee\u9192\u3081\u306f\u5408\u308f\u305b\u93e1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4d5CiAGnqKfFVgxLBiefTh"
@@ -6616,7 +6652,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 309348,
       "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"

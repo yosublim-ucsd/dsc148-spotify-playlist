@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Emotional Oranges
 
-490 songs - 1 day 2 hr 29 min
+491 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2023-04-01 |
 | [Far \(feat\. Jeff Satur\)](https://open.spotify.com/track/3b8x0Bu8Pxwze3op9EwTk2) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [SILVY](https://open.spotify.com/album/5zrYYANUrm08iTwPGKTlx1) | 3:12 | 2022-10-13 | 2023-02-24 |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-16 | 2023-04-01 |
-| [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 | 2022-11-03 |  |
+| [Feathers](https://open.spotify.com/track/0songFawjueXwCUJuyztrp) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/6GqPpaE8is0mHms5v3uF1S) | 3:55 | 2023-08-10 |  |
+| [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 | 2022-11-03 | 2023-08-16 |
 | [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-31 | 2023-07-14 |
 | [Feel Sexy](https://open.spotify.com/track/4e9JNO99eTBksvz3JtUXKg) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Ghetto Feng Shui](https://open.spotify.com/album/2DuEtKgGq0sqRfZk7ttqJW) | 3:28 | 2022-11-10 | 2022-12-17 |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-28 | 2022-11-11 |

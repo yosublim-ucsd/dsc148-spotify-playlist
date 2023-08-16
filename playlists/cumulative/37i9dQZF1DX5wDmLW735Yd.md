@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives
 
-437 songs - 1 day 4 hr 9 min
+438 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-04-08 | 2022-07-23 |
 | [Censor \(feat\. Popcaan & IRAH\)](https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:36 | 2022-06-10 | 2023-02-04 |
 | [Change](https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza) | [Linguistics](https://open.spotify.com/artist/5ez11adLi95kAPuxh0RefJ), [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ), [Blind Mic](https://open.spotify.com/artist/7yCdWDEm9XhixEPUKPnB75) | [Change](https://open.spotify.com/album/0BLrz7WuXQF3U3FvXkdwXE) | 3:46 | 2022-04-22 | 2022-07-14 |
+| [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 | 2023-08-10 |  |
 | [Chase The Sun](https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Chase The Sun](https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc) | 3:09 | 2023-07-27 |  |
 | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/track/6XxH22AeVCpz1vhwOYi5Sh) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA) | [Chasing Highs \(Slow Motion\)](https://open.spotify.com/album/4Uw2ZLhaRbwkeTVr0hCMpc) | 2:26 | 2022-12-02 |  |
 | [CHERRY](https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [CHERRY](https://open.spotify.com/album/5lARKxTOtIr1ZquSfhrzyW) | 2:37 | 2022-04-22 | 2022-06-15 |
@@ -206,7 +207,7 @@
 | [Keep Dancing](https://open.spotify.com/track/2z7HtGikWAn4OLkDb0UH63) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Keep Dancing](https://open.spotify.com/album/10NPP5FSQqBWpindm8P5FL) | 3:40 | 2022-04-08 | 2023-07-10 |
 | [Keep Up](https://open.spotify.com/track/1tBDA0pRMz4YZ0vialUuBS) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [SP:MC](https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2) | [Keep Up](https://open.spotify.com/album/5qr55cE8aHiPVwlAzh0Sdn) | 4:27 | 2022-04-08 | 2022-05-24 |
 | [Kill Switch](https://open.spotify.com/track/1a9fl0VjCFqOmJHvlRyDEw) | [T>I](https://open.spotify.com/artist/0MDSr2KF63ydZmcqIvSPR3), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Kill Switch](https://open.spotify.com/album/1v2BE1IeMvFrTwb0SO2QCc) | 3:44 | 2022-04-08 | 2022-04-21 |
-| [Killer](https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Killer](https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx) | 3:40 | 2023-03-24 |  |
+| [Killer](https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Killer](https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx) | 3:40 | 2023-03-24 | 2023-08-16 |
 | [Kiss Kiss Bang Bang \- Bou Remix](https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Kiss Kiss Bang Bang \(Bou Remix\)](https://open.spotify.com/album/5zUJMySBMqtPJYOkOW21xA) | 4:50 | 2022-04-08 | 2022-07-24 |
 | [Know What It Means](https://open.spotify.com/track/0RQuLXr0cWjAombfMjdvc3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/3IexPXzS8noVX2EpbQx5Ds) | 2:40 | 2022-12-17 | 2023-04-21 |
 | [Know What It Means](https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d) | 2:40 | 2023-07-06 |  |

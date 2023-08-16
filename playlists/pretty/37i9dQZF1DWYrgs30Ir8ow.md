@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Niklas Dee, Old Jim, Enny\-Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,944 likes - 41 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,977 likes - 41 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 40 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 | 41 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 
-Snapshot ID: `MCxhNDNmZDM3NjdjY2JkZjgyNjgzMmRmN2VjY2Y5ZmU0NGUyOTc5Zjc1`
+Snapshot ID: `MCxlYTg2Mzg4NGNjN2Q0ZmM3OGJhOGU2N2FlODc4NGVkOGVmM2MxMzA5`

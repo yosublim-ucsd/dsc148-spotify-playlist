@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-376 songs - 22 hr 40 min
+378 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 | 2020-12-18 | 2023-02-19 |
 | [Deconstruction](https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Deconstruction](https://open.spotify.com/album/2GgbtY9mlWdhEoWctT1Qva) | 4:27 | 2020-12-18 | 2022-07-04 |
 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 | 2023-04-07 |  |
-| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 |  |
+| [Demons](https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Demons](https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4) | 3:09 | 2023-03-10 | 2023-08-16 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-08-04 |  |
 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 | 2020-12-18 | 2023-02-19 |
 | [DNA](https://open.spotify.com/track/5EvEHYLKLso3cR4PVAbSwz) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [DNA](https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ) | 3:49 | 2020-12-18 | 2022-07-23 |
@@ -204,7 +204,7 @@
 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 | 2023-02-19 | 2023-08-06 |
 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 | 2023-02-19 |  |
 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 | 2023-02-19 |  |
-| [Mansion](https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Mansion](https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm) | 3:51 | 2023-04-07 |  |
+| [Mansion](https://open.spotify.com/track/4hGS6gPDtD3mdlxtJ0CDSw) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Mansion](https://open.spotify.com/album/2X1JUJkZbB7up0IanA7uDm) | 3:51 | 2023-04-07 | 2023-08-16 |
 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 | 2023-08-04 |  |
 | [Marvelous](https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Marvelous](https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt) | 2:22 | 2023-08-04 |  |
 | [Matthew 6](https://open.spotify.com/track/2Xn77ApeyV9sNm9G4ClFtr) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Matthew 6](https://open.spotify.com/album/24LgMcnQq9oEc5aRH81tds) | 4:21 | 2023-08-04 |  |
@@ -220,6 +220,7 @@
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 | 2023-08-05 |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
 | [Names \- Acoustic](https://open.spotify.com/track/2dnEcb10peK8kQeGa69Zvv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 6:09 | 2023-02-24 | 2023-08-12 |
+| [Narrow Road](https://open.spotify.com/track/3XnfmwxGymQEgSf1LwTtOL) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Narrow Road](https://open.spotify.com/album/3gJsn1gdzltI2GDXkuLb0s) | 4:04 | 2023-08-11 |  |
 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2023-02-19 |  |
 | [Needed](https://open.spotify.com/track/7uUYwH6moimJ0iQmHVW9Jq) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Needed](https://open.spotify.com/album/17hveC08PQdEHxFQRTMsOd) | 2:55 | 2023-02-20 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
@@ -263,6 +264,7 @@
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 | 2023-02-19 |
 | [Remedy](https://open.spotify.com/track/0hJZ9B9GpjIa7QT1AVWlOI) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Remedy](https://open.spotify.com/album/4u3rrpmyCCK5J5xKxgHGxl) | 2:04 | 2023-02-21 | 2023-04-09 |
 | [Remember This](https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Remember This](https://open.spotify.com/album/0JhbHC4SI9YSrpecbTYndw) | 4:47 | 2020-12-18 | 2022-07-29 |
+| [Restless](https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS) | [AOH Music](https://open.spotify.com/artist/1llt760POSmdKmBFiMaz3m) | [Restless](https://open.spotify.com/album/0VKz993ynbnahm4mZcSvO9) | 3:09 | 2023-08-11 |  |
 | [Revenant](https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG) | 5:07 | 2020-12-18 | 2022-07-18 |
 | [RICH](https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [RICH](https://open.spotify.com/album/5P1RmCAG4yB80keglreodA) | 2:42 | 2023-08-04 |  |
 | [Right With You](https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [In the Upper Room](https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC) | 2:46 | 2023-02-19 |  |

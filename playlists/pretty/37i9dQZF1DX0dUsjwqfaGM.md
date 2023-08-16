@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 61 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,231 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 |
-| 2 | [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [Mai Âm Nhạc](https://open.spotify.com/artist/4cuCzi4VvHHwwowu56Ejm5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 |
+| 2 | [Đố A Bít](https://open.spotify.com/track/1Z6o6fFPifrjcIuTPqpzeB) | [mai.](https://open.spotify.com/artist/0ZjWARY6nweIDw4pK6tnDc), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Đố A Bít](https://open.spotify.com/album/22qEQ7XZR1jpulVdJB0Kpw) | 2:15 |
 | 3 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Mạnh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 |
 | 4 | [The Sun](https://open.spotify.com/track/3b39uP6KnsHufr698HUL5T) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [The Sun](https://open.spotify.com/album/1Jvml0dIWxaI2N5CGpQa1G) | 3:53 |
 | 5 | [Cô Nàng Khác Người](https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Ngơ](https://open.spotify.com/artist/4RGBKkUyyvsim9vdBKCCkc), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Cô Nàng Khác Người](https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1) | 3:06 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 60 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
 | 61 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 
-Snapshot ID: `MCxiODBlMTA1MjkxOGZhYTlhN2ZmYzhlNjAwYmZmZmQxMGY5NDhlNjIx`
+Snapshot ID: `MCw2NWRiNTNjZjE1MWU3NmQ0NTAxYmEwNjgwZmU2YjJkMGNjMjFmMDZm`

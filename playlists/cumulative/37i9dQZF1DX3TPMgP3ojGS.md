@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,731 songs - 3 day 5 hr 37 min
+1,732 songs - 3 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-13 | 2022-07-28 |
 | [Ash of memory](https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Ash of memory](https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq) | 1:55 | 2023-08-08 |  |
 | [Ashokan](https://open.spotify.com/track/3wa8YzkpiHEhmcpiuiqUem) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Ashokan](https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF) | 1:57 | 2021-05-17 | 2021-05-18 |
+| [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 |  |
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2021-03-21 | 2022-04-12 |
 | [Asleep In My Arms](https://open.spotify.com/track/5dXsrIUsMriHUwxblFS7HZ) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Asleep In My Arms](https://open.spotify.com/album/2BdYZNl2zZS2Ho6qIxxpUO) | 2:07 | 2021-03-19 | 2021-05-21 |
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2021-03-21 | 2022-04-17 |
@@ -1355,7 +1356,7 @@
 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 | 2021-05-03 | 2022-07-19 |
 | [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 | 2021-04-30 | 2022-04-16 |
 | [Speck of Dust](https://open.spotify.com/track/0M7gRVPeVUAUDbS8N0kmdb) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Speck of Dust](https://open.spotify.com/album/3GnXsIXQPmCreqTC5l8ZZ0) | 4:07 | 2021-04-22 | 2021-12-20 |
-| [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-08-17 |  |
+| [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-08-17 | 2023-08-16 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-03-24 | 2022-08-22 |
 | [Spirit of the Hill](https://open.spotify.com/track/3Py9uoEHphIm11nxj3oC22) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 3:36 | 2021-03-11 | 2021-03-14 |
 | [Spore](https://open.spotify.com/track/1AhoOwNTxI5FEOsnMqNicv) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Shade](https://open.spotify.com/album/4puDeykYUL3hJjR6Ldsi3d) | 6:42 | 2022-03-19 | 2022-07-23 |

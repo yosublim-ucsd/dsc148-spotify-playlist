@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Sofía Valdés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,422 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,454 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Brillantina](https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Brillantina](https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl) | 3:27 |
 | 50 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
 
-Snapshot ID: `MCwzMWI4MTRkNWNiOTlhYmY1Njg1ZTQ4MjI3ODc1NWRmNjdkMTI2NWVj`
+Snapshot ID: `MCw2OGIxMjFkMjVjOWZmNzFmZDM2YmQzYzc5ZWRhNGQyNDMwOTAxODIw`

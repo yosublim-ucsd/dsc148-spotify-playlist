@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Jazmin Bean
 
-1,701 songs - 3 day 17 hr 22 min
+1,702 songs - 3 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [killing time](https://open.spotify.com/track/5RShGAYnwQ8Wxrkft4uOEX) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [killing time](https://open.spotify.com/album/3ejG2M4qiovk22WUuhkRAU) | 3:15 | 2022-02-25 | 2022-03-26 |
 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 | 2023-03-24 | 2023-05-13 |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2023-01-13 | 2023-01-28 |
+| [Knockin \- Single Version](https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin](https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN) | 3:23 | 2023-08-15 |  |
 | [Know It All](https://open.spotify.com/track/0a2q9yM5c6KjVbj3QFxBMD) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Know It All](https://open.spotify.com/album/0G6fuSQGZCqVwSPz1niLwY) | 2:52 | 2023-02-24 | 2023-03-25 |
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-01 |
 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-03-18 |
@@ -1235,7 +1236,7 @@
 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 | 2022-04-22 | 2022-07-16 |
 | [Rorschach](https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Rorschach](https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N) | 3:55 | 2023-06-09 | 2023-07-29 |
 | [Rosé Romance](https://open.spotify.com/track/4N2zLtF1wWp7JbDOK8TEmi) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Rosé Romance](https://open.spotify.com/album/70HSYkpceXM5kilOFuB6LL) | 2:45 | 2022-09-02 | 2022-10-15 |
-| [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-28 |  |
+| [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-28 | 2023-08-16 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-18 | 2022-03-18 |
 | [Run Baby Run](https://open.spotify.com/track/7g4Pmzoqr1dYbdZj25mHz7) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Run Baby Run](https://open.spotify.com/album/6qA77EG6bTeqbcGdQgq8V0) | 3:49 | 2023-03-31 | 2023-05-20 |
 | [run out of road](https://open.spotify.com/track/2H41hpV8aIukmItRY3A6Pp) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [run out of road](https://open.spotify.com/album/3CvZbS8OV3KNXF4Rihb3dq) | 2:25 | 2022-09-16 | 2022-10-15 |

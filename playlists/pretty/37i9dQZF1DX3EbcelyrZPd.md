@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mbosso
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,712 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,810 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Nihurumie](https://open.spotify.com/track/1SLVICOLKLKlkMf2v88TpO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nihurumie](https://open.spotify.com/album/6vtfyP6w25wF0dlQuMXb4k) | 2:59 |
 | 70 | [Bestfriend remix](https://open.spotify.com/track/2Q5xL6g75mPeBOMSNjGP8l) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn), [Belle 9](https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz) | [Bestfriend remix](https://open.spotify.com/album/5jz1VKY3KvSSqOs4QyVH7S) | 3:28 |
 
-Snapshot ID: `MCwzOTE5YzMxNmIyMmFhNGRiODc4NGFhMzA2ZDlhY2ZjZWZiYmZjZGU0`
+Snapshot ID: `MCxmNzllMWUxNDljMTFhOTU0M2M0Y2RjOGJjYjMzYjJjNjIyMmI2ODZk`

@@ -4869,6 +4869,24 @@
     },
     {
       "album": {
+        "name": "Shine Your Eye",
+        "url": "https://open.spotify.com/album/6fG3vEiH8iF4mdmCLBpB5U"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143569,
+      "name": "Shine Your Eye",
+      "url": "https://open.spotify.com/track/2Yln2fcUp5y3C1igJaPuWB"
+    },
+    {
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/0Vy9oEDqvIlQFovz7ozQA8"
       },

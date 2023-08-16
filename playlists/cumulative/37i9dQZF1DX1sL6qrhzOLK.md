@@ -4,7 +4,7 @@
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-36 songs - 2 hr 18 min
+38 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,11 @@
 | [Heart of Despair](https://open.spotify.com/track/7was9DGKU6THHCRIA5pEbZ) | [49 Morphines](https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW) | [Partial Eclipse](https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN) | 8:47 | 2023-07-06 |  |
 | [Hexagon](https://open.spotify.com/track/5lLWytmmISFbNfd2PJ0Q4j) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [HANA](https://open.spotify.com/album/5cYLKcquLbRmq2373tQJ8B) | 3:46 | 2023-07-06 |  |
 | [I Robbed a Bank](https://open.spotify.com/track/3eBQCl5y6oGPnAJ1yTGeMW) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [I Robbed a Bank](https://open.spotify.com/album/0Ml07bUAnZZ4T3utkN0lpl) | 2:50 | 2023-07-06 |  |
-| [Late Summer](https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 4:40 | 2023-07-06 |  |
+| [Late Summer](https://open.spotify.com/track/0ienAKret1Pd5rqqQUJS6j) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv) | 4:40 | 2023-07-06 |  |
+| [Late Summer](https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 4:40 | 2023-07-06 | 2023-08-16 |
 | [Lichen With Piano](https://open.spotify.com/track/0IQ0ugQ4qAO9aA33CBXwxu) | [Ametsub](https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz) | [The Nothings of The North](https://open.spotify.com/album/3Idut3J1biBvpPCoT6eSVj) | 5:41 | 2023-07-06 |  |
-| [Light](https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 5:32 | 2023-07-06 |  |
+| [Light](https://open.spotify.com/track/3vmhYKR2p23IoEfVrQg0iL) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv) | 5:32 | 2023-07-06 |  |
+| [Light](https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx) | [Bek Hyunjin](https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb) | [Light, Many](https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls) | 5:32 | 2023-07-06 | 2023-08-16 |
 | [Lilies of the Valley](https://open.spotify.com/track/5aTWayNDQOKjvOhq3rSwoS) | [Jun Miyake](https://open.spotify.com/artist/3a7hEDDgro56kvwVOfQ6nc) | [Lilies of the Valley](https://open.spotify.com/album/7rofHEWzcDWkFoS4fZg4Ot) | 5:29 | 2023-07-06 |  |
 | [Moment:](https://open.spotify.com/track/2jJgwdRGb0JnSTG8sn5GCb) | [노아윤](https://open.spotify.com/artist/0NNBggjhk6qjKo4N3GTYvk) | [Moment:](https://open.spotify.com/album/0U5XVpMvNcRCLG3UFJePgI) | 4:44 | 2023-07-06 |  |
 | [Muak, Tänzerische Fantasie für grosses Orchester \- 1978](https://open.spotify.com/track/02pii2e9kfAsYRtuuHy3X9) | [Isang Yun](https://open.spotify.com/artist/1Llzez777plMW31dzEyaxz), [Rundfunk\-Sinfonieorchester Saarbrücken](https://open.spotify.com/artist/5rS7KZ3kWgJENsXr19lAVz), [Hans Zender](https://open.spotify.com/artist/33AGvI9rf3CpKfFS6Rt8Er) | [Isang Yun: Muak \- Pièce concertante](https://open.spotify.com/album/4lrf4TsLFqljEzJBQBOHju) | 18:21 | 2023-07-06 |  |

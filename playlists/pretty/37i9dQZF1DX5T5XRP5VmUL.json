@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 133393,
+  "num_followers": 133382,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5",
+  "snapshot_id": "MCw3ZDAyMWY3ZjVjYTk0NmMwOWZlNmM3MjJhNWQ4YmY4ZTA5YzJiMjNk",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 146546,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 126300,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/3RumoLPCjQPosp5mPiBl2V"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Away In A Manger",
-      "url": "https://open.spotify.com/track/5eicQ92kEMYKjfpb7jWWlR"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "O Holy Night (feat. The Tenors)",
         "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 259397,
       "name": "O Holy Night (feat. The Tenors)",
       "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Our Christmas",
+        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "Our Christmas",
+      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Favorite Christmas Song",
         "url": "https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 145973,
       "name": "Bring Me Cheer",
       "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Our Christmas",
-        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Our Christmas",
-      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc"
-      },
-      "artists": [
-        {
-          "name": "Cassie Dasilva",
-          "url": "https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre"
-        }
-      ],
-      "duration_ms": 160807,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Christmas at Home",
         "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "They Don\u2019t Make Them Like That Anymore",
-        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/1CB5xYKAAtIYSjJs2Cj4Dc"
       },
       "artists": [
         {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+          "name": "Cassie Dasilva",
+          "url": "https://open.spotify.com/artist/4pbczoOebMX6nCbWP59fre"
         }
       ],
-      "duration_ms": 216320,
-      "name": "It Came Upon a Midnight Clear",
-      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
+      "duration_ms": 160807,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1459,6 +1443,22 @@
       "duration_ms": 236690,
       "name": "Slide On Christmas",
       "url": "https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "They Don\u2019t Make Them Like That Anymore",
+        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "It Came Upon a Midnight Clear",
+      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
+        "name": "It's Me & You (This Christmas)",
+        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
       },
       "artists": [
         {
-          "name": "Guy Lombardo & His Royal Canadians",
-          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
+          "name": "Elijah Woods x Jamie Fine",
+          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
         }
       ],
-      "duration_ms": 139840,
-      "name": "Rudolph the Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
+      "duration_ms": 148202,
+      "name": "It\u2019s Me & You (This Christmas)",
+      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "It's Me & You (This Christmas)",
-        "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
       },
       "artists": [
         {
-          "name": "Elijah Woods x Jamie Fine",
-          "url": "https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1"
+          "name": "Guy Lombardo & His Royal Canadians",
+          "url": "https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE"
         }
       ],
-      "duration_ms": 148202,
-      "name": "It\u2019s Me & You (This Christmas)",
-      "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
+      "duration_ms": 139840,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
+      },
+      "artists": [
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        }
+      ],
+      "duration_ms": 197229,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "A Celtic Family Christmas",
         "url": "https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 254572,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs"
-      },
-      "artists": [
-        {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
-        }
-      ],
-      "duration_ms": 197229,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Rockin\u2019 Around the Christmas Tree",
-        "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 120934,
-      "name": "Rockin\u2019 Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Christmas Cheers",
         "url": "https://open.spotify.com/album/4lwmyxolzVTUv5nRbBoFFn"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 217941,
       "name": "Christmas Cheers",
       "url": "https://open.spotify.com/track/2i9F4Tl8AH8NnXld2QjtLY"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Rockin\u2019 Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 120934,
+      "name": "Rockin\u2019 Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
     },
     {
       "added_at": "2022-12-16 16:34:09",

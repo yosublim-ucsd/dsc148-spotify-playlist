@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-355 songs - 23 hr 20 min
+356 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-08-27 | 2022-07-28 |
 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 | 2023-05-17 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-12-22 |  |
-| [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2020-12-22 |  |
+| [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2020-12-22 | 2023-08-16 |
 | [Taking Over](https://open.spotify.com/track/3uXle1XlLjIXh2LCPQ0hPa) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/2SltvftvL174qfJ9COX0ko) | 5:36 | 2020-12-22 | 2022-04-12 |
 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 | 2020-12-22 |  |
 | [Tell Me](https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6xwlnoaYeGHD7WqEHyeVMz) | 3:20 | 2020-12-22 | 2022-07-29 |
@@ -315,6 +315,7 @@
 | [The Trees](https://open.spotify.com/track/4q6OvSJnqxZZ3N13QRRzrX) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [North Coast](https://open.spotify.com/album/4LRkbvKAgFBh1DtKUXb9rV) | 4:42 | 2020-12-22 | 2022-08-14 |
 | [These Days](https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [These Days](https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa) | 3:53 | 2020-12-22 |  |
 | [These Days](https://open.spotify.com/track/4V5yUlL7t9DGErvIcD5bnw) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [These Days](https://open.spotify.com/album/0qIXlqFGn3opNxwgY5732H) | 3:53 | 2020-12-22 | 2022-07-21 |
+| [This Way](https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [How To Fly On The Ground](https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2) | 2:48 | 2023-08-11 |  |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2020-12-22 |  |
 | [tiger balm \(magenta\)](https://open.spotify.com/track/5IG2YzPdNdKVZsHnyYQ7Z6) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [i can't make up my mind / tiger balm \(magenta\)](https://open.spotify.com/album/0cuV8xQGofIrpAECFzz4TA) | 2:26 | 2022-03-01 | 2022-07-29 |
 | [Till Sunrise \(feat\. Mammals\)](https://open.spotify.com/track/1pnwoWbZcS77Dx0jQVYK8X) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Till Sunrise \(feat\. Mammals\)](https://open.spotify.com/album/0EDKcvwuKdPn4M2ICXG90w) | 4:06 | 2020-12-22 | 2022-04-21 |

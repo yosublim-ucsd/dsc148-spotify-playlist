@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring PLATANOS\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,677 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,681 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Universitario de Deportes](https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91) | [Almirante Ackbar](https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U) | [El Camino al Infierno Esta Lleno de Buenas Intenciones](https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj) | 1:56 |
 | 27 | [Fandango Frío](https://open.spotify.com/track/5yGJk7JAQfRAwCOsTQO21C) | [Anamaría Oramas](https://open.spotify.com/artist/44lOzk6pde1fCFa4zTQKsN), [Santiago Sandoval](https://open.spotify.com/artist/2YOId4xhJSesO3AAd0vSsl) | [Fandango Frío](https://open.spotify.com/album/4wwAcEEWUtA0XxfpOC6q75) | 6:03 |
 | 28 | [Solo x hoy](https://open.spotify.com/track/1nePDxpBtQDuPuWdO0pi5d) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [Solo x hoy](https://open.spotify.com/album/0fR8o1bg9r7afA9YoUdfT3) | 3:37 |
-| 29 | [Lolly](https://open.spotify.com/track/1STfIi35bWOQ3RcNtTkBeV) | [Juanpa Gordoa](https://open.spotify.com/artist/6H6tvSXI6mUyAXjQ6TG9Jd) | [Lolly](https://open.spotify.com/album/27SvvySALRrYem9KODKlPV) | 2:19 |
-| 30 | [Hola Senpai](https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Hola Senpai](https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4) | 1:50 |
+| 29 | [Hola Senpai](https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Hola Senpai](https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4) | 1:50 |
+| 30 | [Lolly](https://open.spotify.com/track/1STfIi35bWOQ3RcNtTkBeV) | [Juanpa Gordoa](https://open.spotify.com/artist/6H6tvSXI6mUyAXjQ6TG9Jd) | [Lolly](https://open.spotify.com/album/27SvvySALRrYem9KODKlPV) | 2:19 |
 | 31 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 |
 | 32 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
 | 33 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 43 | [Tu Calor](https://open.spotify.com/track/7e2qzW5a7WyUlOCoGBjGBj) | [Simon Savi](https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0) | [Tu Calor](https://open.spotify.com/album/5ZfgnIJgOp07g2uy8jTkUY) | 2:27 |
 | 44 | [Algún Día](https://open.spotify.com/track/3dFs0Q4fIVI8Xg4s7g3dRx) | [Sepia Brown](https://open.spotify.com/artist/1M8BeEJhZIq4m5G4vaXs0K) | [Algún Día](https://open.spotify.com/album/4Zw4jjmbIHKVix13PV6VhE) | 2:45 |
 | 45 | [Aurora Boreal](https://open.spotify.com/track/7wmsteFYFc8nXqtc0H6sPG) | [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Aurora Boreal](https://open.spotify.com/album/0XmcoS3AURx5gQQpOXdPkN) | 3:03 |
-| 46 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
-| 47 | [Black Mountain](https://open.spotify.com/track/3SiWyC1WB9mG93xFcmodf4) | [Brian Lopez](https://open.spotify.com/artist/76DfVm5okud2I5Az7YWvnV) | [TIDAL](https://open.spotify.com/album/5xrDyLwcef9mwvFRPsBCEL) | 3:33 |
+| 46 | [Black Mountain](https://open.spotify.com/track/3SiWyC1WB9mG93xFcmodf4) | [Brian Lopez](https://open.spotify.com/artist/76DfVm5okud2I5Az7YWvnV) | [TIDAL](https://open.spotify.com/album/5xrDyLwcef9mwvFRPsBCEL) | 3:33 |
+| 47 | [Me Consumo](https://open.spotify.com/track/7nCC23YdqpqIoJrLQslGMt) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Me Consumo](https://open.spotify.com/album/03cMrNhkVToX2jyvacFBQS) | 3:55 |
 | 48 | [Introvertida](https://open.spotify.com/track/3BvvWXLMsFfgfT6umRv56H) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Introvertida](https://open.spotify.com/album/2HrS9hl4wGwTwsVw5f3PYm) | 2:24 |
 | 49 | [Roto](https://open.spotify.com/track/2j823TVBnXyLGSQIRcbEME) | [underone mx](https://open.spotify.com/artist/7CZr4o7JvNgDf56kVLbTUv) | [Roto](https://open.spotify.com/album/4KH36DomBkrUJC3MLHkZpw) | 3:39 |
 | 50 | [Limerencia](https://open.spotify.com/track/08JPJmE5uITFazKzf6SwMn) | [URBAN GREEN](https://open.spotify.com/artist/5yLN88Ane1HFWAMuCUODRW) | [Limerencia](https://open.spotify.com/album/6nS10e4Oe3gzpgPS0Ivewf) | 2:25 |
 
-Snapshot ID: `MCw4ZTJhMDE3ZDhmOWFhOWZiZjQ0N2VkNWExNjQ1OTc1NzU5OWVjMzZl`
+Snapshot ID: `MCxmYTYyZDQ1ZDk3NDgxZmM2MjY3MjNkZjUwOGM5ZGU3NjM2NWM3ZmE1`

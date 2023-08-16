@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:Kwon Jin Ah\(권진아\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:NAUL\(나얼\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-421 songs - 1 day 3 hr 30 min
+422 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Not My Fault](https://open.spotify.com/track/1ysdMnzZoC0zedcbGnKChd) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Unsaid, Pt\. 1](https://open.spotify.com/album/6SKaAubOnUpjGqUi5T5W9z) | 4:38 | 2022-03-24 | 2022-04-19 |
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2021-12-20 | 2022-07-26 |
 | [NUN MUL I JU RUG JU RUG](https://open.spotify.com/track/4LHTwx71a9xf7hIrsVp11n) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [\[Vol.21\] You Hee yul's Sketchbook 10th Anniversary Project : 9th Voice 'Sketchbook X Kim MinSeok'](https://open.spotify.com/album/2EaeCysFyddUWKt57blFzU) | 4:15 | 2022-03-29 | 2022-07-29 |
-| [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 |  |
+| [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 | 2021-12-20 | 2023-08-16 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2021-12-20 | 2022-07-28 |
 | [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2021-12-20 | 2023-05-02 |
 | [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 | 2023-08-11 |
@@ -383,6 +383,7 @@
 | [Winter in your eyes](https://open.spotify.com/track/6XPEXAXBVykCQVR0lQJxMV) | [Soul People](https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3) | [Winter in your eyes](https://open.spotify.com/album/6u4vWQGQVlqYBJGkAqb5ya) | 4:02 | 2022-02-10 | 2022-04-18 |
 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 | 2022-07-04 | 2022-07-08 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-01 |  |
+| [Word](https://open.spotify.com/track/3AK5YY1nLRhYxkSCemcNgE) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/6Rl0C2mMz4Xb4O3xhK8h5C) | 4:41 | 2023-08-16 |  |
 | [Words From The Wind](https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Words From The Wind](https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB) | 3:58 | 2021-12-20 | 2022-07-27 |
 | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/track/0Rh5GTCIKFk3GcNFy84KHC) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/album/3rVBl32G6feUNMrvc52p5U) | 4:57 | 2022-01-21 | 2022-04-19 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |

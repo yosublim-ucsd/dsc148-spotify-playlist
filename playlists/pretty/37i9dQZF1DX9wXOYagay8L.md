@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=izz5CqcHRWmgpG0USL8x9w">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,020 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,138 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 |
 | 50 | [Senatla](https://open.spotify.com/track/4RyrENkwf8yYHYoPZD7ZqJ) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw) | [Senatla](https://open.spotify.com/album/0fnc3yAtMbL3WHBDAnFC2W) | 2:41 |
 
-Snapshot ID: `MCw1NDFmMTY4ZjA2MDBhYTMyYjY3Njg5ZDEzY2NkNGI4MTcyYTUyMzJk`
+Snapshot ID: `MCwwN2ZhODMwM2RhNjg2YmJlMDNhM2E2NmU0NWU5ZDM1N2Y5MTZhYmNh`

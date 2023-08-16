@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 68503,
+  "num_followers": 68576,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2",
+  "snapshot_id": "MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 484640,
-      "name": "Great Is Your Mercy - Live",
-      "url": "https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5"
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 293560,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+      "duration_ms": 484640,
+      "name": "Great Is Your Mercy - Live",
+      "url": "https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Yahweh / Yeshua Hamashiach",
         "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 345005,
       "name": "Yahweh / Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 338894,
-      "name": "Intentional - Live",
-      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
     },
     {
       "added_at": "2023-02-18 05:28:04",

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Candles",
+        "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172399,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/4DZ886WDUnLriERKMmAbt8"
       },
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "As The Wind Changes...",
+        "url": "https://open.spotify.com/album/1dizOonSlamkYJ7OvsDcGY"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Pillows of Lavender",
+      "url": "https://open.spotify.com/track/0sPVOMEGFC0E745DbYZ99I"
+    },
+    {
+      "album": {
         "name": "Prados",
         "url": "https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b"
       },
@@ -1202,6 +1238,24 @@
       "duration_ms": 232299,
       "name": "Scarlet Crescent",
       "url": "https://open.spotify.com/track/5Qb1aO7gYbxh7TlpFTUTHg"
+    },
+    {
+      "album": {
+        "name": "Schatze",
+        "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
+      },
+      "artists": [
+        {
+          "name": "Franz Ewer",
+          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155097,
+      "name": "Schatze",
+      "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
     },
     {
       "album": {
@@ -1511,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "The Proposal",
+        "url": "https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162062,
+      "name": "The Proposal",
+      "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
+    },
+    {
+      "album": {
         "name": "The tree that I don't forget",
         "url": "https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc"
       },
@@ -1799,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
+    },
+    {
+      "album": {
         "name": "When She Smiles",
         "url": "https://open.spotify.com/album/6WnYc9OyWVxu9Dli61RhWe"
       },
@@ -1850,6 +1940,24 @@
       "duration_ms": 159124,
       "name": "Winterfall",
       "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
+    },
+    {
+      "album": {
+        "name": "Your Happiness",
+        "url": "https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147075,
+      "name": "Your Happiness",
+      "url": "https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVy2Fygel8HO"

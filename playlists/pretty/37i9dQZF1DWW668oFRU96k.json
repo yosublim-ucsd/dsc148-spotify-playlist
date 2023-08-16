@@ -1,12 +1,12 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren",
-  "num_followers": 195248,
+  "num_followers": 195273,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWZjMjMzYWVkZmQ3MjMyYTE0NGYzMTZhZTM1ODJlMTMwZDQ1MTk1",
+  "snapshot_id": "MCw0OTU3ZWViMmI2M2M2ZWViZmIxMjBjOWM3YzY1Zjk5NGRlYjIwODU2",
   "tracks": [
     {
       "added_at": "2023-08-10 16:00:00",
@@ -788,12 +788,12 @@
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        },
-        {
           "name": "Em Beihold",
           "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
       "duration_ms": 155076,

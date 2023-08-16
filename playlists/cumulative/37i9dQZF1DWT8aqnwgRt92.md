@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-851 songs - 2 day 5 hr 42 min
+852 songs - 2 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [LAST DANCE\(Maozon REMIX\)](https://open.spotify.com/track/6lrsni226HYrxHHx3BuBje) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [MAMORU MIYANO presents M&M REMIX4](https://open.spotify.com/album/36kgjVFuVHBa4PUuHZbNBx) | 4:14 | 2023-06-08 | 2023-06-30 |
 | [LEATHER COVER](https://open.spotify.com/track/33AG9O2QUCfYup79rfz7qi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [ENGING THEME SONG FROM TV SERIES ”PRINCESS OF THE BIBLIOPHILE”](https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg) | 4:23 | 2022-11-02 | 2022-11-25 |
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 | 2022-07-06 |
+| [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 | 2023-08-15 |  |
 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 | 2023-07-11 |  |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 | 2023-04-12 |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-03-14 | 2023-05-31 |
@@ -667,7 +668,7 @@
 | [ラナ](https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ラナ](https://open.spotify.com/album/3m5ZzghhvDyygAcIaJMrV3) | 3:21 | 2022-05-28 | 2022-07-06 |
 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-03-23 | 2023-04-26 |
-| [リセット ライフ? \- 『実は俺、最強でした?』OPテーマ](https://open.spotify.com/track/5SUViwchV06715iLXMgNPJ) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [リセット ライフ? \(『実は俺、最強でした?』OPテーマ\)](https://open.spotify.com/album/2PbqPw96CtmPoJZjt9UVIK) | 3:31 | 2023-07-04 |  |
+| [リセット ライフ? \- 『実は俺、最強でした?』OPテーマ](https://open.spotify.com/track/5SUViwchV06715iLXMgNPJ) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [リセット ライフ? \(『実は俺、最強でした?』OPテーマ\)](https://open.spotify.com/album/2PbqPw96CtmPoJZjt9UVIK) | 3:31 | 2023-07-04 | 2023-08-16 |
 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 | 2023-01-05 | 2023-03-22 |
 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
 | [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-01 | 2023-04-27 |

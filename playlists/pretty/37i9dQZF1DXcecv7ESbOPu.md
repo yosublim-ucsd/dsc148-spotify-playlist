@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,161 likes - 106 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,158 likes - 106 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 66 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 |
 | 67 | [Happiest Girl](https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Happiest Girl](https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c) | 2:47 |
 | 68 | [Dance These Tears Away](https://open.spotify.com/track/7CnpvTZXN3SaD2Ene5bdec) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Dance These Tears Away](https://open.spotify.com/album/1w0LlDPG5M9lekmPgpt06a) | 2:46 |
-| 69 | [Lova mig mer än natten](https://open.spotify.com/track/2JcAfmBLFaHT9lwegeI3NW) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Lova mig mer än natten](https://open.spotify.com/album/58NhQcppYeBdDo0564QAoN) | 3:21 |
+| 69 | [Lova mig mera än natten](https://open.spotify.com/track/2JcAfmBLFaHT9lwegeI3NW) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Lova mig mera än natten](https://open.spotify.com/album/58NhQcppYeBdDo0564QAoN) | 3:21 |
 | 70 | [Om inte du](https://open.spotify.com/track/1neKLmC2cWBJcx4zZJrNYs) | [David Lindgren](https://open.spotify.com/artist/7qWB1MNQHOkDdSVGjBtvMX) | [Om inte du](https://open.spotify.com/album/1Cq1y98oMr2pohIlxM8XHh) | 4:13 |
 | 71 | [Älska Nån \- Live Edit](https://open.spotify.com/track/1HIvpuCuQIaUf3fkh51VLY) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Ayla](https://open.spotify.com/artist/2bhXhHd607n9Ax6GhaNbPD), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Älska Nån \(Live Edit\)](https://open.spotify.com/album/1DAYWw3CB6fHfrZeU3VqGX) | 6:17 |
 | 72 | [YUPP! \(feat\. Remy Ma\)](https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [YUPP! \(feat\. Remy Ma\)](https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu) | 3:02 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 105 | [Low Key Let Go](https://open.spotify.com/track/5YG7KjZCYXydo4IIuBXN9z) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Low Key Let Go](https://open.spotify.com/album/4i2mJnb97pi1t3d8s4ZJbK) | 3:07 |
 | 106 | [Lele](https://open.spotify.com/track/6h995QXDnmYHN6HyUxDtqG) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF) | [Lele](https://open.spotify.com/album/0kNdQR8McQSxxYM3wdK0Ya) | 2:25 |
 
-Snapshot ID: `MCxhN2YyZWE5MGVkNTFmNDYyYjlmMjQ3ZTA5ODg2YjhjODg2MzM5MTkx`
+Snapshot ID: `MCxjYzdmYjU4OGJlNzdjODNjNjMwOThjZjE2MDQ2MmQ3YjIzMTFhODIy`

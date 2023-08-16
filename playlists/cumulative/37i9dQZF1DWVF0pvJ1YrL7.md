@@ -4,7 +4,7 @@
 
 > Chaos in electronic form.
 
-190 songs - 12 hr 58 min
+192 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Insomnia](https://open.spotify.com/track/0oarRMUaejvKWmGEmvqGcn) | [Violle](https://open.spotify.com/artist/1LT5t6vbSfuIWmnFjcqdTg) | [Insomnia](https://open.spotify.com/album/3cvFLfcf7Thbc2eNZCSCaC) | 3:12 | 2023-02-15 | 2023-04-16 |
 | [Interdimensional Chocobo](https://open.spotify.com/track/6ILY97rvLDplKnuOcnZf7e) | [GOLDEN LIVING ROOM](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/5cOakygPBULXevk7wu0fPp) | 2:57 | 2021-10-06 | 2022-07-29 |
 | [Interdimensional Chocobo](https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ) | [GOLDEN LIVING ROOM](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF) | 2:57 | 2021-10-06 | 2023-04-16 |
+| [Internet Dump](https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa), [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Internet Dump](https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW) | 2:06 | 2023-08-15 |  |
 | [Is it Me or is it You?](https://open.spotify.com/track/5WAZlORqZtvvjNdpE6vegP) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Let's Turn It Into Sound](https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3) | 6:27 | 2023-01-07 | 2023-04-16 |
 | [Island Birdy](https://open.spotify.com/track/14XSTI6JmWf0WsNBMHSW6G) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Island Birdy](https://open.spotify.com/album/4ejXOAXQhAx6laJQD640De) | 4:18 | 2021-10-06 | 2022-07-29 |
 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 | 2021-10-06 |  |
@@ -82,6 +83,7 @@
 | [Island Birdy](https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/0A5wO1obJKJsdQN0kFqUEf) | 4:18 | 2021-10-06 | 2023-05-06 |
 | [Jennifer Calling](https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje) | [Jennifer Vanilla](https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP) | [Castle In The Sky](https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS) | 2:04 | 2022-08-09 | 2023-07-19 |
 | [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2021-10-06 | 2023-04-16 |
+| [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 | 2023-08-15 |  |
 | [Keep On Believing](https://open.spotify.com/track/3x2DTlRCnyMw1KvQRB7h8W) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3B6dGhUHAqAS4BEbqMqDgG) | 4:34 | 2022-03-11 | 2023-04-16 |
 | [Keep On Believing](https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3H2J52qEjLVYx2hgs26vkQ) | 4:34 | 2022-03-11 | 2022-07-29 |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-04-07 | 2023-03-04 |
@@ -161,7 +163,7 @@
 | [Step](https://open.spotify.com/track/5UgO8EHWoyXKo9uGcpiab2) | [Hotel Silk](https://open.spotify.com/artist/2w74NOpyV1hM3L3NrZGLkd) | [Step](https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc) | 7:11 | 2021-10-06 |  |
 | [Supper Times](https://open.spotify.com/track/1kL88WaLYZfVisS6gAdk9O) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Preacher's Sigh & Potion: Lost Album](https://open.spotify.com/album/3HEN4oDgKRQUiGMOL1cWJ9) | 3:23 | 2021-10-06 | 2022-10-27 |
 | [Supper Times](https://open.spotify.com/track/4LYNY4dkuqZr1yv4OLioyY) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Muscle Beach / Supper Times](https://open.spotify.com/album/3hsiz7Nlwn7mY0PeJYXS5Q) | 3:23 | 2021-10-06 | 2022-07-29 |
-| [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 | 2022-02-16 |  |
+| [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 | 2022-02-16 | 2023-08-16 |
 | [Tap](https://open.spotify.com/track/4eLMxhjsmZyt6S8B2fpQrr) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW) | [Stonework: 1000 metres down](https://open.spotify.com/album/0lFZFYqx9Q2u6CTqjA0rjH) | 4:20 | 2022-09-21 | 2023-04-16 |
 | [Tendril](https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL) | 4:36 | 2021-10-06 | 2023-04-16 |
 | [Tendril](https://open.spotify.com/track/7qSTy4Qfzve3ZGAtsnWGLz) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/1wL3qXTeiRKUhEJM1tOf5q) | 4:36 | 2021-10-06 | 2022-07-29 |
@@ -194,7 +196,7 @@
 | [Veldt](https://open.spotify.com/track/05RSSZNfIN5Z7Ykv1W9k7l) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Bittereinders](https://open.spotify.com/album/0KHYKvdhyPGnSFFlU30v0h) | 3:42 | 2021-10-06 | 2023-04-16 |
 | [Veldt](https://open.spotify.com/track/1AFHsjtCh5M3PPPr2Dtzh5) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [Veldt](https://open.spotify.com/album/3YFU6juZHFawIkBOzBflM3) | 3:42 | 2021-10-06 | 2022-07-29 |
 | [Watermelon Woman \- Edit](https://open.spotify.com/track/31DpPo7QGMkDpCmaPhCJaa) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Watermelon Woman](https://open.spotify.com/album/6j7Jgkdm2dS1Sw0DnC4g22) | 4:18 | 2021-10-06 | 2023-04-16 |
-| [What Do You Feel](https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Wood & Water](https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj) | 4:17 | 2023-06-28 |  |
+| [What Do You Feel](https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Wood & Water](https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj) | 4:17 | 2023-06-28 | 2023-08-16 |
 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 | 2021-10-06 |  |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 |  |
 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 | 2021-10-06 |  |

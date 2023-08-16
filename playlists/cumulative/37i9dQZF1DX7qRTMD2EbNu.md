@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TohXHTvwSMGhjedgd0jbIw"> Black Sherif </a>
 
-275 songs - 14 hr 14 min
+276 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Scorpio Flow](https://open.spotify.com/track/7DHnchdhSiTSPSfbO26qZb) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Scorpio Flow](https://open.spotify.com/album/6V67KpnN7CD192CcMMBRqz) | 2:43 | 2022-06-24 | 2023-07-01 |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-24 |  |
 | [Sei Mu](https://open.spotify.com/track/2ZXHy4DKMIcl3yst89Jv20) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sei Mu](https://open.spotify.com/album/2bJ8lXfcGZl6XgZSXhBIK1) | 3:26 | 2022-06-24 |  |
+| [Shine Your Eye](https://open.spotify.com/track/2Yln2fcUp5y3C1igJaPuWB) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Shine Your Eye](https://open.spotify.com/album/6fG3vEiH8iF4mdmCLBpB5U) | 2:23 | 2023-08-10 |  |
 | [SHUT UP](https://open.spotify.com/track/371cXO3R3YSHWZB4HqNd5h) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Yung Pabi](https://open.spotify.com/artist/0JpqpPBdb4jg4mswm0CdFj), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [SHUT UP](https://open.spotify.com/album/0Vy9oEDqvIlQFovz7ozQA8) | 3:41 | 2022-09-08 | 2022-10-22 |
 | [Sika Besu](https://open.spotify.com/track/2n09PSwr22xK2buu4IOcr2) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Sika Besu](https://open.spotify.com/album/0wzBNcQ6Tyz1aKEvXR2ma6) | 3:32 | 2022-06-24 | 2022-12-19 |
 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 | 2023-08-10 |  |

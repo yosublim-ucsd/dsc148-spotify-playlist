@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,276 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,271 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 31 | [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 |
 | 32 | [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 |
 | 33 | [Autodeadma \- Solo Version](https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Autodeadma \(Solo Version\)](https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH) | 3:12 |
-| 34 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 |
-| 35 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 |
+| 34 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 |
+| 35 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 |
 | 36 | [idc](https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [idc](https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ) | 3:23 |
 | 37 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
-| 38 | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh) | 3:49 |
-| 39 | [Ping Pong](https://open.spotify.com/track/7HCvmJkrOlqcsf92wPW6XE) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ping Pong](https://open.spotify.com/album/54nMFixoNCgEKQANOd6CjS) | 2:34 |
-| 40 | [All Over Again](https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [All Over Again](https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A) | 2:35 |
+| 38 | [All Over Again](https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [All Over Again](https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A) | 2:35 |
+| 39 | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh) | 3:49 |
+| 40 | [Ping Pong](https://open.spotify.com/track/7HCvmJkrOlqcsf92wPW6XE) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ping Pong](https://open.spotify.com/album/54nMFixoNCgEKQANOd6CjS) | 2:34 |
 | 41 | [Flori de mai](https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Flori de mai](https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP) | 2:57 |
 | 42 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
 | 43 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 51 | [LALALA](https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [LALALA](https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq) | 3:13 |
 | 52 | [Solita Solita](https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Solita Solita](https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM) | 3:07 |
 | 53 | [קמה בבוקר](https://open.spotify.com/track/5q5feyyZOjf67AG8kszaui) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קמתי לרקוד](https://open.spotify.com/album/6mkQst9FWyn45fyXwtpoF4) | 3:15 |
-| 54 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
-| 55 | [На тусі](https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp) | [Gunna Chorna](https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1) | [На тусі](https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG) | 2:04 |
+| 54 | [На тусі](https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp) | [Gunna Chorna](https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1) | [На тусі](https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG) | 2:04 |
+| 55 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 |
 | 56 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 57 | [Stranger](https://open.spotify.com/track/6bOqF7Qzk5GeIFVb4HjNsg) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Stranger](https://open.spotify.com/album/0Ls0tJstRIzJFgE6MvbPWO) | 3:08 |
 | 58 | [za wcześnie](https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [za wcześnie](https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty) | 2:09 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 65 | [ДРУГ \- XenjeS Remix](https://open.spotify.com/track/0JX0BeZeWpZfYmMbAhCdC8) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8), [XenjeS](https://open.spotify.com/artist/4XQPMqCwqrnzip5BfzwdEd) | [ДРУГ \(XenjeS Remix\)](https://open.spotify.com/album/3AN1cICMOqUfIwDjCkGhPJ) | 3:27 |
 | 66 | [Barkha](https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Barkha](https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP) | 4:21 |
 | 67 | [Figlie della Luna](https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:48 |
-| 68 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
-| 69 | [200/h](https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [Mis Niñas](https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R) | 2:29 |
+| 68 | [200/h](https://open.spotify.com/track/12Qde9rce6A18RW6JuUfQC) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [Mis Niñas](https://open.spotify.com/album/5YjbgM8BpW9BDTKgmBv33R) | 2:29 |
+| 69 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
 | 70 | [מרקורי](https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [מרקורי](https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex) | 3:23 |
 | 71 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
-| 72 | [Bacchus](https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [KIKI](https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau) | 3:08 |
-| 73 | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK) | 3:46 |
+| 72 | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [What's The Holy \(Nobel\) Today?](https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK) | 3:46 |
+| 73 | [Bacchus](https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [KIKI](https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau) | 3:08 |
 | 74 | [Portés par les ondes](https://open.spotify.com/track/7oL4Qda0vsg27yd8B09DGK) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt), [Palaster](https://open.spotify.com/artist/7uWI34JyJuk0bePBI8NZxC) | [Portés par les ondes](https://open.spotify.com/album/2jEuEdcKtyi3sd4PBqFLJQ) | 3:12 |
 | 75 | [Pap](https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB), [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H) | [A Goddess, WBU?](https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ) | 2:23 |
 
-Snapshot ID: `MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk`
+Snapshot ID: `MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx`

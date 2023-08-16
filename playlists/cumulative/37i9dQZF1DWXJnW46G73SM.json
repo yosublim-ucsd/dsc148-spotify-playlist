@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Daloaa",
+        "url": "https://open.spotify.com/album/244l0BzNjcwWmR8gKLn7ZY"
+      },
+      "artists": [
+        {
+          "name": "Natasha",
+          "url": "https://open.spotify.com/artist/4r4BXCZEaC6Eew0l7NjPpr"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175961,
+      "name": "Daloaa",
+      "url": "https://open.spotify.com/track/7kDh5pD2V1cnPpNfYGqsd8"
+    },
+    {
+      "album": {
         "name": "Dars Hayaty",
         "url": "https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB"
       },
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 166999,
       "name": "El Dalaa",
       "url": "https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk"
@@ -2819,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "Farek al kol",
+        "url": "https://open.spotify.com/album/0s9K6CLSaoCzMPrJp9vyZK"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175684,
+      "name": "Farek al kol",
+      "url": "https://open.spotify.com/track/5bgDj52qYTHFhxjL3iHDdD"
+    },
+    {
+      "album": {
         "name": "Fe Einy",
         "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
       },
@@ -3326,7 +3362,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 197941,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U"
@@ -4052,7 +4088,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 153848,
       "name": "Khadt Balak",
       "url": "https://open.spotify.com/track/2L1Wfy7eLg9NQ6bFH8T6YM"
@@ -4576,7 +4612,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 256320,
       "name": "Law Kan",
       "url": "https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx"
@@ -5050,7 +5086,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 259200,
       "name": "Mahabetnesh",
       "url": "https://open.spotify.com/track/0sR9AD2YHTaEwvnGnEdRpA"
@@ -9119,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "\u0631\u0646\u0629 \u062e\u0644\u062e\u0627\u0644",
+        "url": "https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR"
+      },
+      "artists": [
+        {
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211836,
+      "name": "\u0631\u0646\u0629 \u062e\u0644\u062e\u0627\u0644",
+      "url": "https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO"
+    },
+    {
+      "album": {
         "name": "\u0631\u0648\u0642",
         "url": "https://open.spotify.com/album/6X1CS8FShrwAZDmUgrqTFV"
       },
@@ -9395,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "\u0637\u0645\u0646\u0647\u0627",
+        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244428,
+      "name": "\u0637\u0645\u0646\u0647\u0627",
+      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
+    },
+    {
+      "album": {
         "name": "\u0637\u0645\u0646\u0648\u0646\u064a",
         "url": "https://open.spotify.com/album/2F2YUKy3j4nH2Nm6B5RfrA"
       },
@@ -9540,6 +9612,28 @@
       "duration_ms": 267652,
       "name": "\u0639\u0634\u0627\u0646 \u0627\u0631\u0636\u064a\u0643",
       "url": "https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0643\u0633\u0647\u0645",
+        "url": "https://open.spotify.com/album/5olZ9K1iqwlW7fyHPBgm91"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        },
+        {
+          "name": "amadio",
+          "url": "https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "\u0639\u0643\u0633\u0647\u0645",
+      "url": "https://open.spotify.com/track/3Lui4jMSqPFnB3bwNEOKqE"
     },
     {
       "album": {

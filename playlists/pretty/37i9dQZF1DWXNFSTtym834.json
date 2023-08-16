@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1138262,
+  "num_followers": 1139448,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjcwZjVmYmNjMjJiNDk4NTNlZDQ3YWRhYjY4YjI5ODc2MWRmMDFj",
+  "snapshot_id": "MCwwN2UyNDVhMzU5ZDNlZDc1MWIxYzkwMzcxMGY4MWYwMzlkY2Q1NDA2",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "Nothing Remains The Same",
+        "url": "https://open.spotify.com/album/1OBpoK7wgRl2ORh3phctrt"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Shut Your Mouth",
+      "url": "https://open.spotify.com/track/1gUq6SezLS3lc7KxBZaA3A"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Tempo of the Damned",
         "url": "https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "Nothing Remains The Same",
-        "url": "https://open.spotify.com/album/1OBpoK7wgRl2ORh3phctrt"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "Shut Your Mouth",
-      "url": "https://open.spotify.com/track/1gUq6SezLS3lc7KxBZaA3A"
     }
   ],
   "unique_name": "00s Metal Classics",

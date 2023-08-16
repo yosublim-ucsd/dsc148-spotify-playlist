@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 67431,
+  "num_followers": 67511,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTYxMTg3MzBiMzQ0ODU0NjIyZWRmNWViNjc1MWJkMjgzYmYwNjkx",
+  "snapshot_id": "MCwwZThlMjQzY2RiYzIxZDk1Mjg0YzBkNTU4ODhjMjMyMTQ1NzllOWQw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "I Don't Need You No More",
-      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Down the Dustpipe",
         "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 199266,
       "name": "Spinning Wheel Blues",
       "url": "https://open.spotify.com/track/0KX5tEsBMLQRmUgYJniMtm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "I Don't Need You No More",
+      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/6N3B6vyRO5V5JwjxJHcZjG"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Snakes and Ladders: The Best of Faces",
-        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Had Me a Real Good Time - 2010 Remaster",
-      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Charming Mess",
@@ -459,6 +443,22 @@
       "duration_ms": 213693,
       "name": "Charming Mess",
       "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Snakes and Ladders: The Best of Faces",
+        "url": "https://open.spotify.com/album/19ucGKnLlswEfPk4XEfFbc"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Had Me a Real Good Time - 2010 Remaster",
+      "url": "https://open.spotify.com/track/6dICmF2LPReh0BjgImRfOn"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Fighting",
         "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 206160,
       "name": "Silver Dollar",
       "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Borstal Boys",
-      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -607,6 +591,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Borstal Boys",
+      "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Side 3",
         "url": "https://open.spotify.com/album/70HzypoC6XLvXEUWAutTRc"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 242280,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
       },
@@ -751,22 +735,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jinx (Remastered 2017)",
-        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 234901,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Quotable Quo",
         "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
       },
@@ -779,6 +747,38 @@
       "duration_ms": 242000,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Jinx (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 234901,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
     },
     {
       "added_at": "2020-12-01 05:01:00",

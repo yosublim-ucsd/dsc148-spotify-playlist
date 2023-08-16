@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Best For Me (2023 Edition)",
+        "url": "https://open.spotify.com/album/0bUiuiMpNFquZ9Hy20CPtN"
+      },
+      "artists": [
+        {
+          "name": "FENNEC FENNEC",
+          "url": "https://open.spotify.com/artist/3ipgnVhxY6lwazNcnBvh6G"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233052,
+      "name": "Best For Me - 2023 Edition",
+      "url": "https://open.spotify.com/track/4b3Mtvtl2fNv9lfbd2zsju"
+    },
+    {
+      "album": {
         "name": "BITTER!",
         "url": "https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 313561,
       "name": "Falling",
       "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 201600,
       "name": "Flower Garden",
       "url": "https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 273866,
       "name": "Fly By Day",
       "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 226784,
       "name": "Melody",
       "url": "https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z"
@@ -5101,6 +5119,28 @@
     },
     {
       "album": {
+        "name": "Peel (feat. miida)",
+        "url": "https://open.spotify.com/album/2G9PCqtBdxkoze7pTV2TFy"
+      },
+      "artists": [
+        {
+          "name": "leift",
+          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
+        },
+        {
+          "name": "miida",
+          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182027,
+      "name": "Peel (feat. miida)",
+      "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
+    },
+    {
+      "album": {
         "name": "PERFECT BLUE - Partly Cloudy -",
         "url": "https://open.spotify.com/album/4aXqaCiUNCerhcfQGgfKhM"
       },
@@ -5996,7 +6036,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Signpost",
       "url": "https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy"
@@ -6544,7 +6584,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 226779,
       "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
@@ -7088,6 +7128,24 @@
       "duration_ms": 217625,
       "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
       "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
+    },
+    {
+      "album": {
+        "name": "Swimming Pool",
+        "url": "https://open.spotify.com/album/4BZAAHsQfitbhKkoAXdgZe"
+      },
+      "artists": [
+        {
+          "name": "Schuwa Schuwa",
+          "url": "https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267440,
+      "name": "Swimming Pool",
+      "url": "https://open.spotify.com/track/7bY52sKxTY4fcCnodr3sLL"
     },
     {
       "album": {
@@ -9057,6 +9115,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30df",
+        "url": "https://open.spotify.com/album/4LMeypr7OLpdl5UWlloh1D"
+      },
+      "artists": [
+        {
+          "name": "YAMORI",
+          "url": "https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "\u30a6\u30ba\u30b7\u30aa",
+      "url": "https://open.spotify.com/track/5lKiQgkj1dBbsTDq5uRwLp"
+    },
+    {
+      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
       },
@@ -10612,6 +10688,32 @@
       "duration_ms": 201355,
       "name": "\u5929\u6c17\u96e8 -Still Love me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/7trAsgfCsb4zWYAu1ydGM9"
+    },
+    {
+      "album": {
+        "name": "\u5929\u6c17\u96e8 -Still love me- (feat. \u3072\u304b\u308a) [Vantage Remix]",
+        "url": "https://open.spotify.com/album/4onMga0cEQ0CwZQqWipjaX"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "\u5929\u6c17\u96e8 -Still love me- (feat. \u3072\u304b\u308a) - Vantage Remix",
+      "url": "https://open.spotify.com/track/5uscxCi6JPEtHUyBwNGWmd"
     },
     {
       "album": {

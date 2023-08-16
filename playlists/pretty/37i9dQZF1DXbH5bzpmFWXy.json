@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Herencia de Patrones, Gera MX & Peso Pluma en portada.",
-  "num_followers": 139205,
+  "num_followers": 139362,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDQ3OGMyMDU0OGU5YTYyMjYzZWFiNjczNWY1M2Y4ZmNiNzljM2Qy",
+  "snapshot_id": "MCw4NGMxM2Q2Y2IwODNiNmFhYjcxNWQ1ZDI2NmI0Nzg3NzA4YzU2ZGU3",
   "tracks": [
     {
       "added_at": "2023-08-08 22:02:52",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2023-08-08 22:02:52",
       "album": {
-        "name": "El Mero Mero",
-        "url": "https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd"
+        "name": "Ya Soy Otro",
+        "url": "https://open.spotify.com/album/0WCPf1QaFBcigzFUJ9iWuB"
       },
       "artists": [
         {
-          "name": "Hendry El Mero Mero",
-          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
+          "name": "Blood G",
+          "url": "https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
         }
       ],
-      "duration_ms": 190627,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ"
+      "duration_ms": 196040,
+      "name": "Ya Soy Otro",
+      "url": "https://open.spotify.com/track/3OMEb3fQw9jFvAQzOpWV5t"
     },
     {
       "added_at": "2023-08-08 22:02:52",
@@ -1655,22 +1659,18 @@
     {
       "added_at": "2023-08-08 22:02:52",
       "album": {
-        "name": "Ya Soy Otro",
-        "url": "https://open.spotify.com/album/0WCPf1QaFBcigzFUJ9iWuB"
+        "name": "El Mero Mero",
+        "url": "https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd"
       },
       "artists": [
         {
-          "name": "Blood G",
-          "url": "https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu"
-        },
-        {
-          "name": "Royal Religion",
-          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+          "name": "Hendry El Mero Mero",
+          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Ya Soy Otro",
-      "url": "https://open.spotify.com/track/3OMEb3fQw9jFvAQzOpWV5t"
+      "duration_ms": 190627,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ"
     },
     {
       "added_at": "2023-08-08 22:02:52",

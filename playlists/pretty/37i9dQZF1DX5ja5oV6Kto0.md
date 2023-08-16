@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe\-2NnN2LjyV6g"> Odeal </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,903 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,945 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 |
 | 80 | [Reservoir](https://open.spotify.com/track/4ZR1Jc5RIBWdNsc8VhzLL4) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Wasalu](https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7) | [Reservoir](https://open.spotify.com/album/1I4GmNevhxMsGzYwtfk5vF) | 2:54 |
 
-Snapshot ID: `MCxjM2JkZWExZGVkNTY0NTAyY2E0ZGJkN2RkMzY0OGE4ZDFkM2RmODFl`
+Snapshot ID: `MCxlMDA3NDk2ZTJjMTdkOTVhYjBmZjA4ZmJlY2ZiMmI1NmQzMWZhOWVh`

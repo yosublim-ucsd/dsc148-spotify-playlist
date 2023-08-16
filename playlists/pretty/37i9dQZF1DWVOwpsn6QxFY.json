@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 122779,
+  "num_followers": 122829,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYyYTg2MmRmMTI1Y2ViODdlYzcyMGQxYTZkMTA3ZTI4ZmFmMjVm",
+  "snapshot_id": "MCw4NzFkYThmZmE1YjFlMDA0OTM4OGU4ZDk4ZGEwMmQ3ODM1YjQzMDRh",
   "tracks": [
     {
       "added_at": "2023-08-04 20:15:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "A word becomes a sound",
-        "url": "https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 160006,
-      "name": "A Couple Things",
-      "url": "https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 159666,
       "name": "Hold In, Hold On",
       "url": "https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "A word becomes a sound",
+        "url": "https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 160006,
+      "name": "A Couple Things",
+      "url": "https://open.spotify.com/track/0XJShR9YnNtXtZkAnLRNFD"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 221613,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 176452,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
       "artists": [
         {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 233533,
-      "name": "Blue Hours",
-      "url": "https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN"
+      "duration_ms": 176452,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1139,6 +1123,22 @@
       "duration_ms": 198250,
       "name": "Pink Pools",
       "url": "https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Blue Hours",
+      "url": "https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 216027,
-      "name": "Comingback - Single Version",
-      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Andrew",
         "url": "https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
       "artists": [
         {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+      "duration_ms": 216027,
+      "name": "Comingback - Single Version",
+      "url": "https://open.spotify.com/track/6Z4au4V6reG130oGNDnXfU"
     },
     {
       "added_at": "2023-08-04 20:15:09",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
         "name": "Never Coming Home",
         "url": "https://open.spotify.com/album/5rGjW2lMjnC8slwNarPvpS"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-04 20:15:09",
       "album": {
-        "name": "Evelyn",
-        "url": "https://open.spotify.com/album/3xyqWaDeh8TQ9PMK6noL7i"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Evelyn",
-      "url": "https://open.spotify.com/track/0C0YCeV0rYv315z8twysDt"
-    },
-    {
-      "added_at": "2023-08-04 20:15:09",
-      "album": {
         "name": "Gotta Get through Til Monday",
         "url": "https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 221820,
       "name": "Gotta Get Through Til Monday",
       "url": "https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk"
+    },
+    {
+      "added_at": "2023-08-04 20:15:09",
+      "album": {
+        "name": "Today We\u2019re The Greatest",
+        "url": "https://open.spotify.com/album/5dK1qxuVTRmckVMtThjoGu"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Stacking Chairs",
+      "url": "https://open.spotify.com/track/779oVM9a1jQAnKUMKQdVMd"
     }
   ],
   "unique_name": "Garden Indie",

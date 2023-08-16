@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 2509,
+  "num_followers": 2537,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjg0YWYwZjY5MDVhZDQwZWRjNDk0NWY1ZTk0NDM2NjRiODA2NjRl",
+  "snapshot_id": "MCxjNTA4MTQ2YThhYmYwN2MyZWNlNDY0MTczZWU3M2UyZTM5YzU4Zjhk",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "El Cuento de Cita",
+        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
+      },
+      "artists": [
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Duermo con fr\u00edo",
+      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "El Cuento de Cita",
-        "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
-      },
-      "artists": [
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Duermo con fr\u00edo",
-      "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
     },
     {
       "added_at": "2023-08-11 04:00:00",

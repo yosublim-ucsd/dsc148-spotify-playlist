@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,264 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,315 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 45 | [La Guayaba](https://open.spotify.com/track/2VeXI9CcoekqU1VGMljovo) | [Riccie Oriach](https://open.spotify.com/artist/3b12EGhDU7EhHcuZmMG3oV) | [Viaje Al Infinito](https://open.spotify.com/album/5f1r5AowWw21NMerlIwBxz) | 4:23 |
 | 46 | [Mahmoume \- Tourmenté](https://open.spotify.com/track/63TIFnEUF8mzPOVw0wYhT3) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Fine ghadi biya khouya](https://open.spotify.com/album/43S3rQh0r9yxCrraFFSO2n) | 3:03 |
 
-Snapshot ID: `MCxkODAzMDE1ZTlmMDEzZGRiNDQ5ODAxMGI1NjI4YjQ4YzQ3OGIyZDQ5`
+Snapshot ID: `MCw3ZWUzOTEwZWM0ODg1MTU4ODg4NGU0NjI4YjAzZGM5ZTY1MTkwNTg3`

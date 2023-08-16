@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 133824,
+  "num_followers": 133942,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi",
+  "snapshot_id": "MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -519,6 +519,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Richest Man In Babylon",
         "url": "https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 236960,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Psyence Fiction",
         "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 533013,
       "name": "Lonely Soul",
       "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -923,6 +923,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 272760,
       "name": "Koop Island Blues",
       "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Music By Cavelight",
-        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
-      },
-      "artists": [
-        {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Insomniac Olympics",
-      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Mickey Mouse Operation",
         "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 227866,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Music By Cavelight",
+        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Insomniac Olympics",
+      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Audience's Listening (U.S. Version)",
         "url": "https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 375546,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 440040,
       "name": "His Majesty King Raam",
       "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
     },
     {
       "added_at": "2020-09-04 01:12:56",

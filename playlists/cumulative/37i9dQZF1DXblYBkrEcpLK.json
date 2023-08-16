@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 212476,
       "name": "give it back",
       "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 209898,
       "name": "Koino Uta",
       "url": "https://open.spotify.com/track/15St0qWPnH4xKflV39vk28"
@@ -2188,6 +2188,24 @@
       "duration_ms": 345354,
       "name": "Leap of faith",
       "url": "https://open.spotify.com/track/0EtjeTBZiL6wcKMpRein57"
+    },
+    {
+      "album": {
+        "name": "Let you know!",
+        "url": "https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86"
+      },
+      "artists": [
+        {
+          "name": "i\u2606Ris",
+          "url": "https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156648,
+      "name": "Let you know!",
+      "url": "https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib"
     },
     {
       "album": {
@@ -5710,6 +5728,24 @@
       "duration_ms": 264466,
       "name": "\u30b7\u30e5\u30ef\u30b7\u30e5\u30ef",
       "url": "https://open.spotify.com/track/2NouNL5vO1emjt0OQWqUi6"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e5\u30ef\u30ef\uff01",
+        "url": "https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8"
+      },
+      "artists": [
+        {
+          "name": "Momo Asakura",
+          "url": "https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "\u30b7\u30e5\u30ef\u30ef\uff01",
+      "url": "https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1"
     },
     {
       "album": {

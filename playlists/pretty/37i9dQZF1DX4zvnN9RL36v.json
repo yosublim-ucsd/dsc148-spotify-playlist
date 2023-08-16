@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5689,
+  "num_followers": 5704,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "\uc2a4\ud1a0\ucee4 Stalker",
-      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 7",
         "url": "https://open.spotify.com/album/7MoXcGUrx7gzm95iSLAIHV"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 269000,
       "name": "Till The End of Time",
       "url": "https://open.spotify.com/track/03YtYSkpHqqY3EBmHJkTjP"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "\uc2a4\ud1a0\ucee4 Stalker",
+      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -455,18 +455,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "Shouldn't Have\u2026",
+        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
         }
       ],
-      "duration_ms": 243037,
-      "name": "mistaken",
-      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+      "duration_ms": 212761,
+      "name": "Shouldn't Have\u2026",
+      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -487,6 +491,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 243037,
+      "name": "mistaken",
+      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 219986,
       "name": "Where Love Begins",
       "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Shouldn't Have\u2026",
-        "url": "https://open.spotify.com/album/663N3uMMM5eAj8Fh6KCvny"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 212761,
-      "name": "Shouldn't Have\u2026",
-      "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "19to20",
+        "url": "https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "to him",
+      "url": "https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Fit Me",
         "url": "https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 190586,
       "name": "One-sided love",
       "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "19to20",
-        "url": "https://open.spotify.com/album/7HvpuKHVE5xQ1yloKOrBV2"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "to him",
-      "url": "https://open.spotify.com/track/2m84CF73KrOUcZ0MtcFEPG"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

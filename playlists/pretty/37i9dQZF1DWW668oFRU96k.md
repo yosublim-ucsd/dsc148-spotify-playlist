@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,248 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,273 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 35 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 |
 | 36 | [Changes](https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Changes](https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE) | 4:22 |
 | 37 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
-| 38 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
+| 38 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 39 | [Call Me](https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Call Me](https://open.spotify.com/album/6g9D1wN5E3s8fPvvRLCanx) | 2:53 |
 | 40 | [I Just Wanna](https://open.spotify.com/track/58V2LlXgJGqQmxqfoIHWz7) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [I Just Wanna](https://open.spotify.com/album/6BTWZPJ4BUJBifxE7JaIkQ) | 3:12 |
 | 41 | [Feels So Right \- Radio Mix](https://open.spotify.com/track/0yWWMRp88HJAfLZmFxkQ4h) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp), [TOM KING](https://open.spotify.com/artist/6ESVK7OII4SIQg4EEyFahi) | [Feels So Right](https://open.spotify.com/album/5OIskHMk4oedsZSbnqr5qZ) | 3:14 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [Touching You \- Rodrigo Deem Remix](https://open.spotify.com/track/1fin39JdiWLMenDGlgL2As) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY), [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Touching You \(Rodrigo Deem & DeathNov Remixes\)](https://open.spotify.com/album/05hJtgDHcYpUV33Io66e7j) | 3:11 |
 | 68 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 
-Snapshot ID: `MCw0ZWZjMjMzYWVkZmQ3MjMyYTE0NGYzMTZhZTM1ODJlMTMwZDQ1MTk1`
+Snapshot ID: `MCw0OTU3ZWViMmI2M2M2ZWViZmIxMjBjOWM3YzY1Zjk5NGRlYjIwODU2`

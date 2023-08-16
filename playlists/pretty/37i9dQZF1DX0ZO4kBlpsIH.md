@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,859 likes - 112 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,150 likes - 112 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 42 | [Boum Musette](https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [Presenting Joss Baselli](https://open.spotify.com/album/2ztegz9DBfyvvD1ArFsOwe) | 2:25 |
 | 43 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
 | 44 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 |
-| 45 | [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 |
-| 46 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
-| 47 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 |
-| 48 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 |
-| 49 | [Le Vin Est La Clé de Mon Coeur](https://open.spotify.com/track/7BnNWk7YTw1DgVN2E9owRX) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 1:50 |
+| 45 | [Swing Suspens](https://open.spotify.com/track/5EDDKBAMxFDvG3f7D6v93l) | [Marcel Loeffler](https://open.spotify.com/artist/0DglDT7eUNaSWf99w39e2m) | [Source Manouche](https://open.spotify.com/album/3mf1RSVpwCZZmDaY9nmN1o) | 3:23 |
+| 46 | [Thé Pour Deux](https://open.spotify.com/track/3zztM5yPmJFkX7vktaaa8F) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Thé Pour Deux](https://open.spotify.com/album/43iVIfU4pgIheRuYzPbuqE) | 4:18 |
+| 47 | [Valse Therese](https://open.spotify.com/track/0fHU9X4xzibSUdMj084Opd) | [Mediterranean Café Society](https://open.spotify.com/artist/2fJ85pakgR26MQXGfE24gL) | [Mediterranean Café: Music of Italy, Greece and Spain](https://open.spotify.com/album/3gGZP9CROPsrqJpzaBK2Dc) | 2:05 |
+| 48 | [Le Vin Est La Clé de Mon Coeur](https://open.spotify.com/track/7BnNWk7YTw1DgVN2E9owRX) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 1:50 |
+| 49 | [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 |
 | 50 | [Flambee Montalbanaise](https://open.spotify.com/track/7fPHlQGsVtfOyVU3hQnrYU) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Mystery Pacific](https://open.spotify.com/album/0ElHMJOjrO6zuCF076Eot2) | 3:12 |
 | 51 | [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 |
 | 52 | [Indifference](https://open.spotify.com/track/4EPJFerjvNlm9wzrWraknR) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Le Disque Francais](https://open.spotify.com/album/0hZMUuPNGtV0c6gIBM2ThA) | 5:16 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 111 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 | 112 | [Flambée montalbanaise](https://open.spotify.com/track/6gugxXbWxWRtXqaen97y9l) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:26 |
 
-Snapshot ID: `MCwyY2E2NjA5MTQ3MWJiYWU1ZGY4ZjViZGJiNWFmODE3MzUzMmE5ODZh`
+Snapshot ID: `MCw1Njc5NzNjNjI5ZjJjNmJmMjc5ZGQyMzA2Njg3ZDNlODhiMTAyMmJl`

@@ -1,12 +1,12 @@
 {
   "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:6rIaHuCIUu32uj2CjlEBN3\">Mike Dimes</a>",
-  "num_followers": 2779425,
+  "num_followers": 2779787,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FjMGY2NmVlNDM0MmQzYmMxYTFhYTY0YWNmNDU0MDQ5NDAyNTVk",
+  "snapshot_id": "MCw5YWI4NThkZTM4MjdmNTllYmRiMDIzOTE5ZWIwZGRjYWQxNTdmOThm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -33,6 +33,30 @@
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "MadMan",
+        "url": "https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Slight Dub (feat. 21 Savage & Young Nudy)",
+      "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Thang For You (feat. No Cap)",
@@ -53,38 +77,6 @@
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "First Day Out (Freestyle)",
-        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
-      },
-      "artists": [
-        {
-          "name": "Rundown Spaz",
-          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
-        }
-      ],
-      "duration_ms": 142739,
-      "name": "First Day Out (Freestyle)",
-      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
-    },
-    {
-      "added_at": "2023-07-21 11:05:35",
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "TEXAS BOY",
@@ -103,6 +95,46 @@
       "duration_ms": 195267,
       "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
+    },
+    {
+      "added_at": "2023-07-21 11:05:35",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Safe House",
+        "url": "https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "DJ Scheme",
+          "url": "https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 160309,
+      "name": "Kreepin (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -129,28 +161,20 @@
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "MadMan",
-        "url": "https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt"
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
       },
       "artists": [
         {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Slight Dub (feat. 21 Savage & Young Nudy)",
-      "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -217,30 +241,6 @@
       "url": "https://open.spotify.com/track/3HCDcijVzbd59yvVn0nLPY"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Safe House",
-        "url": "https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm"
-      },
-      "artists": [
-        {
-          "name": "Danny Towers",
-          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
-        },
-        {
-          "name": "DJ Scheme",
-          "url": "https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 160309,
-      "name": "Kreepin (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx"
-    },
-    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "jersey luv",
@@ -283,6 +283,22 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Bezzal Land",
+        "url": "https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Bezzal Land",
+      "url": "https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2"
     },
     {
       "added_at": "2023-07-21 11:05:35",
@@ -345,22 +361,6 @@
       "url": "https://open.spotify.com/track/2HNB1KfLWpQ3i7jG8LcOLU"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Bezzal Land",
-        "url": "https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7"
-      },
-      "artists": [
-        {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Bezzal Land",
-      "url": "https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2"
-    },
-    {
       "added_at": "2023-08-11 04:01:00",
       "album": {
         "name": "Been One",
@@ -375,6 +375,30 @@
       "duration_ms": 181429,
       "name": "Equal Dirt",
       "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
+    },
+    {
+      "added_at": "2023-08-16 01:02:13",
+      "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "Jehkai",
+          "url": "https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -413,22 +437,6 @@
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
-    },
-    {
       "added_at": "2023-07-28 04:01:00",
       "album": {
         "name": "Gorgeous Remix (feat. City Girls)",
@@ -451,6 +459,38 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "added_at": "2023-08-16 01:02:13",
+      "album": {
+        "name": "LIFE IN HELL",
+        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1495,26 +1535,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Turn Your Phone Off",
-        "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Turn Your Phone Off",
-      "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "C3",
         "url": "https://open.spotify.com/album/3IyUsMKChk9h8J9NeZYWl0"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 137716,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "KEEP WISHING (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "KEEP WISHING (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm"
     },
     {
       "added_at": "2023-06-30 04:01:00",

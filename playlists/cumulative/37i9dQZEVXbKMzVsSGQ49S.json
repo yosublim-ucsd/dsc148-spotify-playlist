@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Christian lou",
+        "url": "https://open.spotify.com/album/3O7b5DEFAL8A9yEzTcAbgs"
+      },
+      "artists": [
+        {
+          "name": "BLB Fujin",
+          "url": "https://open.spotify.com/artist/7MQRQddSEKe2ESkHRPgNB8"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165121,
+      "name": "Christian lou",
+      "url": "https://open.spotify.com/track/5kuVXm0eq1L0ZYQVD6pSUi"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -5824,7 +5842,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -6882,7 +6900,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 141360,
       "name": "Everything Hit",
       "url": "https://open.spotify.com/track/3unMLNT5wyJaQL8v8jktQb"
@@ -6940,7 +6958,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 432613,
       "name": "E\u00f0a?",
       "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
@@ -7754,7 +7772,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -11160,6 +11178,24 @@
       "duration_ms": 164118,
       "name": "I Believe (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/4kzAGCScarLclDeZbaR9jE"
+    },
+    {
+      "album": {
+        "name": "The Most Threatening Artist Of All Time",
+        "url": "https://open.spotify.com/album/5Pj2LWxS1JbarOmdJnJjrB"
+      },
+      "artists": [
+        {
+          "name": "Khaleel Mandel",
+          "url": "https://open.spotify.com/artist/2NSERO3kgZui6BAIiMKaQV"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254511,
+      "name": "I Can't Wait To Say I Love You",
+      "url": "https://open.spotify.com/track/7CiAf8nDMWW81JrqfSpFFm"
     },
     {
       "album": {
@@ -25776,7 +25812,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 194127,
       "name": "Vinn Vi\u00f0 \u00dea\u00f0",
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,367 likes - 200 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,428 likes - 200 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 78 | [Strange Habits](https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [kotokid](https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG) | [Strange Habits](https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k) | 2:15 |
 | 79 | [In Touch With The Kosmos](https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Kosmological Glitches](https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5) | 1:29 |
 | 80 | [Gigi’s Revenge](https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Gemini with Mood Swings](https://open.spotify.com/album/0PqKxVkrzkNXAYv5qTFXG0) | 2:22 |
-| 81 | [Jakarta](https://open.spotify.com/track/5811rGxUfOfsmmymjwKlsB) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Jakarta](https://open.spotify.com/album/470EDSykuxSbKTNnVQQudK) | 3:38 |
+| 81 | [Jakarta](https://open.spotify.com/track/6EWpxKt5zjvY7dfdQuRV6V) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Perform the Compositions of Sam Wilkes & Jacob Mann](https://open.spotify.com/album/2XLzAeQaaAL6hklNWvtoxL) | 3:38 |
 | 82 | [Seventh Wonder](https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Seventh Wonder](https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ) | 3:27 |
 | 83 | [Sombra Bajo El Limero](https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Sombra Bajo El Limero](https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX) | 3:02 |
 | 84 | [Why Not Jungle](https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Why Not Jungle](https://open.spotify.com/album/40oY1hBdf6Inarnr3iM8sC) | 4:24 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCw3MWZlZGMzODQ3OGUxZWQ2ZmZjYzM5NDMwNmY2MjQ4MzdlMmEwMGU3`
+Snapshot ID: `MCxjODdiNGU4ZTUyZjUwMDI2NWJlYmUzZTYzYWYxMzcxYzQ2ZmY2MDM1`

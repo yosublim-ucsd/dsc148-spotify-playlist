@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,976 likes - 81 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,005 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 80 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 | 81 | [Atmosphere](https://open.spotify.com/track/5RLXorPT049PXrZhVUS7RK) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Atmosphere](https://open.spotify.com/album/03fvTmdZAQc5UO9ddnLf82) | 3:14 |
 
-Snapshot ID: `MCwzZjZlNDg1YTU2YjA0YWQ3YjUwNjYzNGJkOWE2OWQ2ZTk2NmY0ODky`
+Snapshot ID: `MCxiNDgwN2RhMzMwOTc0YzUwZmY5NGY0MmNiZGMwZTk2MDMxYjI5Njdm`

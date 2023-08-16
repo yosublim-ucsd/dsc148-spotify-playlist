@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 48284,
+  "num_followers": 48316,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzZiMjU1YzM3YjFkNDI4OGQ0YTU1MmU4MDQ5NjBmZGFjYzY4NDVi",
+  "snapshot_id": "MCw3ZGFlZDFiNGYyZDQwMTBjNzE4NzgyMDFiZjM0N2E1NjNlNmEzZTMx",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:21",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        },
+        {
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Sweet lies",
+      "url": "https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "Blue Mangtto",
-          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme"
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
       "artists": [
         {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         },
         {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
         }
       ],
-      "duration_ms": 205854,
-      "name": "Sweet lies",
-      "url": "https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR"
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     },
     {
       "added_at": "2023-07-17 06:17:21",

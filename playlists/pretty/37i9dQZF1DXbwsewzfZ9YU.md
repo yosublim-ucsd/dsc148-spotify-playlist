@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit \- ft\. artists from The Tribes Of Da Moon Festival, taking place Aug 19\-20 at the iconic Bowery Ballroom in NYC\. More info <a href="https://linktr.ee/darksideofdamoon ">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,173 likes - 110 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,332 likes - 110 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 109 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 |
 | 110 | [Sterilized](https://open.spotify.com/track/0csFnIwyqcxQCwDGKWQLB2) | [Lethal](https://open.spotify.com/artist/1PUkdBCElxs4Lwc48Kamsz) | [Lethal's Hardcore Hit Parade](https://open.spotify.com/album/57Ij7pxjA9shumvHtfWqpK) | 1:24 |
 
-Snapshot ID: `MCw1Mzc0N2M5YWY0NmZlZGU1NTcwNGNjMGQ4MDE4MWNmZGM5MDkzNjIz`
+Snapshot ID: `MCw2ZmQ3MmI4NjEwZDYzMmE2OTM5MzA1YTc1NzlmNzY1NzZlN2VhZGI4`

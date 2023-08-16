@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriel Guedes de Almeida
 
-207 songs - 17 hr 3 min
+208 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Sobre o Mar](https://open.spotify.com/track/3h0W09nYhV6Pd0tCUttU3o) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Sobre o Mar](https://open.spotify.com/album/4qOb4W5r9DScFuzTyW2lHJ) | 6:17 | 2023-07-07 | 2023-07-15 |
 | [Solução](https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Solução](https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp) | 4:09 | 2023-07-07 | 2023-07-15 |
 | [Som do Céu \- BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0uEVx2IsKPBFRv6gF22aFH) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Jenni](https://open.spotify.com/artist/5YCFom7N0VCFTGwDJsNQOT), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Som do Céu \- BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/3Jo9KlI8y65xpVgBoxlNio) | 4:28 | 2023-07-07 | 2023-07-15 |
-| [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 | 2023-08-04 |  |
+| [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 | 2023-08-04 | 2023-08-16 |
+| [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 | 2023-08-04 |  |
 | [Sou Feliz](https://open.spotify.com/track/0Q9GZVv1R7FXfHypiARaz0) | [Rayssa Andreoli](https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Sou Feliz](https://open.spotify.com/album/0K5k1J7E2MQyJ5YymkMfG0) | 3:37 | 2023-07-28 | 2023-08-05 |
 | [Sou o Milagre](https://open.spotify.com/track/5FRSgf4JlZRvB9W3hqIPkK) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Sou o Milagre](https://open.spotify.com/album/5naI0qp0q0KB2jKkCpGom3) | 4:02 | 2023-07-21 | 2023-07-29 |
 | [São Bento \(Livrai\-Nos do Mal\)](https://open.spotify.com/track/3MOt8zPcnT3MxcXUXwshkM) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2), [Padre Maxwell](https://open.spotify.com/artist/0412LZMmL0IZe2TXZs47uk) | [São Bento \(Livrai\-Nos do Mal\)](https://open.spotify.com/album/0ZNpPSJ3FD8DJfHcv27Esx) | 3:59 | 2023-07-14 | 2023-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd?si=\-vTi\-zG8TceLlVsEnt73bw"> Tommy WA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,973 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,024 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 32 | [Hamna aibu](https://open.spotify.com/track/1wc0SjXzsP5HmcgIJkBbEi) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Hamna aibu](https://open.spotify.com/album/5fWs62FSv3RsMhuhfYioa3) | 2:01 |
 | 33 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 |
 | 34 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 |
-| 35 | [Busanga Love \- Originals Acoustic Session](https://open.spotify.com/track/3QrCG0eg8tzhA4MCHL4YxC) | [Baka Dabri](https://open.spotify.com/artist/5IQli8jQ2jyzTTLKLZ6dbM), [ORIGINALS](https://open.spotify.com/artist/1NjaOOV4yRLoLd0ApkKrnj) | [Busanga Love \(Originals Acoustic Session\)](https://open.spotify.com/album/4Aa7O5KR5R5wYV6s5yxoqL) | 4:28 |
+| 35 | [Busanga Love \(Originals Acoustic Session\)](https://open.spotify.com/track/3QrCG0eg8tzhA4MCHL4YxC) | [Baka Dabri](https://open.spotify.com/artist/5IQli8jQ2jyzTTLKLZ6dbM), [ORIGINALS](https://open.spotify.com/artist/1NjaOOV4yRLoLd0ApkKrnj) | [Busanga Love \(Originals Acoustic Session\)](https://open.spotify.com/album/4Aa7O5KR5R5wYV6s5yxoqL) | 4:28 |
 | 36 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
 | 37 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 |
 | 38 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [JI](https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [JI](https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa) | 2:29 |
 | 50 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 |
 
-Snapshot ID: `MCw1Yjk2MDhlMTZhMzExMDMxNmE1YmY0ZTAwYzQ3MDFhMjVjMzUxOTY4`
+Snapshot ID: `MCwzNGE4OGYxMDQ4NTk0ZmRhZWU5NDc4OTZiMjc0NTJkNTExNzYxYWFh`

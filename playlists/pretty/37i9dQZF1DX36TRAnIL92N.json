@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 197447,
+  "num_followers": 198135,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmU1OTM5YjQ2ODQ1NTAyOGM2Y2ZiNmUwMDY2ZDI5OGNhNzNhNDcw",
+  "snapshot_id": "MCxhNjYzZTk3YmFlZjI1YTAwMjJkZjU5MGRlODRjY2VhMmRmZjI0ZTkz",
   "tracks": [
     {
       "added_at": "2023-08-09 14:06:39",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-08-09 14:06:39",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
       },
       "artists": [
         {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2023-08-09 14:06:39",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-08-09 14:06:39",
       "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
         }
       ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
     },
     {
       "added_at": "2023-08-09 14:06:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-09 14:06:39",
       "album": {
-        "name": "Colonia EP",
-        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Colonia",
-      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
-    },
-    {
-      "added_at": "2023-08-09 14:06:39",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2023-08-09 14:06:39",
+      "album": {
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
     },
     {
       "added_at": "2023-08-09 14:06:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-09 14:06:39",
       "album": {
-        "name": "Inhale, Exhale",
-        "url": "https://open.spotify.com/album/25RG1ZUFWUiczxVuXWL3h5"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 278476,
-      "name": "Inhale, Exhale",
-      "url": "https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt"
-    },
-    {
-      "added_at": "2023-08-09 14:06:39",
-      "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-08-09 14:06:39",
       "album": {
+        "name": "Inhale, Exhale",
+        "url": "https://open.spotify.com/album/25RG1ZUFWUiczxVuXWL3h5"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 278476,
+      "name": "Inhale, Exhale",
+      "url": "https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt"
+    },
+    {
+      "added_at": "2023-08-09 14:06:39",
+      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -811,42 +811,6 @@
       "duration_ms": 298181,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2023-08-09 14:06:39",
-      "album": {
-        "name": "Janfry",
-        "url": "https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13"
-      },
-      "artists": [
-        {
-          "name": "Spartaque",
-          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
-        },
-        {
-          "name": "Ramiro Lopez",
-          "url": "https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Janfry",
-      "url": "https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW"
-    },
-    {
-      "added_at": "2023-08-09 14:06:39",
-      "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-08-09 14:06:39",
@@ -867,6 +831,42 @@
       "duration_ms": 390447,
       "name": "Addiction - Original Mix",
       "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
+    },
+    {
+      "added_at": "2023-08-09 14:06:39",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2023-08-09 14:06:39",
+      "album": {
+        "name": "Janfry",
+        "url": "https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "Ramiro Lopez",
+          "url": "https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Janfry",
+      "url": "https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW"
     },
     {
       "added_at": "2023-08-09 14:06:39",

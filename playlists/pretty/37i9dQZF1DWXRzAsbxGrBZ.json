@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 25488,
+  "num_followers": 25552,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3",
+  "snapshot_id": "MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1",
   "tracks": [
     {
       "added_at": "2023-05-12 07:57:53",
@@ -75,30 +75,6 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Oh Mdali",
-        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
-      },
-      "artists": [
-        {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
-        }
-      ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali",
-      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
-    },
-    {
-      "added_at": "2023-05-12 07:57:53",
-      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e"
       },
@@ -119,6 +95,30 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
+    },
+    {
+      "added_at": "2023-05-12 07:57:53",
+      "album": {
+        "name": "Oh Mdali",
+        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+        }
+      ],
+      "duration_ms": 361078,
+      "name": "Oh Mdali",
+      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -431,22 +431,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "Confindent",
-        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
       },
       "artists": [
         {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
         },
         {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 463348,
-      "name": "Confident - China The Charmeleon The Animal Remix",
-      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2023-05-12 07:57:53",
@@ -475,22 +475,22 @@
     {
       "added_at": "2023-05-12 07:57:53",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+        "name": "Confindent",
+        "url": "https://open.spotify.com/album/7JrsF96D0q5Zm9tEoqMG0u"
       },
       "artists": [
         {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
         },
         {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
         }
       ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+      "duration_ms": 463348,
+      "name": "Confident - China The Charmeleon The Animal Remix",
+      "url": "https://open.spotify.com/track/4ZMAP1fr4QvcIfF0B440MZ"
     },
     {
       "added_at": "2023-05-12 07:57:53",

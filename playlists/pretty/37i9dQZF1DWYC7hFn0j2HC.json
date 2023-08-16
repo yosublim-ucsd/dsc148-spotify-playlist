@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 175478,
+  "num_followers": 175648,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjFhZDA0MGY1OGYwMmI0N2NlNzRjOGIwZDZjMmNiNGJhMWYxMTFl",
+  "snapshot_id": "MCw4MjU2ZWM4MzkzMjNhNTNhZGJhNWI0ZmQ5NjJkMWM5NWJkNjExMDkz",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "La Ley del Monte",
-      "url": "https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
+      "duration_ms": 203600,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -895,6 +879,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Qu\u00e9 De Raro Tiene",
         "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "El Charro de M\u00e9xico",
         "url": "https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 194218,
       "name": "El Aventurero (Yo El Aventurero)",
       "url": "https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa"
     },
     {
       "added_at": "2022-01-25 23:38:31",

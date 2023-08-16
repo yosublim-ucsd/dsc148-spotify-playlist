@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Slow J.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,879 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Conexões](https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Conexões](https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB) | 3:33 |
 | 70 | [Só olho para ti](https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ) | [KSOLD](https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS) | [Só olho para ti](https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV) | 2:04 |
 
-Snapshot ID: `MCw1MjZlNzJhMTc3MzJmZDNhMmU0ZmRhNjZmNjhjY2JiNWU2YzFkY2Ni`
+Snapshot ID: `MCxkY2JiZjEzMDIwNzI5OTVhNTYyZmE2MTM3ODA1YTdiZThiYTgwYWI4`

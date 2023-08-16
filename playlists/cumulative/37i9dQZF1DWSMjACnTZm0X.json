@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/7lauAYc2Y3FifzGwnertrx"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "QN",
+          "url": "https://open.spotify.com/artist/1kzKTFgS57UdgIKsIDuzj5"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335357,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/1HuvcnsbUpEezwa20wr5zB"
+    },
+    {
+      "album": {
         "name": "TMX002: X & The Machine.",
         "url": "https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO"
       },
@@ -856,6 +878,28 @@
       "duration_ms": 381466,
       "name": "Ekhaya",
       "url": "https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216724,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT"
     },
     {
       "album": {
@@ -1716,7 +1760,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 328829,
       "name": "Lay It Down - Freeze",
       "url": "https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz"

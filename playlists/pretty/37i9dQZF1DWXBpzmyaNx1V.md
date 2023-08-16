@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,996 likes - 61 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,020 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 50 | [Jacaranda](https://open.spotify.com/track/2MPmqlCf6Hwgo5d2F7mA6Z) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Jacaranda](https://open.spotify.com/album/56WZTdmE87rkqZL783hDBu) | 4:24 |
 | 51 | [Liquid Sunshine](https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q) | [John Cameron](https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk) | [Kpm 1000 Series: Voices in Harmony](https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o) | 2:59 |
 | 52 | [Lemonade Lake](https://open.spotify.com/track/37c5Zy0vJIGvtW03cDamUo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 4:19 |
-| 53 | [Don't Know What's Normal](https://open.spotify.com/track/1vlQTu7N48uwUrJpgjkplL) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/5PA8t4jlj50xFU3i726YA1) | 4:30 |
+| 53 | [Don't Know What's Normal](https://open.spotify.com/track/6nF10SdhHFoplBPcynWYcI) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Don't Know What's Normal](https://open.spotify.com/album/7bJwcCp26OhNiDLkNQ8vRR) | 4:29 |
 | 54 | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:49 |
 | 55 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 |
 | 56 | [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 2:58 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 60 | [Precious Love](https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD) | 4:38 |
 | 61 | [Pomegranate Tree](https://open.spotify.com/track/0j1r9LUCbmB4v9sy6Af7VD) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Joven Navegante](https://open.spotify.com/album/3BG9yYvOHbYblsASg6biYg) | 2:58 |
 
-Snapshot ID: `MCw4MmQ5YTAwNTUzZjlkZmZkNjIyODQ0OWM1NGQzOGM4MDZlMmYxOGYy`
+Snapshot ID: `MCwzNGVhYWUwMzUwODQ1NDRhOTRkYzUzN2I5MmQ0NWVhNGVjMTEyNWY0`

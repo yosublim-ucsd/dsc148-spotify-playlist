@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Trippie Redd, Gucci Mane, and more\. Cover: DJ Khaled
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,567 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,620 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Wake Up](https://open.spotify.com/track/2Yi8ZEVOJavmqB25X9S39g) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Wake Up](https://open.spotify.com/album/4AWg4dGbPGZXTiZYl6tyH1) | 2:54 |
 | 50 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 |
 
-Snapshot ID: `MCxkNmU0MmQwNWJlZDUzNDk2MGEwZjA5MmE4ZTQwMmNiYmMxNzJkOTNk`
+Snapshot ID: `MCwxZmZkYWEyZTAxZmI5M2IyZWRiOGY0ZWE1NzAxYmM4ZDdhNjgzYzc3`

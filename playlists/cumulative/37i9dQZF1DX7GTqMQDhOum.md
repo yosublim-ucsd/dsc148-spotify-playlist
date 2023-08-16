@@ -4,7 +4,7 @@
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-61 songs - 3 hr 32 min
+71 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 | 2023-07-17 |  |
 | [Arrietty's Song](https://open.spotify.com/track/2mrzerWjuLXvRCVOKoJfOs) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [Kari\-gurashi](https://open.spotify.com/album/4ioh5WmbYxYGa9V4tMusLd) | 3:26 | 2023-07-17 |  |
 | [Ashitaka and San](https://open.spotify.com/track/6JNgTjdCMt4lYqFfFaBtCr) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:12 | 2023-07-17 |  |
+| [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 |  |
 | [Bygone Days](https://open.spotify.com/track/6hoGuPbmWRl5uw6DD1Nbbq) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Porco Rosso Soundtrack](https://open.spotify.com/album/6NhWTFHoOj5n0UhbBkq5G3) | 2:16 | 2023-07-17 |  |
 | [Carrying You](https://open.spotify.com/track/2NS9QCNalBanyRUCJxZldL) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [Laputa: Castle in the Sky Soundtrack \-The Mystery of the Levitation Stone\-](https://open.spotify.com/album/1gmwJD2H9nSka3uCAlGC4P) | 4:07 | 2023-07-17 |  |
 | [Day Of The River](https://open.spotify.com/track/26W3vc21aHLaHF90gbsiq1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:13 | 2023-07-25 |  |
@@ -66,8 +67,17 @@
 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 | 2023-07-17 |  |
 | [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 | 2023-07-17 |  |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2023-07-17 |  |
+| [呪われた海](https://open.spotify.com/track/1hcvDwUH9TPb3reDsBBqZ7) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:35 | 2023-08-15 |  |
+| [回顧](https://open.spotify.com/track/0IjUsYosfTdFU4gcpMYeyb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:23 | 2023-08-15 |  |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-17 |  |
+| [大伯父の思い](https://open.spotify.com/track/63YDgugvqRwoA6yNVuUvTr) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:42 | 2023-08-15 |  |
+| [大崩壊](https://open.spotify.com/track/7FNyGht0ashwZ4ycryZ42u) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:47 | 2023-08-15 |  |
+| [最後のほほえみ](https://open.spotify.com/track/4XmQRSaVSKFtk8Sed7eTh5) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:54 | 2023-08-15 |  |
+| [祈りのうた\(産屋\)](https://open.spotify.com/track/5A6THTmN1X0P7QaKiUpyo6) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 3:48 | 2023-08-15 |  |
+| [転生](https://open.spotify.com/track/7dMKB7fnCPPOdy6cFG2Mng) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:32 | 2023-08-15 |  |
+| [追憶](https://open.spotify.com/track/5ivNWIFi7xeiW8EfK6sa7n) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:05 | 2023-08-15 |  |
 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 | 2023-07-17 |  |
 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2023-07-17 |  |
+| [黄昏の羽根](https://open.spotify.com/track/5K65c9VZkDOUZEx4Fg9E2d) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:41 | 2023-08-15 |  |
 
 \*This playlist was first scraped on 2023-07-18. Prior content cannot be recovered.

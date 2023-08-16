@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Anna hisbbuR & Luna Is A Bep
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,869 likes - 138 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,870 likes - 138 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 31 | [齋啡](https://open.spotify.com/track/11KWczNFNykV8w12zTLi6V) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [齋啡](https://open.spotify.com/album/3EuCiGjBgwI1c5LBZD1azc) | 2:00 |
 | 32 | [流逝](https://open.spotify.com/track/5qi16YhAfALFLd98lvFvAG) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [流逝](https://open.spotify.com/album/6VwHHTX2HEtpweIJ4bGw7R) | 5:31 |
 | 33 | [CARE NO MORE](https://open.spotify.com/track/5KkfFiXEGJFvK3h3o5GGVV) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [CARE NO MORE](https://open.spotify.com/album/1q1TrXApRnt6y4JclX87yP) | 2:58 |
-| 34 | [kix \- freestyle](https://open.spotify.com/track/6FyYc5GDvi9xFkRigFJ6Wd) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix \(freestyle\)](https://open.spotify.com/album/7eBDrjZkiRcbVvpDSVjTpP) | 1:30 |
+| 34 | [kix freestyle](https://open.spotify.com/track/2rP3qGaeSmZ4UEio41Oz2l) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [kix freestyle](https://open.spotify.com/album/7BbkF2Ipp4z3XUb5HRRQTf) | 1:30 |
 | 35 | [SENSEI](https://open.spotify.com/track/1oPi24IjvMDKHQP2BQgnWb) | [WinWin 楊安妮](https://open.spotify.com/artist/2AndESNVeA7nBIvYfv5BD9) | [SENSEI](https://open.spotify.com/album/0Xv6s2zMbZDTWgPUHa95cf) | 2:54 |
 | 36 | [一](https://open.spotify.com/track/7Mezzdeav8wLVkRxHemrjR) | [xxtilldawn](https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6), [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U) | [一](https://open.spotify.com/album/6gmpKCBL3dJQwsUjyfTAcq) | 4:49 |
 | 37 | [蜘蛛](https://open.spotify.com/track/3KdThk86RRZoVCVwidyS3A) | [Pyrotechnics](https://open.spotify.com/artist/6pzXFIbEnIlksa2bH7TZsP) | [燎原](https://open.spotify.com/album/6fcjL2VMAQX2KVq3MHAzjd) | 1:54 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 137 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 138 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCw4ZmM0YjQ0ZTVlMTNkZjEyMmRiYTAyZTA3YTMwNzM1NTM1NmQ0YzFl`
+Snapshot ID: `MCxjNjlkMmJhMzU1ZTFkZjk0ZjI1ODRiMjY5MjcwMTA3NWNiYTlhOWE4`

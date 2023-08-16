@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,075 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,079 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 39 | [Trầm Tư](https://open.spotify.com/track/0TLjUhHoKW6zHc9zOCf5XN) | [boum](https://open.spotify.com/artist/6pbEZvsDqs2SGANNddwtOi) | [Trầm Tư](https://open.spotify.com/album/1HAWGALCbs90qReeN14juG) | 3:40 |
 | 40 | [CAMXUCONLY](https://open.spotify.com/track/7szft3KLdJRsjC8pWqKD7o) | [Yellowa](https://open.spotify.com/artist/4AL79ySD9YSiJAkigZjutp), [DNA](https://open.spotify.com/artist/75DK6cxkiPHJuDuzdOm4P9) | [CAMXUCONLY](https://open.spotify.com/album/6bI53p6Fu1FRNf8yYzCGpI) | 2:15 |
 | 41 | [Ký Ức Cũ](https://open.spotify.com/track/31HorEu862ZHztmVrGIAoV) | [NK](https://open.spotify.com/artist/5kkMq1nrn49WTKTxUTqCpJ), [Yeager](https://open.spotify.com/artist/3I8v4jFUjZwy0T5fL8byn9) | [Ký Ức Cũ](https://open.spotify.com/album/4Jh2RjcZklpTM0xdzr7dNi) | 3:01 |
-| 42 | [Cloud 9](https://open.spotify.com/track/2Jaq3kR8MqQObCC52m3WP8) | [quỳnh](https://open.spotify.com/artist/4GVQTmR9Zwttu7E2wrPxjP), [Todd Tran](https://open.spotify.com/artist/33QnwgJRLvTlLWuhnxya6s) | [Cloud 9](https://open.spotify.com/album/5zxVxVuM2U9ho40uwTS2q5) | 2:31 |
+| 42 | [Cloud9 \- Acoustic](https://open.spotify.com/track/2Jaq3kR8MqQObCC52m3WP8) | [quỳnh](https://open.spotify.com/artist/4GVQTmR9Zwttu7E2wrPxjP), [Tahnyia](https://open.spotify.com/artist/6a300BjeXWkIFmLT3YSuO8), [Todd Tran](https://open.spotify.com/artist/33QnwgJRLvTlLWuhnxya6s) | [Cloud9 \- Acoustic](https://open.spotify.com/album/5zxVxVuM2U9ho40uwTS2q5) | 2:31 |
 | 43 | [Nổi Gió Rồi](https://open.spotify.com/track/2WV44nKGCahw1lpbrhL3eJ) | [Nguyễn Hoàng Minh Khôi](https://open.spotify.com/artist/4I2wDGfh61KDoqB2A0JJcf) | [Nổi Gió Rồi](https://open.spotify.com/album/0LFpZLf2kFkeV0BLE4VcPK) | 5:16 |
 | 44 | [Muốn Quên Được Em](https://open.spotify.com/track/5fNt60LsPBEWJms7a9v43f) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Muốn Quên Được Em](https://open.spotify.com/album/7aXAcNjKhxh1GBv8anKYxg) | 3:10 |
 | 45 | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/track/2iqjXz4lV60gf3tvI4JJzU) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/album/1Zv1TwIvTb1aMtiNMxcB6W) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Cho Em Quá Giang](https://open.spotify.com/track/3R42syCEXXWYvAWd9ynQew) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Xander Quỳnh](https://open.spotify.com/artist/5RbdA5BHJeiJFt4JSKyTFY), [Nghia](https://open.spotify.com/artist/6dyqPCphvUITLI3JSkW2TH) | [Cho Em Quá Giang](https://open.spotify.com/album/66sCiGGV5DPl3sQR9Tdf3b) | 3:37 |
 | 100 | [Một Đóa Hồng](https://open.spotify.com/track/1HKq8VXzFKFkp0Zd8P6bPg) | [Lưu Hiền Trinh](https://open.spotify.com/artist/29hovPFGCgeyNPRMjfVhzP) | [Một Đóa Hồng](https://open.spotify.com/album/0HAmNecrIuTDLWlVTyndsP) | 3:21 |
 
-Snapshot ID: `MCxjMzg3Yzk4OWQ4ODMwZmQ1MDhjYjgyODgyNzk2ZWUzZTVmNjBmZjY0`
+Snapshot ID: `MCw4MTU5NzM3NTkxMzZjZDVlMTk2YzRhZWUwNjJjMmEyNzRkMTlkZWI4`

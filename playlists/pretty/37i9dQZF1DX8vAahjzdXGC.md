@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: V
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,364 likes - 97 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,408 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 |
 | 18 | [Jakarta Freestyle](https://open.spotify.com/track/5YLSbIQkUWrZgHpSYObShA) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs) | [Jakarta Freestyle](https://open.spotify.com/album/55m3oonZdZYTeDFP7dYUUz) | 2:44 |
 | 19 | [PROTEZT](https://open.spotify.com/track/7ou2pIRaEektTukh1oOecN) | [Block8](https://open.spotify.com/artist/07eym6kJMnZ2lBnLTuQMkA) | [PROTEZT](https://open.spotify.com/album/3eWj85whDFF0CR99ksBeYr) | 2:51 |
-| 20 | [Way Too Easy](https://open.spotify.com/track/6pfl1cJuB0PK7kkBiXYAm3) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj), [Hazy Dael](https://open.spotify.com/artist/2hmy1VCX1tjw9pBZ0plk52) | [Way Too Easy](https://open.spotify.com/album/1YSgcetRMAxSjCVIBgdaMo) | 2:51 |
+| 20 | [Way Too Easy \(feat\. Hazy Dael\)](https://open.spotify.com/track/1EEUpd8kCnwXUzuZC5AaPa) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj), [Hazy Dael](https://open.spotify.com/artist/2hmy1VCX1tjw9pBZ0plk52) | [Way Too Easy \(feat\. Hazy Dael\)](https://open.spotify.com/album/28av6npQRCcbIodjLtC1kx) | 2:51 |
 | 21 | [Sights](https://open.spotify.com/track/2UvMH3V2MRzke8Gp4F5WnE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Sights](https://open.spotify.com/album/68aaWS6579noGSQbCC0LuF) | 2:25 |
 | 22 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
 | 23 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [Last Bite](https://open.spotify.com/track/0b6OaKlmNGqPH1LElAFOAx) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Sleepless Mentality](https://open.spotify.com/album/4QuBFVJDDVkYweqV4SIUue) | 2:48 |
 | 97 | [maraschino](https://open.spotify.com/track/5DSB71uDcChPUK9EjFHWvZ) | [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [spice village](https://open.spotify.com/album/3VWqYKSHeAYT8bm7X6lbcl) | 2:41 |
 
-Snapshot ID: `MCw2NjZiZmQ0YWVjZWVhZjhmMDNlYjgwY2UwNTJiZDAxYTMxNmVkMGQ2`
+Snapshot ID: `MCwyMWZkMGIzOWM5MDFiY2NhNjJjMjU2ZGQ1MDZlMGU1MzE4N2JlMzU2`

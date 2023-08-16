@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 216000,
       "name": "Khir",
       "url": "https://open.spotify.com/track/26Xvxzbj11H9b04kc7RTZ4"
@@ -1850,6 +1850,24 @@
       "duration_ms": 203640,
       "name": "Maghrebins",
       "url": "https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi"
+    },
+    {
+      "album": {
+        "name": "Manetfergou",
+        "url": "https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8"
+      },
+      "artists": [
+        {
+          "name": "JenJoon",
+          "url": "https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197369,
+      "name": "Manetfergou",
+      "url": "https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN"
     },
     {
       "album": {

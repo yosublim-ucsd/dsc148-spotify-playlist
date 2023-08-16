@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Tina Pámpano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,418 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,429 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [KTDN](https://open.spotify.com/track/1hOJbxqSn1oKuZcI7mBTbc) | [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4) | [KTDN](https://open.spotify.com/album/3isoMDNmc4Fb8kYKoQmuCq) | 2:42 |
 | 50 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 |
 
-Snapshot ID: `MCw1ZGJiNWFlZTkzZmQ4ZTE2M2MzYzFiY2YxYzA4Y2M4MTRkYzJlOTc5`
+Snapshot ID: `MCw4YzUxOWIzYTUwMGU2OGY1NjdiODVlMTFkODNjNDA0M2IwMmNiYjE1`

@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 169275,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
@@ -7376,6 +7376,28 @@
       "duration_ms": 147476,
       "name": "Viciado em Voc\u00ea",
       "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+    },
+    {
+      "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/6lPVem3TX0KU7zpcCXFSmG"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        },
+        {
+          "name": "VMZ",
+          "url": "https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ICvI9uVJefqGANLOSwrTt"
     },
     {
       "album": {

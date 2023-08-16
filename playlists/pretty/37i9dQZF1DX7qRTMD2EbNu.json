@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TohXHTvwSMGhjedgd0jbIw\"> Black Sherif </a> ",
-  "num_followers": 14020,
+  "num_followers": 14038,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDRkYmJlZDcxYTg0YWRmNWY5MDlhMWYzNjRiMWNkNjA4MDdmOWQ5",
+  "snapshot_id": "MCxkMTU1ZTIzYTFkNjc0ZjBhMmFkNmE0NGIzOGNhODQzOTYxNDVmMGE2",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -591,6 +591,22 @@
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Shine Your Eye",
+        "url": "https://open.spotify.com/album/6fG3vEiH8iF4mdmCLBpB5U"
+      },
+      "artists": [
+        {
+          "name": "Sista Afia",
+          "url": "https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf"
+        }
+      ],
+      "duration_ms": 143569,
+      "name": "Shine Your Eye",
+      "url": "https://open.spotify.com/track/2Yln2fcUp5y3C1igJaPuWB"
     },
     {
       "added_at": "2023-08-10 23:00:00",

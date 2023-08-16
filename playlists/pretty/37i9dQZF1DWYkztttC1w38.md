@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,442 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,587 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 23 | [Dvorák / Transc\. Lenaerts: Rusalka, Op\. 114, Act 1: Song to the Moon](https://open.spotify.com/track/5nOSt81jKAUYZpTdjcfEOA) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 5:53 |
 | 24 | [Plus tôt \(String Quartet Version\) \- Spotify Singles](https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 3:53 |
 | 25 | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/track/1kYPoC4fHUqj31mC53gB9e) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Juritz](https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Tim Hugh](https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk) | [Goldberg Variations, BWV 988: XIII\. Variation 13 \(arr\. David Juritz\)](https://open.spotify.com/album/5Qf3KbhDYJF9hcHP9cBtVY) | 3:39 |
-| 26 | [Lawson: In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
+| 26 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 27 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 |
 | 28 | [DANCE: I\. when you're broken open](https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Anna Clyne: DANCE \- Edward Elgar: Cello Concerto](https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4) | 4:44 |
 | 29 | [Serenade for Strings in E Major, Op\. 22, B\. 52: IV\. Larghetto](https://open.spotify.com/track/3o9br9LskOEbwc5irxfHqR) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Serenades for Strings and Winds](https://open.spotify.com/album/2kIYajHnGZfecURpw7QyAo) | 4:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 64 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 65 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 
-Snapshot ID: `MCw1ZmFiY2FhYzVhODllY2M3Yjg0NzJiNTQwMjgxZTVjMjFmNjY2YzBh`
+Snapshot ID: `MCwwMmFkOTAxZmU4ZDlhMmY1YjU4YjMxNGJiODg4OTNlNGE0NjU3ZWMz`

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 304316,
+  "num_followers": 304520,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmU2MmEzOGUxMjVlYjgzNjM0NzBlYzU2NTFmMjIxZTE5YTcyYzMx",
+  "snapshot_id": "MCwwYjc5ZDUzY2RiNDJmZmMxNjVkZDE5MDZiYTRlNjA1MGRkMjRhYjBi",
   "tracks": [
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "26 Grandes Canciones Y Una Nube Blanca",
         "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 317733,
       "name": "El Hombre del Piano",
       "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Comando Antivand\u00e1lico, Pero Violento",
-        "url": "https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 214101,
-      "name": "Comando Antivand\u00e1lico, Pero Violento",
-      "url": "https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Aunque t\u00fa no lo sepas",
         "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Comando Antivand\u00e1lico, Pero Violento",
+        "url": "https://open.spotify.com/album/19FKHlGrl68xlfNDuo9k8x"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "duration_ms": 214101,
+      "name": "Comando Antivand\u00e1lico, Pero Violento",
+      "url": "https://open.spotify.com/track/5Hq9XnHCw4VibGhCImcHBu"
     },
     {
       "added_at": "2023-08-10 22:00:00",

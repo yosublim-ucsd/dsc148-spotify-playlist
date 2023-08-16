@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 56498,
+  "num_followers": 56507,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmUxOGNmMWZiZGIwNjBjOGRlZDQyNmJlZTIyNzA0MDk0ZDg2MWI1",
+  "snapshot_id": "MCw3YzJjMjJhMTRkNDg0ZDc4MTY4NzBhMTQwMWY0ZmI1N2ZkZDVjNjkw",
   "tracks": [
     {
       "added_at": "2023-08-14 04:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Outro Lugar",
-        "url": "https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx"
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
       "artists": [
         {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 201375,
-      "name": "Outro Lugar",
-      "url": "https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0"
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+        "name": "Outro Lugar",
+        "url": "https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+      "duration_ms": 201375,
+      "name": "Outro Lugar",
+      "url": "https://open.spotify.com/track/11NkxJtowfjaJksJbjYAS0"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 268760,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 268760,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
         "name": "Aqui, Ali, Em Qualquer Lugar",
         "url": "https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 158160,
       "name": "She Loves You",
       "url": "https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
+        "name": "The Night We Called It a Day",
+        "url": "https://open.spotify.com/album/1NoYS5pWC63LmIKrrvhwra"
+      },
+      "artists": [
+        {
+          "name": "Maria Emrik",
+          "url": "https://open.spotify.com/artist/3QCeDi6E5ejiJE2ZfIazBH"
+        }
+      ],
+      "duration_ms": 308393,
+      "name": "The Night We Called It a Day",
+      "url": "https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Can\u00e7\u00f5es de Caymmi",
-        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
-      },
-      "artists": [
-        {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "L\u00e1 Vem a Baiana",
-      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
         "name": "Vira Talisa",
         "url": "https://open.spotify.com/album/1QlGWCclW1wtmodp1pD9OO"
       },
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
+        "name": "Can\u00e7\u00f5es de Caymmi",
+        "url": "https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "L\u00e1 Vem a Baiana",
+      "url": "https://open.spotify.com/track/1n441XV55b21VveSUSA1SA"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
-        "name": "The Night We Called It a Day",
-        "url": "https://open.spotify.com/album/1NoYS5pWC63LmIKrrvhwra"
-      },
-      "artists": [
-        {
-          "name": "Maria Emrik",
-          "url": "https://open.spotify.com/artist/3QCeDi6E5ejiJE2ZfIazBH"
-        }
-      ],
-      "duration_ms": 308393,
-      "name": "The Night We Called It a Day",
-      "url": "https://open.spotify.com/track/583lWzdB70dnWKa8qzBAOl"
     },
     {
       "added_at": "2023-08-14 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-14 04:00:00",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
-    },
-    {
-      "added_at": "2023-08-14 04:00:00",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "added_at": "2023-08-14 04:00:00",
+      "album": {
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2023-08-14 04:00:00",

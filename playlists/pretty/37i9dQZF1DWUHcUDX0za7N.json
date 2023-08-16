@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 24019,
+  "num_followers": 24071,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2RlY2YxZjYzZGY5YmQ5ZGRkZjVjNDQ3ZjBlMDgwNmUwNzExZDY2",
+  "snapshot_id": "MCw4NjgwYmYyYTI4YWQ1MjRjZDZhYzA2MjQxNzhiMzdkYzdiYTM3ZWI5",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn"
       },
       "artists": [
         {
           "name": "Jeriq",
           "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+      "duration_ms": 150620,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1087,42 +1083,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/22URoqf24iLEXcZPKd6NWn"
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
       "artists": [
         {
           "name": "Jeriq",
           "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/4opSFGcLXcnaacX04QvEiB"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "JAIYE EVERYDAY",
-        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
-      },
-      "artists": [
-        {
-          "name": "KIING LU",
-          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
         },
         {
-          "name": "DAPO TUBURNA",
-          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
-        },
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 180535,
-      "name": "JAIYE EVERYDAY",
-      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1147,6 +1123,30 @@
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "JAIYE EVERYDAY",
+        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
+      },
+      "artists": [
+        {
+          "name": "KIING LU",
+          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
+        },
+        {
+          "name": "DAPO TUBURNA",
+          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
+        },
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "JAIYE EVERYDAY",
+      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1231,30 +1231,26 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+        "name": "STILL FIGURING LIFE",
+        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+      "duration_ms": 161118,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1299,26 +1295,30 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "STILL FIGURING LIFE",
-        "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 161118,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
     },
     {
       "added_at": "2023-08-10 23:00:00",

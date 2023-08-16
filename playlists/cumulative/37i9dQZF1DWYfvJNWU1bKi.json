@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 183758,
       "name": "Paarthen (The Youth Of Power Paandi)",
       "url": "https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja"
@@ -2392,6 +2392,28 @@
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3"
+    },
+    {
+      "album": {
+        "name": "Power Paandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24rauNoAozl813FIZMORTK"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183758,
+      "name": "The Youth Of Power Paandi - Paarthen",
+      "url": "https://open.spotify.com/track/2cflOokNPNWlHBB398YO63"
     },
     {
       "album": {

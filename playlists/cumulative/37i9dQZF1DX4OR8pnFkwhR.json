@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Furui Riho",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 198416,
       "name": "4ever",
       "url": "https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9"
@@ -2863,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/36dFPGk3EyAshM1NBcTlZc"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244291,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/1GmdXQcxYliE2iTyNhEvui"
+    },
+    {
+      "album": {
         "name": "enemy",
         "url": "https://open.spotify.com/album/4qRXeEzlFMUJozSzXGCDX4"
       },
@@ -4004,7 +4022,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 157777,
       "name": "HIDEOUT",
       "url": "https://open.spotify.com/track/5JbhaBfVDztQ9gvvDXns0r"
@@ -7479,6 +7497,24 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169885,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
+    },
+    {
+      "album": {
         "name": "PULL UP",
         "url": "https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic"
       },
@@ -8505,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "Similar",
+        "url": "https://open.spotify.com/album/2iixevVJRGjDAwdIeEWskt"
+      },
+      "artists": [
+        {
+          "name": "Houkago Hotal",
+          "url": "https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191860,
+      "name": "Similar",
+      "url": "https://open.spotify.com/track/5rED2p3ixwhiHaLfX02TXo"
+    },
+    {
+      "album": {
         "name": "sinister",
         "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
       },
@@ -9300,7 +9354,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 202706,
       "name": "Super Star",
       "url": "https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE"
@@ -10546,7 +10600,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 230676,
       "name": "Water",
       "url": "https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U"
@@ -12180,7 +12234,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 165733,
       "name": "\u306a\u3093\u3066\u3063\u305f\u3063\u3051\u30bf\u30a4\u30c8\u30eb",
       "url": "https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU"
@@ -13318,7 +13372,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 191466,
       "name": "\u30c0\u30ed\u30a6",
       "url": "https://open.spotify.com/track/16B2RmB3Zrle55oDMIeAtG"
@@ -13989,6 +14043,24 @@
     },
     {
       "album": {
+        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234566,
+      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
+    },
+    {
+      "album": {
         "name": "\u30da\u30fc\u30d1\u30fc\u30c9\u30e9\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/1xJSe3DIBkewet7dXPSV19"
       },
@@ -14498,6 +14570,24 @@
       "duration_ms": 174000,
       "name": "\u30ed\u30de\u30f3\u30b9\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/5u8cewChWsrfMN56zcQg8U"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30ed\u30f3\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/2O7k7jJgZbIbIAkatBrBvB"
+      },
+      "artists": [
+        {
+          "name": "WANG GUNG BAND",
+          "url": "https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237365,
+      "name": "\u30ed\u30f3\u30ea\u30ed\u30f3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6lY1Df917IGgKv3lxFMnF5"
     },
     {
       "album": {
@@ -17374,6 +17464,24 @@
       "duration_ms": 74451,
       "name": "\u71e6\u7136\u3068\u8f1d\u304f\u3068\u306f",
       "url": "https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49"
+    },
+    {
+      "album": {
+        "name": "\u721b\u6f2b\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4kIoWPlTbkRwgFyoIBvOSk"
+      },
+      "artists": [
+        {
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u721b\u6f2b\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/5YNjEDVaYH6RTwD3LsuZ8v"
     },
     {
       "album": {

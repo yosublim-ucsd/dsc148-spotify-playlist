@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,382 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,519 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 32 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 |
 | 33 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 |
 | 34 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 |
-| 35 | [Lawson: In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
+| 35 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 36 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 |
 | 37 | [Transparency](https://open.spotify.com/track/7sQnDcPTyqL2RwtHr2GvR9) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Transparency](https://open.spotify.com/album/10mnMUjzyNxneRsoHzah7q) | 2:45 |
 | 38 | [Opus 18 \- Silfur Version](https://open.spotify.com/track/0iWEx7UUUFMZ2Vtf2x99PS) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Opus 18 \(Silfur Version\)](https://open.spotify.com/album/04phqZnlwfgnX8a7jLQi8M) | 3:31 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 98 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 |
 | 99 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 |
 
-Snapshot ID: `MCwzMGIyMGM2MjgzODk1ZGM5NDdkOTRkOGUxZjVhNzQ2MTJmNzE4ODg2`
+Snapshot ID: `MCw0YTljZDc0NmJmMTI4YWQ2ZDAzMDFmOWZlZjA1ODIyMzZjZTlhMjY4`

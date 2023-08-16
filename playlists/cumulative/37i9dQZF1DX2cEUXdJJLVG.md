@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-263 songs - 15 hr 53 min
+264 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Need Somebody \(feat\. Simon Jnr\)](https://open.spotify.com/track/0lJ1MhIYQv2vP4fJOvV1dE) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Need Somebody \(feat\. Simon Jnr\)](https://open.spotify.com/album/6CiwYfai0tGINQm1pGgMQD) | 2:52 | 2022-09-09 | 2022-12-02 |
 | [New Earth](https://open.spotify.com/track/2E4vDslJtI2rF1sibFUXO5) | [Joshua Bredow](https://open.spotify.com/artist/1TXaey5ct7JzJsUQFSmCnF) | [New Earth](https://open.spotify.com/album/5x37IsVtadwOD6ELuEG0W1) | 3:24 | 2022-09-09 | 2022-09-16 |
 | [New Love](https://open.spotify.com/track/6O4IrYYhx5YFcneT5Oxtd6) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Sunflower](https://open.spotify.com/album/6JWuJhE6y7PR9WoNiEvM4s) | 4:00 | 2022-09-09 | 2022-09-16 |
+| [New View](https://open.spotify.com/track/5ovfNHvYoSkgotc30bn8uL) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN) | [New View](https://open.spotify.com/album/4SLW1wlhfhuYnikmMFhumC) | 3:27 | 2023-08-15 |  |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-22 |  |
 | [No Pressure](https://open.spotify.com/track/30YcRhbM8ChTRp9ocwxCQh) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [No Pressure](https://open.spotify.com/album/0lHku96pxwHcs2PMQhVrUK) | 3:21 | 2022-09-09 |  |
 | [No Soul Fo Sale](https://open.spotify.com/track/0k0FKfVLDEdQKfyfgxbpWa) | [John Parm](https://open.spotify.com/artist/6sH4U1jng4pnJLkWPHsIY4), [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [No Soul Fo Sale](https://open.spotify.com/album/6FcJUwmI5QlRlppe9UA95K) | 3:39 | 2022-09-09 | 2022-10-15 |

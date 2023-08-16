@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Cry In The Gaze (about you)",
+        "url": "https://open.spotify.com/album/2D9JioL3U8aaTHP5c0qeqn"
+      },
+      "artists": [
+        {
+          "name": "Zen Miyako",
+          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Cry In The Gaze (about you)",
+      "url": "https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P"
+    },
+    {
+      "album": {
         "name": "The Sun Rises Everywhere #1",
         "url": "https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd"
       },
@@ -4383,6 +4401,28 @@
     },
     {
       "album": {
+        "name": "Summer End\u2019s Girl",
+        "url": "https://open.spotify.com/album/7qXN5WipIfbWmsOKMKl55S"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168132,
+      "name": "Hitori",
+      "url": "https://open.spotify.com/track/1DKRrwHEknZijz2ioI6BEG"
+    },
+    {
+      "album": {
         "name": "Hizuru (Jazztronik Remix)",
         "url": "https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd"
       },
@@ -5234,7 +5274,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 120000,
       "name": "Keyframe",
       "url": "https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL"
@@ -11852,7 +11892,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 274572,
       "name": "Yanagi Ni Kaze - rework",
       "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"

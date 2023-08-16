@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,379 likes - 110 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,460 likes - 110 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 109 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 |
 | 110 | [Atlas](https://open.spotify.com/track/7Ld82Xo4cv71JmVpevFAHO) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Atlas](https://open.spotify.com/album/454YxMcqipagvCU1scUyz2) | 2:54 |
 
-Snapshot ID: `MCxlMzFkMDRjZWI2ZjEwNmRlYTZmMTk5ZmMwODc0NDAxNGQ1YTEyYmY3`
+Snapshot ID: `MCw5MTM2YTJhZGRkODQ1YjMxODU1MTQ3NmFjYmI2MDdhMGZmZjM0Nzk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 
 > Wrench your heart out with NIKI but she's letting go
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,013 likes - 48 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,178 likes - 48 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT47jrFbmL3z.md) - [plain]
 | 47 | [Forever \(feat\. NIKI\)](https://open.spotify.com/track/2wyp1XPf7VKe7mTljnsMs8) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chameleon](https://open.spotify.com/album/7lIManImBDxFptYJylm8mB) | 2:56 |
 | 48 | [Poolside Manor](https://open.spotify.com/track/6XexzlVsjQOuNQ5pcfWOdq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:50 |
 
-Snapshot ID: `MCxjNTRkOTkyZTI1NzcxY2ZkYTlmZTI0NjBjODVlZjRhYTk5NTBmYjk2`
+Snapshot ID: `MCxiZjQzZTljYjMzMTc3Zjg4MzE0ZDk0NDlmNWRkMDdiY2I2MmQyMTc2`

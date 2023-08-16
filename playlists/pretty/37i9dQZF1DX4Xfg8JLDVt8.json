@@ -1,12 +1,12 @@
 {
   "description": "Modo cursi: ON #RelationshipGoals",
-  "num_followers": 216462,
+  "num_followers": 216692,
   "original_name": "Goals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTRiYzM3MzU3MmRjZmNkNGJjNjM3MzliNTRmMmYyMDI2MDA3ZmM1",
+  "snapshot_id": "MCwyOWI0ZmRmZGU4YzI5MjJjZThjOTVlMDdlYjE2YmEzNGQzZTM1NThi",
   "tracks": [
     {
       "added_at": "2023-08-10 22:49:17",
@@ -863,6 +863,26 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2023-08-10 22:49:17",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
     },
     {
       "added_at": "2023-08-10 22:49:17",

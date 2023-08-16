@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Let Me Call (Live Chicago '76)",
+        "url": "https://open.spotify.com/album/7jkN1Btq258GzRTTvfZ8KP"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278886,
+      "name": "Crawlin' King Snake - Live",
+      "url": "https://open.spotify.com/track/0GtsDors3yNyty544NPAOP"
+    },
+    {
+      "album": {
         "name": "READY TO BE",
         "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
       },
@@ -11470,7 +11488,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-16",
       "duration_ms": 266181,
       "name": "Tunguska",
       "url": "https://open.spotify.com/track/5CHhfCYtHpot20CaQDuDpf"

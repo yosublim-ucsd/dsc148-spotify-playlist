@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 124400,
+  "num_followers": 124464,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew",
+  "snapshot_id": "MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Escumalha",
-        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
-      },
-      "artists": [
-        {
-          "name": "Douglas Germano",
-          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
-        }
-      ],
-      "duration_ms": 311053,
-      "name": "Tempo Velho",
-      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Chico Buarque De Hollanda N\u00ba4",
         "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 199666,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Escumalha",
+        "url": "https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq"
+      },
+      "artists": [
+        {
+          "name": "Douglas Germano",
+          "url": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+        }
+      ],
+      "duration_ms": 311053,
+      "name": "Tempo Velho",
+      "url": "https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Paira no Ar",
-        "url": "https://open.spotify.com/album/20W8NdudWpnH6GU9Fn7fa1"
+        "name": "Samba a Dois",
+        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
       },
       "artists": [
         {
-          "name": "\u010cao Laru",
-          "url": "https://open.spotify.com/artist/6ReShUbIFjrJiFy16Ig5aX"
-        },
-        {
-          "name": "P\u00e1ssaro Vivo",
-          "url": "https://open.spotify.com/artist/4c0nlnm0qUWcNleGhvCEr8"
+          "name": "Samb\u00f4",
+          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
         }
       ],
-      "duration_ms": 193682,
-      "name": "Paira no Ar",
-      "url": "https://open.spotify.com/track/5JFZgF38a3bINUXwEr8YSx"
+      "duration_ms": 156031,
+      "name": "Samba a Dois",
+      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Tropicalia 2",
-        "url": "https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg"
+        "name": "Paira no Ar",
+        "url": "https://open.spotify.com/album/20W8NdudWpnH6GU9Fn7fa1"
       },
       "artists": [
         {
-          "name": "Caetano Veloso e Gilberto Gil",
-          "url": "https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl"
+          "name": "\u010cao Laru",
+          "url": "https://open.spotify.com/artist/6ReShUbIFjrJiFy16Ig5aX"
+        },
+        {
+          "name": "P\u00e1ssaro Vivo",
+          "url": "https://open.spotify.com/artist/4c0nlnm0qUWcNleGhvCEr8"
         }
       ],
-      "duration_ms": 311240,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3"
+      "duration_ms": 193682,
+      "name": "Paira no Ar",
+      "url": "https://open.spotify.com/track/5JFZgF38a3bINUXwEr8YSx"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+        "name": "Tropicalia 2",
+        "url": "https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg"
       },
       "artists": [
         {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+          "name": "Caetano Veloso e Gilberto Gil",
+          "url": "https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl"
         }
       ],
-      "duration_ms": 156031,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
+      "duration_ms": 311240,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Le\u00e3o Alado Sem Juba",
-        "url": "https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC"
-      },
-      "artists": [
-        {
-          "name": "Bruno Capinan",
-          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
-        }
-      ],
-      "duration_ms": 157329,
-      "name": "\u00daltimo Carnaval",
-      "url": "https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
         "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 249933,
       "name": "Samba Jazz, de Raiz",
       "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Le\u00e3o Alado Sem Juba",
+        "url": "https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC"
+      },
+      "artists": [
+        {
+          "name": "Bruno Capinan",
+          "url": "https://open.spotify.com/artist/1BBIHguUeo7dz6dpHA6ThV"
+        }
+      ],
+      "duration_ms": 157329,
+      "name": "\u00daltimo Carnaval",
+      "url": "https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "E o Mundo N\u00e3o Se Acabou",
-        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
+        "name": "Fazendo as Pazes Com o Swing",
+        "url": "https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8"
       },
       "artists": [
         {
-          "name": "Mimi Wankenne",
-          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
+          "name": "Orquestra Imperial",
+          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
+        },
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
         }
       ],
-      "duration_ms": 124880,
-      "name": "E o Mundo N\u00e3o Se Acabou",
-      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
+      "duration_ms": 190880,
+      "name": "Pode Ser",
+      "url": "https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Fazendo as Pazes Com o Swing",
-        "url": "https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8"
+        "name": "E o Mundo N\u00e3o Se Acabou",
+        "url": "https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A"
       },
       "artists": [
         {
-          "name": "Orquestra Imperial",
-          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
-        },
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+          "name": "Mimi Wankenne",
+          "url": "https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds"
         }
       ],
-      "duration_ms": 190880,
-      "name": "Pode Ser",
-      "url": "https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS"
+      "duration_ms": 124880,
+      "name": "E o Mundo N\u00e3o Se Acabou",
+      "url": "https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Conto De Areia",
+      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Tudo Est\u00e1 Dito",
         "url": "https://open.spotify.com/album/0BEAmLlAloIAJs6CvbzV53"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 181680,
       "name": "Sambolento",
       "url": "https://open.spotify.com/track/1GeRxVfYcd37eU6RswEK7M"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Conto De Areia",
-      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
     },
     {
       "added_at": "2023-08-04 03:01:00",
