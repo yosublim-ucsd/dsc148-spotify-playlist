@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6520\)
+## Playlists \(6521\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2222,6 +2222,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hawaiian Dreams](/playlists/pretty/37i9dQZF1DX5FuBDzVtEFX.md)
 - [Headliners](/playlists/pretty/37i9dQZF1DX8D2YR1GbW3K.md)
 - [Headphones on, World Off](/playlists/pretty/37i9dQZF1DWU05aHRDUDnL.md)
+- [Headspace Dampening Tunage](/playlists/pretty/21R6Tl68DEhGqrfOdSAtSZ.md)
 - [Healin' Blues](/playlists/pretty/37i9dQZF1DX1STMhgdmNBY.md)
 - [Healing Harps](/playlists/pretty/37i9dQZF1DX6dZ7oW0l88P.md)
 - [Healing Rhythms](/playlists/pretty/37i9dQZF1DX3SEFZskKvKB.md)
