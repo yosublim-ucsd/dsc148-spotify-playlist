@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-153 songs - 8 hr 29 min
+154 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Bassline Rampage](https://open.spotify.com/track/75zBDtdf6l36bKNP6cCuR4) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Rampage](https://open.spotify.com/album/5XANwJKyvXOc3kAktvhyZG) | 3:02 | 2023-06-30 |  |
 | [Before I Wake](https://open.spotify.com/track/1E98GLyca4lWhGg0UJjIWE) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Before I Wake](https://open.spotify.com/album/03shY44GfauTzF4uVsDZiV) | 3:01 | 2022-12-08 | 2023-02-23 |
 | [Bloody Mary](https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Bloody Mary](https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9) | 2:32 | 2023-03-30 |  |
+| [BLOW THE SPEAKERS UP](https://open.spotify.com/track/3Z6yPfZ18vOpDcmvMsgTxg) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [BLOW THE SPEAKERS UP](https://open.spotify.com/album/3RPjZ1oE9b7FRHPEXQQrDl) | 3:02 | 2023-08-16 |  |
 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 | 2022-12-08 |  |
 | [Boom Boom Boom](https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Boom Boom Boom](https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8) | 3:16 | 2023-06-30 |  |
-| [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 | 2023-03-13 |  |
+| [Bounce B\#tch](https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Bounce B\#tch](https://open.spotify.com/album/4AeJff1Luy0nNTDchtaacw) | 2:07 | 2023-03-13 | 2023-08-17 |
 | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/track/1VtGStey2iPgtZSLHU6sf0) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Break Free \(Official Decibel Outdoor 2022 Anthem\)](https://open.spotify.com/album/0YzBhIvuaOqtdBsVjmNnDq) | 4:48 | 2022-12-08 |  |
 | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/track/6aQ1baorPslq7nNhyIFsKY) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Breaking Boundaries \(The Qontinent Anthem 2022\)](https://open.spotify.com/album/1K4tPe5ZzHev2av0X3kJ1c) | 4:54 | 2022-12-08 | 2023-02-10 |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2023-02-09 | 2023-04-07 |

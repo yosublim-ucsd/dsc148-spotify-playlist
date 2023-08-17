@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A Night In Oran",
+        "url": "https://open.spotify.com/album/66hRtpCD7SQJhDxizws50D"
+      },
+      "artists": [
+        {
+          "name": "Anis",
+          "url": "https://open.spotify.com/artist/1ReBY4xAFemmAQDNVXsteI"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186267,
+      "name": "A Night In Oran",
+      "url": "https://open.spotify.com/track/6lgo2gxbeO7aFdJIOcxESk"
+    },
+    {
+      "album": {
         "name": "a tteddu",
         "url": "https://open.spotify.com/album/1EbTHyQtLC1l98Hv9XtsrH"
       },
@@ -304,6 +322,32 @@
       "duration_ms": 242926,
       "name": "Adieu El Ouzoubia",
       "url": "https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1"
+    },
+    {
+      "album": {
+        "name": "Alawah",
+        "url": "https://open.spotify.com/album/2bkMtsolIrPNjjElDlsHgu"
+      },
+      "artists": [
+        {
+          "name": "Ihan",
+          "url": "https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O"
+        },
+        {
+          "name": "Twelve",
+          "url": "https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E"
+        },
+        {
+          "name": "Djam",
+          "url": "https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "Alawah",
+      "url": "https://open.spotify.com/track/2JcmtY1DEykgIxGJNSZtTB"
     },
     {
       "album": {

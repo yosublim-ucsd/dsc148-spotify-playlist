@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 15209,
+  "num_followers": 15323,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkxMjcxZjY0NDg4YzQ2YzVjMDAzNzFkNzlmMDQzMzNhMDNhMWI2",
+  "snapshot_id": "MCxmZDU5OGExY2ZmY2I4ODEwYjA3NTdlNTlkZGFkMTY3ODI2YWFiMzRj",
   "tracks": [
     {
       "added_at": "2023-08-04 09:26:45",
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+        "name": "Sommertag",
+        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
       },
       "artists": [
         {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+      "duration_ms": 128444,
+      "name": "Sommertag",
+      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -583,6 +579,26 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
         "name": "Kinderlieder - umgedacht & neu gemacht",
         "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 138266,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
-        "name": "Sommertag",
-        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "Sommertag",
-      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2023-08-04 09:26:45",

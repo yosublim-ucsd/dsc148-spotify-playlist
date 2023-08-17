@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/6gt95cGChUTOIXzwUQgkmF"
+      },
+      "artists": [
+        {
+          "name": "McKay",
+          "url": "https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302010,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/0LaHUAmXfVgd5qh1asqUU4"
+    },
+    {
+      "album": {
         "name": "Barefoot Child",
         "url": "https://open.spotify.com/album/6VZ4Xh33YnA55zhfUwH1uR"
       },
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 113573,
       "name": "Bush",
       "url": "https://open.spotify.com/track/4QEhaZQmYvwh3eZV3BAvKN"
@@ -2261,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9 Patterson",
+          "url": "https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189716,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o"
+    },
+    {
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4"
       },
@@ -2643,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Could We, Canvey",
+        "url": "https://open.spotify.com/album/2G9fmoZyrM6lQM7qfI8ruH"
+      },
+      "artists": [
+        {
+          "name": "Spencer Cullum",
+          "url": "https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198141,
+      "name": "Could We, Canvey",
+      "url": "https://open.spotify.com/track/52T9NqAlnO3ZlKNrVgc9JU"
+    },
+    {
+      "album": {
         "name": "cowboy",
         "url": "https://open.spotify.com/album/0WeYuFpp1OiEyEKu0cAcWU"
       },
@@ -2748,6 +2802,24 @@
       "duration_ms": 205280,
       "name": "Cowboy in London",
       "url": "https://open.spotify.com/track/5QC7cT16JXayKU12sefJkA"
+    },
+    {
+      "album": {
+        "name": "Cowboy Song",
+        "url": "https://open.spotify.com/album/3AyKiuWP2AWveRAqzRfxDq"
+      },
+      "artists": [
+        {
+          "name": "Bella Porter",
+          "url": "https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275216,
+      "name": "Cowboy Song",
+      "url": "https://open.spotify.com/track/2AHDajtW9KnG8CS6PnZRt4"
     },
     {
       "album": {
@@ -3080,7 +3152,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 254372,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/7wgfoPchQkxKD8H6qNRi2x"
@@ -4078,7 +4150,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 154350,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/48HCG45WdnOxucUmHhCbIp"
@@ -4976,7 +5048,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 224866,
       "name": "Found the Time",
       "url": "https://open.spotify.com/track/61RESMbaaexcSU0hIes4Q3"
@@ -5603,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "Heavy Lifting",
+        "url": "https://open.spotify.com/album/6vs9AUunXsp6FO9eqbin0m"
+      },
+      "artists": [
+        {
+          "name": "Nat Lefkoff",
+          "url": "https://open.spotify.com/artist/4ql6sIvagWRM8rjgOBcV4Z"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Great White Plains",
+      "url": "https://open.spotify.com/track/1mM1uhK822vI3Adzj8iAxY"
+    },
+    {
+      "album": {
         "name": "Green Flash",
         "url": "https://open.spotify.com/album/3UflcuTtBl2ndY3nzxuR07"
       },
@@ -5774,7 +5864,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 186091,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/5L73Iygol5SlRNAMZ5rSoy"
@@ -6801,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Quality Of Life",
+        "url": "https://open.spotify.com/album/4vqsUZRMTzUbOwdCna7rGt"
+      },
+      "artists": [
+        {
+          "name": "Quality Used Cars",
+          "url": "https://open.spotify.com/artist/3E6OqTqiCpUvb8NbAw0OEm"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208687,
+      "name": "If The Moon Were A Mirror",
+      "url": "https://open.spotify.com/track/2AvihM1Ylrh2zMzBljkkwp"
+    },
+    {
+      "album": {
         "name": "Tug of War",
         "url": "https://open.spotify.com/album/3pAtFj7qKN9EqQJPDA70VW"
       },
@@ -6888,7 +6996,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 366396,
       "name": "In The Thick Of It",
       "url": "https://open.spotify.com/track/3jKm53mOmCum509Z0eOKT3"
@@ -8993,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "mundane",
+        "url": "https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg"
+      },
+      "artists": [
+        {
+          "name": "Moira & Claire",
+          "url": "https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161548,
+      "name": "mundane",
+      "url": "https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru"
+    },
+    {
+      "album": {
         "name": "The Mend",
         "url": "https://open.spotify.com/album/7HRPtt8ht452JmyM5kogNE"
       },
@@ -10665,6 +10791,24 @@
     },
     {
       "album": {
+        "name": "Red, Red Evening Sun (Radio Edit)",
+        "url": "https://open.spotify.com/album/1xENEOlHmSB1SGaKiOJmgD"
+      },
+      "artists": [
+        {
+          "name": "Swimmers Jackson",
+          "url": "https://open.spotify.com/artist/6fgCqPLseTtoW658y6TOb7"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Red, Red Evening Sun - Radio Edit",
+      "url": "https://open.spotify.com/track/3BEzmaFi9awobGNNQotcxq"
+    },
+    {
+      "album": {
         "name": "toxic ties & troubled minds",
         "url": "https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP"
       },
@@ -10932,7 +11076,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 215693,
       "name": "Sad Eyes",
       "url": "https://open.spotify.com/track/2uvQiHBOvU0WW0eSEOakbl"
@@ -11040,7 +11184,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 235223,
       "name": "Sandy",
       "url": "https://open.spotify.com/track/03xrlJLkVBNiCY2DebTaFU"
@@ -11588,6 +11732,24 @@
       "duration_ms": 162106,
       "name": "Some Strange Notion",
       "url": "https://open.spotify.com/track/7qMzRL2ZVDVyZk1QCFuvE8"
+    },
+    {
+      "album": {
+        "name": "Brisas / Somehow",
+        "url": "https://open.spotify.com/album/2x15hYhrJE9JQi9fSQvjQZ"
+      },
+      "artists": [
+        {
+          "name": "Sharaf Entwistle",
+          "url": "https://open.spotify.com/artist/1jogMFkklUrPDHttMdqvgT"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/2uuqFTRypUsaZZOLQtPrpz"
     },
     {
       "album": {
@@ -12885,6 +13047,24 @@
     },
     {
       "album": {
+        "name": "Small Victories",
+        "url": "https://open.spotify.com/album/4IcU33SfvQ11W11NfL3OtE"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Cameron",
+          "url": "https://open.spotify.com/artist/03UuLdT1MX5TWhsbqegYYr"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141940,
+      "name": "This Body",
+      "url": "https://open.spotify.com/track/17yg7Vpo0nHgSGLmiCsKzp"
+    },
+    {
+      "album": {
         "name": "This Body of Mine",
         "url": "https://open.spotify.com/album/3jCfqpYEjxznVBcPaF5TF5"
       },
@@ -13148,7 +13328,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 196493,
       "name": "Turning 24",
       "url": "https://open.spotify.com/track/49XlmWANTT7MbbE2HTXiMn"
@@ -14236,7 +14416,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 224744,
       "name": "You'd Like Me More",
       "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"

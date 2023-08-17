@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWU3OTNjNTdmNmMyN2YzMTQ2N2Q4NThmYTg4MzE5Yzc1MjViODAx",
+  "snapshot_id": "MCw0MWNjZjg3MzhmNTA5NmFkOTdmY2JlYjRmNzkyMmJlNjhjMWFjNzU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Let The Sun Shine",
-        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
-      },
-      "artists": [
-        {
-          "name": "We Kids Rock",
-          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
-        }
-      ],
-      "duration_ms": 109373,
-      "name": "Clean Up Your Toys",
-      "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Canciones Infantiles, Vol. 2",
         "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 92127,
       "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
       "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Let The Sun Shine",
+        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
+      },
+      "artists": [
+        {
+          "name": "We Kids Rock",
+          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
+        }
+      ],
+      "duration_ms": 109373,
+      "name": "Clean Up Your Toys",
+      "url": "https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Mojo A Go Go - Real Rock For Kids",
-        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
-      },
-      "artists": [
-        {
-          "name": "Daddy A Go Go",
-          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Do The Chores",
-      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 92170,
       "name": "Brush Brush Brush",
       "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "Mojo A Go Go - Real Rock For Kids",
+        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Daddy A Go Go",
+          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
         }
       ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
+      "duration_ms": 193840,
+      "name": "Do The Chores",
+      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Bailar\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 174511,
-      "name": "Cuantos Tacos (The Taco Song)",
-      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Life Lessons for Children from LittleBabyBum",
         "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 90900,
       "name": "Going Back to School Today",
       "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "Cuantos Tacos (The Taco Song)",
+      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+        "name": "Papa Goose",
+        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Nat Hussey",
+          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
         }
       ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+      "duration_ms": 89306,
+      "name": "Wash The Dishes",
+      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
     },
     {
       "added_at": "2023-03-17 09:43:03",

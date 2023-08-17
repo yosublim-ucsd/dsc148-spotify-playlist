@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Slow J.",
-  "num_followers": 36879,
+  "num_followers": 36913,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2JiZjEzMDIwNzI5OTVhNTYyZmE2MTM3ODA1YTdiZThiYTgwYWI4",
+  "snapshot_id": "MCw1MjZlNzJhMTc3MzJmZDNhMmU0ZmRhNjZmNjhjY2JiNWU2YzFkY2Ni",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Salto Alto",
-        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 152470,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Efeito",
-        "url": "https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO"
-      },
-      "artists": [
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Efeito",
-      "url": "https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -919,34 +919,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Fica Pra Depois",
-        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
+        "name": "Efeito",
+        "url": "https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO"
       },
       "artists": [
         {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Fica Pra Depois",
-      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+      "duration_ms": 151200,
+      "name": "Efeito",
+      "url": "https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 172300,
       "name": "Jura",
       "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Fica Pra Depois",
+        "url": "https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Fica Pra Depois",
+      "url": "https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1035,42 +1035,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "N\u00e3o Me Leves a Mal",
-        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 240763,
-      "name": "N\u00e3o Me Leves a Mal",
-      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Vistas",
-        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
-      },
-      "artists": [
-        {
-          "name": "Ary Rafeiro",
-          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vistas",
-      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Balan\u00e7o",
         "url": "https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93"
       },
@@ -1091,6 +1055,26 @@
       "duration_ms": 156205,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Vistas",
+        "url": "https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o"
+      },
+      "artists": [
+        {
+          "name": "Ary Rafeiro",
+          "url": "https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vistas",
+      "url": "https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1127,18 +1111,34 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Voei",
-        "url": "https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf"
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
       },
       "artists": [
         {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er"
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Voei",
-      "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "100 Maneiras",
+        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
+      },
+      "artists": [
+        {
+          "name": "xtussy",
+          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "100 Maneiras",
+      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "100 Maneiras",
-        "url": "https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD"
+        "name": "Voei",
+        "url": "https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf"
       },
       "artists": [
         {
-          "name": "xtussy",
-          "url": "https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI"
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er"
         }
       ],
-      "duration_ms": 240000,
-      "name": "100 Maneiras",
-      "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
+      "duration_ms": 164200,
+      "name": "Voei",
+      "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
     },
     {
       "added_at": "2023-08-10 23:00:00",

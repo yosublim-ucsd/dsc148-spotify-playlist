@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: UNE(\uc73c\ub124)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -6252,7 +6252,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 205161,
       "name": "naps!",
       "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 181046,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 261920,
       "name": "the Painting",
       "url": "https://open.spotify.com/track/3ZScgtW6j4p2XI0RgfIaBk"
@@ -9782,6 +9782,28 @@
       "duration_ms": 191853,
       "name": "Venus",
       "url": "https://open.spotify.com/track/31WQPYHmmXFGmKXpmaA6Pe"
+    },
+    {
+      "album": {
+        "name": "The Lost Diary",
+        "url": "https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn"
+      },
+      "artists": [
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Villain\u293b (feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi"
     },
     {
       "album": {

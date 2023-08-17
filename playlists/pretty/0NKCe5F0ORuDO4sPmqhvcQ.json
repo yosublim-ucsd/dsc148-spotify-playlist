@@ -1,13 +1,69 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20971,
+  "num_followers": 20969,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0MTAsMWM5MTEwNGVjNDI4NmVlN2ZlZTQ3MTY5MWEzNjVkYWUxNzI3ODgxNA==",
+  "snapshot_id": "MTA0MjMsMGRiNzQwOWY4MzFhM2M5N2ZkMTVmYjNiNWE0NGNmMWM1ZDJhODA1OA==",
   "tracks": [
+    {
+      "added_at": "2023-08-16 15:10:22",
+      "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
+    },
+    {
+      "added_at": "2023-08-16 15:10:57",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/410jHKJ6q3i8V5dhJzDT8P"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99"
+    },
+    {
+      "added_at": "2023-08-16 15:09:39",
+      "album": {
+        "name": "HydroPlane",
+        "url": "https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ"
+      },
+      "artists": [
+        {
+          "name": "AOBeats",
+          "url": "https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "HydroPlane",
+      "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
+    },
     {
       "added_at": "2023-07-20 01:12:32",
       "album": {
@@ -27,26 +83,6 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
-    },
-    {
-      "added_at": "2023-07-20 01:08:34",
-      "album": {
-        "name": "Forgotten Feels",
-        "url": "https://open.spotify.com/album/1XHSrFR9VV4Yc2llQdVMgA"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/3lPO2CWQbbi2ojaMA5xmOK"
     },
     {
       "added_at": "2023-02-22 21:57:47",
@@ -123,6 +159,26 @@
       "duration_ms": 195459,
       "name": "Connection",
       "url": "https://open.spotify.com/track/6YcFNAsBntqdR0dd3ManI8"
+    },
+    {
+      "added_at": "2023-07-20 01:08:34",
+      "album": {
+        "name": "Forgotten Feels",
+        "url": "https://open.spotify.com/album/1XHSrFR9VV4Yc2llQdVMgA"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/3lPO2CWQbbi2ojaMA5xmOK"
     },
     {
       "added_at": "2023-03-24 15:47:28",
@@ -2107,6 +2163,106 @@
       "duration_ms": 247619,
       "name": "i luv ur smile",
       "url": "https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD"
+    },
+    {
+      "added_at": "2023-08-16 15:11:38",
+      "album": {
+        "name": "Doin' Fine",
+        "url": "https://open.spotify.com/album/5nFIBGaI1Hx9U25UIQ0UF3"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "Doin' Fine",
+      "url": "https://open.spotify.com/track/21IEP05e11FUtTHgi1azuj"
+    },
+    {
+      "added_at": "2023-08-16 15:11:52",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3"
+    },
+    {
+      "added_at": "2023-08-16 15:12:44",
+      "album": {
+        "name": "FUTURE SHOCK",
+        "url": "https://open.spotify.com/album/52AomiipSkezQWqHY1bx4t"
+      },
+      "artists": [
+        {
+          "name": "Dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+        }
+      ],
+      "duration_ms": 182126,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/7FM239I0HJpFFw7VFevY2Z"
+    },
+    {
+      "added_at": "2023-08-16 15:13:29",
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/567GBv8OB00xUZ2edVn4Up"
+    },
+    {
+      "added_at": "2023-08-16 15:15:21",
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
+    },
+    {
+      "added_at": "2023-08-16 15:15:36",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 192834,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     }
   ],
   "unique_name": "Moving Castle Monthly",

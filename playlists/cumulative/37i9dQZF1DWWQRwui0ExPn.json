@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 120500,
       "name": "Astro",
       "url": "https://open.spotify.com/track/6xFRWlLR7xMpNheFUdRea1"
@@ -16474,7 +16474,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -41564,7 +41564,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 110923,
       "name": "Gut Feeling",
       "url": "https://open.spotify.com/track/7dHewWL2NRf7acZxn9GVwZ"
@@ -50054,7 +50054,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 127400,
       "name": "Jazzna",
       "url": "https://open.spotify.com/track/5uUyxQGSGdKHztHhbZdDmc"
@@ -53706,7 +53706,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 166965,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5fdEEylG6EbyoaPCF4JOlz"
@@ -95934,6 +95934,28 @@
       "duration_ms": 117142,
       "name": "Sunny Daze",
       "url": "https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8"
+    },
+    {
+      "album": {
+        "name": "Sunny Road",
+        "url": "https://open.spotify.com/album/1How9VZ7lcTbZqP90awaDI"
+      },
+      "artists": [
+        {
+          "name": "Unwind Project",
+          "url": "https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/0Art3hiQ8aJQUzcfxRxtTj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-270 songs - 20 hr 26 min
+271 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Flowers](https://open.spotify.com/track/64M5ClXAgxTxmujhWN75XY) | [Rozz Williams and Gitane D...](https://open.spotify.com/artist/2yZHZ21tq76N2oc3G4zScF) | [Dream Home Heartache](https://open.spotify.com/album/3gJiXAaXhHgInF3spF1d3m) | 6:07 | 2021-10-15 | 2022-07-08 |
 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 | 2021-10-15 | 2022-07-28 |
 | [For Her Light](https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE) | 3:01 | 2021-10-15 | 2022-07-29 |
-| [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 |  |
+| [For Her Light](https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB) | 3:01 | 2021-10-15 | 2023-08-17 |
 | [From Her to Eternity \- 2009 Remastered Version](https://open.spotify.com/track/7nAx6FMrysqM88U48kc6i9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:35 | 2021-10-15 | 2022-07-20 |
 | [Frontier \(Remastered\)](https://open.spotify.com/track/5JJbbLAQurvpGW55lRt39v) | [Dead Can Dance](https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja) | [Dead Can Dance \(Remastered\)](https://open.spotify.com/album/0S4BTkNeo3XTqRjLF5MNFm) | 3:13 | 2021-10-15 | 2022-07-15 |
 | [Gaze](https://open.spotify.com/track/2cdGYqbL77EBhNuRCGDTzN) | [Play Dead](https://open.spotify.com/artist/1eNErxU1Dh5YPvxjgMuiSA) | [The First Flower](https://open.spotify.com/album/42rrIGV4us6I2ygie6KKou) | 4:30 | 2021-10-15 | 2022-05-15 |
@@ -252,6 +252,7 @@
 | [This Corrosion \- \(Remastered\)](https://open.spotify.com/track/1Wl1jzaf9XtCWlB5hDxiGz) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Top 100 80s](https://open.spotify.com/album/3Pp6HVzCtzhYucPusBKb13) | 10:58 | 2021-10-15 | 2022-06-17 |
 | [This Love \(Remastered\)](https://open.spotify.com/track/5IfRbHylq0jn9RiaO9a11J) | [Daniel Ash](https://open.spotify.com/artist/0L4nRBwqdugqIWCpAzjB9g) | [Coming Down \(Remastered\)](https://open.spotify.com/album/7MpBTBy97oFtdR2gvlRAC8) | 3:27 | 2021-10-15 | 2022-05-13 |
 | [Three](https://open.spotify.com/track/1jUReTRoKJfE56JtDeL5nQ) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Seventeen Seconds](https://open.spotify.com/album/1p4CfQtkm8mWmBBg53o2D9) | 3:08 | 2021-10-15 | 2022-04-20 |
+| [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 | 2023-01-24 |  |
 | [Time](https://open.spotify.com/track/73llFUlI8NWGtzrWgQakTV) | [Minny Pops](https://open.spotify.com/artist/64hGo0XLWbLrhPwAbW1VAR) | [Sparks In A Dark Room](https://open.spotify.com/album/2kgo5l52QGpXfH5zhBeYqe) | 3:44 | 2021-10-15 | 2022-04-20 |
 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 | 2021-10-15 |  |
 | [Tupelo \- 2009 Remastered Version](https://open.spotify.com/track/60tOkZmqKwh8RlTMPhbKLd) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 7:18 | 2021-10-15 | 2022-07-27 |

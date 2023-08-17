@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1005815,
+  "num_followers": 1005982,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzU0MzE3NGYyYWI5NTVlYzUxOWFjMDMyNjcwMmFhZjlmYTM3MTYz",
+  "snapshot_id": "MCw4OGZiYWU1OWJiNTRhM2ViYjhmNDFjODllOTA5ZDU2ZDJjZjBhMGE4",
   "tracks": [
     {
       "added_at": "2023-08-04 03:10:18",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-08-04 03:10:18",
       "album": {
-        "name": "Santa Luc\u00eda (En directo 2023)",
-        "url": "https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Santa Luc\u00eda - En directo 2023",
-      "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
-    },
-    {
-      "added_at": "2023-08-04 03:10:18",
-      "album": {
         "name": "Mu\u00e9rete de Todo, Pero No de las Ganas",
         "url": "https://open.spotify.com/album/1tGkQ1860maFz5wlWLEu2Y"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 339887,
       "name": "Mu\u00e9rete de Todo, Pero No de las Ganas",
       "url": "https://open.spotify.com/track/1c19s4ViatoiRxcfyd1NIY"
+    },
+    {
+      "added_at": "2023-08-04 03:10:18",
+      "album": {
+        "name": "Santa Luc\u00eda (En directo 2023)",
+        "url": "https://open.spotify.com/album/7IEiiqwZJ0qZuXik2OXPrj"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Santa Luc\u00eda - En directo 2023",
+      "url": "https://open.spotify.com/track/2dOaLeSHVbBJranHRO3b2g"
     }
   ],
   "unique_name": "La + Chingona",

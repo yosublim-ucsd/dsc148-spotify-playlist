@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-182 songs - 8 hr 48 min
+183 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [La La La La](https://open.spotify.com/track/07NxMfatGTEK0P5gZPFKd2) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx) | [La La La La](https://open.spotify.com/album/4emZDlp8foAyMAScjiZmjQ) | 2:39 | 2023-07-20 | 2023-08-04 |
 | [Loaded Freestyle](https://open.spotify.com/track/0dyHsSc5TAK2COrNxSiIUH) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN) | [Loaded Freestyle](https://open.spotify.com/album/3HLvVCZKSJ4ZRlgT1NV5q9) | 1:56 | 2023-06-09 | 2023-06-14 |
 | [Look At Me](https://open.spotify.com/track/3Om27K297aRPV9I5GRw9F7) | [Karn Sekhon](https://open.spotify.com/artist/3xOt6ZsKiyP9p8hmFNiYNz), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Look At Me](https://open.spotify.com/album/7ArPNvpEQHvUPb7tqBAd6s) | 2:25 | 2023-04-26 | 2023-05-06 |
+| [M1911](https://open.spotify.com/track/0r5lpL34oxVDKg8aFRueU6) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [M1911](https://open.spotify.com/album/6B2XyOETt9hTC6UJK9DPdT) | 2:35 | 2023-08-16 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-29 | 2023-04-09 |
 | [Majhail 1.0](https://open.spotify.com/track/5NeP5LxzlLaGlsVFHviHUj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:49 | 2023-03-29 | 2023-07-15 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-03-29 | 2023-07-15 |

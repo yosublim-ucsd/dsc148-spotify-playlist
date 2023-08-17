@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HYNN(\ubc15\ud61c\uc6d0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 218457,
+  "num_followers": 218596,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWRjOTQzNDQ1NmI0ZjM4OGYxNjkwMjg0ODhlZGM2OTRjYWI5NmMy",
+  "snapshot_id": "MCwxZWQ1YTMxZTUwMGY2YmMwNGFiZTBkY2Q3YjRmNDFmM2E2MWYzZDAy",
   "tracks": [
     {
       "added_at": "2023-07-31 15:41:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-31 15:41:06",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2023-07-31 15:41:06",
-      "album": {
         "name": "pueblo",
         "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228500,
       "name": "pueblo",
       "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
+    },
+    {
+      "added_at": "2023-07-31 15:41:06",
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2023-07-31 15:41:06",

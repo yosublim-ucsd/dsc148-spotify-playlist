@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 
-[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,973 likes - 40 songs - 2 hr 10 min
+[Sub Pop](https://open.spotify.com/user/subpoprecords) - 5,974 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1s2jwVSrmxKxxvvDoMWl32.md) - [plain]
 | 39 | [Hunted Down \- Remastered](https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Screaming Life/Fopp](https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1) | 2:42 |
 | 40 | [\(Right On\) Thru](https://open.spotify.com/track/7wSIf6tKCqWreKm9oKmuIJ) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell The Magic](https://open.spotify.com/album/1pXoAahgLu9ewP3HVt3md5) | 3:15 |
 
-Snapshot ID: `MjQ2LGQ5YjIyZDkwODdiMTI4NTYwYmVmOWVjNGEzMDgyZDY5ZjMzMjNjY2U=`
+Snapshot ID: `MjQ4LDgxMDUxMGY0YzAyMDM2MDM0MjgyZjBlYzM4NzQ1YTk4N2NlNzE2Nzg=`

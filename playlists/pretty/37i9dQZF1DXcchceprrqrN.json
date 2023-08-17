@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 50511,
+  "num_followers": 50722,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTkyYzczMTEwMWYwNzU1ODgwZDkxYmYxMzg3YjA0Nzk1ZGZmOTVk",
+  "snapshot_id": "MCwyMWNiZGVhOWM2NGZjYjg5OWI3NTExYjJkYTg5NGRjNDU3MDYyNzFj",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 195129,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Assholes",
         "url": "https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Hunned Bandz",
+      "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "call and i'll answer",
         "url": "https://open.spotify.com/album/2NXhDNzDePkU5ShifAcu32"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 166605,
       "name": "call and i'll answer",
       "url": "https://open.spotify.com/track/51vawGnoKBqY2SdAWybbwR"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Hunned Bandz",
-      "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -823,6 +807,26 @@
       "duration_ms": 174313,
       "name": "WHY?",
       "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "cyanide (feat. cryogeyser)",
+        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 125389,
+      "name": "cyanide (feat. cryogeyser)",
+      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
     }
   ],
   "unique_name": "hair dye",

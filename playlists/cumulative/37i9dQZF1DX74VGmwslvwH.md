@@ -4,10 +4,12 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-127 songs - 8 hr 50 min
+136 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A New Mantra](https://open.spotify.com/track/17LIchwRkH37SliIWB6Rmr) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [A New Mantra](https://open.spotify.com/album/1hIKPR7vLNyIRc73kMFKBt) | 3:14 | 2023-08-16 |  |
+| [Aamani](https://open.spotify.com/track/4XnDI3ILPViOW41CExGjtt) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 2:42 | 2023-08-16 |  |
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2022-05-13 |  |
 | [Angelic Reiki](https://open.spotify.com/track/68OOxuLvwLFPj78cKciaL3) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Angelic Reiki](https://open.spotify.com/album/6dy2c18h4b2It784yk9uuE) | 3:08 | 2023-02-10 |  |
 | [Baagh](https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:23 | 2022-08-10 |  |
@@ -36,11 +38,13 @@
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-05-13 |  |
 | [Dreamlike](https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Dreamlike](https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu) | 3:15 | 2022-09-30 |  |
 | [Dunagiri](https://open.spotify.com/track/7f6Qq4dxlcIhvkZFa4HL5o) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [Dunagiri](https://open.spotify.com/album/5Um8qhDnnbS8AVUcowu02b) | 3:08 | 2022-07-14 |  |
+| [Empire](https://open.spotify.com/track/1yzxtY3hYi6RJNQNLsomhm) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Majestica](https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K) | 3:00 | 2023-08-16 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 | 2022-12-17 |
 | [Flowing](https://open.spotify.com/track/1ABO9u5DInggeXPXoLFlwc) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Flowing](https://open.spotify.com/album/4NjvXffhghZfJ3PEKNJObF) | 2:21 | 2022-10-24 |  |
 | [Fly On A Moonbeam](https://open.spotify.com/track/5gmWEw49oWPrVMbmz6cU21) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Quietly Floating](https://open.spotify.com/album/0FKe3yn57VfwLfe170ZFeB) | 3:16 | 2022-09-06 |  |
 | [Golden Night](https://open.spotify.com/track/6mJfau3oJvpYztXxW1fxKi) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Raat ki Hawa](https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu) | 3:18 | 2022-05-13 |  |
 | [golden star](https://open.spotify.com/track/4MSIW7QmQMnELi5powItVK) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [golden star](https://open.spotify.com/album/345XHvm4MDeogHOsvGOh4a) | 3:30 | 2023-03-07 |  |
+| [Got Time To Do Wasp?](https://open.spotify.com/track/3bGqlFtEDTeBGVFRt6mHwJ) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Arrowhead](https://open.spotify.com/album/3lSwjGlI9lkKFTo7ov7Gi8) | 2:24 | 2023-08-16 |  |
 | [Hansadhwani Flute Meditation](https://open.spotify.com/track/4BWaGsqpk4J1BtF8yCdQgH) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Hansadhwani Flute Meditation](https://open.spotify.com/album/2LtYdTh9JEqYk1QJ6E6JEp) | 2:37 | 2022-05-13 |  |
 | [Happiness \(with drums\)](https://open.spotify.com/track/5uO4ehg7RkW0GNZWVkIuik) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-02-10 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-02-10 |  |
@@ -48,6 +52,7 @@
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 |  |
 | [Healing Water](https://open.spotify.com/track/61AViX47CvGaOYvZ7qneDi) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Healing Water](https://open.spotify.com/album/3yXp26mMmx5RVPHgGtZTsG) | 3:06 | 2022-09-30 |  |
 | [Himalaya](https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Himalaya](https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj) | 3:34 | 2022-08-10 |  |
+| [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-08-16 |  |
 | [Indian Skies](https://open.spotify.com/track/7C9oEyJHuGODex0VCtPUL8) | [Karnataka Dawn](https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9) | [Welcome](https://open.spotify.com/album/2nSvHBcN1uDo3XHymvf9Hn) | 3:38 | 2023-03-07 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-14 |  |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 |  |
@@ -56,6 +61,7 @@
 | [Journey to Sedna](https://open.spotify.com/track/2c3K1MgWaia5FlzbRBwLnb) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3dRqYrgTY9N0AdfP8LAfJQ) | 4:44 | 2022-05-13 | 2022-07-29 |
 | [Late Night Meditation](https://open.spotify.com/track/7zT6CQ1og08NiVfn8E8Yfx) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Late Night Meditation](https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ) | 2:28 | 2022-09-06 |  |
 | [Lost Again](https://open.spotify.com/track/0Bp0NOwdWr6CFTggpWTjKx) | [Shawel Sirak](https://open.spotify.com/artist/4RYfvpy8ixiGE7L50qnTA1) | [Lost Again](https://open.spotify.com/album/2jVGayoGlhCWQueEKueKIl) | 2:36 | 2023-02-10 |  |
+| [Lost in Space](https://open.spotify.com/track/7tmMkS0oXNav28iAVjTTZS) | [Buddha's Beats](https://open.spotify.com/artist/5hrlkj4oC4Qk4d7o2MKzCh) | [Lost in Space](https://open.spotify.com/album/7bZQaOZ6NYsSocCZPc2Jqq) | 2:18 | 2023-08-16 |  |
 | [Luminous Mind](https://open.spotify.com/track/0QrazvL9WC3OhJGlnhKBuo) | [Ben Aum](https://open.spotify.com/artist/0n5q0SfkA7CSU2x4Ka0KDC) | [Luminous Mind](https://open.spotify.com/album/5CDzqXg3M6vnVBuCoSG7br) | 3:15 | 2023-02-10 |  |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-07-14 |  |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-07-14 |  |
@@ -66,6 +72,7 @@
 | [Memory Ocean](https://open.spotify.com/track/4BGxF3vzN2eQ3EMz4ApThm) | [William Joe Ware](https://open.spotify.com/artist/4sdgGI2VBvg1l0APfrbhHm) | [Memory Ocean](https://open.spotify.com/album/19F44nYOaQGepqwD9QsJXa) | 4:32 | 2022-05-13 |  |
 | [Midnight Dream](https://open.spotify.com/track/1J96lxcOXD1icipqx7WgBy) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Midnight Dream](https://open.spotify.com/album/7HaPx3Nhl5iPpEMMgx4IpT) | 3:18 | 2023-01-13 |  |
 | [midnight dreams](https://open.spotify.com/track/3mMpTuuVK1oHRLNubuRE74) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [midnight dreams](https://open.spotify.com/album/5XPj4Ksx8v4EmP1P54JOMU) | 2:19 | 2022-05-13 |  |
+| [Mile High](https://open.spotify.com/track/0uy0kSHBpBjkwR29GmCbV7) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Halluu Duu](https://open.spotify.com/album/3eyPI3n8QHBAgsPsN90fT3) | 2:29 | 2023-08-16 |  |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-06 |  |
 | [Morning Sun](https://open.spotify.com/track/33ffWFzPUhcsxS823Z7Nqr) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Morning Sun](https://open.spotify.com/album/0B5u0PBNsYAdRmhfiNJhcs) | 2:44 | 2022-07-14 |  |
 | [Mount Kailash](https://open.spotify.com/track/5T7JzSKY03KLxvWWSEug8r) | [Aural Waves](https://open.spotify.com/artist/0rqRKblaWE6B3flDy2r0x0) | [Mount Kailash](https://open.spotify.com/album/1KLmnLjZBOC0q3TXkK6t4e) | 4:23 | 2022-05-13 |  |
@@ -74,6 +81,7 @@
 | [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 | 2022-05-13 | 2023-07-30 |
 | [Nainital Honeymoon](https://open.spotify.com/track/4ImoheUJchq404T34HH5lN) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Nainital Honeymoon](https://open.spotify.com/album/2wd6EhW4H94OL8n0x4GBmx) | 4:15 | 2023-01-13 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-19 |  |
+| [Parampara](https://open.spotify.com/track/0tfRLoSRwVus8SqmfUOfjW) | [Bandhu](https://open.spotify.com/artist/4pacc1LOfFOBcJtKxiJEmL) | [Parampara](https://open.spotify.com/album/2VFgUxZ1W3aOxb8W0PylMN) | 3:08 | 2023-08-16 |  |
 | [Passion](https://open.spotify.com/track/10N4pUn5NmbJTodGCJSV4I) | [Banishu](https://open.spotify.com/artist/1QZvqFFagrFlGk46JD2WNi) | [Passion](https://open.spotify.com/album/7KsHiZ06JKArEPc8LMdP2w) | 3:19 | 2022-05-13 |  |
 | [Peace](https://open.spotify.com/track/0as6KfIJRQvPTKVheJbCBE) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [The Power Of Now](https://open.spotify.com/album/5p2KtH7CjijqRZUjAAeFE5) | 2:56 | 2022-09-19 |  |
 | [Peace Within](https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS) | [Holly Summers](https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es) | [Peace Within](https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb) | 2:16 | 2022-12-16 |  |
@@ -108,6 +116,7 @@
 | [Slow Start](https://open.spotify.com/track/18wjlWpx5uuKE2mzc2V0MU) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Slow Start](https://open.spotify.com/album/2rNUDJ6UD17DZKAgCGuF0t) | 2:12 | 2023-02-10 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-13 |  |
 | [Soothing Oasis](https://open.spotify.com/track/6SLhNH99NX98JlN1rnrtFl) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Soothing Oasis](https://open.spotify.com/album/2hwuGsoJs0qmtyCB3kLGXx) | 6:17 | 2023-02-10 |  |
+| [Soothing Soul](https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Soothing Soul](https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm) | 3:10 | 2023-08-16 |  |
 | [Spirit](https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Mountain Sunrise](https://open.spotify.com/album/24L98golLv0TemGdFecGA9) | 2:16 | 2022-07-14 |  |
 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 | 2022-05-13 | 2022-08-31 |
 | [Spiritual air](https://open.spotify.com/track/3QebIeOGtxx5GND6eECxk5) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/0BOJA2MU6u5y5ROLUosmTJ) | 3:38 | 2022-08-10 |  |

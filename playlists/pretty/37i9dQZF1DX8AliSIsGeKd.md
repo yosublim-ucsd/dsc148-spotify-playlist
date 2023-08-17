@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,011 likes - 89 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,213 likes - 89 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Turn Your Sights Inward](https://open.spotify.com/track/7m9d8kbTRfglC24VEKEUlG) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Turn Your Sights Inward](https://open.spotify.com/album/7ruQ505VClGpTxJPZbQRb9) | 6:35 |
 | 89 | [Infinity Club](https://open.spotify.com/track/6oZX7Mc5QHTfjz0QgDZOqQ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:08 |
 
-Snapshot ID: `MCwwMTExMWE0ZmMyNDEyZjg4Y2NjZDY1YzU5ZTI3YmQzZWEyY2ZmNDM5`
+Snapshot ID: `MCxhZTViZTc2NTE3ODI0ZTBkNjE2NTIyYjExMTRkNzA4NDYyNmU3NzZh`

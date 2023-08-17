@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 16106,
+  "num_followers": 16117,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
+  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
-      "added_at": "2022-05-18 00:27:56",
-      "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
-        }
-      ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
-    },
-    {
       "added_at": "2022-03-30 02:52:41",
       "album": {
         "name": "Point Zero",
@@ -323,6 +307,22 @@
       "duration_ms": 191746,
       "name": "Dear Ko (To Ko the Regt)",
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+    },
+    {
+      "added_at": "2022-05-18 00:27:56",
+      "album": {
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+        }
+      ],
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2023-03-07 03:31:30",
       "album": {
-        "name": "Temple Of The New Sun",
-        "url": "https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R"
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
       },
       "artists": [
         {
-          "name": "Xochimoki",
-          "url": "https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG"
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Malinalli Koatl",
-      "url": "https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6"
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     }
   ],
   "unique_name": "Planetary Soul",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadsh44pB8cc.md) - [plain]
 
 > The reputable supergroup, <a href="spotify:artist:2exkZbmNqMKnT8LRWuxWgy">Moderat</a>, build a special & eclectic experience with their downtempo electronic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,492 likes - 18 songs - 51 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,495 likes - 18 songs - 51 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadsh44pB8cc.md) - [plain]
 | 17 | [Regional \- Mixed](https://open.spotify.com/track/1GScPU9oHC4wMgQsYogJ4C) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Regional \(Mixed\)](https://open.spotify.com/album/2xp0t5xjYFNR2KG4tAs3mo) | 3:22 |
 | 18 | [FAST LAND \- Mixed](https://open.spotify.com/track/2yYnFlm665kl3BY6uBcJ7y) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND \(Mixed\)](https://open.spotify.com/album/6HtuyaPKHdzXFfj7veCXVB) | 2:55 |
 
-Snapshot ID: `MCxhZWZhNjBlZDgxMjZmNjU1MGI4MzI5ZDU1YTYyMGEyMDZiZGZjOWM5`
+Snapshot ID: `MCxlYWE5YWJjN2MxZTEzN2MzOTMyNWM5N2IxODljZTEyMWMzZDk4MDhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, KAROL G, DJ Khaled, Trippie Redd & Roddy Ricch, Fred Again.., Yeat and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,156,640 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,156,879 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [GUMDROP](https://open.spotify.com/track/18fj3CAtPovfKzqrkei5cG) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [GUMDROP](https://open.spotify.com/album/4jSXOF4adgrTpSnPB5OWKY) | 1:09 |
 | 100 | [Sun Up / Sun Down](https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE), [Radistarz](https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2) | [Sun Up / Sun Down](https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8) | 3:10 |
 
-Snapshot ID: `MCxlMWQyMjRlMzczMWQ0NWRiNDZiYmI1ZjIyNWRlNzQ5YTA5ZjQ1MDgz`
+Snapshot ID: `MCxjNGZkODUyN2VjMTIyMjYwMTZkMTkxYWYzMGVjNGJlYmYzMWZhOWNj`

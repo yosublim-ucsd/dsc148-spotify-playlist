@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-201 songs - 18 hr 40 min
+202 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,11 +122,12 @@
 | [Lead Me To The Cross](https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [From The Inside Out](https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC) | 4:16 | 2022-04-02 | 2022-05-19 |
 | [Lion and the Lamb](https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Invisible](https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO) | 4:31 | 2021-04-04 | 2022-07-29 |
 | [Lion and the Lamb \- Studio](https://open.spotify.com/track/1uneiO81sTTdPvsjr54yPK) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Invisible](https://open.spotify.com/album/1axaX2Egn3WjsIrtjsxvrb) | 4:31 | 2022-04-17 |  |
-| [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 | 2023-04-02 |  |
+| [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 | 2023-04-02 | 2023-08-17 |
 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 | 2023-04-02 |  |
 | [Love Came Down](https://open.spotify.com/track/7fkWvh5N8kjspoZMQjijkn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Discover Bethel Music](https://open.spotify.com/album/0fonUNUchRa1Ip1UJtzfrs) | 5:33 | 2022-04-02 | 2022-07-09 |
 | [Love Came Down \(If My Heart Is Overwhelmed\) \- Live](https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Love Came Down \- Live Acoustic Worship In The Studio](https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h) | 5:33 | 2022-04-17 |  |
 | [Love Changes Everything](https://open.spotify.com/track/6sN4bX9ivtlmD8t52fgjmL) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Convoy of Hope: Hope Has a Name](https://open.spotify.com/album/6HD8v2KUFr9egtXUEHa2kJ) | 5:10 | 2021-04-04 | 2022-07-29 |
+| [Love Changes Everything](https://open.spotify.com/track/6eACLLkE060QHoxvJZaIXT) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Into the Light](https://open.spotify.com/album/3J7jxdGbgpikotJaPIUEqM) | 5:13 | 2023-04-09 |  |
 | [Love Is War](https://open.spotify.com/track/4Fe8tbaTYQOpRmRhjESG0r) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 7:15 | 2022-04-02 | 2022-04-20 |
 | [Love So Great \- Live](https://open.spotify.com/track/3tyY81IHUn468qY95ViW8E) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:19 | 2022-04-02 | 2022-07-24 |
 | [Man Of Sorrows \(Passion\)](https://open.spotify.com/track/3Fz86tjFIVF3IuKCA11TvO) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 5:00 | 2021-04-04 | 2022-07-29 |

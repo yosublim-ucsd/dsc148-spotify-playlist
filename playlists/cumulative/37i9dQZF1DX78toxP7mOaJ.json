@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "2 WORDS",
+        "url": "https://open.spotify.com/album/3pboZmbk1RjjSeyCDo1yUO"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "2 WORDS",
+      "url": "https://open.spotify.com/track/3GBddo9n1BBdKgozcbOw7e"
+    },
+    {
+      "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 151958,
       "name": "A Track In Orbit",
       "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
@@ -1583,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Beach Goth",
+        "url": "https://open.spotify.com/album/4uBwwLH8ZjMVcm4uPsZZtY"
+      },
+      "artists": [
+        {
+          "name": "L.A. Exes",
+          "url": "https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Beach Goth",
+      "url": "https://open.spotify.com/track/4R5NTohvvcdV1Kyv1emxtQ"
+    },
+    {
+      "album": {
         "name": "Beautiful Voices",
         "url": "https://open.spotify.com/album/0LjXfjixmLp8w4d3kUiiDH"
       },
@@ -1871,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "BIG HIT SINGLE",
+        "url": "https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "BIG HIT SINGLE",
+      "url": "https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD"
+    },
+    {
+      "album": {
         "name": "Island of Love",
         "url": "https://open.spotify.com/album/1oVvVUGbqBS3esN1Svu66E"
       },
@@ -1882,7 +1936,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 300481,
       "name": "Big Whale",
       "url": "https://open.spotify.com/track/17YhUoD3DhwoskGF7G9fk8"
@@ -2404,7 +2458,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 181364,
       "name": "BRAIN GOT HANDS",
       "url": "https://open.spotify.com/track/1Lv9wOGVEYa7Wbeli0A0eX"
@@ -2444,7 +2498,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 96000,
       "name": "BRAIN ROT",
       "url": "https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI"
@@ -3048,6 +3102,24 @@
       "duration_ms": 197333,
       "name": "Canary Song",
       "url": "https://open.spotify.com/track/1OyPzvcWssAzk4fX3egtna"
+    },
+    {
+      "album": {
+        "name": "Candy Apple",
+        "url": "https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226551,
+      "name": "Candy Apple",
+      "url": "https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh"
     },
     {
       "album": {
@@ -3842,7 +3914,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 151959,
       "name": "COOKIE",
       "url": "https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP"
@@ -4836,7 +4908,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 222531,
       "name": "Devil Child",
       "url": "https://open.spotify.com/track/5Mqskldfy1Xes1vpgZKGJz"
@@ -6082,7 +6154,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 185948,
       "name": "fallingshort",
       "url": "https://open.spotify.com/track/4jVJiDow1WWGLCiDCdySzM"
@@ -6230,6 +6302,24 @@
       "duration_ms": 183213,
       "name": "Felt",
       "url": "https://open.spotify.com/track/2eCtOHnjLydSU56f4peoO2"
+    },
+    {
+      "album": {
+        "name": "Fender",
+        "url": "https://open.spotify.com/album/0NIl6PMP9VgfbMW0w61f0s"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222351,
+      "name": "Fender",
+      "url": "https://open.spotify.com/track/0AT37Z1kNhJPUyeuwJqEHi"
     },
     {
       "album": {
@@ -6550,7 +6640,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 151145,
       "name": "Forever Soldiers Of Esther",
       "url": "https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf"
@@ -6982,7 +7072,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 151000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6f8fCtKwWUldv96JgT4Wqi"
@@ -7170,6 +7260,24 @@
       "duration_ms": 228428,
       "name": "Goner (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/27pE6MqlDtZwVrZz9Cy1VW"
+    },
+    {
+      "album": {
+        "name": "Gonna Get Better",
+        "url": "https://open.spotify.com/album/7xla3BNE9X4zRZfu0iwezN"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195694,
+      "name": "Gonna Get Better",
+      "url": "https://open.spotify.com/track/3lnKBvycf8vphhmpvhruNI"
     },
     {
       "album": {
@@ -8240,7 +8348,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 157774,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/6ZSL0bZxgGLsygQLQptyH3"
@@ -9823,6 +9931,24 @@
     },
     {
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1rEbTVxPWKsujHa7Rylo6K"
+      },
+      "artists": [
+        {
+          "name": "Tube Alloys",
+          "url": "https://open.spotify.com/artist/0k30eWb2EQKYAAiMXbFr4X"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Jubilee",
+      "url": "https://open.spotify.com/track/0ocFMZDwKFuDUKCLiQW4yw"
+    },
+    {
+      "album": {
         "name": "Juniper Street",
         "url": "https://open.spotify.com/album/2TgrGVUOAuStONkQcJKNY6"
       },
@@ -10364,6 +10490,24 @@
       "duration_ms": 164689,
       "name": "Liar",
       "url": "https://open.spotify.com/track/5PVm2jkgD9c4p9t4KnwthI"
+    },
+    {
+      "album": {
+        "name": "Lidocaine",
+        "url": "https://open.spotify.com/album/3SMBG7hypD1gVe1ow53E8A"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151157,
+      "name": "Lidocaine",
+      "url": "https://open.spotify.com/track/41MYbtUtWEND9vbXanon9O"
     },
     {
       "album": {
@@ -11066,6 +11210,24 @@
       "duration_ms": 243918,
       "name": "Make You Mad",
       "url": "https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA"
+    },
+    {
+      "album": {
+        "name": "Man Or Machine",
+        "url": "https://open.spotify.com/album/0BNiuORxq6EdNXiIzBBluB"
+      },
+      "artists": [
+        {
+          "name": "Off Lights",
+          "url": "https://open.spotify.com/artist/486c1jVbf27GPO8FeXZODk"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Man or Machine",
+      "url": "https://open.spotify.com/track/46jd61VliqpOjpU4qaWpDr"
     },
     {
       "album": {
@@ -13000,7 +13162,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 213153,
       "name": "parasite",
       "url": "https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB"
@@ -14254,6 +14416,24 @@
       "duration_ms": 188544,
       "name": "Rich Kids",
       "url": "https://open.spotify.com/track/4XTmW4s0RH6tBNNp8zUaWV"
+    },
+    {
+      "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2JNHar8FzCpLyTucwTlSHn"
+      },
+      "artists": [
+        {
+          "name": "Rid Of Me",
+          "url": "https://open.spotify.com/artist/46oDKZ4IE8CQaJWZ005rZP"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/7B8onh1s7NQc91jtXlL6XP"
     },
     {
       "album": {
@@ -16286,7 +16466,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 238474,
       "name": "Strong Spirits",
       "url": "https://open.spotify.com/track/2EBr6SBTDiZYMr6YaSiuW1"
@@ -16686,6 +16866,24 @@
       "duration_ms": 189018,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA"
+    },
+    {
+      "album": {
+        "name": "Sylvie's A Mess",
+        "url": "https://open.spotify.com/album/3xfSCABLEqZznsq4j9NvEK"
+      },
+      "artists": [
+        {
+          "name": "Walter Etc.",
+          "url": "https://open.spotify.com/artist/6oosocT7xXnTK2ehoe28mJ"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100858,
+      "name": "Sylvie's A Mess",
+      "url": "https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP"
     },
     {
       "album": {
@@ -17850,7 +18048,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 182019,
       "name": "Tora",
       "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
@@ -19101,6 +19299,24 @@
     },
     {
       "album": {
+        "name": "Wicked Styley",
+        "url": "https://open.spotify.com/album/1H5rc0kUITrP2PfdQyypUX"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "Wicked Styley",
+      "url": "https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP"
+    },
+    {
+      "album": {
         "name": "split death",
         "url": "https://open.spotify.com/album/2ZCOtfUpCr3DA9bLtLx7NU"
       },
@@ -19478,6 +19694,24 @@
       "duration_ms": 173274,
       "name": "You Look Like a Drunk Phoebe Bridgers",
       "url": "https://open.spotify.com/track/6CyF5vJi59N4FrIDtWY6Uy"
+    },
+    {
+      "album": {
+        "name": "You Spent All Your Love (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AGoHfsNzYZAEIqhkuoecv"
+      },
+      "artists": [
+        {
+          "name": "Mega Mango",
+          "url": "https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257514,
+      "name": "You Spent All Your Love - Anniversary Edition",
+      "url": "https://open.spotify.com/track/7rloJtE977NlkIk4xX7V4s"
     },
     {
       "album": {

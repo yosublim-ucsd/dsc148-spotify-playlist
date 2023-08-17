@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Do As You're Told (Music from the Netflix Film \"A Babysitter's Guide to Monster Hunting\")",
+        "url": "https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km"
+      },
+      "artists": [
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Do As You're Told (Music from the Netflix Film \"A Babysitter's Guide to Monster Hunting\")",
+      "url": "https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r"
+    },
+    {
+      "album": {
         "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
         "url": "https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN"
       },
@@ -230,24 +248,6 @@
       "duration_ms": 169506,
       "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
       "url": "https://open.spotify.com/track/31mIUfv7vmIhSoD5krSCUZ"
-    },
-    {
-      "album": {
-        "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
-        "url": "https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km"
-      },
-      "artists": [
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169506,
-      "name": "Do As You're Told (Music from the Netflix Film A Babysitter's Guide to Monster Hunting)",
-      "url": "https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r"
     },
     {
       "album": {

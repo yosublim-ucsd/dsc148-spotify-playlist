@@ -1968,6 +1968,24 @@
     {
       "album": {
         "name": "Primera Caida",
+        "url": "https://open.spotify.com/album/38cX9zMyfqkoUKhAdLSwuY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163421,
+      "name": "Regresando (Regrabada)",
+      "url": "https://open.spotify.com/track/6DqZDhnMlxBTXQz3sILhOL"
+    },
+    {
+      "album": {
+        "name": "Primera Caida",
         "url": "https://open.spotify.com/album/15boYsAGlmRVDXxynT4M0y"
       },
       "artists": [
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 163421,
       "name": "Regresando - Regrabada",
       "url": "https://open.spotify.com/track/5w7vzEGjDc1AYKCM5ABIV6"

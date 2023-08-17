@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-468 songs - 1 day 15 hr 57 min
+469 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Asebeia](https://open.spotify.com/track/64APQrZbLJ0P6OF4sYZfZn) | [Temple Of Dread](https://open.spotify.com/artist/63gOmJYMY5DArrmagcCrOL) | [Asebeia](https://open.spotify.com/album/3J5r481a3YFAn3HHQtzkPM) | 2:13 | 2023-08-11 |  |
 | [At Dusk](https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar), [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [At Dusk](https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX) | 4:04 | 2023-05-05 | 2023-06-12 |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2022-07-25 |
+| [Avsändare Okänd](https://open.spotify.com/track/25oIp4MWarQehhgWyQGl3O) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [Avsändare Okänd](https://open.spotify.com/album/7ANppiwdgIA2oxrq8mhEqm) | 8:28 | 2023-08-11 |  |
 | [Axis Mundi](https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Axis Mundi](https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe) | 4:24 | 2023-02-23 | 2023-04-07 |
 | [AZONEI WYRDWALKER](https://open.spotify.com/track/0vxOahfuJ3Qlcwg2Obzdfs) | [DØDSENGEL](https://open.spotify.com/artist/2X20fIoEYriNBjJA7R7dOM) | [MIRIUM OCCULTUM](https://open.spotify.com/album/75oMnd3O6E9QEaPnGzawWa) | 7:58 | 2022-07-13 | 2022-07-22 |
 | [Bathed in Clouds of Blood](https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk) | [Judas Iscariot](https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC) | [To Embrace the Corpses Bleeding](https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ) | 3:21 | 2022-07-13 | 2022-09-02 |
@@ -293,7 +294,7 @@
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
 | [Obsessis a Daemonio](https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [Zwielicht](https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu) | 5:07 | 2023-07-03 |  |
-| [Of Awakening](https://open.spotify.com/track/38gzO4KB62UPk2umEg3Pbt) | [The Circle](https://open.spotify.com/artist/4nYpSvfKXGjZnXDIrS7Kpe), [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Of Awakening](https://open.spotify.com/album/7J24x9Ybi0ZXheXsHONli8) | 6:10 | 2023-07-07 |  |
+| [Of Awakening](https://open.spotify.com/track/38gzO4KB62UPk2umEg3Pbt) | [The Circle](https://open.spotify.com/artist/4nYpSvfKXGjZnXDIrS7Kpe), [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Of Awakening](https://open.spotify.com/album/7J24x9Ybi0ZXheXsHONli8) | 6:10 | 2023-07-07 | 2023-08-17 |
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
 | [Of Blood and Tears](https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [In Tenebris](https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v) | 5:24 | 2021-12-17 | 2022-05-21 |
 | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/track/1To93NNJXFePeViiKoM0sv) | [Sarvekas](https://open.spotify.com/artist/34JA2Fu5TWr18wG9g7F561) | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/album/0cNW4oxWm4IjPNAxiA2bX3) | 4:54 | 2023-05-12 | 2023-05-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 46444,
+  "num_followers": 46474,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm",
+  "snapshot_id": "MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Hazard",
+        "url": "https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8"
+      },
+      "artists": [
+        {
+          "name": "JMullaUK",
+          "url": "https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        }
+      ],
+      "duration_ms": 248239,
+      "name": "Hazard",
+      "url": "https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Cool Out Son",
         "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
       },
@@ -1095,22 +1119,6 @@
       "duration_ms": 208457,
       "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
       "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "WORRY",
-        "url": "https://open.spotify.com/album/1ezsJZwtpUEi2a9WIYMbai"
-      },
-      "artists": [
-        {
-          "name": "Spencer Ramsay",
-          "url": "https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji"
-        }
-      ],
-      "duration_ms": 216257,
-      "name": "WORRY",
-      "url": "https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ"
     }
   ],
   "unique_name": "Jump Up!",

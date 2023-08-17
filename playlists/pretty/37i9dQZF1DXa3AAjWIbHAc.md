@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3AAjWIbHAc.md) - [plain]
 | 59 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 |
 | 60 | [True Friend](https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 3:09 |
 
-Snapshot ID: `MCw2ZTBhNWJkNTEyYmY0Njk2NmQ4YzBlMDQ3MjMyM2Q0ZmEyZjQ3OWEz`
+Snapshot ID: `MCxhNTljYWVhNmUyN2Y4ZDRhODRhODA5ZWQ1N2ZlOTRlYzFhMjQyYTRl`

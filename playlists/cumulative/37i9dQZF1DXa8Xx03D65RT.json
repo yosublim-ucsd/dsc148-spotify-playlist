@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 213904,
       "name": "Crystal Depths",
       "url": "https://open.spotify.com/track/1Yyi70Exy9YlfKn6o0ciSO"
@@ -3366,6 +3366,24 @@
       "duration_ms": 126785,
       "name": "Forh\u00e5bningsfuld",
       "url": "https://open.spotify.com/track/1nb8v8CM6lSxX1sB56oDhb"
+    },
+    {
+      "album": {
+        "name": "Foyer",
+        "url": "https://open.spotify.com/album/3OjWl7UJccCLIwFw94bMw9"
+      },
+      "artists": [
+        {
+          "name": "Justine Nova",
+          "url": "https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123012,
+      "name": "Foyer",
+      "url": "https://open.spotify.com/track/7aj6qDZHhGRgoaSzlnk4V4"
     },
     {
       "album": {

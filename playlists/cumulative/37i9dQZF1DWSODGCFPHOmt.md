@@ -2,7 +2,7 @@
 
 ### [La Posada](https://open.spotify.com/playlist/37i9dQZF1DWSODGCFPHOmt)
 
-> Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
+> Música navideña para las fiestas decembrinas.
 
 108 songs - 5 hr 51 min
 

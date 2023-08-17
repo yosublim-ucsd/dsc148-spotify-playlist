@@ -1,13 +1,29 @@
 {
-  "description": "RADAR's artists to watch in 2023. Featuring RADAR official artist Peso Pluma on the cover.",
-  "num_followers": 357415,
+  "description": "The most exciting new music, featuring RADAR official artist Rene\u00e9 Rapp on the cover.",
+  "num_followers": 357417,
   "original_name": "RADAR US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmY5NzA4MmFjNWVkNTMzMmNiOWM3MzFhMjViYmI1MDQ0OTYzNDYw",
+  "snapshot_id": "MCwyYzc4OGJmODQ5ZTMzYWU3ZTE4YjUyMWU1OWE3YTY0OWI4ZGUyZTdh",
   "tracks": [
+    {
+      "added_at": "2023-08-16 16:00:00",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 196679,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
+    },
     {
       "added_at": "2023-07-07 15:54:26",
       "album": {

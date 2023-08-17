@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Sean Leon\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,022 likes - 200 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,257 likes - 200 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 102 | [mr\. sneaky link](https://open.spotify.com/track/2vX0iHFbHF5q6H7kSvkMlH) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [mr\. sneaky link](https://open.spotify.com/album/7dRFkTfLMK9yObf5Pjz9s2) | 2:16 |
 | 103 | [Calibrate](https://open.spotify.com/track/0coFHVhs0Oa8CJcikaQhMI) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:48 |
 | 104 | [92 Degrees](https://open.spotify.com/track/5mxl9ioRUivetaglDoaMsm) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [92 Degrees](https://open.spotify.com/album/5ssY93FWRDBqmawFe5tJ50) | 2:25 |
-| 105 | [Remember](https://open.spotify.com/track/4BcuR5hZRwZZvzlycVdzNo) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Remeber](https://open.spotify.com/album/3vvSxw48styeG1cHCjTAJr) | 2:25 |
+| 105 | [Remember](https://open.spotify.com/track/4BcuR5hZRwZZvzlycVdzNo) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Remember](https://open.spotify.com/album/3vvSxw48styeG1cHCjTAJr) | 2:25 |
 | 106 | [here](https://open.spotify.com/track/4mBEkf0Sbl5hqL7xnDOpKu) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [here](https://open.spotify.com/album/7BqQhLeGdEyryHo6VKlvV2) | 4:14 |
 | 107 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 |
 | 108 | [MORE](https://open.spotify.com/track/47kXceQYFos7TpbwhHHGgj) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [MORE](https://open.spotify.com/album/7pthZEyiFlYQ7h61F4Zo0L) | 2:59 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 199 | [787](https://open.spotify.com/track/2xlspjY2EDUBuPc7qVLY74) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [787](https://open.spotify.com/album/70jmIcCLlaaPqiMZcAsMyG) | 2:49 |
 | 200 | [Feelings](https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua) | [Dre Scot](https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1) | [Feelings](https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh) | 3:22 |
 
-Snapshot ID: `MCwwMGQ0M2Y4ZTM2MDdhYjQ0YjI1MTk1MzM1MTJhNWNjZjgxYzY2NmM1`
+Snapshot ID: `MCwzODA4Y2I1YmY1ZDUyODNlYmRmNzI4NTY3Y2Y2NDllYjdhMDcxNTli`

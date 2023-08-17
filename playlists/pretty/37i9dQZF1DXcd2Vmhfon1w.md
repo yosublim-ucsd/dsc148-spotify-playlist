@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,607 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,717 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 35 | [Sorry Not Sorry](https://open.spotify.com/track/1tgmLnQepRcuHYGj0pgObJ) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Sorry Not Sorry](https://open.spotify.com/album/3kGwvdxAA643sChHnAF9Nl) | 3:32 |
 | 36 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
 | 37 | [AHORA QUE](https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [AHORA QUE](https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0) | 2:48 |
-| 38 | [Tranquilo](https://open.spotify.com/track/2FARB9OPTpoXdja2vLj8SH) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Tranquilo](https://open.spotify.com/album/4NTrYm9BxIRfVILwYwHi3F) | 2:25 |
-| 39 | [No me hables de barras](https://open.spotify.com/track/0ieETfw7BT0opbN4IqqFT5) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [π Beats](https://open.spotify.com/artist/2VvIMgT14KqJyUTVKEUw8O) | [No me hables de barras](https://open.spotify.com/album/5fPqgPf2cNMVZW9jpqpvVp) | 3:39 |
+| 38 | [No me hables de barras](https://open.spotify.com/track/0ieETfw7BT0opbN4IqqFT5) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [π Beats](https://open.spotify.com/artist/2VvIMgT14KqJyUTVKEUw8O) | [No me hables de barras](https://open.spotify.com/album/5fPqgPf2cNMVZW9jpqpvVp) | 3:39 |
+| 39 | [Tranquilo](https://open.spotify.com/track/2FARB9OPTpoXdja2vLj8SH) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Tranquilo](https://open.spotify.com/album/4NTrYm9BxIRfVILwYwHi3F) | 2:25 |
 | 40 | [La Góndola](https://open.spotify.com/track/7lly9m8Wwi6crkqGLlvEz2) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [La Góndola](https://open.spotify.com/album/0nqA4JsLWiByBgmRm5B8aP) | 3:02 |
 | 41 | [Barquito de Vela](https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Barquito de Vela](https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL) | 3:40 |
 | 42 | [LACOSTA](https://open.spotify.com/track/5MDikm9ADqdDcNiFPmhqEN) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [LACOSTA](https://open.spotify.com/album/2hSIsDIZTHTaJBpTdYaUh5) | 2:56 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 47 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 |
 | 48 | [Hasta que salga el sol](https://open.spotify.com/track/296VAw6iwgYX38mWMy98EG) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hasta que salga el sol](https://open.spotify.com/album/6OxPnl4d7ZjsEyYhuWvG1k) | 4:07 |
 
-Snapshot ID: `MCw1MTY1YjJjZTY1OTE4ZWMwMjgwMWFkZTJiZDBlM2Y5OTQxMzM0NjY0`
+Snapshot ID: `MCwxYTk5Y2E0YTljNzA5Y2RjNjJmY2UxOWI0MTQ4MzY1YjYwOGY4ODk2`

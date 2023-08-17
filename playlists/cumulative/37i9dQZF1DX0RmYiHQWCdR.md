@@ -4,7 +4,7 @@
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-40 songs - 2 hr 26 min
+42 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Blue Notebook](https://open.spotify.com/track/3oxUdZdLVjqyAS15arjChH) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ), [Iskra String Quartet](https://open.spotify.com/artist/7cApEzpfV7mgSObAHr3dy4) | [Iskra](https://open.spotify.com/album/4tdmypYEgbHLoGcSUSH3WW) | 1:57 | 2023-08-02 |  |
 | [Chopin: Nocturne No\. 20 \- slowed + reverb](https://open.spotify.com/track/5IL4Ii4bcaTjpPU7jsxOvn) | [Classical Slowed + Reverb](https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk) | [Chopin: Nocturne No\. 20 \- slowed + reverb](https://open.spotify.com/album/2RKYjLIoGCy9OVnwYFHzvX) | 5:51 | 2023-08-02 |  |
 | [Dance For Me Wallis](https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [W.E\. \- Music From The Motion Picture](https://open.spotify.com/album/0ILxbrvGwBj3jyhQjhzrP7) | 3:08 | 2023-08-02 |  |
+| [Don't Go](https://open.spotify.com/track/31SPIpjKb1YlvY6FDCBUrm) | [Christopher Dennis Coleman](https://open.spotify.com/artist/1mM9perSjGuMbNejzFhi1U) | [Don't Go](https://open.spotify.com/album/2DkwNU0M0BUVh9qPA0CBmf) | 2:54 | 2023-08-16 |  |
 | [doux](https://open.spotify.com/track/3xluWuHAfJkcwmbHFVZora) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:47 | 2023-08-02 |  |
 | [Falling For](https://open.spotify.com/track/6sjn8knBvkR0eek1zEVkmn) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Falling For](https://open.spotify.com/album/5U9PNefLruNvVFlwTq38pY) | 2:00 | 2023-08-02 |  |
 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 | 2023-08-02 |  |
@@ -43,6 +44,7 @@
 | [The Love That Binds Us](https://open.spotify.com/track/50duVqi1ETUTGWJQmclvlG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 3:55 | 2023-08-02 |  |
 | [The Night We Met](https://open.spotify.com/track/6nXGCf8abcRrRhLrUEFlD8) | [Asiancellodude](https://open.spotify.com/artist/3YJJSktrvGW0GYbbZwyGsY) | [The Night We Met](https://open.spotify.com/album/40z8uHIyl3cLTiMIZxquq6) | 3:08 | 2023-08-02 |  |
 | [this is what love is](https://open.spotify.com/track/2lVIRDMd7dgwMAwzM824Dz) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [James Southall](https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk), [David O’Leary](https://open.spotify.com/artist/3kuJnjb3NR5NO0iptFuchB), [Rachel Roberts](https://open.spotify.com/artist/1kO1prL8GSAOJYecFt0pzw), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [this is what love is](https://open.spotify.com/album/5KAMiXABUYhHcV15pfJ4w4) | 3:00 | 2023-08-02 |  |
+| [True Love's Last Kiss](https://open.spotify.com/track/1bEKgHo3T22HwGHhrFt5rw) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 3:17 | 2023-08-16 |  |
 | [Unrequited Love](https://open.spotify.com/track/71Y4MDtbPbwgASI7RXSSCO) | [Ari Posner](https://open.spotify.com/artist/563dtu7YhG2vW5KPAwMgC4), [Amin Bhatia](https://open.spotify.com/artist/3GvnGpA4bEqkq9FDeA2NEv) | [Anne With An E \(Music From The Netflix Original Series\)](https://open.spotify.com/album/18zn6reTQDMH7c3dxgpRGM) | 2:30 | 2023-08-02 |  |
 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 | 2023-08-02 |  |
 | [when the party's over](https://open.spotify.com/track/2arqmjBq0VGm1wNdCuNpnQ) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Sebastian Pecznik](https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx) | [Reprise](https://open.spotify.com/album/6BjlK1XHXrxBpXhhfLjLnF) | 3:14 | 2023-08-02 |  |

@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-136 songs - 4 hr 5 min
+137 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Climax Fight Theme](https://open.spotify.com/track/1fZuHMYPWq4b1Of2xFOmyL) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU) | [Maaveeran](https://open.spotify.com/album/4raAEtLCQP5cIWpkAJlxmG) | 2:22 | 2023-08-04 | 2023-08-06 |
 | [Climax Fight Theme](https://open.spotify.com/track/29KEkZUW0CJy1Uny8RMAfb) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU), [Madonne Ashwin](https://open.spotify.com/artist/1KVbuMITzhBSDE1u0sfNyd) | [Maaveeran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18IiryUOWnQBk58WpYTLnd) | 2:22 | 2023-08-04 |  |
 | [Closure \- Background Score](https://open.spotify.com/track/54UsJLnJMK1pB99uBolGwN) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 2:21 | 2023-01-25 | 2023-02-07 |
-| [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 | 2021-11-01 |  |
+| [Con Man Theme](https://open.spotify.com/track/1l3ICLDCcmQpN3aMXpdDIA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss](https://open.spotify.com/album/3y8as6hLADmwULY9XqeLRm) | 2:23 | 2021-11-01 |  |
+| [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 | 2021-11-01 | 2023-08-17 |
 | [Cucumba](https://open.spotify.com/track/0uswgpVQNDT9DfEyzzCQcg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast \(Original Background Score\)](https://open.spotify.com/album/0mZe6r4eaGrhuCvx6dzxey) | 0:44 | 2022-06-23 |  |
 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 | 2021-11-27 |  |
 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 | 2021-11-01 |  |

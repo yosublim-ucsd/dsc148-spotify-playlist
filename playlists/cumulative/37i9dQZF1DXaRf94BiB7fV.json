@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: citimall, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Avanti Patel, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1120,6 +1120,28 @@
       "duration_ms": 214545,
       "name": "Aye Khuda",
       "url": "https://open.spotify.com/track/3jxTsyeGnT8YlPMES32nXg"
+    },
+    {
+      "album": {
+        "name": "Baadal Banke",
+        "url": "https://open.spotify.com/album/596Znd7gT8OFIfCugcrlhc"
+      },
+      "artists": [
+        {
+          "name": "Rajeev Sharma",
+          "url": "https://open.spotify.com/artist/2Z4SUOtfz2Ke43OnKCB6b8"
+        },
+        {
+          "name": "Harshita Singh",
+          "url": "https://open.spotify.com/artist/7B3VfmjpQWVXUVl3q3eURS"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Baadal Banke",
+      "url": "https://open.spotify.com/track/4LlqppwG1M93dzQ3JG2Gcr"
     },
     {
       "album": {
@@ -3420,7 +3442,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 219837,
       "name": "Dil ki Baatein",
       "url": "https://open.spotify.com/track/3ih8nvUkVNBMp7jVZ1Ms1y"
@@ -4094,6 +4116,24 @@
       "duration_ms": 130060,
       "name": "essence",
       "url": "https://open.spotify.com/track/6u3PaGW1dwSnLIbiRuQUP3"
+    },
+    {
+      "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/3nYTZeyUGh79Ybj1cirsVE"
+      },
+      "artists": [
+        {
+          "name": "Omkar Bhat",
+          "url": "https://open.spotify.com/artist/2UXkOhxWQ7Nu9BYgP3ZsiN"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/4vc4cWoQ44Fpa8zlAzYtZi"
     },
     {
       "album": {
@@ -5336,6 +5376,24 @@
       "duration_ms": 215624,
       "name": "Hijr",
       "url": "https://open.spotify.com/track/74EQcvxB3vSnf058KbfgNp"
+    },
+    {
+      "album": {
+        "name": "Himalay Se",
+        "url": "https://open.spotify.com/album/3txpcr2L5Q6GbwST9itJsO"
+      },
+      "artists": [
+        {
+          "name": "Shubhank Sharma",
+          "url": "https://open.spotify.com/artist/4dPmTI5f3bzGwwdvTRG5yE"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181742,
+      "name": "Himalay Se",
+      "url": "https://open.spotify.com/track/6tgblCL0RKZkrbVmAkVhRF"
     },
     {
       "album": {
@@ -6594,6 +6652,24 @@
       "duration_ms": 265859,
       "name": "Jaane Phirse Kaise (feat. Vidhya Gopal)",
       "url": "https://open.spotify.com/track/16jc3m4wXiZoSX7W5FFLWL"
+    },
+    {
+      "album": {
+        "name": "Jaanu Na Main",
+        "url": "https://open.spotify.com/album/1QBGbCd74jZFsxOAb8EI2o"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Tyagi",
+          "url": "https://open.spotify.com/artist/2FBOr54aBsDWOEtGcBcDhK"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Jaanu Na Main",
+      "url": "https://open.spotify.com/track/6tl0bmhUjSujy9ORAyQ3CI"
     },
     {
       "album": {
@@ -9140,7 +9216,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 178314,
       "name": "Madly Raving Sphere",
       "url": "https://open.spotify.com/track/5s8lMIoTopvNEhIsLlZmiC"
@@ -11754,7 +11830,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 200062,
       "name": "Put On Feet Again",
       "url": "https://open.spotify.com/track/7tz5nNlARU26NIFmmCUcAk"
@@ -12938,7 +13014,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 194532,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8"
@@ -13560,7 +13636,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 154266,
       "name": "Silly Boi",
       "url": "https://open.spotify.com/track/3Bmeyll7lAi07ITXYGHhhF"
@@ -16730,6 +16806,28 @@
       "duration_ms": 162264,
       "name": "Wkndslpn",
       "url": "https://open.spotify.com/track/7w8kWDwTbgura6fvD91T3e"
+    },
+    {
+      "album": {
+        "name": "Woh Main Hoon",
+        "url": "https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR"
+      },
+      "artists": [
+        {
+          "name": "Chirag Soni",
+          "url": "https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3"
+        },
+        {
+          "name": "Vishal Pande",
+          "url": "https://open.spotify.com/artist/7bpR8dBq6lr1qt27dk0Hjw"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212432,
+      "name": "Woh Main Hoon",
+      "url": "https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp"
     },
     {
       "album": {

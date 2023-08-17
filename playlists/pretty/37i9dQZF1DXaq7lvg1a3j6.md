@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,292 likes - 38 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,322 likes - 38 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 | 33 | [Tooh](https://open.spotify.com/track/23Dpwemmuf6nYSzR9sUJ9M) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Mamta Sharma](https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4) | [Tooh](https://open.spotify.com/album/7ivSWCu9WuArhLWHOUDLbQ) | 4:20 |
 | 34 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 |
 | 35 | [Kaun Nachdi](https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:03 |
-| 36 | [Rum Whisky \(From "Vicky Donor"\)](https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:04 |
+| 36 | [Rum Whisky](https://open.spotify.com/track/2YTxGfincThuopehgsuPJ4) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor](https://open.spotify.com/album/5PdJqwDJx8NQpEFlY3oXWt) | 4:04 |
 | 37 | [Chote Chote Bhaiyon Ke Bade Bhaiya](https://open.spotify.com/track/6LJhtkzikhMyIBMFWr5TNX) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Hum Saath \- Saath Hain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0V8O6S0S6mYdyPch6DdW8g) | 4:15 |
 | 38 | [Say "Shava Shava"](https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3) | [Aadesh Shrivastava](https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q), [Sudesh Bhosale](https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kabhi Khushi Kabhie Gham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh) | 6:48 |
 
-Snapshot ID: `MCw5ZTk0NTdmZjQzMjM1MzljNDAxYjM4NjIxMTM4MjA3ODAzZmZkNWMy`
+Snapshot ID: `MCwyNDhiNzU3NjM5MWZlYmQyYzBlMTgzOTc2MWQyNjcwYTBmYjEwYjc4`

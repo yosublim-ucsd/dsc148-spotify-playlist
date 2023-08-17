@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-977 songs - 1 day 21 hr 27 min
+978 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-07-08 | 2022-10-01 |
 | [Not Your Average](https://open.spotify.com/track/1ND2hKqNoCpzNiGGg0jKzR) | [Pacman da Gunman](https://open.spotify.com/artist/33VENhd4NxUxZztcOX7KP2), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Not Your Average](https://open.spotify.com/album/21aIepydJ8Y4gZTkG9P8Qx) | 1:58 | 2022-03-18 | 2022-06-25 |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-09-30 | 2023-01-28 |
+| [Now It’s Real](https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Now It’s Real](https://open.spotify.com/album/0QjhNM3DEemC41NSJ4Lu6E) | 4:13 | 2023-08-16 |  |
 | [Nun To Do](https://open.spotify.com/track/0dr9SDW7xx2QfrF8ys0CNZ) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:37 | 2022-08-12 | 2022-10-29 |
 | [NWA](https://open.spotify.com/track/5aMQd5qYidZ7Y5y98vGwuo) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [NWA](https://open.spotify.com/album/3oLQ2x8g3dVJGWKkPXsvgv) | 2:19 | 2022-12-09 | 2022-12-17 |
 | [O to the G](https://open.spotify.com/track/11BN0s9uuARJK3dps40nbF) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [O to the G](https://open.spotify.com/album/5Smx2e6FJ2P4j6QSyM426X) | 1:26 | 2022-11-04 | 2022-11-26 |
@@ -889,7 +890,7 @@
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-28 |  |
 | [TOUGH SKIN](https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TOUGH SKIN](https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa) | 2:48 | 2022-08-12 | 2022-08-16 |
 | [Trap God \(feat\. Gucci Mane\)](https://open.spotify.com/track/7o8roffebrizAsv0m0IetL) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God \(feat\. Gucci Mane\)](https://open.spotify.com/album/6GRcZgVUWALGxdPQ5ENi27) | 2:32 | 2021-09-24 | 2022-03-05 |
-| [Trap Jumpin](https://open.spotify.com/track/6qXdIBaOHqqQhugmM8w2qs) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN) | [Trap Jumpin](https://open.spotify.com/album/5dkZ63LuXcXaaZrABmwJFH) | 3:54 | 2023-07-28 |  |
+| [Trap Jumpin](https://open.spotify.com/track/6qXdIBaOHqqQhugmM8w2qs) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN) | [Trap Jumpin](https://open.spotify.com/album/5dkZ63LuXcXaaZrABmwJFH) | 3:54 | 2023-07-28 | 2023-08-17 |
 | [Trap Out Da Spot](https://open.spotify.com/track/3Gghq6fyVejQyvgnIQXGWo) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Welcome To The Trap](https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ) | 2:50 | 2022-01-14 | 2022-02-05 |
 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714) | 2:27 | 2021-09-03 | 2022-01-15 |
 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 | 2023-05-13 |

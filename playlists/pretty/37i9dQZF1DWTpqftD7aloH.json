@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 295810,
+  "num_followers": 296252,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTY0MjBiNGY1YTMxYjdjZGQwMDFiZGVhNGVjZjI1OTJkYjYxMjIx",
+  "snapshot_id": "MCxhNjM3YjNhNzI0NWEwODYzMjEzN2Q4ODc5MDZhNTlmMDNkZTY2YWNj",
   "tracks": [
     {
       "added_at": "2023-08-07 17:03:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Samuel Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 391720,
-      "name": "Todavia Me Alegrarei (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Samuel Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 391720,
+      "name": "Todavia Me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
+      },
+      "artists": [
+        {
+          "name": "Israel Subira",
+          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
+        }
+      ],
+      "duration_ms": 465885,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
         "name": "Maranata",
         "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 384760,
       "name": "Maranata - Ao Vivo",
       "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
-        "name": "Me Leva Pra Casa",
-        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
-      },
-      "artists": [
-        {
-          "name": "Israel Subira",
-          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
-        }
-      ],
-      "duration_ms": 465885,
-      "name": "Me Leva Pra Casa",
-      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 260481,
-      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Pra Onde Eu Irei? (Live Church)",
         "url": "https://open.spotify.com/album/0ZnX9cZRCa0CBfgPVgzB9Q"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 489859,
       "name": "Pra Onde Eu Irei? - Live Church",
       "url": "https://open.spotify.com/track/5l2nA65AMfg7GdZvFMyXI4"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 260481,
+      "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2chAXWVbGV6kgirxLbxsQu"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Deus de Promessas",
         "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Ess\u00eancia",
         "url": "https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 398986,
       "name": "A Resposta",
       "url": "https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Todavia Me Alegrarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 291386,
-      "name": "Todavia Me Alegrarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Eu Sou Livre",
         "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+        "name": "Todavia Me Alegrarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6grrI3Rm6L9SqRbGDqJ7xP"
       },
       "artists": [
         {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+      "duration_ms": 291386,
+      "name": "Todavia Me Alegrarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0BUKz3V1yW6HPVzYuXlUIU"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1443,6 +1427,22 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Uma Coisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 398562,
-      "name": "Para Que Entre o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 590911,
       "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Uma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 398562,
+      "name": "Para Que Entre o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Palavra, Som e Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU"
-      },
-      "artists": [
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 431080,
-      "name": "Se Eu Me Humilhar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Da Eternidade",
         "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "\u00c9 Tudo Sobre Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok"
+        "name": "Palavra, Som e Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/31Dm7loLygWja3nL2KHNaU"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
         }
       ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9"
+      "duration_ms": 431080,
+      "name": "Se Eu Me Humilhar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1755,6 +1739,22 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "\u00c9 Tudo Sobre Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 332266,
       "name": "Eu Te Agrade\u00e7o (feat. Israel Salazar) - Ao Vivo",
       "url": "https://open.spotify.com/track/0qdMGjFLPHsPq973VKV6Xr"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": "2023-08-07 17:03:38",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-08-07 17:03:38",
       "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 269853,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz"
-    },
-    {
-      "added_at": "2023-08-07 17:03:38",
-      "album": {
         "name": "De Ti Preciso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 313292,
       "name": "De Ti Preciso - Ao Vivo",
       "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
+    },
+    {
+      "added_at": "2023-08-07 17:03:38",
+      "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/7FZ4NJrgxRtw1oHXGZjlGf"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 269853,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4tTEwUZhYgrwKnfsQpZjBz"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

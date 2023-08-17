@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 103348,
+  "num_followers": 103508,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjRhZGUwMmI3NDVjODAyN2NmOTEyYzFiNWJhZTBjMGE3NDNkMDVk",
+  "snapshot_id": "MCwwMWVjZDA2YmI5MWFmNGU1ZTM4ZDlkZGUyNzA2ODAxNGE5N2NiNzU0",
   "tracks": [
     {
       "added_at": "2023-07-28 12:41:29",
@@ -43,6 +43,82 @@
       "duration_ms": 199072,
       "name": "Sammohanuda (From \"Rules Ranjann\")",
       "url": "https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35"
+    },
+    {
+      "added_at": "2023-08-16 11:55:55",
+      "album": {
+        "name": "Gangs Of Godavari",
+        "url": "https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "duration_ms": 202401,
+      "name": "Suttamla Soosi",
+      "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
+    },
+    {
+      "added_at": "2023-08-16 06:50:09",
+      "album": {
+        "name": "Prem Kumar",
+        "url": "https://open.spotify.com/album/0wQsbRIgvDzBu3hIYaqLMK"
+      },
+      "artists": [
+        {
+          "name": "S. Anant Srikar",
+          "url": "https://open.spotify.com/artist/5KbUgwaQNMhwUJpk5FBttL"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 255272,
+      "name": "Nuvve Leni Lokame",
+      "url": "https://open.spotify.com/track/7EFaNHilj0K7XRx1wkez6V"
+    },
+    {
+      "added_at": "2023-08-16 05:55:24",
+      "album": {
+        "name": "Manase Marala Marala (From \"Sandeham\")",
+        "url": "https://open.spotify.com/album/7C4Tqmv5M23nwU5UO09ckg"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. Pranati",
+          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
+        },
+        {
+          "name": "Subhash Anand",
+          "url": "https://open.spotify.com/artist/2NP78xB5UtgQ5iXu8lpBip"
+        }
+      ],
+      "duration_ms": 211060,
+      "name": "Manase Marala Marala (From \"Sandeham\")",
+      "url": "https://open.spotify.com/track/3sTqB033Q4oBQJqOMs5IvL"
     },
     {
       "added_at": "2023-07-31 12:32:29",
@@ -633,26 +709,6 @@
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
-      "added_at": "2022-11-10 13:17:20",
-      "album": {
-        "name": "Sir",
-        "url": "https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Mastaaru Mastaaru",
-      "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
       "added_at": "2023-03-25 03:18:29",
       "album": {
         "name": "Endhe Endhe (From \"Agent\")",
@@ -721,30 +777,6 @@
       "url": "https://open.spotify.com/track/220ENw46j8SPA7z5gNxkjA"
     },
     {
-      "added_at": "2022-11-29 05:07:08",
-      "album": {
-        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
-        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Gundellonaa (From \"Ori Devuda\")",
-      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
-    },
-    {
       "added_at": "2023-04-03 07:41:57",
       "album": {
         "name": "Nachinavadu",
@@ -783,26 +815,6 @@
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
-    },
-    {
-      "added_at": "2022-11-22 08:23:25",
-      "album": {
-        "name": "Love Today (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4F9lI7xMQSG7BVM3dOC41U"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Pilla Padesaave",
-      "url": "https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI"
     },
     {
       "added_at": "2023-03-21 06:30:28",

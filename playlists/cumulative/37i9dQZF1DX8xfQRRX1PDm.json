@@ -3660,10 +3660,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 273256,
       "name": "Nagada Sang Dhol",
       "url": "https://open.spotify.com/track/5s9Kd33ExIhpe1JJSj5zLZ"
+    },
+    {
+      "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela",
+        "url": "https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Osman Mir",
+          "url": "https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273256,
+      "name": "Nagada Sang Dhol",
+      "url": "https://open.spotify.com/track/6WyPFYIqwULAkTG9fAx4ox"
     },
     {
       "album": {
@@ -4097,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Goliyon Ki Raasleela Ram-Leela",
+        "url": "https://open.spotify.com/album/39DoW3oSM0BCiKtdRNxnhQ"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi Trivedi",
+          "url": "https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Ram Chahe Leela",
+      "url": "https://open.spotify.com/track/1fupLn3j1AZBJdxj8D4mLM"
+    },
+    {
+      "album": {
         "name": "Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp"
       },
@@ -4108,7 +4148,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 244285,
       "name": "Ram Chahe Leela",
       "url": "https://open.spotify.com/track/3WXHXpVF6dzDhatda6Al0y"

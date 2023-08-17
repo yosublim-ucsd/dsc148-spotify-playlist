@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmZhYmZhMmVkZDg3YTBjZDE0YzdlYjZmZDIzOTkyMzg0NmIxMzJl",
+  "snapshot_id": "MCwyMjQ4OGRkM2EyYTc3MjVmMDg3Nzg2OWE0ZGNlMWQyOGM1NmUzNDlk",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Outta Sync",
-        "url": "https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7"
-      },
-      "artists": [
-        {
-          "name": "Don Letts",
-          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
-        }
-      ],
-      "duration_ms": 271026,
-      "name": "Outta Sync",
-      "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 249600,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Outta Sync",
+        "url": "https://open.spotify.com/album/51d12vDqs21akI7JzXTdH7"
+      },
+      "artists": [
+        {
+          "name": "Don Letts",
+          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
+        }
+      ],
+      "duration_ms": 271026,
+      "name": "Outta Sync",
+      "url": "https://open.spotify.com/track/2wm9AJooKGLfR6QC8TTojp"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -959,6 +959,50 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Goteo",
+        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
+      },
+      "artists": [
+        {
+          "name": "Sangre Nueva",
+          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Opening The Door",
         "url": "https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ"
       },
@@ -987,22 +1031,6 @@
       "duration_ms": 534342,
       "name": "the mirror",
       "url": "https://open.spotify.com/track/1eGrUX80yxeneDVZpVCYh1"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1039,34 +1067,6 @@
       "duration_ms": 488720,
       "name": "Zoras's Moon - Natasha Diggs Remix",
       "url": "https://open.spotify.com/track/4TWRxDQX1ZcgfgvFEtflVp"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Goteo",
-        "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
-      },
-      "artists": [
-        {
-          "name": "Sangre Nueva",
-          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        },
-        {
-          "name": "Florentino",
-          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
-        },
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
     },
     {
       "added_at": "2023-02-03 06:30:00",

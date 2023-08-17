@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,732 songs - 3 day 5 hr 39 min
+1,733 songs - 3 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1237,7 +1237,7 @@
 | [Saltare \(Somewhere at the Baltic Sea\)](https://open.spotify.com/track/645kj2wJDlXW7Wnx5N9WCq) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [The 8 Pianos Project](https://open.spotify.com/album/4ITpqO83by63yHA8O1YGKM) | 4:17 | 2021-04-30 | 2022-04-19 |
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2021-03-09 | 2022-03-31 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2021-03-10 | 2022-04-17 |
-| [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-07-27 | 2023-08-15 |
+| [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-07-27 |  |
 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-20 |  |
 | [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-12-24 | 2023-01-06 |
 | [Sand Castle](https://open.spotify.com/track/3ExgkwTDs4mymqj09BzIsD) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Moonlight](https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK) | 3:11 | 2021-05-18 | 2021-05-19 |
@@ -1422,7 +1422,7 @@
 | [Synesthesia \(Scaled Down Version\)](https://open.spotify.com/track/50030Xdu99SG9krul5IlNL) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 1:54 | 2021-03-09 | 2022-04-20 |
 | [Sérénade Pour Glaçons](https://open.spotify.com/track/2PLSyXt3DrKNzjdHwH4hkM) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Sérénade Pour Glaçons](https://open.spotify.com/album/4Kfio1b9SK8nG3avRDzTMc) | 3:01 | 2022-12-22 | 2023-01-26 |
 | [Tail Lights](https://open.spotify.com/track/38Li7bOUatKi99v9U4FqOo) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Tail Lights](https://open.spotify.com/album/0zFgil19diyLhpZJkfWwm3) | 3:26 | 2021-03-09 | 2022-04-16 |
-| [Take care](https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Take care](https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1) | 2:08 | 2023-04-15 |  |
+| [Take care](https://open.spotify.com/track/244BGt6n916G7NdoOUKSsX) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Take care](https://open.spotify.com/album/7cNJc2dXmvwnaS954Kvwo1) | 2:08 | 2023-04-15 | 2023-08-17 |
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2021-04-22 | 2021-10-11 |
 | [Take Me Somewhere Else](https://open.spotify.com/track/37EJ2kCLr8RoXDxYE5cHrF) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Take Me Somewhere Else](https://open.spotify.com/album/0PRMKJ747Z8clDXDAEVptv) | 3:52 | 2021-05-06 | 2022-04-21 |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2021-03-17 | 2022-09-10 |
@@ -1489,6 +1489,7 @@
 | [The Piano Inside](https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 3:11 | 2021-05-22 | 2022-04-02 |
 | [The Plains of Dover](https://open.spotify.com/track/3ExU31i7Fh2vbhB1DzM1Gr) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [The Plains of Dover](https://open.spotify.com/album/0aA4oMl9Ggfh4ZyvjM2fMM) | 3:11 | 2021-05-07 | 2022-04-18 |
 | [The Porcelain Store](https://open.spotify.com/track/1DTiV1eUXgIZv4tzp5p0qh) | [Mario](https://open.spotify.com/artist/424QuePzvUmKigWnHcDBcg) | [The Porcelain Store](https://open.spotify.com/album/18YN5j6RJ46XlrptgO8hIW) | 3:03 | 2021-03-07 | 2021-05-26 |
+| [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-15 |  |
 | [The Purple Door](https://open.spotify.com/track/0lP2WKcigXHy96GH946Jlg) | [Darkuro](https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh) | [The Purple Door](https://open.spotify.com/album/1m9vsSh9bzrveo0k71nFqv) | 2:24 | 2022-06-22 | 2022-07-23 |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-03-29 | 2022-09-30 |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2021-03-16 | 2022-07-04 |
@@ -1499,7 +1500,7 @@
 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 | 2021-03-08 | 2022-04-18 |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-03-29 | 2022-04-14 |
 | [The Stars](https://open.spotify.com/track/3MudBKLYKO3jw8xl8HdLXi) | [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Dalasinfoniettan](https://open.spotify.com/artist/7zHTlOcdKTklAyain9VFB3) | [One](https://open.spotify.com/album/1UAS6rzizbJzW7mjr2qp3x) | 5:32 | 2021-05-16 | 2022-04-14 |
-| [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 |  |
+| [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 | 2023-08-17 |
 | [The Swan](https://open.spotify.com/track/4gnse1wE1sdaO1LNqyDVCo) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [The Swan](https://open.spotify.com/album/3n4E33QEwe90voYnoAWGtc) | 2:28 | 2021-05-05 | 2022-04-17 |
 | [The Thing With Feathers](https://open.spotify.com/track/3mFbJCcXcQJiyiksotg99d) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [The Thing With Feathers](https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK) | 2:39 | 2021-05-16 | 2021-05-18 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-15 |  |

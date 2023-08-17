@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6521\)
+## Playlists \(6523\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1156,6 +1156,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Classical Sleep](/playlists/pretty/37i9dQZF1DX8Sz1gsYZdwj.md)
 - [Classical Wedding](/playlists/pretty/37i9dQZF1DXbTR7abB7Ji7.md)
 - [Classical X](/playlists/pretty/37i9dQZF1DX7dzHXrANAir.md)
+- [Classical in the Background](/playlists/pretty/37i9dQZF1DWTi57LiHYTmH.md)
 - [Classically British](/playlists/pretty/37i9dQZF1DWVCndJIeGywh.md)
 - [Classically Queer](/playlists/pretty/37i9dQZF1DX75gMjYMWCsk.md)
 - [Classics For Crying](/playlists/pretty/37i9dQZF1DX15JKV0q7shD.md)
@@ -5358,6 +5359,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is SHINee](/playlists/pretty/37i9dQZF1DX8To4GlhTfpA.md)
 - [This Is SMTOWN](/playlists/pretty/37i9dQZF1DWWRPNrrjHe9m.md)
 - [This Is SPYAIR](/playlists/pretty/37i9dQZF1DZ06evO4iOisK.md)
+- [This Is STAYC](/playlists/pretty/37i9dQZF1DX0AAiNzeZDgc.md)
 - [This Is STUDIO GHIBLI \-スタジオジブリ\-](/playlists/pretty/37i9dQZF1DX7GTqMQDhOum.md)
 - [This Is SUBSHIFT](/playlists/pretty/37i9dQZF1DZ06evO3LZ0T8.md)
 - [This Is SUNMI](/playlists/pretty/37i9dQZF1DX5wTRh9H8LSC.md)

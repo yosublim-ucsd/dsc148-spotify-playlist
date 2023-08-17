@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,702 likes - 126 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,767 likes - 126 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brickwall](https://open.spotify.com/track/0yxtiMujz3tRB64yuyaBUl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1), [Yaca](https://open.spotify.com/artist/7LcTkagQnqGgZrXvMsnbT6), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM) | [Brickwall](https://open.spotify.com/album/0xraxFTU7Mf4dGpEbhNp4z) | 3:00 |
+| 1 | [Brickwall](https://open.spotify.com/track/0yxtiMujz3tRB64yuyaBUl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1), [yaca](https://open.spotify.com/artist/6bOI44vIWQPwNzm0ORkK8Q), [大神 纏 \(CV: 吉田凜音\)](https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM) | [Brickwall](https://open.spotify.com/album/0xraxFTU7Mf4dGpEbhNp4z) | 3:00 |
 | 2 | [Itadaki Babel \- Aiobahn Remix](https://open.spotify.com/track/48tlXEm2vB0xeZxYEj9OhS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [Itadaki Babel \(Aiobahn Remix\)](https://open.spotify.com/album/4pVYpB08p4A6OQzQ0NUORQ) | 3:01 |
 | 3 | [Change](https://open.spotify.com/track/1RKxwWLfgimPD1anjtn60R) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Change](https://open.spotify.com/album/3ebLohq6hQomEGMJMRCNOJ) | 4:10 |
 | 4 | [Full Moon](https://open.spotify.com/track/1GkZJywPhRPBYYaHz1eV5H) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Full Moon](https://open.spotify.com/album/6SxKwXRzM0xlJTPezsncRy) | 4:40 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 125 | [godz by Shin Wada](https://open.spotify.com/track/76jmYU2LOfwkAYXAwR0HE0) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shin Wada](https://open.spotify.com/artist/23Wz4ZreztQA5JemdghQgM) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:25 |
 | 126 | [\*g\*4U by Shinpei Nasuno](https://open.spotify.com/track/7FlvZnwCte3jOmkr4SAkPt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO) | [DENONBU 2nd LIVE \-BREAK DOWN\- DANCE TRACK](https://open.spotify.com/album/0Xeug8gQCePtOOshuRT6yt) | 2:33 |
 
-Snapshot ID: `MCwwYWJkNWMxZTBlODcyMTRlODUzNzg0OWY2MGFmYjNkMTUzMjQ3MjA2`
+Snapshot ID: `MCwwYjkwNzczOWYxMWU1Mjk3NzVjNGE3Y2UxMjI1MDBhMjc2N2RlNmZj`

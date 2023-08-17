@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,224 songs - 2 day 22 hr 40 min
+1,225 songs - 2 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-17 | 2023-04-30 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-28 | 2023-05-13 |
+| [Another Planet \- Bruno Furlan VIP](https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Another Planet \(Bruno Furlan VIP\)](https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC) | 5:48 | 2023-08-11 |  |
 | [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-11 |  |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Around Me](https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Around Me](https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf) | 3:17 | 2023-07-07 |  |
@@ -1208,7 +1209,7 @@
 | [World Around](https://open.spotify.com/track/18DLJgFouA88Cwdzby0aLZ) | [Kidoo](https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD) | [World Around](https://open.spotify.com/album/0gZToZ5tLuuZoBYXYpI8li) | 6:24 | 2023-01-03 | 2023-01-06 |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-08 | 2022-10-01 |
 | [Wormhole](https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb) | [Dillon Marinez](https://open.spotify.com/artist/1M1DknkrhbuC17RUTHcOXC) | [Wormhole](https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1) | 5:39 | 2022-05-13 | 2022-05-28 |
-| [WTF](https://open.spotify.com/track/7KghlrJKm7Kz67AxyITAgb) | [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [WTF](https://open.spotify.com/album/4dwN2SEgXaagfaDfHt7Yuq) | 2:30 | 2023-07-21 |  |
+| [WTF](https://open.spotify.com/track/7KghlrJKm7Kz67AxyITAgb) | [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [WTF](https://open.spotify.com/album/4dwN2SEgXaagfaDfHt7Yuq) | 2:30 | 2023-07-21 | 2023-08-17 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-09-24 |
 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 | 2023-06-09 |  |
 | [X](https://open.spotify.com/track/6f8GQk4wOXgaZ0XXimibwq) | [AW](https://open.spotify.com/artist/07klEuoeAcIFT4YY6tkcVJ) | [X](https://open.spotify.com/album/6tG7LYjswrutL1hMESh4Zw) | 3:07 | 2022-12-16 | 2023-02-04 |

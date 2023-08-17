@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-387 songs - 1 day 11 hr 43 min
+388 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [One Step at a Time](https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Balanced](https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ) | 4:56 | 2023-02-12 |  |
 | [Opaque](https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP), [Robin Petersson](https://open.spotify.com/artist/3PJ3z4A0hSWE6Y9XU7AzDd), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Gustaf Rosenberg](https://open.spotify.com/artist/5oeyqY4yPOoegd5LFYTrZP), [John Fernold](https://open.spotify.com/artist/6zJbBjq6MYuLk6sFqdpmsV) | [Alone Together](https://open.spotify.com/album/0bTuaMPPREoKbTZixGGIpO) | 5:41 | 2022-06-02 |  |
 | [Opening Day](https://open.spotify.com/track/7FI4GNCpplLLHihNZPOwKW) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Django Bates](https://open.spotify.com/artist/0aPobuZcU7C6OgpGU0R5V8) | [Blue Maqams](https://open.spotify.com/album/3G0UgD5jjf2pcwDH1fN5xK) | 7:01 | 2020-05-20 | 2021-08-19 |
+| [Out of Sight, Out of Mind](https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 7:07 | 2023-08-15 |  |
 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 | 2020-05-02\* | 2022-10-05 |
 | [Paranoid Android I](https://open.spotify.com/track/5Jz6iIgLRx5huCdlM8QDts) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Mon chien Stupide \(Bande originale du film\)](https://open.spotify.com/album/5jgEkCbqlHYIa7pMIS4spJ) | 1:41 | 2020-05-02\* | 2022-01-25 |
 | [Parole Parole](https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Parole Parole](https://open.spotify.com/album/10glt1hIgdPws9IDxVqeC3) | 4:36 | 2023-08-03 |  |
@@ -323,7 +324,7 @@
 | [Swept Away](https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Swept Away](https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj) | 6:18 | 2020-05-02\* |  |
 | [Tarde](https://open.spotify.com/track/2EXxg3UZwWqMCgs1gUHEgU) | [Ryan Keberle’s Collectiv do Brasil](https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg) | [Sonhos da Esquina](https://open.spotify.com/album/7mKm2xYfdqz3DUzxOVaSAQ) | 5:32 | 2022-03-17 |  |
 | [Teardrop](https://open.spotify.com/track/1o6v06LkvEkYm0H4S12ejd) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Big Vicious](https://open.spotify.com/artist/6WZmtYXnkegW8tmk9VpWr4) | [Teardrop](https://open.spotify.com/album/3M460rbozbQFxAPSSavwlD) | 7:24 | 2020-05-02\* | 2021-12-18 |
-| [Tears I Cannot Hide](https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 5:21 | 2023-08-03 |  |
+| [Tears I Cannot Hide](https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 5:21 | 2023-08-03 | 2023-08-17 |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2020-05-02\* | 2020-10-27 |
 | [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:03 | 2020-06-12 | 2021-09-17 |
 | [The Astounding Eyes Of Rita](https://open.spotify.com/track/6NAXW6IwUyswJk9bHe4y9S) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [The Astounding Eyes Of Rita](https://open.spotify.com/album/23xoWiWxu8SmDFXwoBsLLw) | 8:41 | 2020-06-12 | 2021-07-27 |

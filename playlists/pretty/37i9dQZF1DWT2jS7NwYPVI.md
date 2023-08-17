@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,451 likes - 129 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,538 likes - 129 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 128 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 129 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCxhMzc4NDI3YjJmMTBkMWJhYTU1MzMzZjNhNDFiYTgyZmJkMGZmYjUw`
+Snapshot ID: `MCxjNWU4MGY3MjA3ZDk2NDhhNDYxYWZiZTI4ZWUxNmRiNmM3NTdjNGNh`

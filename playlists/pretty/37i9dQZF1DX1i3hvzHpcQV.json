@@ -1,18 +1,18 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Jailer",
-  "num_followers": 620005,
+  "num_followers": 620826,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWExZWY0NTZhODVmZDk5ZWE2YTlkM2RmYWNmNmY5ODQzMTIzZDU2",
+  "snapshot_id": "MCxiMjYyNGNkZDMyMDI1YzU4YzU0ZTBkNWIwMjcwNzU0MWQ0OTFmMThk",
   "tracks": [
     {
-      "added_at": "2023-07-06 13:05:41",
+      "added_at": "2023-08-02 05:10:40",
       "album": {
-        "name": "Kaavaalaa (From \"Jailer\")",
-        "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
+        "name": "Jailer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
       },
       "artists": [
         {
@@ -20,17 +20,13 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Kaavaalaa (From \"Jailer\")",
-      "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
+      "duration_ms": 207647,
+      "name": "Hukum - Thalaivar Alappara",
+      "url": "https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF"
     },
     {
       "added_at": "2023-06-22 13:11:17",
@@ -57,10 +53,10 @@
       "url": "https://open.spotify.com/track/1B02UI29t3PTh3m98absaP"
     },
     {
-      "added_at": "2023-08-02 05:10:40",
+      "added_at": "2023-07-06 13:05:41",
       "album": {
-        "name": "Jailer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
+        "name": "Kaavaalaa (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
       },
       "artists": [
         {
@@ -68,13 +64,17 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
         }
       ],
-      "duration_ms": 207647,
-      "name": "Hukum - Thalaivar Alappara",
-      "url": "https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF"
+      "duration_ms": 190909,
+      "name": "Kaavaalaa (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
     },
     {
       "added_at": "2023-01-25 11:03:02",
@@ -821,30 +821,6 @@
       "url": "https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7"
     },
     {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Two Two Two (From \"Kaathuvaakula Rendu Kaadhal\")",
-        "url": "https://open.spotify.com/album/05sVssLlubTOwlcp2pYpio"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        }
-      ],
-      "duration_ms": 176345,
-      "name": "Two Two Two (From \"Kaathuvaakula Rendu Kaadhal\")",
-      "url": "https://open.spotify.com/track/6C8JJFoGC4dkVtAHVK3iif"
-    },
-    {
       "added_at": "2022-04-08 12:51:26",
       "album": {
         "name": "Beast Mode (From \"Beast\")",
@@ -1029,30 +1005,6 @@
       "url": "https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS"
     },
     {
-      "added_at": "2022-01-18 06:48:03",
-      "album": {
-        "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
-        "url": "https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ravi G",
-          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        }
-      ],
-      "duration_ms": 243570,
-      "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
-      "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
-    },
-    {
       "added_at": "2022-06-06 09:04:24",
       "album": {
         "name": "Doctor (Original Motion Picture Soundtrack)",
@@ -1127,30 +1079,6 @@
       "duration_ms": 63711,
       "name": "Soul of Doctor (Theme) [From \"Doctor\"]",
       "url": "https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Bodhai Kaname (From \"Oh Manapenne\")",
-        "url": "https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        }
-      ],
-      "duration_ms": 261946,
-      "name": "Bodhai Kaname - From \"Oh Manapenne\"",
-      "url": "https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx"
     }
   ],
   "unique_name": "Hot Hits Tamil",

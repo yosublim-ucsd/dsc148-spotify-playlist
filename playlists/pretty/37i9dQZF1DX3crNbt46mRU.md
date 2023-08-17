@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,689 likes - 108 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,690 likes - 108 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [DELIRIUM](https://open.spotify.com/track/1UWf4dn9d17amlGBLY4U1I) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [DELIRIUM](https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ) | 2:47 |
 | 9 | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo) | 2:16 |
 | 10 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
-| 11 | [SOS](https://open.spotify.com/track/5KPPwG3v0m6IExWNby02eJ) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [SOS](https://open.spotify.com/album/0dO8QSi4feDnQUJSNVqBvK) | 2:37 |
+| 11 | [SOS](https://open.spotify.com/track/5KPPwG3v0m6IExWNby02eJ) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [SOS](https://open.spotify.com/album/0dO8QSi4feDnQUJSNVqBvK) | 2:38 |
 | 12 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 |
 | 13 | [Hayat](https://open.spotify.com/track/0eeMdL5Sl4cEGGiHwdJSdt) | [Didi](https://open.spotify.com/artist/618CkKAZvvzRlKwFRMY4Yp), [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [Hayat](https://open.spotify.com/album/4lpzOwTcKR0Pr997vWFeux) | 2:47 |
 | 14 | [Sag mir nicht](https://open.spotify.com/track/371MFG2sPTPhC9b3LQXmiv) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Sag mir nicht](https://open.spotify.com/album/7yqoL0EDjZQRT38IVy5Elm) | 2:42 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 107 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 |
 | 108 | [1000 Mal](https://open.spotify.com/track/4n72i90zbKWVs8BSpEDCmO) | [Loco Candy](https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd) | [Treibsand](https://open.spotify.com/album/1yQfXbCPrKTHbYHp3amK6p) | 3:00 |
 
-Snapshot ID: `MCw1OTZiZGY5YzBmZTNkYmIwNTFjZGM2Yzg5NGVmOTYyY2ZlMzg1N2I0`
+Snapshot ID: `MCwwZGY0OWE2MGQxNzg5ZDIyMzU2MzFlNDY5YWU5YTMzMGRlMGJhYjcx`

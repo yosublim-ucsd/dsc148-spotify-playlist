@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Shakey Graves
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,496 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,534 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
 | 150 | [Out On The Road \- Mondo Version / Bonus Track](https://open.spotify.com/track/3li4MoN6EJvRpkxMr9OLXd) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Little Broken Hearts \(Deluxe Edition\)](https://open.spotify.com/album/3iQMKWUB3u2q5DSQj5G4Pg) | 3:22 |
 
-Snapshot ID: `MCwwYmU2MzNlN2U4MzcwNjg4NDk2ZTM5NDY2ZTZlZDdmMmVlMDE0OWNh`
+Snapshot ID: `MCxjOWM5NzU0NTJjZmE2ZTYwYjk1ZTQxYzQ5ZGEzNzkzNzcxOTM1YWY3`

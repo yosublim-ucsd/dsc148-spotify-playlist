@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 139672,
       "name": "Bobo - Remix",
       "url": "https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep"
@@ -8027,6 +8027,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6yExO2h8KWW07843q1PV15"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        },
+        {
+          "name": "Nory",
+          "url": "https://open.spotify.com/artist/3Iue6aZC6Hi70KTfx33IN1"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/28WB2CzIGLI4Q0VucZSIms"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -12395,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "Mucha Playa",
+        "url": "https://open.spotify.com/album/1t86Fle1kF92tPpBe2yJAy"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Mucha Playa",
+      "url": "https://open.spotify.com/track/71lg0Qf6i3Qme2OAsGAslT"
+    },
+    {
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -13008,7 +13048,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 189750,
       "name": "No Te Creo",
       "url": "https://open.spotify.com/track/7sJOGOO2laiHYAwFdZ1wgJ"
@@ -13356,7 +13396,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -13732,6 +13772,28 @@
       "duration_ms": 208550,
       "name": "Panam\u00e1",
       "url": "https://open.spotify.com/track/4b7fbgYUS3Rc5ryxdS6rGX"
+    },
+    {
+      "album": {
+        "name": "Pande Tu Quiera",
+        "url": "https://open.spotify.com/album/3Ybxzpfbkn240q6ur64o3b"
+      },
+      "artists": [
+        {
+          "name": "Dariel J",
+          "url": "https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170357,
+      "name": "Pande Tu Quiera",
+      "url": "https://open.spotify.com/track/3IQF1g9qHPUpLg0UQIq7aB"
     },
     {
       "album": {
@@ -15608,7 +15670,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 124137,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
@@ -19792,7 +19854,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"

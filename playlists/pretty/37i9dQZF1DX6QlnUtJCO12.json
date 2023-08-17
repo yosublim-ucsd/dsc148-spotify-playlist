@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 39091,
+  "num_followers": 39127,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWRhOTdhZjM3MTU3NTY5MGExZjQ4M2U0MDQxOWU1YzI3MDkwYmY3",
+  "snapshot_id": "MCxmZjI2MjA3YmQ3NTM2OGQzMWYzYWZlZWVhOTNiYjJmMzI2NDUxYmE3",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
-        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
-      },
-      "artists": [
-        {
-          "name": "Mighty Panther",
-          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Barbados Carnival",
-      "url": "https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Man Smart, Woman Smarter (Remastered)",
         "url": "https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 154386,
       "name": "Man Smart, Woman Smarter",
       "url": "https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
+        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+      },
+      "artists": [
+        {
+          "name": "Mighty Panther",
+          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Barbados Carnival",
+      "url": "https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -231,18 +231,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
+        "name": "Calypso Carnival (Remastered)",
+        "url": "https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh"
       },
       "artists": [
         {
-          "name": "Lord Invader",
-          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
+          "name": "The Duke Of Iron",
+          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Brown Skin Girl",
-      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
+      "duration_ms": 180440,
+      "name": "Calypsonian Invasion",
+      "url": "https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -263,18 +263,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Carnival (Remastered)",
-        "url": "https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh"
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
       },
       "artists": [
         {
-          "name": "The Duke Of Iron",
-          "url": "https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81"
+          "name": "Lord Invader",
+          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
         }
       ],
-      "duration_ms": 180440,
-      "name": "Calypsonian Invasion",
-      "url": "https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY"
+      "duration_ms": 171066,
+      "name": "Brown Skin Girl",
+      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Lord Melody Sings Calypso",
-        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
-      },
-      "artists": [
-        {
-          "name": "Lord Melody",
-          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Carnival Proclamation",
-      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Man Smart, Woman Smarter",
         "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 183480,
       "name": "Man Smart, Woman Smarter",
       "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Lord Melody Sings Calypso",
+        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+      },
+      "artists": [
+        {
+          "name": "Lord Melody",
+          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Carnival Proclamation",
+      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Calypso Way",
-        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Poor but Ambitious",
-      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsonians (1930 - 1960), Vol.1",
         "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 179773,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Calypso Way",
+        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Poor but Ambitious",
+      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
     },
     {
       "added_at": "2021-04-23 15:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Anyma.",
-  "num_followers": 448205,
+  "num_followers": 448298,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2JkMWI0MTc3NjJlNTlhYzcwNmI1MjVkNWFlMDZjOTk0NGUyMTM3",
+  "snapshot_id": "MCw5NGI3MWRjMzExNDE2Yjg4ZGM0MDc0MGE4Nzg4MGNlZjJlNWE5MjU2",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Day 'N' Night",
-        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Day 'N' Night",
-      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "All For Nothing",
         "url": "https://open.spotify.com/album/42CesxC3CLpCu2Z01Plmum"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 206612,
       "name": "All For Nothing",
       "url": "https://open.spotify.com/track/0XYQShep48eEFHg7hcPndl"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Day 'N' Night",
+        "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Day 'N' Night",
+      "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Top Of The World",
-        "url": "https://open.spotify.com/album/40LVhFWBu6Qk3C3KnNzEdO"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "Davis Mallory",
-          "url": "https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/35lUd5qzNQzameT4vDvPYC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Malmedy",
         "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
       },
@@ -1091,26 +1071,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/2Kl375ovgfhqoKTEzbb7es"
+        "name": "Top Of The World",
+        "url": "https://open.spotify.com/album/40LVhFWBu6Qk3C3KnNzEdO"
       },
       "artists": [
         {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         },
         {
-          "name": "Cyazon",
-          "url": "https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8"
-        },
-        {
-          "name": "Tyler Graves",
-          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+          "name": "Davis Mallory",
+          "url": "https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Before You Leave",
-      "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
+      "duration_ms": 197073,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/35lUd5qzNQzameT4vDvPYC"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1135,6 +1111,30 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/2Kl375ovgfhqoKTEzbb7es"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Cyazon",
+          "url": "https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/5tkIlZJ0rIGFpNg0q94H10"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/3FfIc2lpBZu8GfVwkDQZex"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 136615,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/2PzotD3c1kEvk1xxGrvPj4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Light On",
-        "url": "https://open.spotify.com/album/1e3kmaLnPc5qwDnTVfTmxb"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 269834,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6TTVqj1JMRiuHGm3szHhlh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1195,18 +1175,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Nobody Else Will Do",
-        "url": "https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY"
+        "name": "Light On",
+        "url": "https://open.spotify.com/album/1e3kmaLnPc5qwDnTVfTmxb"
       },
       "artists": [
         {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Nobody Else Will Do",
-      "url": "https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C"
+      "duration_ms": 269834,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6TTVqj1JMRiuHGm3szHhlh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 207874,
       "name": "Portal",
       "url": "https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Nobody Else Will Do",
+        "url": "https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Nobody Else Will Do",
+      "url": "https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Be With You Tonight",
-        "url": "https://open.spotify.com/album/6S8E2IvaHwp1wrHPGVacPK"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Be With You Tonight",
-      "url": "https://open.spotify.com/track/4J3UQnSs1gWUfhh0u8o2bi"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Everybody Jump (Meet Her At The Love Parade)",
         "url": "https://open.spotify.com/album/32MSVlidfbRCpUkPmoVyrO"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 130285,
       "name": "Everybody Jump (Meet Her At The Love Parade)",
       "url": "https://open.spotify.com/track/50Io7hyfWz9TdS550GjEZR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Be With You Tonight",
+        "url": "https://open.spotify.com/album/6S8E2IvaHwp1wrHPGVacPK"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Be With You Tonight",
+      "url": "https://open.spotify.com/track/4J3UQnSs1gWUfhh0u8o2bi"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "You Feel Me",
-        "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "You Feel Me",
-      "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "I Won't Let Go (feat. April Morgan)",
         "url": "https://open.spotify.com/album/14NysHc6za0VM9jGVt5QxG"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "You Feel Me",
+        "url": "https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "You Feel Me",
+      "url": "https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Holidays In The Sun",
         "url": "https://open.spotify.com/album/3Pa4K0OrEGIttXcQXkydD6"
       },
@@ -1539,62 +1539,6 @@
       "duration_ms": 199876,
       "name": "Holidays In The Sun",
       "url": "https://open.spotify.com/track/6eJxZgyCtVPnB8uu4ZM0jR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/20UreWApjSw8Kh7Uq6zwFt"
-      },
-      "artists": [
-        {
-          "name": "Subjoi",
-          "url": "https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p"
-        }
-      ],
-      "duration_ms": 309547,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/3IVzg7wBPT6h4oJbjd34uS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Living In A Dream",
-        "url": "https://open.spotify.com/album/1FDVqEqLs8QoEYD8TDs07U"
-      },
-      "artists": [
-        {
-          "name": "Awakend",
-          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
-        }
-      ],
-      "duration_ms": 225761,
-      "name": "Living In A Dream",
-      "url": "https://open.spotify.com/track/7ag73HpPAknMq1kY1bkNDd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Unhinged (ft. DJ_Dave, Deto Black)",
-        "url": "https://open.spotify.com/album/4Aje5qxdkIQcucUQYdRZuh"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        },
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "Unhinged (ft. DJ_Dave, Deto Black)",
-      "url": "https://open.spotify.com/track/06PiOGzVZqHV62odcoWIvy"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,6 +1579,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Living In A Dream",
+        "url": "https://open.spotify.com/album/1FDVqEqLs8QoEYD8TDs07U"
+      },
+      "artists": [
+        {
+          "name": "Awakend",
+          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
+        }
+      ],
+      "duration_ms": 225761,
+      "name": "Living In A Dream",
+      "url": "https://open.spotify.com/track/7ag73HpPAknMq1kY1bkNDd"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/20UreWApjSw8Kh7Uq6zwFt"
+      },
+      "artists": [
+        {
+          "name": "Subjoi",
+          "url": "https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p"
+        }
+      ],
+      "duration_ms": 309547,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/3IVzg7wBPT6h4oJbjd34uS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Lacuna",
         "url": "https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA"
       },
@@ -1651,6 +1627,50 @@
       "duration_ms": 239124,
       "name": "Lacuna",
       "url": "https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Unhinged (ft. DJ_Dave, Deto Black)",
+        "url": "https://open.spotify.com/album/4Aje5qxdkIQcucUQYdRZuh"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "Unhinged (ft. DJ_Dave, Deto Black)",
+      "url": "https://open.spotify.com/track/06PiOGzVZqHV62odcoWIvy"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Back To Us",
+        "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        }
+      ],
+      "duration_ms": 174571,
+      "name": "Back To Us",
+      "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1675,26 +1695,6 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Back To Us",
-        "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
-      },
-      "artists": [
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        },
-        {
-          "name": "Friendzone",
-          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
-        }
-      ],
-      "duration_ms": 174571,
-      "name": "Back To Us",
-      "url": "https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Us Again",
-        "url": "https://open.spotify.com/album/1ERWwjm91NpRorQjHLojha"
-      },
-      "artists": [
-        {
-          "name": "Alex Adair",
-          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
-        }
-      ],
-      "duration_ms": 205166,
-      "name": "Us Again",
-      "url": "https://open.spotify.com/track/1hk0qvXd04Xy5wuSmHCwZ6"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "You Knew",
         "url": "https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 201399,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Us Again",
+        "url": "https://open.spotify.com/album/1ERWwjm91NpRorQjHLojha"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "duration_ms": 205166,
+      "name": "Us Again",
+      "url": "https://open.spotify.com/track/1hk0qvXd04Xy5wuSmHCwZ6"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "LOST IN YOU (feat. Sun)",
-        "url": "https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs"
-      },
-      "artists": [
-        {
-          "name": "KEVIN DAVE",
-          "url": "https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4"
-        },
-        {
-          "name": "Sun",
-          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "LOST IN YOU (feat. Sun)",
-      "url": "https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Fun (feat. Roses Gabor)",
         "url": "https://open.spotify.com/album/0pdwqsscrJeqZKu4EJoqcT"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 151024,
       "name": "Fun (feat. Roses Gabor)",
       "url": "https://open.spotify.com/track/01Vrxw3jRGDimthKPRynsg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "LOST IN YOU (feat. Sun)",
+        "url": "https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs"
+      },
+      "artists": [
+        {
+          "name": "KEVIN DAVE",
+          "url": "https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4"
+        },
+        {
+          "name": "Sun",
+          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "LOST IN YOU (feat. Sun)",
+      "url": "https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,154 likes - 175 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,320 likes - 175 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 175 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCxkMTBiNGM4YzAwZDljZTRjNzA2OWMxNWY4NTI3YzFkZTY5ZTYxNWFl`
+Snapshot ID: `MCwzN2E2OTZmNWM1Njc1YTc4YmZmZjZhODI5OGFkZWE3Mjc1M2JlMWQw`

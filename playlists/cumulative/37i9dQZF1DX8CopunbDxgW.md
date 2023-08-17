@@ -4,13 +4,13 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-879 songs - 2 day 9 hr 23 min
+880 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2022-08-19 | 2023-02-25 |
 | [\(301\)341\-7207](https://open.spotify.com/track/4dACPlbh1LlNiSuUdaVEl1) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [\(301\)341\-7207](https://open.spotify.com/album/3fgeFGJanCz8Fd50XPOCF7) | 2:16 | 2022-01-28 | 2022-02-12 |
-| [\(I Don't Need A\) New Girl](https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo) | 4:33 | 2023-06-30 |  |
+| [\(I Don't Need A\) New Girl](https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [\(I Don't Need A\) New Girl](https://open.spotify.com/album/4TiuZvVjh4Xpti8n3RnFyo) | 4:33 | 2023-06-30 | 2023-08-17 |
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-02-10 |
 | [1960 What? \- Opolopo Remix](https://open.spotify.com/track/0nWzUKXBEDxSJEfEFHcOUm) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Water](https://open.spotify.com/album/0gQB99eBkdZLBrMc32ybnY) | 8:24 | 2023-02-24 | 2023-03-04 |
 | [2 strings](https://open.spotify.com/track/7fGcGP4L201pDo9BBs7s5F) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [2 strings](https://open.spotify.com/album/1jN6oSiFt4DspfsMTdWlVq) | 3:38 | 2022-04-01 | 2022-07-29 |
@@ -572,6 +572,7 @@
 | [NY Is Killing Me](https://open.spotify.com/track/3pacfC2tJMJsrKk2baf5Bn) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 5:43 | 2022-09-17 | 2022-10-06 |
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
+| [OFF+ON](https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [OFF+ON](https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5) | 3:16 | 2023-07-21 |  |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
 | [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 | 2023-04-17 |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |

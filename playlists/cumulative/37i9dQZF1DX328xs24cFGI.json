@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Koi ha Ramune no Youni",
+        "url": "https://open.spotify.com/album/0XspZ9bvHBSCdcH12HfD1Y"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7406\u592e",
+          "url": "https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207599,
+      "name": "Koi ha Ramune no Youni",
+      "url": "https://open.spotify.com/track/4fWRzTlFkMaEbxXvIBKwz7"
+    },
+    {
+      "album": {
         "name": "Koi no Iro",
         "url": "https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 207599,
       "name": "\u604b\u306f\u30e9\u30e0\u30cd\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/48enrq4jA32v0ikuVgZRuV"

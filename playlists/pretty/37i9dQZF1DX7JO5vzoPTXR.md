@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:76KihzDzdR7li8RPVY50EA">Kirnbauer</a>,  <a href="spotify:artist:7lSGnBub2g8JGbNDgmrXsJ">Joaquina Mertz</a>, <a href="spotify:artist:3kN2uYBnEM2IqRxa69sxkr">Noa Sainz</a> + <a href="spotify:artist:4YJQjp0wW8B5luWzPOcHrG">María Centeno</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,385 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,411 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 28 | [Fool For You](https://open.spotify.com/track/0kD8gblRqq2sp5jdiwkf7l) | [Mae Bradbury](https://open.spotify.com/artist/3AFGB6a7YZvoA8q7T7rwKR) | [Fool For You](https://open.spotify.com/album/7oxYScVR61BZnGUTAej36N) | 4:16 |
 | 29 | [Lemons](https://open.spotify.com/track/0ZK9tjCYlIj8rofzxZDyKo) | [Best Ex](https://open.spotify.com/artist/5e1bKhywUuMGHafddmBW6u) | [Good At Feeling Bad](https://open.spotify.com/album/0thcCNdRrrUXM1jqme412h) | 3:14 |
 | 30 | [quicksand](https://open.spotify.com/track/1PD3DHIoETQSAlyobowFr6) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [quicksand](https://open.spotify.com/album/7bcdB2xKw0WSiqSFWXMVQC) | 2:30 |
-| 31 | [I feel safe with you](https://open.spotify.com/track/1dI4VdSAIKAqixkhiqC2en) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 2:35 |
-| 32 | [Pretty \(Fucked Up\)](https://open.spotify.com/track/0xyTEwTyND8FQfE0oOD5gC) | [Ella Fae](https://open.spotify.com/artist/78DwvCbaNtQoQTgXmz56jW) | [Magazine Dreaming](https://open.spotify.com/album/6iMDAVkVQHnVgTCT907YSd) | 3:40 |
-| 33 | [Been In Love](https://open.spotify.com/track/1bNL58Y6Wl1xhiiSLP0xYn) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Been In Love](https://open.spotify.com/album/1psV4hGKLyZY6Sxqnp3PsX) | 3:40 |
-| 34 | [MY FEARS](https://open.spotify.com/track/0WznyzdXlG9urIAKuoUyIk) | [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [MY FEARS](https://open.spotify.com/album/05ZFsChfzlxxhsVH2Fro7Z) | 2:24 |
-| 35 | [Witch Bitch](https://open.spotify.com/track/7nRobq1TPCGOapmzcPmrpJ) | [Tatiana Lima](https://open.spotify.com/artist/1CqHkZQA9tegURsejHZQl0) | [Witch Bitch](https://open.spotify.com/album/4qydDRdinP6qqwUeKC2h7A) | 3:28 |
-| 36 | [Living a Lie](https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Living a Lie](https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd) | 7:02 |
-| 37 | [Never Right](https://open.spotify.com/track/3SqKZ4QH8cEQAHWn2G4AvK) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [Never Right](https://open.spotify.com/album/2PD36tifCZ59tOn95Oz6Nb) | 3:39 |
-| 38 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 |
-| 39 | [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 |
+| 31 | [Tangerine](https://open.spotify.com/track/6Q99dAlAFm2hJXqEcerjnc) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Berry \(Deluxe\)](https://open.spotify.com/album/27EcLmIULpRUx8U5R0Dj1j) | 2:55 |
+| 32 | [I feel safe with you](https://open.spotify.com/track/1dI4VdSAIKAqixkhiqC2en) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 2:35 |
+| 33 | [Pretty \(Fucked Up\)](https://open.spotify.com/track/0xyTEwTyND8FQfE0oOD5gC) | [Ella Fae](https://open.spotify.com/artist/78DwvCbaNtQoQTgXmz56jW) | [Magazine Dreaming](https://open.spotify.com/album/6iMDAVkVQHnVgTCT907YSd) | 3:40 |
+| 34 | [Been In Love](https://open.spotify.com/track/1bNL58Y6Wl1xhiiSLP0xYn) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Been In Love](https://open.spotify.com/album/1psV4hGKLyZY6Sxqnp3PsX) | 3:40 |
+| 35 | [MY FEARS](https://open.spotify.com/track/0WznyzdXlG9urIAKuoUyIk) | [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [MY FEARS](https://open.spotify.com/album/05ZFsChfzlxxhsVH2Fro7Z) | 2:24 |
+| 36 | [Witch Bitch](https://open.spotify.com/track/7nRobq1TPCGOapmzcPmrpJ) | [Tatiana Lima](https://open.spotify.com/artist/1CqHkZQA9tegURsejHZQl0) | [Witch Bitch](https://open.spotify.com/album/4qydDRdinP6qqwUeKC2h7A) | 3:28 |
+| 37 | [Living a Lie](https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Living a Lie](https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd) | 7:02 |
+| 38 | [Never Right](https://open.spotify.com/track/3SqKZ4QH8cEQAHWn2G4AvK) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [Never Right](https://open.spotify.com/album/2PD36tifCZ59tOn95Oz6Nb) | 3:39 |
+| 39 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 |
+| 40 | [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 |
 
-Snapshot ID: `MCxhOWVmZTFlZTRjMGQ4NTU3ZGJiOTJlYjVhNmFlNzhiNDlmMjE3OWVl`
+Snapshot ID: `MCw2MDYwNmUxMGRiZjI2ZDExZDQ4MjJiZjg5OGEwNTY0MDFjYmRiNWQ0`

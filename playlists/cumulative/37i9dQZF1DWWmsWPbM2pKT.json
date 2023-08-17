@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Rise n' shine",
+        "url": "https://open.spotify.com/album/16x29JoLnVwJ00PC4HhSxH"
+      },
+      "artists": [
+        {
+          "name": "Faerybabyy",
+          "url": "https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99588,
+      "name": "Rise n' shine",
+      "url": "https://open.spotify.com/track/6bmAJXDDIlPRbk2gsOLzO5"
+    },
+    {
+      "album": {
         "name": "Belirdi Gece",
         "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
       },

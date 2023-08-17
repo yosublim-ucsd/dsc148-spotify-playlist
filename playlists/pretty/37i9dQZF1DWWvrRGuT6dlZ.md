@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Sun Cell\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,152 likes - 140 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,154 likes - 140 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 81 | [Summer Nights](https://open.spotify.com/track/0IyPDcr032YeoG8bYjA8wb) | [Nao Zumar](https://open.spotify.com/artist/2SLtYTUjIbXeXlY7MxisjV) | [Summer Nights](https://open.spotify.com/album/01s8Po89Fx17mVphX0NRUs) | 2:36 |
 | 82 | [Someone](https://open.spotify.com/track/5uNmtBDW9ByH9SleOnuE9H) | [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [Someone](https://open.spotify.com/album/2Z7Ci8LiAQkvPBCyHVKv81) | 2:04 |
 | 83 | [need me now](https://open.spotify.com/track/6YwC4MT8zGsL2kOfMBRaML) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [need me now](https://open.spotify.com/album/54XWCvc9Y7NsNPP1Z02O3p) | 2:34 |
-| 84 | [Chased by the Devil](https://open.spotify.com/track/7IAne0CGKRXH0YbAeaTqcu) | [Boycaught](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Chased by the Devil](https://open.spotify.com/album/6pZ4ezW6FX3aKhh25mxtgK) | 3:15 |
+| 84 | [Chased by the Devil](https://open.spotify.com/track/7IAne0CGKRXH0YbAeaTqcu) | [BOYCAUGHT](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Chased by the Devil](https://open.spotify.com/album/6pZ4ezW6FX3aKhh25mxtgK) | 3:15 |
 | 85 | [Waiting](https://open.spotify.com/track/2WmeK8YevGN4zs7427Aq0q) | [So, I'm Jenn](https://open.spotify.com/artist/73c7HcRTKPKu9ldhTs91D4), [Jon Liddell](https://open.spotify.com/artist/3T1l7enD11jIjUMGfiifH8) | [Waiting](https://open.spotify.com/album/5LvOuWcwwMIEoqbP8gE3HS) | 2:31 |
 | 86 | [Indigo](https://open.spotify.com/track/7uE1fO1I6ADcJ4Zrnex8Kh) | [Adam Jazzlan](https://open.spotify.com/artist/5qKVegmk3MfMecHAg1jJgZ), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Indigo](https://open.spotify.com/album/4VwiJPA5hXrcVvsxDOMOem) | 3:19 |
 | 87 | [I'm always on your side](https://open.spotify.com/track/50Wge4eVWkkctV31IFudTE) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [I'm always on your side](https://open.spotify.com/album/7mU7sKSDsZnFKJW6NGCGq0) | 4:22 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 90 | [Walking Down](https://open.spotify.com/track/0qRGNQCud0jwmz9od4Tc1A) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Walking Down](https://open.spotify.com/album/0wspd7AEkMCOAqJkIJ6QbK) | 2:37 |
 | 91 | [FOOLED ME](https://open.spotify.com/track/03skD4vAA25vPU4njpyQUt) | [Amos Judah](https://open.spotify.com/artist/7zBe6dQQIDeRBHoxiDbKkf) | [FOOLED ME](https://open.spotify.com/album/24nfhBaclB8W1VGNgblJqk) | 2:32 |
 | 92 | [POOLSIDE](https://open.spotify.com/track/2MAxPqGbfcNQVgyci7WeUk) | [ziqry](https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf), [Kinsan](https://open.spotify.com/artist/36W2yCB3Ay3GUKkP52ZXfz), [BROKEN ENGLISH](https://open.spotify.com/artist/12QrRrP9PaSeZKM0SZozRm) | [POOLSIDE](https://open.spotify.com/album/459gkoLzipTL5UCMWxFxn9) | 2:17 |
-| 93 | [Born to Lose](https://open.spotify.com/track/5Ztgeay2dTHRcqxSRRsPJ1) | [Boycaught](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Born to Lose](https://open.spotify.com/album/6XLhTlx7lrGgH5s5xAuojs) | 3:51 |
+| 93 | [Born to Lose](https://open.spotify.com/track/5Ztgeay2dTHRcqxSRRsPJ1) | [BOYCAUGHT](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Born to Lose](https://open.spotify.com/album/6XLhTlx7lrGgH5s5xAuojs) | 3:51 |
 | 94 | [Lie Again](https://open.spotify.com/track/5ZlievcFzGJmblwONgfXFp) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Lie Again](https://open.spotify.com/album/4EGQoDOmr2zzM3KiRSTY1d) | 2:34 |
 | 95 | [i luv u, just kidding](https://open.spotify.com/track/2N3ic25EhopQBfvYiLfST4) | [Gaston Pong](https://open.spotify.com/artist/60VWor37GAY948KKZibKiI) | [i luv u, just kidding](https://open.spotify.com/album/22Pluldf64A2ZxCHWPrK6z) | 2:59 |
 | 96 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 139 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 |
 | 140 | [Waiting All Day](https://open.spotify.com/track/5hFydN9mm1cqvumco2tPM5) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Waiting All Day](https://open.spotify.com/album/07kkKQVNjKhpxegBaVsP7x) | 3:36 |
 
-Snapshot ID: `MCw4YzY1NmNmNjNhYmI5NDczZTBlMzFlOTVjYTg0ZGUwMzM5YWY5YzUy`
+Snapshot ID: `MCwzZWU0YTkxMzZmODFmZTEwN2VkOTk4ZTcyN2RiODk1ODZlZjNhMWMz`

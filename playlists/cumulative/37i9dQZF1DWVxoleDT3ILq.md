@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Charly Benavente
 
-392 songs - 23 hr 40 min
+393 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Al Norte](https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp) | 2:53 | 2022-08-12 |  |
 | [algo más, algo menos](https://open.spotify.com/track/6XNL7GwuEhXYDgfw1dEtOz) | [Templada](https://open.spotify.com/artist/6WWrWdvZxk9o04pHUwS3Ka) | [Misiva](https://open.spotify.com/album/1RgRGtuZgoIXvzzUwEI31D) | 2:11 | 2022-04-15 | 2022-07-28 |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-01-20 | 2023-04-25 |
-| [Amanecer](https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Amanecer](https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS) | 2:44 | 2023-07-14 |  |
+| [Amanecer](https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Amanecer](https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS) | 2:44 | 2023-07-14 | 2023-08-17 |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-23 |  |
 | [Amatista](https://open.spotify.com/track/5KWGNOFCtfTARv9wuA9d60) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Amatista](https://open.spotify.com/album/7gmY5yKaExOsSURwSFoaM1) | 4:39 | 2022-04-15 | 2022-07-19 |
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
@@ -326,6 +326,7 @@
 | [Somos los Mismos de Siempre](https://open.spotify.com/track/01GpVopX5wsjHrSwU5IKiQ) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Somos los Mismos de Siempre](https://open.spotify.com/album/5eSI1GGV109quSOi7YXreh) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [Sonámbulo](https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Sonámbulo](https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi) | 3:09 | 2022-04-15 | 2022-12-10 |
 | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/track/4h0uvgfrsbblEhfn98qO51) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/album/6zgo4JJtSQmDlg7gcAWEo0) | 5:00 | 2022-04-15 | 2022-07-26 |
+| [Sudamérica Suda](https://open.spotify.com/track/3nf731XsSR9Nnhw0nOylo9) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/55arWmrulZn7MFfD4eDa4o) | 3:08 | 2023-08-11 |  |
 | [Sudamérica Suda](https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb) | 3:08 | 2023-05-26 | 2023-07-31 |
 | [sudreik](https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO), [Joshvatunes](https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc) | [sudreik](https://open.spotify.com/album/1nfU1ud5v3bMwpoFeeitI6) | 2:57 | 2023-02-17 | 2023-04-14 |
 | [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 | 2022-10-20 |

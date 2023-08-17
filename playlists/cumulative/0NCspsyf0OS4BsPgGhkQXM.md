@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-794 songs - 1 day 19 hr 9 min
+796 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-12-16 | 2022-12-27 |
 | [So Fucked Up](https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss) | [Aspen King](https://open.spotify.com/artist/1tJuVa4e8TF5YrJhwHBZaE), [44stance](https://open.spotify.com/artist/412wG46pUp52x0jvVZ0epQ) | [So Fucked Up](https://open.spotify.com/album/1tYINWoPffLlj9dTGEJio5) | 3:24 | 2022-03-04 | 2022-04-02 |
 | [Sober](https://open.spotify.com/track/3PYHVvoFONHRTWiDeRk0dK) | [scsc](https://open.spotify.com/artist/76EtZST05YbVzXkUsMHhbS) | [Sober](https://open.spotify.com/album/2xAQ6N5SfAUdzJX0RDsKyP) | 3:50 | 2022-05-06 | 2022-06-04 |
+| [Sold My Soul](https://open.spotify.com/track/4oyQFA7BnwLUPFFk8ptNOa) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Sold My Soul](https://open.spotify.com/album/3zGrGTP0vCSqIErxuyp6sJ) | 3:28 | 2023-08-16 |  |
 | [Solstice](https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Solstice](https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX) | 5:03 | 2023-04-08 |  |
 | [Something More](https://open.spotify.com/track/38nxI26aJyktPbgmiFYNK9) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Something More](https://open.spotify.com/album/0p009r4U2sfdTKEKqCCdWU) | 2:50 | 2022-03-18 | 2022-04-19 |
 | [Something Wrong](https://open.spotify.com/track/44jYwjxJNpJiwiLi2cDl3G) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:52 | 2022-01-14 | 2022-03-05 |
@@ -707,6 +708,7 @@
 | [Time](https://open.spotify.com/track/7wSAIATPd2bexPb4P2oFin) | [Erd1](https://open.spotify.com/artist/3LszmpddOPySljVKFSmKl2), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd) | [Time](https://open.spotify.com/album/7cpgjSFbfWbBjMzWdkpRkX) | 2:40 | 2022-01-17 | 2022-02-17 |
 | [Time \- NESADES + onumi Remix](https://open.spotify.com/track/6wfNUVSqcEGOH44rjvM3Qt) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx), [NESADES](https://open.spotify.com/artist/6GUhtOa05fQptD8GcnFw1q), [onumi](https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY) | [Time \(NESADES + onumi Remix\)](https://open.spotify.com/album/3sPuLRDrlXbuBJkgWysFkR) | 3:18 | 2022-10-20 | 2022-12-10 |
 | [Time \- Pala Chrome Remix](https://open.spotify.com/track/5xrdLwQK6QmV3XsnsCVvOP) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [Time \(Pala Chrome Remix\)](https://open.spotify.com/album/0tnRgNZXc8qAExA898YSqc) | 3:59 | 2022-10-15 | 2022-12-10 |
+| [To Be Loved](https://open.spotify.com/track/2uZVmKRCMWYTuMlKS9urzy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b) | [To Be Loved](https://open.spotify.com/album/0pJXJEH8RYTFSjB6GR8BYq) | 2:53 | 2023-08-16 |  |
 | [Together4ever](https://open.spotify.com/track/5IIX69KluJMoZeCYYiYx8z) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 5:09 | 2022-10-14 | 2023-02-22 |
 | [Told U So](https://open.spotify.com/track/4eNW7QJkdtFHKUs7q8BXsB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Faith](https://open.spotify.com/album/6GGeR0GX67AccF89odFVll) | 2:43 | 2022-12-16 | 2022-12-27 |
 | [Tolls](https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Tolls](https://open.spotify.com/album/4t1DUWa5cMmf8JW0VsXxRZ) | 3:09 | 2023-03-31 |  |

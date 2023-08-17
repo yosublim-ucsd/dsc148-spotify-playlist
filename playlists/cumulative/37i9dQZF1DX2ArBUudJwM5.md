@@ -4,7 +4,7 @@
 
 > Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-796 songs - 1 day 18 hr 49 min
+797 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Adicción](https://open.spotify.com/track/67YtZBiH3sjtXNaAgmkIHP) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Adicción](https://open.spotify.com/album/142KuhiLPPcKCAHRW67i3L) | 3:32 | 2022-08-03 | 2022-09-09 |
 | [ADIÓS](https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:40 | 2023-03-01 | 2023-04-06 |
 | [Adoquines](https://open.spotify.com/track/4Oa3gvQLYsKqeR23uMzJZR) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [EL ESPEJO](https://open.spotify.com/album/2ln8mZQnzp6poOo3vy0zSa) | 2:48 | 2022-04-06 | 2022-05-05 |
+| [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-11 |  |
 | [Afuera](https://open.spotify.com/track/2ERKyKVKoNmmNP0QfvzGQd) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Afuera](https://open.spotify.com/album/0RZ0aiNBQ1HnPqYTq3R5o3) | 3:27 | 2022-11-30 | 2023-01-05 |
 | [Agua](https://open.spotify.com/track/0Tg2VuAYwo94Y1c2G8m2vP) | [Brenda Asnicar](https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv) | [Bandida Records](https://open.spotify.com/album/4cGUvTQUsdComY3JfeUGkt) | 2:14 | 2022-03-08 | 2022-04-07 |
 | [Agua Dorada](https://open.spotify.com/track/16P5n6gLgvNhZ54D2Sz2YT) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:08 | 2023-07-05 | 2023-07-28 |
@@ -441,7 +442,7 @@
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-03-08 | 2022-12-01 |
 | [Madre](https://open.spotify.com/track/4J3ZS9WDjMkOqD9RLubWAz) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 4:06 | 2022-05-04 | 2023-02-02 |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2021-12-17 | 2022-02-03 |
-| [Maldito Piano](https://open.spotify.com/track/4iO9EnfZv4GS4MtWaFTSAb) | [Blacanblus](https://open.spotify.com/artist/0hXFJVIeduP8fbaEmVKlDn) | [Cuatro Mujeres y un Maldito Piano](https://open.spotify.com/album/4mj4N0LMfhv8EJ69Rm4VkM) | 3:07 | 2022-07-06 |  |
+| [Maldito Piano](https://open.spotify.com/track/4iO9EnfZv4GS4MtWaFTSAb) | [Blacanblus](https://open.spotify.com/artist/0hXFJVIeduP8fbaEmVKlDn) | [Cuatro Mujeres y un Maldito Piano](https://open.spotify.com/album/4mj4N0LMfhv8EJ69Rm4VkM) | 3:07 | 2022-07-06 | 2023-08-17 |
 | [Maléfica](https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 3:03 | 2022-10-06 | 2023-04-06 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2023-03-01 | 2023-04-06 |
 | [Manantial](https://open.spotify.com/track/7uzWKaLX90ejqe8Ha71Mhh) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Manantial](https://open.spotify.com/album/0YeDa0ObnnbZhCZXf5oaBS) | 2:50 | 2022-08-03 | 2022-09-09 |

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-391 songs - 22 hr 19 min
+392 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 | 2023-04-01 |
 | [Big Sound](https://open.spotify.com/track/40g1y1nbSchz2kJXhNPimt) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB) | [Big Sound](https://open.spotify.com/album/33b2Aw1rtYsW1puh8VBDFW) | 3:32 | 2023-05-12 | 2023-05-28 |
 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 | 2022-09-02 | 2023-06-01 |
+| [Black Magic](https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Black Magic](https://open.spotify.com/album/1TJDbwekfQcLUM8TmPKPCM) | 3:50 | 2023-08-11 |  |
 | [BLACKED OUT](https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [BLACKED OUT](https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O) | 2:08 | 2023-01-06 | 2023-02-18 |
 | [Blackout](https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Blackout](https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl) | 3:00 | 2021-12-17 | 2022-03-12 |
 | [Blicky](https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Blicky](https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1) | 3:32 | 2022-08-05 |  |
@@ -213,7 +214,7 @@
 | [Lore](https://open.spotify.com/track/0W3b6YlEKoj1g5pNUPB6sw) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lore](https://open.spotify.com/album/2DroDTcbfu9nkZbzHJn4dX) | 3:40 | 2022-04-22 | 2023-04-01 |
 | [Lose Your Shit](https://open.spotify.com/track/43AQsk8AnWfEwiwFB5lo8K) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Lose Your Shit](https://open.spotify.com/album/71sB5UqHjvyV1oXNYObWxW) | 3:07 | 2021-12-17 | 2022-05-07 |
 | [LOST IN YOU](https://open.spotify.com/track/4TMtydweRFufJuukwDH48j) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0) | [LOST IN YOU](https://open.spotify.com/album/5IAPB5SzAZOZkYFOXGEA4C) | 3:34 | 2022-06-17 | 2023-05-13 |
-| [lozer](https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [lozer](https://open.spotify.com/album/3fhpSroTG3JGEhsBdzwG2r) | 2:43 | 2023-05-26 |  |
+| [lozer](https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [lozer](https://open.spotify.com/album/3fhpSroTG3JGEhsBdzwG2r) | 2:43 | 2023-05-26 | 2023-08-17 |
 | [Lunar Tear](https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU) | [Kotori](https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O) | [Lunar Tear](https://open.spotify.com/album/6waf9VcbO1wpn7iAcFME7b) | 3:19 | 2021-12-17 | 2022-08-30 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-12-17 | 2022-10-08 |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2021-12-17 | 2022-05-07 |

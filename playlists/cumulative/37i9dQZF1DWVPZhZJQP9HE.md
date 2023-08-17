@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-432 songs - 1 day 1 hr 41 min
+433 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Sadugudu Sadugudu](https://open.spotify.com/track/3udIFY3400VmyKmUWteuM5) | [Krishna Kumar](https://open.spotify.com/artist/5tZcEf1A05HXjuROID5h32), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Bamba Bakiya](https://open.spotify.com/artist/4nC62crROohMqhekvn3Uoy) | [Sadugudu Sadugudu](https://open.spotify.com/album/3L9YISokNe5HFlEbQRx77a) | 3:40 | 2023-01-25 | 2023-06-24 |
 | [Saga](https://open.spotify.com/track/1PrAlnmhX77F7QMfjGGzWw) | [Keerthana Kunalan](https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Saga](https://open.spotify.com/album/7hAwsyr4IQLq3Hj1TSXxlx) | 3:37 | 2023-03-10 | 2023-03-23 |
 | [Sagavaasi](https://open.spotify.com/track/6e1AEcNa3ECIOJPw4xpMjb) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP) | [Sagavaasi](https://open.spotify.com/album/0lYfNFeX2w67OMAEm7mxst) | 6:22 | 2023-02-02 | 2023-02-24 |
+| [Sakkaraiya](https://open.spotify.com/track/2rOyLZZst8HKrXgDHDnauI) | [SATTHIA](https://open.spotify.com/artist/5mHPapKjRFXq1IdaFDnHW9), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sakkaraiya](https://open.spotify.com/album/414SPcYwEra3PTStaJwVXU) | 3:43 | 2023-08-16 |  |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 | 2022-12-20 |
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2021-12-01 | 2023-02-07 |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-02-02 |  |

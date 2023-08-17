@@ -1,12 +1,12 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 44381,
+  "num_followers": 44414,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDcxNGI3MjA2NjU1ZWUzZjcyNDM1M2EwNTRjOGZjYzYxMjYxMjUx",
+  "snapshot_id": "MCwxYmQxMTQ2Y2IwZWMxMDNkMTJjYThhYTFjYmZkMGE1Nzk1MGYwZjll",
   "tracks": [
     {
       "added_at": "2022-07-07 08:35:20",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Thillanas: A Confluence Of Rhythm & Melody",
+        "url": "https://open.spotify.com/album/3si4Lr5oBcahJ3D7IPbO4N"
+      },
+      "artists": [
+        {
+          "name": "Ganesh & Kumaresh",
+          "url": "https://open.spotify.com/artist/79NaoYzRxuR0L3zzcGzHCa"
+        }
+      ],
+      "duration_ms": 298987,
+      "name": "Raga Karnaranjani",
+      "url": "https://open.spotify.com/track/5Ca5l5vDzIOZdVwwWCxAds"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Raghava Murali",
         "url": "https://open.spotify.com/album/0vftMhxE08bdxvKAygombk"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 921880,
       "name": "Rangapura Vihara - Vrindavana Saranga - Rupakam",
       "url": "https://open.spotify.com/track/0bs0JVAH5kOobXMPPZ13qd"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Thillanas: A Confluence Of Rhythm & Melody",
-        "url": "https://open.spotify.com/album/3si4Lr5oBcahJ3D7IPbO4N"
-      },
-      "artists": [
-        {
-          "name": "Ganesh & Kumaresh",
-          "url": "https://open.spotify.com/artist/79NaoYzRxuR0L3zzcGzHCa"
-        }
-      ],
-      "duration_ms": 298987,
-      "name": "Raga Karnaranjani",
-      "url": "https://open.spotify.com/track/5Ca5l5vDzIOZdVwwWCxAds"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
-        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
-      },
-      "artists": [
-        {
-          "name": "Sikkil Mala Chandrasekhar",
-          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
-        }
-      ],
-      "duration_ms": 341080,
-      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
-      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Bharatiyaar Songs - Veena",
         "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 167366,
       "name": "Senthamizh",
       "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "S. Ballesh",
+          "url": "https://open.spotify.com/artist/4Ayo58CebvhV9I7IguYsm4"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Tandanana - Instrumental",
+      "url": "https://open.spotify.com/track/0JON5cHB8JHm6HosXlkMRR"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
+        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
       },
       "artists": [
         {
-          "name": "S. Ballesh",
-          "url": "https://open.spotify.com/artist/4Ayo58CebvhV9I7IguYsm4"
+          "name": "Sikkil Mala Chandrasekhar",
+          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
         }
       ],
-      "duration_ms": 293893,
-      "name": "Tandanana - Instrumental",
-      "url": "https://open.spotify.com/track/0JON5cHB8JHm6HosXlkMRR"
+      "duration_ms": 341080,
+      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
+      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "The Best of Carnatic Instrumental",
-        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+        "name": "Bharatiyaar Songs - Veena",
+        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
       },
       "artists": [
         {
-          "name": "Doraiswamy Iyengar",
-          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
         }
       ],
-      "duration_ms": 309968,
-      "name": "Ghana Ragamalika Tanam",
-      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+      "duration_ms": 233351,
+      "name": "Kaakkai Siraginile",
+      "url": "https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl"
     },
     {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+    },
+    {
       "added_at": "2022-12-20 16:41:55",
       "album": {
         "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
@@ -531,6 +547,22 @@
       "duration_ms": 223634,
       "name": "Ayigiri Nandini",
       "url": "https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Sudhamayi 1",
+        "url": "https://open.spotify.com/album/4VBDKWQpHki7jzQ1499Xu5"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "duration_ms": 413520,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/7JkjbdZxZ8Vt8wBh4aDYPf"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -563,22 +595,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Bharatiyaar Songs - Veena",
-        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
-      },
-      "artists": [
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        }
-      ],
-      "duration_ms": 233351,
-      "name": "Kaakkai Siraginile",
-      "url": "https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Inde du sud : Anthologie de la musique classique (South India)",
         "url": "https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Vasantha (Violin Solo)",
-      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Amazing Veena",
         "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 494560,
       "name": "Vathapi Ganapathim Bhajeham",
       "url": "https://open.spotify.com/track/2NKq1eKtz3t7Gp4NIrJ1Lg"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Vasantha (Violin Solo)",
+      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -651,22 +667,6 @@
       "duration_ms": 295226,
       "name": "Vinayaka: Raag Hamsadhwani - Aadi",
       "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Sudhamayi 1",
-        "url": "https://open.spotify.com/album/4VBDKWQpHki7jzQ1499Xu5"
-      },
-      "artists": [
-        {
-          "name": "Rajhesh Vaidhya",
-          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
-        }
-      ],
-      "duration_ms": 413520,
-      "name": "Sri Chakra Raja",
-      "url": "https://open.spotify.com/track/7JkjbdZxZ8Vt8wBh4aDYPf"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        }
-      ],
-      "duration_ms": 404551,
-      "name": "Hamir Kalyani (Violin Solo)",
-      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
         "name": "Yal Isai",
         "url": "https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 679292,
       "name": "Vatapiganapatim",
       "url": "https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
+        "name": "Raghuvamsa Sudha Vol.1",
+        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
+      },
+      "artists": [
+        {
+          "name": "Chitti Babu",
+          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
+        }
+      ],
+      "duration_ms": 551186,
+      "name": "Raghuvamsa Sudha (Raga: Kathanakuthuhalam; Tala: Adi)",
+      "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
-        "name": "Raghuvamsa Sudha Vol.1",
-        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
       },
       "artists": [
         {
-          "name": "Chitti Babu",
-          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
         }
       ],
-      "duration_ms": 551186,
-      "name": "Raghuvamsa Sudha (Raga: Kathanakuthuhalam; Tala: Adi)",
-      "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
+      "duration_ms": 404551,
+      "name": "Hamir Kalyani (Violin Solo)",
+      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -997,6 +997,26 @@
       "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
     },
     {
+      "added_at": "2022-12-20 16:39:32",
+      "album": {
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
+        }
+      ],
+      "duration_ms": 818860,
+      "name": "Nagumomu - Abheri",
+      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
+    },
+    {
       "added_at": "2022-07-07 08:35:20",
       "album": {
         "name": "Music from Madras",
@@ -1019,26 +1039,6 @@
       "duration_ms": 851586,
       "name": "Sri Kantimateem: Kriti",
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
-    },
-    {
-      "added_at": "2022-12-20 16:39:32",
-      "album": {
-        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
-        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
-      },
-      "artists": [
-        {
-          "name": "Tyagaraja",
-          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
-        },
-        {
-          "name": "K. S. G. Somanathan",
-          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
-        }
-      ],
-      "duration_ms": 818860,
-      "name": "Nagumomu - Abheri",
-      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
     },
     {
       "added_at": "2022-07-07 08:35:20",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2022-07-07 08:35:20",
       "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 390635,
+      "name": "Sriganesa Thilang Adi",
+      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
+    },
+    {
+      "added_at": "2022-07-07 08:35:20",
+      "album": {
         "name": "Edakka Kacheri (Instrumental - Edakka)",
         "url": "https://open.spotify.com/album/4aA55UkB9BSBrWaQ1imxHZ"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 373826,
       "name": "Himagirithanaye - Shudha Dhanyasi - Adi",
       "url": "https://open.spotify.com/track/04Nbr3UunpGJBseWKwfOyJ"
-    },
-    {
-      "added_at": "2022-07-07 08:35:20",
-      "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
-      },
-      "artists": [
-        {
-          "name": "Tyagaraja",
-          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
-        },
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
-        }
-      ],
-      "duration_ms": 390635,
-      "name": "Sriganesa Thilang Adi",
-      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
     },
     {
       "added_at": "2022-07-07 08:35:20",

@@ -3976,7 +3976,7 @@
     {
       "album": {
         "name": "Kiss and Kiss",
-        "url": "https://open.spotify.com/album/2RaIUSGUMiGXuKGwG4IkLr"
+        "url": "https://open.spotify.com/album/00oiWDc5ZM9WOGVYCX6Zkb"
       },
       "artists": [
         {
@@ -3987,6 +3987,24 @@
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Kiss and Kiss",
+      "url": "https://open.spotify.com/track/487QBEyUb4H3qOgak5CR7z"
+    },
+    {
+      "album": {
+        "name": "Kiss and Kiss",
+        "url": "https://open.spotify.com/album/2RaIUSGUMiGXuKGwG4IkLr"
+      },
+      "artists": [
+        {
+          "name": "Maica_n",
+          "url": "https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
       "duration_ms": 180666,
       "name": "Kiss and Kiss",
       "url": "https://open.spotify.com/track/7DOgPkHKuEYHSaaTD4agIr"
@@ -8516,6 +8534,24 @@
       "duration_ms": 248000,
       "name": "UCHU ICHI NO ME",
       "url": "https://open.spotify.com/track/6Sf69vMZDSyRZZRfbc9Ams"
+    },
+    {
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/4jvRCNMiEU5tbWzNSh2W3T"
+      },
+      "artists": [
+        {
+          "name": "HYLUL",
+          "url": "https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204166,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/69AejqVZgrdgzxjchFuHb2"
     },
     {
       "album": {
@@ -18366,7 +18402,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 204166,
       "name": "\u7fa4\u9752\u8272",
       "url": "https://open.spotify.com/track/3q0EDphwYSWukIiz1A53wr"

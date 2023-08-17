@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3Ygd1SrMkrt7MXfQekhArV?si=rKTLAa\-tSYugGGIFE2OYAw">Legend'son </a> ,<a href="https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW?si=99Lz2Nq9TOeUFehQ3EFXdg">Geo Musiwa, </a> and <a href="https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt?si=BfhlBtDuS\-WBcWKVmsyBqQ">Abel Chungu Musuka, </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,266 likes - 89 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,337 likes - 89 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 88 | [The Basement](https://open.spotify.com/track/2Qtf80iiLampYDBMwSyEFR) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Basement](https://open.spotify.com/album/3EqEbjHk4x3d4KFjL5IYbQ) | 1:47 |
 | 89 | [Mungu Ni Baba.](https://open.spotify.com/track/4JMNknRP8DLfN2nRbFWGMW) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3), [Emmanuel Mgogo](https://open.spotify.com/artist/06esCeDGQbjAxQf9NiAEl5) | [Mungu Ni Baba](https://open.spotify.com/album/0WwE3aCtokCa9mWTqnn5Rp) | 8:21 |
 
-Snapshot ID: `MCw1ODExYzBmNzAyMjk5ZGE2NGQxNDI2MTY5NzNiMzU1ZmIzNmUxMWUw`
+Snapshot ID: `MCw0Nzc2NDlkNTAzMWJjZDM5MTVmMWM1NmIwZTc4ZmZhMWFkNzAwNzIw`

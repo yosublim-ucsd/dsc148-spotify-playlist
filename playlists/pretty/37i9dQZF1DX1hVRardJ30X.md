@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Gordo & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,911 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,019 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Injusto](https://open.spotify.com/track/4OdbPwRebAA4vs64WwWdxR) | [Lily Marie Antonini](https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt) | [Injusto](https://open.spotify.com/album/7iNMRm7pRZa2AuoE61aOVT) | 4:11 |
 | 51 | [Una Noche](https://open.spotify.com/track/6MxsHT6oHV0lIKWO7dAzdh) | [Grizel Del Valle](https://open.spotify.com/artist/6aVSsNkaJy9u3vL5xVOl3D) | [Una Noche](https://open.spotify.com/album/1J40HaBOi8GuWQrrMxclxb) | 5:30 |
 
-Snapshot ID: `MCwzYmRjNWI5NmVkODBjOGMzYmUzNmI4YWFmYzYzNGIzNjYzNmIyNzJl`
+Snapshot ID: `MCw1MTc3YWFiMjk0MzEzZjNkYjI2NTYxNjNkOTE5OWJiMDk1N2QyMWU1`

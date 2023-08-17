@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> RADAR is a Spotify program to promote exciting artists! RADAR BNLX: Kid With Buns \(cover\), Zoë Tauran, Siggy & D1ns, Pommelien Thijs, MEAU, Haunted Youth, DIKKE & Shermanology
+> RADAR is a Spotify program to promote exciting artists! RADAR BNLX: Kids With Buns \(cover\), Zoë Tauran, Siggy & D1ns, Pommelien Thijs, MEAU, Haunted Youth, DIKKE & Shermanology
 
 137 songs - 7 hr 14 min
 

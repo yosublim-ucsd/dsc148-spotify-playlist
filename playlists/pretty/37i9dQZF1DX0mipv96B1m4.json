@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 729,
+  "num_followers": 730,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjEyMWNjN2I2NDQ3ZWZlNzE4Zjc3YjdiMTFmNWM1NzIwNGUyNGYx",
+  "snapshot_id": "MCxhM2IzZjk3ZGIyYmRlMjEzOGFiMWE3OGJiMzQ2ZDU0NTgzZTZkYjM0",
   "tracks": [
     {
       "added_at": "2023-07-28 11:06:29",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "Boom Party",
+      "url": "https://open.spotify.com/track/147olVVx5fVRdmuFU3bzqS"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
         "name": "Bwogana",
         "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 181028,
       "name": "Bwogana",
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "Boom Party",
-      "url": "https://open.spotify.com/track/147olVVx5fVRdmuFU3bzqS"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
         },
         {
-          "name": "Cindy Sanyu & Beenie Gunter",
-          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
         }
       ],
-      "duration_ms": 282215,
-      "name": "DanceHall",
-      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2023-07-28 11:06:29",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-07-28 11:06:29",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/0ZQlhloe2p4y4jNHz2lw2U"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu & Beenie Gunter",
+          "url": "https://open.spotify.com/artist/51xOpwMyXoEXi04AEbpYpg"
+        }
+      ],
+      "duration_ms": 282215,
+      "name": "DanceHall",
+      "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
+    },
+    {
+      "added_at": "2023-07-28 11:06:29",
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2023-07-28 11:06:29",
-      "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2023-07-28 11:06:29",

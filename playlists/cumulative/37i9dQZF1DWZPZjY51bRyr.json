@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Spa music for that ultimate relaxation, treat your body and mind to a wellness experience. ",
+  "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
   "name": "Wellness",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 182951,
       "name": "A Peaceful Spirit",
       "url": "https://open.spotify.com/track/1ixzC6gMewFfnpGIR8tWuV"
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Algol",
+        "url": "https://open.spotify.com/album/0eeHbe3k3GE4uPXSGxdtdN"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Algol",
+      "url": "https://open.spotify.com/track/0WrV4m8QUHlbW9UuZm4G58"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 198051,
       "name": "Ancient Garden",
       "url": "https://open.spotify.com/track/7bkGyNEmJN1oDKe90FeuGt"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 267750,
       "name": "Before Sunrise",
       "url": "https://open.spotify.com/track/2cYp7CBDKMhyEwUgFzXUw5"
@@ -506,6 +524,24 @@
       "duration_ms": 150250,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
+    },
+    {
+      "album": {
+        "name": "Breeze out",
+        "url": "https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Breeze out",
+      "url": "https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT"
     },
     {
       "album": {
@@ -934,7 +970,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 159101,
       "name": "Floatsam Flow",
       "url": "https://open.spotify.com/track/5pyTFtEdFg4mNGCgSeSFVk"
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 178750,
       "name": "Frihet Natur",
       "url": "https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD"
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 169018,
       "name": "Gentle Evening Rain",
       "url": "https://open.spotify.com/track/3KWJVR1IxvhfqtqGCqfi6e"
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 220000,
       "name": "Jij bent alles",
       "url": "https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 185624,
       "name": "Mindful Morning",
       "url": "https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u"
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 136216,
       "name": "Pax Mundi",
       "url": "https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg"
@@ -1852,7 +1888,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 230652,
       "name": "Rainfall",
       "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 192899,
       "name": "Sacred Spirit",
       "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 155438,
       "name": "Samajhauta",
       "url": "https://open.spotify.com/track/3QH2cod0TPHpg12q2qBl7j"
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 158459,
       "name": "Scintilla",
       "url": "https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW"
@@ -2147,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Silent Solution",
+        "url": "https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO"
+      },
+      "artists": [
+        {
+          "name": "Vibrational Winds",
+          "url": "https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144265,
+      "name": "Silent Solution",
+      "url": "https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF"
+    },
+    {
+      "album": {
         "name": "Silver Glass",
         "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
       },
@@ -2176,7 +2230,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 157912,
       "name": "Sky Lights",
       "url": "https://open.spotify.com/track/7HToCQy3ObwcSCpEEjkX7x"
@@ -2198,6 +2252,24 @@
       "duration_ms": 190687,
       "name": "Soil",
       "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+    },
+    {
+      "album": {
+        "name": "Sojourn",
+        "url": "https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201217,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ"
     },
     {
       "album": {
@@ -2266,7 +2338,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 178282,
       "name": "Spatial Healing",
       "url": "https://open.spotify.com/track/3JJC1OPhvfUEkq2imeT9yu"
@@ -2284,7 +2356,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 156447,
       "name": "Spiritual Sleep",
       "url": "https://open.spotify.com/track/3NxOODwM9R5KfibzsvTT2F"
@@ -2482,7 +2554,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 166000,
       "name": "The Sweetest Bansuri",
       "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
@@ -2536,7 +2608,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 214750,
       "name": "Transcend Ego 432 Hz",
       "url": "https://open.spotify.com/track/6OH0oW8GbQkmn5NthSMu3x"
@@ -2630,6 +2702,24 @@
       "duration_ms": 606000,
       "name": "Unwinding",
       "url": "https://open.spotify.com/track/6ZbZUKPNtQQkipcV7Fu23l"
+    },
+    {
+      "album": {
+        "name": "Vents Calmes",
+        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
+      },
+      "artists": [
+        {
+          "name": "Ellis Atkins",
+          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Vents Calmes",
+      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
     },
     {
       "album": {
@@ -2734,7 +2824,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 214501,
       "name": "Zen Dream",
       "url": "https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK"

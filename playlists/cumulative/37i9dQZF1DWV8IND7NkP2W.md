@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-638 songs - 1 day 4 hr 44 min
+639 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Hey J](https://open.spotify.com/track/0wmINFeBlnKKQ4Eb6RhSSe) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Hey J](https://open.spotify.com/album/31ZQnyL40TaWNQDOjH9XIX) | 3:35 | 2021-12-23 | 2022-07-05 |
 | [Higher Protein](https://open.spotify.com/track/5uzSHqZl7wqY4L4UBRLzde) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM), [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [an/tunes](https://open.spotify.com/artist/727ZLZhPSKwb7qPw91oCD0) | [Higher Protein](https://open.spotify.com/album/6admNcl5NFzP0mLJRZcnyX) | 2:32 | 2022-01-13 | 2022-04-17 |
 | [Himawari](https://open.spotify.com/track/0Db8jbxnMBkB5kO72uIjEJ) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM) | [Himawari](https://open.spotify.com/album/28tmfRGaerhsZg6lusXnL9) | 4:34 | 2021-12-23 | 2022-02-11 |
-| [Hitori](https://open.spotify.com/track/1DKRrwHEknZijz2ioI6BEG) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End’s Girl](https://open.spotify.com/album/7qXN5WipIfbWmsOKMKl55S) | 2:48 | 2023-08-15 |  |
+| [Hitori](https://open.spotify.com/track/1DKRrwHEknZijz2ioI6BEG) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End’s Girl](https://open.spotify.com/album/7qXN5WipIfbWmsOKMKl55S) | 2:48 | 2023-08-15 | 2023-08-17 |
+| [Hitori](https://open.spotify.com/track/5s7AVzpAFgbrM0sSAit9Cp) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:48 | 2023-08-15 |  |
 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 | 2023-05-18 |  |
 | [Home](https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC) | 3:44 | 2022-10-06 | 2022-10-08 |
 | [Home](https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:44 | 2022-10-06 | 2023-03-18 |

@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-137 songs - 8 hr 19 min
+138 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Thamara Poovai](https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Thamara Poovai](https://open.spotify.com/album/16utbSdG0wcQcTaGvHk7c5) | 5:30 | 2023-06-16 | 2023-07-04 |
 | [Thanuvantha](https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Thanuvantha](https://open.spotify.com/album/7eTvSqGRxg5jMdSqjvasKa) | 3:54 | 2022-07-18 | 2023-07-04 |
 | [The Break\-Up Song](https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp) | [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [The Break\-Up Song](https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG) | 3:38 | 2023-02-14 | 2023-05-23 |
+| [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/track/1FwF89xLm0SThXHlTrQe6a) | [Shruthi Ranjani](https://open.spotify.com/artist/6Sg0TKAUBbrcX1AiLFOERM) | [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/album/6NlUx836rbce4OF48YIFXC) | 4:30 | 2023-08-16 |  |
 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:45 | 2023-06-05 | 2023-08-03 |
 | [Uhhh!](https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES), [Samcastic](https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q) | [Uhhh!](https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H) | 3:03 | 2023-04-10 |  |
 | [Uppenalaa](https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Uppenalaa](https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD) | 1:32 | 2023-05-27 | 2023-07-04 |

@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/1TJDbwekfQcLUM8TmPKPCM"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR"
+    },
+    {
+      "album": {
         "name": "BLACKED OUT",
         "url": "https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O"
       },
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 163071,
       "name": "lozer",
       "url": "https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc"

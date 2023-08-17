@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22510,
+  "num_followers": 22516,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzk2YmQ2NDRmZWFjNTI1YWM1NTM1NDI2MTUyNzY4MDc3YzI0NjAz",
+  "snapshot_id": "MCxiZjU1Y2I1NDcyNWE1NjNiYWEyNmY2Zjc3NDYyNDg5NjgwOWI1Zjc4",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -23,6 +23,22 @@
       "duration_ms": 228000,
       "name": "Free",
       "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
+    },
+    {
+      "added_at": "2023-08-16 09:34:59",
+      "album": {
+        "name": "Yello Saagidhe",
+        "url": "https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Yello Saagidhe",
+      "url": "https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml"
     },
     {
       "added_at": "2023-08-11 10:23:00",
@@ -101,6 +117,22 @@
       "url": "https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p"
     },
     {
+      "added_at": "2023-08-16 09:34:59",
+      "album": {
+        "name": "Anthe",
+        "url": "https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn"
+      },
+      "artists": [
+        {
+          "name": "Sagar Shastri",
+          "url": "https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ"
+        }
+      ],
+      "duration_ms": 274002,
+      "name": "Anthe",
+      "url": "https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1"
+    },
+    {
       "added_at": "2023-08-08 13:37:20",
       "album": {
         "name": "Naa Arive",
@@ -135,6 +167,22 @@
       "duration_ms": 70640,
       "name": "Chikkavanu",
       "url": "https://open.spotify.com/track/1D2LX2HV7AsxiGbecZPSm0"
+    },
+    {
+      "added_at": "2023-08-16 09:34:59",
+      "album": {
+        "name": "Fastrack",
+        "url": "https://open.spotify.com/album/6cVEaPi01PDnUIJvpsIeYd"
+      },
+      "artists": [
+        {
+          "name": "MC Thrift",
+          "url": "https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC"
+        }
+      ],
+      "duration_ms": 189438,
+      "name": "Fastrack",
+      "url": "https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy"
     },
     {
       "added_at": "2023-07-10 13:00:10",
@@ -571,30 +619,6 @@
       "duration_ms": 146546,
       "name": "Idu Nammadu Gaali Neeru Usiru",
       "url": "https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3"
-    },
-    {
-      "added_at": "2023-01-12 05:18:15",
-      "album": {
-        "name": "Jagatthu",
-        "url": "https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1"
-        },
-        {
-          "name": "GRV",
-          "url": "https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Jagatthu",
-      "url": "https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30"
     },
     {
       "added_at": "2023-06-08 06:08:18",
@@ -1437,26 +1461,6 @@
       "url": "https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs"
     },
     {
-      "added_at": "2022-12-15 18:38:04",
-      "album": {
-        "name": "Kanchana",
-        "url": "https://open.spotify.com/album/6BUwtDXUkPp7yP3uplAvU7"
-      },
-      "artists": [
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
-        },
-        {
-          "name": "shi om",
-          "url": "https://open.spotify.com/artist/1E6vRpChFEVeD8sl19ZEkX"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Kanchana",
-      "url": "https://open.spotify.com/track/5k3rN09gDr1nr22wBR42zm"
-    },
-    {
       "added_at": "2023-01-12 02:48:31",
       "album": {
         "name": "Never Stop",
@@ -1475,26 +1479,6 @@
       "duration_ms": 122553,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/50n0fBqMzFSirqd0ohbO7s"
-    },
-    {
-      "added_at": "2022-10-20 05:12:02",
-      "album": {
-        "name": "Kalitha Hudugi 2.0",
-        "url": "https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU"
-      },
-      "artists": [
-        {
-          "name": "Karthik N B",
-          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
-        },
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        }
-      ],
-      "duration_ms": 226004,
-      "name": "Kalitha Hudugi 2.0",
-      "url": "https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2"
     }
   ],
   "unique_name": "Kannada Indie",

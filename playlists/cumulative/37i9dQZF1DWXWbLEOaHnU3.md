@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-252 songs - 22 hr 9 min
+253 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Silkroad \- Original Mix](https://open.spotify.com/track/03D6o1eMu48h9bJEYcYhLt) | [Kleysky](https://open.spotify.com/artist/3AIbItivbkxJK4UKSuM7GC), [Mind Void](https://open.spotify.com/artist/5e7EV7yhHZZUmaNpgsYj6G), [RIFM](https://open.spotify.com/artist/6NoWcK8Tdr1pxLbwGLGjoX) | [Silkroad](https://open.spotify.com/album/2fGG6NOsxTChxgiX74aeoe) | 5:30 | 2022-04-28 | 2022-05-30 |
 | [Smooth Operator](https://open.spotify.com/track/3wY0DLyit5UboF17RzhaTw) | [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU) | [Smooth Operator](https://open.spotify.com/album/66KT7vEoAFpht0ilpvi8cw) | 4:23 | 2022-09-23 | 2022-10-06 |
 | [Snap](https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C) | [Bizzare Contact](https://open.spotify.com/artist/6BWehK6aRgVlFZskKYzhFQ), [Pettra](https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D) | [Snap](https://open.spotify.com/album/5ujqRo695zZgy9lZvaVf6e) | 8:21 | 2022-04-22 | 2022-07-29 |
+| [Social Animal](https://open.spotify.com/track/7qzE2vuPPew5aZN7lnU5tw) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Social Animal](https://open.spotify.com/album/6AQM34fMEVRzeDfV1eaYcw) | 4:01 | 2023-05-26 |  |
 | [Solace](https://open.spotify.com/track/1Eo1mHzudnBpopkg7Xc5ua) | [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [Solace](https://open.spotify.com/album/6SuBLFp1J2FtOMubJYi68Y) | 3:46 | 2022-05-19 | 2022-07-19 |
 | [Something](https://open.spotify.com/track/1KgU8LZ7MWxBkCugjWFRJ2) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Something](https://open.spotify.com/album/30uZ7QkSe3RiIuNCiRCLWk) | 3:23 | 2022-07-07 |  |
 | [Sorry](https://open.spotify.com/track/0fFsHbbvN4HRu6XE2vrPyO) | [Hybrid Eyes](https://open.spotify.com/artist/21MJzcbUP1hzc4OYEoAPu6) | [Sorry](https://open.spotify.com/album/6uaFOgpCCszAcOJ02EI5ne) | 5:29 | 2022-06-30 | 2022-08-05 |
@@ -247,7 +248,7 @@
 | [Water Is Life](https://open.spotify.com/track/43y8VDnBiV5q9eKlSk1aoA) | [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU), [Miirage](https://open.spotify.com/artist/6w716f7d5r850erAdyJjzA) | [Water Is Life](https://open.spotify.com/album/0E6AoFodwPylN7AcgFBMJM) | 6:14 | 2022-06-10 | 2022-08-15 |
 | [Way Down](https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is) | [Cloud7](https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs) | [Way Down](https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI) | 6:19 | 2022-04-15 | 2023-08-05 |
 | [Way Down](https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Way Down](https://open.spotify.com/album/1UMYvR9XMNjp9gIxPKRHHX) | 4:18 | 2022-04-15 | 2022-07-08 |
-| [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 | 2022-09-09 |  |
+| [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 | 2022-09-09 | 2023-08-17 |
 | [We are Psychedelic \- GMS Remix](https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Killerwatts](https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt) | [Rise The Remixes](https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3) | 7:07 | 2022-06-03 |  |
 | [We Are the Future](https://open.spotify.com/track/4ufonkOulMCsKDFL9rzHvP) | [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [EMIRX](https://open.spotify.com/artist/2hCleU81yvigECFDptWndw) | [We Are the Future](https://open.spotify.com/album/1HCCzyBhwjfGxP1xpMhtnZ) | 4:17 | 2022-04-28 | 2022-04-29 |
 | [We Gonna Groove](https://open.spotify.com/track/4hg7TYiqqKeyHZMwErkJdy) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [We Gonna Groove](https://open.spotify.com/album/112Qo9MSVUDO8b3FiquvsE) | 5:11 | 2022-04-15 | 2023-01-13 |

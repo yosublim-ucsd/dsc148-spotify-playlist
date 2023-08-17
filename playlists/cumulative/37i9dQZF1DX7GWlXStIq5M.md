@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Gloria Groove
 
-494 songs - 1 day 1 hr 42 min
+495 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Quase uma Semana](https://open.spotify.com/track/4a5YIaK7qFu6T63GeYx1Ih) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Para todas as mulheres que já rimei](https://open.spotify.com/album/3ARNQjDhmh6DHZCCVTKxMt) | 4:19 | 2020-10-20 | 2022-07-29 |
 | [que pasa cntg?](https://open.spotify.com/track/2w39P6mpknbYougEyLm4la) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [que pasa cntg?](https://open.spotify.com/album/4dt9o9LvRQyYQOTgo6qX5F) | 4:32 | 2023-07-07 |  |
 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 | 2023-06-16 |  |
+| [Que Tal](https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:10 | 2023-08-16 |  |
 | [Quer Dançar Comigo?](https://open.spotify.com/track/6t5Su8EZf1C0HNSD7asjKp) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Quer Dançar Comigo?](https://open.spotify.com/album/6I8WAPnDvwJg52va0zILXE) | 2:43 | 2023-04-14 | 2023-05-06 |
 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 | 2020-10-20 | 2022-07-28 |
 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 | 2023-08-11 |  |

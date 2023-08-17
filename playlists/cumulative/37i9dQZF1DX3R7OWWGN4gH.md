@@ -2,7 +2,7 @@
 
 ### [Villain Mode](https://open.spotify.com/playlist/37i9dQZF1DX3R7OWWGN4gH)
 
-> Lately I've been dressing for revenge
+> Entering my reputation era...
 
 261 songs - 14 hr 20 min
 

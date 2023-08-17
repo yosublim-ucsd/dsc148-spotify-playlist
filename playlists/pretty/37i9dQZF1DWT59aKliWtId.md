@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,072 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,116 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,9 +124,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 114 | [RESISTANCE ROCKERS](https://open.spotify.com/track/05H3MlLAt5Fyndo7qL6tlc) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH \(deluxe edition\)](https://open.spotify.com/album/2ESrJww86pMgR7RSfvU8dM) | 3:58 |
 | 115 | [For A Moment](https://open.spotify.com/track/751gGLt9KVRg2e8JfDgHCZ) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [For A Moment](https://open.spotify.com/album/0qvMNSe6WvH8eStHB3kmfD) | 3:53 |
 | 116 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
-| 117 | [Malina](https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W) | [John Hollier](https://open.spotify.com/artist/4pZlaTD9cSG9tofu9bTYju) | [Malina](https://open.spotify.com/album/5uXL2a5ig3x5zTvRoqsFoQ) | 4:39 |
+| 117 | [Malina](https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W) | [John Hollier](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Malina](https://open.spotify.com/album/5uXL2a5ig3x5zTvRoqsFoQ) | 4:39 |
 | 118 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 119 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 120 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxmMTc2OTMyMDg5ZmEzMjhjY2E0NzAyMTlkMDQ5M2RiZGEwOTQwZGI4`
+Snapshot ID: `MCxhN2RmYTc0ZTIwYzY0MzdhOWMwOGRlN2I0MTRkYWU0YmVmYmVkNzlj`

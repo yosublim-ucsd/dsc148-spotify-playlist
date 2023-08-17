@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: Illest Morena
+> Groove to the rhythm of OPM's R&B tunes\. Cover: DĖMI
 
-138 songs - 8 hr 11 min
+140 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 | 2022-10-12 | 2023-05-03 |
 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 | 2023-04-06 |  |
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2022-10-12 | 2023-07-29 |
+| [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 |  |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 |  |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3qR1Oq85MWKg3rzeihX4S9) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Can't Get Enough](https://open.spotify.com/album/18mwJUJcczlGwT2tDej41c) | 2:44 | 2022-10-12 | 2023-07-29 |
@@ -88,7 +89,7 @@
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 | 2023-07-29 |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 | 2023-07-29 |
 | [MANATILI](https://open.spotify.com/track/1Zfwa2mECtqzy3fd97kNm5) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [MANATILI](https://open.spotify.com/album/0RMKf66jtbEHpk5tskbfws) | 2:42 | 2023-02-23 |  |
-| [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 |  |
+| [manila](https://open.spotify.com/track/3rEzXExcWwGTYJJhDBQBzn) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [manila](https://open.spotify.com/album/1mCWSwOaJOmHKyt3FAMyyJ) | 5:24 | 2022-12-14 | 2023-08-17 |
 | [Maria Hiwaga](https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Maria Hiwaga](https://open.spotify.com/album/6VCDr1sghqqQSje8YbYSqn) | 3:07 | 2023-06-26 |  |
 | [Martir](https://open.spotify.com/track/57LBLMp60RqNxO9EzXKFcX) | [Zync](https://open.spotify.com/artist/0VysruqTAcxwoltfSK7Yoc) | [Martir](https://open.spotify.com/album/4Q3r9x9a5dVe0Il1bQ99pp) | 5:14 | 2023-07-28 |  |
 | [May Iba Na Ba?](https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [May Iba Na Ba?](https://open.spotify.com/album/5j0c3ufCKiRztCGOKqmbDb) | 2:28 | 2023-06-26 |  |
@@ -108,7 +109,7 @@
 | [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 | 2023-07-29 |
 | [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 | 2023-05-18 |
-| [Paraiso](https://open.spotify.com/track/5BfDIUvbucoFiJDQCcJeNp) | [Anji Salvacion](https://open.spotify.com/artist/5dUnvFYDMwg7j5JcERaGMk) | [Paraiso](https://open.spotify.com/album/6i6wKxhKqdmxvp6doDn3lg) | 3:08 | 2023-04-21 |  |
+| [Paraiso](https://open.spotify.com/track/5BfDIUvbucoFiJDQCcJeNp) | [Anji Salvacion](https://open.spotify.com/artist/5dUnvFYDMwg7j5JcERaGMk) | [Paraiso](https://open.spotify.com/album/6i6wKxhKqdmxvp6doDn3lg) | 3:08 | 2023-04-21 | 2023-08-17 |
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 | 2023-07-29 |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 | 2023-05-18 |
 | [pasensya ka na](https://open.spotify.com/track/5sj1I1BhxUHY1NjHNiQF10) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Kris Krisla](https://open.spotify.com/artist/5cA9hnXUcnuR0IXaaHMkNJ) | [pasensya ka na](https://open.spotify.com/album/3GM7Ans54DPDt3UxWvs2Ov) | 2:55 | 2022-10-12 | 2023-07-29 |
@@ -126,6 +127,7 @@
 | [SABLAY](https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SABLAY](https://open.spotify.com/album/7cKaus2PC0X7Rp1zY3p83M) | 3:49 | 2023-02-23 | 2023-07-29 |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 |  |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
+| [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 |  |
 | [Silent Treatment](https://open.spotify.com/track/0BgSx63sdmzqSsP4zEW9WI) | [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Silent Treatment](https://open.spotify.com/album/3OhiO7r9vLYMnFLaITRSCb) | 3:41 | 2022-10-12 | 2023-07-29 |
 | [Simula](https://open.spotify.com/track/4ItjaAW8vi55Ne4Jrw0qJk) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG), [Awi Columna](https://open.spotify.com/artist/1xWBSa1TYo94akyvwYs45r), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Simula](https://open.spotify.com/album/35BXvmX3MeFe1iUM1yKiOD) | 5:35 | 2022-10-12 | 2023-07-29 |
 | [Skywalker](https://open.spotify.com/track/15IoTmtaBamQBIP6l7RAYg) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Kris Krisla](https://open.spotify.com/artist/5cA9hnXUcnuR0IXaaHMkNJ) | [Skywalker](https://open.spotify.com/album/6Q82e0VopBmYOBICsd6jHM) | 3:41 | 2022-10-12 | 2023-07-29 |

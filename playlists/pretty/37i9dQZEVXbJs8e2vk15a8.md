@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,915 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,913 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Un poco de suerte](https://open.spotify.com/track/1lvveqa2wWop6IKu7hYrJH) | [Nvscvr](https://open.spotify.com/artist/2YB75f3AI0PqcfW4kQ4kIz) | [Final Lap](https://open.spotify.com/album/6GRZoiLnmhmwmdr8klWsyW) | 4:00 |
 | 50 | [Mininas](https://open.spotify.com/track/0jE39gajhbRHxMTSMM5Ayv) | [alviiero69](https://open.spotify.com/artist/5KlD4on77awS5LFWtG3gz6), [Galee Galee](https://open.spotify.com/artist/0GDGIGcxUTNtLIQtUackNU) | [Mininas](https://open.spotify.com/album/4m7GNmiLRuo47E3E2TSL6g) | 3:23 |
 
-Snapshot ID: `NzQ1NDYzNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQ1NTQ5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

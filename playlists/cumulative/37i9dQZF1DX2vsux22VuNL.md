@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hodari, Luedji Luna
 
-260 songs - 13 hr 48 min
+262 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Posturada](https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Posturada](https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG) | 2:56 | 2022-05-23 | 2023-07-15 |
 | [Pra Lá de Bagdá](https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Griml0k](https://open.spotify.com/artist/5nu42SRKx0vVc4wwOTiq7u), [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [Pra Lá de Bagdá](https://open.spotify.com/album/1eJ59THKDjefHpU3k3I325) | 2:31 | 2022-10-28 | 2022-11-12 |
 | [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-10 | 2023-04-15 |
+| [Preta](https://open.spotify.com/track/57w75cw5ROGxHeDmZ9S0mS) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [João Carlos Martins](https://open.spotify.com/artist/5lcYXhAfA5WoaCtUXIzwNb) | [Preta](https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E) | 3:30 | 2023-08-16 |  |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [ALÉM DE LOVE](https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3) | 2:20 | 2022-09-20 | 2023-02-06 |
 | [PRIMEIRA VISTA](https://open.spotify.com/track/4hkYMXUKY6HS3JreKVj7xs) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc) | [PRIMEIRA VISTA](https://open.spotify.com/album/47lAPANo6Dr5BKnU7x0RLM) | 2:20 | 2022-05-23 | 2022-09-09 |
 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 | 2022-10-14 | 2023-07-15 |
@@ -243,6 +244,7 @@
 | [Te Peço Pra Ficar](https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Te Peço Pra Ficar](https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl) | 3:55 | 2023-06-16 |  |
 | [Te quero mais](https://open.spotify.com/track/3ISIvh8jSR6xlO3N2BdlmZ) | [Lica Del Picchia](https://open.spotify.com/artist/7FNk8Ucn7Nab1tdGgzr9Ro), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Te quero mais](https://open.spotify.com/album/37vXcFwwFQvEx9MKvZGg9o) | 3:53 | 2023-07-14 | 2023-07-29 |
 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 | 2023-06-09 |  |
+| [Te vi de canto](https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Te vi de canto](https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS) | 2:08 | 2023-08-16 |  |
 | [Telepatia](https://open.spotify.com/track/4mYq9GLiRglw3V6lztdV4e) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Telepatia](https://open.spotify.com/album/3VqbvFIVanUEBnSHnIVNHS) | 2:28 | 2022-10-14 | 2023-06-17 |
 | [Tem História Não](https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv) | [Shark](https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Hector Marks](https://open.spotify.com/artist/1UEYni0YwBH0Yax3CDhCda) | [Tem História Não](https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6) | 3:50 | 2022-05-23 | 2023-03-11 |
 | [Terapia](https://open.spotify.com/track/3sVe8QeVLcecXD2G9tyuci) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Terapia](https://open.spotify.com/album/4dvXYcnSoDoKhcwgB32ByI) | 2:14 | 2022-05-23 | 2022-08-13 |

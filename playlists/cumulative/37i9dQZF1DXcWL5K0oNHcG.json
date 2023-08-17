@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Shunaji Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: muva of Earth Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 252425,
       "name": "A Message to You Rudy (feat.Emi)",
       "url": "https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 262768,
       "name": "Buried Treasure",
       "url": "https://open.spotify.com/track/43zmYs2kSsZEruQQOPfGEG"
@@ -7505,6 +7505,28 @@
     },
     {
       "album": {
+        "name": "Fogroller",
+        "url": "https://open.spotify.com/album/7M3zU9XARi5vAoMrDbTWtA"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215251,
+      "name": "Fogroller",
+      "url": "https://open.spotify.com/track/27SQJ9SjomCECqYONTpzHe"
+    },
+    {
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
       },
@@ -8496,7 +8518,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 269346,
       "name": "Gypsy Tail",
       "url": "https://open.spotify.com/track/4yD4DkGxylJmjValoEgMHu"
@@ -9367,6 +9389,24 @@
     },
     {
       "album": {
+        "name": "I'm Scanning Things I Can't See / Dark Dancing",
+        "url": "https://open.spotify.com/album/0KwTL3GstzmHzXYVfVYpx9"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "I'm Scanning Things I Can't See",
+      "url": "https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5"
+    },
+    {
+      "album": {
         "name": "I'm So Into You",
         "url": "https://open.spotify.com/album/0FX1hF6URZr7JAtXZDHx6d"
       },
@@ -10042,7 +10082,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 249882,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/20F70y7O2HhCFbzicxPV7g"
@@ -13495,6 +13535,24 @@
     },
     {
       "album": {
+        "name": "modern gothic",
+        "url": "https://open.spotify.com/album/2GtTUSdf9nAbH8HhfuvMcJ"
+      },
+      "artists": [
+        {
+          "name": "Dave Meder",
+          "url": "https://open.spotify.com/artist/7p5palStZ7LljmbGAE4ttz"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362160,
+      "name": "modern gothic",
+      "url": "https://open.spotify.com/track/7CgY8dp3VCvdMHaNBIPXRI"
+    },
+    {
+      "album": {
         "name": "Moksha",
         "url": "https://open.spotify.com/album/7sbLf0LWsk0qmZjQVXtBMD"
       },
@@ -14132,7 +14190,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 142052,
       "name": "Nash",
       "url": "https://open.spotify.com/track/3v4frMlLHje5Vy9ZDOXBRy"
@@ -15704,6 +15762,24 @@
       "duration_ms": 393973,
       "name": "Partido Alto",
       "url": "https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33"
+    },
+    {
+      "album": {
+        "name": "IMPROMPTU",
+        "url": "https://open.spotify.com/album/6duwQzolPoRw0Y5VtyVPgm"
+      },
+      "artists": [
+        {
+          "name": "Silvan Strauss",
+          "url": "https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137892,
+      "name": "PARTNERS",
+      "url": "https://open.spotify.com/track/3jeoDM3FtcqZxaVeIwyuYO"
     },
     {
       "album": {
@@ -19099,6 +19175,28 @@
     },
     {
       "album": {
+        "name": "Spin Cycle",
+        "url": "https://open.spotify.com/album/4VOnuPVO8GGwjpkSJh1pNe"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moshe",
+          "url": "https://open.spotify.com/artist/2s9dRHHl4Djtu9BTPnfG8e"
+        },
+        {
+          "name": "Cazeux O.S.L.O",
+          "url": "https://open.spotify.com/artist/3DDfeEQnK8m0rNdimIkgNS"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275748,
+      "name": "Spin Cycle",
+      "url": "https://open.spotify.com/track/7EpC6cPzTPMTvx48uZUdZp"
+    },
+    {
+      "album": {
         "name": "Spirits Rebellious",
         "url": "https://open.spotify.com/album/0NfGLsVWWrmmx9v7IXNRQK"
       },
@@ -19970,6 +20068,24 @@
       "duration_ms": 235890,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/6oBzaAZWEktygoxfPiOx0O"
+    },
+    {
+      "album": {
+        "name": "Mud And Citrus Mix Tape",
+        "url": "https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU"
+      },
+      "artists": [
+        {
+          "name": "slowstoop",
+          "url": "https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "Superstring - Rework",
+      "url": "https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj"
     },
     {
       "album": {
@@ -21549,6 +21665,32 @@
     },
     {
       "album": {
+        "name": "The Way Things Used to Be",
+        "url": "https://open.spotify.com/album/6cHEkBVRtGTqZnAtyJp7Lx"
+      },
+      "artists": [
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        },
+        {
+          "name": "Jeremy Kittel",
+          "url": "https://open.spotify.com/artist/3uRqP5x3yw7M7lLOD4oRLz"
+        },
+        {
+          "name": "The Resonance Collective",
+          "url": "https://open.spotify.com/artist/2d2PW0dx8qY2Lk9BggblWC"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414355,
+      "name": "The Way Things Used to Be",
+      "url": "https://open.spotify.com/track/3UscXl5jHftt87jRNBVyQM"
+    },
+    {
+      "album": {
         "name": "The Wine of Astonishment",
         "url": "https://open.spotify.com/album/7cvDNBSSJQIS6zi0qUXr0p"
       },
@@ -22232,7 +22374,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 362373,
       "name": "Tower of Liars",
       "url": "https://open.spotify.com/track/5pAnfRUSaklr3KZBrzKFAl"
@@ -23952,7 +24094,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 282413,
       "name": "White Runway",
       "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
@@ -24703,6 +24845,28 @@
     },
     {
       "album": {
+        "name": "your intuition is your friend (radio edit)",
+        "url": "https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB"
+      },
+      "artists": [
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Edward Wakili-Hick",
+          "url": "https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "your intuition is your friend - radio edit",
+      "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"
+    },
+    {
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/7eSFUkHuQxvCn0VNWtfITF"
       },
@@ -24949,6 +25113,28 @@
     },
     {
       "album": {
+        "name": "Ringo Oiwake",
+        "url": "https://open.spotify.com/album/24qe2xaBO74gnnDBgOZ3qr"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295722,
+      "name": "\u308a\u3093\u3054\u8ffd\u5206",
+      "url": "https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt"
+    },
+    {
+      "album": {
         "name": "\u6d77\u6cbf\u3044\u306e\u753a / \u30bf\u30fc\u30b3\u30a4\u30ba\u30b5\u30fc\u30af\u30eb",
         "url": "https://open.spotify.com/album/2LOkXzPvLshDnM8RSeesin"
       },
@@ -25054,7 +25240,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 186857,
       "name": "\u8d85\u3072\u3082",
       "url": "https://open.spotify.com/track/1zmHeMiiOMZphW0Im9AkzW"

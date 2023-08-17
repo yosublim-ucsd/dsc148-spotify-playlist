@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -1244,6 +1244,24 @@
       "duration_ms": 408200,
       "name": "Slow Blues (Instrumental)",
       "url": "https://open.spotify.com/track/4OcIKh923cXRR6LrJJn1zo"
+    },
+    {
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408200,
+      "name": "Slow Blues - Instrumental",
+      "url": "https://open.spotify.com/track/338gCLHS88lPUfCClKkPam"
     },
     {
       "album": {

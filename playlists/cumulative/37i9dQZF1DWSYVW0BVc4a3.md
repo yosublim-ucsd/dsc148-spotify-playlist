@@ -4,7 +4,7 @@
 
 > The stomping ground\. Cover: Jeremy Olander
 
-602 songs - 1 day 23 hr 18 min
+603 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Gravity](https://open.spotify.com/track/1TbqTuBDA5jK3881s4mUEb) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Gravity EP](https://open.spotify.com/album/6JRW2nnHGWfA3ACFtQob7S) | 6:11 | 2023-02-02 | 2023-03-10 |
 | [Great Beyond](https://open.spotify.com/track/7bDmfSbYvJuPOV0JKkM4qm) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [The Great Beyond EP](https://open.spotify.com/album/675VeaTznSjELUPod9RotX) | 4:09 | 2022-11-17 | 2023-03-10 |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-11 | 2023-08-12 |
+| [Great Southern Land](https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/0BysOODMvw4P7nfZgLoNde) | 4:15 | 2023-08-10 |  |
 | [Grouplove](https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa) | 3:13 | 2022-11-24 |  |
 | [Guru](https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Guru](https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3) | 3:45 | 2023-04-13 | 2023-08-11 |
 | [Hand In Hand](https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La) | 3:51 | 2023-06-22 | 2023-07-14 |
@@ -586,7 +587,7 @@
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-06-08 | 2023-08-04 |
 | [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-03-02 | 2023-03-10 |
 | [What Is Soul? \- Joris Voorn Edit](https://open.spotify.com/track/69gpaA5rje29bYb0xs41nm) | [Rebel Youth](https://open.spotify.com/artist/3nbVbitnYOuKRBLBCMAoex), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [What Is Soul? \(30 Yrs Anniversary Remixes\)](https://open.spotify.com/album/5l25fU2OeNy6oiA1m0T2QK) | 3:18 | 2022-12-27 | 2023-01-27 |
-| [What U Doing](https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [What U Doing](https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV) | 3:49 | 2022-08-18 |  |
+| [What U Doing](https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [What U Doing](https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV) | 3:49 | 2022-08-18 | 2023-08-17 |
 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 | 2023-02-23 | 2023-03-10 |
 | [Where You Are \- Gorgon City Remix](https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Where You Are \(Gorgon City Remix\)](https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg) | 4:42 | 2023-06-08 |  |
 | [White Rooms](https://open.spotify.com/track/74qpax6CFMftabGXj3zFmm) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Teologen](https://open.spotify.com/artist/4M1LcFlXnn95AquXVUfHx8) | [White Rooms](https://open.spotify.com/album/7kmGbHAj62nkW4eBO0gz77) | 6:41 | 2022-08-18 | 2022-09-09 |

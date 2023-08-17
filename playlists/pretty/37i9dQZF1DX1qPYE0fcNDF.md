@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,106 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,099 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 21 | [Merry Xmas \(feat\. Monty\)](https://open.spotify.com/track/0XdmgBu6mvKWhzxa7qh2f1) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Merry Xmas \(feat\. Monty\)](https://open.spotify.com/album/50xt1ddKJg11xC4Y1ockqy) | 3:30 |
 | 22 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 |
 | 23 | [Santa Baby](https://open.spotify.com/track/40x0LtHNt6ksea5Si2mevO) | [The Christmas All\-Stars](https://open.spotify.com/artist/69oz4W3aGcG9pgEqb32DRA), [Joseph Simmons](https://open.spotify.com/artist/014xtb68QkLkgXtAFuZDgT), [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [A Very Special Christmas 3](https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45) | 4:02 |
-| 24 | [Christmas Rappin'](https://open.spotify.com/track/1MuEjGAGDw07ZqkuX7ea4O) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Best Of / 20th Century](https://open.spotify.com/album/3Ho2zi28ZvsE1j3uKCdMDO) | 3:55 |
+| 24 | [Christmas Rappin'](https://open.spotify.com/track/1MuEjGAGDw07ZqkuX7ea4O) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [20th Century Masters: The Best Of Kurtis Blow](https://open.spotify.com/album/3Ho2zi28ZvsE1j3uKCdMDO) | 3:55 |
 | 25 | [My Little Mama Trippin On Xmas](https://open.spotify.com/track/1nNMwW05wHul1lSYHmGM3m) | [Bad Lucc](https://open.spotify.com/artist/77kP3V3j9SPpyF5wem7tck) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 2:35 |
 | 26 | [Player's Ball](https://open.spotify.com/track/7LZDnTeLZK2OXnLsr8t8Tx) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [A Laface Family Christmas](https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi) | 4:22 |
 | 27 | [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCxhYjMwMTRhMjAwMjJmOTYyOTc4MjgwMzljYTg0OTg5YTc1MWZmMzhk`
+Snapshot ID: `MCw0OWUxZWY5Njc4ZjVjOTcxOTAyN2ZiM2MxZWVmYzNlODljMTNmZWZj`

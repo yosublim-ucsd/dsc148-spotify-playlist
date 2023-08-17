@@ -1,15 +1,15 @@
 {
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D, Potter Payper",
-  "num_followers": 1316272,
+  "num_followers": 1316593,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2JiYjEzNGM3Mjg4ZjM3ZmQxM2MyMGMzOTE2Y2I5NjgzNTdiNTc5",
+  "snapshot_id": "MCw1MDAyYjUzZjcyNzYyZjBiOThlZjYzOTdkYmZiY2E0ZDBmODVhZjA3",
   "tracks": [
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Facade",
         "url": "https://open.spotify.com/album/0Y938j5d5KXfJFfSirRXRx"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Click Of My Fingers",
         "url": "https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi"
@@ -45,7 +45,27 @@
       "url": "https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "FREE SLIME / SEXY GIRLS",
         "url": "https://open.spotify.com/album/6AJW9zpQPn7MOgxky2YeEB"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/4KzbUS6vwCexTYH7JZgAOy"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "M.A.R.K",
         "url": "https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri"
@@ -129,27 +149,23 @@
       "url": "https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4e0kgGPLifMcSLnukoUnPy"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+      "duration_ms": 128571,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2USb3AAH0FqcgmwqK8wc79"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Mandem",
         "url": "https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Pakistan",
         "url": "https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "On The Radar Freestyle",
         "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "DTB",
         "url": "https://open.spotify.com/album/7icXXSu17oor9WIvME1txz"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
@@ -245,23 +261,7 @@
       "url": "https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/4e0kgGPLifMcSLnukoUnPy"
-      },
-      "artists": [
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2USb3AAH0FqcgmwqK8wc79"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Toxic Trait",
         "url": "https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "RIDE",
         "url": "https://open.spotify.com/album/1psD1WYxz5ZvdmvJxCFTcm"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/2hd6OjcAHwQt7g18Qo6i7e"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "More Money More Problems",
         "url": "https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Scoreboard",
         "url": "https://open.spotify.com/album/1vyZt4IduBURqZBerz1KUA"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "any minute",
         "url": "https://open.spotify.com/album/67xDMKu19E87xKA76tgNJB"
@@ -377,7 +377,23 @@
       "url": "https://open.spotify.com/track/033ML0eEckRQ6sLdrJmP5J"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
+      "album": {
+        "name": "Last laugh",
+        "url": "https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "duration_ms": 175882,
+      "name": "Last laugh",
+      "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
+    },
+    {
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "One Man",
         "url": "https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Us Against the World (Remix)",
         "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Veteran",
         "url": "https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/6YtWDeoQ5lJCkQ3uAQ1gZg"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/2eNYRh1TuRum5vAMk9VLc3"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "HBK",
         "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
@@ -497,7 +513,23 @@
       "url": "https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
+      "album": {
+        "name": "Derby Day",
+        "url": "https://open.spotify.com/album/3ByrdC0Y3r0Is6P0ETdA9z"
+      },
+      "artists": [
+        {
+          "name": "Dide",
+          "url": "https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Derby Day",
+      "url": "https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh"
+    },
+    {
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "DBE World",
         "url": "https://open.spotify.com/album/4WfYG95219FVlQCHzK6c82"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/4QylNXqn9Z6IpUBi0gt77j"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Brilliant Mind",
         "url": "https://open.spotify.com/album/59FcOmk7WRkJCRrv4gQJ5e"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/2maR0wuP92sNy48SMVowzZ"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Outings",
         "url": "https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "KILOS MIX",
         "url": "https://open.spotify.com/album/3sfEoVNxf1kJ1T6KaBzH4c"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/0HTblRTEtzPswxEr0LGT8d"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Angel In The Marble",
         "url": "https://open.spotify.com/album/4atJj8AYiUEmgXq4RhySaH"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/0LIYWVeuLISkSopjKzkLjv"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "I'm From...",
         "url": "https://open.spotify.com/album/49fFfeqMUGml2t5z63iYNX"
@@ -673,7 +705,23 @@
       "url": "https://open.spotify.com/track/6aa03WX4KldjPmL4UkwdGo"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
+      "album": {
+        "name": "Diss To Dillon",
+        "url": "https://open.spotify.com/album/2iwQ0BmBAHWvJANYuraDTW"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Diss To Dillon",
+      "url": "https://open.spotify.com/track/4PThJXayS2BNIDQr3farvq"
+    },
+    {
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Scouser",
         "url": "https://open.spotify.com/album/5JdAY69WAJGWDnh84lzVCM"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/5GFOFcrxHf5bwEYI016vyL"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Neighbourhood Hero",
         "url": "https://open.spotify.com/album/1oquYifDek9GGLnd6XrhBP"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/03QtKGgldQkz00VPHiZtg1"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Go Getter (feat. M Huncho)",
         "url": "https://open.spotify.com/album/76eLGzP486W8xcfnR6FXVh"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "One Direction",
         "url": "https://open.spotify.com/album/3gH3b4tb9DXXDo3oQoUQjh"
@@ -745,7 +793,7 @@
       "url": "https://open.spotify.com/track/75B9CAbXJgMmwrT6aFTgpv"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Tony Soprano 2",
         "url": "https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Money Moves (feat. M1llionz)",
         "url": "https://open.spotify.com/album/1nMTHx2OuRtlmJuXHliBeh"
@@ -781,7 +829,7 @@
       "url": "https://open.spotify.com/track/489YFKTcNzCRp3Q1RVjlAV"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Ed Edd and Eddy",
         "url": "https://open.spotify.com/album/244DU5AOYp0dkUePtr6QsH"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/1Eo8A8UNGDeL5vDrafVHaZ"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/0oAsHg9U2yADXqDtR2GoJC"
@@ -817,7 +865,7 @@
       "url": "https://open.spotify.com/track/77w0gjrcC63Mv0kzP35uxN"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Stay The Night",
         "url": "https://open.spotify.com/album/22dVcSELjEcBV8dTYpsd0v"
@@ -837,7 +885,7 @@
       "url": "https://open.spotify.com/track/06khIWJKN5xyfPc0RfIunb"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Back Roads",
         "url": "https://open.spotify.com/album/7votxdx09a2hCokvqw36u6"
@@ -853,7 +901,7 @@
       "url": "https://open.spotify.com/track/0808GWyq2snY4C53X6CzkR"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Leeds Town",
         "url": "https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI"
@@ -873,7 +921,7 @@
       "url": "https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi"
@@ -893,7 +941,7 @@
       "url": "https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/3mbLvE8zzHD3uhFGTPA3qC"
@@ -909,7 +957,7 @@
       "url": "https://open.spotify.com/track/67d06dwsaf897D0dJl4nGz"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/0rEZoqA7p862nTPHdv1rrj"
@@ -925,7 +973,7 @@
       "url": "https://open.spotify.com/track/3QzIkFthRrFfUQ4HBqe3Bv"
     },
     {
-      "added_at": "2023-08-10 23:00:00",
+      "added_at": "2023-08-16 10:13:19",
       "album": {
         "name": "DTF",
         "url": "https://open.spotify.com/album/6RfZYwwdJPvonHEpXKH6ga"

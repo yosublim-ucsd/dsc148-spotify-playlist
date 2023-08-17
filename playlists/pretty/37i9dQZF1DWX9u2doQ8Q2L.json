@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 375320,
+  "num_followers": 375366,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWMwOTQyZWNhMmUwNmI3ZWU4Yzc3MDBmYTE5Zjg0MjdhZWNjYzk1",
+  "snapshot_id": "MCxmMzI4M2U1NjEzMGVjODIzY2YxMDRlZDQxODhiYjMyOThlMDFmNzQ4",
   "tracks": [
     {
       "added_at": "2023-08-15 15:00:00",
@@ -95,8 +95,8 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "\u6191\u4f9d",
-        "url": "https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc"
+        "name": "Hyoui",
+        "url": "https://open.spotify.com/album/5edXVTZASGctt9WqDG3aL6"
       },
       "artists": [
         {
@@ -109,8 +109,8 @@
         }
       ],
       "duration_ms": 207687,
-      "name": "\u6191\u4f9d",
-      "url": "https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu"
+      "name": "Hyoui",
+      "url": "https://open.spotify.com/track/3yV7DWdUDubdBv340T3fJz"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -204,7 +204,7 @@
       "added_at": "2023-08-15 15:00:00",
       "album": {
         "name": "Runner's High",
-        "url": "https://open.spotify.com/album/4V9BNQC0f6GlnHOQDPQWBr"
+        "url": "https://open.spotify.com/album/532ZI3CM6yvTOUFULlTpdo"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 403983,
       "name": "Runner's High",
-      "url": "https://open.spotify.com/track/6NVQIftwIwgMUQZV5RixsN"
+      "url": "https://open.spotify.com/track/6tALYM72RQ6U7r96wsgl9l"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -268,12 +268,12 @@
       "added_at": "2023-08-15 15:00:00",
       "album": {
         "name": "SPACEWALKER",
-        "url": "https://open.spotify.com/album/1BxeQ1unSwIpaT46KYIXlK"
+        "url": "https://open.spotify.com/album/5d7OLwQz7I56hjYgxoEKUr"
       },
       "artists": [
         {
-          "name": "\u5343\u8449\u525b\u4e45",
-          "url": "https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC"
+          "name": "TakehisaChiba",
+          "url": "https://open.spotify.com/artist/6tNEkLN7enKAv3isBXiyuu"
         },
         {
           "name": "Gotch",
@@ -282,7 +282,7 @@
       ],
       "duration_ms": 245000,
       "name": "SPACEWALKER",
-      "url": "https://open.spotify.com/track/5I88SwLvFI4qzSU6aOFUCv"
+      "url": "https://open.spotify.com/track/1OpTHfC6jNSBqfIhgArQXV"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "\u5927\u56e3\u5186",
-        "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "ZORN",
-          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 325851,
-      "name": "\u5927\u56e3\u5186",
-      "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+        "name": "\u5927\u56e3\u5186",
+        "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
+      "duration_ms": 325851,
+      "name": "\u5927\u56e3\u5186",
+      "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1112,7 +1112,7 @@
       "added_at": "2023-08-15 15:00:00",
       "album": {
         "name": "On&On",
-        "url": "https://open.spotify.com/album/46kx1c8pey8xocBGREIdj5"
+        "url": "https://open.spotify.com/album/228RotYYsP1zB9KNgrky21"
       },
       "artists": [
         {
@@ -1122,7 +1122,7 @@
       ],
       "duration_ms": 211445,
       "name": "On&On",
-      "url": "https://open.spotify.com/track/5mpxJR7pqqDJxuBQXl1htb"
+      "url": "https://open.spotify.com/track/47YQIiLsGbMYH25PTQrZuE"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1152,7 +1152,7 @@
       "added_at": "2023-08-15 15:00:00",
       "album": {
         "name": "\u0394",
-        "url": "https://open.spotify.com/album/4p9YWsADpDBsYl2RfOqW18"
+        "url": "https://open.spotify.com/album/3TZsIPMjf82EUqMjNb9BG6"
       },
       "artists": [
         {
@@ -1162,7 +1162,7 @@
       ],
       "duration_ms": 307358,
       "name": "aurora",
-      "url": "https://open.spotify.com/track/3TfFyMlTwIvoPBOBvzK4Fy"
+      "url": "https://open.spotify.com/track/5EzFxshZyFFCkhqLh8Gif7"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "merry-go-round",
-        "url": "https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "merry-go-round",
-      "url": "https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf"
-    },
-    {
-      "added_at": "2023-08-15 15:00:00",
-      "album": {
         "name": "apart",
         "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "Pacific Line",
-        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+        "name": "merry-go-round",
+        "url": "https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt"
       },
       "artists": [
         {
-          "name": "Kidella",
-          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 251922,
-      "name": "Pacific Line",
-      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
+      "duration_ms": 189893,
+      "name": "merry-go-round",
+      "url": "https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 197029,
       "name": "We'll be fine - English Version",
       "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+    },
+    {
+      "added_at": "2023-08-15 15:00:00",
+      "album": {
+        "name": "Pacific Line",
+        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+      },
+      "artists": [
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        }
+      ],
+      "duration_ms": 251922,
+      "name": "Pacific Line",
+      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "how many times",
+      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
+    },
+    {
+      "added_at": "2023-08-15 15:00:00",
+      "album": {
         "name": "Kimochy Season",
         "url": "https://open.spotify.com/album/2jg0b7paauECp2dSraJqul"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 183493,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
-    },
-    {
-      "added_at": "2023-08-15 15:00:00",
-      "album": {
-        "name": "Intro",
-        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "how many times",
-      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
     },
     {
       "added_at": "2023-08-15 15:00:00",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
+        "name": "honomekashi",
+        "url": "https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        },
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 221728,
+      "name": "honomekashi",
+      "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
+    },
+    {
+      "added_at": "2023-08-15 15:00:00",
+      "album": {
         "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
         "url": "https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA"
       },
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "honomekashi",
-        "url": "https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        },
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 221728,
-      "name": "honomekashi",
-      "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
-    },
-    {
-      "added_at": "2023-08-15 15:00:00",
-      "album": {
         "name": "\u02d6\u5d50\u208a\u02da\u02d1\u0f04",
         "url": "https://open.spotify.com/album/0sBf3Y2OJkD3K1Gkx96Hl0"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-15 15:00:00",
       "album": {
-        "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
-        "url": "https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX"
-      },
-      "artists": [
-        {
-          "name": "Helsinki Lambda Club",
-          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
-        }
-      ],
-      "duration_ms": 196958,
-      "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
-      "url": "https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd"
-    },
-    {
-      "added_at": "2023-08-15 15:00:00",
-      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 182000,
       "name": "\u3044\u3064\u304b\u6e1a\u3078",
       "url": "https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu"
+    },
+    {
+      "added_at": "2023-08-15 15:00:00",
+      "album": {
+        "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
+        "url": "https://open.spotify.com/album/6kmhdz9RBc5dfXl0vXEHSX"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        }
+      ],
+      "duration_ms": 196958,
+      "name": "\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u306b\u6cbf\u3063\u3066",
+      "url": "https://open.spotify.com/track/0CnzkJ43YQpKu7IbBFxwvd"
     },
     {
       "added_at": "2023-08-15 15:00:00",

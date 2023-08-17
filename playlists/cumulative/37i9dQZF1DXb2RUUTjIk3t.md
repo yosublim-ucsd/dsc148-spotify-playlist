@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-81 songs - 4 hr 27 min
+82 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Runaways](https://open.spotify.com/track/4oi3kXCodWzSAFoqPjdtpK) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Elsa Carmona](https://open.spotify.com/artist/53giw2tzgMG8eDAmuaxdvR) | [Runaways](https://open.spotify.com/album/7JyLCMKfBmMfwzn397WbWP) | 3:13 | 2022-11-30 | 2023-01-20 |
 | [Runaways](https://open.spotify.com/track/6tWR9JWEY6WZHDoQpM1CCr) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Elsa Carmona](https://open.spotify.com/artist/53giw2tzgMG8eDAmuaxdvR) | [Runaways](https://open.spotify.com/album/5sU26G6vPoN9JzT28o1nXe) | 3:13 | 2022-11-30 |  |
 | [Sabe a Tu Nombre](https://open.spotify.com/track/6l5ky8WcDeDIjgidjPNGaF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:48 | 2022-11-30 |  |
-| [safety scissors](https://open.spotify.com/track/7xYCTPtCHZ2GzvhkMzCikF) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [safety scissors](https://open.spotify.com/album/4HQRel2feVSYQrQANRE6S5) | 3:25 | 2022-11-30 |  |
+| [safety scissors](https://open.spotify.com/track/0cb5dYnNwEDb0iTBOEzZ6J) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [safety scissors](https://open.spotify.com/album/6nyyF9XVHAuQDbgE5CEtNq) | 3:25 | 2022-11-30 |  |
+| [safety scissors](https://open.spotify.com/track/7xYCTPtCHZ2GzvhkMzCikF) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [safety scissors](https://open.spotify.com/album/4HQRel2feVSYQrQANRE6S5) | 3:25 | 2022-11-30 | 2023-08-17 |
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-11-30 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-11-30 |  |
 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 | 2022-11-30 | 2023-01-14 |

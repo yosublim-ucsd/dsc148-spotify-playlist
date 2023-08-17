@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 24635,
+  "num_followers": 24685,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWI4ZGM4ZWQyM2E5YTM2MWZiOGQzYWMzYTlkNTJjMTMwZDViNGE3",
+  "snapshot_id": "MCw1NDRmYTk3MGNmYzE0OTFhN2YyZmY4OWVjZmQ4NDQwNzZkYjJhMjk3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "1 Up Top Ahk",
+        "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Sleep Walkin",
+      "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 213453,
       "name": "don\u2019t i (feat. Gunna)",
       "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "1 Up Top Ahk",
-        "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Sleep Walkin",
-      "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

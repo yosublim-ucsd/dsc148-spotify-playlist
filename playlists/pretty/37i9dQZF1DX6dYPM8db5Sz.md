@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5?si=iP71mkvdQhOoN0MQNVTKPQ">Muzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,620 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 50 | [Numb and Fronting](https://open.spotify.com/track/6jJPzgxa5nMQm0yxp1kjvC) | [The Dirty Skirts](https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP) | [Radiant Clouds](https://open.spotify.com/album/4Z1kvbrm2vp9Z5ZOyt1mde) | 3:57 |
 | 51 | [i'm gonna make it \- Kenza Remix](https://open.spotify.com/track/7r71J6drUQww0vTCgZWYIU) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [i'm gonna make it \- Remixes](https://open.spotify.com/album/4xjvfw8SS8KzfsO0muVe0o) | 3:49 |
 
-Snapshot ID: `MCw2ZmVmM2Y0Y2U0NmMwNzkyM2I2ODkzYjVlMTljMzc3NGIwYjNlYWU0`
+Snapshot ID: `MCwyYzA4NGJlYWU4YTc2MDJkOWZhZDdiMmYwNmZiMWRmNDE4ZDg1YTY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,620 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,736 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
 | 125 | [Who You Really Are](https://open.spotify.com/track/2brypwXodpUrDAidoruQt5) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Who You Really Are](https://open.spotify.com/album/35OtE4aJrZiGmTcn5yl9Ye) | 3:20 |
 
-Snapshot ID: `MCwwMjhjMGRlNzFjZTFkNTIwZWY1NDE2NjdmN2Q1Njk5ODA0ZGUyMjBl`
+Snapshot ID: `MCwzZDk2ODJhYTgxMDg0ZmIzMmJkYWVmYmUxN2I0ZGQxMDliNTRhZjU4`

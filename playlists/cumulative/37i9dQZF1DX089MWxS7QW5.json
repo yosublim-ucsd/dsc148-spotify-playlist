@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: LEAFY (\ub9ac\ud53c))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: DUT2)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -2264,6 +2264,28 @@
       "duration_ms": 200641,
       "name": "LEMON (Feat. SOLE, MINO)",
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
+    },
+    {
+      "album": {
+        "name": "Trello",
+        "url": "https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6"
+      },
+      "artists": [
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        },
+        {
+          "name": "YEOHO",
+          "url": "https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179989,
+      "name": "Let me know (Feat. YEOHO)",
+      "url": "https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5"
     },
     {
       "album": {

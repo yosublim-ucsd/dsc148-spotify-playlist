@@ -1868,7 +1868,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252865,
-      "name": "Magic Potion (feat. Lion Rezz)",
+      "name": "Magic Potion (with Lion Rezz)",
       "url": "https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC"
     },
     {
@@ -1906,6 +1906,24 @@
       "duration_ms": 323669,
       "name": "Maneater - Reggae Version",
       "url": "https://open.spotify.com/track/1OiqnA0P1YOuiNPHPYhq6V"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
     },
     {
       "album": {
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 222400,
       "name": "One Life (with Demarco)",
       "url": "https://open.spotify.com/track/2eYdqeaVgb5bDixVAhiQJO"

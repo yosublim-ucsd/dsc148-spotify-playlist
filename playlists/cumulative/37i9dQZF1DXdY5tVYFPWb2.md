@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-627 songs - 1 day 17 hr 30 min
+628 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [UNDR BLUE](https://open.spotify.com/track/3WlVSWdPofy7KJWXHDx0A6) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [UNDR BLUE](https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj) | 3:06 | 2022-08-09 | 2022-08-17 |
 | [utero](https://open.spotify.com/track/21p5MYnOKZGvJ0OKT3a1HR) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [utero](https://open.spotify.com/album/2hnGGL3rxG01Wt1WkW2i3P) | 4:48 | 2023-06-06 | 2023-06-08 |
 | [utero](https://open.spotify.com/track/3KbgSgkkK3lPLRwwmbwzSc) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [utero](https://open.spotify.com/album/1YhDLOpAS5jG9ZW9Bq1IVc) | 4:48 | 2023-06-06 | 2023-06-16 |
+| [Uzushio](https://open.spotify.com/track/0bKZoKnleOhLQj55bSaUnP) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7) | [umi](https://open.spotify.com/album/1Rd7sxdPWsDWBK45LH1PFs) | 3:14 | 2023-08-15 |  |
 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 | 2023-05-09 |  |
 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/1YXrGKtu8iNnBl1tL6EvdH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/album/0RjeR3PLe9fCu7G3bQh96v) | 3:45 | 2023-02-14 | 2023-05-13 |
 | [Venus Flytrap feat\. 佐藤千亜妃](https://open.spotify.com/track/7KRfQEpO97OMMD4Edc1YTw) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. 佐藤千亜妃](https://open.spotify.com/album/3mbtkBajQNmdtmKi6pnANY) | 3:45 | 2023-02-14 | 2023-02-16 |
@@ -479,7 +480,7 @@
 | [インコンプリート](https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [インコンプリート](https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj) | 2:05 | 2023-07-18 |  |
 | [インスピレーション](https://open.spotify.com/track/6f7a7DrnzcIxIpLQobEhgw) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [ラブエナジーモチベーション](https://open.spotify.com/album/3HGSpLv4Q6dcCgACAULrC9) | 4:27 | 2022-09-20 | 2022-09-24 |
 | [ウィークエンド・ランデヴー](https://open.spotify.com/track/0AttQzcswT34M4WSYKm70i) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF), [HIROSHI](https://open.spotify.com/artist/3mEcZGsQqfFgH7MJ3GMeYn) | [ウィークエンド・ランデヴー](https://open.spotify.com/album/4dzxDvGZE4ai8MLjZtalaN) | 3:49 | 2023-03-21 | 2023-03-29 |
-| [ウズシオ](https://open.spotify.com/track/5lKiQgkj1dBbsTDq5uRwLp) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7) | [ウミ](https://open.spotify.com/album/4LMeypr7OLpdl5UWlloh1D) | 3:14 | 2023-08-15 |  |
+| [ウズシオ](https://open.spotify.com/track/5lKiQgkj1dBbsTDq5uRwLp) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7) | [ウミ](https://open.spotify.com/album/4LMeypr7OLpdl5UWlloh1D) | 3:14 | 2023-08-15 | 2023-08-17 |
 | [エメラルドグリーンの揺らめき](https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Yin Yang](https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i) | 3:42 | 2022-05-28 | 2023-03-01 |
 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 | 2022-07-27 |  |
 | [オトナの時間](https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [オトナの時間](https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9) | 3:27 | 2023-02-28 | 2023-03-02 |

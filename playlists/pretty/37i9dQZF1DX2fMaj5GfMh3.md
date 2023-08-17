@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Alexander Stewart deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,487 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,499 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Lonelier Together](https://open.spotify.com/track/71mQBYvEjbKpp3FW5ECrQA) | [Luca Borsato](https://open.spotify.com/artist/6zdKsbFf6lk6pX4OQyRfQI) | [Lonelier Together](https://open.spotify.com/album/1o0ltkVKzcLnWSfH1NkSF5) | 2:57 |
 | 99 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
 
-Snapshot ID: `MCw1ZTZhNjg5MzU2NTg4MjZkMTU2NmNjZDBhY2QyZTgxZTM2ZTg2MzQz`
+Snapshot ID: `MCwwMDBiOWEwMmNiZGNjMWYyNTg1MjQ4NzAzMzEwZjAzMmFkMjE1OTg4`

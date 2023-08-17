@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,066 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,143 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Todo Amor do Mundo](https://open.spotify.com/track/1M9JZXjz6GCUH7VbFFBmJx) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/2oY868IbyPjEOmHjeI3dCG) | 3:06 |
 | 60 | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [A Cara do Crime 4 \(Acendo a Flor\)](https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6) | 5:08 |
 
-Snapshot ID: `MCw2ZmJiZmQ4YzQ1MzIzZDg1ZGQ0YTM0YmJjYTgzMTgwY2M2NzEzYzI3`
+Snapshot ID: `MCxhYzJkMzI2ZGM2MzJmMjQ3ZGNmMjBkMWI1MTk2MjgwMDUyYjZjYjYz`

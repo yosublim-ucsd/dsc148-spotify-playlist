@@ -2,9 +2,9 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: To The Grave
+> A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-492 songs - 1 day 7 hr 57 min
+494 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Pride No Pain](https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Southern Hostility](https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso) | 3:27 | 2021-12-17 |  |
 | [Alpha Sleep](https://open.spotify.com/track/5TJbc3YJN59ItZKwVcGQng) | [Marina](https://open.spotify.com/artist/5uHdXtqI5H3T17ovMtkqWs) | [Degrader](https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz) | 3:41 | 2021-12-17 | 2022-07-02 |
 | [Altar of Snakes](https://open.spotify.com/track/2ApG8gUmrvfMJTBGpAact8) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Altar of Snakes](https://open.spotify.com/album/3TngadNqveEE0a65Bfvbya) | 3:34 | 2021-12-17 | 2022-07-25 |
+| [Alter of Self](https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Alter of Self](https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD) | 3:09 | 2023-08-16 |  |
 | [Altered Eyes](https://open.spotify.com/track/6i2msZFGP7Tk7WiWaqzZq5) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Altered Eyes](https://open.spotify.com/album/05J7UPdqi1E7lwS9vLrFsR) | 3:54 | 2021-12-17 | 2022-07-29 |
 | [An Infidel's Dissent](https://open.spotify.com/track/4eFf2QvlAnMdxcPML5g6rb) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [An Infidel's Dissent](https://open.spotify.com/album/2aZjjvJlDBcMOVlPSBSX7d) | 4:41 | 2021-12-17 | 2022-04-09 |
 | [Anger](https://open.spotify.com/track/2vU56Ai3agKRPluvjZNDI4) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [On Death](https://open.spotify.com/album/7y8glNEJxr9kUrsIe2ZFRN) | 3:26 | 2022-07-08 |  |
@@ -159,7 +160,7 @@
 | [End Of Existence](https://open.spotify.com/track/07L1zD6CCZTaYKnbJn7O2q) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/5NyRa9KtYkqAHxdy9j5l7L) | 4:00 | 2021-12-17 | 2023-05-05 |
 | [End Of Existence](https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [End Of Existence](https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e) | 4:00 | 2023-04-28 |  |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2021-12-17 |  |
-| [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 |  |
+| [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 | 2023-08-17 |
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2021-12-17 | 2022-07-29 |
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 |  |
@@ -450,6 +451,7 @@
 | [Tide](https://open.spotify.com/track/1JxDVoe1mLYiFd2fLKv1cJ) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Tide](https://open.spotify.com/album/61zOmJrotgjaXpd9i82i3a) | 5:08 | 2021-12-17 | 2022-07-29 |
 | [Time's Up.](https://open.spotify.com/track/3JVQlolBhjkObQxqKvpX7y) | [Inventure](https://open.spotify.com/artist/4QvznpkSKdSAdbmJVfk9mS) | [Time's Up.](https://open.spotify.com/album/3JaMHKM4va22WLqzWV8AiL) | 3:22 | 2022-01-28 | 2022-04-28 |
 | [To Encompass and Eclipse](https://open.spotify.com/track/7ptg9ibcbnFjiyb4vhWNWj) | [A Trust Unclean](https://open.spotify.com/artist/7BpPtda3uaFST4caaxN2ys) | [To Encompass and Eclipse](https://open.spotify.com/album/6nEkcu3T2DCcZ9cOW7BlKr) | 4:10 | 2021-12-17 | 2022-02-01 |
+| [To the Hellfire](https://open.spotify.com/track/0O26gtfjuscAOnQobjNPPL) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [To the Hellfire](https://open.spotify.com/album/2QiAGEjud0j28idKQdsQwL) | 6:09 | 2023-08-16 |  |
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2021-12-31 | 2022-07-28 |
 | [Tower of Torsos](https://open.spotify.com/track/6RCgSGMboHdokG852OILQm) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Tower of Torsos](https://open.spotify.com/album/2bPi3VonAP6mtglL6iKtfX) | 3:29 | 2023-06-16 |  |
 | [Toxicant](https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Toxicant](https://open.spotify.com/album/6DhFyCsqxvVJOVvq0cYbiO) | 4:41 | 2022-01-14 | 2022-07-25 |
@@ -497,7 +499,7 @@
 | [Wrath of the Lamb](https://open.spotify.com/track/6n6x37r1ftyMpDRSyQ3Dbx) | [Lost Creation](https://open.spotify.com/artist/6l1pQbLXFRayZ8dHpLLBYI) | [Tales of Hatred](https://open.spotify.com/album/4NWoQ2kk1Bn9GrXkuYEyfo) | 5:25 | 2021-12-17 | 2022-04-08 |
 | [You Can't Kill Us](https://open.spotify.com/track/1GIorOlAwn81ZF5gRpThU1) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [You Can't Kill Us](https://open.spotify.com/album/4pZhwCEP2dLJmFhy8TlB3c) | 3:37 | 2022-01-14 | 2022-07-26 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-12-16 | 2023-04-29 |
-| [You Must Die](https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 2:42 | 2023-04-28 |  |
+| [You Must Die](https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 2:42 | 2023-04-28 | 2023-08-17 |
 | [Zerotonin 2](https://open.spotify.com/track/2ZsLiGgkF2Kedip9JMNigf) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502) | [Self\-Titled](https://open.spotify.com/album/7qyhP5CSj4KpC87XnHO92f) | 3:17 | 2021-12-17 | 2022-02-09 |
 | [Zombieland!](https://open.spotify.com/track/4QvMku9TtjxpLS7Xa3x804) | [ROMA JONSON](https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a), [OLD SOUL](https://open.spotify.com/artist/3asFJeOEKhiHfWckvTdbC7) | [Zombieland!](https://open.spotify.com/album/2xDsQsNrYHAVIkQS4gP1tk) | 2:01 | 2023-01-06 | 2023-01-14 |
 

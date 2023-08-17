@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Jonna Fraser",
-  "num_followers": 257732,
+  "num_followers": 257739,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNThmNjhmMTJhYzBiZGI5Nzc5MDcwNzExODZmOWE5Y2I4ODFhMzU3",
+  "snapshot_id": "MCw5YTdiMWRhZGM5YWRiZTNkZmM3YzUyMzBhYTcwYTI0OGMxZjc0MDY4",
   "tracks": [
     {
       "added_at": "2023-08-11 06:45:53",
@@ -775,30 +775,6 @@
       "duration_ms": 206881,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/2jiLo3ClaBVdDEMwbIJ25u"
-    },
-    {
-      "added_at": "2023-08-11 06:45:53",
-      "album": {
-        "name": "WEPA",
-        "url": "https://open.spotify.com/album/7pFYCPtKHzaUyJEg5WuWTM"
-      },
-      "artists": [
-        {
-          "name": "Karim Soliman",
-          "url": "https://open.spotify.com/artist/1MOT23Q8M3ijxPZBDCXrAM"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Deep Tissue",
-          "url": "https://open.spotify.com/artist/5vc7GJcrN0LOTqwfe5V13D"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "WEPA",
-      "url": "https://open.spotify.com/track/09N3QkQ7VsC4oOHDW7mfzN"
     },
     {
       "added_at": "2023-08-11 06:45:53",

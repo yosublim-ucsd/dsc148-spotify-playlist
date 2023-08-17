@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 124464,
+  "num_followers": 124514,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFhNGE2NTQ3ZmM1NGYyNmNmZmVhZmUwNGNmZTc3OTYxOGU2ZWEx",
+  "snapshot_id": "MCxmYjkzYzhkNzVlYzFhZWNkNzgxNTYxOGNhNGNhYWE2NTY0ZGQyM2Ew",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "E a\u00ed?",
-        "url": "https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Partido alto",
-      "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 214933,
       "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
       "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "E a\u00ed?",
+        "url": "https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Partido alto",
+      "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "De Volta Ao Come\u00e7o",
+        "url": "https://open.spotify.com/album/12pkA9cGBjRylnty2lkBVg"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "E Vamos \u00c0 Luta",
+      "url": "https://open.spotify.com/track/5nRbJDAiiAxP2PKA4q1OOC"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "De Volta Ao Come\u00e7o",
-        "url": "https://open.spotify.com/album/12pkA9cGBjRylnty2lkBVg"
-      },
-      "artists": [
-        {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "E Vamos \u00c0 Luta",
-      "url": "https://open.spotify.com/track/5nRbJDAiiAxP2PKA4q1OOC"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+        "name": "Samba a Dois",
+        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
       },
       "artists": [
         {
-          "name": "Candeia",
-          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
+          "name": "Samb\u00f4",
+          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Express\u00e3o do Teu Olhar",
-      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
+      "duration_ms": 156031,
+      "name": "Samba a Dois",
+      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
       },
       "artists": [
         {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+          "name": "Candeia",
+          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
         }
       ],
-      "duration_ms": 156031,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
+      "duration_ms": 214253,
+      "name": "Express\u00e3o do Teu Olhar",
+      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 272750,
       "name": "Prova Dos Nove",
       "url": "https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119253,
+      "name": "E Luxo S\u00f3",
+      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Pagode Novo",
         "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119253,
-      "name": "E Luxo S\u00f3",
-      "url": "https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Mercado das Flores",
         "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Bis - Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Dan\u00e7a Da Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sol de Ver\u00e3o 2021",
         "url": "https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 139360,
       "name": "Figa De Guin\u00e9",
       "url": "https://open.spotify.com/track/1oekqvXHit1f8Rirv9uSH7"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Bis - Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Dan\u00e7a Da Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Highly Sensitive",
-        "url": "https://open.spotify.com/album/4NdWJGDMbs59rJujsTtps5"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Sambinha Bom",
-      "url": "https://open.spotify.com/track/11Wo7FDIdA5nzBW2K3dmOS"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 171805,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Highly Sensitive",
+        "url": "https://open.spotify.com/album/4NdWJGDMbs59rJujsTtps5"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Sambinha Bom",
+      "url": "https://open.spotify.com/track/11Wo7FDIdA5nzBW2K3dmOS"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Cantoras do Brasil",
-        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
+        "name": "Samba Social Clube",
+        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
       },
       "artists": [
         {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Na Linha do Mar",
-      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
+      "duration_ms": 268026,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba Social Clube",
-        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
+        "name": "Cantoras do Brasil",
+        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 268026,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
+      "duration_ms": 192520,
+      "name": "Na Linha do Mar",
+      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
-        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Samba Jazz, de Raiz",
-      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Le\u00e3o Alado Sem Juba",
         "url": "https://open.spotify.com/album/2t1mVKPkD4ek2iGqGKjnXC"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 157329,
       "name": "\u00daltimo Carnaval",
       "url": "https://open.spotify.com/track/0wlhBQnOuZEOs9qj2zddVX"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
+        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Samba Jazz, de Raiz",
+      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Melhores Pagodes",
+        "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Fazendo as Pazes Com o Swing",
         "url": "https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 190880,
       "name": "Pode Ser",
       "url": "https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Melhores Pagodes",
-        "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Conto De Areia",
-      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Tudo Est\u00e1 Dito",
         "url": "https://open.spotify.com/album/0BEAmLlAloIAJs6CvbzV53"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 181680,
       "name": "Sambolento",
       "url": "https://open.spotify.com/track/1GeRxVfYcd37eU6RswEK7M"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Conto De Areia",
+      "url": "https://open.spotify.com/track/0Yf0TarIRTEyOwwC14rbJk"
     },
     {
       "added_at": "2023-08-04 03:01:00",

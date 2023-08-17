@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u?si=edb18f0406944953">Jarv Dee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,983 likes - 51 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,989 likes - 51 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 50 | [Hot Topic](https://open.spotify.com/track/0p0zlykz8UuMoaAdDEbVT2) | [ScooterTheMenace](https://open.spotify.com/artist/4zy9I6HMQfwxA9wzWMLFGT) | [Hot Topic](https://open.spotify.com/album/2sB5H2Xpi3KGjNeTZFu1nJ) | 2:38 |
 | 51 | [CATCH N GRAB](https://open.spotify.com/track/5nhlBWdu3hmxIck79gDNx0) | [Yung JerJer](https://open.spotify.com/artist/3J2Nl3AI153jzpiSzhUAXE), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52) | [CATCH N GRAB](https://open.spotify.com/album/4BXnQCw0zmER3vvNa1BRk1) | 1:39 |
 
-Snapshot ID: `MCw5MTc1ODdlOTQzMTQ3OTQzZGFlNmQ0ZDVmNjcwMzE1ZDUwZjRkYzBi`
+Snapshot ID: `MCwxOGIzNWE4YmZhNDQyYzEzYjg1ZTU3NzdlZTM5YzU5YWFhOTM0ZjEz`

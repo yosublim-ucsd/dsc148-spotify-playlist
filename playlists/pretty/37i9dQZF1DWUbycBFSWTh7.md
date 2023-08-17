@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,720 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,744 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 57 | [Strangers \- Coeo House Mix](https://open.spotify.com/track/5c69DeVjQcfW2kHzccyo3b) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Remix EP](https://open.spotify.com/album/6pcOgtpIJqA78cgNVBsQx4) | 5:03 |
 | 58 | [Dem Good Ol' Days \- extended mix](https://open.spotify.com/track/5jXdOuboeHKtWYNBmJIkxy) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 6:47 |
 | 59 | [More Love \- Edit](https://open.spotify.com/track/587merZ6HZx128D6URmP7h) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/2JC0aWxKNGe3pNnEWF8S6R) | 3:39 |
-| 60 | [Bass Down Low](https://open.spotify.com/track/3GfMGyrJmOy4VS8E8KdiSr) | [Nas Elmes](https://open.spotify.com/artist/3Er81tOz91W4ND6HmrRh4S) | [Bass Down Low](https://open.spotify.com/album/5VqkverzO9UzAqafcEtBmw) | 2:54 |
+| 60 | [Bass Down Low](https://open.spotify.com/track/58kAv3YjZckij59uJKbkk2) | [Nas Elmes](https://open.spotify.com/artist/3Er81tOz91W4ND6HmrRh4S) | [Bass Down Low](https://open.spotify.com/album/5Q6MIKbUW2XZW5IQFSQsJJ) | 2:54 |
 | 61 | [Time To Smoke](https://open.spotify.com/track/685lvGCiR57tNoIZSZHyNX) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo) | 8:46 |
 | 62 | [Untitled 22](https://open.spotify.com/track/50nbGtwxI2Mh5F4ws6RDQQ) | [Lütfen](https://open.spotify.com/artist/1qlFKa9iV8aQ0t3oAHWueJ) | [7PM in Leyton](https://open.spotify.com/album/3Kagi9QtW8Gw46KAHqeM2C) | 4:47 |
 | 63 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 |
 | 100 | [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 |
 
-Snapshot ID: `MCxkNjhmMWZkYjRmY2VkYmY1ZDkwYWZmM2YxMzcwNTU4NWFiZDE1OGM4`
+Snapshot ID: `MCxhYTI3YWQ5OGI3YWVlYjNkYTFhMWQzMzIwYTlmNWZkYmM4ZGMwMzVl`

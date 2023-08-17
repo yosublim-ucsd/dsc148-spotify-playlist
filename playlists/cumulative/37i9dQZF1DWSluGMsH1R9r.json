@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 129190,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG"
@@ -4291,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
+    },
+    {
+      "album": {
         "name": "Larissa",
         "url": "https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4"
       },
@@ -5065,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
+    },
+    {
+      "album": {
         "name": "Marginal Way",
         "url": "https://open.spotify.com/album/4rbI0VO0b720o9jaz4686h"
       },
@@ -5274,7 +5310,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 162032,
       "name": "Memorialize",
       "url": "https://open.spotify.com/track/08OA5MVsPdfmNqsFojGdNR"

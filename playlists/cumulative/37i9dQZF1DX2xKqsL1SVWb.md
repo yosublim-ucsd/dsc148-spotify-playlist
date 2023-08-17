@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel\. Agris en portada.
 
-137 songs - 7 hr 43 min
+138 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 | 2022-04-20 | 2023-04-01 |
 | [Lo Mágico \- Acústico](https://open.spotify.com/track/39aXU64OoiRzFB3J2swIs7) | [Chucho Nave](https://open.spotify.com/artist/2HzCdz4inInXUvCs5LYZK9) | [Lo Mágico \(Acústico\)](https://open.spotify.com/album/7cpt7cv64rdDcdNw8gC6Jw) | 2:45 | 2022-04-20 | 2023-04-01 |
 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-27 | 2022-09-03 |
-| [Luces De Ti](https://open.spotify.com/track/4L8Cl4jcsIgJp9rSFOHYDx) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 8:34 | 2022-04-20 |  |
+| [Luces De Ti](https://open.spotify.com/track/4L8Cl4jcsIgJp9rSFOHYDx) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 8:34 | 2022-04-20 | 2023-08-17 |
+| [Luces De Ti](https://open.spotify.com/track/6GQJR8ZiVXv07Oe8ZPO9ig) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 8:34 | 2023-07-07 |  |
 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 | 2022-04-20 | 2023-05-06 |
 | [Madrugada](https://open.spotify.com/track/2esyy225SIYK4efujrFuCN) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Madrugada](https://open.spotify.com/album/44RdkE01J8cGJeWFjq4mPT) | 3:16 | 2022-04-20 | 2022-09-03 |
 | [Marchita](https://open.spotify.com/track/4ssiDVjy91Tu01d10B3HKJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2ckauYG3tgO129u2lqREdh) | 3:46 | 2022-04-20 | 2022-06-28 |

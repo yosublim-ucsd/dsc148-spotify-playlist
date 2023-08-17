@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Cristian D
 
-655 songs - 1 day 5 hr 28 min
+656 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 | 2023-06-08 |  |
 | [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 | 2023-06-15 |  |
 | [Winning Team](https://open.spotify.com/track/6KnsJTVunEc9aihFMpFfo0) | [Kya](https://open.spotify.com/artist/4C9S9vrrPc9RWGeA5X9jAr), [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Young Kenna](https://open.spotify.com/artist/5QoSznhAca8PkGBTsqbB56) | [Winning Team](https://open.spotify.com/album/68hZTo5JXO11KOJTGXzSOc) | 2:41 | 2022-10-13 | 2022-11-11 |
+| [With You](https://open.spotify.com/track/6aemWEIvOwTMmd9NsMcUVX) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [With You](https://open.spotify.com/album/2IQ5FcPGXGwNtVFjRIDhrI) | 2:24 | 2023-08-16 |  |
 | [XXX](https://open.spotify.com/track/188lK7l7SN2LhEj6NE46af) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [XXX](https://open.spotify.com/album/1zDxfWStcuzQ61UWZ6qJrX) | 1:52 | 2022-10-27 | 2022-11-26 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-27 |  |
 | [Yaad Meri](https://open.spotify.com/track/5oNCkHYZugVdtHOtKDvKxc) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Smahlo](https://open.spotify.com/artist/108TJaya0ebqLfTfs9Wek1) | [Yaad Meri](https://open.spotify.com/album/2whSY40DGijkTIXEUeXZ4C) | 3:13 | 2022-11-17 | 2022-12-09 |

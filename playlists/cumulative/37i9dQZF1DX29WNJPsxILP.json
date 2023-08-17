@@ -1692,6 +1692,28 @@
     {
       "album": {
         "name": "Vision",
+        "url": "https://open.spotify.com/album/5j1Pzsq3CPv0RncydCxruK"
+      },
+      "artists": [
+        {
+          "name": "Bella",
+          "url": "https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG"
+        },
+        {
+          "name": "Trapperx",
+          "url": "https://open.spotify.com/artist/4lPuejLfxGcBAOW7T9b4mk"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/7ofZEj1C0eRIvUFGfP1p6n"
+    },
+    {
+      "album": {
+        "name": "Vision",
         "url": "https://open.spotify.com/album/4AXQtW5MR4oALknVaBo17v"
       },
       "artists": [
@@ -1706,7 +1728,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 182701,
       "name": "Vision",
       "url": "https://open.spotify.com/track/2Qp5dHlYVhl0jPteM1ihEI"

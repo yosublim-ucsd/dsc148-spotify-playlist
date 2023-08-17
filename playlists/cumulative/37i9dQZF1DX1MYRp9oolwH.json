@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 200113,
       "name": "Gundellonaa (From \"Ori Devuda\")",
       "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
@@ -1705,6 +1705,32 @@
     },
     {
       "album": {
+        "name": "Manase Marala Marala (From \"Sandeham\")",
+        "url": "https://open.spotify.com/album/7C4Tqmv5M23nwU5UO09ckg"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. Pranati",
+          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
+        },
+        {
+          "name": "Subhash Anand",
+          "url": "https://open.spotify.com/artist/2NP78xB5UtgQ5iXu8lpBip"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211060,
+      "name": "Manase Marala Marala (From \"Sandeham\")",
+      "url": "https://open.spotify.com/track/3sTqB033Q4oBQJqOMs5IvL"
+    },
+    {
+      "album": {
         "name": "Samudram Chittabbai",
         "url": "https://open.spotify.com/album/1KIMT9VSR4UCR1XRWYIMYS"
       },
@@ -1738,7 +1764,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
@@ -2593,6 +2619,36 @@
     },
     {
       "album": {
+        "name": "Prem Kumar",
+        "url": "https://open.spotify.com/album/0wQsbRIgvDzBu3hIYaqLMK"
+      },
+      "artists": [
+        {
+          "name": "S. Anant Srikar",
+          "url": "https://open.spotify.com/artist/5KbUgwaQNMhwUJpk5FBttL"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Nuvve Leni Lokame",
+      "url": "https://open.spotify.com/track/7EFaNHilj0K7XRx1wkez6V"
+    },
+    {
+      "album": {
         "name": "Nuvve Nuvve (From \"Ramabanam\")",
         "url": "https://open.spotify.com/album/2yKdUMH1MO1smCKe0Rmkz5"
       },
@@ -2928,7 +2984,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 237000,
       "name": "Pilla Padesaave",
       "url": "https://open.spotify.com/track/4veuanALTmuopcDBoYsoLI"
@@ -3338,6 +3394,32 @@
       "duration_ms": 180000,
       "name": "Sundari",
       "url": "https://open.spotify.com/track/33Zy0FUe3RqtX2FiOTwNi8"
+    },
+    {
+      "album": {
+        "name": "Gangs Of Godavari",
+        "url": "https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202401,
+      "name": "Suttamla Soosi",
+      "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
     },
     {
       "album": {

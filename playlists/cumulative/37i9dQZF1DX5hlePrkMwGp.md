@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-59 songs - 3 hr 55 min
+60 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7) | 4:20 | 2021-08-02 |  |
 | [Engadi Porandha](https://open.spotify.com/track/5RP7NIFbpQHqPLTe5dpxet) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 3:25 | 2021-08-02 |  |
 | [Enna Solla \- The New Life of Tamizh](https://open.spotify.com/track/2109dBho14Lqh2wr8goqAP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Thangamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6L4ZkUiJTwo2e1E9e31ds3) | 3:35 | 2021-08-02 |  |
-| [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 | 2021-08-02 |  |
+| [Gaandakannazhagi](https://open.spotify.com/track/5EtnBEvjKuvyzzQqhfw41K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Bj4MDh9Mva78pPMXuAN31) | 4:03 | 2021-08-02 |  |
+| [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 | 2021-08-02 | 2023-08-17 |
 | [Hey Vasom Vodka](https://open.spotify.com/track/48uvRujvX9cPvQh2W7GSKp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Vaalu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LfwgK1iDVDHRwvL6sxLrY) | 3:52 | 2021-08-02 | 2022-07-25 |
 | [I'm so Cool](https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb) | 3:49 | 2021-08-02 | 2022-07-29 |
 | [Idhayane](https://open.spotify.com/track/0If3UxapVCA0NUKgpJkpaj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:42 | 2021-08-02 |  |

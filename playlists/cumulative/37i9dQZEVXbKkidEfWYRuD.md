@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,189 songs - 2 day 7 hr 2 min
+1,190 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2022-02-26 | 2022-03-22 |
 | [Oy U Luzi Chervona Kalyna \- Army Remix](https://open.spotify.com/track/6nl2T8YjOdFFnQ4xBHXfdm) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Oy U Luzi Chervona Kalyna \(Army Remix\)](https://open.spotify.com/album/3riNyOCELrhv7e6VxRzPWt) | 3:06 | 2022-03-27 | 2022-06-07 |
 | [PABLO](https://open.spotify.com/track/6g2r8GK0vQz2xHBeMeBJth) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:53 | 2021-05-22 | 2021-07-08 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-16 |  |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-06 |
 | [Paranoia](https://open.spotify.com/track/2iZIGRH6WG9xnxDfYfCKRS) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [FRESCO](https://open.spotify.com/artist/1y7Z43CechG6wRW27zTxJQ) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:41 | 2021-04-11 | 2021-04-13 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-05-22 |
@@ -507,7 +508,7 @@
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
 | [Skamming Shit](https://open.spotify.com/track/4M2O9at0fryRSQYVh3MgdK) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Ugly Muzik, Vol\. 1](https://open.spotify.com/album/5iy37OOKJOG3ts8th3dsdj) | 1:40 | 2021-03-27\* | 2021-05-22 |
 | [Ski Ski](https://open.spotify.com/track/7wsRLhIqlDCZ6iFYaXw7O1) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:55 | 2022-08-13 | 2022-08-17 |
-| [skyline ryodan](https://open.spotify.com/track/4ststUuYxArgyAl3INmQUg) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [jzxdx](https://open.spotify.com/artist/0ZOhCwxnsNQwEbnHgtXfx7) | [skyline ryodan](https://open.spotify.com/album/2946ME8Qq8jZ0ONyqtSW7a) | 2:00 | 2023-05-27 |  |
+| [skyline ryodan](https://open.spotify.com/track/4ststUuYxArgyAl3INmQUg) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o), [jzxdx](https://open.spotify.com/artist/0ZOhCwxnsNQwEbnHgtXfx7) | [skyline ryodan](https://open.spotify.com/album/2946ME8Qq8jZ0ONyqtSW7a) | 2:00 | 2023-05-27 | 2023-08-17 |
 | [SLEEPKNOT](https://open.spotify.com/track/0bUTovzE275S4sfnJU1DMw) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [SLEEPKNOT](https://open.spotify.com/album/6uGFJwioCBRo5SmLgZFaoD) | 2:02 | 2021-12-12 | 2021-12-19 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2022-01-01 | 2022-01-03 |
 | [Slime Love](https://open.spotify.com/track/36W02sCbiFy6lQTEHCV7Ci) | [uglystephan archive](https://open.spotify.com/artist/4De9u0pfKn6Eu4qSZgDnKZ) | [Slime Love](https://open.spotify.com/album/0CztyGcRJxeiQxekV49lst) | 3:08 | 2021-07-28 | 2021-08-29 |

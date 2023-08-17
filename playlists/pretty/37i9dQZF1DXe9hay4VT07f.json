@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Byron Messia",
-  "num_followers": 410145,
+  "num_followers": 410348,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTI2YWUwZWZmYmM4MWQyMDVkYzY5MWE0M2Q5NGVmOGY1MzhjOTFl",
+  "snapshot_id": "MCwxMTk3NTQ0MGM3Yjg4MDJhNTc1YTFjY2VlZjQzZTljNmEyZDc0Zjk3",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Queen Radio: Volume 1",
         "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 138567,
       "name": "Likkle Miss (with Skeng) - Remix",
       "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Crawsis",
+        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Shaneil Muir",
+          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
+        }
+      ],
+      "duration_ms": 173740,
+      "name": "Crawsis",
+      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Yeah Yeah - Single",
         "url": "https://open.spotify.com/album/06VDs9femy3MeVVhGyFJ0i"
       },
@@ -1603,22 +1623,6 @@
       "duration_ms": 222222,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/5I6zA18QlsgGLwdcS0OKZI"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1659,26 +1663,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Dunce Barbie",
-        "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
-      },
-      "artists": [
-        {
-          "name": "Armanii",
-          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
-        }
-      ],
-      "duration_ms": 165564,
-      "name": "DUNCE BARBIE",
-      "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "GPP",
         "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
@@ -1695,6 +1679,26 @@
       "duration_ms": 193958,
       "name": "GPP",
       "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Dunce Barbie",
+        "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "duration_ms": 165564,
+      "name": "DUNCE BARBIE",
+      "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1731,22 +1735,18 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Crawsis",
-        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
       "artists": [
         {
           "name": "450",
           "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Shaneil Muir",
-          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
         }
       ],
-      "duration_ms": 173740,
-      "name": "Crawsis",
-      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-08-03 23:00:00",

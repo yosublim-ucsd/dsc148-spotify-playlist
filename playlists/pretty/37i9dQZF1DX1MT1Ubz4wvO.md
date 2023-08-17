@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con FrioLento en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,591 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,599 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Orein Orain](https://open.spotify.com/track/4PvOHJvFi26ZFhEKcBJDSq) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Orein Orain](https://open.spotify.com/album/3cvpcBMgKFQDsrySYdRPrD) | 3:49 |
 | 50 | [La primera vez](https://open.spotify.com/track/12JhTEP8ejqMEHIvhIxPvr) | [Alejandro Ferradas](https://open.spotify.com/artist/7ePb9NPX66NulKDikcd0yf), [Samantha Navarro](https://open.spotify.com/artist/42bSW87StWghA8hysIh96X) | [La primera vez](https://open.spotify.com/album/6YhE42E4ixh34Ammg8qysz) | 3:13 |
 
-Snapshot ID: `MCw3OTExMjJkM2IzNWMxYzMyNTE3YWZjYWJiMzRlMDE0ZmViM2Y3NjU4`
+Snapshot ID: `MCw3NzhmOTVlZjNmZjM2YmJiM2MwODhiMjFkZDFiOGJiMDhmZTM2ODgx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Sasha(\uc0ac\uc0e4)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Leellamarz(\ub9b4\ub7ec\ub9d0\uc988)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 178013,
       "name": "23 Pt.2",
       "url": "https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 188162,
       "name": "Chuck Taylor (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/5DK0Sa8LnaitE7CjyGUTti"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 172821,
       "name": "HIT N\" RUN",
       "url": "https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 171653,
       "name": "iPod NANO (feat. Ji Chanel)",
       "url": "https://open.spotify.com/track/19RFI7k27iXe4Eitec1nX2"
@@ -6777,6 +6777,28 @@
     },
     {
       "album": {
+        "name": "LIVE CLASSIC",
+        "url": "https://open.spotify.com/album/7vqCpGJ8nH8s2X9Dz1lCtZ"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "LIVE CLASSIC (with Lotte Castle)",
+      "url": "https://open.spotify.com/track/4NyUA8nLOEPMBdkJBg21kC"
+    },
+    {
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -7172,7 +7194,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 189400,
       "name": "Margiela (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/3PwWle1uaXwtaxDcXn75ue"
@@ -7730,7 +7752,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 210870,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
@@ -8608,6 +8630,28 @@
       "duration_ms": 160828,
       "name": "OKAY (Feat. Swings)",
       "url": "https://open.spotify.com/track/4azqExDJLlQBhiSTuGi4yC"
+    },
+    {
+      "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "album": {
@@ -11686,7 +11730,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
@@ -12116,7 +12160,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-17",
       "duration_ms": 156733,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4sR5cIxhgpCuQ3ERxrx5My"
@@ -12392,6 +12436,24 @@
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
+    },
+    {
+      "album": {
+        "name": "untitled 1",
+        "url": "https://open.spotify.com/album/59QQcQnIjJAiKCFUhoeID3"
+      },
+      "artists": [
+        {
+          "name": "Hanul Lee",
+          "url": "https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203386,
+      "name": "untitled 1",
+      "url": "https://open.spotify.com/track/5bxnGZhG83y4VCwimcMQwf"
     },
     {
       "album": {

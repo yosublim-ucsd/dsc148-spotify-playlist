@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 63621,
+  "num_followers": 63656,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTkzZmU3YTMwZDA4Mzg0NGY1NjJlY2NkYTg4ZDJhOWVhMzA5YTI1",
+  "snapshot_id": "MCwzMTk3MGYwZTY1OTZiYzU1YzU4NGQ3NzRjZGIzZThiM2JkZWE5NmQ3",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+        "name": "Cansei De Ser Sexy",
+        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
         }
       ],
-      "duration_ms": 259733,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
+      "duration_ms": 187026,
+      "name": "Music Is My Hot, Hot Sex",
+      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -603,22 +619,6 @@
       "duration_ms": 247826,
       "name": "Nights Off",
       "url": "https://open.spotify.com/track/7kw4p4Nrs48BtlldKEBSUQ"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Cansei De Ser Sexy",
-        "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
-      },
-      "artists": [
-        {
-          "name": "CSS",
-          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Music Is My Hot, Hot Sex",
-      "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
     },
     {
       "added_at": "2022-08-24 22:29:13",

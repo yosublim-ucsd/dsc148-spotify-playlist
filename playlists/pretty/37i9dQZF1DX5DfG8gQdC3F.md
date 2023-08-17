@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Olivia Rodrigo, DJ Khaled, Alexander Stewart and AP Dhillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,375 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,372 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [11 Août](https://open.spotify.com/track/1FaJnFsFOwu0sSGhbZ9mEI) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [11 Août](https://open.spotify.com/album/1lBY7Yb5DI11kXBiBPED08) | 3:47 |
 | 100 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCwzYWQxYjk3NmExZTA5NjBlYWMwYjczY2VlYzJjMzE4ZGU4NjZkY2E0`
+Snapshot ID: `MCwyYjk3NjRjZjJkZTRkYjU2YmFhZGRjMGVhMWEwNTI2ZTlkZTIxOWQ3`

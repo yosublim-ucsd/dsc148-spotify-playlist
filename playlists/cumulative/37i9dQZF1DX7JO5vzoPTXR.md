@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:76KihzDzdR7li8RPVY50EA">Kirnbauer</a>,  <a href="spotify:artist:7lSGnBub2g8JGbNDgmrXsJ">Joaquina Mertz</a>, <a href="spotify:artist:3kN2uYBnEM2IqRxa69sxkr">Noa Sainz</a> + <a href="spotify:artist:4YJQjp0wW8B5luWzPOcHrG">María Centeno</a>.
 
-680 songs - 1 day 13 hr 33 min
+681 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Sweet](https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad](https://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI) | 3:42 | 2022-01-05 | 2022-02-03 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-11-09 | 2023-02-02 |
 | [Talking to Myself](https://open.spotify.com/track/2pkokaYtH8GH8Ucm1hsIFa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Journey to the Center of Myself, Vol\. 4](https://open.spotify.com/album/1RpisZ9PAj3cSrgMsxzFq3) | 2:33 | 2022-04-06 | 2022-05-05 |
+| [Tangerine](https://open.spotify.com/track/6Q99dAlAFm2hJXqEcerjnc) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Berry \(Deluxe\)](https://open.spotify.com/album/27EcLmIULpRUx8U5R0Dj1j) | 2:55 | 2023-08-02 |  |
 | [Teeth](https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj) | 3:09 | 2022-03-08 | 2022-04-07 |
 | [Tell Meh](https://open.spotify.com/track/6H91nAFa5XRSRpf0BffLE4) | [Comfy Bella](https://open.spotify.com/artist/78h0Yr3AVMbIbUw4vMYwuH) | [Tell Meh](https://open.spotify.com/album/6ydH8sJeVoq4epHnsNILJg) | 4:37 | 2021-12-08 | 2022-01-06 |
 | [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2022-03-08 | 2022-04-07 |

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-462 songs - 1 day 7 hr 23 min
+463 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,8 @@
 | [サマーグラビテイション](https://open.spotify.com/track/7GhXteapKbecIMb7UMN1Wc) | [夜道 雪](https://open.spotify.com/artist/6oMGPWkY4vObBb7w3LDWYO) | [サマーグラビテイション](https://open.spotify.com/album/1LS9eF8n7L6vqzN7eqvPfA) | 4:36 | 2022-07-19 | 2022-07-28 |
 | [サンタになりたい](https://open.spotify.com/track/7rLcsWvwvY4veaaxX0AVRE) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [サンタになりたい](https://open.spotify.com/album/5ikaZleIZErtAzbav5BVSL) | 5:15 | 2022-06-12 | 2022-07-27 |
 | [シュワシュワ](https://open.spotify.com/track/2NouNL5vO1emjt0OQWqUi6) | [Three Loop](https://open.spotify.com/artist/3wT5dW0Vqo2dYd0jCwIA20) | [TVアニメ「スローループ」エンディングテーマ シュワシュワ](https://open.spotify.com/album/28Cb4Rt0SGnbNjIoGXRswY) | 4:24 | 2022-06-12 | 2022-07-27 |
-| [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-15 |  |
+| [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-15 | 2023-08-17 |
+| [シュワワ！](https://open.spotify.com/track/7HxdpnKnRzwF2yrul6ImwI) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/2Vuig2PLLt74S87vgk1e8W) | 3:42 | 2023-08-15 |  |
 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 | 2023-04-11 | 2023-06-14 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-09 | 2022-07-29 |
 | [スターリア](https://open.spotify.com/track/2QlpNoq4QmRwZvDEnD4J5M) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/4aUsTPDouQEWVY6SDkTeCY) | 5:03 | 2022-06-24 | 2022-07-28 |
